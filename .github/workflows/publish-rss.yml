@@ -1,0 +1,107 @@
+name: Update translated RSS
+
+on:
+  schedule:
+    # Avoid the top of the hour, when scheduled Actions are commonly delayed.
+    - cron: '7,37 * * * *'
+  workflow_dispatch:
+    inputs:
+      initialize:
+        description: Allow an empty state when Pages has not been deployed yet
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: rss-pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Restore current published state
+        env:
+          PAGES_BASE_URL: ${{ steps.pages.outputs.base_url }}
+          ALLOW_EMPTY_STATE: ${{ inputs.initialize }}
+        run: |
+          set -eu
+          cache_buster="${GITHUB_RUN_ID}-${GITHUB_RUN_ATTEMPT}"
+          if curl --fail --silent --show-error --location \
+              --header 'Cache-Control: no-cache' \
+              "${PAGES_BASE_URL}/translated.json?v=${cache_buster}" \
+              --output translated.json.next \
+            && curl --fail --silent --show-error --location \
+              --header 'Cache-Control: no-cache' \
+              "${PAGES_BASE_URL}/translated.xml?v=${cache_buster}" \
+              --output translated.xml.next; then
+            mv translated.json.next translated.json
+            mv translated.xml.next translated.xml
+            echo 'Restored the previous published state.'
+          else
+            rm -f translated.json.next translated.xml.next
+            if [ "${ALLOW_EMPTY_STATE:-false}" = 'true' ]; then
+              if [ -f initial-state/translated.json ] && [ -f initial-state/translated.xml ]; then
+                cp initial-state/translated.json translated.json
+                cp initial-state/translated.xml translated.xml
+                echo 'No published state found; restored the repository initial-state seed.'
+              else
+                rm -f translated.json translated.xml
+                echo 'No previous or seeded state found; initializing an empty state.'
+              fi
+            else
+              echo 'State restore failed. Refusing to retranslate from an empty state.' >&2
+              echo 'For the first deployment, run this workflow manually with initialize enabled.' >&2
+              exit 1
+            fi
+          fi
+
+      - name: Fetch and translate once
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TRANSLATE_MODEL: gpt-5.4-mini
+          MAX_ITEMS_PER_FEED: 100
+          PUBLIC_FEED_URL: ${{ steps.pages.outputs.base_url }}/translated.xml
+        run: npm run once
+
+      - name: Prepare Pages artifact
+        run: |
+          mkdir -p _site
+          cp translated.xml translated.json _site/
+          touch _site/.nojekyll
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+          retention-days: 1
+          include-hidden-files: true
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

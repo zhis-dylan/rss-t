@@ -1,0 +1,23 @@
+{
+  "name": "rss-t",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Translate RSS feeds into Traditional Chinese and publish an RSS 2.0 feed.",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "once": "node src/index.js --once",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "he": "^1.2.0",
+    "openai": "^5.20.3",
+    "rss-parser": "^3.13.0",
+    "xmlbuilder2": "^4.0.3"
+  }
+}

@@ -1,0 +1,9 @@
+node_modules/
+.env
+translated.json
+translated.xml
+!initial-state/
+!initial-state/translated.json
+!initial-state/translated.xml
+*.tmp
+.DS_Store
