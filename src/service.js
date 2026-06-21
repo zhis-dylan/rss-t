@@ -3,6 +3,7 @@ import { readFile } from 'node:fs/promises';
 import { atomicWrite, readJson, validateFeeds, validateState } from './files.js';
 import { buildRss, parseRss } from './rss.js';
 import { readableText, removeSourceFooter } from './text.js';
+import { extractImage } from './image.js';
 
 const emptyState = () => ({ version: 2, translated: [] });
 
@@ -41,7 +42,18 @@ function migrateLegacyState(state, feeds, xmlItems) {
   return legacyItems.length > 0 ? legacyItems : xmlItems;
 }
 
-export async function runOnce(config, { parser = new Parser(), translateBatch, logger = console, now = () => new Date() } = {}) {
+export function createFeedParser() {
+  return new Parser({
+    customFields: {
+      item: [
+        ['media:content', 'mediaContent', { keepArray: true }],
+        ['media:thumbnail', 'mediaThumbnail', { keepArray: true }]
+      ]
+    }
+  });
+}
+
+export async function runOnce(config, { parser = createFeedParser(), translateBatch, logger = console, now = () => new Date() } = {}) {
   const feeds = validateFeeds(await readJson(config.feedsPath));
   const loadedState = validateState(await readJson(config.statePath, emptyState()));
   const xmlItems = await readExistingXml(config.outputPath);
@@ -69,7 +81,8 @@ export async function runOnce(config, { parser = new Parser(), translateBatch, l
       feed = await parser.parseURL(source.url);
     } catch (error) {
       failed += 1;
-      logger.error(`[feed] ${source.name}: ${error.message}`);
+      logger.error(`[error] ${source.name}: fetch failed: ${error.message}`);
+      logger.info(`[feed] ${source.name}: added=0 removed=0 status=fetch-failed`);
       continue;
     }
 
@@ -102,7 +115,8 @@ export async function runOnce(config, { parser = new Parser(), translateBatch, l
         link: item.link,
         pubDate: item.isoDate ?? item.pubDate ?? '',
         title: readableText(item.title),
-        description: readableText(item.contentSnippet ?? item.description ?? item.content ?? '')
+        description: readableText(item.contentSnippet ?? item.description ?? item.content ?? ''),
+        image: extractImage(item)
       });
       candidateIds.add(id);
     }
@@ -113,7 +127,8 @@ export async function runOnce(config, { parser = new Parser(), translateBatch, l
         translations = await translateBatch(candidates.map(({ id, title, description }) => ({ id, title, description })));
       } catch (error) {
         failed += candidates.length;
-        logger.error(`[translate] ${source.name}: batch of ${candidates.length}: ${error.message}`);
+        logger.error(`[error] ${source.name}: translation batch of ${candidates.length} failed: ${error.message}`);
+        logger.info(`[feed] ${source.name}: added=0 removed=0 status=translate-failed`);
         continue;
       }
     }
@@ -127,7 +142,7 @@ export async function runOnce(config, { parser = new Parser(), translateBatch, l
       if (!id || retainedIds.has(id)) continue;
       const existing = existingById.get(id);
       if (existing) {
-        retained.push(existing);
+        retained.push({ ...existing, image: extractImage(item) ?? existing.image });
       }
       const original = candidatesById.get(id);
       const result = translations.get(id);
@@ -139,10 +154,10 @@ export async function runOnce(config, { parser = new Parser(), translateBatch, l
           title: result.title,
           description: result.description.trim(),
           source: source.name,
-          sourceUrl: source.url
+          sourceUrl: source.url,
+          image: original.image
         });
         translated += 1;
-        logger.info(`[translated] ${source.name}: ${id}`);
       }
       if (knownIds.has(id) || result) {
         retainedEntries.push({ id, source: source.name, sourceUrl: source.url });
@@ -158,6 +173,10 @@ export async function runOnce(config, { parser = new Parser(), translateBatch, l
       ...translatedEntries.filter((entry) => entry.sourceUrl !== source.url),
       ...retainedEntries
     ];
+    const retainedIdSet = new Set(retained.map((item) => item.id));
+    const added = retained.filter((item) => !existingById.has(item.id)).length;
+    const removed = [...existingById.keys()].filter((id) => !retainedIdSet.has(id)).length;
+    logger.info(`[feed] ${source.name}: added=${added} removed=${removed} total=${retained.length}`);
   }
 
   outputItems.sort((a, b) => itemTime(b) - itemTime(a));

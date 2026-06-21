@@ -4,9 +4,10 @@ import { mkdtemp, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import os from 'node:os';
 import { create } from 'xmlbuilder2';
-import { runOnce } from '../src/service.js';
+import { createFeedParser, runOnce } from '../src/service.js';
 import { buildRss, parseRss } from '../src/rss.js';
 import { readableText } from '../src/text.js';
+import { extractImage } from '../src/image.js';
 
 const quiet = { info() {}, warn() {}, error() {} };
 
@@ -56,7 +57,14 @@ function batchTranslator(calls = []) {
 test('batch translates new items and stores content only in RSS', async () => {
   const { config } = await fixture();
   const parser = { parseURL: async () => ({ items: [
-    { guid: 'id&1', link: 'https://example.com/?a=1&b=2', title: 'Hello', contentSnippet: 'World', isoDate: '2026-01-02T03:04:05Z' },
+    {
+      guid: 'id&1',
+      link: 'https://example.com/?a=1&b=2',
+      title: 'Hello',
+      contentSnippet: 'World',
+      isoDate: '2026-01-02T03:04:05Z',
+      mediaContent: [{ $: { url: 'https://example.com/hero.jpg', type: 'image/jpeg', width: '1200', height: '630' } }]
+    },
     { guid: 'id-2', link: 'https://example.com/2', title: 'Second', description: '<b>Body</b>' }
   ] }) };
   const calls = [];
@@ -69,6 +77,10 @@ test('batch translates new items and stores content only in RSS', async () => {
   assert.equal(calls.length, 1);
   assert.deepEqual(calls[0].map((item) => item.id), ['id&1', 'id-2']);
   assert.match(xml, /<source url="https:\/\/example.com\/rss">Example &amp; News<\/source>/);
+  assert.match(xml, /<dc:creator>Example &amp; News<\/dc:creator>/);
+  assert.match(xml, /<media:content url="https:\/\/example.com\/hero.jpg" medium="image" type="image\/jpeg" width="1200" height="630"\/>/);
+  assert.match(xml, /<media:thumbnail url="https:\/\/example.com\/hero.jpg"\/>/);
+  assert.match(xml, /<content:encoded><!\[CDATA\[<p><img src="https:\/\/example.com\/hero.jpg"/);
   assert.doesNotMatch(xml, /原文來源|文章來源/);
   assert.doesNotThrow(() => create(xml));
   assert.deepEqual(Object.keys(state), ['version', 'translated']);
@@ -125,15 +137,17 @@ test('removes source items no longer present in its first 100', async () => {
   const { config } = await fixture();
   await seed(config, [translatedItem('keep'), translatedItem('remove')]);
 
+  const messages = [];
   await runOnce(config, {
     parser: { parseURL: async () => ({ items: [{ guid: 'keep', link: 'https://example.com/keep' }] }) },
     translateBatch: batchTranslator(),
-    logger: quiet
+    logger: { ...quiet, info(message) { messages.push(message); } }
   });
 
   assert.deepEqual(parseRss(await readFile(config.outputPath, 'utf8')).map((item) => item.id), ['keep']);
   const state = JSON.parse(await readFile(config.statePath, 'utf8'));
   assert.deepEqual(state.translated.map((item) => item.id), ['keep']);
+  assert.deepEqual(messages, ['[feed] Example & News: added=0 removed=1 total=1']);
 });
 
 test('feed failure preserves that source previous items', async () => {
@@ -213,4 +227,25 @@ test('migrates legacy state without retranslating retained content', async () =>
 
 test('removes unsafe HTML and keeps readable text', () => {
   assert.equal(readableText('<p>Hello &amp; hi</p><script>alert(1)</script><br>Next'), 'Hello & hi\n\nNext');
+});
+
+test('extracts common feed image formats and rejects unsafe URLs', async () => {
+  assert.deepEqual(extractImage({ enclosure: { url: 'https://example.com/photo.png', type: 'image/png' } }), {
+    url: 'https://example.com/photo.png',
+    type: 'image/png'
+  });
+  assert.deepEqual(extractImage({ description: '<p>Text</p><img src="https://example.com/from-html.webp">' }), {
+    url: 'https://example.com/from-html.webp',
+    type: 'image/webp'
+  });
+  assert.equal(extractImage({ description: '<img src="javascript:alert(1)">' }), undefined);
+
+  const parser = createFeedParser();
+  const feed = await parser.parseString(`<?xml version="1.0"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Feed</title><link>https://example.com</link><description>Feed</description><item><title>Item</title><link>https://example.com/item</link><media:thumbnail url="https://example.com/thumb.jpg" /></item></channel></rss>`);
+  assert.deepEqual(extractImage(feed.items[0]), {
+    url: 'https://example.com/thumb.jpg',
+    type: 'image/jpeg',
+    width: undefined,
+    height: undefined
+  });
 });
