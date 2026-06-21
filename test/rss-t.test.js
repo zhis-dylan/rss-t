@@ -239,6 +239,14 @@ test('extracts common feed image formats and rejects unsafe URLs', async () => {
     type: 'image/webp'
   });
   assert.equal(extractImage({ description: '<img src="javascript:alert(1)">' }), undefined);
+  assert.deepEqual(extractImage({
+    mediaContent: [{ $: { url: 'https://media.zenfs.com/en/source/hash-without-extension', width: '130', height: '86' } }]
+  }), {
+    url: 'https://media.zenfs.com/en/source/hash-without-extension',
+    type: undefined,
+    width: 130,
+    height: 86
+  });
 
   const parser = createFeedParser();
   const feed = await parser.parseString(`<?xml version="1.0"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title>Feed</title><link>https://example.com</link><description>Feed</description><item><title>Item</title><link>https://example.com/item</link><media:thumbnail url="https://example.com/thumb.jpg" /></item></channel></rss>`);

@@ -30,12 +30,15 @@ function mediaImage(value, thumbnail = false) {
   if (!url) return undefined;
   const type = typeof data.type === 'string' ? data.type.toLowerCase() : '';
   const medium = typeof data.medium === 'string' ? data.medium.toLowerCase() : '';
-  if (!thumbnail && medium && medium !== 'image' && !type.startsWith('image/')) return undefined;
-  if (!thumbnail && !medium && type && !type.startsWith('image/')) return undefined;
-  if (!thumbnail && !medium && !type && !imageTypeFromUrl(url)) return undefined;
-
   const width = Number(data.width);
   const height = Number(data.height);
+  const hasImageDimensions = Number.isFinite(width) && width > 2
+    && Number.isFinite(height) && height > 2
+    && data.duration === undefined;
+  if (!thumbnail && medium && medium !== 'image' && !type.startsWith('image/')) return undefined;
+  if (!thumbnail && !medium && type && !type.startsWith('image/')) return undefined;
+  if (!thumbnail && !medium && !type && !imageTypeFromUrl(url) && !hasImageDimensions) return undefined;
+
   if ((Number.isFinite(width) && width <= 2) || (Number.isFinite(height) && height <= 2)) return undefined;
   return {
     url,
