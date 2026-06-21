@@ -3,7 +3,7 @@ name: Update translated RSS
 on:
   schedule:
     # Avoid the top of the hour, when scheduled Actions are commonly delayed.
-    - cron: '7,37 * * * *'
+    - cron: '7,22,37,52 * * * *'
   workflow_dispatch:
     inputs:
       initialize:

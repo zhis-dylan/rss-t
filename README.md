@@ -70,7 +70,7 @@ npm test
 
 ## 使用 GitHub Actions 與 GitHub Pages
 
-專案包含 [`.github/workflows/publish-rss.yml`](.github/workflows/publish-rss.yml)，可在公開 repository 使用 GitHub-hosted runner 每 30 分鐘更新一次，不會 commit 產生的 JSON/XML：
+專案包含 [`.github/workflows/publish-rss.yml`](.github/workflows/publish-rss.yml)，可在公開 repository 使用 GitHub-hosted runner 每 15 分鐘更新一次，不會 commit 產生的 JSON/XML：
 
 1. 將專案 push 到 GitHub public repository。
 2. 前往 **Settings → Secrets and variables → Actions → New repository secret**，建立名為 `OPENAI_API_KEY` 的 secret。
