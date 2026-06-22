@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 16:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:55:50 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 與開源 AI 實驗室 Reflection AI 簽署算力合作協議</title>
+      <link>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3133990</guid>
+      <pubDate>Mon, 22 Jun 2026 16:51:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Reflection AI 將從 2026 年 7 月 1 日起至 2029 年，每月支付 1.5 億美元，以立即取得 Nvidia 最新的 GB300 AI 晶片及相關硬體，並部署於 SpaceX 位於田納西州孟菲斯附近的 Colossus 2 資料中心。</description>
+    </item>
     <item>
       <title>NotebookLM 正在改變佛羅里達州立大學學生的成功表現</title>
       <link>https://blog.google/products-and-platforms/products/education/florida-state-university-notebooklm/</link>
@@ -388,15 +397,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在過去 30 年裡，阻止與資安相關軟體的流通一直被證明是無效的。現在要用 Anthropic 的資安模型 Mythos 來做到這一點，為什麼會奏效並不清楚。</description>
-    </item>
-    <item>
-      <title>Go 在日本 2026 年最大 IPO 後瞄準 robotaxi 和收購——這就是為什麼這很重要</title>
-      <link>https://techcrunch.com/2026/06/19/go-eyes-robotaxis-and-acquisitions-after-japans-biggest-ipo-of-2026-heres-why-it-matters/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133212</guid>
-      <pubDate>Fri, 19 Jun 2026 21:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Go 的 IPO——截至目前為止日本今年最大的 IPO——不僅為該國低迷的上市季帶來了急需的提振，也為這款叫車應用程式提供了所需的資金，以解決一個生存關鍵問題：日本司機短缺。</description>
     </item>
     <item>
       <title>亞馬遜 MGM 已放棄這部關於 Sam Altman 的電影</title>
