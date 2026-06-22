@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 15:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 16:10:27 GMT</lastBuildDate>
+    <item>
+      <title>NotebookLM 正在改變佛羅里達州立大學學生的成功表現</title>
+      <link>https://blog.google/products-and-platforms/products/education/florida-state-university-notebooklm/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/florida-state-university-notebooklm/</guid>
+      <pubDate>Mon, 22 Jun 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看佛羅里達州立大學如何將 NotebookLM 交到學生手中。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleEDU_CaseStudies_FSU_Still.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleEDU_CaseStudies_FSU_Still.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleEDU_CaseStudies_FSU_Still.max-600x600.format-webp.webp" alt=""></p><p>看看佛羅里達州立大學如何將 NotebookLM 交到學生手中。</p>]]></content:encoded>
+    </item>
     <item>
       <title>WhatsApp 迎來新主管，Meta 延攬印度 CRED 創辦人 Kunal Shah，並投資 9 億美元於新創公司</title>
       <link>https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/</link>
@@ -948,18 +960,6 @@ The Verge 有完整報導。</description>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Teachers.max-600x600.format-webp.webp" alt=""></p><p>Google.org 宣布將擴大其數位福祉基金。</p>]]></content:encoded>
     </item>
     <item>
-      <title>6 月 Pixel 功能更新：創作者的新功能、Gemini 升級等</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/</guid>
-      <pubDate>Tue, 16 Jun 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>取得新的螢幕錄製功能、搭配 Gemini Omni 的文字轉影片工具，以及在你的 Pixel 裝置上更好的多工處理。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp" alt=""></p><p>取得新的螢幕錄製功能、搭配 Gemini Omni 的文字轉影片工具，以及在你的 Pixel 裝置上更好的多工處理。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>平衡螢幕時間並讓孩子在今年夏天保持投入的 3 種方法</title>
       <link>https://blog.google/innovation-and-ai/technology/families/summer-screen-time-family-fun/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/families/summer-screen-time-family-fun/</guid>
@@ -970,6 +970,18 @@ The Verge 有完整報導。</description>
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Balance_screen_time_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Balance_screen_time_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Balance_screen_time_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 和 YouTube 工具可以透過有趣又有創意的學習活動，幫助建立健康的數位習慣，整個夏天都不間斷。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>6 月 Pixel 功能更新：創作者的新功能、Gemini 升級等</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/june-2026-pixel-drop/</guid>
+      <pubDate>Tue, 16 Jun 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>取得新的螢幕錄製功能、搭配 Gemini Omni 的文字轉影片工具，以及在你的 Pixel 裝置上更好的多工處理。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp" alt=""></p><p>取得新的螢幕錄製功能、搭配 Gemini Omni 的文字轉影片工具，以及在你的 Pixel 裝置上更好的多工處理。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Book insights 更充分利用閱讀的 3 種方式</title>
@@ -1062,15 +1074,6 @@ The Verge 有完整報導。</description>
       <media:content url="https://about.fb.com/wp-content/uploads/2026/06/New-AI-Tools-to-Help-You-Make-Things-Happen-on-Facebook_Social-Share-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/06/New-AI-Tools-to-Help-You-Make-Things-Happen-on-Facebook_Social-Share-1.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/New-AI-Tools-to-Help-You-Make-Things-Happen-on-Facebook_Social-Share-1.jpg?fit=1920%2C1080" alt=""></p><p>我們推出全新的 AI 驅動 Facebook 功能，協助你連結、創作，並找到你正在尋找的內容。<br>這篇〈協助你在 Facebook 上把事情做成的全新 AI 工具〉最初刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們將透過新的投資與社區支持，強化我們在阿拉巴馬州的布局。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/alabama-investment-june-2026/</guid>
-      <pubDate>Mon, 15 Jun 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 已宣布將在 2026 年與 2027 年投資 15 億美元，擴建位於阿拉巴馬州傑克遜郡的資料中心園區。該園區自 2019 年起營運，設於一處重新利用的原本……</description>
     </item>
     <item>
       <title>介紹 OpenAI 合作夥伴網路</title>
