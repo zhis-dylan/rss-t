@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 13:23:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:38:44 GMT</lastBuildDate>
+    <item>
+      <title>Seedcamp 為新基金募得 3.2 億美元，以擴大其在美國的布局</title>
+      <link>https://techcrunch.com/2026/06/22/seedcamp-raises-320m-for-its-new-fund-to-expand-its-us-footprint/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3134779</guid>
+      <pubDate>Mon, 22 Jun 2026 13:37:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在專注歐洲 18 年後，早期投資機構 Seedcamp 表示已為其最新基金募得 3.2 億美元，這支基金將讓它擴大在美國的存在。</description>
+    </item>
+    <item>
+      <title>Klue 遭駭導致多家資安公司資料外洩</title>
+      <link>https://techcrunch.com/2026/06/22/klue-hack-results-in-data-breach-at-several-cybersecurity-firms/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3134780</guid>
+      <pubDate>Mon, 22 Jun 2026 13:36:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Huntress、HackerOne、Jamf、Recorded Future 和 Tanium 都在受影響的資安公司之列，這些公司在市場研究公司 Klue 先前遭入侵後，資料遭到竊取。</description>
+    </item>
     <item>
       <title>在 ISC，JUPITER 展現百億億次科學的樣貌</title>
       <link>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</link>
@@ -67,18 +85,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>AI 的下一個時代不會只由運算定義，其成長將由能源決定。隨著加速運算在 AI 工廠、代理式 AI、工業 AI、邊緣運算與實體 AI——包括機器人與自主系統——中擴展，全球電力需求正以前所未有的速度上升。在許多地區，擴充電網 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>NVIDIA 推出 Halos for Robotics，業界首個用於實體 AI 的全堆疊安全系統</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" alt=""></p><p>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</p>]]></content:encoded>
-    </item>
-    <item>
       <title>NVIDIA Vera Rubin 為科學提供世界級超級電腦</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</link>
       <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</guid>
@@ -101,6 +107,18 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg" alt=""></p><p>擴大對下一代 NVIDIA AI 基礎架構的使用，讓數百萬研究人員能推進 AI、HPC 與科學發現新聞摘要：巴塞隆納超級運算中心的 EuroHPC AI ...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 推出 Halos for Robotics，業界首個用於實體 AI 的全堆疊安全系統</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" alt=""></p><p>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</p>]]></content:encoded>
     </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
@@ -351,24 +369,6 @@
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Luca Guadagnino 執導、關於 OpenAI 執行長 Sam Altman 的電影《Artificial》據報已被亞馬遜 MGM 放棄。<br><br>這部由 Andrew Garfield 主演的電影，描述了 2023 年 Altman 被解除執行長職務並復職之間那段跌宕起伏的五天，製作已進行約一年。演員陣容還包括《A Complete Unknown》女星 Monica Barbaro 飾演 OpenAI 技術長 Mira Murati，Ike Barinholtz 飾演 Elon Musk，以及《Anora》的 Yura Borisov 飾演 OpenAI 首席科學家 Ilya Sutskever。<br><br>該片商在給 Deadline 的聲明中表示，認為這部電影「如果由不同的片商發行會更合適」，並正與電影製作團隊密切合作……<br><br>在 The Verge 閱讀完整故事。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Allbirds 新 AI 業務的執行長有個計畫，但還沒有團隊</title>
-      <link>https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134214</guid>
-      <pubDate>Fri, 19 Jun 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>稱它為一家只有單一創辦人和一大筆種子輪融資的新創公司，但接下來會怎樣就不那麼明確了。</description>
-    </item>
-    <item>
-      <title>美國表示 ASML 的頂尖晶片設備可能已在中國，但怎麼會？</title>
-      <link>https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134577</guid>
-      <pubDate>Fri, 19 Jun 2026 07:59:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>有一套商業邏輯，與 ASML 會冒著失去出口許可證的風險去武裝一個中國客戶的想法相悖。</description>
     </item>
     <item>
       <title>Barret Zoph 在 OpenAI 待了才五個月又離開了</title>
