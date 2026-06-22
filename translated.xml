@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 11:52:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 12:07:43 GMT</lastBuildDate>
+    <item>
+      <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
+      <link>https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562991</guid>
+      <pubDate>Mon, 22 Jun 2026 12:06:39 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>今天，Microsoft 宣布其歷史上最大的一次單筆容量擴充之一。我們將在德州 Pecos 建立一座新的資料中心園區，將我們的全球資料中心容量擴充約 2 吉瓦（GW），以滿足各產業與各地區對 AI 和雲端服務強勁且持續的客戶需求。除了技術層面之外，這也是...
+〈Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos〉一文最先出現在 The Official Microsoft Blog。</description>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" medium="image" type="image/png"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" alt=""></p><p>今天，Microsoft 宣布其歷史上最大的一次單筆容量擴充之一。我們將在德州 Pecos 建立一座新的資料中心園區，將我們的全球資料中心容量擴充約 2 吉瓦（GW），以滿足各產業與各地區對 AI 和雲端服務強勁且持續的客戶需求。除了技術層面之外，這也是...<br>〈Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos〉一文最先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
+    </item>
     <item>
       <title>在你又用 vibe coding 開發另一個 app 之前，先讀這篇</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps</link>
@@ -2240,17 +2253,6 @@ The post Microsoft-OpenAI 合作的下一階段 first appeared on The Official M
       <description>AI 已從實驗快速進入正式上線。客戶希望從第一天起就內建可衡量的商業成果，以及安全性、治理和負責任的 AI。Microsoft 合作夥伴是實現這些目標的重要差異化優勢。他們透過優先處理最高價值的使用案例，建立正確的資料與安全基礎......將想法轉化為可部署的解決方案。
 
 這篇〈與 Microsoft 合作夥伴加速前沿轉型〉最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>Open to Work：如何在 AI 時代取得領先</title>
-      <link>https://blogs.microsoft.com/blog/2026/03/31/open-to-work-how-to-get-ahead-in-the-age-of-ai/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562872</guid>
-      <pubDate>Tue, 31 Mar 2026 15:08:49 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>今天就是這一天。《Open to Work：How to Get Ahead in the Age of AI》正式上市了！在科技主宰新聞頭條的時代，我在 LinkedIn 上最常看到的討論卻非常有人味：AI 對我的工作和職涯意味著什麼？這很合理。過去的職涯曾經感覺……
-
-〈Open to Work: How to Get Ahead in the Age of AI〉這篇文章最早出現在 The Official Microsoft Blog。</description>
     </item>
   </channel>
 </rss>
