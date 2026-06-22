@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 18:11:39 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 表示 Claude 可能會想看你的身分證件</title>
+      <link>https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135006</guid>
+      <pubDate>Mon, 22 Jun 2026 18:05:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據隱私權政策變更，Claude 的聊天機器人在「某些情況下」可能會要求驗證你的年齡和身分，例如出示護照或駕照。</description>
+    </item>
     <item>
       <title>Amazon 正在印度測試 Alexa+，支援印地語</title>
       <link>https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/</link>
@@ -418,15 +427,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>雖然它不像 Apple 全新的 Siri AI 和 Apple Intelligence 升級那麼吸睛，但 iOS 27 仍有不少值得關注的新功能。</description>
-    </item>
-    <item>
-      <title>他讓你的免費影片播放器順順跑。現在他也在幫機器人做這件事。</title>
-      <link>https://techcrunch.com/2026/06/19/he-made-your-free-video-player-run-smoothly-now-hes-doing-that-for-robots/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134573</guid>
-      <pubDate>Sat, 20 Jun 2026 00:47:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>法國連續創業家、開源傳奇人物 Jean-Baptiste Kempf 一直在打造 Kyber，一個用來即時控制遠端裝置的基礎架構層。</description>
     </item>
     <item>
       <title>亞馬遜 MGM 已放棄這部關於 Sam Altman 的電影</title>
