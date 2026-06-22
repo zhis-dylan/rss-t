@@ -5,7 +5,103 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 12:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:08:23 GMT</lastBuildDate>
+    <item>
+      <title>在 ISC，JUPITER 展現百億億次科學的樣貌</title>
+      <link>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:48 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>JUPITER 是歐洲首座百億億次超級電腦，位於德國 Forschungszentrum Jülich，採用 NVIDIA Grace Hopper 超級晶片與 NVIDIA Quantum-X800 InfiniBand 網路，且今年相當忙碌。隨著國際超級運算社群本週齊聚漢堡 ISC，JUPITER 上運行的四個專案展現了百億億次運算實際能做到什麼：繪製人類 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/67a35d5fc297a84767a25c3b0e1198d2/6a3932113d6332b76c54d029_jupiter-isc-26-842x450/jupiter-isc-26-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/67a35d5fc297a84767a25c3b0e1198d2/6a3932113d6332b76c54d029_jupiter-isc-26-842x450/jupiter-isc-26-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/67a35d5fc297a84767a25c3b0e1198d2/6a3932113d6332b76c54d029_jupiter-isc-26-842x450/jupiter-isc-26-842x450_thmb.jpg" alt=""></p><p>JUPITER 是歐洲首座百億億次超級電腦，位於德國 Forschungszentrum Jülich，採用 NVIDIA Grace Hopper 超級晶片與 NVIDIA Quantum-X800 InfiniBand 網路，且今年相當忙碌。隨著國際超級運算社群本週齊聚漢堡 ISC，JUPITER 上運行的四個專案展現了百億億次運算實際能做到什麼：繪製人類 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NAIRR 科學計畫重塑科學研究，由 NVIDIA AI 基礎架構驅動</title>
+      <link>https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nairr-scientific-research-ai-infrastructure/</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:38 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在過去兩年中，美國國家科學基金會的國家人工智慧研究資源（NAIRR）試點計畫，已推動全美超過 700 個專案的創新研究——涵蓋蛋白質預測與傳染病爆發管理。NVIDIA 透過一項雲端資源參與 NAIRR 試點，讓研究人員能專屬使用一個 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/abe517b68cc6efdc17d4a2f48c42b692/6a39321d3d6332b76c54d030_nairr-842x450/nairr-842x450_thmb.jpg" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/abe517b68cc6efdc17d4a2f48c42b692/6a39321d3d6332b76c54d030_nairr-842x450/nairr-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/abe517b68cc6efdc17d4a2f48c42b692/6a39321d3d6332b76c54d030_nairr-842x450/nairr-842x450_thmb.jpg" alt=""></p><p>在過去兩年中，美國國家科學基金會的國家人工智慧研究資源（NAIRR）試點計畫，已推動全美超過 700 個專案的創新研究——涵蓋蛋白質預測與傳染病爆發管理。NVIDIA 透過一項雲端資源參與 NAIRR 試點，讓研究人員能專屬使用一個 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>從材料模擬到實驗天文學，全新 NVIDIA AI 軟體解鎖科學發現</title>
+      <link>https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:20 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>本週在漢堡舉行的 ISC 會議上，NVIDIA 正推出可加速科學 AI 的新軟體，涵蓋從化學與材料發現到暗物質搜尋。NVIDIA DAQIRI 函式庫與全新的 NVIDIA ALCHEMI NIM 微服務，以及即將推出的 NVIDIA cuPhoton 參考程式碼，將把原本需要大量工作的任務轉化為 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>本週在漢堡舉行的 ISC 會議上，NVIDIA 正推出可加速科學 AI 的新軟體，涵蓋從化學與材料發現到暗物質搜尋。NVIDIA DAQIRI 函式庫與全新的 NVIDIA ALCHEMI NIM 微服務，以及即將推出的 NVIDIA cuPhoton 參考程式碼，將把原本需要大量工作的任務轉化為 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA Vera CPU 為洛斯阿拉莫斯國家實驗室的代理式科學 AI 開啟新道路</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:20 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Mission、Vision 和 Veritas——由 HPE 與 NVIDIA 打造的洛斯阿拉莫斯國家實驗室（LANL）新超級電腦——正採用 NVIDIA Vera CPU 來加速科學發現，解鎖用於科學的代理式 AI。這些超級電腦將使用搭載 NVIDIA Vera Rubin 平台的 HPE Cray Supercomputing GX5000 架構，結合 NVIDIA Vera CPU、NVIDIA […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>Mission、Vision 和 Veritas——由 HPE 與 NVIDIA 打造的洛斯阿拉莫斯國家實驗室（LANL）新超級電腦——正採用 NVIDIA Vera CPU 來加速科學發現，解鎖用於科學的代理式 AI。這些超級電腦將使用搭載 NVIDIA Vera Rubin 平台的 HPE Cray Supercomputing GX5000 架構，結合 NVIDIA Vera CPU、NVIDIA […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Eco Wave Power 運用 NVIDIA AI 基礎架構與數位孿生把海浪變成瓦特</title>
+      <link>https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:13 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI 的下一個時代不會只由運算定義，其成長將由能源決定。隨著加速運算在 AI 工廠、代理式 AI、工業 AI、邊緣運算與實體 AI——包括機器人與自主系統——中擴展，全球電力需求正以前所未有的速度上升。在許多地區，擴充電網 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>AI 的下一個時代不會只由運算定義，其成長將由能源決定。隨著加速運算在 AI 工廠、代理式 AI、工業 AI、邊緣運算與實體 AI——包括機器人與自主系統——中擴展，全球電力需求正以前所未有的速度上升。在許多地區，擴充電網 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA Vera Rubin 為科學提供世界級超級電腦</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>以 7 Exaflops 的科學 AI 運算能力與 5 Petaflops 的原生 FP64 效能，Vera Rubin 將 TOP500 超級運算裝進單一機櫃新聞摘要：NVIDIA Vera Rubin 加速世界的 ...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/50115b890b7bb1ccaacc1f861dc3df90/6a3932133d6332b7791a34d1_d7791590-04ac-47fa-b7e2-df4b034d38d/d7791590-04ac-47fa-b7e2-df4b034d38d_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/50115b890b7bb1ccaacc1f861dc3df90/6a3932133d6332b7791a34d1_d7791590-04ac-47fa-b7e2-df4b034d38d/d7791590-04ac-47fa-b7e2-df4b034d38d_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/50115b890b7bb1ccaacc1f861dc3df90/6a3932133d6332b7791a34d1_d7791590-04ac-47fa-b7e2-df4b034d38d/d7791590-04ac-47fa-b7e2-df4b034d38d_thmb.jpg" alt=""></p><p>以 7 Exaflops 的科學 AI 運算能力與 5 Petaflops 的原生 FP64 效能，Vera Rubin 將 TOP500 超級運算裝進單一機櫃新聞摘要：NVIDIA Vera Rubin 加速世界的 ...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>歐洲推出創紀錄的 35 部全新 NVIDIA AI 超級電腦</title>
+      <link>https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>擴大對下一代 NVIDIA AI 基礎架構的使用，讓數百萬研究人員能推進 AI、HPC 與科學發現新聞摘要：巴塞隆納超級運算中心的 EuroHPC AI ...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg" alt=""></p><p>擴大對下一代 NVIDIA AI 基礎架構的使用，讓數百萬研究人員能推進 AI、HPC 與科學發現新聞摘要：巴塞隆納超級運算中心的 EuroHPC AI ...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 推出 Halos for Robotics，業界首個用於實體 AI 的全堆疊安全系統</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" alt=""></p><p>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</p>]]></content:encoded>
+    </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
       <link>https://blogs.microsoft.com/blog/2026/06/22/powering-the-next-wave-of-ai-expanding-capacity-with-our-new-datacenter-in-pecos/</link>
@@ -1098,30 +1194,6 @@ The Verge 有完整報導。</description>
       <description>透過 Oracle Cloud 存取 OpenAI 模型和 Codex，使用現有承諾來建構與部署具備企業級安全性與治理的 AI。</description>
     </item>
     <item>
-      <title>對於無人計程車，安全必須從設計之初就內建，而不是事後加裝</title>
-      <link>https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/halos-os-robotaxi-safety/</guid>
-      <pubDate>Wed, 10 Jun 2026 19:00:12 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>一輛車停靠在路邊。App 顯示：「你的車來了。」駕駛座上空無一人。對於住在數十個如今提供無人計程車服務城市之一的人來說，這已經是現實。無人計程車產業已從原型里程碑邁向商業營運，並形成一個持續擴張的生態系統 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/442e73dacd5019e8269a42dab0c4e52b/6a29b4673d63323f9689095c_auto-corp-blog-robotaxi-5295700-1280x680-1-842x450/auto-corp-blog-robotaxi-5295700-1280x680-1-842x450_thmb.jpg" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/442e73dacd5019e8269a42dab0c4e52b/6a29b4673d63323f9689095c_auto-corp-blog-robotaxi-5295700-1280x680-1-842x450/auto-corp-blog-robotaxi-5295700-1280x680-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/442e73dacd5019e8269a42dab0c4e52b/6a29b4673d63323f9689095c_auto-corp-blog-robotaxi-5295700-1280x680-1-842x450/auto-corp-blog-robotaxi-5295700-1280x680-1-842x450_thmb.jpg" alt=""></p><p>一輛車停靠在路邊。App 顯示：「你的車來了。」駕駛座上空無一人。對於住在數十個如今提供無人計程車服務城市之一的人來說，這已經是現實。無人計程車產業已從原型里程碑邁向商業營運，並形成一個持續擴張的生態系統 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 加速 Google DeepMind 的 DiffusionGemma 用於本地 AI</title>
-      <link>https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/rtx-ai-garage-local-gemma-diffusion/</guid>
-      <pubDate>Wed, 10 Jun 2026 16:15:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>今天，Google DeepMind 發布了 DiffusionGemma——一個為了極高速文字生成而打造的實驗性開放模型。NVIDIA 已經最佳化 DiffusionGemma，讓它在 NVIDIA GeForce RTX GPU、NVIDIA RTX PRO 平台與 NVIDIA DGX Spark 系統上執行得更快，涵蓋從本機 PC 到雲端。DiffusionGemma 並非一次只生成一個字，而是平行生成多個字，輸出整段文字，為開發者所使用的這類單一使用者工作負載開啟了新的低延遲前沿，[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/1704375c06fb88e8b51380d496cb6747/6a298ddd3d633281b0470c95_diffusiongemma-nv-blog-1280x680-1-842x450/diffusiongemma-nv-blog-1280x680-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/1704375c06fb88e8b51380d496cb6747/6a298ddd3d633281b0470c95_diffusiongemma-nv-blog-1280x680-1-842x450/diffusiongemma-nv-blog-1280x680-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/1704375c06fb88e8b51380d496cb6747/6a298ddd3d633281b0470c95_diffusiongemma-nv-blog-1280x680-1-842x450/diffusiongemma-nv-blog-1280x680-1-842x450_thmb.jpg" alt=""></p><p>今天，Google DeepMind 發布了 DiffusionGemma——一個為了極高速文字生成而打造的實驗性開放模型。NVIDIA 已經最佳化 DiffusionGemma，讓它在 NVIDIA GeForce RTX GPU、NVIDIA RTX PRO 平台與 NVIDIA DGX Spark 系統上執行得更快，涵蓋從本機 PC 到雲端。DiffusionGemma 並非一次只生成一個字，而是平行生成多個字，輸出整段文字，為開發者所使用的這類單一使用者工作負載開啟了新的低延遲前沿，[…]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>基礎架構說明：運算能力</title>
       <link>https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=48584</guid>
@@ -1165,18 +1237,6 @@ The Verge 有完整報導。</description>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 LSEG 如何運用 OpenAI 在其全球業務中擴大可信賴 AI 的規模，加速洞察、縮短發布週期，並賦能 4,000 名員工。</description>
-    </item>
-    <item>
-      <title>NVIDIA 保密運算協助擴展 Apple 的私人雲端運算</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-confidential-computing-apple-private-cloud-compute/</guid>
-      <pubDate>Tue, 09 Jun 2026 22:34:27 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>具備保密運算的 NVIDIA GPU 現已用於 Apple 的私人雲端運算（PCC）中的保密推論，並且隨著其從 Apple 的資料中心擴展到 Google Cloud 而持續增加。這項消息是在 Apple 每年為來自全球各地開發者舉辦的 WWDC 大會上公布的，NVIDIA GPU 將支援 Apple Foundation Models 的伺服器端推論，由 Apple 和 Google 客製打造，運用 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/478bc3f0e9d79d104318796c84c51ebe/6a28952a3d6332b79a63578d_nvidia-confidential-computing-apple-pcc-842x450/nvidia-confidential-computing-apple-pcc-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/478bc3f0e9d79d104318796c84c51ebe/6a28952a3d6332b79a63578d_nvidia-confidential-computing-apple-pcc-842x450/nvidia-confidential-computing-apple-pcc-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/478bc3f0e9d79d104318796c84c51ebe/6a28952a3d6332b79a63578d_nvidia-confidential-computing-apple-pcc-842x450/nvidia-confidential-computing-apple-pcc-842x450_thmb.jpg" alt=""></p><p>具備保密運算的 NVIDIA GPU 現已用於 Apple 的私人雲端運算（PCC）中的保密推論，並且隨著其從 Apple 的資料中心擴展到 Google Cloud 而持續增加。這項消息是在 Apple 每年為來自全球各地開發者舉辦的 WWDC 大會上公布的，NVIDIA GPU 將支援 Apple Foundation Models 的伺服器端推論，由 Apple 和 Google 客製打造，運用 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>更好的個人化，以及對你來自其他企業活動的控制項變更</title>
@@ -1300,30 +1360,6 @@ The Verge 有完整報導。</description>
       <description>OpenAI 證實已向美國證券交易委員會秘密提交 S-1，且尚未決定後續行動的時程。</description>
     </item>
     <item>
-      <title>英國如何透過 NVIDIA 技術將主權 AI 願景化為行動</title>
-      <link>https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/uk-sovereign-ai-advancements/</guid>
-      <pubDate>Mon, 08 Jun 2026 06:00:57 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>一年前在倫敦科技週上，NVIDIA 創辦人暨執行長黃仁勳與英國首相施凱爾發表了一項宣示：英國將成為 AI 的創造者，而不是 AI 的接受者。在今年的活動中，NVIDIA 及其合作夥伴正展示這項承諾如何為全國的基礎設施、新創公司 […] 帶來真正的動能</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/c00b328dad9dcfb1547964e492ccceb0/6a265ab53d6332b68a4ebc12_london-tech-week-2026-key-visual-842x450/london-tech-week-2026-key-visual-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/c00b328dad9dcfb1547964e492ccceb0/6a265ab53d6332b68a4ebc12_london-tech-week-2026-key-visual-842x450/london-tech-week-2026-key-visual-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/c00b328dad9dcfb1547964e492ccceb0/6a265ab53d6332b68a4ebc12_london-tech-week-2026-key-visual-842x450/london-tech-week-2026-key-visual-842x450_thmb.jpg" alt=""></p><p>一年前在倫敦科技週上，NVIDIA 創辦人暨執行長黃仁勳與英國首相施凱爾發表了一項宣示：英國將成為 AI 的創造者，而不是 AI 的接受者。在今年的活動中，NVIDIA 及其合作夥伴正展示這項承諾如何為全國的基礎設施、新創公司 […] 帶來真正的動能</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 與 LG 集團打造 AI 工廠，推進實體 AI、移動與 AI 基礎設施</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-and-lg-group-ai-factory/</guid>
-      <pubDate>Mon, 08 Jun 2026 03:00:50 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 和 LG 集團正在打造一座 AI 工廠，以加速 LG 集團下一波由 AI 驅動的業務，涵蓋機器人、自動駕駛、資料中心技術和 GPU 雲端服務。這座 AI 工廠將為 LG 集團提供加速運算基礎設施，用於訓練、模擬、驗證與部署跨其核心業務的 AI 應用。這項合作帶來 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/258fab64adc302af6ca7d6479134fa97/6a2630a83d6332e846f54928_kr-visit-lg-group-1920x1080-no-credit-842x450/kr-visit-lg-group-1920x1080-no-credit-842x450_thmb.jpg" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/258fab64adc302af6ca7d6479134fa97/6a2630a83d6332e846f54928_kr-visit-lg-group-1920x1080-no-credit-842x450/kr-visit-lg-group-1920x1080-no-credit-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/258fab64adc302af6ca7d6479134fa97/6a2630a83d6332e846f54928_kr-visit-lg-group-1920x1080-no-credit-842x450/kr-visit-lg-group-1920x1080-no-credit-842x450_thmb.jpg" alt=""></p><p>NVIDIA 和 LG 集團正在打造一座 AI 工廠，以加速 LG 集團下一波由 AI 驅動的業務，涵蓋機器人、自動駕駛、資料中心技術和 GPU 雲端服務。這座 AI 工廠將為 LG 集團提供加速運算基礎設施，用於訓練、模擬、驗證與部署跨其核心業務的 AI 應用。這項合作帶來 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>為所有人帶來益處：我們的計畫</title>
       <link>https://openai.com/index/built-to-benefit-everyone-our-plan</link>
       <guid isPermaLink="false">https://openai.com/index/built-to-benefit-everyone-our-plan</guid>
@@ -1340,42 +1376,6 @@ The Verge 有完整報導。</description>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出 Economic Research Exchange，以研究 AI 對工作、生產力和經濟的影響。現已開放申請入選研究計畫。</description>
-    </item>
-    <item>
-      <title>NVIDIA 與斗山集團合作推進實體 AI 與 AI 工廠基礎設施</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-and-doosan-group-physical-ai/</guid>
-      <pubDate>Sun, 07 Jun 2026 23:00:36 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 和斗山集團正擴大合作，推動實體 AI、機器人與 AI 工廠基礎設施的新機會，涵蓋 Doosan Robotics、Doosan Bobcat、Doosan Enerbility 與 Doosan Corporation Electro-Materials BG。這項合作將結合 NVIDIA 的全堆疊加速運算平台，以及斗山集團在工業自動化、發電和先進電子材料方面的能力 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/815c7154caf688ca25f73d8930be9e81/6a25f8403d6332d6b1eeda09_kr-visit-blog-doosan-robotics-1920x1080-noncredit-842x450/kr-visit-blog-doosan-robotics-1920x1080-noncredit-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/815c7154caf688ca25f73d8930be9e81/6a25f8403d6332d6b1eeda09_kr-visit-blog-doosan-robotics-1920x1080-noncredit-842x450/kr-visit-blog-doosan-robotics-1920x1080-noncredit-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/815c7154caf688ca25f73d8930be9e81/6a25f8403d6332d6b1eeda09_kr-visit-blog-doosan-robotics-1920x1080-noncredit-842x450/kr-visit-blog-doosan-robotics-1920x1080-noncredit-842x450_thmb.jpg" alt=""></p><p>NVIDIA 和斗山集團正擴大合作，推動實體 AI、機器人與 AI 工廠基礎設施的新機會，涵蓋 Doosan Robotics、Doosan Bobcat、Doosan Enerbility 與 Doosan Corporation Electro-Materials BG。這項合作將結合 NVIDIA 的全堆疊加速運算平台，以及斗山集團在工業自動化、發電和先進電子材料方面的能力 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>SK Telecom 與 NVIDIA 建置 AI 基礎設施，推動韓國的 AI 創新</title>
-      <link>https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/sk-telecom-ai-infrastructure</guid>
-      <pubDate>Sun, 07 Jun 2026 23:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 與 SK Telecom 今天宣布，SK Telecom 計劃使用 NVIDIA DSX™ 平台在韓國打造千兆瓦級 AI 雲端，首座 AI 工廠預計將於 2027 年上線。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/15b51e671f478532efaf5f2dc38a203f/6a25ccf03d6332f4f6ff1216_nvidia-sk-telecom/nvidia-sk-telecom_thmb.png" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/15b51e671f478532efaf5f2dc38a203f/6a25ccf03d6332f4f6ff1216_nvidia-sk-telecom/nvidia-sk-telecom_thmb.png"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/15b51e671f478532efaf5f2dc38a203f/6a25ccf03d6332f4f6ff1216_nvidia-sk-telecom/nvidia-sk-telecom_thmb.png" alt=""></p><p>NVIDIA 與 SK Telecom 今天宣布，SK Telecom 計劃使用 NVIDIA DSX™ 平台在韓國打造千兆瓦級 AI 雲端，首座 AI 工廠預計將於 2027 年上線。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 與 SK hynix 宣布多年期技術合作夥伴關係，以推進 AI 工廠記憶體發展</title>
-      <link>https://nvidianews.nvidia.com/news/sk-hynix-ai-factory</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/sk-hynix-ai-factory</guid>
-      <pubDate>Sun, 07 Jun 2026 23:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 與 SK hynix 今日宣布多年期技術合作夥伴關係，以推進全球 AI 工廠建置所需的下一代記憶體，並加速半導體設計與製造。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/a21bcb532771f27266fe94a96c884769/6a25ccf93d6332f4f6ff121d_nvidia-sk-hynix/nvidia-sk-hynix_thmb.png" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/a21bcb532771f27266fe94a96c884769/6a25ccf93d6332f4f6ff121d_nvidia-sk-hynix/nvidia-sk-hynix_thmb.png"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/a21bcb532771f27266fe94a96c884769/6a25ccf93d6332f4f6ff121d_nvidia-sk-hynix/nvidia-sk-hynix_thmb.png" alt=""></p><p>NVIDIA 與 SK hynix 今日宣布多年期技術合作夥伴關係，以推進全球 AI 工廠建置所需的下一代記憶體，並加速半導體設計與製造。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 與美國職棒大聯盟宣布 7 月「Friday Night Baseball」賽程</title>
