@@ -8,6 +8,7 @@ import { createFeedParser, runOnce } from '../src/service.js';
 import { buildRss, parseRss } from '../src/rss.js';
 import { readableText } from '../src/text.js';
 import { extractImage } from '../src/image.js';
+import { messagePayload } from '../src/slack.js';
 
 const quiet = { info() {}, warn() {}, error() {} };
 
@@ -86,6 +87,60 @@ test('batch translates new items and stores content only in RSS', async () => {
   assert.deepEqual(Object.keys(state), ['version', 'translated']);
   assert.deepEqual(Object.keys(state.translated[0]), ['id', 'source', 'sourceUrl']);
   assert.equal(JSON.stringify(state).includes('中：'), false);
+});
+
+test('pushes every newly translated item to Slack', async () => {
+  const { config } = await fixture();
+  const sent = [];
+  const parser = { parseURL: async () => ({ items: [
+    { guid: 'new-1', link: 'https://example.com/1', title: 'One' },
+    { guid: 'new-2', link: 'https://example.com/2', title: 'Two' }
+  ] }) };
+
+  const result = await runOnce(config, {
+    parser,
+    translateBatch: batchTranslator(),
+    notifySlack: async (item) => sent.push(item),
+    logger: quiet
+  });
+
+  assert.deepEqual(sent.map((item) => item.id), ['new-1', 'new-2']);
+  assert.equal(result.slackSent, 2);
+  assert.equal(result.slackFailed, 0);
+});
+
+test('Slack failure is logged but translated item is still saved', async () => {
+  const { config } = await fixture();
+  const errors = [];
+  const result = await runOnce(config, {
+    parser: { parseURL: async () => ({ items: [
+      { guid: 'slack-fail', link: 'https://example.com/fail', title: 'Still save me' }
+    ] }) },
+    translateBatch: batchTranslator(),
+    notifySlack: async () => { throw new Error('Slack unavailable'); },
+    logger: { ...quiet, error(message) { errors.push(message); } }
+  });
+
+  assert.equal(result.translated, 1);
+  assert.equal(result.slackFailed, 1);
+  assert.match(errors[0], /slack-fail failed: Slack unavailable/);
+  assert.deepEqual(parseRss(await readFile(config.outputPath, 'utf8')).map((item) => item.id), ['slack-fail']);
+});
+
+test('Slack payload contains translated content, source, link and image', () => {
+  const payload = messagePayload({
+    title: '中文標題',
+    description: '中文內容',
+    source: 'Example News',
+    link: 'https://example.com/article',
+    image: { url: 'https://example.com/image.jpg' }
+  });
+
+  assert.equal(payload.text, 'Example News：中文標題\nhttps://example.com/article');
+  assert.deepEqual(payload.blocks.map((block) => block.type), ['header', 'context', 'image', 'section', 'section']);
+  assert.equal(payload.blocks[2].image_url, 'https://example.com/image.jpg');
+  assert.equal(payload.blocks[3].text.text, '中文內容');
+  assert.equal(payload.blocks[4].text.text, '<https://example.com/article|閱讀原文>');
 });
 
 test('completed IDs use a slot and are not sent again', async () => {

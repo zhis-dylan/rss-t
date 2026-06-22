@@ -27,8 +27,9 @@ export function loadConfig(cwd = process.cwd()) {
     outputPath: path.join(cwd, 'translated.xml'),
     apiKey: process.env.OPENAI_API_KEY ?? '',
     model: process.env.TRANSLATE_MODEL || 'gpt-5.4-mini',
+    slackWebhookUrl: process.env.SLACK_WEBHOOK_URL?.trim() ?? '',
     publicFeedUrl,
-    pollIntervalMinutes: integer('POLL_INTERVAL_MINUTES', 10, { min: 1 }),
+    pollIntervalMinutes: integer('POLL_INTERVAL_MINUTES', 15, { min: 1 }),
     maxItemsPerFeed: integer('MAX_ITEMS_PER_FEED', 100, { min: 1 })
   };
 }

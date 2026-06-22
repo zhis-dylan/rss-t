@@ -53,7 +53,13 @@ export function createFeedParser() {
   });
 }
 
-export async function runOnce(config, { parser = createFeedParser(), translateBatch, logger = console, now = () => new Date() } = {}) {
+export async function runOnce(config, {
+  parser = createFeedParser(),
+  translateBatch,
+  notifySlack,
+  logger = console,
+  now = () => new Date()
+} = {}) {
   const feeds = validateFeeds(await readJson(config.feedsPath));
   const loadedState = validateState(await readJson(config.statePath, emptyState()));
   const xmlItems = await readExistingXml(config.outputPath);
@@ -74,6 +80,8 @@ export async function runOnce(config, { parser = createFeedParser(), translateBa
   }
   let translated = 0;
   let failed = 0;
+  let slackSent = 0;
+  let slackFailed = 0;
 
   for (const source of feeds) {
     let feed;
@@ -147,7 +155,7 @@ export async function runOnce(config, { parser = createFeedParser(), translateBa
       const original = candidatesById.get(id);
       const result = translations.get(id);
       if (original && result) {
-        retained.push({
+        const translatedItem = {
           id,
           link: original.link,
           pubDate: original.pubDate,
@@ -156,8 +164,19 @@ export async function runOnce(config, { parser = createFeedParser(), translateBa
           source: source.name,
           sourceUrl: source.url,
           image: original.image
-        });
+        };
+        retained.push(translatedItem);
         translated += 1;
+        if (notifySlack) {
+          try {
+            await notifySlack(translatedItem);
+            slackSent += 1;
+            logger.info(`[slack] ${source.name}: sent ${id}`);
+          } catch (error) {
+            slackFailed += 1;
+            logger.error(`[slack] ${source.name}: ${id} failed: ${error.message}`);
+          }
+        }
       }
       if (knownIds.has(id) || result) {
         retainedEntries.push({ id, source: source.name, sourceUrl: source.url });
@@ -183,5 +202,5 @@ export async function runOnce(config, { parser = createFeedParser(), translateBa
   const state = { version: 2, translated: translatedEntries };
   await atomicWrite(config.outputPath, buildRss(outputItems, now(), config.publicFeedUrl));
   await atomicWrite(config.statePath, `${JSON.stringify(state, null, 2)}\n`);
-  return { translated, failed, outputItems: outputItems.length };
+  return { translated, failed, slackSent, slackFailed, outputItems: outputItems.length };
 }
