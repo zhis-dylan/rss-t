@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 13:08:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 13:23:30 GMT</lastBuildDate>
     <item>
       <title>在 ISC，JUPITER 展現百億億次科學的樣貌</title>
       <link>https://blogs.nvidia.com/blog/jupiter-exascale-supercomputing-science/</link>
@@ -67,6 +67,18 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>AI 的下一個時代不會只由運算定義，其成長將由能源決定。隨著加速運算在 AI 工廠、代理式 AI、工業 AI、邊緣運算與實體 AI——包括機器人與自主系統——中擴展，全球電力需求正以前所未有的速度上升。在許多地區，擴充電網 […]</p>]]></content:encoded>
     </item>
     <item>
+      <title>NVIDIA 推出 Halos for Robotics，業界首個用於實體 AI 的全堆疊安全系統</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</guid>
+      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" alt=""></p><p>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</p>]]></content:encoded>
+    </item>
+    <item>
       <title>NVIDIA Vera Rubin 為科學提供世界級超級電腦</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</link>
       <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</guid>
@@ -89,18 +101,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/8adc23b12c9846527969ff5d54fbc739/6a3932213d6332b7791a34da_26040e64-2fcf-4158-b423-ece1163e217/26040e64-2fcf-4158-b423-ece1163e217_thmb.jpg" alt=""></p><p>擴大對下一代 NVIDIA AI 基礎架構的使用，讓數百萬研究人員能推進 AI、HPC 與科學發現新聞摘要：巴塞隆納超級運算中心的 EuroHPC AI ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 推出 Halos for Robotics，業界首個用於實體 AI 的全堆疊安全系統</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-halos-for-robotics-the-industrys-first-full-stack-safety-system-for-physical-ai</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/0f66b6ad847c2581b5eb49ceca7b105b/6a3932293d6332b7791a34e3_f146c467-95a9-4f44-855e-88cdeff4dee/f146c467-95a9-4f44-855e-88cdeff4dee_thmb.jpg" alt=""></p><p>新聞摘要：NVIDIA Halos for Robotics 是業界唯一的全堆疊開放式機器人安全系統，將 NVIDIA Halos 經過驗證的自駕車安全延伸至機器人與實體 AI，並且...</p>]]></content:encoded>
     </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
