@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:11:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:26:11 GMT</lastBuildDate>
+    <item>
+      <title>Interactions API：我們與 Gemini 模型和代理程式互動的主要介面</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api-general-availability/</guid>
+      <pubDate>Mon, 22 Jun 2026 17:15:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 的 Interactions API 是一個用於與 Gemini 模型和代理程式互動的統一介面。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interactions_API_GA_final.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interactions_API_GA_final.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interactions_API_GA_final.max-600x600.format-webp.webp" alt=""></p><p>Google 的 Interactions API 是一個用於與 Gemini 模型和代理程式互動的統一介面。</p>]]></content:encoded>
+    </item>
     <item>
       <title>SpaceX 與開源 AI 實驗室 Reflection AI 簽署算力合作協議</title>
       <link>https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/</link>
@@ -930,18 +942,6 @@ The Verge 有完整報導。</description>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/aad6f4672fbf5b2067a3a9b40ac134e1/6a31ca163d633271f9e4552c_26tx-coherent-factory-DEB30839-842x450/26tx-coherent-factory-DEB30839-842x450_thmb.jpg" alt=""></p><p>AI 以光速運行。越來越多這樣的光是在德州製造的。Coherent 今天在德州 Sherman 為擴建後的製造廠房舉行動土典禮。該公司生產將 AI 系統連結在一起的雷射、光學元件和化合物半導體——並營運其所稱的全球首座 6 吋磷化銦 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>Wear OS 7 讓你的智慧手錶跟上你的步調</title>
-      <link>https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/</guid>
-      <pubDate>Tue, 16 Jun 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Wear OS 7 帶來全新的可一眼掌握功能——而且部分裝置將在今年稍晚獲得 Gemini Intelligence。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/61627.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/61627.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/61627.max-600x600.format-webp.webp" alt=""></p><p>Wear OS 7 帶來全新的可一眼掌握功能——而且部分裝置將在今年稍晚獲得 Gemini Intelligence。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>新增擴充的 Android 家長監護功能，支援全球家庭</title>
       <link>https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/</guid>
@@ -964,6 +964,18 @@ The Verge 有完整報導。</description>
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/us_ggl_android_17_blog_Hero_209.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/us_ggl_android_17_blog_Hero_209.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/us_ggl_android_17_blog_Hero_209.max-600x600.format-webp.webp" alt=""></p><p>探索 Android 17 的最新功能，包括更強大的生產力、遊戲和安全性。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Wear OS 7 讓你的智慧手錶跟上你的步調</title>
+      <link>https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/wear-os/google-io-2026-wear-os/</guid>
+      <pubDate>Tue, 16 Jun 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Wear OS 7 帶來全新的可一眼掌握功能——而且部分裝置將在今年稍晚獲得 Gemini Intelligence。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/61627.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/61627.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/61627.max-600x600.format-webp.webp" alt=""></p><p>Wear OS 7 帶來全新的可一眼掌握功能——而且部分裝置將在今年稍晚獲得 Gemini Intelligence。</p>]]></content:encoded>
     </item>
     <item>
       <title>擴大我們的美國數位福祉基金</title>
@@ -1000,18 +1012,6 @@ The Verge 有完整報導。</description>
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_Pixel_Drop_hero.max-600x600.format-webp.webp" alt=""></p><p>取得新的螢幕錄製功能、搭配 Gemini Omni 的文字轉影片工具，以及在你的 Pixel 裝置上更好的多工處理。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 Book insights 更充分利用閱讀的 3 種方式</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/book-insights/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/book-insights/</guid>
-      <pubDate>Tue, 16 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在 Google Play 圖書中使用 Book insights 這個實用的閱讀夥伴，從你的書籍中獲得更多收穫。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bookinsghts_Hero_Final_2096x118.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bookinsghts_Hero_Final_2096x118.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bookinsghts_Hero_Final_2096x118.max-600x600.format-webp.webp" alt=""></p><p>在 Google Play 圖書中使用 Book insights 這個實用的閱讀夥伴，從你的書籍中獲得更多收穫。</p>]]></content:encoded>
     </item>
     <item>
       <title>XREAL AURA 現已開放預約——另外，還有更多來自 AWE 2026 的消息。</title>
