@@ -20,6 +20,9 @@ npm install
 OPENAI_API_KEY=sk-your-api-key
 TRANSLATE_MODEL=gpt-5.4-mini
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/your/webhook/url
+GITHUB_PAGES_TOKEN=github_pat_your-token
+GITHUB_REPOSITORY=your-account/rss-t
+GITHUB_PAGES_BRANCH=gh-pages
 POLL_INTERVAL_MINUTES=15
 MAX_ITEMS_PER_FEED=100
 PUBLIC_FEED_URL=https://rss.example.com/translated.xml
@@ -27,6 +30,9 @@ PUBLIC_FEED_URL=https://rss.example.com/translated.xml
 
 - `TRANSLATE_MODEL` 預設為 `gpt-5.4-mini`。若帳號無法使用該模型，請改成帳號可用且支援 Responses API structured outputs 的模型。
 - `SLACK_WEBHOOK_URL` 是 Slack App 的 Incoming Webhook URL；省略時不推送 Slack。
+- `GITHUB_PAGES_TOKEN` 是只授權此 repository Contents 讀寫的 fine-grained personal access token；省略時不發布 GitHub Pages。
+- `GITHUB_REPOSITORY` 使用 `owner/repository` 格式，例如 `zhis-dylan/rss-t`。
+- `GITHUB_PAGES_BRANCH` 預設為 `gh-pages`。
 - `POLL_INTERVAL_MINUTES` 必須是至少 1 的整數，預設 15 分鐘。
 - `MAX_ITEMS_PER_FEED` 必須是至少 1 的整數，預設每個來源每輪最多處理前 100 篇。名額包含已翻譯的文章；來源 feed 本輪沒有回傳的歷史 guid 不計入名額。
 - `PUBLIC_FEED_URL` 是輸出 RSS 的公開網址；本機測試可省略。
@@ -71,7 +77,21 @@ npm start
 npm test
 ```
 
-在 Ubuntu 上可使用 systemd、PM2 或其他程序管理器維持 `npm start` 運行。`translated.xml` 若仍要提供 RSS 閱讀器訂閱，需另外由 Nginx、Caddy 或其他 HTTP 服務公開。
+在 Ubuntu 上可使用 systemd、PM2 或其他程序管理器維持 `npm start` 運行。`translated.xml` 可透過下述 GitHub Pages 方式發布；若不使用 GitHub Pages，也可由 Nginx、Caddy 或其他 HTTP 服務公開。
+
+## 發布至 GitHub Pages
+
+每輪完成後，程式會比較本機 `translated.xml` 與 GitHub `gh-pages` 分支版本。內容有變化時才透過 GitHub API 更新並產生一筆 `Update translated RSS` commit；沒有變化時不會 commit。發布失敗只會記錄錯誤，下一輪會再次比較與嘗試。
+
+在 GitHub 建立 `gh-pages` 分支，並將 Pages 的 Source 設為 **Deploy from a branch**、Branch 設為 **gh-pages / (root)**。接著建立 fine-grained personal access token：只選擇此 repository，Repository permissions 僅將 **Contents** 設為 **Read and write**。將 token 保存在 Ubuntu 的 `.env`，不可提交至 Git。
+
+GitHub Pages 的公開網址應填入 `PUBLIC_FEED_URL`，例如：
+
+```dotenv
+PUBLIC_FEED_URL=https://zhis-dylan.github.io/rss-t/translated.xml
+```
+
+GitHub Pages 內建的 branch deployment 可能仍會顯示在 Actions 歷史中，但它只在 `gh-pages` 有新 commit 時發布，不再按時間排程，也不會在 GitHub 執行翻譯。
 
 ## Slack 推送
 

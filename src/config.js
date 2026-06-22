@@ -28,6 +28,9 @@ export function loadConfig(cwd = process.cwd()) {
     apiKey: process.env.OPENAI_API_KEY ?? '',
     model: process.env.TRANSLATE_MODEL || 'gpt-5.4-mini',
     slackWebhookUrl: process.env.SLACK_WEBHOOK_URL?.trim() ?? '',
+    githubPagesToken: process.env.GITHUB_PAGES_TOKEN?.trim() ?? '',
+    githubRepository: process.env.GITHUB_REPOSITORY?.trim() ?? '',
+    githubPagesBranch: process.env.GITHUB_PAGES_BRANCH?.trim() || 'gh-pages',
     publicFeedUrl,
     pollIntervalMinutes: integer('POLL_INTERVAL_MINUTES', 15, { min: 1 }),
     maxItemsPerFeed: integer('MAX_ITEMS_PER_FEED', 100, { min: 1 })

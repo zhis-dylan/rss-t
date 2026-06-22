@@ -9,6 +9,7 @@ import { buildRss, parseRss } from '../src/rss.js';
 import { readableText } from '../src/text.js';
 import { extractImage } from '../src/image.js';
 import { messagePayload } from '../src/slack.js';
+import { blobSha, createGitHubPagesPublisher } from '../src/pages.js';
 
 const quiet = { info() {}, warn() {}, error() {} };
 
@@ -141,6 +142,61 @@ test('Slack payload contains translated content, source, link and image', () => 
   assert.equal(payload.blocks[2].image_url, 'https://example.com/image.jpg');
   assert.equal(payload.blocks[3].text.text, '中文內容');
   assert.equal(payload.blocks[4].text.text, '<https://example.com/article|閱讀原文>');
+});
+
+test('GitHub Pages publisher skips an unchanged XML file', async () => {
+  const { config } = await fixture();
+  const xml = buildRss([translatedItem('same-pages')]);
+  await writeFile(config.outputPath, xml);
+  Object.assign(config, {
+    githubPagesToken: 'test-token',
+    githubRepository: 'owner/repository',
+    githubPagesBranch: 'gh-pages'
+  });
+  const requests = [];
+  const publish = createGitHubPagesPublisher(config, {
+    fetchImpl: async (url, options) => {
+      requests.push({ url, options });
+      return new Response(JSON.stringify({ sha: blobSha(Buffer.from(xml)) }), {
+        status: 200,
+        headers: { 'content-type': 'application/json' }
+      });
+    }
+  });
+
+  assert.equal(await publish(), 'unchanged');
+  assert.equal(requests.length, 1);
+  assert.match(requests[0].url, /contents\/translated\.xml\?ref=gh-pages$/);
+});
+
+test('GitHub Pages publisher updates a changed XML file', async () => {
+  const { config } = await fixture();
+  const xml = buildRss([translatedItem('new-pages')]);
+  await writeFile(config.outputPath, xml);
+  Object.assign(config, {
+    githubPagesToken: 'test-token',
+    githubRepository: 'owner/repository',
+    githubPagesBranch: 'gh-pages'
+  });
+  const requests = [];
+  const responses = [
+    new Response(JSON.stringify({ sha: 'old-sha' }), { status: 200 }),
+    new Response(JSON.stringify({ commit: { sha: 'new-commit' } }), { status: 200 })
+  ];
+  const publish = createGitHubPagesPublisher(config, {
+    fetchImpl: async (url, options) => {
+      requests.push({ url, options });
+      return responses.shift();
+    }
+  });
+
+  assert.equal(await publish(), 'published');
+  assert.equal(requests.length, 2);
+  assert.equal(requests[1].options.method, 'PUT');
+  const body = JSON.parse(requests[1].options.body);
+  assert.equal(body.branch, 'gh-pages');
+  assert.equal(body.sha, 'old-sha');
+  assert.equal(Buffer.from(body.content, 'base64').toString(), xml);
 });
 
 test('completed IDs use a slot and are not sent again', async () => {
