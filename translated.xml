@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 19:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:53:46 GMT</lastBuildDate>
+    <item>
+      <title>在把公司押注在 Anthropic 之後，Menlo Ventures 募得勝利的 30 億美元基金</title>
+      <link>https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135406</guid>
+      <pubDate>Tue, 23 Jun 2026 19:49:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Menlo 靠著 2024 年一次大膽的 7.5 億美元出手，已經為自己建立起穩固的 AI 投資者名聲。</description>
+    </item>
+    <item>
+      <title>Klue 表示駭客竊取了 2022 年的憑證，導致客戶資料外洩</title>
+      <link>https://techcrunch.com/2026/06/23/klue-says-hackers-stole-credential-from-2022-that-led-to-customer-data-breaches/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135483</guid>
+      <pubDate>Tue, 23 Jun 2026 19:43:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>目前不清楚為什麼 Klue 在那次有限試用後沒有撤銷該憑證，駭客之後便利用它入侵了一個存放用來存取客戶資料金鑰的系統。</description>
+    </item>
+    <item>
+      <title>邁向一個沒有人會對自然災害感到措手不及的世界</title>
+      <link>https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/helping-communities-prepare-for-natural-disasters/</guid>
+      <pubDate>Tue, 23 Jun 2026 19:40:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 持續進行的危機韌性努力與使命概述，於 AI for the Planet 活動中分享。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FloodAlert_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FloodAlert_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FloodAlert_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 持續進行的危機韌性努力與使命概述，於 AI for the Planet 活動中分享。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Mark Zuckerberg 想讓 Meta 推出自己的預測市場</title>
       <link>https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/</link>
@@ -436,24 +466,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>歐洲進攻型資安公司 Paradigm Shift 公布了一個漏洞的細節，以及一種利用該漏洞的技術，為駭客打開了破解並入侵舊款 iPhone 的大門。</description>
-    </item>
-    <item>
-      <title>Google DeepMind 以 7,500 萬美元押注 AI 在好萊塢的未來，與 A24 達成合作</title>
-      <link>https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135026</guid>
-      <pubDate>Mon, 22 Jun 2026 18:49:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google DeepMind 和 A24 正聯手打造 AI 電影製作工具。</description>
-    </item>
-    <item>
-      <title>Anthropic 表示 Claude 可能會想看你的身分證件</title>
-      <link>https://techcrunch.com/2026/06/22/anthropic-says-claude-may-want-to-see-your-id/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135006</guid>
-      <pubDate>Mon, 22 Jun 2026 18:05:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據隱私權政策變更，Claude 的聊天機器人在「某些情況下」可能會要求驗證你的年齡和身分，例如出示護照或駕照。</description>
     </item>
     <item>
       <title>Interactions API：我們與 Gemini 模型和代理程式互動的主要介面</title>
@@ -981,18 +993,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/aad6f4672fbf5b2067a3a9b40ac134e1/6a31ca163d633271f9e4552c_26tx-coherent-factory-DEB30839-842x450/26tx-coherent-factory-DEB30839-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/aad6f4672fbf5b2067a3a9b40ac134e1/6a31ca163d633271f9e4552c_26tx-coherent-factory-DEB30839-842x450/26tx-coherent-factory-DEB30839-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/aad6f4672fbf5b2067a3a9b40ac134e1/6a31ca163d633271f9e4552c_26tx-coherent-factory-DEB30839-842x450/26tx-coherent-factory-DEB30839-842x450_thmb.jpg" alt=""></p><p>AI 以光速運行。越來越多這樣的光是在德州製造的。Coherent 今天在德州 Sherman 為擴建後的製造廠房舉行動土典禮。該公司生產將 AI 系統連結在一起的雷射、光學元件和化合物半導體——並營運其所稱的全球首座 6 吋磷化銦 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>新增擴充的 Android 家長監護功能，支援全球家庭</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/new-expanded-android-parental-controls/</guid>
-      <pubDate>Tue, 16 Jun 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正在擴充 Android 家長監護功能，以支援全球各地的家庭。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Parental_Controls.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Parental_Controls.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Parental_Controls.max-600x600.format-webp.webp" alt=""></p><p>Google 正在擴充 Android 家長監護功能，以支援全球各地的家庭。</p>]]></content:encoded>
     </item>
     <item>
       <title>HPE AI Factory with NVIDIA 擴展以迎接代理時代</title>
