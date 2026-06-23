@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 19:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:23:33 GMT</lastBuildDate>
+    <item>
+      <title>Mark Zuckerberg 想讓 Meta 推出自己的預測市場</title>
+      <link>https://techcrunch.com/2026/06/23/mark-zuckerberg-wants-meta-to-launch-its-own-prediction-market/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135435</guid>
+      <pubDate>Tue, 23 Jun 2026 19:19:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報導，Mark Zuckerberg 希望 Meta 擁有自己的預測市場 app。</description>
+    </item>
     <item>
       <title>為什麼企業 AI 超級政治行動委員會在一場地方選舉上花了 2700 萬美元</title>
       <link>https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district</link>
@@ -445,15 +454,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據隱私權政策變更，Claude 的聊天機器人在「某些情況下」可能會要求驗證你的年齡和身分，例如出示護照或駕照。</description>
-    </item>
-    <item>
-      <title>Amazon 正在印度測試 Alexa+，支援印地語</title>
-      <link>https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134778</guid>
-      <pubDate>Mon, 22 Jun 2026 17:31:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 寄電子郵件邀請客戶測試 Alexa+</description>
     </item>
     <item>
       <title>Interactions API：我們與 Gemini 模型和代理程式互動的主要介面</title>
