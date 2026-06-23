@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 01:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 01:30:32 GMT</lastBuildDate>
+    <item>
+      <title>持續更新名單：2026 年主要科技裁員案，雇主將 AI 列為原因</title>
+      <link>https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3132769</guid>
+      <pubDate>Tue, 23 Jun 2026 01:27:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>持續關注——按時間倒序排列——今年宣布大規模裁員、並將 AI 列為明確因素的大型科技公司。</description>
+    </item>
     <item>
       <title>OpenAI 推出新計畫，協助尋找並修補開源漏洞</title>
       <link>https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</link>
@@ -421,15 +430,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0.Hero_Image_-_Street_View_Car_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0.Hero_Image_-_Street_View_Car_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/0.Hero_Image_-_Street_View_Car_.max-600x600.format-webp.webp" alt=""></p><p>喬治亞州的街景影像現已可在 Google 地圖上使用。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ethan Thornton 正在試圖同時把所有事情都做完</title>
-      <link>https://techcrunch.com/2026/06/21/ethan-thornton-is-trying-to-do-everything-all-at-once/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134756</guid>
-      <pubDate>Mon, 22 Jun 2026 05:31:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Mach 的做法與某些同業截然不同。</description>
     </item>
     <item>
       <title>比熱水按摩池還熱：45°C 突破，讓 AI 最大型機器降溫</title>
