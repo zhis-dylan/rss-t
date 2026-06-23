@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:03:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:18:51 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 驅動全球 500 台最快超級電腦中的 400 多台</title>
+      <link>https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/</guid>
+      <pubDate>Tue, 23 Jun 2026 09:00:38 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>新聞重點：NVIDIA 技術支援 TOP500 中 81% 的系統，以及新上榜系統中 90% 的系統。TOP500 中有 26 個系統採用 NVIDIA Grace CPU，較前一份榜單增加 8 個。Green500 前八名系統都運行在 NVIDIA GPU 上，前 10 名中有 9 個使用 NVIDIA 技術。第 1 名 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/944a968b7a1ea61749eb7931738a8a98/6a3a4b8b3d6332248a4b5c6b_hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450/hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450_thmb.jpg" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/944a968b7a1ea61749eb7931738a8a98/6a3a4b8b3d6332248a4b5c6b_hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450/hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/944a968b7a1ea61749eb7931738a8a98/6a3a4b8b3d6332248a4b5c6b_hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450/hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450_thmb.jpg" alt=""></p><p>新聞重點：NVIDIA 技術支援 TOP500 中 81% 的系統，以及新上榜系統中 90% 的系統。TOP500 中有 26 個系統採用 NVIDIA Grace CPU，較前一份榜單增加 8 個。Green500 前八名系統都運行在 NVIDIA GPU 上，前 10 名中有 9 個使用 NVIDIA 技術。第 1 名 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>NVIDIA 將值得信賴的 24/7 AI 代理帶入電信營運</title>
       <link>https://blogs.nvidia.com/blog/telecom-ai-agents-dtw-ignite-2026/</link>
@@ -1167,18 +1179,6 @@ Adobe 正在為其 Firefly AI 助理推出一些新功能，同時推出一個�
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Preply 使用 OpenAI 推出 AI 生成的課堂摘要，提供個人化回饋與語言學習練習。</description>
-    </item>
-    <item>
-      <title>NVIDIA 股東會定於 6 月 24 日舉行；個人可線上參與</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-24-individuals-can-participate-online</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-stockholder-meeting-set-for-june-24-individuals-can-participate-online</guid>
-      <pubDate>Thu, 11 Jun 2026 21:32:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布，將於 6 月 24 日星期三太平洋時間上午 9 點以線上方式舉行 2026 年年度股東會。會議將以虛擬形式在 https://www.virtualshareholdermeeting.com/NVDA2026 進行。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg" alt=""></p><p>NVIDIA 今日宣布，將於 6 月 24 日星期三太平洋時間上午 9 點以線上方式舉行 2026 年年度股東會。會議將以虛擬形式在 https://www.virtualshareholdermeeting.com/NVDA2026 進行。</p>]]></content:encoded>
     </item>
     <item>
       <title>為 Meta 各個應用程式上的全球足球球迷全力投入</title>
