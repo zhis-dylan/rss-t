@@ -5,7 +5,21 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 21:54:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 22:09:51 GMT</lastBuildDate>
+    <item>
+      <title>好萊塢正在向 OpenAI 低頭</title>
+      <link>https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt</link>
+      <guid isPermaLink="false">https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt</guid>
+      <pubDate>Tue, 23 Jun 2026 22:03:18 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>據報導，Netflix、A24、Focus Features 和 Warner Bros. 的 Clockwork 都已決定不接手《Artificial》的發行合約——這是導演 Luca Guadagnino 以 OpenAI 共同創辦人／執行長 Sam Altman 為主角的新傳記劇情片。雖然 Neon 和 Mubi 仍被認為對這部片有興趣，但這種情況看起來像是好萊塢再也沒有勇氣講述關於大型科技公司的批判性故事。
+《Artificial》的後製幾乎已經完成時，Amazon MGM 卻在上週意外宣布不再計畫發行這部電影。考量到電影已經進展到這個階段，以及報導指出 Amazon …，這則消息令人相當意外。
+在 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489" alt=""></p><p>據報導，Netflix、A24、Focus Features 和 Warner Bros. 的 Clockwork 都已決定不接手《Artificial》的發行合約——這是導演 Luca Guadagnino 以 OpenAI 共同創辦人／執行長 Sam Altman 為主角的新傳記劇情片。雖然 Neon 和 Mubi 仍被認為對這部片有興趣，但這種情況看起來像是好萊塢再也沒有勇氣講述關於大型科技公司的批判性故事。<br>《Artificial》的後製幾乎已經完成時，Amazon MGM 卻在上週意外宣布不再計畫發行這部電影。考量到電影已經進展到這個階段，以及報導指出 Amazon …，這則消息令人相當意外。<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Superhuman 收購 AI 偵測新創 GPTZero</title>
       <link>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</link>
@@ -726,24 +740,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>《Atlantic》記者 Alex Reisner 最近揭露了四個用來訓練 AI 模型的音樂資料集，並將它們完整整理成可供大眾搜尋。這四個資料集裡，有兩個大到驚人，分別包含 1,200 萬和 900 萬首曲目。另兩個雖然規模小得多，但每個仍有超過 10 萬首歌曲，代表了相當可觀的訓練資料量。<br><br>根據 Reisner 的說法，這些資料集已被下載了數千次，雖然無法確切知道誰實際使用過它們，但 Google 和 Stability 都已在研究論文中確認使用過。部分來源，例如 Free Music Archive 資料集，可供個人免費串流使用，但 re …<br><br>在 The Verge 閱讀完整故事。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>亞馬遜 MGM 已放棄這部關於 Sam Altman 的電影</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped</guid>
-      <pubDate>Fri, 19 Jun 2026 14:15:29 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>Luca Guadagnino 執導、關於 OpenAI 執行長 Sam Altman 的電影《Artificial》據報已被亞馬遜 MGM 放棄。
-
-這部由 Andrew Garfield 主演的電影，描述了 2023 年 Altman 被解除執行長職務並復職之間那段跌宕起伏的五天，製作已進行約一年。演員陣容還包括《A Complete Unknown》女星 Monica Barbaro 飾演 OpenAI 技術長 Mira Murati，Ike Barinholtz 飾演 Elon Musk，以及《Anora》的 Yura Borisov 飾演 OpenAI 首席科學家 Ilya Sutskever。
-
-該片商在給 Deadline 的聲明中表示，認為這部電影「如果由不同的片商發行會更合適」，並正與電影製作團隊密切合作……
-
-在 The Verge 閱讀完整故事。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Luca Guadagnino 執導、關於 OpenAI 執行長 Sam Altman 的電影《Artificial》據報已被亞馬遜 MGM 放棄。<br><br>這部由 Andrew Garfield 主演的電影，描述了 2023 年 Altman 被解除執行長職務並復職之間那段跌宕起伏的五天，製作已進行約一年。演員陣容還包括《A Complete Unknown》女星 Monica Barbaro 飾演 OpenAI 技術長 Mira Murati，Ike Barinholtz 飾演 Elon Musk，以及《Anora》的 Yura Borisov 飾演 OpenAI 首席科學家 Ilya Sutskever。<br><br>該片商在給 Deadline 的聲明中表示，認為這部電影「如果由不同的片商發行會更合適」，並正與電影製作團隊密切合作……<br><br>在 The Verge 閱讀完整故事。</p>]]></content:encoded>
     </item>
     <item>
       <title>FERC 的大型負載併網措施如何協助因應電網壓力、提升可負擔性</title>
