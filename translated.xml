@@ -5,7 +5,35 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 15:51:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:07:04 GMT</lastBuildDate>
+    <item>
+      <title>今年夏天在 Google 上的熱門趨勢</title>
+      <link>https://blog.google/products-and-platforms/products/search/summergeist-google-trends/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/summergeist-google-trends/</guid>
+      <pubDate>Tue, 23 Jun 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>從最熱門的穿搭到最消暑的甜點口味，我們最新的 Summergeist 報告顯示了 2026 年夏季的熱門趨勢。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Whats_trending_on_Google_this_s.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Whats_trending_on_Google_this_s.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Whats_trending_on_Google_this_s.max-600x600.format-webp.webp" alt=""></p><p>從最熱門的穿搭到最消暑的甜點口味，我們最新的 Summergeist 報告顯示了 2026 年夏季的熱門趨勢。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Midjourney 轉向身體掃描器的動向有點不對勁</title>
+      <link>https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence</link>
+      <guid isPermaLink="false">https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence</guid>
+      <pubDate>Tue, 23 Jun 2026 15:56:35 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>一個影像幻影的掃描結果，經過分割處理，用來驗證在受控條件下結構分離得有多乾淨。| 圖片：Midjourney Medical
+
+上週，以影像生成器最廣為人知的 AI 新創公司 Midjourney，做出了一個不尋常的轉向：醫學影像。
+該公司宣布了一款未來感十足的超音波掃描器，會把使用者泡進一缸水裡，並且希望能產生「某種跟 MRI 一樣強大」但「像去 SPA 一樣輕鬆」的結果。Midjourney 表示，目標是幫助人們活得更久、更好、也更健康。執行長 David Holz 曾暗示，這套系統有朝一日可能比 MRI 更好。專家則抱持懷疑態度。雖然幾位醫學影像專家告訴 The Verge，他們並非完全否定這個想法，但他們也表示 Midjourney 幾乎沒有公開證據可供……
+到 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/png"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>一個影像幻影的掃描結果，經過分割處理，用來驗證在受控條件下結構分離得有多乾淨。| 圖片：Midjourney Medical<br><br>上週，以影像生成器最廣為人知的 AI 新創公司 Midjourney，做出了一個不尋常的轉向：醫學影像。<br>該公司宣布了一款未來感十足的超音波掃描器，會把使用者泡進一缸水裡，並且希望能產生「某種跟 MRI 一樣強大」但「像去 SPA 一樣輕鬆」的結果。Midjourney 表示，目標是幫助人們活得更久、更好、也更健康。執行長 David Holz 曾暗示，這套系統有朝一日可能比 MRI 更好。專家則抱持懷疑態度。雖然幾位醫學影像專家告訴 The Verge，他們並非完全否定這個想法，但他們也表示 Midjourney 幾乎沒有公開證據可供……<br>到 The Verge 閱讀完整報導。</p>]]></content:encoded>
+    </item>
     <item>
       <title>以具代理性的可觀測性重新思考雲端營運</title>
       <link>https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/</link>
@@ -699,22 +727,6 @@ OpenAI 向 The Verge 證實，Zoph 將會離職 …
       <description>OpenAI 為 ChatGPT Enterprise 推出新的支出控管與用量分析，協助組織管理成本，並更有信心地擴展 AI。</description>
     </item>
     <item>
-      <title>Amazon 員工表示，因支持資料中心限制而面臨解僱</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action</guid>
-      <pubDate>Thu, 18 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>當三位 Amazon 軟體工程師本月稍早在西雅圖市議會關於資料中心的聽證會作證時，他們以引用一項禁止因政治言論而有就業歧視的市法作為開場。現在，他們指控雇主因報復而違反了那項法律。
-
-6 月 10 日——也就是聽證會一週後、以及市議會通過一項具里程碑意義的資料中心暫緩令的隔天——Patrick Schloesser、Darius Irani 和 Liesl Wigand 分別被叫進與 Amazon「Employee Relations」的臨時會議。人資代表告訴這些員工，公司正在調查他們……
-
-請在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>當三位 Amazon 軟體工程師本月稍早在西雅圖市議會關於資料中心的聽證會作證時，他們以引用一項禁止因政治言論而有就業歧視的市法作為開場。現在，他們指控雇主因報復而違反了那項法律。<br><br>6 月 10 日——也就是聽證會一週後、以及市議會通過一項具里程碑意義的資料中心暫緩令的隔天——Patrick Schloesser、Darius Irani 和 Liesl Wigand 分別被叫進與 Amazon「Employee Relations」的臨時會議。人資代表告訴這些員工，公司正在調查他們……<br><br>請在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>為全球首座 AI 藝術博物館提供動力</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/dataland-ai-art-museum/</guid>
@@ -974,18 +986,6 @@ OpenAI 向 The Verge 證實，Zoph 將會離職 …
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/us_ggl_android_17_blog_Hero_209.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/us_ggl_android_17_blog_Hero_209.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/us_ggl_android_17_blog_Hero_209.max-600x600.format-webp.webp" alt=""></p><p>探索 Android 17 的最新功能，包括更強大的生產力、遊戲和安全性。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>擴大我們的美國數位福祉基金</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/digital-wellbeing-fund-mental-health/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/digital-wellbeing-fund-mental-health/</guid>
-      <pubDate>Tue, 16 Jun 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google.org 宣布將擴大其數位福祉基金。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Teachers.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Teachers.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Teachers.max-600x600.format-webp.webp" alt=""></p><p>Google.org 宣布將擴大其數位福祉基金。</p>]]></content:encoded>
     </item>
     <item>
       <title>HPE AI Factory with NVIDIA 擴展以迎接代理時代</title>
