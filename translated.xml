@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 21:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 21:54:43 GMT</lastBuildDate>
+    <item>
+      <title>Superhuman 收購 AI 偵測新創 GPTZero</title>
+      <link>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135465</guid>
+      <pubDate>Tue, 23 Jun 2026 21:48:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Superhuman 也有一款 AI 偵測工具，作為 Grammarly 的一部分，現已收購 GPTZero。</description>
+    </item>
     <item>
       <title>在把公司押注在 Anthropic 之後，Menlo Ventures 募得勝利的 30 億美元基金</title>
       <link>https://techcrunch.com/2026/06/23/after-betting-the-firm-on-anthropic-menlo-ventures-raises-victorious-3b-fund/</link>
@@ -466,15 +475,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>隨著 Tata Electronics 擴大其在全球科技供應鏈中的角色，這起事件也隨之而來。</description>
-    </item>
-    <item>
-      <title>Apple 晶片出現一個無法修補的新漏洞，為 iPhone 越獄打開大門</title>
-      <link>https://techcrunch.com/2026/06/22/a-new-unpatchable-flaw-in-apple-chips-opens-the-door-to-an-iphone-jailbreak/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134937</guid>
-      <pubDate>Mon, 22 Jun 2026 18:50:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歐洲的進攻型資安公司 Paradigm Shift 公布了一項漏洞及其利用技術，這項技術讓駭客有機會解鎖並入侵較舊款的 iPhone。</description>
     </item>
     <item>
       <title>Interactions API：我們與 Gemini 模型和代理程式互動的主要介面</title>
