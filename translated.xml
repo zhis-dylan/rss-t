@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 15:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 15:21:42 GMT</lastBuildDate>
+    <item>
+      <title>密碼管理工具製造商 LastPass 表示，駭客在 Klue 外洩事件中竊取了客服案件資料</title>
+      <link>https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135340</guid>
+      <pubDate>Tue, 23 Jun 2026 15:12:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是近年來影響 LastPass 客戶的第二起資料外洩事件，此前這家密碼管理工具的其中一個技術合作夥伴最近也遭到入侵。</description>
+    </item>
+    <item>
+      <title>HaloBraid 從 Seven Seven Six 募得 700 萬美元，想終結長達六小時的髮廊預約</title>
+      <link>https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135272</guid>
+      <pubDate>Tue, 23 Jun 2026 15:09:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>HaloBraid 旨在透過其第一款裝置協助髮廊加快編髮速度，這款裝置預計今年稍晚推出，可作為專業造型師的編髮助手。</description>
+    </item>
     <item>
       <title>Fitbit Air 對 AI 健康亂象採取了更聰明的做法</title>
       <link>https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach</link>
@@ -385,15 +403,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleEDU_CaseStudies_FSU_Still.max-600x600.format-webp.webp" alt=""></p><p>看看佛羅里達州立大學如何將 NotebookLM 交到學生手中。</p>]]></content:encoded>
     </item>
     <item>
-      <title>WhatsApp 迎來新主管，Meta 延攬印度 CRED 創辦人 Kunal Shah，並投資 9 億美元於新創公司</title>
-      <link>https://techcrunch.com/2026/06/22/whatsapp-gets-new-chief-as-meta-taps-indias-cred-founder-kunal-shah-and-invests-900m-in-startup/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134886</guid>
-      <pubDate>Mon, 22 Jun 2026 15:21:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著 Will Cathcart 在 Meta 轉任新職，WhatsApp 也有了新老闆；同時，Shah 辭去印度金融科技巨頭 CRED 的執行長職務，以接替 Cathcart。</description>
-    </item>
-    <item>
       <title>Google DeepMind 與 A24 宣布首創的研究合作夥伴關係</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/deepmind-a24-research-partnership/</guid>
@@ -404,15 +413,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_SocialShare_gradient.max-600x600.format-webp.webp" alt=""></p><p>今天，Google DeepMind 和 A24 宣布一項首創的合作夥伴關係，重點放在研究。這項合作將世界領先的研究實驗室與產業…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Instagram 透過更長篇、分集和直播格式，瞄準其 TV 應用程式挑戰串流服務</title>
-      <link>https://techcrunch.com/2026/06/22/instagram-looks-to-take-on-streaming-services-with-longer-form-episodic-and-live-formats-for-its-tv-app/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134374</guid>
-      <pubDate>Mon, 22 Jun 2026 14:14:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Instagram 正瞄準像 Netflix 和 Amazon Prime Video 這類串流服務，並將客廳觀影列為目標。</description>
     </item>
     <item>
       <title>Instagram for TV 變得更大，推出新的一起觀看方式</title>
