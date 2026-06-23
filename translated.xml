@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 23 Jun 2026 23:25:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 23:40:32 GMT</lastBuildDate>
+    <item>
+      <title>印度的 MoEngage 押注行銷的未來是數百萬個 AI 代理人</title>
+      <link>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135480</guid>
+      <pubDate>Tue, 23 Jun 2026 23:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆全現金交易讓 MoEngage 取得可為個別客戶指派 AI 代理人的技術。</description>
+    </item>
     <item>
       <title>Google Home 很快就會更擅長辨識你</title>
       <link>https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing</link>
@@ -495,15 +504,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Governors_Palace_Gardens_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Governors_Palace_Gardens_16x9.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Governors_Palace_Gardens_16x9.max-600x600.format-webp.webp" alt=""></p><p>為慶祝美國 250 週年，一個新的數位平台展示了 18 世紀維吉尼亞州的殖民生活。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Tata Electronics，蘋果與特斯拉的重要科技供應商，證實資料外洩</title>
-      <link>https://techcrunch.com/2026/06/22/tata-electronics-a-major-tech-supplier-to-apple-and-tesla-confirms-data-breach/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135031</guid>
-      <pubDate>Mon, 22 Jun 2026 19:25:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著 Tata Electronics 擴大其在全球科技供應鏈中的角色，這起事件也隨之而來。</description>
     </item>
     <item>
       <title>Interactions API：我們與 Gemini 模型和代理程式互動的主要介面</title>
