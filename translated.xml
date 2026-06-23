@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 22 Jun 2026 23:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 00:14:55 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出新計畫，協助尋找並修補開源漏洞</title>
+      <link>https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135162</guid>
+      <pubDate>Tue, 23 Jun 2026 00:11:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正試圖處理開源軟體社群的安全問題。</description>
+    </item>
     <item>
       <title>Nvidia 表示其 AI 資料中心設計運作溫度更高，以使用少得多的水</title>
       <link>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</link>
@@ -451,15 +460,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>三星電子將 ChatGPT Enterprise 和 Codex 部署給全球員工，標誌著 OpenAI 其中一項最大的企業 AI 導入。</description>
-    </item>
-    <item>
-      <title>Ubisoft 共同創辦人 Claude Guillemot 在空難中身亡</title>
-      <link>https://techcrunch.com/2026/06/21/ubisoft-co-founder-claude-guillemot-dies-in-plane-crash/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3134746</guid>
-      <pubDate>Sun, 21 Jun 2026 18:34:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Claude Guillemot 與他的四位兄弟共同創立了 Ubisoft，享年 69 歲。</description>
     </item>
     <item>
       <title>The Atlantic 建立了可搜尋的 AI 訓練用音樂資料庫</title>
