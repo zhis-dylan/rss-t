@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 19:20:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 19:35:22 GMT</lastBuildDate>
+    <item>
+      <title>這就是 Slate 為什麼更換其平價電動卡車的電池</title>
+      <link>https://techcrunch.com/2026/06/24/heres-why-slate-changed-the-battery-in-its-cheap-ev-truck/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135846</guid>
+      <pubDate>Wed, 24 Jun 2026 19:27:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Slate 採用 LFP 電池，顯示近年來美國的電池市場已發生了多麼顯著的變化。</description>
+    </item>
     <item>
       <title>關於 Alex Bores 的 2700 萬美元 AI 代理戰以平手收場</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results</link>
@@ -374,15 +383,6 @@ Google 也表示……
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Autofill_Wallet_Blog_Hea.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Autofill_Wallet_Blog_Hea.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Autofill_Wallet_Blog_Hea.max-600x600.format-webp.webp" alt=""></p><p>我們正在把新的自動填入功能擴展給 iOS 和 Android 使用者。護照資料、付款資訊等內容，都能隨手取得。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic 的 Claude Tag 正在一則一則 Slack 訊息中學習你的公司</title>
-      <link>https://techcrunch.com/2026/06/23/anthropics-claude-tag-is-learning-your-company-one-slack-message-at-a-time/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135349</guid>
-      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 全新的 Claude Tag 為 Slack 帶來一位全天候待命的 AI 團隊成員。但除了提升生產力之外，這項功能更是一項戰略布局，旨在掌握組織脈絡、機構知識與企業工作流程。</description>
     </item>
     <item>
       <title>今年夏天在 Google 上的熱門趨勢</title>
