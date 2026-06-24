@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 21:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:51:38 GMT</lastBuildDate>
+    <item>
+      <title>AI 研究人員持續離開 Google 轉投其競爭對手</title>
+      <link>https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135911</guid>
+      <pubDate>Wed, 24 Jun 2026 21:42:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>頂尖 AI 研究人員 Jonas Adler 和 Alexander Pritzel 正離開 Google 前往 Anthropic，繼頂尖科學家 Noam Shazeer 和 John Jumper 離職之後。</description>
+    </item>
     <item>
       <title>記憶體晶片短缺正為這家美國公司帶來回報</title>
       <link>https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/</link>
@@ -341,15 +350,6 @@ Google 也表示……
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489" alt=""></p><p>據報導，Netflix、A24、Focus Features 和 Warner Bros. 的 Clockwork 都已決定不接手《Artificial》的發行合約——這是導演 Luca Guadagnino 以 OpenAI 共同創辦人／執行長 Sam Altman 為主角的新傳記劇情片。雖然 Neon 和 Mubi 仍被認為對這部片有興趣，但這種情況看起來像是好萊塢再也沒有勇氣講述關於大型科技公司的批判性故事。<br>《Artificial》的後製幾乎已經完成時，Amazon MGM 卻在上週意外宣布不再計畫發行這部電影。考量到電影已經進展到這個階段，以及報導指出 Amazon …，這則消息令人相當意外。<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Superhuman 收購 AI 偵測新創 GPTZero</title>
-      <link>https://techcrunch.com/2026/06/23/superhuman-acquires-ai-detection-startup-gptzero/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135465</guid>
-      <pubDate>Tue, 23 Jun 2026 21:48:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Superhuman 也有一款 AI 偵測工具，作為 Grammarly 的一部分，現已收購 GPTZero。</description>
     </item>
     <item>
       <title>邁向一個沒有人會對自然災害感到措手不及的世界</title>
