@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 00:41:00 GMT</lastBuildDate>
+    <item>
+      <title>沃爾瑪支持的 Flipkart 在亞馬遜加速於印度布局之際擴大即時零售推進</title>
+      <link>https://techcrunch.com/2026/06/23/walmart-backed-flipkart-expands-quick-commerce-push-as-amazon-ramps-up-in-india/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135446</guid>
+      <pubDate>Wed, 24 Jun 2026 00:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>沃爾瑪支持的 Flipkart 已超過 1,000 個微型履約中心，而亞馬遜也正加快自己在印度的即時零售布局。</description>
+    </item>
     <item>
       <title>NVIDIA 與 AWS 合作，將 AI 大規模導入正式環境</title>
       <link>https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</link>
@@ -480,15 +489,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 公司在那種「非收購式挖角」交易之後會做什麼？Groq 募了資金，正加碼其 neocloud 業務，並且正在招募新的高階主管。</description>
-    </item>
-    <item>
-      <title>Nvidia 想減少資料中心用水，但那不代表解決 AI 的用水問題</title>
-      <link>https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135044</guid>
-      <pubDate>Mon, 22 Jun 2026 20:08:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Nvidia 宣布一套新的冷卻系統，可減少資料中心內部的用水。但這對解決 AI 最大的用水來源——化石燃料發電廠——毫無幫助。</description>
     </item>
     <item>
       <title>AI 以不可能的房子誘惑租屋族，讓他們咒罵連連</title>
