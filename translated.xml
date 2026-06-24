@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:01:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 12:16:10 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力</title>
+      <link>https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563006</guid>
+      <pubDate>Wed, 24 Jun 2026 12:01:13 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>隨著雲端和 AI 服務的需求持續成長，資料中心正變得比以往更加重要。社區也想更了解這類基礎設施如何影響在地資源，特別是水資源。在 Microsoft，自從我們在 2000 年代初期建造第一座資料中心以來，水資源管理一直是優先事項，至今仍是我們的核心一環......
+〈Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力〉一文首先出現在 The Official Microsoft Blog。</description>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-1-300x169.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-1-300x169.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-1-300x169.jpg" alt=""></p><p>隨著雲端和 AI 服務的需求持續成長，資料中心正變得比以往更加重要。社區也想更了解這類基礎設施如何影響在地資源，特別是水資源。在 Microsoft，自從我們在 2000 年代初期建造第一座資料中心以來，水資源管理一直是優先事項，至今仍是我們的核心一環......<br>〈Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力〉一文首先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
+    </item>
     <item>
       <title>當一切變化都太快時，該怎麼投資</title>
       <link>https://techcrunch.com/2026/06/23/how-to-invest-when-everything-is-moving-too-fast/</link>
@@ -2123,16 +2136,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>今天，我很高興宣布，Azure Local 現在可擴展以支援單一主權環境中多達數千台伺服器的部署，讓組織能在大型資料中心、工業環境和邊緣位置本地執行大得多的工作負載，同時在其主權邊界內保持控制。運營國家基礎設施、受監管工作負載或...的組織
 
 The post Microsoft Sovereign Private Cloud scales to thousands of nodes with Azure Local appeared first on The Official Microsoft Blog.</description>
-    </item>
-    <item>
-      <title>Microsoft-OpenAI 合作的下一階段</title>
-      <link>https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562909</guid>
-      <pubDate>Mon, 27 Apr 2026 13:00:02 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>修訂協議提供長期明確性。快速的創新步調要求我們持續演進合作關係，以造福我們的客戶和兩家公司。今天，我們宣布一項修訂後的協議，以簡化我們的合作夥伴關係以及我們一起工作的方式，並以彈性、確定性，以及專注於提供 AI 的好處為基礎...
-The post Microsoft-OpenAI 合作的下一階段 first appeared on The Official Microsoft Blog.</description>
     </item>
   </channel>
 </rss>
