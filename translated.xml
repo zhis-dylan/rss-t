@@ -5,7 +5,35 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 12:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 13:01:41 GMT</lastBuildDate>
+    <item>
+      <title>Google Home Speaker 聽起來不錯、看起來也很棒——但它有點挑剔</title>
+      <link>https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on</link>
+      <guid isPermaLink="false">https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on</guid>
+      <pubDate>Wed, 24 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>Speaker 有四種顏色……但紅色最對味。｜照片：David Pierce / The Verge
+
+一開箱，全新的 Google Home Speaker 就通過了幾個重要測試。即使音量開到 100%，音樂從喇叭大聲播放出來，只要我說「Hey, Google」，它都會很快把音量壓低並立刻聆聽。事實上，在兩天的測試中，這個喇叭的三個麥克風一次都沒有漏掉喚醒詞——除了我在另一個房間裡，為了不要吵醒寶寶而對它小聲說話的那次，但我不確定那算不算公平的測試。我把這個喇叭放在浴室裡，還在淋浴時跟它聊天；Siri 幾乎從來聽不見我在流水聲中的聲音，但 Google 表現得相當不錯。
+這類情況……
+在 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Google-Home-Speaker.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Speaker 有四種顏色……但紅色最對味。｜照片：David Pierce / The Verge<br><br>一開箱，全新的 Google Home Speaker 就通過了幾個重要測試。即使音量開到 100%，音樂從喇叭大聲播放出來，只要我說「Hey, Google」，它都會很快把音量壓低並立刻聆聽。事實上，在兩天的測試中，這個喇叭的三個麥克風一次都沒有漏掉喚醒詞——除了我在另一個房間裡，為了不要吵醒寶寶而對它小聲說話的那次，但我不確定那算不算公平的測試。我把這個喇叭放在浴室裡，還在淋浴時跟它聊天；Siri 幾乎從來聽不見我在流水聲中的聲音，但 Google 表現得相當不錯。<br>這類情況……<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Wallet 讓更多旅客可使用 TSA PreCheck Touchless ID</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/google-wallet-tsa/</guid>
+      <pubDate>Wed, 24 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Wallet 是第一個與 TSA 合作的數位錢包，協助更多旅客透過 TSA PreCheck Touchless ID 快速通過機場安檢。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Breeze_through_Airport_Security.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Breeze_through_Airport_Security.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Breeze_through_Airport_Security.max-600x600.format-webp.webp" alt=""></p><p>Google Wallet 是第一個與 TSA 合作的數位錢包，協助更多旅客透過 TSA PreCheck Touchless ID 快速通過機場安檢。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Slate Auto 的極簡電動卡車起價 24,950 美元</title>
       <link>https://techcrunch.com/2026/06/24/slate-autos-radically-simple-electric-truck-starts-at-24950/</link>
@@ -36,6 +64,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TechCrunch 上週晚些時候在洛杉磯舉辦的 StrictlyVC 晚間活動，聚集了目前在 AI 領域工作的兩位相當直言不諱的投資人。他們既有趣又發人深省。</description>
+    </item>
+    <item>
+      <title>OpenAI 與 Broadcom 發表針對 LLM 最佳化的推論晶片</title>
+      <link>https://openai.com/index/openai-broadcom-jalapeno-inference-chip</link>
+      <guid isPermaLink="false">https://openai.com/index/openai-broadcom-jalapeno-inference-chip</guid>
+      <pubDate>Wed, 24 Jun 2026 06:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 與 Broadcom 推出 Jalapeño，這是一款專為 LLM 推論打造的客製化 AI 晶片，旨在提升 AI 系統的效能、效率與規模。</description>
     </item>
     <item>
       <title>沃爾瑪支持的 Flipkart 在亞馬遜加速於印度布局之際擴大即時零售推進</title>
@@ -689,21 +726,13 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" alt=""></p><p>今天，Microsoft 宣布其歷史上最大的一次單筆容量擴充之一。我們將在德州 Pecos 建立一座新的資料中心園區，將我們的全球資料中心容量擴充約 2 吉瓦（GW），以滿足各產業與各地區對 AI 和雲端服務強勁且持續的客戶需求。除了技術層面之外，這也是...<br>〈Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos〉一文最先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
-      <title>在你又用 vibe coding 開發另一個 app 之前，先讀這篇</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps</guid>
-      <pubDate>Mon, 22 Jun 2026 11:00:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>Bob Starr 對他用 vibe coding 做出來的網站很滿意。「Boomberg」顯示有多少美國稅金流向科技公司，而 Starr 在做完後就立刻把它上線了。直到網站上線好幾個月後，他才發現有個問題：一個隱藏的 SQL injection 風險。這可能會讓網站暴露在攻擊者面前，讓對方讀取或竄改不該有權限存取的資料。
-「這完全是我自己一個明顯的疏忽。在我學習這項新技術、理解它的過程中，這是一個完全沒注意到的盲點，我相信還有其他人也犯了同樣的錯，」這位科技業專案經理 Starr 說。
-
-「它是……
-
-請在 The Verge 閱讀完整報導。」}]}】【。assistant to=final  天天中彩票有័ត៌មាន  彩神争霸苹果 ుతుంది{</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268570_vibe_coding_security_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Bob Starr 對他用 vibe coding 做出來的網站很滿意。「Boomberg」顯示有多少美國稅金流向科技公司，而 Starr 在做完後就立刻把它上線了。直到網站上線好幾個月後，他才發現有個問題：一個隱藏的 SQL injection 風險。這可能會讓網站暴露在攻擊者面前，讓對方讀取或竄改不該有權限存取的資料。<br>「這完全是我自己一個明顯的疏忽。在我學習這項新技術、理解它的過程中，這是一個完全沒注意到的盲點，我相信還有其他人也犯了同樣的錯，」這位科技業專案經理 Starr 說。<br><br>「它是……<br><br>請在 The Verge 閱讀完整報導。」}]}】【。assistant to=final  天天中彩票有័ត៌មាន  彩神争霸苹果 ుతుంది{</p>]]></content:encoded>
+      <title>Patch the Planet：一項支持開源維護者的 Daybreak 倡議</title>
+      <link>https://openai.com/index/patch-the-planet</link>
+      <guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 推出 Patch the Planet，這是 Daybreak 的一項倡議，協助開源維護者透過 AI 與專家審查找出、驗證並修補漏洞。</description>
     </item>
     <item>
       <title>Daybreak：為全球每個組織提供安全防護的工具</title>
@@ -713,15 +742,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出新的 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，協助組織大規模找出、驗證並修補漏洞。</description>
-    </item>
-    <item>
-      <title>Patch the Planet：一項支持開源維護者的 Daybreak 倡議</title>
-      <link>https://openai.com/index/patch-the-planet</link>
-      <guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出 Patch the Planet，這是 Daybreak 的一項倡議，協助開源維護者透過 AI 與專家審查找出、驗證並修補漏洞。</description>
     </item>
     <item>
       <title>街景服務為喬治亞州開啟新視野</title>
@@ -979,18 +999,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <description>OpenAI 和 Molecule.one 展示近乎自主的 AI 化學家如何使用 GPT-5.4 改良關鍵的藥物製造反應，推進藥物化學研究。</description>
     </item>
     <item>
-      <title>擴展英國政府的 AI 願景</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-cloud-summit-london-2026/</guid>
-      <pubDate>Wed, 17 Jun 2026 07:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>今天在 Google Cloud 倫敦高峰會上，我們討論了為什麼 Google Cloud 是英國政府增強規劃決策工具的基礎。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleLondon_2_1.max-600x600.format-webp.webp" alt=""></p><p>今天在 Google Cloud 倫敦高峰會上，我們討論了為什麼 Google Cloud 是英國政府增強規劃決策工具的基礎。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>LifeSciBench 介紹</title>
       <link>https://openai.com/index/introducing-life-sci-bench</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench</guid>
@@ -1133,24 +1141,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Why-Social-Media-Bans-Alone-Cant-Solve-the-Age-Verification-Dilemma_Header.jpg?fit=1920%2C1080" alt=""></p><p>為了幫助確保年輕人在網路上保持安全，我們需要一個可行且集中的框架，用來驗證使用我們應用程式的人士年齡。<br>這篇〈為什麼只靠社群媒體禁令無法解決年齡驗證的兩難〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>BBVA將 AI 放在銀行業務核心，攜手 OpenAI</title>
-      <link>https://openai.com/index/bbva</link>
-      <guid isPermaLink="false">https://openai.com/index/bbva</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
-    </item>
-    <item>
-      <title>OpenAI 將收購 Ona</title>
-      <link>https://openai.com/index/openai-to-acquire-ona</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 計劃收購 Ona，以透過安全、持久的雲端環境擴展 Codex，讓 AI 代理能在企業工作流程中長時間運作。</description>
-    </item>
-    <item>
       <title>支持歐洲在確保可信賴 AI 生態系統方面的工作</title>
       <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
       <guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
@@ -1167,6 +1157,24 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解天文物理學家陳志寬如何使用 Codex 建立黑洞模擬，協助科學家研究極端物理現象並測試愛因斯坦的廣義相對論理論。</description>
+    </item>
+    <item>
+      <title>OpenAI 將收購 Ona</title>
+      <link>https://openai.com/index/openai-to-acquire-ona</link>
+      <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 計劃收購 Ona，以透過安全、持久的雲端環境擴展 Codex，讓 AI 代理能在企業工作流程中長時間運作。</description>
+    </item>
+    <item>
+      <title>BBVA將 AI 放在銀行業務核心，攜手 OpenAI</title>
+      <link>https://openai.com/index/bbva</link>
+      <guid isPermaLink="false">https://openai.com/index/bbva</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
     </item>
     <item>
       <title>透過你的 Oracle 雲端承諾存取 OpenAI 模型和 Codex</title>
@@ -1630,15 +1638,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>了解 OpenAI、Thrive 和 Crete 如何使用 Codex 打造自我改進的稅務代理人，實現申報自動化、提升準確度並加速工作流程。</description>
     </item>
     <item>
-      <title>2026 年的選舉資訊與防護措施</title>
-      <link>https://openai.com/index/election-safeguards-2026</link>
-      <guid isPermaLink="false">https://openai.com/index/election-safeguards-2026</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>在全球選舉到來之前，我們正協助人們取得資訊、支援網路防禦者，並提升 AI 透明度</description>
-    </item>
-    <item>
       <title>Warp 對用 GPT-5.5 打造開源的重大押注</title>
       <link>https://openai.com/index/warp</link>
       <guid isPermaLink="false">https://openai.com/index/warp</guid>
@@ -1646,6 +1645,15 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Warp 使用 GPT-5.5 和 OpenAI 模型，來協調跨本機、雲端與開源開發工作流程的程式碼代理。</description>
+    </item>
+    <item>
+      <title>2026 年的選舉資訊與防護措施</title>
+      <link>https://openai.com/index/election-safeguards-2026</link>
+      <guid isPermaLink="false">https://openai.com/index/election-safeguards-2026</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>在全球選舉到來之前，我們正協助人們取得資訊、支援網路防禦者，並提升 AI 透明度</description>
     </item>
     <item>
       <title>OpenAI、Grupo Folha 與 Grupo UOL 宣布策略性內容合作夥伴關係</title>
@@ -1657,15 +1665,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>OpenAI 與 Grupo Folha 和 Grupo UOL 合作，將可信賴的巴西新聞帶入 ChatGPT，透過標註來源與透明度，擴大新聞存取。</description>
     </item>
     <item>
-      <title>OpenAI 獲 Gartner 評為企業編碼代理領導者</title>
-      <link>https://openai.com/index/gartner-2026-agentic-coding-leader</link>
-      <guid isPermaLink="false">https://openai.com/index/gartner-2026-agentic-coding-leader</guid>
-      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 在 2026 年 Gartner 企業 AI 編碼代理魔力象限中被評為領導者，Codex 因創新與企業規模部署而獲得認可。</description>
-    </item>
-    <item>
       <title>維珍航空如何使用 Codex 更快交付</title>
       <link>https://openai.com/index/virgin-atlantic</link>
       <guid isPermaLink="false">https://openai.com/index/virgin-atlantic</guid>
@@ -1673,6 +1672,15 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>維珍航空如何使用 Codex 在固定的假期旅遊期限內推出其重新設計的行動應用程式，達到接近完整的單元測試覆蓋率並且零個 P1 缺陷。</description>
+    </item>
+    <item>
+      <title>OpenAI 獲 Gartner 評為企業編碼代理領導者</title>
+      <link>https://openai.com/index/gartner-2026-agentic-coding-leader</link>
+      <guid isPermaLink="false">https://openai.com/index/gartner-2026-agentic-coding-leader</guid>
+      <pubDate>Fri, 22 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 在 2026 年 Gartner 企業 AI 編碼代理魔力象限中被評為領導者，Codex 因創新與企業規模部署而獲得認可。</description>
     </item>
     <item>
       <title>Apple TV 將播出首個以 iPhone 17 Pro 拍攝的重大職業體育賽事直播</title>
@@ -1720,15 +1728,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>一個 OpenAI 模型解決了已有 80 年歷史的單位距離問題，推翻離散幾何中的一個重要猜想，並標誌著 AI 驅動數學的一個里程碑。</description>
     </item>
     <item>
-      <title>OpenAI 國家教育的下一階段</title>
-      <link>https://openai.com/index/the-next-phase-of-education-for-countries</link>
-      <guid isPermaLink="false">https://openai.com/index/the-next-phase-of-education-for-countries</guid>
-      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推進國家教育，透過新的合作夥伴關係、教師培訓與工具，擴大 AI 在學校中的採用，以改善全球學習成果。</description>
-    </item>
-    <item>
       <title>Ramp 工程師如何使用 Codex 加速程式碼審查</title>
       <link>https://openai.com/index/ramp</link>
       <guid isPermaLink="false">https://openai.com/index/ramp</guid>
@@ -1736,6 +1735,15 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Ramp 工程師如何將 Codex 與 GPT-5.5 搭配使用來審查程式碼並推出改進，讓他們能在幾分鐘內而不是幾小時內獲得實質回饋。</description>
+    </item>
+    <item>
+      <title>OpenAI 國家教育的下一階段</title>
+      <link>https://openai.com/index/the-next-phase-of-education-for-countries</link>
+      <guid isPermaLink="false">https://openai.com/index/the-next-phase-of-education-for-countries</guid>
+      <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 推進國家教育，透過新的合作夥伴關係、教師培訓與工具，擴大 AI 在學校中的採用，以改善全球學習成果。</description>
     </item>
     <item>
       <title>介紹 OpenAI 新加坡版</title>
@@ -1792,15 +1800,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>OpenAI 與馬爾他合作，擴大 AI 使用機會，提供 ChatGPT Plus 和訓練，協助公民培養實用的 AI 技能並負責任地使用 AI。</description>
     </item>
     <item>
-      <title>商務營運團隊如何使用 Codex</title>
-      <link>https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解商務營運團隊如何使用 Codex，根據實際工作輸入建立倡議簡報、策略更新、領導層決策包、進度更新等內容。</description>
-    </item>
-    <item>
       <title>銷售團隊如何使用 Codex</title>
       <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
       <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</guid>
@@ -1819,6 +1818,15 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>在 ChatGPT 中為美國的 Pro 使用者預覽全新的個人理財體驗。安全連結您的金融帳戶，並取得以您的財務情境、目標與優先事項為基礎的 AI 驅動洞察與建議。</description>
     </item>
     <item>
+      <title>Databricks 將 GPT-5.5 帶入企業代理工作流程</title>
+      <link>https://openai.com/index/databricks</link>
+      <guid isPermaLink="false">https://openai.com/index/databricks</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>在該模型於 OfficeQA Pro 基準測試上創下新的最先進水準後，Databricks 在企業代理工作流程中使用 GPT-5.5。</description>
+    </item>
+    <item>
       <title>資料科學團隊如何使用 Codex</title>
       <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
       <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</guid>
@@ -1828,13 +1836,13 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>了解資料科學團隊如何使用 Codex，根據實際工作輸入建立根本原因簡報、影響報告、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
     </item>
     <item>
-      <title>Databricks 將 GPT-5.5 帶入企業代理工作流程</title>
-      <link>https://openai.com/index/databricks</link>
-      <guid isPermaLink="false">https://openai.com/index/databricks</guid>
+      <title>商務營運團隊如何使用 Codex</title>
+      <link>https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex</link>
+      <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex</guid>
       <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>在該模型於 OfficeQA Pro 基準測試上創下新的最先進水準後，Databricks 在企業代理工作流程中使用 GPT-5.5。</description>
+      <description>了解商務營運團隊如何使用 Codex，根據實際工作輸入建立倡議簡報、策略更新、領導層決策包、進度更新等內容。</description>
     </item>
     <item>
       <title>Sea 對於搭配 Codex 的 Agentic 軟體開發未來展望</title>
@@ -1891,6 +1899,15 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>查看財務團隊如何使用 Codex，從實際工作輸入建立 MBR、報告套件、差異橋接、模型檢查和規劃情境。</description>
     </item>
     <item>
+      <title>AutoScout24 透過 AI 驅動的工作流程擴展工程團隊規模</title>
+      <link>https://openai.com/index/autoscout24</link>
+      <guid isPermaLink="false">https://openai.com/index/autoscout24</guid>
+      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 AutoScout24 Group 如何運用 Codex 和 ChatGPT 加速開發週期、提升程式碼品質，並擴大 AI 採用。</description>
+    </item>
+    <item>
       <title>Parameter Golf 教會我們關於 AI 輔助研究的事</title>
       <link>https://openai.com/index/what-parameter-golf-taught-us</link>
       <guid isPermaLink="false">https://openai.com/index/what-parameter-golf-taught-us</guid>
@@ -1909,15 +1926,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>團隊使用 Codex 搭配 GPT-5.5 來推出正式環境系統，並將研究想法轉化為可執行的實驗。</description>
     </item>
     <item>
-      <title>AutoScout24 透過 AI 驅動的工作流程擴展工程團隊規模</title>
-      <link>https://openai.com/index/autoscout24</link>
-      <guid isPermaLink="false">https://openai.com/index/autoscout24</guid>
-      <pubDate>Tue, 12 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 AutoScout24 Group 如何運用 Codex 和 ChatGPT 加速開發週期、提升程式碼品質，並擴大 AI 採用。</description>
-    </item>
-    <item>
       <title>ChatGPT 在 2026 年初的採用如何擴大</title>
       <link>https://openai.com/signals/research/2026q1-update</link>
       <guid isPermaLink="false">https://openai.com/signals/research/2026q1-update</guid>
@@ -1927,15 +1935,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>ChatGPT 在 2026 年第一季的採用激增，35 歲以上使用者的成長最快，且性別使用更趨平衡，顯示 AI 在主流市場的採用範圍更廣。</description>
     </item>
     <item>
-      <title>企業如何擴展 AI</title>
-      <link>https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai</link>
-      <guid isPermaLink="false">https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai</guid>
-      <pubDate>Mon, 11 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>企業如何擴展 AI：從早期實驗到透過信任、治理、工作流程設計，以及規模化品質帶來的複利影響。</description>
-    </item>
-    <item>
       <title>OpenAI 校園網路：學生社團意願表單</title>
       <link>https://openai.com/index/openai-campus-network-student-club-interest-form</link>
       <guid isPermaLink="false">https://openai.com/index/openai-campus-network-student-club-interest-form</guid>
@@ -1943,6 +1942,15 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>加入 OpenAI 校園網路——連結全球學生社團、使用 AI 工具、舉辦活動，打造 AI 驅動的校園社群。</description>
+    </item>
+    <item>
+      <title>企業如何擴展 AI</title>
+      <link>https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai</link>
+      <guid isPermaLink="false">https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai</guid>
+      <pubDate>Mon, 11 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>企業如何擴展 AI：從早期實驗到透過信任、治理、工作流程設計，以及規模化品質帶來的複利影響。</description>
     </item>
     <item>
       <title>OpenAI 推出 DeployCo，協助企業圍繞智慧打造</title>
@@ -1990,15 +1998,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>探索 OpenAI API 中可推理、翻譯與轉錄語音的新即時語音模型，打造更自然且更智慧的語音體驗。</description>
     </item>
     <item>
-      <title>在 ChatGPT 中推出 Trusted Contact</title>
-      <link>https://openai.com/index/introducing-trusted-contact-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-trusted-contact-in-chatgpt</guid>
-      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>在 ChatGPT 中推出 Trusted Contact，一項可選的安全功能，當偵測到嚴重自我傷害疑慮時，會通知你信任的人。</description>
-    </item>
-    <item>
       <title>在 ChatGPT 中測試廣告</title>
       <link>https://openai.com/index/testing-ads-in-chatgpt</link>
       <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
@@ -2006,6 +2005,15 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、答案獨立性、強大的隱私保護，以及使用者控制。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中推出 Trusted Contact</title>
+      <link>https://openai.com/index/introducing-trusted-contact-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-trusted-contact-in-chatgpt</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>在 ChatGPT 中推出 Trusted Contact，一項可選的安全功能，當偵測到嚴重自我傷害疑慮時，會通知你信任的人。</description>
     </item>
     <item>
       <title>Simplex 重新思考軟體開發，採用 Codex</title>
@@ -2026,15 +2034,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>了解 ChatGPT 如何保障您的隱私、減少訓練中的個人資料，並讓您掌控自己的對話是否用來改善 AI 模型。</description>
     </item>
     <item>
-      <title>介紹 ChatGPT 未來人才：2026 屆</title>
-      <link>https://openai.com/index/introducing-chatgpt-futures-class-of-2026</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-futures-class-of-2026</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>認識 ChatGPT 未來人才 2026 屆——26 位運用 AI 進行建構、研究並推動真實世界影響的學生創新者。了解這一代如何透過 ChatGPT 重新定義學習、創意與機會。</description>
-    </item>
-    <item>
       <title>Singular Bank 協助銀行家透過 ChatGPT 和 Codex 快速行動</title>
       <link>https://openai.com/index/singular-bank</link>
       <guid isPermaLink="false">https://openai.com/index/singular-bank</guid>
@@ -2042,15 +2041,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Singular Bank 建立了 Singularity，一個使用 ChatGPT 和 Codex 的內部助理，幫助銀行家在會議準備、投資組合分析和後續跟進上，每天節省 60 到 90 分鐘。</description>
-    </item>
-    <item>
-      <title>前沿公司如何拉開差距</title>
-      <link>https://openai.com/index/introducing-b2b-signals</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-b2b-signals</guid>
-      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的 B2B Signals 研究顯示，前沿企業如何深化 AI 採用、擴大由 Codex 驅動的 agentic 工作流程，並建立持久的競爭優勢。</description>
     </item>
     <item>
       <title>Uber 使用 OpenAI 協助人們更聰明地賺錢並更快預訂</title>
@@ -2062,6 +2052,24 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>Uber 使用 OpenAI 來驅動 AI 助理和語音功能，協助駕駛更聰明地賺錢，並讓乘客在全球即時市場中更快預訂。</description>
     </item>
     <item>
+      <title>前沿公司如何拉開差距</title>
+      <link>https://openai.com/index/introducing-b2b-signals</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-b2b-signals</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的 B2B Signals 研究顯示，前沿企業如何深化 AI 採用、擴大由 Codex 驅動的 agentic 工作流程，並建立持久的競爭優勢。</description>
+    </item>
+    <item>
+      <title>介紹 ChatGPT 未來人才：2026 屆</title>
+      <link>https://openai.com/index/introducing-chatgpt-futures-class-of-2026</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-futures-class-of-2026</guid>
+      <pubDate>Wed, 06 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>認識 ChatGPT 未來人才 2026 屆——26 位運用 AI 進行建構、研究並推動真實世界影響的學生創新者。了解這一代如何透過 ChatGPT 重新定義學習、創意與機會。</description>
+    </item>
+    <item>
       <title>前沿企業如何為 AI 時代重建營運模式</title>
       <link>https://blogs.microsoft.com/blog/2026/05/05/how-frontier-firms-are-rebuilding-the-operating-model-for-the-age-of-ai/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562896</guid>
@@ -2069,24 +2077,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>更新於 2026 年 5 月 11 日：這篇文章已更新，以反映第三方外掛程式將自 2026 年 5 月 12 日起提供。現在花點時間和任何軟體工程團隊待在一起，你就會看到一些值得注意的事情。過去幾年，軟體的建構方式已經經歷了四種不同的人機... 這篇〈How Frontier Firms are rebuilding the operating model for the age of AI〉最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>GPT-5.5 Instant 系統卡</title>
-      <link>https://openai.com/index/gpt-5-5-instant-system-card</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-5-instant-system-card</guid>
-      <pubDate>Tue, 05 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description/>
-    </item>
-    <item>
-      <title>GPT-5.5 Instant：更聰明、更清楚、也更個人化</title>
-      <link>https://openai.com/index/gpt-5-5-instant</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-5-instant</guid>
-      <pubDate>Tue, 05 May 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-5.5 Instant 以更聰明、更準確的回答、降低幻覺，以及改善個人化控制，更新了 ChatGPT 的預設模型。</description>
     </item>
     <item>
       <title>透過 MRC（Multipath Reliable Connection）解鎖大規模 AI 訓練網路</title>
@@ -2098,6 +2088,24 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>OpenAI 推出 MRC（Multipath Reliable Connection），這是一種透過 OCP 釋出的新型超級電腦網路協定，旨在提升大規模 AI 訓練叢集的韌性與效能。</description>
     </item>
     <item>
+      <title>GPT-5.5 Instant：更聰明、更清楚、也更個人化</title>
+      <link>https://openai.com/index/gpt-5-5-instant</link>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-5-instant</guid>
+      <pubDate>Tue, 05 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-5.5 Instant 以更聰明、更準確的回答、降低幻覺，以及改善個人化控制，更新了 ChatGPT 的預設模型。</description>
+    </item>
+    <item>
+      <title>GPT-5.5 Instant 系統卡</title>
+      <link>https://openai.com/index/gpt-5-5-instant-system-card</link>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-5-instant-system-card</guid>
+      <pubDate>Tue, 05 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description/>
+    </item>
+    <item>
       <title>購買 ChatGPT 廣告的新方式</title>
       <link>https://openai.com/index/new-ways-to-buy-chatgpt-ads</link>
       <guid isPermaLink="false">https://openai.com/index/new-ways-to-buy-chatgpt-ads</guid>
@@ -2105,15 +2113,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 擴充 ChatGPT 廣告，推出測試版自助 Ads Manager、CPC 出價，以及強化的衡量工具——旨在保護隱私並讓對話與廣告分開。</description>
-    </item>
-    <item>
-      <title>推進 EMEA 地區青少年的安全與福祉</title>
-      <link>https://openai.com/index/advancing-youth-safety-in-emea</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-youth-safety-in-emea</guid>
-      <pubDate>Tue, 05 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 OpenAI 的歐洲青年安全藍圖，以及 EMEA 青少年與福祉補助，推動為青少年、家庭與教育工作者而設的安全、負責任 AI。</description>
     </item>
     <item>
       <title>運用 AI 釋放人類雄心，推動業務成長</title>
