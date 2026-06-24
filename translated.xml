@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 17:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:19:17 GMT</lastBuildDate>
+    <item>
+      <title>Facebook 推出創作者用的 AI 夥伴 app</title>
+      <link>https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135724</guid>
+      <pubDate>Wed, 24 Jun 2026 17:16:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個新 app 目前正在與部分創作者測試，會內建 Facebook 最近推出的 AI 創作者助理。</description>
+    </item>
+    <item>
+      <title>Deezer 表示其新功能可讓粉絲在藝術家同意下重混歌曲</title>
+      <link>https://techcrunch.com/2026/06/24/deezer-says-its-new-feature-lets-fans-remix-songs-with-artist-consent/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135794</guid>
+      <pubDate>Wed, 24 Jun 2026 17:14:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>全球音樂串流服務 Deezer 對 AI 採取逆向做法，即使它也新增了一項可讓粉絲重混歌曲的功能。</description>
+    </item>
     <item>
       <title>Agility Robotics 計劃透過 SPAC 上市，交易金額達 25 億美元</title>
       <link>https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/</link>
@@ -388,24 +406,6 @@ Google 也表示……
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_23-KPMG-e1782226484211.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_23-KPMG-e1782226484211.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_23-KPMG-e1782226484211.png" alt=""></p><p>隨著 AI 驅動與自主代理成為現代軟體系統中更重要的一部分，雲端營運正進入新時代。隨著軟體變得越來越具代理性，挑戰不再只是管理更大的規模與複雜度。營運人員還必須應對演進更快、行動更自主，並在不斷擴展的網路中互相互動的系統……<br>〈以具代理性的可觀測性重新思考雲端營運〉一文最初發表於 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>密碼管理工具製造商 LastPass 表示，駭客在 Klue 外洩事件中竊取了客服案件資料</title>
-      <link>https://techcrunch.com/2026/06/23/password-manager-maker-lastpass-says-hackers-stole-customer-support-case-data-during-klue-breach/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135340</guid>
-      <pubDate>Tue, 23 Jun 2026 15:12:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是近年來影響 LastPass 客戶的第二起資料外洩事件，此前這家密碼管理工具的其中一個技術合作夥伴最近也遭到入侵。</description>
-    </item>
-    <item>
-      <title>HaloBraid 從 Seven Seven Six 募得 700 萬美元，想終結長達六小時的髮廊預約</title>
-      <link>https://techcrunch.com/2026/06/23/halobraid-raises-7m-from-seven-seven-six-to-end-the-six-hour-hair-salon-appointment/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135272</guid>
-      <pubDate>Tue, 23 Jun 2026 15:09:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>HaloBraid 旨在透過其第一款裝置協助髮廊加快編髮速度，這款裝置預計今年稍晚推出，可作為專業造型師的編髮助手。</description>
     </item>
     <item>
       <title>Fitbit Air 對 AI 健康亂象採取了更聰明的做法</title>
