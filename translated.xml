@@ -5,21 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 16:18:34 GMT</lastBuildDate>
-    <item>
-      <title>Figma 現在有 AI 動態圖形和著色器工具</title>
-      <link>https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements</link>
-      <guid isPermaLink="false">https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements</guid>
-      <pubDate>Wed, 24 Jun 2026 16:15:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>Figma 在其年度 Config 會議上公布了一些新的設計與編碼產品更新，目的是幫助創作者「把想法推得更遠」，並以 AI 自動化繁瑣工作。Figma 表示，其中一部分是重新構想的畫布，現在已針對全端開發進行最佳化，將團隊、AI 代理、工具和素材「整合在同一個地方」。
-值得注意的功能包括可讓你在不離開 Figma Design 畫布的情況下調整專案程式碼的 coding layers，以及 AI 生成的動態圖形效果，只要把想要的內容描述給 Figma 的聊天機器人介面，就能製作動畫和轉場效果。你 …
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Figma 在其年度 Config 會議上公布了一些新的設計與編碼產品更新，目的是幫助創作者「把想法推得更遠」，並以 AI 自動化繁瑣工作。Figma 表示，其中一部分是重新構想的畫布，現在已針對全端開發進行最佳化，將團隊、AI 代理、工具和素材「整合在同一個地方」。<br>值得注意的功能包括可讓你在不離開 Figma Design 畫布的情況下調整專案程式碼的 coding layers，以及 AI 生成的動態圖形效果，只要把想要的內容描述給 Figma 的聊天機器人介面，就能製作動畫和轉場效果。你 …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 16:33:49 GMT</lastBuildDate>
     <item>
       <title>Figma 新增程式碼圖層、動畫支援，以及更多 AI 功能的全新更新</title>
       <link>https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/</link>
@@ -28,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Figma 的更新新增了新的程式碼圖層、動態效果與著色器支援，以及可透過 AI 為各種工作建立自訂外掛程式的能力。</description>
+    </item>
+    <item>
+      <title>介紹 Gemini 3.5 Flash 的電腦使用功能</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/</guid>
+      <pubDate>Wed, 24 Jun 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一覽 Gemini 3.5 Flash 內建的電腦使用工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp_jX0NKNO.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp_jX0NKNO.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-heade.max-600x600.format-webp_jX0NKNO.webp" alt=""></p><p>一覽 Gemini 3.5 Flash 內建的電腦使用工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>Zoox 在準備商業服務之際升級其自駕計程車</title>
@@ -557,6 +555,19 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <description>了解 Omio 如何運用 OpenAI 來支援對話式旅遊體驗、加速產品開發，並轉型為 AI 原生公司。</description>
     </item>
     <item>
+      <title>Nvidia 表示其 AI 資料中心設計運作溫度更高，以使用更少的水</title>
+      <link>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</link>
+      <guid isPermaLink="false">https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</guid>
+      <pubDate>Mon, 22 Jun 2026 23:24:32 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>外界對資料中心的反彈主要集中在其用水與耗能上，而現在 Nvidia 正強調其說法，稱 Rubin 世代的全液冷資料中心參考設計已「消除了大量的電力使用，幾乎也消除了所有用水」。不過，這並沒有回應 AI 資料中心的所有疑慮，包括其建造期間，以及這些龐大設施對發電需求的影響。另外，正如 Gizmodo 所指出的，Nvidia 的部落格文章沒有提到這種資料中心的建置成本與採用效率較低的氣冷式資料中心相比如何，但聲稱「每一朵雲……
+在 The Verge 閱讀完整故事。」}]}】【。】}]}}]}}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}] }}}}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]{</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>外界對資料中心的反彈主要集中在其用水與耗能上，而現在 Nvidia 正強調其說法，稱 Rubin 世代的全液冷資料中心參考設計已「消除了大量的電力使用，幾乎也消除了所有用水」。不過，這並沒有回應 AI 資料中心的所有疑慮，包括其建造期間，以及這些龐大設施對發電需求的影響。另外，正如 Gizmodo 所指出的，Nvidia 的部落格文章沒有提到這種資料中心的建置成本與採用效率較低的氣冷式資料中心相比如何，但聲稱「每一朵雲……<br>在 The Verge 閱讀完整故事。」}]}】【。】}]}}]}}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}] }}}}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]{</p>]]></content:encoded>
+    </item>
+    <item>
       <title>透過 Google Arts &amp; Culture 探索威廉斯堡殖民時期風貌</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg/</guid>
@@ -977,18 +988,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Speaker_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Speaker_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Speaker_Hero.max-600x600.format-webp.webp" alt=""></p><p>認識 Google Home Speaker for Gemini。使用自然語言控制智慧家庭裝置、管理例行程序，並快速取得答案。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在 Waze 上以「小小兵與怪獸」一起開車。</title>
-      <link>https://blog.google/waze/waze-minions-and-monsters/</link>
-      <guid isPermaLink="false">https://blog.google/waze/waze-minions-and-monsters/</guid>
-      <pubDate>Wed, 17 Jun 2026 11:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>準備好為你的夏日通勤注入一些歡樂和惡作劇了嗎？Waze 正把全世界最受歡迎的開心搗蛋鬼帶回副駕駛座，正好趕上……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Minions-Keyvisual-Horizontal-EN.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Minions-Keyvisual-Horizontal-EN.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Minions-Keyvisual-Horizontal-EN.max-600x600.format-webp.webp" alt=""></p><p>準備好為你的夏日通勤注入一些歡樂和惡作劇了嗎？Waze 正把全世界最受歡迎的開心搗蛋鬼帶回副駕駛座，正好趕上……</p>]]></content:encoded>
     </item>
     <item>
       <title>近乎自主的 AI 化學家改良了藥物化學中的一項具挑戰性的反應</title>
