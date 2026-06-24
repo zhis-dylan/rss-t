@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 00:25:53 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與 AWS 合作，將 AI 大規模導入正式環境</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</guid>
+      <pubDate>Wed, 24 Jun 2026 00:05:37 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>大規模建置 AI 系統是一項艱鉅任務，需要低延遲推論、快速向量搜尋、強大的 GPU 價效比，以及能夠擴展而不會成倍增加營運複雜度的基礎架構。NVIDIA 與 Amazon Web Services（AWS）最新的合作，正針對這些限制逐一提供解決方案。從 Amazon OpenSearch 到 Amazon EC2，NVIDIA AI 基礎架構正為企業提供更實際的部署途徑 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/90353e3cadbbe046575332f36e8c264d/6a3b1f753d63322be37a5edf_logo-lockup-tech-blog-aws-1920x1080-2-842x450/logo-lockup-tech-blog-aws-1920x1080-2-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/90353e3cadbbe046575332f36e8c264d/6a3b1f753d63322be37a5edf_logo-lockup-tech-blog-aws-1920x1080-2-842x450/logo-lockup-tech-blog-aws-1920x1080-2-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/90353e3cadbbe046575332f36e8c264d/6a3b1f753d63322be37a5edf_logo-lockup-tech-blog-aws-1920x1080-2-842x450/logo-lockup-tech-blog-aws-1920x1080-2-842x450_thmb.jpg" alt=""></p><p>大規模建置 AI 系統是一項艱鉅任務，需要低延遲推論、快速向量搜尋、強大的 GPU 價效比，以及能夠擴展而不會成倍增加營運複雜度的基礎架構。NVIDIA 與 Amazon Web Services（AWS）最新的合作，正針對這些限制逐一提供解決方案。從 Amazon OpenSearch 到 Amazon EC2，NVIDIA AI 基礎架構正為企業提供更實際的部署途徑 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>印度的 MoEngage 押注行銷的未來是數百萬個 AI 代理人</title>
       <link>https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/</link>
@@ -997,18 +1009,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/aad6f4672fbf5b2067a3a9b40ac134e1/6a31ca163d633271f9e4552c_26tx-coherent-factory-DEB30839-842x450/26tx-coherent-factory-DEB30839-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/aad6f4672fbf5b2067a3a9b40ac134e1/6a31ca163d633271f9e4552c_26tx-coherent-factory-DEB30839-842x450/26tx-coherent-factory-DEB30839-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/aad6f4672fbf5b2067a3a9b40ac134e1/6a31ca163d633271f9e4552c_26tx-coherent-factory-DEB30839-842x450/26tx-coherent-factory-DEB30839-842x450_thmb.jpg" alt=""></p><p>AI 以光速運行。越來越多這樣的光是在德州製造的。Coherent 今天在德州 Sherman 為擴建後的製造廠房舉行動土典禮。該公司生產將 AI 系統連結在一起的雷射、光學元件和化合物半導體——並營運其所稱的全球首座 6 吋磷化銦 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>HPE AI Factory with NVIDIA 擴展以迎接代理時代</title>
-      <link>https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/hpe-ai-factory-agentic-enterprise/</guid>
-      <pubDate>Tue, 16 Jun 2026 16:30:27 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>企業正將代理式 AI 從概念驗證推進到正式上線，而下一代 AI 工廠是為代理時代打造的。在 HPE Discover Las Vegas 期間，活動持續至 6 月 18 日（星期四），NVIDIA 和 HPE 正在擴展 HPE AI Factory with NVIDIA，包括 NVIDIA Vera CPU 和 NVIDIA Agent Toolkit […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/5c1b7efd25e1d133d7ef74cadad50733/6a317a433d6332e79060c1e0_logo-lockup-press-hpe-1600x900-4603000-842x450/logo-lockup-press-hpe-1600x900-4603000-842x450_thmb.jpg" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/5c1b7efd25e1d133d7ef74cadad50733/6a317a433d6332e79060c1e0_logo-lockup-press-hpe-1600x900-4603000-842x450/logo-lockup-press-hpe-1600x900-4603000-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/5c1b7efd25e1d133d7ef74cadad50733/6a317a433d6332e79060c1e0_logo-lockup-press-hpe-1600x900-4603000-842x450/logo-lockup-press-hpe-1600x900-4603000-842x450_thmb.jpg" alt=""></p><p>企業正將代理式 AI 從概念驗證推進到正式上線，而下一代 AI 工廠是為代理時代打造的。在 HPE Discover Las Vegas 期間，活動持續至 6 月 18 日（星期四），NVIDIA 和 HPE 正在擴展 HPE AI Factory with NVIDIA，包括 NVIDIA Vera CPU 和 NVIDIA Agent Toolkit […]</p>]]></content:encoded>
     </item>
     <item>
       <title>以 AI 取得成功</title>
