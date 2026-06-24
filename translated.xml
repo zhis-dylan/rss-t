@@ -5,7 +5,39 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 16:33:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 16:49:00 GMT</lastBuildDate>
+    <item>
+      <title>Agility Robotics 計劃透過 SPAC 上市，交易金額達 25 億美元</title>
+      <link>https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135736</guid>
+      <pubDate>Wed, 24 Jun 2026 16:48:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Agility Robotics 這家於 2015 年從 Oregon State University 獨立出來的人形機器人新創公司，預計將募得 6.2 億美元資金。</description>
+    </item>
+    <item>
+      <title>NTSB 對德州致命 Tesla 車禍展開調查</title>
+      <link>https://techcrunch.com/2026/06/24/ntsb-launches-probe-into-fatal-texas-tesla-crash/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135792</guid>
+      <pubDate>Wed, 24 Jun 2026 16:39:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個以徹底調查聞名的安全委員會，正與美國國家公路交通安全管理局一同調查這起車禍。</description>
+    </item>
+    <item>
+      <title>Figma 現在有 AI 動態圖形和著色器工具</title>
+      <link>https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements</link>
+      <guid isPermaLink="false">https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements</guid>
+      <pubDate>Wed, 24 Jun 2026 16:15:00 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>Figma 在年度 Config 研討會上發表了一些新的設計與程式設計產品更新，目標是幫助創作者「把想法推得更遠」，並用 AI 自動化繁瑣工作。Figma 表示，這其中包括重新設計的畫布，現在已針對全端開發進行最佳化，將團隊、AI 代理、工具和素材「整合在同一個地方」。
+值得注意的功能包括程式碼圖層，讓你不用離開 Figma Design 畫布就能調整專案程式碼；以及 AI 生成的動態圖形效果，讓你只要把動畫與轉場效果描述給 Figma 的聊天機器人介面，就能製作出來。你 …
+完整內容請見 The Verge。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Figma-config-2026.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Figma 在年度 Config 研討會上發表了一些新的設計與程式設計產品更新，目標是幫助創作者「把想法推得更遠」，並用 AI 自動化繁瑣工作。Figma 表示，這其中包括重新設計的畫布，現在已針對全端開發進行最佳化，將團隊、AI 代理、工具和素材「整合在同一個地方」。<br>值得注意的功能包括程式碼圖層，讓你不用離開 Figma Design 畫布就能調整專案程式碼；以及 AI 生成的動態圖形效果，讓你只要把動畫與轉場效果描述給 Figma 的聊天機器人介面，就能製作出來。你 …<br>完整內容請見 The Verge。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Figma 新增程式碼圖層、動畫支援，以及更多 AI 功能的全新更新</title>
       <link>https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/</link>
@@ -392,24 +424,6 @@ Google Health Coach 似乎覺得我快要身體崩潰了。我的睡眠狀況不
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268538_Fitbit_Air_AKrales_0012.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Google Fitbit Air 是較好的 AI 相容健康追蹤器嘗試之一。<br><br>Google Health Coach 似乎覺得我快要身體崩潰了。我的睡眠狀況不符合需求，因此我的備戰分數不怎麼樣。我的心率變異性，也就是我恢復狀況的指標，低於基準。我花太多時間待在悶熱潮濕的環境裡，它這麼說，還提醒我氣溫正在逼近華氏 90 度以上。根據 Google 的 AI 教練，我應該取消原本安排的重訓。我的首要任務是補充水分、遠離高溫，並盡量多走幾步。還有——我的小腿有感到任何負擔嗎？我對這個評估的感受如何？<br>說實話，心情複雜。結果發現，那……<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Meta 推出自有品牌的新款、較便宜的智慧眼鏡</title>
-      <link>https://techcrunch.com/2026/06/23/meta-debuts-new-cheaper-smart-glasses-under-its-own-brand/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135278</guid>
-      <pubDate>Tue, 23 Jun 2026 14:11:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款智慧眼鏡自今天起在數個國家上市，提供多種顏色與鏡片組合。</description>
-    </item>
-    <item>
-      <title>距離以最高省下 190 美元搶購 TechCrunch Founder Summit 2026 只剩 4 天</title>
-      <link>https://techcrunch.com/2026/06/23/4-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135249</guid>
-      <pubDate>Tue, 23 Jun 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>距離 TechCrunch Founder Summit 2026 的票券還能省下最多 190 美元，只剩四天——這是終極創辦人訓練營——早鳥優惠將於 6 月 26 日晚上 11:59（PT）結束。立即報名。</description>
-    </item>
-    <item>
       <title>Sony 的 AI 相機助理跟看起來一樣糟</title>
       <link>https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant</link>
       <guid isPermaLink="false">https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant</guid>
@@ -553,19 +567,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Omio 如何運用 OpenAI 來支援對話式旅遊體驗、加速產品開發，並轉型為 AI 原生公司。</description>
-    </item>
-    <item>
-      <title>Nvidia 表示其 AI 資料中心設計運作溫度更高，以使用更少的水</title>
-      <link>https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</link>
-      <guid isPermaLink="false">https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling</guid>
-      <pubDate>Mon, 22 Jun 2026 23:24:32 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>外界對資料中心的反彈主要集中在其用水與耗能上，而現在 Nvidia 正強調其說法，稱 Rubin 世代的全液冷資料中心參考設計已「消除了大量的電力使用，幾乎也消除了所有用水」。不過，這並沒有回應 AI 資料中心的所有疑慮，包括其建造期間，以及這些龐大設施對發電需求的影響。另外，正如 Gizmodo 所指出的，Nvidia 的部落格文章沒有提到這種資料中心的建置成本與採用效率較低的氣冷式資料中心相比如何，但聲稱「每一朵雲……
-在 The Verge 閱讀完整故事。」}]}】【。】}]}}]}}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}] }}}}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]{</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>外界對資料中心的反彈主要集中在其用水與耗能上，而現在 Nvidia 正強調其說法，稱 Rubin 世代的全液冷資料中心參考設計已「消除了大量的電力使用，幾乎也消除了所有用水」。不過，這並沒有回應 AI 資料中心的所有疑慮，包括其建造期間，以及這些龐大設施對發電需求的影響。另外，正如 Gizmodo 所指出的，Nvidia 的部落格文章沒有提到這種資料中心的建置成本與採用效率較低的氣冷式資料中心相比如何，但聲稱「每一朵雲……<br>在 The Verge 閱讀完整故事。」}]}】【。】}]}}]}}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}] }}}}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]}]{</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Google Arts &amp; Culture 探索威廉斯堡殖民時期風貌</title>
