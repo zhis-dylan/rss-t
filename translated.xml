@@ -5,7 +5,22 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 24 Jun 2026 14:32:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:47:39 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 揭露其首款 AI 處理器：Jalapeño</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno</guid>
+      <pubDate>Wed, 24 Jun 2026 14:36:47 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>OpenAI 剛剛揭露了一款新的、與 Broadcom 合作打造的 AI 伺服器「intelligence processor」晶片。根據週三的公告，這款名為 Jalapeño 的晶片是為了支援現在與未來的大型語言模型而設計。
+Jalapeño 是一顆 ASIC（Application-Specific Integrated Circuit，特殊應用積體電路），也就是說，它是為特定用途而設計：AI 推論。透過 AI 推論，模型會處理使用者的請求，執行像 Codex 這樣的代理，或從 ChatGPT 提供回應；而 AI 訓練則涉及模型消耗大量資料，以便形成其回應。
+這距離 OpenAI 透露將與 Br …
+在 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/webp"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-broadcom-jalapeno-inference-chip-image.webp?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>OpenAI 剛剛揭露了一款新的、與 Broadcom 合作打造的 AI 伺服器「intelligence processor」晶片。根據週三的公告，這款名為 Jalapeño 的晶片是為了支援現在與未來的大型語言模型而設計。<br>Jalapeño 是一顆 ASIC（Application-Specific Integrated Circuit，特殊應用積體電路），也就是說，它是為特定用途而設計：AI 推論。透過 AI 推論，模型會處理使用者的請求，執行像 Codex 這樣的代理，或從 ChatGPT 提供回應；而 AI 訓練則涉及模型消耗大量資料，以便形成其回應。<br>這距離 OpenAI 透露將與 Br …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
+    </item>
     <item>
       <title>如果你想減少螢幕使用時間，只要買個 Brick</title>
       <link>https://techcrunch.com/2026/06/24/if-you-want-to-cut-your-screen-time-just-get-a-brick/</link>
@@ -79,9 +94,9 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>隨著雲端和 AI 服務的需求持續成長，資料中心正變得比以往更加重要。社區也想更了解這類基礎設施如何影響在地資源，特別是水資源。在 Microsoft，自從我們在 2000 年代初期建造第一座資料中心以來，水資源管理一直是優先事項，至今仍是我們的核心一環......
 〈Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力〉一文首先出現在 The Official Microsoft Blog。</description>
-      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-1.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-1.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-1.jpg" alt=""></p><p>隨著雲端和 AI 服務的需求持續成長，資料中心正變得比以往更加重要。社區也想更了解這類基礎設施如何影響在地資源，特別是水資源。在 Microsoft，自從我們在 2000 年代初期建造第一座資料中心以來，水資源管理一直是優先事項，至今仍是我們的核心一環......<br>〈Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力〉一文首先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image.jpg" alt=""></p><p>隨著雲端和 AI 服務的需求持續成長，資料中心正變得比以往更加重要。社區也想更了解這類基礎設施如何影響在地資源，特別是水資源。在 Microsoft，自從我們在 2000 年代初期建造第一座資料中心以來，水資源管理一直是優先事項，至今仍是我們的核心一環......<br>〈Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力〉一文首先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
       <title>當一切變化都太快時，該怎麼投資</title>
@@ -539,21 +554,6 @@ Meta 本來可以從一開始就走自己的路，但在進入智慧眼鏡領域
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>外界對資料中心的反彈一直強調它們的用水與耗能問題，而現在 Nvidia 正在強調其主張：Rubin 世代全液冷資料中心的參考設計已經「消除了大量的電力使用，幾乎也消除了所有用水」。不過，這並沒有回應圍繞 AI 資料中心的所有疑慮，包括它們在建設過程中的影響，以及這些龐大設施的發電需求。此外，正如 Gizmodo 所指出的，Nvidia 的部落格文章並未提到建造這種資料中心的成本，與使用效率較低的空冷方案相比如何，但卻聲稱「每個雲端 …<br>在 The Verge 閱讀完整故事。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 以不可能的房子誘惑租屋族，讓他們咒罵連連</title>
-      <link>https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</link>
-      <guid isPermaLink="false">https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings</guid>
-      <pubDate>Mon, 22 Jun 2026 20:00:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>在紐約長大的 Joyce 原本就沒指望在這座城市找到人生第一間自己住的公寓會很容易，但她也沒想到會這麼「地獄」。在看過很多又小又貴、她形容為「爛房子」的地方後，Joyce 找到了她夢想中的公寓：曼哈頓一間價格合理的套房。
-「它很大、很通風，而且還有壁爐，」她說。廚房很小，但設備齊全，看起來最近才剛翻新過。她立刻放下手邊一切去看房，到了現場後才知道，另外還有五位和她年紀差不多的女性，排在她後面看房。
-「我一走進去，發現那不是同一間公寓……
-在 The Verge 閱讀完整故事。」}]}。}],</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268589_Vitual_staging_AParkin.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>在紐約長大的 Joyce 原本就沒指望在這座城市找到人生第一間自己住的公寓會很容易，但她也沒想到會這麼「地獄」。在看過很多又小又貴、她形容為「爛房子」的地方後，Joyce 找到了她夢想中的公寓：曼哈頓一間價格合理的套房。<br>「它很大、很通風，而且還有壁爐，」她說。廚房很小，但設備齊全，看起來最近才剛翻新過。她立刻放下手邊一切去看房，到了現場後才知道，另外還有五位和她年紀差不多的女性，排在她後面看房。<br>「我一走進去，發現那不是同一間公寓……<br>在 The Verge 閱讀完整故事。」}]}。}],</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Google Arts &amp; Culture 探索威廉斯堡殖民時期風貌</title>
