@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:31:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:46:24 GMT</lastBuildDate>
+    <item>
+      <title>投資烏克蘭的 AI 領導地位與經濟未來</title>
+      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/investing-in-ukraines-ai-leadership-and-economic-future/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/investing-in-ukraines-ai-leadership-and-economic-future/</guid>
+      <pubDate>Thu, 25 Jun 2026 17:40:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google.org 正提供 500 萬美元補助金，擴大 Obrii——烏克蘭的國家 AI 求職平台。這有助於烏克蘭在 AI 採用上扮演示範角色，延續永續…</description>
+    </item>
+    <item>
+      <title>Anthropic 的 Claude 正在贏得付費消費者，這個市場原本由 ChatGPT 主導</title>
+      <link>https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135892</guid>
+      <pubDate>Thu, 25 Jun 2026 17:38:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>儘管 ChatGPT 在市場上具有壓倒性領先地位，數據顯示，付費使用 AI 的消費者越來越傾向選擇 Anthropic 的 Claude。</description>
+    </item>
     <item>
       <title>打造專為教育量身設計的 AI，由教育工作者領先主導</title>
       <link>https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/</link>
@@ -354,15 +372,6 @@ Creator Studio 應用程式尚未廣泛……
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>頂尖 AI 研究人員 Jonas Adler 和 Alexander Pritzel 正離開 Google 前往 Anthropic，繼頂尖科學家 Noam Shazeer 和 John Jumper 離職之後。</description>
-    </item>
-    <item>
-      <title>記憶體晶片短缺正為這家美國公司帶來回報</title>
-      <link>https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135900</guid>
-      <pubDate>Wed, 24 Jun 2026 21:30:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>營收較去年同期翻了四倍，達 414.5 億美元。與此同時，該公司的獲利則從 18.8 億美元年增至驚人的 282 億美元。</description>
     </item>
     <item>
       <title>國會女議員否認幕僚使用 AI 撰寫國防經費修正案</title>
@@ -729,18 +738,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Omio 如何運用 OpenAI 來支援對話式旅遊體驗、加速產品開發，並轉型為 AI 原生公司。</description>
-    </item>
-    <item>
-      <title>透過 Google Arts &amp; Culture 探索威廉斯堡殖民時期風貌</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg/</guid>
-      <pubDate>Mon, 22 Jun 2026 20:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>為慶祝美國 250 週年，一個新的數位平台展示了 18 世紀維吉尼亞州的殖民生活。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Governors_Palace_Gardens_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Governors_Palace_Gardens_16x9.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Governors_Palace_Gardens_16x9.max-600x600.format-webp.webp" alt=""></p><p>為慶祝美國 250 週年，一個新的數位平台展示了 18 世紀維吉尼亞州的殖民生活。</p>]]></content:encoded>
     </item>
     <item>
       <title>Instagram for TV 變得更大，推出新的一起觀看方式</title>
