@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 25 Jun 2026 21:48:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:03:46 GMT</lastBuildDate>
+    <item>
+      <title>YouTube Shorts 變得更短，更新後可將播放速度加倍</title>
+      <link>https://techcrunch.com/2026/06/25/youtube-shorts-are-getting-even-shorter-with-an-update-that-lets-you-double-the-playback-speed/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3136461</guid>
+      <pubDate>Thu, 25 Jun 2026 22:02:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>YouTube Shorts 正在進行改版。</description>
+    </item>
+    <item>
+      <title>OpenAI將在川普政府要求下延後推出GPT-5.6</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request</guid>
+      <pubDate>Thu, 25 Jun 2026 21:57:06 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>川普政府對潛在的安全問題感到憂慮，據報已要求OpenAI錯開發表其下一款重點模型GPT-5.6的時間。
+The Information報導，OpenAI執行長Sam Altman週三在公司問答會上告訴員工，為了配合聯邦政府的要求，公司會以限量預覽形式推出GPT-5.6，僅讓少數企業客戶使用。在這段預覽期間，據報川普政府本身會逐案核准客戶的存取權限。
+這比川普政府給OpenAI競爭對手Anthropic的條件更有利……
+在The Verge閱讀完整內容。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>川普政府對潛在的安全問題感到憂慮，據報已要求OpenAI錯開發表其下一款重點模型GPT-5.6的時間。<br>The Information報導，OpenAI執行長Sam Altman週三在公司問答會上告訴員工，為了配合聯邦政府的要求，公司會以限量預覽形式推出GPT-5.6，僅讓少數企業客戶使用。在這段預覽期間，據報川普政府本身會逐案核准客戶的存取權限。<br>這比川普政府給OpenAI競爭對手Anthropic的條件更有利……<br>在The Verge閱讀完整內容。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Patronus AI 募得 5000 萬美元打造可對 AI 代理進行壓力測試的「數位世界」</title>
       <link>https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/</link>
@@ -82,6 +106,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" alt=""></p><p>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</p>]]></content:encoded>
     </item>
     <item>
+      <title>Google 家長使用 Gemini 的 5 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</guid>
+      <pubDate>Thu, 25 Jun 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 如何協助做功課、規劃餐點等，讓家長有時間專注在更重要的事情上。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 如何協助做功課、規劃餐點等，讓家長有時間專注在更重要的事情上。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>打造專為教育量身設計的 AI，由教育工作者領先主導</title>
       <link>https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/</guid>
@@ -112,16 +148,16 @@
       <description>市場研究公司 Klue 告訴客戶，它認為竊取其資料的駭客組織現在正在刪除這些資料。不過，該公司也警告，有第二個駭客組織想要勒索贖金。</description>
     </item>
     <item>
-      <title>ISTE 2026：以連結式 AI 工具支援教學與學習</title>
-      <link>https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</guid>
+      <title>在 Gemini 應用程式中使用 study notebooks 學習的 5 種方式</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</guid>
       <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Google for Education 在 ISTE 2026 的最新公告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" alt=""></p><p>Google for Education 在 ISTE 2026 的最新公告。</p>]]></content:encoded>
+      <description>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</p>]]></content:encoded>
     </item>
     <item>
       <title>用 6 月的 Demand Gen Drop 提升你的廣告活動成效。</title>
@@ -160,16 +196,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_County_Case_Study_Blog_He.max-600x600.format-webp.webp" alt=""></p><p>肯塔基州的 Henry County Public Schools 在 Gemini for Education 的協助下，成功縮小了關鍵的成就落差。</p>]]></content:encoded>
     </item>
     <item>
-      <title>在 Gemini 應用程式中使用 study notebooks 學習的 5 種方式</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</guid>
+      <title>ISTE 2026：以連結式 AI 工具支援教學與學習</title>
+      <link>https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</guid>
       <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</p>]]></content:encoded>
+      <description>Google for Education 在 ISTE 2026 的最新公告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" alt=""></p><p>Google for Education 在 ISTE 2026 的最新公告。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們最新的 Google Finance 升級，包括全新應用程式</title>
@@ -380,15 +416,6 @@ Creator Studio 應用程式尚未廣泛……
       <description>一篇新的 OpenAI 研究論文顯示，AI 代理人正如何改變工作，讓更長、更複雜的任務成為可能，並提升各種職務的生產力。</description>
     </item>
     <item>
-      <title>歐洲正在反制華盛頓的晶片戰</title>
-      <link>https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136032</guid>
-      <pubDate>Thu, 25 Jun 2026 00:08:36 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如同 ASML 執行長 Christophe Fouquet 在 5 月告訴 TechCrunch 的，現在中國能買到的是較舊一代的深紫外線工具——這些設備最早是在大約十年前出貨的——而 MATCH Act 現在也會把同樣的機器列為禁售。</description>
-    </item>
-    <item>
       <title>國會女議員否認幕僚使用 AI 撰寫國防經費修正案</title>
       <link>https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude</link>
       <guid isPermaLink="false">https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude</guid>
@@ -566,21 +593,6 @@ Google 也表示……
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FloodAlert_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 持續進行的危機韌性努力與使命概述，於 AI for the Planet 活動中分享。</p>]]></content:encoded>
     </item>
     <item>
-      <title>為什麼企業 AI 超級政治行動委員會在一場地方選舉上花了 2700 萬美元</title>
-      <link>https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district</link>
-      <guid isPermaLink="false">https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district</guid>
-      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>你好，歡迎來到 Regulator，這是給 Verge 訂戶的電子報，記錄你們最喜歡的科技巨頭和華府沼澤生物的失敗冒險。（「最喜歡」當然很主觀。）還不是訂戶嗎？點這裡註冊，尤其是如果你想搶先知道由 The Verge 編輯團隊那些很棒的人推薦的優質 Amazon Prime Day 優惠，而不是垃圾演算法推薦的。 
-有個消息：現在 The Verge 為持有效電子郵件地址的學生提供每年 10 美元的特別訂閱價！你可以獲得一般訂閱的全部內容：無廣告 podcast、訂戶問答，以及更多更多。 
-我們即將帶你…… 
-完整內容請見 The Verge。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2280753489.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>你好，歡迎來到 Regulator，這是給 Verge 訂戶的電子報，記錄你們最喜歡的科技巨頭和華府沼澤生物的失敗冒險。（「最喜歡」當然很主觀。）還不是訂戶嗎？點這裡註冊，尤其是如果你想搶先知道由 The Verge 編輯團隊那些很棒的人推薦的優質 Amazon Prime Day 優惠，而不是垃圾演算法推薦的。 <br>有個消息：現在 The Verge 為持有效電子郵件地址的學生提供每年 10 美元的特別訂閱價！你可以獲得一般訂閱的全部內容：無廣告 podcast、訂戶問答，以及更多更多。 <br>我們即將帶你…… <br>完整內容請見 The Verge。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>GPT-5 如何幫助免疫學家 Derya Unutmaz 解開一個 3 年的謎團</title>
       <link>https://openai.com/index/gpt-5-immunology-mystery</link>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-immunology-mystery</guid>
@@ -696,18 +708,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT_Illustration.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT_Illustration.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YT_Illustration.max-600x600.format-webp.webp" alt=""></p><p>YouTube 在 Cannes Lions 2026 推出新的洞察工具，以支援創作者合作並強化廣告活動。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>保存文化遺產：走進 Google DeepMind 與 Pelé 的合作</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/preserving-cultural-heritage-inside-google-deepminds-collaboration-with-pele/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/preserving-cultural-heritage-inside-google-deepminds-collaboration-with-pele/</guid>
-      <pubDate>Tue, 23 Jun 2026 12:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>1959 年 8 月 2 日，Pelé 踢進了他職業生涯中最精彩的一球：連續三次做出「sombrero」過人，而且球完全沒有落地。然而，這個傳奇的「Gol da Rua …</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pele_bts.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pele_bts.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pele_bts.max-600x600.format-webp.webp" alt=""></p><p>1959 年 8 月 2 日，Pelé 踢進了他職業生涯中最精彩的一球：連續三次做出「sombrero」過人，而且球完全沒有落地。然而，這個傳奇的「Gol da Rua …</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 驅動全球 500 台最快超級電腦中的 400 多台</title>
