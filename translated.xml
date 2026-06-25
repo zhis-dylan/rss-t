@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 25 Jun 2026 16:45:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:00:57 GMT</lastBuildDate>
     <item>
       <title>打造專為教育量身設計的 AI，由教育工作者領先主導</title>
       <link>https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/</link>
@@ -17,6 +17,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE2026-BlogHeader-Educator-20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE2026-BlogHeader-Educator-20.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE2026-BlogHeader-Educator-20.max-600x600.format-webp.webp" alt=""></p><p>Google 的 AI 工具可協助教育工作者達成教學目標，並提供個人化體驗，幫助學生以最適合自己的方式學習——全都在…</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Databricks 前 AI 主管認為他能把 AI 的電費降低 1,000 倍</title>
+      <link>https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3136344</guid>
+      <pubDate>Thu, 25 Jun 2026 16:48:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Un0 是一個影像生成系統工具，首次展示該公司的技術如何複製傳統 AI 系統。</description>
     </item>
     <item>
       <title>遭駭的 Klue 表示，犯罪分子正在刪除竊取的客戶資料，但現在其他駭客正在發出威脅</title>
@@ -354,15 +363,6 @@ Creator Studio 應用程式尚未廣泛……
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>營收較去年同期翻了四倍，達 414.5 億美元。與此同時，該公司的獲利則從 18.8 億美元年增至驚人的 282 億美元。</description>
-    </item>
-    <item>
-      <title>新網站點名那些仍未向使用者提供通行密鑰的公司</title>
-      <link>https://techcrunch.com/2026/06/24/new-website-names-and-shames-companies-that-still-dont-offer-passkeys-to-users/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135890</guid>
-      <pubDate>Wed, 24 Jun 2026 21:04:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據一個新網站，全球最受歡迎的網站中有 24% 不提供通行密鑰支援；通行密鑰被認為是登入應用程式和服務最安全的方式。</description>
     </item>
     <item>
       <title>國會女議員否認幕僚使用 AI 撰寫國防經費修正案</title>
