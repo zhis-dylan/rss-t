@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 01:08:10 GMT</lastBuildDate>
     <item>
       <title>歐洲正在反制華盛頓的晶片戰</title>
       <link>https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/</link>
@@ -468,6 +468,19 @@ Google Health Coach 似乎覺得我快要身體崩潰了。我的睡眠狀況不
       <media:content url="https://about.fb.com/wp-content/uploads/2026/06/Meta-Partnering-with-EssilorLucottica-to-Launch-Meta-Glasses_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/06/Meta-Partnering-with-EssilorLucottica-to-Launch-Meta-Glasses_Thumbnail.gif?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Meta-Partnering-with-EssilorLucottica-to-Launch-Meta-Glasses_Thumbnail.gif?fit=890%2C501" alt=""></p><p>我們將推出 Meta 眼鏡，共有 26 種不同款式，涵蓋多種顏色、鏡片與鏡框，幾乎各種風格都能找到適合的一款。<br>這篇〈我們將與 EssilorLuxottica 合作推出 Meta 眼鏡〉最早發表於 Meta 新聞室。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Meta 的小型企業成長學院在亞太地區啟動，以提升 AI 採用與數位技能</title>
+      <link>https://about.fb.com/news/2026/06/launch-of-metas-small-business-growth-academy-across-asia-pacific/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=49258</guid>
+      <pubDate>Tue, 23 Jun 2026 13:00:09 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>Meta 的小型企業成長學院將提供實用的 AI 工具、廣告，以及跨境成長培訓，協助小型企業在亞太地區擴展規模。
+Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills 這篇文章最初發表於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/03/AdobeStock_340663504.jpeg?fit=6048%2C3400" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/03/AdobeStock_340663504.jpeg?fit=6048%2C3400"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/03/AdobeStock_340663504.jpeg?fit=6048%2C3400" alt=""></p><p>Meta 的小型企業成長學院將提供實用的 AI 工具、廣告，以及跨境成長培訓，協助小型企業在亞太地區擴展規模。<br>Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI Adoption and Digital Skills 這篇文章最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>企業如何打造可信任的專門化 AI</title>
@@ -1188,20 +1201,6 @@ Google Health Coach 似乎覺得我快要身體崩潰了。我的睡眠狀況不
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>透過 Oracle Cloud 存取 OpenAI 模型和 Codex，使用現有承諾來建構與部署具備企業級安全性與治理的 AI。</description>
-    </item>
-    <item>
-      <title>基礎架構說明：運算能力</title>
-      <link>https://about.fb.com/news/2026/06/what-is-compute-power-meta-ai-infrastructure/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=48584</guid>
-      <pubDate>Wed, 10 Jun 2026 14:30:04 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們正在說明什麼是運算能力，以及 GPU、CPU 和 MTIA 客製化晶片如何幫助我們滿足 AI 創新與運算需求。
-
-這篇文章〈基礎架構說明：運算能力〉最初發表於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/06/InfraExplained_Compute_Header.png?fit=1920%2C1080" medium="image" type="image/png"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/06/InfraExplained_Compute_Header.png?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/InfraExplained_Compute_Header.png?fit=1920%2C1080" alt=""></p><p>我們正在說明什麼是運算能力，以及 GPU、CPU 和 MTIA 客製化晶片如何幫助我們滿足 AI 創新與運算需求。<br><br>這篇文章〈基礎架構說明：運算能力〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>與中國大陸有關聯的影響力行動正鎖定美國的 AI 辯論</title>
