@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:46:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:01:34 GMT</lastBuildDate>
+    <item>
+      <title>a16z 支持的 Base Power 正在向最需要的電網提供更便宜的電力</title>
+      <link>https://techcrunch.com/2026/06/25/a16z-backed-base-power-is-offering-cheaper-electricity-to-the-power-grid-that-needs-it-most/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3136388</guid>
+      <pubDate>Thu, 25 Jun 2026 17:52:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Base Power 透過把電池放在民眾家中，跳過 PJM 問題重重的併網排隊，並以提供備援服務作為交換。</description>
+    </item>
     <item>
       <title>投資烏克蘭的 AI 領導地位與經濟未來</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/investing-in-ukraines-ai-leadership-and-economic-future/</link>
@@ -23,6 +32,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>儘管 ChatGPT 在市場上具有壓倒性領先地位，數據顯示，付費使用 AI 的消費者越來越傾向選擇 Anthropic 的 Claude。</description>
+    </item>
+    <item>
+      <title>試試這 3 個 Google AI 工具，幫你找到下一份工作。</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</guid>
+      <pubDate>Thu, 25 Jun 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" alt=""></p><p>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</p>]]></content:encoded>
     </item>
     <item>
       <title>打造專為教育量身設計的 AI，由教育工作者領先主導</title>
@@ -363,15 +384,6 @@ Creator Studio 應用程式尚未廣泛……
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>雖然 AI 主導了裁員敘事，但根據 SignalFire 的數據，工程師在總新進聘用中的占比其實增加了。</description>
-    </item>
-    <item>
-      <title>AI 研究人員持續離開 Google 轉投其競爭對手</title>
-      <link>https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135911</guid>
-      <pubDate>Wed, 24 Jun 2026 21:42:07 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>頂尖 AI 研究人員 Jonas Adler 和 Alexander Pritzel 正離開 Google 前往 Anthropic，繼頂尖科學家 Noam Shazeer 和 John Jumper 離職之後。</description>
     </item>
     <item>
       <title>國會女議員否認幕僚使用 AI 撰寫國防經費修正案</title>
@@ -717,18 +729,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/424ca07b580e8dc88c7b268c7f3c8a68/6a3a213c3d63324a86e87439_telco-tm-forum-1920x1080-1-842x450/telco-tm-forum-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/424ca07b580e8dc88c7b268c7f3c8a68/6a3a213c3d63324a86e87439_telco-tm-forum-1920x1080-1-842x450/telco-tm-forum-1920x1080-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/424ca07b580e8dc88c7b268c7f3c8a68/6a3a213c3d63324a86e87439_telco-tm-forum-1920x1080-1-842x450/telco-tm-forum-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>電信業者已經從使用生成式 AI 自動化網路管理、客戶服務與後台作業中，看見了驚人的回報。其中大部分影響都屬於以任務為基礎：自動化能加快預先設定的步驟，同時由人員手動整合洞察並指引後續步驟。自動化不再是終點，而是邁向自主化的起點。 The […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>將金融廣告主驗證擴大至歐洲各地</title>
-      <link>https://blog.google/products/ads-commerce/eu-financial-advertiser-verification/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/eu-financial-advertiser-verification/</guid>
-      <pubDate>Tue, 23 Jun 2026 05:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正在將其強制性的金融廣告主驗證計畫擴大到整個歐盟，以幫助人們找到值得信賴的服務。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EU_Ads_Safety_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EU_Ads_Safety_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EU_Ads_Safety_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 正在將其強制性的金融廣告主驗證計畫擴大到整個歐盟，以幫助人們找到值得信賴的服務。</p>]]></content:encoded>
     </item>
     <item>
       <title>Omio 如何打造對話式旅遊的未來</title>
