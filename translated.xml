@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 25 Jun 2026 19:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:02:40 GMT</lastBuildDate>
+    <item>
+      <title>Polymarket 表示駭客竊取了用戶資金</title>
+      <link>https://techcrunch.com/2026/06/25/polymarket-says-hackers-stole-users-funds/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3136473</guid>
+      <pubDate>Thu, 25 Jun 2026 19:58:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>預測市場巨頭 Polymarket 表示，將向因第三方遭入侵而遭竊取資金的用戶退款。</description>
+    </item>
     <item>
       <title>Xbox 跟進 Apple 調漲價格</title>
       <link>https://techcrunch.com/2026/06/25/xbox-follows-apple-with-price-increases/</link>
@@ -125,6 +134,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>我們將在 2026 年 ISTE 大會上宣布新的資助，以支持兩個長期合作夥伴。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp" alt=""></p><p>我們將在 2026 年 ISTE 大會上宣布新的資助，以支持兩個長期合作夥伴。</p>]]></content:encoded>
     </item>
     <item>
       <title>肯塔基州一個學區如何用 Gemini 擴大寫作回饋規模</title>
@@ -375,15 +387,6 @@ Creator Studio 應用程式尚未廣泛……
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Mayfield 和 Aramco Ventures 的支持下，Vishal Sikka 的新創事業匯聚了來自 SAP、Infosys 和 VianAI 的資深人士。</description>
-    </item>
-    <item>
-      <title>馬斯克又有一天未能達到兆億富豪的地位</title>
-      <link>https://techcrunch.com/2026/06/24/elon-suffers-another-day-short-of-trillionaire-status/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135941</guid>
-      <pubDate>Wed, 24 Jun 2026 23:09:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>目前根據彭博億萬富豪指數，他只是身價數千億美元的富豪。</description>
     </item>
     <item>
       <title>國會女議員否認幕僚使用 AI 撰寫國防經費修正案</title>
