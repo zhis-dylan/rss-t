@@ -5,7 +5,21 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 26 Jun 2026 13:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 14:11:14 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 的 Mythos 亂局只會越來越糟</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations</guid>
+      <pubDate>Fri, 26 Jun 2026 14:07:03 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>自從 Anthropic 在週五晚間接到川普政府最後通牒後，將 Mythos 級模型離線，已經過了兩週。公司立刻展開行動，派出一批高層前往華府。但後續更新卻少得可疑，至今仍看不到解決方案。
+Anthropic 本週多次拒絕對談判進展發表評論，表示沒有新消息可以分享。但沒有消息本身就是這則故事的重點。經過 14 天高強度談判，沒有人知道 Anthropic 最強大的 AI 模型何時，甚至是否會重新上線，更別說川普總統是否可能把他的命令擴大到 m …
+在 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>自從 Anthropic 在週五晚間接到川普政府最後通牒後，將 Mythos 級模型離線，已經過了兩週。公司立刻展開行動，派出一批高層前往華府。但後續更新卻少得可疑，至今仍看不到解決方案。<br>Anthropic 本週多次拒絕對談判進展發表評論，表示沒有新消息可以分享。但沒有消息本身就是這則故事的重點。經過 14 天高強度談判，沒有人知道 Anthropic 最強大的 AI 模型何時，甚至是否會重新上線，更別說川普總統是否可能把他的命令擴大到 m …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Robotaxi開幾英里只為了去清潔和充電；這家新創公司想解決這個問題</title>
       <link>https://techcrunch.com/2026/06/26/this-silicon-valley-startup-has-raised-10m-to-build-pitstops-to-clean-and-charge-robotaxis/</link>
@@ -565,20 +579,6 @@ Google 也表示……
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23451196/acastro_220510_STK123_0002.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Google Home 的一項新更新，可能會讓你的智慧家庭攝影機在你背對鏡頭時，不那麼容易把你誤認成別人。從 6 月 23 日開始，Google 將擴充其臉部辨識功能，讓你在 Familiar Faces 資料庫中標記過的人，即使臉部不清楚可見，也能繼續被辨識，方法是使用「其他非生物特徵訊號（身形、衣服顏色等）」。<br>Familiar Faces 資料庫也將開始自動更新你家中每個人最近的影像，因此你應該會從過時的範例中收到更少不準確的通知。<br>Google 也表示……<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>好萊塢正在向 OpenAI 低頭</title>
-      <link>https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt</link>
-      <guid isPermaLink="false">https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt</guid>
-      <pubDate>Tue, 23 Jun 2026 22:03:18 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>據報導，Netflix、A24、Focus Features 和 Warner Bros. 的 Clockwork 都已決定不接手《Artificial》的發行合約——這是導演 Luca Guadagnino 以 OpenAI 共同創辦人／執行長 Sam Altman 為主角的新傳記劇情片。雖然 Neon 和 Mubi 仍被認為對這部片有興趣，但這種情況看起來像是好萊塢再也沒有勇氣講述關於大型科技公司的批判性故事。
-《Artificial》的後製幾乎已經完成時，Amazon MGM 卻在上週意外宣布不再計畫發行這部電影。考量到電影已經進展到這個階段，以及報導指出 Amazon …，這則消息令人相當意外。
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25431704/STK201_SAM_ALTMAN_CVIRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=4.7487503051758,18.543864880511,95.251249694824,81.456135119489" alt=""></p><p>據報導，Netflix、A24、Focus Features 和 Warner Bros. 的 Clockwork 都已決定不接手《Artificial》的發行合約——這是導演 Luca Guadagnino 以 OpenAI 共同創辦人／執行長 Sam Altman 為主角的新傳記劇情片。雖然 Neon 和 Mubi 仍被認為對這部片有興趣，但這種情況看起來像是好萊塢再也沒有勇氣講述關於大型科技公司的批判性故事。<br>《Artificial》的後製幾乎已經完成時，Amazon MGM 卻在上週意外宣布不再計畫發行這部電影。考量到電影已經進展到這個階段，以及報導指出 Amazon …，這則消息令人相當意外。<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
     </item>
     <item>
       <title>邁向一個沒有人會對自然災害感到措手不及的世界</title>
