@@ -5,7 +5,21 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 28 Jun 2026 20:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 20:36:02 GMT</lastBuildDate>
+    <item>
+      <title>Suno 推出 Spark 孵化器計畫，為其 AI 機器輸送獨立藝術家</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine</guid>
+      <pubDate>Sun, 28 Jun 2026 20:27:36 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>Suno 的野心不只是成為一個用來批量產出 AI 廢料的玩具，它也想成為串流平台，並發掘新藝人。Spark 是他們為獨立藝術家推出的新孵化器計畫，提供補助、導師指導和行銷支援。
+要申請，藝術家必須是在未簽約狀態下、以自己名字發行音樂的歌手、詞曲創作人或製作人。他們也必須同意一些條款與條件，而這些條款已在 Suno 的 subreddit 上引發一些議論。其中之一是，你必須同意讓你的歌曲可在 Suno 上供人重新混音。這本身不一定特別令人擔心，但它賦予 Suno 對你作品的廣泛授權……
+完整報導請見 The Verge。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK467_AI_MUSIC_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Suno 的野心不只是成為一個用來批量產出 AI 廢料的玩具，它也想成為串流平台，並發掘新藝人。Spark 是他們為獨立藝術家推出的新孵化器計畫，提供補助、導師指導和行銷支援。<br>要申請，藝術家必須是在未簽約狀態下、以自己名字發行音樂的歌手、詞曲創作人或製作人。他們也必須同意一些條款與條件，而這些條款已在 Suno 的 subreddit 上引發一些議論。其中之一是，你必須同意讓你的歌曲可在 Suno 上供人重新混音。這本身不一定特別令人擔心，但它賦予 Suno 對你作品的廣泛授權……<br>完整報導請見 The Verge。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Ford 在 AI 不如預期後重新聘回「老將」工程師</title>
       <link>https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/</link>
@@ -527,21 +541,6 @@ Creator Studio 應用程式尚未廣泛……
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>一篇新的 OpenAI 研究論文顯示，AI 代理人正如何改變工作，讓更長、更複雜的任務成為可能，並提升各種職務的生產力。</description>
-    </item>
-    <item>
-      <title>國會女議員否認幕僚使用 AI 撰寫國防經費修正案</title>
-      <link>https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude</link>
-      <guid isPermaLink="false">https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude</guid>
-      <pubDate>Wed, 24 Jun 2026 19:36:46 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>佛州眾議員 Anna Paulina Luna（共和黨）表示，她的幕僚在一份重大國防法案的修正案摘要中使用 AI 來「拼字檢查」，但否認 AI 被用在法案正文本身，並表示「絕沒有任何立法是用 AI 起草的。」
-在 X 上的帳號開始分享 2027 年《國防授權法案》一份修正案摘要的截圖後，Luna 發表了這項回應。內容寫道：「與 H.R. 100（第 118 屆國會）完全相同。上午 11:25????Claude 回應：要求國防部長將國防部在西南陸地邊境的活動、支援與行動指定為一項命名行動，並…」
-起初，Luna 的回應似乎暗示……
-完整報導請見 The Verge。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK481_STK432_CONGRESS_GOVERNMENT_CIVRGINIA_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>佛州眾議員 Anna Paulina Luna（共和黨）表示，她的幕僚在一份重大國防法案的修正案摘要中使用 AI 來「拼字檢查」，但否認 AI 被用在法案正文本身，並表示「絕沒有任何立法是用 AI 起草的。」<br>在 X 上的帳號開始分享 2027 年《國防授權法案》一份修正案摘要的截圖後，Luna 發表了這項回應。內容寫道：「與 H.R. 100（第 118 屆國會）完全相同。上午 11:25????Claude 回應：要求國防部長將國防部在西南陸地邊境的活動、支援與行動指定為一項命名行動，並…」<br>起初，Luna 的回應似乎暗示……<br>完整報導請見 The Verge。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Gemini 3.5 Flash 的電腦使用功能</title>
