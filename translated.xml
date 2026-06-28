@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 28 Jun 2026 16:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 16:18:55 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch Mobility：所有人的目光都聚焦在 Tesla FSD</title>
+      <link>https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3136857</guid>
+      <pubDate>Sun, 28 Jun 2026 16:05:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>歡迎回到 TechCrunch Mobility，這裡是你掌握未來交通的中心，而現在，比以往任何時候都更能看見 AI 正在扮演的角色。</description>
+    </item>
     <item>
       <title>為什麼華爾街認為美國記憶體製造商美光會是下一個 Nvidia</title>
       <link>https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/</link>
@@ -266,15 +275,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp" alt=""></p><p>如果你即將展開一趟長途旅行，Gemini app 可以幫助你避免時差，讓你能充分利用這趟行程。一旦你授權 Gemini 存取你…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>XPRIZE 創辦人表示「人類在被監視時會表現得更好」</title>
-      <link>https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136642</guid>
-      <pubDate>Fri, 26 Jun 2026 15:46:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Peter Diamandis 是最近一位主張全球監控會讓世界變得更美好的科技高層，延續了 Larry Ellison 在 2024 年的評論。</description>
     </item>
     <item>
       <title>Anthropic 的 Mythos 爭議只會越來越糟</title>
