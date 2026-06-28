@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 28 Jun 2026 21:21:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:36:35 GMT</lastBuildDate>
+    <item>
+      <title>針對大聲串流廣告的加州法律將於 7 月 1 日生效</title>
+      <link>https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137041</guid>
+      <pubDate>Sun, 28 Jun 2026 21:34:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>串流廣告可能會安靜許多。</description>
+    </item>
     <item>
       <title>Suno 推出 Spark 孵化器計畫，為其 AI 機器輸送獨立藝術家</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine</link>
@@ -268,15 +277,6 @@
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/kTm2Q30DT9sCOWpyFewTes78TWbe7s-fy-w68LlL6V0.jpeg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>就在傳出 OpenAI 應川普政府要求，將下一個模型的發布時程拉開後不到 24 小時，這個模型 GPT-5.6 就登場了。週五，該公司發表了新 GPT 5.6 模型系列的有限預覽版：Sol，旗艦款；Terra，中階模型，主打「高產量工作」；以及 Luna，一款「快速又實惠」的日常模型。OpenAI 表示，這個模型特別擅長程式設計、資安和生物學，也很適合在長期的 agentic AI 任務中保持專注。<br>每百萬 token 計，GPT-5.6 Sol 的價格為輸入 5 美元／輸出 30 美元（幾乎只有 Anthropic 的 Claude Fable 5 一半的成本，後者為輸入 10 美元／輸出 5 …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Tesla 就 FSD 車禍訴訟達成和解，聯邦調查仍在進行</title>
-      <link>https://techcrunch.com/2026/06/26/tesla-settles-fsd-crash-lawsuit-as-federal-investigations-continue/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136657</guid>
-      <pubDate>Fri, 26 Jun 2026 16:32:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這起訴訟與一場致命的 2023 年車禍有關，當時涉事車輛使用了該公司的先進駕駛輔助系統 Full Self-Driving。</description>
     </item>
     <item>
       <title>這就是 Gemini 如何幫助你避免時差。</title>
