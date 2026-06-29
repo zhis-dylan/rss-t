@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 29 Jun 2026 18:02:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 18:17:15 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 與州長 Newsom 達成協議，允許加州政府以半價使用 Claude</title>
+      <link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137238</guid>
+      <pubDate>Mon, 29 Jun 2026 18:10:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著 Anthropic 與加州政府建立更緊密的關係，聯邦政府已經與這家 OpenAI 的競爭對手結下樑子。</description>
+    </item>
+    <item>
+      <title>南韓科技巨頭承諾投入超過 5,500 億美元，以緩解「RAMageddon」</title>
+      <link>https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137204</guid>
+      <pubDate>Mon, 29 Jun 2026 18:07:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>全球兩大記憶體晶片公司承諾興建更多記憶體晶圓廠，因為南韓正將自身定位為 AI 科技強國。</description>
+    </item>
     <item>
       <title>Arena，大家都在用的 AI 排行榜，現在已成為 1 億美元的生意</title>
       <link>https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/</link>
@@ -338,24 +356,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Dilip Asbe 表示，更新的 UPI 應用程式若有可行的商業模式，將更具競爭力</description>
-    </item>
-    <item>
-      <title>Instagram 正在測試更多自訂「你的演算法」的方法</title>
-      <link>https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136988</guid>
-      <pubDate>Sat, 27 Jun 2026 21:27:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Instagram 使用者很快就能看到更多調整內容的方法。</description>
-    </item>
-    <item>
-      <title>SoftBank 的執行長不是唯一對 Elon Musk 的軌道資料中心炒作存有疑問的人</title>
-      <link>https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136985</guid>
-      <pubDate>Sat, 27 Jun 2026 20:42:36 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>不是每個人都買單 Elon Musk 對軌道資料中心的願景。</description>
     </item>
     <item>
       <title>瑪格麗特・愛特伍德表示，AI 的問題是「垃圾進，垃圾出」</title>
