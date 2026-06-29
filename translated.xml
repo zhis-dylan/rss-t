@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 29 Jun 2026 17:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:16:38 GMT</lastBuildDate>
+    <item>
+      <title>Cursor 現在有行動應用程式，可讓你在外出時引導你的程式碼代理</title>
+      <link>https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137155</guid>
+      <pubDate>Mon, 29 Jun 2026 17:03:50 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Cursor 已推出一款新的行動應用程式，用於遠端監督程式碼代理。</description>
+    </item>
+    <item>
+      <title>Claude 遇上 Blackwell Ultra：Anthropic 的模型現已在 Azure 的 NVIDIA GB300 上執行</title>
+      <link>https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</guid>
+      <pubDate>Mon, 29 Jun 2026 17:00:19 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Anthropic 的 Claude 模型在 Microsoft Foundry 中——託管於 Microsoft Azure，並在 NVIDIA GB300 Blackwell Ultra GPU 上執行——現已正式全面可用，為原生使用 Azure 的企業提供一種強大新方式來打造自主且具特定領域的 AI 代理。隨著 agentic AI 持續推動企業創新並變得更自主，組織需要取得運算 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/af9901b98c988a16e2ee18669dabde22/6a42a4d23d6332b314da2188_logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450_thmb.jpg" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/af9901b98c988a16e2ee18669dabde22/6a42a4d23d6332b314da2188_logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/af9901b98c988a16e2ee18669dabde22/6a42a4d23d6332b314da2188_logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450_thmb.jpg" alt=""></p><p>Anthropic 的 Claude 模型在 Microsoft Foundry 中——託管於 Microsoft Azure，並在 NVIDIA GB300 Blackwell Ultra GPU 上執行——現已正式全面可用，為原生使用 Azure 的企業提供一種強大新方式來打造自主且具特定領域的 AI 代理。隨著 agentic AI 持續推動企業創新並變得更自主，組織需要取得運算 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>川普政府以繁文縟節威脅 92 GW 的新電力供應</title>
       <link>https://techcrunch.com/2026/06/29/trump-administration-threatens-92-gw-of-new-electricity-supply-with-red-tape/</link>
@@ -341,15 +362,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據報，負責 Vision Pro 頭戴裝置的 Apple 副總裁 Paul Meade 將離開公司，加入 OpenAI 的硬體團隊。</description>
-    </item>
-    <item>
-      <title>房間裡最健壯的創辦人罹患癌症。這是他如何運用 AI 反擊。</title>
-      <link>https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136695</guid>
-      <pubDate>Sat, 27 Jun 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當面對癌症時，Connor Christou 把所有與他的生活作息有關的資料——血液檢查結果、掃描數據、穿戴式裝置輸出、日誌內容——都輸入 Claude。</description>
     </item>
     <item>
       <title>為什麼蘋果要我為大型科技公司的 AI 執念多付錢？</title>
@@ -1019,18 +1031,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>數位時代為廣告與行銷產業帶來了速度；AI 時代則正在帶來自主化營運。對於打造下一代廣告與行銷技術的公司來說，問題已不再是是否採用 AI，而是他們的基礎架構是否能以產業所要求的速度與規模支援它。在坎城國際創意節上，正在運行 […]</description>
-    </item>
-    <item>
-      <title>同步與串流：GeForce NOW 連結會員在各裝置上的遊戲庫</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-game-stores/</guid>
-      <pubDate>Thu, 18 Jun 2026 13:00:32 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>遊玩熱門遊戲庫中的最愛遊戲、保持進度同步，並能在幾乎任何裝置上重新回到遊戲時段。這就是 GeForce NOW 雲端遊戲的威力。從讓會員存取最喜愛的遊戲庫，到提供本季最優惠的會員價格，GeForce NOW 正讓遊戲變得比以往更容易上手 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/88613f1253712cdb5b54e0e4bc6947c1/6a33ec653d6332faa2ef33b3_GFN_Thursday-June_18-842x450/GFN_Thursday-June_18-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/88613f1253712cdb5b54e0e4bc6947c1/6a33ec653d6332faa2ef33b3_GFN_Thursday-June_18-842x450/GFN_Thursday-June_18-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/88613f1253712cdb5b54e0e4bc6947c1/6a33ec653d6332faa2ef33b3_GFN_Thursday-June_18-842x450/GFN_Thursday-June_18-842x450_thmb.jpg" alt=""></p><p>遊玩熱門遊戲庫中的最愛遊戲、保持進度同步，並能在幾乎任何裝置上重新回到遊戲時段。這就是 GeForce NOW 雲端遊戲的威力。從讓會員存取最喜愛的遊戲庫，到提供本季最優惠的會員價格，GeForce NOW 正讓遊戲變得比以往更容易上手 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>在 ChatGPT 中提升健康智能</title>
