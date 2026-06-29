@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 29 Jun 2026 16:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 16:31:09 GMT</lastBuildDate>
+    <item>
+      <title>TIDAL 透過停止變現來打擊 AI 音樂</title>
+      <link>https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137152</guid>
+      <pubDate>Mon, 29 Jun 2026 16:29:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TIDAL 的新政策將阻止 AI 生成的音樂在其服務上賺錢。</description>
+    </item>
     <item>
       <title>重大隱私勝利，最高法院裁定地理圍欄搜索令受隱私權保護</title>
       <link>https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/</link>
@@ -355,15 +364,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>亞洲正在推出承諾具備類 Mythos 能力的新模型，不必擔心出口禁令。美國 AI 實驗室或許再也無法挽回這個龐大市場。</description>
-    </item>
-    <item>
-      <title>川普政府釋出 Anthropic Mythos，供超過 100 家美國公司與機構使用</title>
-      <link>https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136944</guid>
-      <pubDate>Sat, 27 Jun 2026 01:01:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報，超過 100 家公司與政府機構已獲准使用 Mythos 5，包括其非美國籍員工。</description>
     </item>
     <item>
       <title>Anthropic 的 Mythos 5 回來了</title>
