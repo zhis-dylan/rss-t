@@ -5,7 +5,21 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 29 Jun 2026 19:33:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 19:48:15 GMT</lastBuildDate>
+    <item>
+      <title>Tidal 不會為 AI 生成音樂支付版稅，但也不會完全禁止</title>
+      <link>https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label</link>
+      <guid isPermaLink="false">https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label</guid>
+      <pubDate>Mon, 29 Jun 2026 19:47:35 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>Tidal 今天分享了其關於 AI 生成音樂的新政策，以及平台打算如何「保護藝術家」和「告知聽眾」。平台並沒有直接禁止，而是從 7 月 15 日起，Tidal 會替它辨識為 100% 由 AI 生成的曲目加上圖示標記。不過從今天起，這些曲目將不再能獲利。該公司公告寫道：「Tidal 的優先事項是確保版稅直接流向由人創作、寫作並演出的原創作品。因此，我們不會明知地將版稅歸屬給我們辨識為完全由 AI 生成的音樂。」
+該平台沒有具體說明它用來辨識的工具……
+完整報導請見 The Verge。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Tidal 今天分享了其關於 AI 生成音樂的新政策，以及平台打算如何「保護藝術家」和「告知聽眾」。平台並沒有直接禁止，而是從 7 月 15 日起，Tidal 會替它辨識為 100% 由 AI 生成的曲目加上圖示標記。不過從今天起，這些曲目將不再能獲利。該公司公告寫道：「Tidal 的優先事項是確保版稅直接流向由人創作、寫作並演出的原創作品。因此，我們不會明知地將版稅歸屬給我們辨識為完全由 AI 生成的音樂。」<br>該平台沒有具體說明它用來辨識的工具……<br>完整報導請見 The Verge。</p>]]></content:encoded>
+    </item>
     <item>
       <title>小心了，Amazon：Kobo 電子閱讀器現在有了 Goodreads 的對手</title>
       <link>https://techcrunch.com/2026/06/29/watch-out-amazon-the-kobo-ereader-now-has-a-goodreads-rival/</link>
@@ -456,20 +470,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp" alt=""></p><p>如果你即將展開一趟長途旅行，Gemini app 可以幫助你避免時差，讓你能充分利用這趟行程。一旦你授權 Gemini 存取你…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic 的 Mythos 爭議只會越來越糟</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations</guid>
-      <pubDate>Fri, 26 Jun 2026 14:07:03 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>距離 Anthropic 在週五晚間接到川普政府最後通牒後，將其 Mythos 級模型下線，已經過了兩週。公司立刻展開行動，派出一批高層前往華盛頓特區。但更新卻少得可疑，至今看不到解決方案。
-Anthropic 本週多次拒絕對談判進展置評，表示沒有新消息可分享。不過，沒有消息本身就是這則故事的重點。經過 14 天的高強度談判，沒有人知道 Anthropic 最強大的 AI 模型何時或是否會重新上線，更別說川普總統是否可能將他的命令擴大到 m …
-完整報導請見 The Verge。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK202_DARIO_AMODEI_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>距離 Anthropic 在週五晚間接到川普政府最後通牒後，將其 Mythos 級模型下線，已經過了兩週。公司立刻展開行動，派出一批高層前往華盛頓特區。但更新卻少得可疑，至今看不到解決方案。<br>Anthropic 本週多次拒絕對談判進展置評，表示沒有新消息可分享。不過，沒有消息本身就是這則故事的重點。經過 14 天的高強度談判，沒有人知道 Anthropic 最強大的 AI 模型何時或是否會重新上線，更別說川普總統是否可能將他的命令擴大到 m …<br>完整報導請見 The Verge。</p>]]></content:encoded>
     </item>
     <item>
       <title>預覽 GPT-5.6 Sol：下一代模型</title>
