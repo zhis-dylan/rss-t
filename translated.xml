@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 29 Jun 2026 14:59:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 15:15:12 GMT</lastBuildDate>
+    <item>
+      <title>Rocket Lab 持續收購熱潮，買下衛星公司 Iridium</title>
+      <link>https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137128</guid>
+      <pubDate>Mon, 29 Jun 2026 15:02:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆全股票交易對 Iridium 的估值為 80 億美元，也讓 Rocket Lab 擁有更多火力，能與 Amazon 和 SpaceX 競爭。</description>
+    </item>
+    <item>
+      <title>Firefly Aerospace 首次在月球軌道運作 NVIDIA Jetson</title>
+      <link>https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</guid>
+      <pubDate>Mon, 29 Jun 2026 15:00:04 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description/>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg" alt=""></p><p></p>]]></content:encoded>
+    </item>
     <item>
       <title>機器手公司與 Tesla 達成營業秘密訴訟和解，並宣布募得 1100 萬美元</title>
       <link>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</link>
@@ -306,15 +327,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Papermark 指控 Corgi 竊取其軟體後，Corgi 捲入爭議。Corgi 表示並沒有，讓人對 vibe coding 產生新的疑問。</description>
-    </item>
-    <item>
-      <title>Novak Djokovic 有了新工作——擔任私募股權公司 General Atlantic 的顧問</title>
-      <link>https://techcrunch.com/2026/06/26/novak-djokovic-has-a-new-job-advisor-to-private-equity-firm-general-atlantic/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136777</guid>
-      <pubDate>Fri, 26 Jun 2026 19:13:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>General Atlantic 已聘請網球傳奇 Novak Djokovic 擔任全球策略顧問。</description>
     </item>
     <item>
       <title>走進 Meta 的其中一座資料中心</title>
@@ -1024,18 +1036,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>研究人員使用一個 OpenAI 推理模型來協助診斷罕見疾病，並在先前未解決的病例中找出 18 個新的診斷。</description>
-    </item>
-    <item>
-      <title>法國以 NVIDIA 技術推進歐洲的 AI 未來</title>
-      <link>https://blogs.nvidia.com/blog/france-advances-europes-ai-future/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/france-advances-europes-ai-future/</guid>
-      <pubDate>Thu, 18 Jun 2026 06:00:59 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>一年前，在 VivaTech 的 NVIDIA GTC Paris，法國提出推動本地 AI 的計畫——從新的 AI 工廠和國家算力，到開放的前沿模型與工業平台。如今，這套 AI 基礎設施已開始上線運作。AI 代理正在生產環境中運行，新創公司正在部署應用程式，而法國 AI 生態系統 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/3ac6bda6bade411e53546ad243981873/6a3389d83d63321813fb4714_5383050-vivatech26-digital-nv-blog-image-1920x1080-1-842x450/5383050-vivatech26-digital-nv-blog-image-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/3ac6bda6bade411e53546ad243981873/6a3389d83d63321813fb4714_5383050-vivatech26-digital-nv-blog-image-1920x1080-1-842x450/5383050-vivatech26-digital-nv-blog-image-1920x1080-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/3ac6bda6bade411e53546ad243981873/6a3389d83d63321813fb4714_5383050-vivatech26-digital-nv-blog-image-1920x1080-1-842x450/5383050-vivatech26-digital-nv-blog-image-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>一年前，在 VivaTech 的 NVIDIA GTC Paris，法國提出推動本地 AI 的計畫——從新的 AI 工廠和國家算力，到開放的前沿模型與工業平台。如今，這套 AI 基礎設施已開始上線運作。AI 代理正在生產環境中運行，新創公司正在部署應用程式，而法國 AI 生態系統 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Instagram 和 Facebook 的全新安全更新加強青少年帳號保護</title>
