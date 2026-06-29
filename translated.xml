@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 29 Jun 2026 10:57:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 11:13:02 GMT</lastBuildDate>
+    <item>
+      <title>開放模型，封閉環境：Palantir 以 NVIDIA Nemotron 將安全 AI 帶給美國政府機構</title>
+      <link>https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</guid>
+      <pubDate>Mon, 29 Jun 2026 10:59:38 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>展現開源創新在美國 AI 產業中的重要性，Palantir 今天推出的新智慧引擎使用 NVIDIA Nemotron 開放模型來滿足美國政府機構的需求。開源軟體長期以來一直是美國科技領導地位的支柱。1969 年，DARPA 將四台大學電腦連接起來——分別來自 UCLA、Stanford、UCSB […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/906958b95c44a8eecd4161502132d7a9/6a42502c3d6332172b2c246a_open-source-software-crop1-scaled/open-source-software-crop1-scaled_thmb.jpg" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/906958b95c44a8eecd4161502132d7a9/6a42502c3d6332172b2c246a_open-source-software-crop1-scaled/open-source-software-crop1-scaled_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/906958b95c44a8eecd4161502132d7a9/6a42502c3d6332172b2c246a_open-source-software-crop1-scaled/open-source-software-crop1-scaled_thmb.jpg" alt=""></p><p>展現開源創新在美國 AI 產業中的重要性，Palantir 今天推出的新智慧引擎使用 NVIDIA Nemotron 開放模型來滿足美國政府機構的需求。開源軟體長期以來一直是美國科技領導地位的支柱。1969 年，DARPA 將四台大學電腦連接起來——分別來自 UCLA、Stanford、UCSB […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>描繪歐洲 AI 勞動力機會</title>
       <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
@@ -1060,18 +1072,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>介紹 LifeSciBench，這是一個由專家撰寫、經專家審核的基準，用於評估 AI 系統如何處理真實世界的生命科學研究任務與決策。</description>
-    </item>
-    <item>
-      <title>免持、AI 向前：NVIDIA XR AI 將代理帶入 AR 眼鏡</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-xr-ai/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-xr-ai/</guid>
-      <pubDate>Tue, 16 Jun 2026 22:30:41 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA XR AI 現已開放公開測試版，提供開發者一個框架，用於打造適用於 AR 眼鏡和 XR 裝置的多模態 AI 代理。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/9249f5850e0adb7f59ab8bdb79c3fcde/6a31cf733d63328c13ebeddd_NVIDIA-XR-AI_Featured-Image-Poster-Alt-842x450/NVIDIA-XR-AI_Featured-Image-Poster-Alt-842x450_thmb.jpg" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/9249f5850e0adb7f59ab8bdb79c3fcde/6a31cf733d63328c13ebeddd_NVIDIA-XR-AI_Featured-Image-Poster-Alt-842x450/NVIDIA-XR-AI_Featured-Image-Poster-Alt-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/9249f5850e0adb7f59ab8bdb79c3fcde/6a31cf733d63328c13ebeddd_NVIDIA-XR-AI_Featured-Image-Poster-Alt-842x450/NVIDIA-XR-AI_Featured-Image-Poster-Alt-842x450_thmb.jpg" alt=""></p><p>NVIDIA XR AI 現已開放公開測試版，提供開發者一個框架，用於打造適用於 AR 眼鏡和 XR 裝置的多模態 AI 代理。</p>]]></content:encoded>
     </item>
     <item>
       <title>以 AI 取得成功</title>
