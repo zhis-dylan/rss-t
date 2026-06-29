@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 29 Jun 2026 12:58:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 13:14:00 GMT</lastBuildDate>
+    <item>
+      <title>Flipper Device 的新款 Busy Bar 是可自訂的生產力顯示器</title>
+      <link>https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3136643</guid>
+      <pubDate>Mon, 29 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Flipper Device 的新款 Busy Bar 售價為 249 美元。</description>
+    </item>
+    <item>
+      <title>Omen AI 優化資料中心的計畫根本漏洞百出</title>
+      <link>https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137020</guid>
+      <pubDate>Mon, 29 Jun 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Omen AI 募得 3100 萬美元 A 輪融資，用來監控晶片冷卻液並阻止資料中心爆發細菌污染。</description>
+    </item>
     <item>
       <title>開放模型，封閉環境：Palantir 以 NVIDIA Nemotron 將安全 AI 帶給美國政府機構</title>
       <link>https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</link>
@@ -298,15 +316,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這項任用標誌著 OpenAI 進一步進軍印度，擴大辦公室、合作夥伴關係與招募。</description>
-    </item>
-    <item>
-      <title>俄羅斯駭客是造成捷豹路虎 25 億美元駭客事件的幕後黑手：報導</title>
-      <link>https://techcrunch.com/2026/06/26/russian-hackers-were-behind-2-5-billion-hack-of-jaguar-land-rover-report/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136694</guid>
-      <pubDate>Fri, 26 Jun 2026 17:29:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>去年發生在汽車巨頭捷豹路虎的駭客攻擊，是近幾年來最具破壞性、最具損害性、也最昂貴的駭客事件之一。</description>
     </item>
     <item>
       <title>OpenAI 在美國 AI 監管風波中推出 GPT-5.6</title>
