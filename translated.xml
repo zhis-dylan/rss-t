@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 20:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 20:46:43 GMT</lastBuildDate>
+    <item>
+      <title>打造撲克 AI 的 DeepMind 三人組，如今正為量化避險基金賺錢</title>
+      <link>https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137627</guid>
+      <pubDate>Tue, 30 Jun 2026 20:33:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>位於布拉格的 AI 實驗室 EquiLibre Technologies 由三位前 DeepMind 研究員創立，如今估值已超過 5 億美元。</description>
+    </item>
     <item>
       <title>Google 的 NotebookLM 可以用 TikTok 風格短片幫你整理研究內容</title>
       <link>https://www.theverge.com/tech/959778/google-notebooklm-ai-clips</link>
@@ -369,15 +378,6 @@ Savitt 的神情大致上像一隻英俊版的 Droopy Dog，他溫和地對 Musk
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description/>
-    </item>
-    <item>
-      <title>Chamath Palihapitiya 為他的 AI 程式設計新創募得 1.35 億美元 A 輪融資，並出任執行長</title>
-      <link>https://techcrunch.com/2026/06/29/chamath-palihapitiya-raises-135m-series-a-for-his-ai-coding-startup-takes-ceo-role/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137388</guid>
-      <pubDate>Mon, 29 Jun 2026 20:55:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>風險投資人仍然熱衷於資助 AI 程式設計新創公司。這家由投資人 Chamath Palihapitiya 創立的新創也不例外。</description>
     </item>
     <item>
       <title>Tidal 不會為 AI 生成音樂支付版稅，但也不會完全禁止</title>
