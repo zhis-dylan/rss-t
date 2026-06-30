@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 20:46:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:01:53 GMT</lastBuildDate>
+    <item>
+      <title>Gemini Spark 更新：macOS 推出、連結應用程式等更多功能</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</guid>
+      <pubDate>Tue, 30 Jun 2026 21:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>最新的 Gemini Spark 更新將 Spark 帶到 macOS 應用程式，連結你最喜愛的應用程式，並即時追蹤主題。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp" alt=""></p><p>最新的 Gemini Spark 更新將 Spark 帶到 macOS 應用程式，連結你最喜愛的應用程式，並即時追蹤主題。</p>]]></content:encoded>
+    </item>
     <item>
       <title>打造撲克 AI 的 DeepMind 三人組，如今正為量化避險基金賺錢</title>
       <link>https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/</link>
@@ -659,16 +671,28 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE2026-BlogHeader-Educator-20.max-600x600.format-webp.webp" alt=""></p><p>Google 的 AI 工具可協助教育工作者達成教學目標，並提供個人化體驗，幫助學生以最適合自己的方式學習——全都在…</p>]]></content:encoded>
     </item>
     <item>
-      <title>Google.org 正在資助兩個長期合作夥伴推動教育與 AI。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/</guid>
+      <title>ISTE 2026：以連結式 AI 工具支援教學與學習</title>
+      <link>https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</guid>
       <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>我們將在 2026 年 ISTE 大會上宣布新的資助，以支持兩個長期合作夥伴。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp" alt=""></p><p>我們將在 2026 年 ISTE 大會上宣布新的資助，以支持兩個長期合作夥伴。</p>]]></content:encoded>
+      <description>Google for Education 在 ISTE 2026 的最新公告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" alt=""></p><p>Google for Education 在 ISTE 2026 的最新公告。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>在 Gemini 應用程式中使用 study notebooks 學習的 5 種方式</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們最新的 Google Finance 升級，包括全新應用程式</title>
@@ -683,18 +707,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp" alt=""></p><p>全新的 Google Finance 即將結束測試版，並推出一款新的 Android 應用程式。</p>]]></content:encoded>
     </item>
     <item>
-      <title>ISTE 2026：以連結式 AI 工具支援教學與學習</title>
-      <link>https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</guid>
-      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google for Education 在 ISTE 2026 的最新公告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" alt=""></p><p>Google for Education 在 ISTE 2026 的最新公告。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 6 月的 Demand Gen Drop 提升你的廣告活動成效。</title>
       <link>https://blog.google/products/ads-commerce/demand-gen-drop-june-2026/</link>
       <guid isPermaLink="false">https://blog.google/products/ads-commerce/demand-gen-drop-june-2026/</guid>
@@ -707,16 +719,16 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drops_10.max-600x600.format-webp.webp" alt=""></p><p>我們 6 月的 Demand Gen Drop 提供更多方式來提升廣告活動成效，並在 YouTube 上吸引新觀眾。</p>]]></content:encoded>
     </item>
     <item>
-      <title>在 Gemini 應用程式中使用 study notebooks 學習的 5 種方式</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</guid>
+      <title>Google.org 正在資助兩個長期合作夥伴推動教育與 AI。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/education-ai-funding/</guid>
       <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</p>]]></content:encoded>
+      <description>我們將在 2026 年 ISTE 大會上宣布新的資助，以支持兩個長期合作夥伴。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp" alt=""></p><p>我們將在 2026 年 ISTE 大會上宣布新的資助，以支持兩個長期合作夥伴。</p>]]></content:encoded>
     </item>
     <item>
       <title>肯塔基州一個學區如何用 Gemini 擴大寫作回饋規模</title>
@@ -753,15 +765,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_new_ways_Gemini_for_Home_he.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_new_ways_Gemini_for_Home_he.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/100_new_ways_Gemini_for_Home_he.max-600x600.format-webp.webp" alt=""></p><p>探索可用來管理居家事務的語音指令。用這份實用指南簡化你的早晨、午間和晚間例行作息。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Play 更新讓英國開發者能做更多事，付更少費用。</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-play-updates-uk-developers/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-play-updates-uk-developers/</guid>
-      <pubDate>Thu, 25 Jun 2026 11:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們很高興分享，英國將是最早受惠於 Google Play 商業模式更新的市場之一，帶來更低的費用，並為開發者提供更多選擇…</description>
     </item>
     <item>
       <title>代理人如何改變工作</title>
