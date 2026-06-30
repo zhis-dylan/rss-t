@@ -5,7 +5,67 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 14:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 15:12:53 GMT</lastBuildDate>
+    <item>
+      <title>X 現在提供一個 MCP 伺服器，讓 AI 工具更容易使用其平台</title>
+      <link>https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137526</guid>
+      <pubDate>Tue, 30 Jun 2026 15:08:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>X 已推出一個代管的 MCP 伺服器，讓開發者更容易將 AI 應用程式與該公司的 API 連接。</description>
+    </item>
+    <item>
+      <title>Arcturus 透過其奈米注入銅，可能將電網的電力損失減半</title>
+      <link>https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137546</guid>
+      <pubDate>Tue, 30 Jun 2026 15:01:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>低調的新創公司 Arcturus 使用雷射將碳奈米材料注入銅中，大幅提升其導電能力。</description>
+    </item>
+    <item>
+      <title>NVIDIA 的推論軟體堆疊如何實現最低的 token 成本</title>
+      <link>https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</guid>
+      <pubDate>Tue, 30 Jun 2026 15:00:57 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>隨著各組織從 AI 試點轉向生產級 AI 工廠，基礎架構決策已從晶片的峰值規格，轉向每個 token 的成本：他們能以每美元、每瓦以及在所需延遲目標內提供多少有用的 token。與 NVIDIA GPU、CPU、網路與系統共同設計，並在廣泛的開源生態系統強化下，NVIDIA 的 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>隨著各組織從 AI 試點轉向生產級 AI 工廠，基礎架構決策已從晶片的峰值規格，轉向每個 token 的成本：他們能以每美元、每瓦以及在所需延遲目標內提供多少有用的 token。與 NVIDIA GPU、CPU、網路與系統共同設計，並在廣泛的開源生態系統強化下，NVIDIA 的 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Jaiveer Singh 如何幫助機器人——以及開發者——加速前進</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-jaiveer-singh/</guid>
+      <pubDate>Tue, 30 Jun 2026 15:00:49 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>當 Jaiveer Singh 談到機器人時，他不會從炫目表現開始。他會從基礎架構開始：機器內部的板卡、讓開發者能透過機器人攝影機看見畫面的軟體，以及在機器人離開展示場去做有用事情之前所需的工程工作。身為一位帶領團隊的機器人軟體工程師，他負責背後的團隊 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg" alt=""></p><p>當 Jaiveer Singh 談到機器人時，他不會從炫目表現開始。他會從基礎架構開始：機器內部的板卡、讓開發者能透過機器人攝影機看見畫面的軟體，以及在機器人離開展示場去做有用事情之前所需的工程工作。身為一位帶領團隊的機器人軟體工程師，他負責背後的團隊 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Podcasting 平台 Riverside 進軍 newsletter 出版市場</title>
+      <link>https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135237</guid>
+      <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>使用者將能夠使用 AI 根據自己的錄音製作 newsletter。</description>
+    </item>
+    <item>
+      <title>Amazon 推出新的 10 億美元 FDE 組織，跟隨 OpenAI 和 Anthropic</title>
+      <link>https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137516</guid>
+      <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新團隊的工程師將進駐各家公司，部署專用代理，重點放在快速上線與客戶自給自足。</description>
+    </item>
     <item>
       <title>您的品牌值得擁有自己的舞台——TechCrunch Disrupt 2026 的側邊活動</title>
       <link>https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/</link>
@@ -296,24 +356,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" alt=""></p><p>Google Meet 的「幫我做筆記」功能已向特定語言的 Google AI Pro 和 Ultra 訂閱者開放。</p>]]></content:encoded>
     </item>
     <item>
-      <title>WhatsApp 現在允許你保留使用者名稱</title>
-      <link>https://techcrunch.com/2026/06/29/whatsapp-not-lets-you-reserve-usernames/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137116</guid>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>WhatsApp 使用者名稱可介於 3 到 40 個字元長度</description>
-    </item>
-    <item>
-      <title>Rocket Lab 持續收購熱潮，買下衛星公司 Iridium</title>
-      <link>https://techcrunch.com/2026/06/29/rocket-lab-continues-buying-spree-by-acquiring-satellite-company-iridium/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137128</guid>
-      <pubDate>Mon, 29 Jun 2026 15:02:07 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆全股票交易對 Iridium 的估值為 80 億美元，也讓 Rocket Lab 擁有更多火力，能與 Amazon 和 SpaceX 競爭。</description>
-    </item>
-    <item>
       <title>Firefly Aerospace 首次在月球軌道運作 NVIDIA Jetson</title>
       <link>https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</guid>
@@ -326,15 +368,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg" alt=""></p><p></p>]]></content:encoded>
     </item>
     <item>
-      <title>機器手公司與 Tesla 達成營業秘密訴訟和解，並宣布募得 1100 萬美元</title>
-      <link>https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136644</guid>
-      <pubDate>Mon, 29 Jun 2026 14:00:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新創公司 Proception 採取獨特方式蒐集訓練資料，以解決機器人領域最困難的問題之一：手部。</description>
-    </item>
-    <item>
       <title>解鎖 YouTube 品牌廣告活動更深入的洞察。</title>
       <link>https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/</link>
       <guid isPermaLink="false">https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/</guid>
@@ -345,15 +378,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_socialshare.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_socialshare.max-600x600.format-webp.webp" alt=""></p><p>新功能將有助於證明 YouTube 品牌廣告活動如何帶動廣告主關心的成果。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pocket 在 AI 筆記裝置需求上升的押注中募得 1,100 萬美元</title>
-      <link>https://techcrunch.com/2026/06/29/pocket-raises-11m-in-bet-on-rising-demand-for-ai-note-taking-devices/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136998</guid>
-      <pubDate>Mon, 29 Jun 2026 13:16:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Pocket 販售一款售價 129 美元、信用卡大小的圓形裝置，可貼在手機背面，並承諾提供無限制錄音、轉錄和待辦事項。</description>
     </item>
     <item>
       <title>開放模型，封閉環境：Palantir 以 NVIDIA Nemotron 將安全 AI 帶給美國政府機構</title>
@@ -979,18 +1003,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <description>OpenAI 推出 Patch the Planet，這是 Daybreak 的一項倡議，協助開源維護者透過 AI 與專家審查找出、驗證並修補漏洞。</description>
     </item>
     <item>
-      <title>比熱水按摩池還熱：45°C 突破，讓 AI 最大型機器降溫</title>
-      <link>https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/</guid>
-      <pubDate>Mon, 22 Jun 2026 05:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>熱水按摩池的溫度大約是 38 到 40 攝氏度，熱得大多數人只能泡約 15 分鐘。NVIDIA 最新的 AI 伺服器可讓冷卻液運作在更高溫度——最高可達 45 攝氏度，也就是 113 華氏度。正是這個更高的溫度上限，讓它們更節能。[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20265/c63ab7f4e034405b847bca01ec58b320/6a38c25d3d633280e48db309_45CLiquidCooling/45CLiquidCooling_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20265/c63ab7f4e034405b847bca01ec58b320/6a38c25d3d633280e48db309_45CLiquidCooling/45CLiquidCooling_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20265/c63ab7f4e034405b847bca01ec58b320/6a38c25d3d633280e48db309_45CLiquidCooling/45CLiquidCooling_thmb.jpg" alt=""></p><p>熱水按摩池的溫度大約是 38 到 40 攝氏度，熱得大多數人只能泡約 15 分鐘。NVIDIA 最新的 AI 伺服器可讓冷卻液運作在更高溫度——最高可達 45 攝氏度，也就是 113 華氏度。正是這個更高的溫度上限，讓它們更節能。[…]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Codex-maxxing 用於長時間執行的工作</title>
       <link>https://openai.com/index/codex-maxxing-long-running-work</link>
       <guid isPermaLink="false">https://openai.com/index/codex-maxxing-long-running-work</guid>
@@ -1007,18 +1019,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>三星電子將 ChatGPT Enterprise 和 Codex 部署給全球員工，標誌著 OpenAI 其中一項最大的企業 AI 導入。</description>
-    </item>
-    <item>
-      <title>FERC 的大型負載併網措施如何協助因應電網壓力、提升可負擔性</title>
-      <link>https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ferc-large-load-interconnection/</guid>
-      <pubDate>Thu, 18 Jun 2026 20:00:27 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在一項攸關電網基礎設施的決策中，聯邦能源管制委員會（FERC）今天針對大型負載併網發布了一項重要里程碑，影響建造 AI 工廠、半導體製造支援系統及先進製造設施者如何接入電網。在 AI 時代，NVIDIA 創辦人暨執行長黃仁勳曾將其形容為一個 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202404/6620f1823d633205b27a0641_nvidiaheadquarters-842x450/nvidiaheadquarters-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202404/6620f1823d633205b27a0641_nvidiaheadquarters-842x450/nvidiaheadquarters-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202404/6620f1823d633205b27a0641_nvidiaheadquarters-842x450/nvidiaheadquarters-842x450_thmb.jpg" alt=""></p><p>在一項攸關電網基礎設施的決策中，聯邦能源管制委員會（FERC）今天針對大型負載併網發布了一項重要里程碑，影響建造 AI 工廠、半導體製造支援系統及先進製造設施者如何接入電網。在 AI 時代，NVIDIA 創辦人暨執行長黃仁勳曾將其形容為一個 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>企業版的新用量分析與更新後的支出控管</title>
