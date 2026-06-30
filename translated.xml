@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 17:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 18:15:10 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 競爭對手 Etched 估值達 50 億美元，AI 晶片營收達 10 億美元</title>
+      <link>https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137668</guid>
+      <pubDate>Tue, 30 Jun 2026 18:13:02 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nvidia AI 晶片競爭對手 Etched 表示，該公司已經簽下價值 10 億美元的合約，內容是使用其晶片驅動的推論系統。</description>
+    </item>
+    <item>
+      <title>Anthropic 推出 Claude Sonnet 5，作為更便宜的代理執行方案</title>
+      <link>https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137723</guid>
+      <pubDate>Tue, 30 Jun 2026 18:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 的 Claude Sonnet 5 帶來更強的代理能力、更低的定價，以及改進的安全性，將這個模型定位為 Opus、GPT-5.5 和 Gemini Pro 的更便宜替代方案。</description>
+    </item>
     <item>
       <title>Acti 將 AI 代理直接放進你的智慧型手機鍵盤</title>
       <link>https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/</link>
@@ -371,24 +389,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>兩家公司向 TechCrunch 證實，他們在鳳凰城的這段不尋常合作關係，近日在將近三年後已結束。</description>
-    </item>
-    <item>
-      <title>Anthropic 與州長 Newsom 達成協議，允許加州政府以半價使用 Claude</title>
-      <link>https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137238</guid>
-      <pubDate>Mon, 29 Jun 2026 18:10:26 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著 Anthropic 與加州政府建立更緊密的關係，聯邦政府已經與這家 OpenAI 的競爭對手結下樑子。</description>
-    </item>
-    <item>
-      <title>南韓科技巨頭承諾投入超過 5,500 億美元，以緩解「RAMageddon」</title>
-      <link>https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137204</guid>
-      <pubDate>Mon, 29 Jun 2026 18:07:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>全球兩大記憶體晶片公司承諾興建更多記憶體晶圓廠，因為南韓正將自身定位為 AI 科技強國。</description>
     </item>
     <item>
       <title>Gemini 應用程式正將個人化圖片建立功能帶給更多使用者。</title>
