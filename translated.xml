@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 13:11:38 GMT</lastBuildDate>
+    <item>
+      <title>進入 Omniverse：運用合成資料與微調提升 Vision AI Agent 準確度的三種工作流程</title>
+      <link>https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</guid>
+      <pubDate>Tue, 30 Jun 2026 13:00:27 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>編者註：這篇文章是 Into the Omniverse 系列的一部分，該系列聚焦開發者、3D 專業人士與企業如何運用 OpenUSD 與 NVIDIA Omniverse 的最新進展來改造他們的工作流程。Vision AI agents 正在成為一種實用方式，可自動將實體世界的影片資料轉化為工廠中的營運情報，[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg" alt=""></p><p>編者註：這篇文章是 Into the Omniverse 系列的一部分，該系列聚焦開發者、3D 專業人士與企業如何運用 OpenUSD 與 NVIDIA Omniverse 的最新進展來改造他們的工作流程。Vision AI agents 正在成為一種實用方式，可自動將實體世界的影片資料轉化為工廠中的營運情報，[…]</p>]]></content:encoded>
+    </item>
     <item>
       <title>認識這位兩度擊敗 Elon Musk 的律師</title>
       <link>https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter</link>
@@ -1025,15 +1037,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今日宣布針對巴西 iOS App 的變更，這些變更反映了近期與巴西競爭監管機構 CADE 達成的協議。</description>
-    </item>
-    <item>
-      <title>在坎城國際創意節，NVIDIA 夥伴以 AI 重塑廣告與行銷</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-ai-marketing-advertising-cannes-lions/</guid>
-      <pubDate>Thu, 18 Jun 2026 13:00:43 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>數位時代為廣告與行銷產業帶來了速度；AI 時代則正在帶來自主化營運。對於打造下一代廣告與行銷技術的公司來說，問題已不再是是否採用 AI，而是他們的基礎架構是否能以產業所要求的速度與規模支援它。在坎城國際創意節上，正在運行 […]</description>
     </item>
     <item>
       <title>在 ChatGPT 中提升健康智能</title>
