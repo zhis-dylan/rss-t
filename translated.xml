@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 13:56:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 14:12:11 GMT</lastBuildDate>
+    <item>
+      <title>您的品牌值得擁有自己的舞台——TechCrunch Disrupt 2026 的側邊活動</title>
+      <link>https://techcrunch.com/2026/06/30/your-brand-deserves-its-own-stage-side-events-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137144</guid>
+      <pubDate>Tue, 30 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從 10 月 10 日到 16 日，舉辦一場側邊活動，在 TechCrunch Disrupt 2026 期間掌控全場。</description>
+    </item>
+    <item>
+      <title>Proton 以隱私為重點的 AI 聊天機器人 Lumo 升級了</title>
+      <link>https://techcrunch.com/2026/06/30/lumo-protons-privacy-focused-ai-chatbot-gets-an-upgrade/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137266</guid>
+      <pubDate>Tue, 30 Jun 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Proton 的 Lumo 2.0 將於本週推出，為使用者帶來更廣泛的功能。</description>
+    </item>
     <item>
       <title>進入 Omniverse：運用合成資料與微調提升 Vision AI Agent 準確度的三種工作流程</title>
       <link>https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</link>
@@ -336,24 +354,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Pocket 販售一款售價 129 美元、信用卡大小的圓形裝置，可貼在手機背面，並承諾提供無限制錄音、轉錄和待辦事項。</description>
-    </item>
-    <item>
-      <title>Flipper Device 的新款 Busy Bar 是可自訂的生產力顯示器</title>
-      <link>https://techcrunch.com/2026/06/29/flipper-devices-new-busy-bar-is-a-customizable-display-for-productivity/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136643</guid>
-      <pubDate>Mon, 29 Jun 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Flipper Device 的新款 Busy Bar 售價為 249 美元。</description>
-    </item>
-    <item>
-      <title>Omen AI 優化資料中心的計畫根本漏洞百出</title>
-      <link>https://techcrunch.com/2026/06/29/omen-ais-plan-to-optimize-data-centers-is-all-wet/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137020</guid>
-      <pubDate>Mon, 29 Jun 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Omen AI 募得 3100 萬美元 A 輪融資，用來監控晶片冷卻液並阻止資料中心爆發細菌污染。</description>
     </item>
     <item>
       <title>開放模型，封閉環境：Palantir 以 NVIDIA Nemotron 將安全 AI 帶給美國政府機構</title>
