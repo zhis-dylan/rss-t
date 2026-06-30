@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 15:28:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 15:43:16 GMT</lastBuildDate>
+    <item>
+      <title>Tesla 在奧斯汀開始測試沒有踏板或方向盤的 Cybercab</title>
+      <link>https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137548</guid>
+      <pubDate>Tue, 30 Jun 2026 15:32:50 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司或許終於準備好嘗試兌現伊隆·馬斯克多年來承諾推出自家 robotaxi 網路。</description>
+    </item>
+    <item>
+      <title>Libby 將過濾 AI 內容，有點像</title>
+      <link>https://www.theverge.com/column/959433/libby-ai-filter</link>
+      <guid isPermaLink="false">https://www.theverge.com/column/959433/libby-ai-filter</guid>
+      <pubDate>Tue, 30 Jun 2026 15:30:00 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>這是 Lowpass，由 Janko Roettgers 撰寫的電子報，聚焦科技與娛樂不斷演變的交界，每週獨家為 The Verge 訂戶同步刊登一次。
+「AI 是我們的新前沿，」OverDrive 新任執行長 Marc DeBevoise 上週表示。OverDrive 最為人熟知的是電子書借閱 app Libby，這個 app 可透過數以萬計的公共圖書館使用。和數位出版業的其他業者一樣，它也準備迎接大量 AI 生成書籍所帶來的巨大衝擊。
+為了因應 AI 來襲，Libby 現在正準備推出 AI 內容控制功能，讓讀者可以選擇在 t …
+在 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>這是 Lowpass，由 Janko Roettgers 撰寫的電子報，聚焦科技與娛樂不斷演變的交界，每週獨家為 The Verge 訂戶同步刊登一次。<br>「AI 是我們的新前沿，」OverDrive 新任執行長 Marc DeBevoise 上週表示。OverDrive 最為人熟知的是電子書借閱 app Libby，這個 app 可透過數以萬計的公共圖書館使用。和數位出版業的其他業者一樣，它也準備迎接大量 AI 生成書籍所帶來的巨大衝擊。<br>為了因應 AI 來襲，Libby 現在正準備推出 AI 內容控制功能，讓讀者可以選擇在 t …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
+    </item>
     <item>
       <title>X 現在提供一個 MCP 伺服器，讓 AI 工具更容易使用其平台</title>
       <link>https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/</link>
@@ -296,15 +320,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <description>TIDAL 的新政策將阻止 AI 生成的音樂在其服務上賺錢。</description>
     </item>
     <item>
-      <title>重大隱私勝利，最高法院裁定地理圍欄搜索令受隱私權保護</title>
-      <link>https://techcrunch.com/2026/06/29/in-major-privacy-win-supreme-court-rules-geofence-warrants-are-protected-by-privacy-rights/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3133600</guid>
-      <pubDate>Mon, 29 Jun 2026 16:05:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>最高法院限制地理圍欄搜索令的裁決，對隱私權倡議者而言是一項勝利；他們認為這類做法違憲，但原本希望能直接全面禁止。</description>
-    </item>
-    <item>
       <title>現在是預留你的 WhatsApp 使用者名稱的時候了</title>
       <link>https://about.fb.com/news/2026/06/its-time-to-reserve-your-whatsapp-username/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=49288</guid>
@@ -482,20 +497,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Tim Cook 最近表示，漲價是「不可避免的」，並形容公司的定價「不可持續」。16 吋 MacBook Pro 的價格上漲了 300 美元。11 吋 iPad Air 從 599 美元漲到 749 美元。連 HomePod mini 也漲了 30 美元，來到 129 美元。Cook 直接把責任歸咎於 AI 產業，這並不令人意外。RAMageddon 已經席捲你的桌上型電腦和遊戲主機。Xbox 的價格依型號不同，漲幅接近 25%，而 Nothing 甚至取消了整場手機發表。蘋果只是最近一個調高價格並把矛頭指向 AI 的公司。<br>這些漲價是「基本的經濟……<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic 的 Mythos 5 回來了</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations</guid>
-      <pubDate>Sat, 27 Jun 2026 00:33:44 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>經過一場在川普政府之間拖了兩週的曲折談判流程後，根據《The Verge》看到的一封政府致 Anthropic 的信，Anthropic 的 Mythos 5 終於重新運作了——至少對某些特定組織而言是如此。至於面向大眾的 Mythos 級模型 Fable 5，則似乎仍處於懸而未決的狀態，沒有明顯的上線協議時間表。
-這封日期為 6 月 26 日、由商務部長 Howard Lutnick 寄給近期一直主導談判的 Anthropic 共同創辦人 Tom Brown 的信中表示，對許可要求有了「修訂 …
-在 The Verge 閱讀完整故事。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DCD_0617_Fable5.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>經過一場在川普政府之間拖了兩週的曲折談判流程後，根據《The Verge》看到的一封政府致 Anthropic 的信，Anthropic 的 Mythos 5 終於重新運作了——至少對某些特定組織而言是如此。至於面向大眾的 Mythos 級模型 Fable 5，則似乎仍處於懸而未決的狀態，沒有明顯的上線協議時間表。<br>這封日期為 6 月 26 日、由商務部長 Howard Lutnick 寄給近期一直主導談判的 Anthropic 共同創辦人 Tom Brown 的信中表示，對許可要求有了「修訂 …<br>在 The Verge 閱讀完整故事。</p>]]></content:encoded>
     </item>
     <item>
       <title>走進 Meta 的其中一座資料中心</title>
