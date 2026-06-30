@@ -5,7 +5,21 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 17:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:29:39 GMT</lastBuildDate>
+    <item>
+      <title>Netflix 在其《Willy Wonka》實境秀中使用 AI 生成的 Gene Wilder 聲音</title>
+      <link>https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder</link>
+      <guid isPermaLink="false">https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder</guid>
+      <pubDate>Tue, 30 Jun 2026 17:19:15 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>新的預告片確認《Wonka's The Golden Ticket》將於 9 月 23 日在 Netflix 首播，接在其《魷魚遊戲》實境秀之後，延續以虛構酷刑情境為基礎打造真實競賽的潮流。雖然預告片中看到的場景是真實的，並不是什麼格拉斯哥風格的 AI 假畫面，但旁白是 AI 生成的。
+Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 ElevenLabs 合作；該公司先前也曾參與重現 Michael Caine 和 Stan Lee 聲音的製作。這也延續了 Netflix 於 2021 年與 Roald Dahl 公司建立的合作關係，並且與 Charlie vs. the Chocolat … 無關。
+在 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/png"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>新的預告片確認《Wonka&#x27;s The Golden Ticket》將於 9 月 23 日在 Netflix 首播，接在其《魷魚遊戲》實境秀之後，延續以虛構酷刑情境為基礎打造真實競賽的潮流。雖然預告片中看到的場景是真實的，並不是什麼格拉斯哥風格的 AI 假畫面，但旁白是 AI 生成的。<br>Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 ElevenLabs 合作；該公司先前也曾參與重現 Michael Caine 和 Stan Lee 聲音的製作。這也延續了 Netflix 於 2021 年與 Roald Dahl 公司建立的合作關係，並且與 Charlie vs. the Chocolat … 無關。<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
+    </item>
     <item>
       <title>NVIDIA BioNeMo Agent Toolkit 為 Claude Science 中的生命科學研究人員帶來加速 AI</title>
       <link>https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/</link>
@@ -564,20 +578,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/gettyimages-2258417618.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>瑪格麗特・愛特伍德 2026 年 1 月 26 日於底特律歌劇院登台｜照片：Monica Morgan／Getty Images<br><br>《使女的故事》和《盲刺客》的知名作家瑪格麗特・愛特伍德，近日作為葡萄牙波多 Babell 文學與文化節的一部分接受訪問。和這類活動通常一樣，AI 的話題也被提了出來，而愛特伍德毫不客氣。<br>根據 Deadline 的摘要，愛特伍德說她只用過一次 AI 聊天機器人，也就是 Anthropic 的 Claude，而且留下的印象很差。她當時是在找英國偵探影集《布朗神父》的資訊，結果：<br>「Claude 給了我錯誤的答案，或者它在說謊。當然，它不知道自己在說謊，因為它不是人類；它是一個大型語言模型……它只是匆匆掃過了……<br><br>完整故事請見 The Verge。」</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>為什麼蘋果要我為大型科技公司的 AI 執念多付錢？</title>
-      <link>https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech</link>
-      <guid isPermaLink="false">https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech</guid>
-      <pubDate>Sat, 27 Jun 2026 13:30:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>Tim Cook 最近表示，漲價是「不可避免的」，並形容公司的定價「不可持續」。16 吋 MacBook Pro 的價格上漲了 300 美元。11 吋 iPad Air 從 599 美元漲到 749 美元。連 HomePod mini 也漲了 30 美元，來到 129 美元。Cook 直接把責任歸咎於 AI 產業，這並不令人意外。RAMageddon 已經席捲你的桌上型電腦和遊戲主機。Xbox 的價格依型號不同，漲幅接近 25%，而 Nothing 甚至取消了整場手機發表。蘋果只是最近一個調高價格並把矛頭指向 AI 的公司。
-這些漲價是「基本的經濟……
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK071_ACastro_apple_0003_a30fb2.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Tim Cook 最近表示，漲價是「不可避免的」，並形容公司的定價「不可持續」。16 吋 MacBook Pro 的價格上漲了 300 美元。11 吋 iPad Air 從 599 美元漲到 749 美元。連 HomePod mini 也漲了 30 美元，來到 129 美元。Cook 直接把責任歸咎於 AI 產業，這並不令人意外。RAMageddon 已經席捲你的桌上型電腦和遊戲主機。Xbox 的價格依型號不同，漲幅接近 25%，而 Nothing 甚至取消了整場手機發表。蘋果只是最近一個調高價格並把矛頭指向 AI 的公司。<br>這些漲價是「基本的經濟……<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
     </item>
     <item>
       <title>走進 Meta 的其中一座資料中心</title>
