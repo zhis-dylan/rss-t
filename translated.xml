@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 30 Jun 2026 08:54:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 09:09:43 GMT</lastBuildDate>
+    <item>
+      <title>加密貨幣交易所 OKX 希望 AI 代理彼此雇用與付款</title>
+      <link>https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137159</guid>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OKX 正在把支付、身分和聲譽整合到一個 AI 代理的市集中。</description>
+    </item>
     <item>
       <title>開啟英國下一個生產力時代：打造 AI 先鋒國度</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</link>
@@ -351,15 +360,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>中國的智譜 AI（Z.ai）發佈了其開源權重的 GLM-5.2，而且有些研究人員聲稱，它在某些找漏洞與資安情境中可與 Mythos 匹敵。雖然在其他更一般性的任務上，GLM 落後於 Anthropic 和 OpenAI 的模型，但中國似乎已大幅縮小了其模型與美國模型之間的能力差距。<br>這種程度的進展尤其讓美國政府感到憂慮；美國政府一直試圖限制中國取得 Anthropic 的 Mythos 和 Fable 等強大模型，以及訓練和運行這些模型所需的硬體。川普政府將 Mythos 及其他先進……<br>在 The Verge 閱讀完整故事。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>針對大聲串流廣告的加州法律將於 7 月 1 日生效</title>
-      <link>https://techcrunch.com/2026/06/28/california-law-targeting-loud-streaming-ads-takes-effect-on-july-1/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137041</guid>
-      <pubDate>Sun, 28 Jun 2026 21:34:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>串流廣告可能會安靜許多。</description>
     </item>
     <item>
       <title>Suno 推出 Spark 孵化器計畫，為其 AI 機器輸送獨立藝術家</title>
