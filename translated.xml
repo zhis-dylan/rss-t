@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 13:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 13:55:12 GMT</lastBuildDate>
+    <item>
+      <title>Meta 和 SpaceX 一樣，正尋求將多餘的 AI 運算能力變現</title>
+      <link>https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138038</guid>
+      <pubDate>Wed, 01 Jul 2026 13:43:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 正在規劃雲端基礎架構業務，販售 AI 運算能力與模型的使用權。此舉將使其與 Amazon Web Services、Google Cloud 和 Microsoft Azure 等大型雲端供應商正面競爭。</description>
+    </item>
     <item>
       <title>NVIDIA 與合作夥伴在美國打造，為美國打造</title>
       <link>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</link>
@@ -352,15 +361,6 @@ Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 Eleve
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>使用者將能夠使用 AI 根據自己的錄音製作 newsletter。</description>
-    </item>
-    <item>
-      <title>Amazon 推出新的 10 億美元 FDE 組織，跟隨 OpenAI 和 Anthropic</title>
-      <link>https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137516</guid>
-      <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新團隊的工程師將進駐各家公司，部署專用代理，重點放在快速上線與客戶自給自足。</description>
     </item>
     <item>
       <title>進入 Omniverse：運用合成資料與微調提升 Vision AI Agent 準確度的三種工作流程</title>
