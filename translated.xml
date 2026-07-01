@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 17:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:27:21 GMT</lastBuildDate>
+    <item>
+      <title>連 Honda 都在轉向資料中心</title>
+      <link>https://techcrunch.com/2026/07/01/even-honda-is-pivoting-to-data-centers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138193</guid>
+      <pubDate>Wed, 01 Jul 2026 17:13:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Honda 想搶進獲利豐厚的儲能市場。本週，它開始生產預定供給資料中心的電池，而不是給車道用的。</description>
+    </item>
     <item>
       <title>Maps 在紐西蘭有了真實的新聲音</title>
       <link>https://blog.google/products-and-platforms/products/maps/te-reo-maori/</link>
@@ -295,15 +304,6 @@ Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 Eleve
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/87fcaecc8e2e0705958c997424700a1a/6a43f6783d6332202b542014_anthropic-nvidia-842x450/anthropic-nvidia-842x450_thmb.jpg" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/87fcaecc8e2e0705958c997424700a1a/6a43f6783d6332202b542014_anthropic-nvidia-842x450/anthropic-nvidia-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/87fcaecc8e2e0705958c997424700a1a/6a43f6783d6332202b542014_anthropic-nvidia-842x450/anthropic-nvidia-842x450_thmb.jpg" alt=""></p><p>生命科學已進入運算規模的時代，而十多年來，NVIDIA 一直打造完整的 GPU 加速運算堆疊——涵蓋硬體、框架、程式庫、模型、微服務以及特定領域工具——協助研究人員執行更複雜的工作流程並更快迭代。本週，Anthropic 宣布 Claude Science，一個用於科學的 AI 工作台 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Threads 為 Live Chats 新增功能，並擴大開放使用</title>
-      <link>https://techcrunch.com/2026/06/30/threads-adds-new-features-to-live-chats-as-it-expands-access/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137528</guid>
-      <pubDate>Tue, 30 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這些更新包含翻譯、供主持人使用的新工具等。</description>
     </item>
     <item>
       <title>Apple Creator Studio 變得更聰明、更快、更連結</title>
