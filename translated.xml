@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 13:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:10:22 GMT</lastBuildDate>
+    <item>
+      <title>Builders Stage 議程公開：TechCrunch Disrupt 2026 上適用於新創公司擴張的實用策略</title>
+      <link>https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137969</guid>
+      <pubDate>Wed, 01 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Builders Stage 將回歸 TechCrunch Disrupt 2026，匯聚超過 10,000 名創辦人、新創營運者與投資人，帶來關於打造與擴張成功公司所需條件的實用對談與問答。立即報名，最高可省下 330 美元。</description>
+    </item>
     <item>
       <title>Meta 和 SpaceX 一樣，正尋求將多餘的 AI 運算能力變現</title>
       <link>https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/</link>
@@ -352,15 +361,6 @@ Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 Eleve
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg" alt=""></p><p>當 Jaiveer Singh 談到機器人時，他不會從炫目表現開始。他會從基礎架構開始：機器內部的板卡、讓開發者能透過機器人攝影機看見畫面的軟體，以及在機器人離開展示場去做有用事情之前所需的工程工作。身為一位帶領團隊的機器人軟體工程師，他負責背後的團隊 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Podcasting 平台 Riverside 進軍 newsletter 出版市場</title>
-      <link>https://techcrunch.com/2026/06/30/podcasting-platform-riverside-enters-the-newsletter-publishing-game/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135237</guid>
-      <pubDate>Tue, 30 Jun 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>使用者將能夠使用 AI 根據自己的錄音製作 newsletter。</description>
     </item>
     <item>
       <title>進入 Omniverse：運用合成資料與微調提升 Vision AI Agent 準確度的三種工作流程</title>
