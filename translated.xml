@@ -5,15 +5,18 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 16:57:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:12:11 GMT</lastBuildDate>
     <item>
-      <title>自駕車熱潮捲土重來，Humble Robotics 正將它帶進貨運領域</title>
-      <link>https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3138187</guid>
-      <pubDate>Wed, 01 Jul 2026 16:48:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>自動駕駛車輛領域開始讓人感覺像是在重演 2016 年的熱潮週期。Travis Kalanick 又開始打造一家機器人公司，而人才戰和資金也正像第一次那樣升溫。資金再次湧入，而推動下一波浪潮的，是那些經歷過第一波的人。 […]</description>
+      <title>Maps 在紐西蘭有了真實的新聲音</title>
+      <link>https://blog.google/products-and-platforms/products/maps/te-reo-maori/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/te-reo-maori/</guid>
+      <pubDate>Wed, 01 Jul 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>這個新聲音以紐西蘭口音說英語，同時能準確發音原住民地名。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/New_Zealand_Maps_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/New_Zealand_Maps_hero_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/New_Zealand_Maps_hero_1.max-600x600.format-webp.webp" alt=""></p><p>這個新聲音以紐西蘭口音說英語，同時能準確發音原住民地名。</p>]]></content:encoded>
     </item>
     <item>
       <title>Lime 在多年預告公開亮相後，於 IPO 中募得 1.67 億美元</title>
@@ -667,18 +670,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <description>Google.org 正提供 500 萬美元補助金，擴大 Obrii——烏克蘭的國家 AI 求職平台。這有助於烏克蘭在 AI 採用上扮演示範角色，延續永續…</description>
     </item>
     <item>
-      <title>試試這 3 個 Google AI 工具，幫你找到下一份工作。</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</guid>
-      <pubDate>Thu, 25 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" alt=""></p><p>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google 家長使用 Gemini 的 5 種方式</title>
       <link>https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</guid>
@@ -689,6 +680,18 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 如何協助做功課、規劃餐點等，讓家長有時間專注在更重要的事情上。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>試試這 3 個 Google AI 工具，幫你找到下一份工作。</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</guid>
+      <pubDate>Thu, 25 Jun 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" alt=""></p><p>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</p>]]></content:encoded>
     </item>
     <item>
       <title>打造專為教育量身設計的 AI，由教育工作者領先主導</title>
@@ -703,18 +706,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE2026-BlogHeader-Educator-20.max-600x600.format-webp.webp" alt=""></p><p>Google 的 AI 工具可協助教育工作者達成教學目標，並提供個人化體驗，幫助學生以最適合自己的方式學習——全都在…</p>]]></content:encoded>
     </item>
     <item>
-      <title>在 Gemini 應用程式中使用 study notebooks 學習的 5 種方式</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</guid>
-      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>ISTE 2026：以連結式 AI 工具支援教學與學習</title>
       <link>https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/collection-iste-june-2026/</guid>
@@ -725,6 +716,30 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp.webp" alt=""></p><p>Google for Education 在 ISTE 2026 的最新公告。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們最新的 Google Finance 升級，包括全新應用程式</title>
+      <link>https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>全新的 Google Finance 即將結束測試版，並推出一款新的 Android 應用程式。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp" alt=""></p><p>全新的 Google Finance 即將結束測試版，並推出一款新的 Android 應用程式。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>在 Gemini 應用程式中使用 study notebooks 學習的 5 種方式</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-study-notebooks/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Study_notebooks_16x9_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Study notebooks 是 Gemini 應用程式中的全新空間，作為互動式學習工具，專為任何學生的目標量身打造。</p>]]></content:encoded>
     </item>
     <item>
       <title>用 6 月的 Demand Gen Drop 提升你的廣告活動成效。</title>
@@ -749,30 +764,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_ISTE_Education_social.max-600x600.format-webp.webp" alt=""></p><p>我們將在 2026 年 ISTE 大會上宣布新的資助，以支持兩個長期合作夥伴。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>肯塔基州一個學區如何用 Gemini 擴大寫作回饋規模</title>
-      <link>https://blog.google/products-and-platforms/products/education/henry-county-public-schools/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/henry-county-public-schools/</guid>
-      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>肯塔基州的 Henry County Public Schools 在 Gemini for Education 的協助下，成功縮小了關鍵的成就落差。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_County_Case_Study_Blog_He.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_County_Case_Study_Blog_He.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_County_Case_Study_Blog_He.max-600x600.format-webp.webp" alt=""></p><p>肯塔基州的 Henry County Public Schools 在 Gemini for Education 的協助下，成功縮小了關鍵的成就落差。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們最新的 Google Finance 升級，包括全新應用程式</title>
-      <link>https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/google-finance-updates-june-2026/</guid>
-      <pubDate>Thu, 25 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>全新的 Google Finance 即將結束測試版，並推出一款新的 Android 應用程式。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Finance_blog_image_June_.max-600x600.format-webp.webp" alt=""></p><p>全新的 Google Finance 即將結束測試版，並推出一款新的 Android 應用程式。</p>]]></content:encoded>
     </item>
     <item>
       <title>終極夏季特賣組合：Steam 特賣遇上 GeForce NOW 折扣</title>
