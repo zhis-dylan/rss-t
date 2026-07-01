@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 00:18:52 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 長期擱置的 Fable 5 獲准回歸</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back</guid>
+      <pubDate>Wed, 01 Jul 2026 00:03:55 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>經過數週與川普政府的協商後，Anthropic 終於可以讓 Claude Fable 5 恢復上線。在 X 上的一則貼文中，Anthropic 表示，計劃從明天開始恢復存取。
+Anthropic：
+我們已收到通知，商務部已解除對 Claude Fable 5 和 Mythos 5 的出口管制。
+我們將從明天開始恢復存取，並很快分享最新消息。
+我們感謝使用者的耐心，也感謝所有協助我們重新部署這些模型的人。
+今年 6 月初，Anthropic 將 Fable 5 暫時擱置——這款面向消費者的模型使用與 Anthropic 的 My … 相同的底層技術。
+完整報導請見 The Verge。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>經過數週與川普政府的協商後，Anthropic 終於可以讓 Claude Fable 5 恢復上線。在 X 上的一則貼文中，Anthropic 表示，計劃從明天開始恢復存取。<br>Anthropic：<br>我們已收到通知，商務部已解除對 Claude Fable 5 和 Mythos 5 的出口管制。<br>我們將從明天開始恢復存取，並很快分享最新消息。<br>我們感謝使用者的耐心，也感謝所有協助我們重新部署這些模型的人。<br>今年 6 月初，Anthropic 將 Fable 5 暫時擱置——這款面向消費者的模型使用與 Anthropic 的 My … 相同的底層技術。<br>完整報導請見 The Verge。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Startup Battlefield Australia 申請將於幾天後截止：請在 7 月 6 日前申請</title>
       <link>https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/</link>
@@ -576,20 +594,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>HP Inc. 擴大其 OpenAI Frontier 合作夥伴關係，以在客戶體驗、軟體開發和企業營運中部署 AI。</description>
-    </item>
-    <item>
-      <title>檢察官在 Palisades 火災審判中使用 ChatGPT 記錄作為證據</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial</guid>
-      <pubDate>Sun, 28 Jun 2026 14:12:06 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>強納森・林德內克特因在 2025 年元旦縱火而面臨縱火指控，這場火災後來成為洛杉磯歷史上最致命的野火之一。為了建立他們的案子，檢察官調閱了他 iPhone 的定位資料、監視器畫面和證人證詞。但他們也查用了他的 ChatGPT 記錄。
-檢察官表示，林德內克特曾讓 ChatGPT 生成火焰影像，問這個聊天機器人「我為什麼總是這麼生氣？」，還向它抱怨富人如何在摧毀這個世界。他們也指出一段螢幕錄影，畫面中林德內克特詢問 ChatGPT，如果一場火是由某人點燃的，是否能把責任歸咎於那個人……
-請在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22530766/1232927726.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>強納森・林德內克特因在 2025 年元旦縱火而面臨縱火指控，這場火災後來成為洛杉磯歷史上最致命的野火之一。為了建立他們的案子，檢察官調閱了他 iPhone 的定位資料、監視器畫面和證人證詞。但他們也查用了他的 ChatGPT 記錄。<br>檢察官表示，林德內克特曾讓 ChatGPT 生成火焰影像，問這個聊天機器人「我為什麼總是這麼生氣？」，還向它抱怨富人如何在摧毀這個世界。他們也指出一段螢幕錄影，畫面中林德內克特詢問 ChatGPT，如果一場火是由某人點燃的，是否能把責任歸咎於那個人……<br>請在 The Verge 閱讀完整報導。</p>]]></content:encoded>
     </item>
     <item>
       <title>走進 Meta 的其中一座資料中心</title>
