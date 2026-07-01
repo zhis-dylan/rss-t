@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 14:25:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:40:47 GMT</lastBuildDate>
+    <item>
+      <title>Venice AI 在以隱私優先的 AI 平台起飛之際，完成 6500 萬美元 A 輪融資，成為獨角獸</title>
+      <link>https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138022</guid>
+      <pubDate>Wed, 01 Jul 2026 14:25:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Venice AI 已經獲利，年化運行率營收超過 7000 萬美元，執行長 Erik Voorhees 表示。</description>
+    </item>
     <item>
       <title>Gemini Spark，Google 的代理式助理，現已可在 Mac 上使用</title>
       <link>https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/</link>
@@ -313,15 +322,6 @@ Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 Eleve
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.max-600x600.format-webp.webp" alt=""></p><p>使用 Nano Banana 2 Lite 擴展你的創意，這是我們速度最快、成本效益最高的 Gemini 圖像模型，以及 Gemini Omni Flash，可用於高品質影片生成和對話式…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Tesla 在奧斯汀開始測試沒有踏板或方向盤的 Cybercab</title>
-      <link>https://techcrunch.com/2026/06/30/tesla-starts-testing-cybercab-without-pedals-or-a-steering-wheel-in-austin/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137548</guid>
-      <pubDate>Tue, 30 Jun 2026 15:32:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司或許終於準備好嘗試兌現伊隆·馬斯克多年來承諾推出自家 robotaxi 網路。</description>
     </item>
     <item>
       <title>Libby 將過濾 AI 內容，有點像</title>
