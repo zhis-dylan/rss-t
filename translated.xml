@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 14:10:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 14:25:34 GMT</lastBuildDate>
+    <item>
+      <title>Gemini Spark，Google 的代理式助理，現已可在 Mac 上使用</title>
+      <link>https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138055</guid>
+      <pubDate>Wed, 01 Jul 2026 14:20:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 24/7 的代理式助理 Gemini Spark 登上 Mac，並帶來其他改進，例如即時追蹤和支援更多 app。</description>
+    </item>
+    <item>
+      <title>Sony 將於 2028 年停止實體 PlayStation 遊戲光碟銷售</title>
+      <link>https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138104</guid>
+      <pubDate>Wed, 01 Jul 2026 14:16:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Sony 將從 2028 年起停止為所有新的 PlayStation 遊戲生產實體光碟，因為公司正擁抱全數位未來。</description>
+    </item>
     <item>
       <title>Builders Stage 議程公開：TechCrunch Disrupt 2026 上適用於新創公司擴張的實用策略</title>
       <link>https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/</link>
@@ -319,24 +337,6 @@ Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 Eleve
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>這是 Lowpass，由 Janko Roettgers 撰寫的電子報，聚焦科技與娛樂不斷演變的交界，每週獨家為 The Verge 訂戶同步刊登一次。<br>「AI 是我們的新前沿，」OverDrive 新任執行長 Marc DeBevoise 上週表示。OverDrive 最為人熟知的是電子書借閱 app Libby，這個 app 可透過數以萬計的公共圖書館使用。和數位出版業的其他業者一樣，它也準備迎接大量 AI 生成書籍所帶來的巨大衝擊。<br>為了因應 AI 來襲，Libby 現在正準備推出 AI 內容控制功能，讓讀者可以選擇在 t …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>X 現在提供一個 MCP 伺服器，讓 AI 工具更容易使用其平台</title>
-      <link>https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137526</guid>
-      <pubDate>Tue, 30 Jun 2026 15:08:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>X 已推出一個代管的 MCP 伺服器，讓開發者更容易將 AI 應用程式與該公司的 API 連接。</description>
-    </item>
-    <item>
-      <title>Arcturus 透過其奈米注入銅，可能將電網的電力損失減半</title>
-      <link>https://techcrunch.com/2026/06/30/arcturus-could-halve-the-grids-electrical-losses-using-its-nano-infused-copper/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137546</guid>
-      <pubDate>Tue, 30 Jun 2026 15:01:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>低調的新創公司 Arcturus 使用雷射將碳奈米材料注入銅中，大幅提升其導電能力。</description>
     </item>
     <item>
       <title>NVIDIA 的推論軟體堆疊如何實現最低的 token 成本</title>
