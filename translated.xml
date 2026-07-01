@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 13:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 13:24:52 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與合作夥伴在美國打造，為美國打造</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</guid>
+      <pubDate>Wed, 01 Jul 2026 13:00:47 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 及其合作夥伴正在投資美國製造業、供應鏈、能源電網與技術熟練的勞動力，讓美國能夠生產所需的基礎設施，以改善醫療保健、促成科學上的突破性發現、提升工業生產力，並維持全球科技領導地位。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>NVIDIA 及其合作夥伴正在投資美國製造業、供應鏈、能源電網與技術熟練的勞動力，讓美國能夠生產所需的基礎設施，以改善醫療保健、促成科學上的突破性發現、提升工業生產力，並維持全球科技領導地位。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Google 打造了一款很棒的智慧喇叭，但 Gemini 還沒準備好</title>
       <link>https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home</link>
@@ -1015,18 +1027,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/1d48490f37ab1024b3a708f642470626/6a394ba83d633231208db2ee_nvidia-vera-rubin-powers-supercomputers-for-science/nvidia-vera-rubin-powers-supercomputers-for-science_thmb.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/1d48490f37ab1024b3a708f642470626/6a394ba83d633231208db2ee_nvidia-vera-rubin-powers-supercomputers-for-science/nvidia-vera-rubin-powers-supercomputers-for-science_thmb.png"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/1d48490f37ab1024b3a708f642470626/6a394ba83d633231208db2ee_nvidia-vera-rubin-powers-supercomputers-for-science/nvidia-vera-rubin-powers-supercomputers-for-science_thmb.png" alt=""></p><p>以 7 Exaflops 的科學 AI 運算能力與 5 Petaflops 的原生 FP64 效能，Vera Rubin 將 TOP500 超級運算裝進單一機櫃新聞摘要：NVIDIA Vera Rubin 加速世界的 ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>歐洲推出創紀錄的 35 部全新 NVIDIA AI 超級電腦</title>
-      <link>https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/europe-unveils-a-record-35-new-nvidia-ai-supercomputers</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>擴大對下一代 NVIDIA AI 基礎架構的使用，讓數百萬研究人員能推進 AI、HPC 與科學發現新聞摘要：巴塞隆納超級運算中心的 EuroHPC AI ...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/ae7aa183e48944943da06d8a37f0bd86/6a3777d63d63321d12948dbc_european-supercomputers-isc26/european-supercomputers-isc26_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/ae7aa183e48944943da06d8a37f0bd86/6a3777d63d63321d12948dbc_european-supercomputers-isc26/european-supercomputers-isc26_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/ae7aa183e48944943da06d8a37f0bd86/6a3777d63d63321d12948dbc_european-supercomputers-isc26/european-supercomputers-isc26_thmb.jpg" alt=""></p><p>擴大對下一代 NVIDIA AI 基礎架構的使用，讓數百萬研究人員能推進 AI、HPC 與科學發現新聞摘要：巴塞隆納超級運算中心的 EuroHPC AI ...</p>]]></content:encoded>
     </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
