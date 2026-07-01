@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 22:45:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 23:00:33 GMT</lastBuildDate>
+    <item>
+      <title>Bending Spoons 無視 SaaS 低潮，掛牌首日飆漲 40%</title>
+      <link>https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138404</guid>
+      <pubDate>Wed, 01 Jul 2026 22:47:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家公司透過收購並整新 AOL、Eventbrite、Evernote、Meetup 和 Vimeo 等上一代科技品牌而快速成長。</description>
+    </item>
     <item>
       <title>在 180 億美元 IPO 之後，Bending Spoons 創辦人表示，成功來自於將運氣因素降到最低</title>
       <link>https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/</link>
@@ -80,9 +89,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>以下是 Google 於 2026 年 6 月發布的最新 AI 更新。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 於 2026 年 6 月發布的最新 AI 更新。</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 於 2026 年 6 月發布的最新 AI 更新。</p>]]></content:encoded>
     </item>
     <item>
       <title>Cloudflare 的新政策迫使 AI 公司為出版商內容付費</title>
@@ -263,15 +272,6 @@ Anthropic：
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>如果一場簡報就能改變一切呢？下一家還沒有人聽過的公司，正在打造未來會很重要的東西。那家公司也可能是你的。</description>
-    </item>
-    <item>
-      <title>OpenClaw 終於可在 Android 和 iOS 上使用</title>
-      <link>https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137864</guid>
-      <pubDate>Tue, 30 Jun 2026 21:53:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款免費、開源的 agentic 程式終於進入你的手機了。</description>
     </item>
     <item>
       <title>Gemini Spark 更新：macOS 推出、連結應用程式等更多功能</title>
