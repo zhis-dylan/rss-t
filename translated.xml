@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 22:15:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 22:30:17 GMT</lastBuildDate>
+    <item>
+      <title>在 180 億美元 IPO 之後，Bending Spoons 創辦人表示，成功來自於將運氣因素降到最低</title>
+      <link>https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138160</guid>
+      <pubDate>Wed, 01 Jul 2026 22:28:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bending Spoons 的共同創辦人是從自己新創事業的失敗中學到重要教訓的；這家義大利公司正悄悄收購備受喜愛但狀況不佳的網路品牌。</description>
+    </item>
     <item>
       <title>WhatsApp 使用者名稱已經引發冒充疑慮</title>
       <link>https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/</link>
@@ -275,15 +284,6 @@ Anthropic：
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp" alt=""></p><p>最新的 Gemini Spark 更新將 Spark 帶到 macOS 應用程式，連結你最喜愛的應用程式，並即時追蹤主題。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>打造撲克 AI 的 DeepMind 三人組，如今正為量化避險基金賺錢</title>
-      <link>https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137627</guid>
-      <pubDate>Tue, 30 Jun 2026 20:33:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>位於布拉格的 AI 實驗室 EquiLibre Technologies 由三位前 DeepMind 研究員創立，如今估值已超過 5 億美元。</description>
     </item>
     <item>
       <title>Google 的 NotebookLM 可以用 TikTok 風格短片幫你整理研究內容</title>
