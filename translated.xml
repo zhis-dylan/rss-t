@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 16:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:57:00 GMT</lastBuildDate>
+    <item>
+      <title>自駕車熱潮捲土重來，Humble Robotics 正將它帶進貨運領域</title>
+      <link>https://techcrunch.com/video/autonomous-vehicle-hype-is-back-and-humble-robotics-is-bringing-it-to-freights/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3138187</guid>
+      <pubDate>Wed, 01 Jul 2026 16:48:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>自動駕駛車輛領域開始讓人感覺像是在重演 2016 年的熱潮週期。Travis Kalanick 又開始打造一家機器人公司，而人才戰和資金也正像第一次那樣升溫。資金再次湧入，而推動下一波浪潮的，是那些經歷過第一波的人。 […]</description>
+    </item>
     <item>
       <title>Lime 在多年預告公開亮相後，於 IPO 中募得 1.67 億美元</title>
       <link>https://techcrunch.com/2026/07/01/lime-raises-167m-in-ipo-after-years-of-teasing-a-public-debut/</link>
@@ -292,15 +301,6 @@ Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 Eleve
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這些更新包含翻譯、供主持人使用的新工具等。</description>
-    </item>
-    <item>
-      <title>Anthropic 的 Claude Science 押注工作流程，而非新模型，來贏得科學家青睞</title>
-      <link>https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137674</guid>
-      <pubDate>Tue, 30 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 的 Claude Science 是一個工作台，讓科學家能在同一個環境中進行計算研究，省去在資料庫、管線和工具之間來回切換的需要。</description>
     </item>
     <item>
       <title>Apple Creator Studio 變得更聰明、更快、更連結</title>
