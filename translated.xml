@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 17:24:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:40:08 GMT</lastBuildDate>
+    <item>
+      <title>波音旗下的 Wisk Aero 被指控解雇了一名提出安全疑慮的經理</title>
+      <link>https://techcrunch.com/2026/07/02/boeing-owned-wisk-aero-accused-of-firing-manager-who-raised-safety-concerns/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138661</guid>
+      <pubDate>Thu, 02 Jul 2026 17:30:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一名前軟體經理聲稱，Wisk 在一項關鍵的 2025 年飛行測試前，催促軟體測試進度。</description>
+    </item>
     <item>
       <title>Melinda Gates 的創投公司投資 Magnify Ventures 的 4,660 萬美元 Fund II</title>
       <link>https://techcrunch.com/2026/07/02/melinda-gates-venture-firm-backs-magnify-ventures-46-6m-fund-ii/</link>
@@ -240,15 +249,6 @@ FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對�
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 於 2026 年 6 月發布的最新 AI 更新。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Cloudflare 的新政策迫使 AI 公司為出版商內容付費</title>
-      <link>https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138183</guid>
-      <pubDate>Wed, 01 Jul 2026 17:48:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cloudflare 給 AI 公司到 9 月 15 日的時間，要求它們將用於搜尋的網路爬蟲與用於 AI 訓練和代理的爬蟲分開，否則將有可能在許多出版商網站上預設遭到封鎖。</description>
     </item>
     <item>
       <title>Maps 在紐西蘭有了真實的新聲音</title>
