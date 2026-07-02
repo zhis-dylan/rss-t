@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 20:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:57:00 GMT</lastBuildDate>
+    <item>
+      <title>IQM，歐洲首家公開上市的量子公司，坦承這項技術的未來充滿不確定性</title>
+      <link>https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138636</guid>
+      <pubDate>Thu, 02 Jul 2026 20:42:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>來自芬蘭的全端量子公司 IQM 今天以約 19 億美元的估值在那斯達克公開上市。</description>
+    </item>
     <item>
       <title>Jersey Mike’s IPO 說明了 AI 炒作已經變得有多糟</title>
       <link>https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/</link>
@@ -225,15 +234,6 @@ FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Bending Spoons 的共同創辦人是從自己新創事業的失敗中學到重要教訓的；這家義大利公司正悄悄收購備受喜愛但狀況不佳的網路品牌。</description>
-    </item>
-    <item>
-      <title>WhatsApp 使用者名稱已經引發冒充疑慮</title>
-      <link>https://techcrunch.com/2026/07/01/whatsapp-usernames-are-already-raising-impersonation-red-flags/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138390</guid>
-      <pubDate>Wed, 01 Jul 2026 22:02:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 表示使用者名稱能提升隱私，但批評者質疑其防護措施是否能防止冒充。</description>
     </item>
     <item>
       <title>B3 為什麼選擇 Android 來打造安全、支援 AI 的生產力</title>
