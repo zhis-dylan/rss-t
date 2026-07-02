@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 14:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 14:23:23 GMT</lastBuildDate>
+    <item>
+      <title>美國政府表示又被駭了</title>
+      <link>https://techcrunch.com/2026/07/02/us-government-says-it-got-hacked-again/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138572</guid>
+      <pubDate>Thu, 02 Jul 2026 14:22:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>參議院情報委員會的一位資深民主黨人警告，在國土安全部情報共享網路上被存取的資訊可能會危及國家安全。</description>
+    </item>
     <item>
       <title>Microsoft 推出自家的 AI 部署公司，承諾投入 25 億美元</title>
       <link>https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/</link>
@@ -264,15 +273,6 @@ FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 24/7 的代理式助理 Gemini Spark 登上 Mac，並帶來其他改進，例如即時追蹤和支援更多 app。</description>
-    </item>
-    <item>
-      <title>Sony 將於 2028 年停止實體 PlayStation 遊戲光碟銷售</title>
-      <link>https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138104</guid>
-      <pubDate>Wed, 01 Jul 2026 14:16:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Sony 將從 2028 年起停止為所有新的 PlayStation 遊戲生產實體光碟，因為公司正擁抱全數位未來。</description>
     </item>
     <item>
       <title>NVIDIA 與合作夥伴在美國打造，為美國打造</title>
