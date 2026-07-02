@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 01 Jul 2026 23:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:01:07 GMT</lastBuildDate>
+    <item>
+      <title>據報導，Apple 計劃在明年初推出新的 iPad Pro 和 MacBook Pro</title>
+      <link>https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138400</guid>
+      <pubDate>Wed, 01 Jul 2026 23:57:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報導，Apple 正在準備多款新的 iPad Pro 平板，以及一款平價的 MacBook Pro。</description>
+    </item>
     <item>
       <title>Bending Spoons 無視 SaaS 低潮，掛牌首日飆漲 40%</title>
       <link>https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/</link>
@@ -263,15 +272,6 @@ Anthropic：
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>經過數週與川普政府的協商後，Anthropic 終於可以讓 Claude Fable 5 恢復上線。在 X 上的一則貼文中，Anthropic 表示，計劃從明天開始恢復存取。<br>Anthropic：<br>我們已收到通知，商務部已解除對 Claude Fable 5 和 Mythos 5 的出口管制。<br>我們將從明天開始恢復存取，並很快分享最新消息。<br>我們感謝使用者的耐心，也感謝所有協助我們重新部署這些模型的人。<br>今年 6 月初，Anthropic 將 Fable 5 暫時擱置——這款面向消費者的模型使用與 Anthropic 的 My … 相同的底層技術。<br>完整報導請見 The Verge。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Startup Battlefield Australia 申請將於幾天後截止：請在 7 月 6 日前申請</title>
-      <link>https://techcrunch.com/2026/06/30/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3136531</guid>
-      <pubDate>Tue, 30 Jun 2026 23:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果一場簡報就能改變一切呢？下一家還沒有人聽過的公司，正在打造未來會很重要的東西。那家公司也可能是你的。</description>
     </item>
     <item>
       <title>Gemini Spark 更新：macOS 推出、連結應用程式等更多功能</title>
