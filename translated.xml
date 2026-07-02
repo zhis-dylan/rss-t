@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 03:32:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 03:47:51 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 釋放大規模 AI 運算，邀請資本合作夥伴共同推動 AI 基礎設施建設</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</guid>
+      <pubDate>Thu, 02 Jul 2026 03:34:48 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>隨著 AI 從模型開發走向生產環境推論，運算需求正加速成長，並轉向持續運作、能大規模產生 token 的 AI 工廠。這項轉變需要能快速上線、保持高使用率，並支援 token 規模 AI 服務經濟效益的大規模、多租戶加速運算。新興 AI 公司過去一直……</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg" alt=""></p><p>隨著 AI 從模型開發走向生產環境推論，運算需求正加速成長，並轉向持續運作、能大規模產生 token 的 AI 工廠。這項轉變需要能快速上線、保持高使用率，並支援 token 規模 AI 服務經濟效益的大規模、多租戶加速運算。新興 AI 公司過去一直……</p>]]></content:encoded>
+    </item>
     <item>
       <title>據報導，Apple 計劃在明年初推出新的 iPad Pro 和 MacBook Pro</title>
       <link>https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/</link>
@@ -1006,18 +1018,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>AI 的下一個時代不會只由運算定義，其成長將由能源決定。隨著加速運算在 AI 工廠、代理式 AI、工業 AI、邊緣運算與實體 AI——包括機器人與自主系統——中擴展，全球電力需求正以前所未有的速度上升。在許多地區，擴充電網 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA Vera Rubin 為科學提供世界級超級電腦</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-vera-rubin-delivers-world-class-supercomputers-for-science</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>以 7 Exaflops 的科學 AI 運算能力與 5 Petaflops 的原生 FP64 效能，Vera Rubin 將 TOP500 超級運算裝進單一機櫃新聞摘要：NVIDIA Vera Rubin 加速世界的 ...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/1d48490f37ab1024b3a708f642470626/6a394ba83d633231208db2ee_nvidia-vera-rubin-powers-supercomputers-for-science/nvidia-vera-rubin-powers-supercomputers-for-science_thmb.png" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/1d48490f37ab1024b3a708f642470626/6a394ba83d633231208db2ee_nvidia-vera-rubin-powers-supercomputers-for-science/nvidia-vera-rubin-powers-supercomputers-for-science_thmb.png"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/1d48490f37ab1024b3a708f642470626/6a394ba83d633231208db2ee_nvidia-vera-rubin-powers-supercomputers-for-science/nvidia-vera-rubin-powers-supercomputers-for-science_thmb.png" alt=""></p><p>以 7 Exaflops 的科學 AI 運算能力與 5 Petaflops 的原生 FP64 效能，Vera Rubin 將 TOP500 超級運算裝進單一機櫃新聞摘要：NVIDIA Vera Rubin 加速世界的 ...</p>]]></content:encoded>
     </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
