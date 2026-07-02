@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 11:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 12:06:55 GMT</lastBuildDate>
+    <item>
+      <title>沒錯，我們現在用 OpenClaw 來約會了</title>
+      <link>https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137764</guid>
+      <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ben Guez 因為使用 OpenClaw、Claude code 和 Instagram 試用版所設置的一個自動化腳本，收到了「一堆潛在的國際妻子在[他的]私訊中」</description>
+    </item>
     <item>
       <title>OpenAI 提議給川普政府分 5% AI 熱潮收益</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump</link>
@@ -272,15 +281,6 @@ Google …
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>網際網路底層通訊協定的創建者之一 Vinton Cerf，下週將卸下 Google 首席網際網路傳道者一職。</description>
-    </item>
-    <item>
-      <title>Trump 取消對 Anthropic 的 Mythos 和 Fable 模型限制</title>
-      <link>https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137898</guid>
-      <pubDate>Wed, 01 Jul 2026 02:16:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 表示將於 7 月 1 日開始恢復對 Fable 的存取權限。</description>
     </item>
     <item>
       <title>Anthropic 長期擱置的 Fable 5 獲准回歸</title>
