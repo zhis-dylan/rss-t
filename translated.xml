@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 18:55:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 19:26:11 GMT</lastBuildDate>
+    <item>
+      <title>關於 AI 真實成本的一個警訊，來自 Google 和 Amazon</title>
+      <link>https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138685</guid>
+      <pubDate>Thu, 02 Jul 2026 19:14:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 讓 Amazon 和 Google 這類科技公司更難兌現其淨零承諾。</description>
+    </item>
     <item>
       <title>Meta 低調推出 vibe-coded 遊戲 app Pocket</title>
       <link>https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/</link>
@@ -237,15 +246,6 @@ FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對�
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_B3_Blog_and_Social_Blog.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_B3_Blog_and_Social_Blog.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_B3_Blog_and_Social_Blog.max-600x600.format-webp.webp" alt=""></p><p>Android 和 Samsung 協助 B3 以安全方式擴展行動裝置管理和 AI 功能，供其管理團隊使用。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>SpaceX 有一款 AI 裝置原型，而且聽起來很像手機</title>
-      <link>https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138299</guid>
-      <pubDate>Wed, 01 Jul 2026 18:54:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報導，SpaceX 在上市前曾向投資人展示一款「像手機」的 AI 裝置。這可能是另一個訊號，顯示 SpaceX 想擴展到無線通訊領域。</description>
     </item>
     <item>
       <title>我們在 2026 年 6 月宣布的最新 AI 新聞</title>
