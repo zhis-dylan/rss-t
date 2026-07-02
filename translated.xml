@@ -5,22 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 10:51:09 GMT</lastBuildDate>
-    <item>
-      <title>OpenAI 提議給川普政府 5% 的 AI 熱潮分成</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump</guid>
-      <pubDate>Thu, 02 Jul 2026 10:23:27 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>根據《金融時報》報導，OpenAI 曾提出給美國政府 5% 的所有權股份，作為緩和與川普政府緊張關係，以及減輕針對 AI 日益升高的公眾反彈的一種方式。
-《金融時報》引述兩名熟悉談話內容但未具名的人士報導，執行長 Sam Altman 主張，讓大眾對公司擁有財務上的利益，會是分享 AI 上行利益的最佳方式。他據說早在去年初就曾向川普提出這個想法。
-報導指出，Altman 據稱提出 5% 這個數字。以 OpenAI 最新一輪融資估值 8520 億美元計算，這筆持股將值……
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>根據《金融時報》報導，OpenAI 曾提出給美國政府 5% 的所有權股份，作為緩和與川普政府緊張關係，以及減輕針對 AI 日益升高的公眾反彈的一種方式。<br>《金融時報》引述兩名熟悉談話內容但未具名的人士報導，執行長 Sam Altman 主張，讓大眾對公司擁有財務上的利益，會是分享 AI 上行利益的最佳方式。他據說早在去年初就曾向川普提出這個想法。<br>報導指出，Altman 據稱提出 5% 這個數字。以 OpenAI 最新一輪融資估值 8520 億美元計算，這筆持股將值……<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
+    <lastBuildDate>Thu, 02 Jul 2026 11:06:19 GMT</lastBuildDate>
     <item>
       <title>印度科技大亨砸下自己 3,000 萬美元打造 AI 替代版 Microsoft Office</title>
       <link>https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/</link>
@@ -653,6 +638,20 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>一份新的 OpenAI 報告描繪 AI 可能如何重塑歐盟各地的工作，強調哪些職業可能面臨自動化、成長或工作流程變化。</description>
+    </item>
+    <item>
+      <title>中國的 Z.ai 聲稱其在資安方面可與 Mythos 匹敵</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity</guid>
+      <pubDate>Sun, 28 Jun 2026 21:42:51 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>中國的 Zhipu AI（Z.ai）釋出了其開放權重的 GLM-5.2，而一些研究人員聲稱，它在某些找漏洞與資安情境中可與 Mythos 相匹敵。雖然在其他更通用的任務上，GLM 落後於 Anthropic 和 OpenAI 的模型，但中國似乎已大幅縮小其模型與美國模型之間的能力差距。
+這種程度的進展對美國政府尤其令人憂心；美國政府一直試圖限制中國取得 Anthropic 的 Mythos 和 Fable 等強大模型，以及訓練和執行這些模型所需的硬體。川普政府將 Mythos 及其他先進 …
+在 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STKS515_CYBER_WARFARE2_C.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>中國的 Zhipu AI（Z.ai）釋出了其開放權重的 GLM-5.2，而一些研究人員聲稱，它在某些找漏洞與資安情境中可與 Mythos 相匹敵。雖然在其他更通用的任務上，GLM 落後於 Anthropic 和 OpenAI 的模型，但中國似乎已大幅縮小其模型與美國模型之間的能力差距。<br>這種程度的進展對美國政府尤其令人憂心；美國政府一直試圖限制中國取得 Anthropic 的 Mythos 和 Fable 等強大模型，以及訓練和執行這些模型所需的硬體。川普政府將 Mythos 及其他先進 …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
     </item>
     <item>
       <title>HP Inc. 與 OpenAI 推出 Frontier 策略合作夥伴關係</title>
