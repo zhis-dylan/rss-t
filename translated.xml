@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 20:11:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:26:42 GMT</lastBuildDate>
+    <item>
+      <title>Jersey Mike’s IPO 說明了 AI 炒作已經變得有多糟</title>
+      <link>https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138696</guid>
+      <pubDate>Thu, 02 Jul 2026 20:11:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>只是出於好玩，我看了一下 Jersey Mike's 的 IPO 文件。按理說，一家三明治店應該沒必要提到 AI。但事實卻出人意料。</description>
+    </item>
     <item>
       <title>關於 AI 真實成本的一個警訊，來自 Google 和 Amazon</title>
       <link>https://techcrunch.com/2026/07/02/a-warning-sign-about-ais-real-cost-courtesy-of-google-and-amazon/</link>
@@ -225,15 +234,6 @@ FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta 表示使用者名稱能提升隱私，但批評者質疑其防護措施是否能防止冒充。</description>
-    </item>
-    <item>
-      <title>Apple 的隱藏我的電子郵件功能有個 bug，研究人員聲稱它一直在暴露真實電子郵件地址</title>
-      <link>https://techcrunch.com/2026/07/01/apples-hide-my-email-feature-has-a-bug-thats-been-exposing-real-email-addresses-researcher-claims/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138250</guid>
-      <pubDate>Wed, 01 Jul 2026 19:18:07 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>研究似乎揭露了一個 bug，這個 bug 可能會讓這項功能實際上變得毫無用處。</description>
     </item>
     <item>
       <title>B3 為什麼選擇 Android 來打造安全、支援 AI 的生產力</title>
