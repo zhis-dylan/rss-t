@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 02 Jul 2026 23:28:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 23:43:25 GMT</lastBuildDate>
+    <item>
+      <title>Mark Zuckerberg 告訴員工，AI agents 的進展沒有他原本希望的那麼快</title>
+      <link>https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138873</guid>
+      <pubDate>Thu, 02 Jul 2026 23:38:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在一場內部會議上，這位 Meta 執行長據稱表示，AI 開發工作進展沒有預期中那麼快。</description>
+    </item>
     <item>
       <title>民間太空飛行員正為美國太空軍執行軌道任務</title>
       <link>https://techcrunch.com/2026/07/02/private-space-pilots-are-flying-orbital-missions-for-the-us-space-force/</link>
@@ -225,15 +234,6 @@ FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對�
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg" alt=""></p><p>隨著 AI 從模型開發走向生產環境推論，運算需求正加速成長，並轉向持續運作、能大規模產生 token 的 AI 工廠。這項轉變需要能快速上線、保持高使用率，並支援 token 規模 AI 服務經濟效益的大規模、多租戶加速運算。新興 AI 公司過去一直……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>據報導，Apple 計劃在明年初推出新的 iPad Pro 和 MacBook Pro</title>
-      <link>https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138400</guid>
-      <pubDate>Wed, 01 Jul 2026 23:57:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報導，Apple 正在準備多款新的 iPad Pro 平板，以及一款平價的 MacBook Pro。</description>
     </item>
     <item>
       <title>B3 為什麼選擇 Android 來打造安全、支援 AI 的生產力</title>
