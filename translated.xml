@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 03 Jul 2026 05:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 05:16:01 GMT</lastBuildDate>
+    <item>
+      <title>調查間諜軟體濫用的政治人物手機遭 Pegasus 間諜軟體入侵</title>
+      <link>https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3138739</guid>
+      <pubDate>Fri, 03 Jul 2026 05:05:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>NSO Group 的一名政府客戶使用該公司的 Pegasus 間諜軟體入侵一名歐洲政治人物的手機；這名政治人物當時正擔任歐盟一個負責調查間諜軟體產業的委員會成員。</description>
+    </item>
     <item>
       <title>最後機會申請 — Startup Battlefield Australia 申請將於 7 月 6 日截止</title>
       <link>https://techcrunch.com/2026/07/02/last-chance-to-apply-startup-battlefield-australia-applications-close-july-6-2/</link>
@@ -198,15 +207,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>該公司在上個月推出R2 SUV後，現在預期到2026年底前的出貨量會比先前預期多出幾千輛。</description>
-    </item>
-    <item>
-      <title>沒錯，我們現在用 OpenClaw 來約會了</title>
-      <link>https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137764</guid>
-      <pubDate>Thu, 02 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ben Guez 因為使用 OpenClaw、Claude code 和 Instagram 試用版所設置的一個自動化腳本，收到了「一堆潛在的國際妻子在[他的]私訊中」</description>
     </item>
     <item>
       <title>OpenAI 提議給川普政府分 5% AI 熱潮收益</title>
