@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 03 Jul 2026 17:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 17:34:10 GMT</lastBuildDate>
     <item>
       <title>Chevy 打造了一款美國製造的 EV 卡車。為什麼沒人買？</title>
       <link>https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/</link>
@@ -26,37 +26,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/indiegamesfund_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/indiegamesfund_socialshare.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/indiegamesfund_socialshare.max-600x600.format-webp.webp" alt=""></p><p>撒哈拉以南非洲擁有令人驚豔的說故事能力，這也為遊戲開發圈帶來動能，推動這個全球成長最快的遊戲市場之一。不過，當……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic 想要開發自己的藥物</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development</guid>
-      <pubDate>Fri, 03 Jul 2026 13:56:52 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>在本週稍早的「The Briefing: AI for Science」活動上，Anthropic 宣布推出 Claude Science，一個新的「供科學家使用的 AI 工作台」，可將分散的工具與資料集整合到單一環境中，並生成圖表與視覺化內容。Anthropic 目前已憑藉其廣受歡迎的程式設計工具與強大的 AI 模型主導這個產業，這次發表會則圍繞著其所稱 AI 的潛力：可「大幅加速科學發現與醫療介入的開發速度」，並大力宣傳一長串已在使用 Claude 的生技與製藥客戶。
-Anthropic 也更進一步表示，將開發自己的藥物……
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>在本週稍早的「The Briefing: AI for Science」活動上，Anthropic 宣布推出 Claude Science，一個新的「供科學家使用的 AI 工作台」，可將分散的工具與資料集整合到單一環境中，並生成圖表與視覺化內容。Anthropic 目前已憑藉其廣受歡迎的程式設計工具與強大的 AI 模型主導這個產業，這次發表會則圍繞著其所稱 AI 的潛力：可「大幅加速科學發現與醫療介入的開發速度」，並大力宣傳一長串已在使用 Claude 的生技與製藥客戶。<br>Anthropic 也更進一步表示，將開發自己的藥物……<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Midjourney 醫療掃描器幕後花絮揭露，仍留下許多未解之謎</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</guid>
-      <pubDate>Fri, 03 Jul 2026 11:49:10 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>一張影像幻影體的掃描圖，經分割處理，用來驗證在受控條件下各結構分離得有多乾淨。｜圖片：Midjourney Medical
-
-Midjourney 展示了更多這台未來感十足的醫療掃描器，但仍沒有拿出太多證明它真的能運作的證據。
-這家以生成圖片聞名的 AI 新創公司，釋出了一支這台浴缸式超音波掃描器的幕後影片；該公司計畫把它部署到水療中心，並希望藉由便宜、細緻、無輻射的影像技術，徹底改變醫療。這段將近 20 分鐘的導覽來自科技 YouTuber Marcin Plaza，他同時也是該公司的工程師。
-Plaza 直言，這台掃描器就像是把數十個超音波探頭「拆開硬改，然後裝在一個帶電梯的誇張按摩浴缸上」，再連接市售電腦和 Raspberry …
-完整故事請見 The Verge。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/png"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>一張影像幻影體的掃描圖，經分割處理，用來驗證在受控條件下各結構分離得有多乾淨。｜圖片：Midjourney Medical<br><br>Midjourney 展示了更多這台未來感十足的醫療掃描器，但仍沒有拿出太多證明它真的能運作的證據。<br>這家以生成圖片聞名的 AI 新創公司，釋出了一支這台浴缸式超音波掃描器的幕後影片；該公司計畫把它部署到水療中心，並希望藉由便宜、細緻、無輻射的影像技術，徹底改變醫療。這段將近 20 分鐘的導覽來自科技 YouTuber Marcin Plaza，他同時也是該公司的工程師。<br>Plaza 直言，這台掃描器就像是把數十個超音波探頭「拆開硬改，然後裝在一個帶電梯的誇張按摩浴缸上」，再連接市售電腦和 Raspberry …<br>完整故事請見 The Verge。</p>]]></content:encoded>
     </item>
     <item>
       <title>調查間諜軟體濫用的政治人物手機遭 Pegasus 間諜軟體入侵</title>
@@ -252,21 +221,6 @@ Plaza 直言，這台掃描器就像是把數十個超音波探頭「拆開硬�
 The post Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence appeared first on The Official Microsoft Blog.</description>
     </item>
     <item>
-      <title>OpenAI 提議給川普政府分 5% AI 熱潮收益</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump</guid>
-      <pubDate>Thu, 02 Jul 2026 10:23:27 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>根據《金融時報》報導，OpenAI 曾提議讓美國政府持有 5% 的所有權股權，作為緩和與川普政府緊張關係，以及削弱外界對 AI 日益升高的反彈的一種方式。
-FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對公司擁有財務利益，將是分享 AI 潛在收益的最佳方式。他據稱在去年年初就首次向 Trump 提出這個想法。
-報導指出，Altman 據稱提出了 5% 這個數字。根據 OpenAI 最近一輪融資，該公司估值達 8,520 億美元，這筆持股將價值……
-完整故事請見 The Verge。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK201_SAM_ALTMAN_CVIRGINIA2A.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>根據《金融時報》報導，OpenAI 曾提議讓美國政府持有 5% 的所有權股權，作為緩和與川普政府緊張關係，以及削弱外界對 AI 日益升高的反彈的一種方式。<br>FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對公司擁有財務利益，將是分享 AI 潛在收益的最佳方式。他據稱在去年年初就首次向 Trump 提出這個想法。<br>報導指出，Altman 據稱提出了 5% 這個數字。根據 OpenAI 最近一輪融資，該公司估值達 8,520 億美元，這筆持股將價值……<br>完整故事請見 The Verge。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>NVIDIA 釋放大規模 AI 運算，邀請資本合作夥伴共同推動 AI 基礎設施建設</title>
       <link>https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</guid>
@@ -339,42 +293,6 @@ FT 引述兩名知情人士報導，執行長 Sam Altman 主張，讓大眾對�
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>NVIDIA 及其合作夥伴正在投資美國製造業、供應鏈、能源電網與技術熟練的勞動力，讓美國能夠生產所需的基礎設施，以改善醫療保健、促成科學上的突破性發現、提升工業生產力，並維持全球科技領導地位。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Google 打造了一款很棒的智慧喇叭，但 Gemini 還沒準備好</title>
-      <link>https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home</link>
-      <guid isPermaLink="false">https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home</guid>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>Google Home Speaker 是 Google 這幾年來第一款智慧喇叭。而且它很好看！| 圖片：Jennifer Patison Tuohy / The Verge
-
-過去幾年，智慧喇叭一直在尋找一個更有說服力的第二幕。除了播放音樂、設定計時器和控制燈光之外，它們一直很難證明自己值得占據廚房流理台上的空間。AI 原本承諾要改變這一切。
-亞馬遜去年秋天推出了搭載全新 Alexa 的新硬體，現在終於輪到 Google 了。Google Home Speaker 是這家公司六年來第一款全新的智慧喇叭，也是第一款「為 Gemini 打造」的產品。經過多年的冷落，Google 看起來終於又開始認真看待智慧家庭了。這款新喇叭是目前最明確的跡象。不過，Gemini for Home 仍然讓人感覺還沒完成。
-Google …
-
-在 The Verge 閱讀完整故事。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268614_Google_Home_Speaker_JTuohy_0009.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Google Home Speaker 是 Google 這幾年來第一款智慧喇叭。而且它很好看！| 圖片：Jennifer Patison Tuohy / The Verge<br><br>過去幾年，智慧喇叭一直在尋找一個更有說服力的第二幕。除了播放音樂、設定計時器和控制燈光之外，它們一直很難證明自己值得占據廚房流理台上的空間。AI 原本承諾要改變這一切。<br>亞馬遜去年秋天推出了搭載全新 Alexa 的新硬體，現在終於輪到 Google 了。Google Home Speaker 是這家公司六年來第一款全新的智慧喇叭，也是第一款「為 Gemini 打造」的產品。經過多年的冷落，Google 看起來終於又開始認真看待智慧家庭了。這款新喇叭是目前最明確的跡象。不過，Gemini for Home 仍然讓人感覺還沒完成。<br>Google …<br><br>在 The Verge 閱讀完整故事。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic 長期擱置的 Fable 5 獲准回歸</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back</guid>
-      <pubDate>Wed, 01 Jul 2026 00:03:55 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>經過數週與川普政府的協商後，Anthropic 終於可以讓 Claude Fable 5 恢復上線。在 X 上的一則貼文中，Anthropic 表示，計劃從明天開始恢復存取。
-Anthropic：
-我們已收到通知，商務部已解除對 Claude Fable 5 和 Mythos 5 的出口管制。
-我們將從明天開始恢復存取，並很快分享最新消息。
-我們感謝使用者的耐心，也感謝所有協助我們重新部署這些模型的人。
-今年 6 月初，Anthropic 將 Fable 5 暫時擱置——這款面向消費者的模型使用與 Anthropic 的 My … 相同的底層技術。
-完整報導請見 The Verge。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/STKB364_CLAUDE_2_C_96d15c.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>經過數週與川普政府的協商後，Anthropic 終於可以讓 Claude Fable 5 恢復上線。在 X 上的一則貼文中，Anthropic 表示，計劃從明天開始恢復存取。<br>Anthropic：<br>我們已收到通知，商務部已解除對 Claude Fable 5 和 Mythos 5 的出口管制。<br>我們將從明天開始恢復存取，並很快分享最新消息。<br>我們感謝使用者的耐心，也感謝所有協助我們重新部署這些模型的人。<br>今年 6 月初，Anthropic 將 Fable 5 暫時擱置——這款面向消費者的模型使用與 Anthropic 的 My … 相同的底層技術。<br>完整報導請見 The Verge。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini Spark 更新：macOS 推出、連結應用程式等更多功能</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</guid>
@@ -385,38 +303,6 @@ Anthropic：
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp" alt=""></p><p>最新的 Gemini Spark 更新將 Spark 帶到 macOS 應用程式，連結你最喜愛的應用程式，並即時追蹤主題。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 的 NotebookLM 可以用 TikTok 風格短片幫你整理研究內容</title>
-      <link>https://www.theverge.com/tech/959778/google-notebooklm-ai-clips</link>
-      <guid isPermaLink="false">https://www.theverge.com/tech/959778/google-notebooklm-ai-clips</guid>
-      <pubDate>Tue, 30 Jun 2026 19:24:51 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>Google 的 NotebookLM 正在加入一種新的方式，讓你快速掌握筆記內容：TikTok 風格的 AI 影片。這項新功能正逐步開放給 Google AI Ultra 和 Pro 訂閱用戶，讓 NotebookLM 能根據你上傳到應用程式中的資料來源，生成 60 秒的直式 AI 短片。
-Google 分享的範例詳細介紹了澳洲對鴯鶓戰爭的失敗，將紙雕風格的鴯鶓 AI 圖像與旁白搭配在一起。這也補充了 NotebookLM 讓你與研究內容互動的其他方式，包括生成 AI 播客、電影感影片和視覺解說。
-
-滑動停不下來，但要有教育意義 ðŸ¤
-介紹 Notebook… 中的 Short Video Overviews
-
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/png"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/notebooklm-shorts.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Google 的 NotebookLM 正在加入一種新的方式，讓你快速掌握筆記內容：TikTok 風格的 AI 影片。這項新功能正逐步開放給 Google AI Ultra 和 Pro 訂閱用戶，讓 NotebookLM 能根據你上傳到應用程式中的資料來源，生成 60 秒的直式 AI 短片。<br>Google 分享的範例詳細介紹了澳洲對鴯鶓戰爭的失敗，將紙雕風格的鴯鶓 AI 圖像與旁白搭配在一起。這也補充了 NotebookLM 讓你與研究內容互動的其他方式，包括生成 AI 播客、電影感影片和視覺解說。<br><br>滑動停不下來，但要有教育意義 ðŸ¤<br>介紹 Notebook… 中的 Short Video Overviews<br><br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Netflix 在其《Willy Wonka》實境秀中使用 AI 生成的 Gene Wilder 聲音</title>
-      <link>https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder</link>
-      <guid isPermaLink="false">https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder</guid>
-      <pubDate>Tue, 30 Jun 2026 17:19:15 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>新的預告片確認《Wonka's The Golden Ticket》將於 9 月 23 日在 Netflix 首播，接在其《魷魚遊戲》實境秀之後，延續以虛構酷刑情境為基礎打造真實競賽的潮流。雖然預告片中看到的場景是真實的，並不是什麼格拉斯哥風格的 AI 假畫面，但旁白是 AI 生成的。
-Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 ElevenLabs 合作；該公司先前也曾參與重現 Michael Caine 和 Stan Lee 聲音的製作。這也延續了 Netflix 於 2021 年與 Roald Dahl 公司建立的合作關係，並且與 Charlie vs. the Chocolat … 無關。
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/png"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>新的預告片確認《Wonka&#x27;s The Golden Ticket》將於 9 月 23 日在 Netflix 首播，接在其《魷魚遊戲》實境秀之後，延續以虛構酷刑情境為基礎打造真實競賽的潮流。雖然預告片中看到的場景是真實的，並不是什麼格拉斯哥風格的 AI 假畫面，但旁白是 AI 生成的。<br>Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 ElevenLabs 合作；該公司先前也曾參與重現 Michael Caine 和 Stan Lee 聲音的製作。這也延續了 Netflix 於 2021 年與 Roald Dahl 公司建立的合作關係，並且與 Charlie vs. the Chocolat … 無關。<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA BioNeMo Agent Toolkit 為 Claude Science 中的生命科學研究人員帶來加速 AI</title>
@@ -464,21 +350,6 @@ Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 Eleve
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.max-600x600.format-webp.webp" alt=""></p><p>使用 Nano Banana 2 Lite 擴展你的創意，這是我們速度最快、成本效益最高的 Gemini 圖像模型，以及 Gemini Omni Flash，可用於高品質影片生成和對話式…</p>]]></content:encoded>
     </item>
     <item>
-      <title>Libby 將過濾 AI 內容，有點像</title>
-      <link>https://www.theverge.com/column/959433/libby-ai-filter</link>
-      <guid isPermaLink="false">https://www.theverge.com/column/959433/libby-ai-filter</guid>
-      <pubDate>Tue, 30 Jun 2026 15:30:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>這是 Lowpass，由 Janko Roettgers 撰寫的電子報，聚焦科技與娛樂不斷演變的交界，每週獨家為 The Verge 訂戶同步刊登一次。
-「AI 是我們的新前沿，」OverDrive 新任執行長 Marc DeBevoise 上週表示。OverDrive 最為人熟知的是電子書借閱 app Libby，這個 app 可透過數以萬計的公共圖書館使用。和數位出版業的其他業者一樣，它也準備迎接大量 AI 生成書籍所帶來的巨大衝擊。
-為了因應 AI 來襲，Libby 現在正準備推出 AI 內容控制功能，讓讀者可以選擇在 t …
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24148705/PXL_20221028_153245856.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>這是 Lowpass，由 Janko Roettgers 撰寫的電子報，聚焦科技與娛樂不斷演變的交界，每週獨家為 The Verge 訂戶同步刊登一次。<br>「AI 是我們的新前沿，」OverDrive 新任執行長 Marc DeBevoise 上週表示。OverDrive 最為人熟知的是電子書借閱 app Libby，這個 app 可透過數以萬計的公共圖書館使用。和數位出版業的其他業者一樣，它也準備迎接大量 AI 生成書籍所帶來的巨大衝擊。<br>為了因應 AI 來襲，Libby 現在正準備推出 AI 內容控制功能，讓讀者可以選擇在 t …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>NVIDIA 的推論軟體堆疊如何實現最低的 token 成本</title>
       <link>https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</guid>
@@ -513,23 +384,6 @@ Deadline 報導，Netflix 在 Wilder 家屬同意下，與 AI 音訊公司 Eleve
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg" alt=""></p><p>編者註：這篇文章是 Into the Omniverse 系列的一部分，該系列聚焦開發者、3D 專業人士與企業如何運用 OpenUSD 與 NVIDIA Omniverse 的最新進展來改造他們的工作流程。Vision AI agents 正在成為一種實用方式，可自動將實體世界的影片資料轉化為工廠中的營運情報，[…]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>認識這位兩度擊敗 Elon Musk 的律師</title>
-      <link>https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter</link>
-      <guid isPermaLink="false">https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter</guid>
-      <pubDate>Tue, 30 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>「大學畢業後，我的計畫是去紐約拿到唱片合約。」｜Cath Virginia / The Verge，Getty Images
-
-看著 Elon Musk 在 Musk v. Altman 案中對 Bill Savitt 憤怒發作——這起案件裡，Musk 與其去看心理治療師面對自己在 AI 方面的挫敗，反而去起訴 Sam Altman 和 OpenAI——有點像看著一個幼兒園小朋友在幼兒園老師面前發脾氣。Musk 說，Savitt 的問題是「設計來騙我的」。他也曾在某個時候對 Savitt 說：「你大多都在問不公平的問題。」
-Savitt 的神情大致上像一隻英俊版的 Droopy Dog，他溫和地對 Musk 說：「我只是盡量把問題問得公平一點。我已經盡力了。」
-我看過不少交叉詰問的風格。Savitt 的風格溫和而輕聲細語；他的 q …
-在 The Verge 閱讀完整故事。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268607_An_interview_with_William_Savitt_Elon_Musks_courtroom_nemesis_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>「大學畢業後，我的計畫是去紐約拿到唱片合約。」｜Cath Virginia / The Verge，Getty Images<br><br>看著 Elon Musk 在 Musk v. Altman 案中對 Bill Savitt 憤怒發作——這起案件裡，Musk 與其去看心理治療師面對自己在 AI 方面的挫敗，反而去起訴 Sam Altman 和 OpenAI——有點像看著一個幼兒園小朋友在幼兒園老師面前發脾氣。Musk 說，Savitt 的問題是「設計來騙我的」。他也曾在某個時候對 Savitt 說：「你大多都在問不公平的問題。」<br>Savitt 的神情大致上像一隻英俊版的 Droopy Dog，他溫和地對 Musk 說：「我只是盡量把問題問得公平一點。我已經盡力了。」<br>我看過不少交叉詰問的風格。Savitt 的風格溫和而輕聲細語；他的 q …<br>在 The Verge 閱讀完整故事。</p>]]></content:encoded>
     </item>
     <item>
       <title>ChatGPT 的採用如何擴大</title>
@@ -578,20 +432,6 @@ Savitt 的神情大致上像一隻英俊版的 Droopy Dog，他溫和地對 Musk
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
-    </item>
-    <item>
-      <title>Tidal 不會為 AI 生成音樂支付版稅，但也不會完全禁止</title>
-      <link>https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label</link>
-      <guid isPermaLink="false">https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label</guid>
-      <pubDate>Mon, 29 Jun 2026 19:47:35 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>Tidal 今天分享了其關於 AI 生成音樂的新政策，以及平台打算如何「保護藝術家」和「告知聽眾」。平台並沒有直接禁止，而是從 7 月 15 日起，Tidal 會替它辨識為 100% 由 AI 生成的曲目加上圖示標記。不過從今天起，這些曲目將不再能獲利。該公司公告寫道：「Tidal 的優先事項是確保版稅直接流向由人創作、寫作並演出的原創作品。因此，我們不會明知地將版稅歸屬給我們辨識為完全由 AI 生成的音樂。」
-該平台沒有具體說明它用來辨識的工具……
-完整報導請見 The Verge。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Tidal 今天分享了其關於 AI 生成音樂的新政策，以及平台打算如何「保護藝術家」和「告知聽眾」。平台並沒有直接禁止，而是從 7 月 15 日起，Tidal 會替它辨識為 100% 由 AI 生成的曲目加上圖示標記。不過從今天起，這些曲目將不再能獲利。該公司公告寫道：「Tidal 的優先事項是確保版稅直接流向由人創作、寫作並演出的原創作品。因此，我們不會明知地將版稅歸屬給我們辨識為完全由 AI 生成的音樂。」<br>該平台沒有具體說明它用來辨識的工具……<br>完整報導請見 The Verge。</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini 應用程式正將個人化圖片建立功能帶給更多使用者。</title>
