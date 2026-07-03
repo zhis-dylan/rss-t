@@ -5,7 +5,24 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 03 Jul 2026 11:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 12:03:45 GMT</lastBuildDate>
+    <item>
+      <title>Midjourney 醫療掃描器幕後花絮揭露，仍留下許多未解之謎</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</guid>
+      <pubDate>Fri, 03 Jul 2026 11:49:10 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>一張影像幻影體的掃描圖，經分割處理，用來驗證在受控條件下各結構分離得有多乾淨。｜圖片：Midjourney Medical
+
+Midjourney 展示了更多這台未來感十足的醫療掃描器，但仍沒有拿出太多證明它真的能運作的證據。
+這家以生成圖片聞名的 AI 新創公司，釋出了一支這台浴缸式超音波掃描器的幕後影片；該公司計畫把它部署到水療中心，並希望藉由便宜、細緻、無輻射的影像技術，徹底改變醫療。這段將近 20 分鐘的導覽來自科技 YouTuber Marcin Plaza，他同時也是該公司的工程師。
+Plaza 直言，這台掃描器就像是把數十個超音波探頭「拆開硬改，然後裝在一個帶電梯的誇張按摩浴缸上」，再連接市售電腦和 Raspberry …
+完整故事請見 The Verge。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/png"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/ultrasound_phantom_segmentation-b254a71d083eb5c9.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>一張影像幻影體的掃描圖，經分割處理，用來驗證在受控條件下各結構分離得有多乾淨。｜圖片：Midjourney Medical<br><br>Midjourney 展示了更多這台未來感十足的醫療掃描器，但仍沒有拿出太多證明它真的能運作的證據。<br>這家以生成圖片聞名的 AI 新創公司，釋出了一支這台浴缸式超音波掃描器的幕後影片；該公司計畫把它部署到水療中心，並希望藉由便宜、細緻、無輻射的影像技術，徹底改變醫療。這段將近 20 分鐘的導覽來自科技 YouTuber Marcin Plaza，他同時也是該公司的工程師。<br>Plaza 直言，這台掃描器就像是把數十個超音波探頭「拆開硬改，然後裝在一個帶電梯的誇張按摩浴缸上」，再連接市售電腦和 Raspberry …<br>完整故事請見 The Verge。</p>]]></content:encoded>
+    </item>
     <item>
       <title>調查間諜軟體濫用的政治人物手機遭 Pegasus 間諜軟體入侵</title>
       <link>https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/</link>
@@ -601,20 +618,6 @@ OpenAI 展示的裝置輪廓看起來有點像 Work …
       <media:content url="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在為 WhatsApp 推出使用者名稱，這樣你就可以在不提供電話號碼的情況下與他人聯繫。<br>這篇〈現在是預留你的 WhatsApp 使用者名稱的時候了〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>立法者想禁止 AI 公司出售你的健康資料</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon</guid>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>一項新提案將禁止將美國人的健康與位置資訊出售給資料經紀商——包括人們在 AI 聊天機器人如 ChatGPT 或 Claude 裡透露的資訊。
-在未來幾週，參議員伊麗莎白・華倫（Elizabeth Warren，民主黨—麻州）和眾議員瑪麗・蓋・斯坎倫（Mary Gay Scanlon，民主黨—賓州）計劃推出《健康與位置資料保護法》的新版，更符合 AI 時代。這項法案的前一版最早於 2022 年 6 月提出，禁止資料經紀商蒐集並出售健康與位置資料。四年後，法案擴大到禁止其他公司將這類資料出售給經紀商，並且特別涵蓋……
-完整報導請見 The Verge。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299197/STK442_Password_Manager_A_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>一項新提案將禁止將美國人的健康與位置資訊出售給資料經紀商——包括人們在 AI 聊天機器人如 ChatGPT 或 Claude 裡透露的資訊。<br>在未來幾週，參議員伊麗莎白・華倫（Elizabeth Warren，民主黨—麻州）和眾議員瑪麗・蓋・斯坎倫（Mary Gay Scanlon，民主黨—賓州）計劃推出《健康與位置資料保護法》的新版，更符合 AI 時代。這項法案的前一版最早於 2022 年 6 月提出，禁止資料經紀商蒐集並出售健康與位置資料。四年後，法案擴大到禁止其他公司將這類資料出售給經紀商，並且特別涵蓋……<br>完整報導請見 The Verge。</p>]]></content:encoded>
     </item>
     <item>
       <title>問 AI 專家：究竟什麼是全堆疊？</title>
