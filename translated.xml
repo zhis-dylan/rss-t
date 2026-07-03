@@ -5,7 +5,21 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 03 Jul 2026 13:49:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 14:04:37 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 想要開發自己的藥物</title>
+      <link>https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development</link>
+      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development</guid>
+      <pubDate>Fri, 03 Jul 2026 13:56:52 GMT</pubDate>
+      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
+      <dc:creator>The Verge</dc:creator>
+      <description>在本週稍早的「The Briefing: AI for Science」活動上，Anthropic 宣布推出 Claude Science，一個新的「供科學家使用的 AI 工作台」，可將分散的工具與資料集整合到單一環境中，並生成圖表與視覺化內容。Anthropic 目前已憑藉其廣受歡迎的程式設計工具與強大的 AI 模型主導這個產業，這次發表會則圍繞著其所稱 AI 的潛力：可「大幅加速科學發現與醫療介入的開發速度」，並大力宣傳一長串已在使用 Claude 的生技與製藥客戶。
+Anthropic 也更進一步表示，將開發自己的藥物……
+在 The Verge 閱讀完整報導。</description>
+      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
+      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>在本週稍早的「The Briefing: AI for Science」活動上，Anthropic 宣布推出 Claude Science，一個新的「供科學家使用的 AI 工作台」，可將分散的工具與資料集整合到單一環境中，並生成圖表與視覺化內容。Anthropic 目前已憑藉其廣受歡迎的程式設計工具與強大的 AI 模型主導這個產業，這次發表會則圍繞著其所稱 AI 的潛力：可「大幅加速科學發現與醫療介入的開發速度」，並大力宣傳一長串已在使用 Claude 的生技與製藥客戶。<br>Anthropic 也更進一步表示，將開發自己的藥物……<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Midjourney 醫療掃描器幕後花絮揭露，仍留下許多未解之謎</title>
       <link>https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video</link>
@@ -566,21 +580,6 @@ Savitt 的神情大致上像一隻英俊版的 Droopy Dog，他溫和地對 Musk
       <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
       <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25319678/STK301_Tidal_01.jpg?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>Tidal 今天分享了其關於 AI 生成音樂的新政策，以及平台打算如何「保護藝術家」和「告知聽眾」。平台並沒有直接禁止，而是從 7 月 15 日起，Tidal 會替它辨識為 100% 由 AI 生成的曲目加上圖示標記。不過從今天起，這些曲目將不再能獲利。該公司公告寫道：「Tidal 的優先事項是確保版稅直接流向由人創作、寫作並演出的原創作品。因此，我們不會明知地將版稅歸屬給我們辨識為完全由 AI 生成的音樂。」<br>該平台沒有具體說明它用來辨識的工具……<br>完整報導請見 The Verge。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 正在預告新硬體……給 Codex 用</title>
-      <link>https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder</link>
-      <guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder</guid>
-      <pubDate>Mon, 29 Jun 2026 18:52:03 GMT</pubDate>
-      <source url="https://www.theverge.com/rss/ai-artificial-intelligence/index.xml">The Verge</source>
-      <dc:creator>The Verge</dc:creator>
-      <description>OpenAI 將在 7 月 15 日推出某種與其 AI 驅動的程式碼工具 Codex 相關的裝置。在週一發佈到 X 的影片中，OpenAI 展示了一款方形裝置，配有幾個按鈕，旁邊的標語寫著：「你最喜歡的 Codex 快捷鍵要升級了。」
-不過，這並不是 OpenAI 正與前 Apple 設計師 Jony Ive 合作開發的那款神祕 AI 驅動裝置。如預告所示，OpenAI 是與 Work Louder 合作推出這款裝置；Work Louder 是一家販售各式機械鍵盤與巨集鍵盤的公司，產品具備可自訂按鍵、轉盤與開關。
-OpenAI 展示的裝置輪廓看起來有點像 Work …
-在 The Verge 閱讀完整報導。</description>
-      <media:content url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" medium="image" type="image/png"/>
-      <media:thumbnail url="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&amp;strip=all&amp;crop=0,0,100,100"/>
-      <content:encoded><![CDATA[<p><img src="https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/openai-codex-hardware.png?quality=90&amp;strip=all&amp;crop=0,0,100,100" alt=""></p><p>OpenAI 將在 7 月 15 日推出某種與其 AI 驅動的程式碼工具 Codex 相關的裝置。在週一發佈到 X 的影片中，OpenAI 展示了一款方形裝置，配有幾個按鈕，旁邊的標語寫著：「你最喜歡的 Codex 快捷鍵要升級了。」<br>不過，這並不是 OpenAI 正與前 Apple 設計師 Jony Ive 合作開發的那款神祕 AI 驅動裝置。如預告所示，OpenAI 是與 Work Louder 合作推出這款裝置；Work Louder 是一家販售各式機械鍵盤與巨集鍵盤的公司，產品具備可自訂按鍵、轉盤與開關。<br>OpenAI 展示的裝置輪廓看起來有點像 Work …<br>在 The Verge 閱讀完整報導。</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini 應用程式正將個人化圖片建立功能帶給更多使用者。</title>
