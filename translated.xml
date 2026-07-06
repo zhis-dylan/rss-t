@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 06 Jul 2026 15:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 15:18:20 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 裁撤近 5,000 名員工，涵蓋 Xbox 與商務銷售部門</title>
+      <link>https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139164</guid>
+      <pubDate>Mon, 06 Jul 2026 15:08:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 週一裁減了約 4,800 個職位，約占其全球員工的 2.1%——這是近期一連串裁員中的最新一波，也加劇了外界對 AI 取代工作的擔憂。這波裁員對 Xbox 與商務銷售部門的衝擊最大。</description>
+    </item>
+    <item>
+      <title>各國如何運用 AI 推動戰略優先事項</title>
+      <link>https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/</guid>
+      <pubDate>Mon, 06 Jul 2026 15:00:25 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>各國長期以來一直投資國內基礎設施，以促進經濟發展、保護並運用其資料，並把握運輸、通訊、商務、娛樂和醫療保健等領域的科技機會。AI，這個我們這個時代最重要的科技，正在為社會的每個層面加速創新。各國正投資 AI 能力，以便 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202506/6849556d3d6332a11bf78634_llm-blog-gtc-25-paris-3945665-1280x680-1-842x450/llm-blog-gtc-25-paris-3945665-1280x680-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202506/6849556d3d6332a11bf78634_llm-blog-gtc-25-paris-3945665-1280x680-1-842x450/llm-blog-gtc-25-paris-3945665-1280x680-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202506/6849556d3d6332a11bf78634_llm-blog-gtc-25-paris-3945665-1280x680-1-842x450/llm-blog-gtc-25-paris-3945665-1280x680-1-842x450_thmb.jpg" alt=""></p><p>各國長期以來一直投資國內基礎設施，以促進經濟發展、保護並運用其資料，並把握運輸、通訊、商務、娛樂和醫療保健等領域的科技機會。AI，這個我們這個時代最重要的科技，正在為社會的每個層面加速創新。各國正投資 AI 能力，以便 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>加拿大情報機關表示去年駭入毒品走私者、極端主義者和一個勒索軟體集團</title>
       <link>https://techcrunch.com/2026/07/06/canadian-spy-agency-says-it-hacked-drug-traffickers-extremists-and-a-ransomware-gang-last-year/</link>
@@ -198,15 +219,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/indiegamesfund_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/indiegamesfund_socialshare.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/indiegamesfund_socialshare.max-600x600.format-webp.webp" alt=""></p><p>撒哈拉以南非洲擁有令人驚豔的說故事能力，這也為遊戲開發圈帶來動能，推動這個全球成長最快的遊戲市場之一。不過，當……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>調查間諜軟體濫用的政治人物手機遭 Pegasus 間諜軟體入侵</title>
-      <link>https://techcrunch.com/2026/07/02/politician-who-investigated-spyware-abuses-had-his-phone-hacked-with-pegasus-spyware/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138739</guid>
-      <pubDate>Fri, 03 Jul 2026 05:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>NSO Group 的一名政府客戶使用該公司的 Pegasus 間諜軟體入侵一名歐洲政治人物的手機；這名政治人物當時正擔任歐盟一個負責調查間諜軟體產業的委員會成員。</description>
     </item>
     <item>
       <title>7 月歡樂上路，GeForce NOW 迎來 12 款新遊戲</title>
@@ -891,18 +903,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>Mission、Vision 和 Veritas——由 HPE 與 NVIDIA 打造的洛斯阿拉莫斯國家實驗室（LANL）新超級電腦——正採用 NVIDIA Vera CPU 來加速科學發現，解鎖用於科學的代理式 AI。這些超級電腦將使用搭載 NVIDIA Vera Rubin 平台的 HPE Cray Supercomputing GX5000 架構，結合 NVIDIA Vera CPU、NVIDIA […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Eco Wave Power 運用 NVIDIA AI 基礎架構與數位孿生把海浪變成瓦特</title>
-      <link>https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/eco-wave-power-ai-digital-twins/</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:13 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI 的下一個時代不會只由運算定義，其成長將由能源決定。隨著加速運算在 AI 工廠、代理式 AI、工業 AI、邊緣運算與實體 AI——包括機器人與自主系統——中擴展，全球電力需求正以前所未有的速度上升。在許多地區，擴充電網 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/f4746e1214abe9f6d1a1a58d38317113/6a39323a3d6332b76c54d045_eco-wave-1920x1080-1-842x450/eco-wave-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>AI 的下一個時代不會只由運算定義，其成長將由能源決定。隨著加速運算在 AI 工廠、代理式 AI、工業 AI、邊緣運算與實體 AI——包括機器人與自主系統——中擴展，全球電力需求正以前所未有的速度上升。在許多地區，擴充電網 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
