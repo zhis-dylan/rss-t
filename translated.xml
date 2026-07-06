@@ -5,7 +5,17 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 06 Jul 2026 13:17:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 13:32:24 GMT</lastBuildDate>
+    <item>
+      <title>我們公司轉型的最新進展</title>
+      <link>https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563068</guid>
+      <pubDate>Mon, 06 Jul 2026 13:30:28 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>Amy Coleman，執行副總裁暨人力長，今天向員工分享了以下訊息。當我接下這個職位時，我承諾會更坦誠地與大家溝通，並分享我們決策背後的「為什麼」。今天，我們將裁撤約 4,800 個職位，約占全球員工數的 2.1%，因為我們正將我們的人力、投資與...
+〈我們公司轉型的最新進展〉最初發表於 The Official Microsoft Blog。</description>
+    </item>
     <item>
       <title>Station F 加速成為歐洲最火熱 AI 新創的起跳板</title>
       <link>https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/</link>
@@ -1973,17 +1983,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>更新於 2026 年 5 月 11 日：這篇文章已更新，以反映第三方外掛程式將自 2026 年 5 月 12 日起提供。現在花點時間和任何軟體工程團隊待在一起，你就會看到一些值得注意的事情。過去幾年，軟體的建構方式已經經歷了四種不同的人機... 這篇〈How Frontier Firms are rebuilding the operating model for the age of AI〉最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>運用 AI 釋放人類雄心，推動業務成長</title>
-      <link>https://blogs.microsoft.com/blog/2026/04/28/unlocking-human-ambition-to-drive-business-growth-with-ai/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562885</guid>
-      <pubDate>Tue, 28 Apr 2026 17:34:47 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>隨著我們的客戶朝向成為 Frontier Firms 邁進，他們不僅運用 AI 來優化工作完成方式，也在成長的承諾下重塑自己的業務。組織現在可以透過將 Copilot 和代理程式直接帶入人們喜愛且每天使用的工具中，釋放創造力、加速創新並普及智慧....
-
-這篇〈運用 AI 釋放人類雄心，推動業務成長〉最早刊登於 The Official Microsoft Blog。</description>
     </item>
   </channel>
 </rss>
