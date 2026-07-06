@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 06 Jul 2026 15:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 16:03:48 GMT</lastBuildDate>
+    <item>
+      <title>開放模型如何推動 AI 研究</title>
+      <link>https://blogs.nvidia.com/blog/open-models-icml-2026/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-models-icml-2026/</guid>
+      <pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>每年，國際機器學習大會（ICML）都會揭示數以千計的 AI 研究人員決定把心力投入在哪裡。 今年獲接受的論文顯示出一個明確方向：開放的前沿模型與開放的 AI 基礎設施，已成為現代 AI 科學研究的基礎。NVIDIA 在 ICML 2026 有 74 篇論文獲接受。約莫 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg" alt=""></p><p>每年，國際機器學習大會（ICML）都會揭示數以千計的 AI 研究人員決定把心力投入在哪裡。 今年獲接受的論文顯示出一個明確方向：開放的前沿模型與開放的 AI 基礎設施，已成為現代 AI 科學研究的基礎。NVIDIA 在 ICML 2026 有 74 篇論文獲接受。約莫 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Reddit 正在使用 LLM 來解決一個很大程度上由 LLM 造成的問題</title>
       <link>https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/</link>
@@ -891,18 +903,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>本週在漢堡舉行的 ISC 會議上，NVIDIA 正推出可加速科學 AI 的新軟體，涵蓋從化學與材料發現到暗物質搜尋。NVIDIA DAQIRI 函式庫與全新的 NVIDIA ALCHEMI NIM 微服務，以及即將推出的 NVIDIA cuPhoton 參考程式碼，將把原本需要大量工作的任務轉化為 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA Vera CPU 為洛斯阿拉莫斯國家實驗室的代理式科學 AI 開啟新道路</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-vera-cpu-los-alamos-national-laboratory/</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Mission、Vision 和 Veritas——由 HPE 與 NVIDIA 打造的洛斯阿拉莫斯國家實驗室（LANL）新超級電腦——正採用 NVIDIA Vera CPU 來加速科學發現，解鎖用於科學的代理式 AI。這些超級電腦將使用搭載 NVIDIA Vera Rubin 平台的 HPE Cray Supercomputing GX5000 架構，結合 NVIDIA Vera CPU、NVIDIA […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/d4197186a851d94452660470237bd74a/6a3932333d6332b76c54d03e_vera-cpu-lanl-1920x1080-1-842x450/vera-cpu-lanl-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>Mission、Vision 和 Veritas——由 HPE 與 NVIDIA 打造的洛斯阿拉莫斯國家實驗室（LANL）新超級電腦——正採用 NVIDIA Vera CPU 來加速科學發現，解鎖用於科學的代理式 AI。這些超級電腦將使用搭載 NVIDIA Vera Rubin 平台的 HPE Cray Supercomputing GX5000 架構，結合 NVIDIA Vera CPU、NVIDIA […]</p>]]></content:encoded>
     </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
