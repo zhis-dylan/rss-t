@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 06 Jul 2026 15:18:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 15:33:29 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 正在使用 LLM 來解決一個很大程度上由 LLM 造成的問題</title>
+      <link>https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139160</guid>
+      <pubDate>Mon, 06 Jul 2026 15:22:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 AI 時代，平台別無選擇，只能以火制火來剔除垃圾內容。</description>
+    </item>
     <item>
       <title>Microsoft 裁撤近 5,000 名員工，涵蓋 Xbox 與商務銷售部門</title>
       <link>https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/</link>
@@ -198,15 +207,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>149 美元的 Dune 鍵盤，至少可以當會議控制器，最好時則可作為執行腳本的數字鍵盤。</description>
-    </item>
-    <item>
-      <title>Chevy 打造了一款美國製造的 EV 卡車。為什麼沒人買？</title>
-      <link>https://techcrunch.com/2026/07/03/chevy-built-an-all-american-ev-truck-why-is-nobody-buying-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3138306</guid>
-      <pubDate>Fri, 03 Jul 2026 16:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Chevy Silverado EV 是一款不錯的 EV 皮卡初稿。以下是能讓它更好的幾個因素。</description>
     </item>
     <item>
       <title>我們將投資 100 萬美元於非洲的獨立遊戲開發者。</title>
