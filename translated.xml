@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 07 Jul 2026 05:54:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 06:10:01 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與 Hugging Face 為開放式機器人社群將新模型與框架帶入 LeRobot</title>
+      <link>https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/</guid>
+      <pubDate>Tue, 07 Jul 2026 06:00:26 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>開源 AI 已經顯示，當模型、資料和工具被共享時，開發者能以多快的速度創新。機器人技術也有同樣的機會，但實體 AI 開發的進展，仍可能受到昂貴且碎片化資源的限制，從大型資料集和機器人基礎模型，到模擬、運算與驗證工具都是如此。NVIDIA 與 Hugging Face 正在……</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/98920b727045b5c12b56c2d117e9a63f/6a4c96153d63325b54c655da_nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/98920b727045b5c12b56c2d117e9a63f/6a4c96153d63325b54c655da_nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/98920b727045b5c12b56c2d117e9a63f/6a4c96153d63325b54c655da_nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450_thmb.jpg" alt=""></p><p>開源 AI 已經顯示，當模型、資料和工具被共享時，開發者能以多快的速度創新。機器人技術也有同樣的機會，但實體 AI 開發的進展，仍可能受到昂貴且碎片化資源的限制，從大型資料集和機器人基礎模型，到模擬、運算與驗證工具都是如此。NVIDIA 與 Hugging Face 正在……</p>]]></content:encoded>
+    </item>
     <item>
       <title>Netflix 發明了追劇。現在它可能已經超越了它。</title>
       <link>https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/</link>
@@ -891,18 +903,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/abe517b68cc6efdc17d4a2f48c42b692/6a39321d3d6332b76c54d030_nairr-842x450/nairr-842x450_thmb.jpg" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/abe517b68cc6efdc17d4a2f48c42b692/6a39321d3d6332b76c54d030_nairr-842x450/nairr-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/abe517b68cc6efdc17d4a2f48c42b692/6a39321d3d6332b76c54d030_nairr-842x450/nairr-842x450_thmb.jpg" alt=""></p><p>在過去兩年中，美國國家科學基金會的國家人工智慧研究資源（NAIRR）試點計畫，已推動全美超過 700 個專案的創新研究——涵蓋蛋白質預測與傳染病爆發管理。NVIDIA 透過一項雲端資源參與 NAIRR 試點，讓研究人員能專屬使用一個 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>從材料模擬到實驗天文學，全新 NVIDIA AI 軟體解鎖科學發現</title>
-      <link>https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-for-science-software-cuda/</guid>
-      <pubDate>Mon, 22 Jun 2026 13:00:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>本週在漢堡舉行的 ISC 會議上，NVIDIA 正推出可加速科學 AI 的新軟體，涵蓋從化學與材料發現到暗物質搜尋。NVIDIA DAQIRI 函式庫與全新的 NVIDIA ALCHEMI NIM 微服務，以及即將推出的 NVIDIA cuPhoton 參考程式碼，將把原本需要大量工作的任務轉化為 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/2deaf1942b221c74187fe6b98764e528/6a3932293d6332b76c54d037_cuda-press-corp-blog-isc26-1920x1080-1-842x450/cuda-press-corp-blog-isc26-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>本週在漢堡舉行的 ISC 會議上，NVIDIA 正推出可加速科學 AI 的新軟體，涵蓋從化學與材料發現到暗物質搜尋。NVIDIA DAQIRI 函式庫與全新的 NVIDIA ALCHEMI NIM 微服務，以及即將推出的 NVIDIA cuPhoton 參考程式碼，將把原本需要大量工作的任務轉化為 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
