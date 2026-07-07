@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 07 Jul 2026 20:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:17:34 GMT</lastBuildDate>
+    <item>
+      <title>為什麼開源 AI 的崛起還沒傷到 Anthropic……至少現在還沒有</title>
+      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139798</guid>
+      <pubDate>Tue, 07 Jul 2026 20:04:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>開源模型的成功並不是以犧牲前沿實驗室為代價。相反，它們似乎各自捕捉到了同一個生命週期的兩個階段。</description>
+    </item>
     <item>
       <title>Microsoft 透過更依賴自家模型加入 AI 降成本趨勢</title>
       <link>https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/</link>
@@ -288,15 +297,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>新的控制項讓你可以調整 Siri 說話的速度，以及它聲音的表達方式。</description>
-    </item>
-    <item>
-      <title>持續更新清單：2026 年主要科技裁員事件，其中雇主將 AI 列為原因</title>
-      <link>https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132769</guid>
-      <pubDate>Mon, 06 Jul 2026 18:35:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>持續追蹤——依時間倒序排列——今年宣布大規模裁員、且公司明確指出 AI 為因素的較大型科技公司。</description>
     </item>
     <item>
       <title>開放模型如何推動 AI 研究</title>
