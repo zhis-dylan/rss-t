@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 06 Jul 2026 23:52:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:07:40 GMT</lastBuildDate>
+    <item>
+      <title>史上「首次」由 AI 執行的勒索軟體攻擊，仍然需要人類介入</title>
+      <link>https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139436</guid>
+      <pubDate>Mon, 06 Jul 2026 23:56:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一個 AI agent 首次在真實世界中完成了一起勒索軟體攻擊的技術執行，但新的細節顯示，仍是由人類挑選受害者、架設基礎設施，並提供遭竊的憑證——這表示它並沒有如上週標題所暗示的那樣，成為完全自主的網路犯罪首秀。</description>
+    </item>
     <item>
       <title>美國投資人很快就能投資 SK 海力士，這家另一家搭上 AI 熱潮的記憶體製造商</title>
       <link>https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/</link>
@@ -210,15 +219,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>儘管旗下產品已服務超過十億人，Bending Spoons 仍然相當不為人知。</description>
-    </item>
-    <item>
-      <title>今年至今已新誕生近 90 家獨角獸公司——名單如下</title>
-      <link>https://techcrunch.com/2026/07/05/almost-40-new-unicorns-have-been-minted-so-far-this-year-here-they-are/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3101494</guid>
-      <pubDate>Sun, 05 Jul 2026 12:47:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著 AI 點燃投資人狂熱，每個月都有更多新創公司達到獨角獸地位。</description>
     </item>
     <item>
       <title>我們將投資 100 萬美元於非洲的獨立遊戲開發者。</title>
