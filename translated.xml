@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 07 Jul 2026 22:03:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 22:18:38 GMT</lastBuildDate>
+    <item>
+      <title>Meta 推出 Muse，一款新的 AI 圖像生成器</title>
+      <link>https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139892</guid>
+      <pubDate>Tue, 07 Jul 2026 22:18:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個新的圖像生成模型有許多用途，包括廣告、裝飾以及創作者相關機會。</description>
+    </item>
     <item>
       <title>為什麼開源 AI 的崛起還沒傷到 Anthropic……至少現在還沒有</title>
       <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
@@ -288,15 +297,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>「現實是，當你在追求生產環境最佳化時，你就會開始看重價格／效能，」Guillermo Rauch 告訴 TechCrunch。</description>
-    </item>
-    <item>
-      <title>你現在可以在最新的 iOS 27 beta 中自訂 Siri 的語速和表達方式</title>
-      <link>https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139329</guid>
-      <pubDate>Mon, 06 Jul 2026 19:01:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新的控制項讓你可以調整 Siri 說話的速度，以及它聲音的表達方式。</description>
     </item>
     <item>
       <title>開放模型如何推動 AI 研究</title>
