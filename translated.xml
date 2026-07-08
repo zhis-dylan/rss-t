@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 16:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 16:27:51 GMT</lastBuildDate>
+    <item>
+      <title>Prime Intellect 募得 1.3 億美元 A 輪融資，協助企業打造自己的 AI 智能代理</title>
+      <link>https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140126</guid>
+      <pubDate>Wed, 08 Jul 2026 16:22:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這輪融資由 Radical Ventures 領投，讓這家成立兩年的新創公司估值達到 10 億美元。</description>
+    </item>
+    <item>
+      <title>又一起大規模資料外洩事件，數百萬筆駕照號碼遭曝光</title>
+      <link>https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140082</guid>
+      <pubDate>Wed, 08 Jul 2026 16:14:49 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這起針對美國某大型保險公司的網路攻擊，是目前已知 2026 年規模最大的駕照號碼外洩事件。</description>
+    </item>
     <item>
       <title>這些 AI 新創的營收成長速度越來越快</title>
       <link>https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</link>
@@ -252,15 +270,6 @@
       <description>從 DOGE 的大規模資料外洩、關鍵能源與供水系統遭駭，到 FBI 監控系統被入侵，以下是 2026 年最具破壞性的資安事件與資料外洩。</description>
     </item>
     <item>
-      <title>Claude Cowork 擴展到行動版和網頁版</title>
-      <link>https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139729</guid>
-      <pubDate>Tue, 07 Jul 2026 16:27:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 的 Claude Cowork 現已向 Max 訂閱用戶提供網頁版和行動版。直到現在，Cowork 大多還只存在於使用者的筆電上。透過這次更新，使用者可以先在辦公桌前開始一項工作，在手機上接收狀態更新，之後再取回完成的輸出內容——即使筆電已經關上也沒問題。</description>
-    </item>
-    <item>
       <title>三顆新衛星加入對抗野火的行列。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/</guid>
@@ -271,15 +280,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FireSat_satellites.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FireSat_satellites.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FireSat_satellites.max-600x600.format-webp.webp" alt=""></p><p>三顆新的 FireSat 衛星已發射升空，擴展一個運用 Google AI 協助消防單位偵測早期野火的網路。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>X 新增影片編輯器，鼓勵創作者發布原創內容，而不是偷來的轉貼</title>
-      <link>https://techcrunch.com/2026/07/07/x-adds-a-video-editor-to-encourage-creators-to-post-original-content-not-stolen-reposts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139586</guid>
-      <pubDate>Tue, 07 Jul 2026 15:19:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>X 正在為 iOS 推出新的影片編輯器與錄製器，具備多語言字幕、綠幕效果，以及其他編輯工具。</description>
     </item>
     <item>
       <title>AI 創新者採用 NVIDIA Vera —— 為什麼大規模最高單執行緒 CPU 這麼重要</title>
