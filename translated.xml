@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 01:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 01:35:17 GMT</lastBuildDate>
     <item>
       <title>Meta 的 AI 眼鏡：你的問題，我們來解答</title>
       <link>https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/</link>
@@ -800,15 +800,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Metas-Digital-Dialogue-Event-in-Singapore.jpg?fit=3277%2C2186" alt=""></p><p>我們在新加坡推出一項互動體驗，為青少年、家長和教育工作者提供實用工具，幫助他們就網路安全與數位福祉展開開放對話。<br>〈青少年、家長和教育工作者透過真實對話在新加坡掌握網路安全〉一文最初刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>設計能跟上 AI 的組織</title>
-      <link>https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai</link>
-      <guid isPermaLink="false">https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai</guid>
-      <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>為什麼組織延遲正成為全面實現 AI 效益的最大障礙</description>
-    </item>
-    <item>
       <title>代理人如何改變工作</title>
       <link>https://openai.com/index/how-agents-are-transforming-work</link>
       <guid isPermaLink="false">https://openai.com/index/how-agents-are-transforming-work</guid>
@@ -931,15 +922,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/126321c83c648dda781aae73ed1a512a/6a39d0553d6332bebe9782ec_nvidia-bionemo-agent-toolkit/nvidia-bionemo-agent-toolkit_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/126321c83c648dda781aae73ed1a512a/6a39d0553d6332bebe9782ec_nvidia-bionemo-agent-toolkit/nvidia-bionemo-agent-toolkit_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/126321c83c648dda781aae73ed1a512a/6a39d0553d6332bebe9782ec_nvidia-bionemo-agent-toolkit/nvidia-bionemo-agent-toolkit_thmb.jpg" alt=""></p><p>BIO -- NVIDIA 今日宣布 NVIDIA BioNeMo Agent Toolkit，為代理式生命科學時代提供領域專用工具與技能...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta-Harness R&amp;D：適用企業的長期 AI 工作流程自我改進</title>
-      <link>https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows</link>
-      <guid isPermaLink="false">https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows</guid>
-      <pubDate>Tue, 23 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>如何讓自主程式碼改進變得足夠有紀律，以供企業使用</description>
     </item>
     <item>
       <title>NVIDIA 驅動全球 500 台最快超級電腦中的 400 多台</title>
@@ -1579,15 +1561,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>透過其 Community Education Initiative，Apple 一直與 OCU 和切羅基民族合作，為年輕學習者配備 iPad 和 Mac。</description>
     </item>
     <item>
-      <title>回應只是簡單的部分：我們在大規模打造即時語音體驗時學到的事</title>
-      <link>https://openai.com/deployco/news/building-realtime-voice-experiences-at-scale</link>
-      <guid isPermaLink="false">https://openai.com/deployco/news/building-realtime-voice-experiences-at-scale</guid>
-      <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>時機、打斷、沉默與恢復，和文字一樣共同塑造體驗</description>
-    </item>
-    <item>
       <title>Endava 如何透過 Codex 建立代理型組織</title>
       <link>https://openai.com/index/endava</link>
       <guid isPermaLink="false">https://openai.com/index/endava</guid>
@@ -1766,15 +1739,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple Sports 現已在超過 170 個國家與地區提供服務，包括超過 90 個新市場。</description>
-    </item>
-    <item>
-      <title>對話設計：塑造面向客戶的 AI 體驗的五種模式</title>
-      <link>https://openai.com/deployco/news/conversational-design-five-patterns-to-shape-customer-facing-ai-experiences</link>
-      <guid isPermaLink="false">https://openai.com/deployco/news/conversational-design-five-patterns-to-shape-customer-facing-ai-experiences</guid>
-      <pubDate>Tue, 19 May 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>當目標不只是功能正確性，而是更好的對話時，哪些做法在正式環境中站得住腳</description>
     </item>
     <item>
       <title>推進內容來源驗證，打造更安全、透明的 AI 生態系</title>
@@ -1991,6 +1955,42 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Parloa 運用 OpenAI 模型為可擴展、以語音驅動的 AI 客戶服務代理提供動力，讓企業能夠設計、模擬並部署可靠的即時互動。</description>
+    </item>
+    <item>
+      <title>在 API 中以新模型提升語音智慧</title>
+      <link>https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</link>
+      <guid isPermaLink="false">https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api</guid>
+      <pubDate>Thu, 07 May 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 OpenAI API 中全新的即時語音模型，這些模型可以推理、翻譯和轉錄語音，帶來更自然、更智慧的語音體驗。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支援免費使用，並提供清楚標示、答案獨立性、強大的隱私保護和使用者控制。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中推出 Trusted Contact</title>
+      <link>https://openai.com/index/introducing-trusted-contact-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-trusted-contact-in-chatgpt</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>在 ChatGPT 中推出 Trusted Contact，這是一項可選的安全功能，當偵測到嚴重自我傷害疑慮時，會通知你信任的人。</description>
+    </item>
+    <item>
+      <title>Simplex 以 Codex 重新思考軟體開發</title>
+      <link>https://openai.com/index/simplex</link>
+      <guid isPermaLink="false">https://openai.com/index/simplex</guid>
+      <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Simplex 結合 ChatGPT Enterprise 和 Codex 提升軟體開發效率，縮短設計、建置和測試時間，同時擴展 AI 驅動的工作流程。</description>
     </item>
     <item>
       <title>前沿企業如何為 AI 時代重建營運模式</title>
