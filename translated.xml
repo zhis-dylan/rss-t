@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 15:27:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 15:42:26 GMT</lastBuildDate>
+    <item>
+      <title>這些 AI 新創的營收成長速度越來越快</title>
+      <link>https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139890</guid>
+      <pubDate>Wed, 08 Jul 2026 15:41:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>有很多成長快速的 AI 新創，但他們說，有些成長得更快。</description>
+    </item>
     <item>
       <title>NVIDIA Nemotron 透過 LangChain Deep Agents Harness 達成基準領先的效能</title>
       <link>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</link>
@@ -271,15 +280,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>X 正在為 iOS 推出新的影片編輯器與錄製器，具備多語言字幕、綠幕效果，以及其他編輯工具。</description>
-    </item>
-    <item>
-      <title>Chemistry Ventures 正在為其第二檔基金募資 5 億美元</title>
-      <link>https://techcrunch.com/2026/07/07/chemistry-ventures-is-raising-500m-for-its-second-fund/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139591</guid>
-      <pubDate>Tue, 07 Jul 2026 15:02:02 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由 Bessemer、Index Ventures 和 Andreessen Horowitz 的前員工創立的 VC 公司 Chemistry Ventures，正在為其第二檔基金募資 5 億美元。</description>
     </item>
     <item>
       <title>AI 創新者採用 NVIDIA Vera —— 為什麼大規模最高單執行緒 CPU 這麼重要</title>
