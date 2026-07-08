@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 07:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:22:49 GMT</lastBuildDate>
+    <item>
+      <title>AI 晶片製造商 SambaNova 以 110 億美元估值募得 10 億美元，距離上次大型融資僅 5 個月</title>
+      <link>https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139582</guid>
+      <pubDate>Wed, 08 Jul 2026 07:16:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 晶片製造商 SambaNova 以 110 億美元估值完成募資，距離傳出 Intel 曾考慮以約 16 億美元收購它僅數個月。</description>
+    </item>
     <item>
       <title>Meta 的 AI 眼鏡：你的問題，我們來解答</title>
       <link>https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/</link>
@@ -301,15 +310,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一個 AI agent 首次在真實世界中完成了一起勒索軟體攻擊的技術執行，但新的細節顯示，仍是由人類挑選受害者、架設基礎設施，並提供遭竊的憑證——這表示它並沒有如上週標題所暗示的那樣，成為完全自主的網路犯罪首秀。</description>
-    </item>
-    <item>
-      <title>美國投資人很快就能投資 SK 海力士，這家另一家搭上 AI 熱潮的記憶體製造商</title>
-      <link>https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139406</guid>
-      <pubDate>Mon, 06 Jul 2026 23:21:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>SK 海力士正迎來一波歸功於 AI 的成長熱潮。它將藉此推動在美國進行規模達數十億美元的 IPO，預計將於週五登場。</description>
     </item>
     <item>
       <title>開放模型如何推動 AI 研究</title>
