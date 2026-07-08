@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 18:29:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 18:44:18 GMT</lastBuildDate>
+    <item>
+      <title>Google 相簿新增一項新的 AI「Video Remix」工具</title>
+      <link>https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140180</guid>
+      <pubDate>Wed, 08 Jul 2026 18:30:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項功能可以做像是套用電影感重打光來提亮較暗的片段、把普通背景換成更有趣的內容，或是替影片加入藝術風格。</description>
+    </item>
     <item>
       <title>Meta 希望它的 AI 眼鏡別那麼毛骨悚然，但它的 AI 策略卻不是這麼回事。</title>
       <link>https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/</link>
@@ -267,15 +276,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Microsoft 是最新一家縮減 AI 支出的矽谷巨頭。</description>
-    </item>
-    <item>
-      <title>Discord 承認 AI 內容審查 bug 誤將使用者因無害圖片遭封鎖</title>
-      <link>https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139842</guid>
-      <pubDate>Tue, 07 Jul 2026 19:28:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Discord 已承認，其 AI 內容審查系統中的一個 bug 在過去兩個月內誤封了超過 8,000 名使用者，原因是一些無害圖片——包括試算表、棋盤、遊戲材質，以及白色和灰色的透明背景——被錯誤標記為有害內容。該公司證實，這個問題自 5 月以來一直影響帳號，並且 […]</description>
     </item>
     <item>
       <title>推出 Muse Image：為你的世界打造的圖片生成</title>
