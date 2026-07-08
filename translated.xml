@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 12:55:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 13:10:56 GMT</lastBuildDate>
+    <item>
+      <title>我們正在加強農林業努力，以幫助大氣和農民生計。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/thryve-earth-agroforestry/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/thryve-earth-agroforestry/</guid>
+      <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 宣布與 Thryve.Earth 達成一項長期協議，將移除 260,000 噸碳。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thryve_Symbiosis_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thryve_Symbiosis_herosocial.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thryve_Symbiosis_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 宣布與 Thryve.Earth 達成一項長期協議，將移除 260,000 噸碳。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>維納斯・威廉絲支持的 WeWard 現在可以鎖定你的應用程式，直到你達成步數目標</title>
+      <link>https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139418</guid>
+      <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在網球明星兼天使投資人維納斯・威廉絲的資金支持下，法國 app WeWard 表示，它能讓步行時間增加將近 25%。</description>
+    </item>
     <item>
       <title>前 OpenAI 高層 Kevin Weil 現已加入 Stoke Space 董事會</title>
       <link>https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/</link>
@@ -289,15 +310,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>該公司剛完成 700 萬美元的種子輪募資，並將於週二在 iPhone 和 Android 上推出其 app。</description>
-    </item>
-    <item>
-      <title>美國首批自主地面載具正在烏克蘭作戰</title>
-      <link>https://techcrunch.com/2026/07/07/the-first-american-autonomous-ground-vehicles-are-fighting-in-ukraine/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139226</guid>
-      <pubDate>Tue, 07 Jul 2026 09:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Forterra 已部署超過 100</description>
     </item>
     <item>
       <title>擴充 Gemini API 中的受管理代理程式：背景工作、遠端 MCP 等更多功能</title>
@@ -651,18 +663,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在為 WhatsApp 推出使用者名稱，這樣你就可以在不提供電話號碼的情況下與他人聯繫。<br>這篇〈現在是預留你的 WhatsApp 使用者名稱的時候了〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>問 AI 專家：究竟什麼是全堆疊？</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</guid>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位 Google 專家說明，採取全堆疊 AI 方法代表什麼，以及為什麼這一直是我們 AI 工作長久以來的基礎。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 專家說明，採取全堆疊 AI 方法代表什麼，以及為什麼這一直是我們 AI 工作長久以來的基礎。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini 現在可為 Google AI Pro 和 Ultra 訂閱者在 Google Meet 中做筆記。</title>
       <link>https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</guid>
@@ -673,6 +673,18 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" alt=""></p><p>Google Meet 的「幫我做筆記」功能已向特定語言的 Google AI Pro 和 Ultra 訂閱者開放。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>問 AI 專家：究竟什麼是全堆疊？</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</guid>
+      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一位 Google 專家說明，採取全堆疊 AI 方法代表什麼，以及為什麼這一直是我們 AI 工作長久以來的基礎。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 專家說明，採取全堆疊 AI 方法代表什麼，以及為什麼這一直是我們 AI 工作長久以來的基礎。</p>]]></content:encoded>
     </item>
     <item>
       <title>Firefly Aerospace 首次在月球軌道運作 NVIDIA Jetson</title>
@@ -770,18 +782,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>Google.org 正提供 500 萬美元補助金，擴大 Obrii——烏克蘭的國家 AI 求職平台。這有助於烏克蘭在 AI 採用上扮演示範角色，延續永續…</description>
-    </item>
-    <item>
-      <title>Google 家長使用 Gemini 的 5 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-tips-for-parents/</guid>
-      <pubDate>Thu, 25 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 如何協助做功課、規劃餐點等，讓家長有時間專注在更重要的事情上。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parents_using_Gemini_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 如何協助做功課、規劃餐點等，讓家長有時間專注在更重要的事情上。</p>]]></content:encoded>
     </item>
     <item>
       <title>終極夏季特賣組合：Steam 特賣遇上 GeForce NOW 折扣</title>
