@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 19:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 19:29:45 GMT</lastBuildDate>
+    <item>
+      <title>「慢社交」app Roost 迫使你放慢到鴿子的速度</title>
+      <link>https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140021</guid>
+      <pubDate>Wed, 08 Jul 2026 19:22:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這位開發者沒想到他的副業專案會成長到 300,000 名使用者，但大家喜歡 Roost，因為它是對隨時在線、快節奏網路文化的另一種選擇。</description>
+    </item>
+    <item>
+      <title>這家新創公司認為機器人技術即將迎來它的 ChatGPT 時刻</title>
+      <link>https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140241</guid>
+      <pubDate>Wed, 08 Jul 2026 19:19:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>General Intuition 押注數百萬小時的電玩遊戲資料，可以用來訓練實體 AI 的基礎模型，讓用最少的真實世界資料打造更聰明的機器人變得更容易。</description>
+    </item>
     <item>
       <title>Elon Musk 表示，當你互動過的貼文被更正時，X 會傳送私訊</title>
       <link>https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/</link>
@@ -258,24 +276,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>如果你正在打造一些雄心勃勃的東西，這是通往能推動你的新創公司前進的人們的快速通道。</description>
-    </item>
-    <item>
-      <title>Meta 推出 Muse，一款新的 AI 圖像生成器</title>
-      <link>https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139892</guid>
-      <pubDate>Tue, 07 Jul 2026 22:18:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這個新的圖像生成模型有許多用途，包括廣告、裝飾以及創作者相關機會。</description>
-    </item>
-    <item>
-      <title>為什麼開源 AI 的崛起還沒傷到 Anthropic……至少現在還沒有</title>
-      <link>https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139798</guid>
-      <pubDate>Tue, 07 Jul 2026 20:04:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>開源模型的成功並不是以犧牲前沿實驗室為代價。相反，它們似乎各自捕捉到了同一個生命週期的兩個階段。</description>
     </item>
     <item>
       <title>推出 Muse Image：為你的世界打造的圖片生成</title>
