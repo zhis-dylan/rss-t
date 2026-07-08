@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 21:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:01:20 GMT</lastBuildDate>
+    <item>
+      <title>聯邦政府要求自駕車公司停止干擾第一線應變人員</title>
+      <link>https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140325</guid>
+      <pubDate>Wed, 08 Jul 2026 21:49:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國國家公路交通安全管理局表示，緊急現場並不是「邊緣案例」。</description>
+    </item>
     <item>
       <title>Google 的 deepfake 偵測系統被用來破解 McConnell 騙局照片</title>
       <link>https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/</link>
@@ -246,15 +255,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thryve_Symbiosis_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thryve_Symbiosis_herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thryve_Symbiosis_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 宣布與 Thryve.Earth 達成一項長期協議，將移除 260,000 噸碳。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>維納斯・威廉絲支持的 WeWard 現在可以鎖定你的應用程式，直到你達成步數目標</title>
-      <link>https://techcrunch.com/2026/07/08/venus-williams-backed-weward-can-now-lock-your-apps-until-you-hit-your-steps/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139418</guid>
-      <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在網球明星兼天使投資人維納斯・威廉絲的資金支持下，法國 app WeWard 表示，它能讓步行時間增加將近 25%。</description>
     </item>
     <item>
       <title>Apple 將增加對 Broadcom 的支出，以生產數十億顆更多美國晶片</title>
