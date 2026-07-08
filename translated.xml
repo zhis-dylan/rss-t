@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 20:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 20:30:31 GMT</lastBuildDate>
+    <item>
+      <title>在歐盟支持下，QuantumDiamonds 旨在加速晶片製造</title>
+      <link>https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140158</guid>
+      <pubDate>Wed, 08 Jul 2026 20:29:50 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>生產更多晶片的競賽已經展開，而歐洲也加入了。荷蘭公司 ASML 在晶片製造設備上幾乎壟斷市場，或許很快就不再只是孤立的成功案例。與美國的對應法案一樣，《歐洲晶片法案》旨在扶持半導體產業——部分歸功於 […]</description>
+    </item>
     <item>
       <title>自主無人機配送新創 Manna 規劃大規模擴展至美國</title>
       <link>https://techcrunch.com/2026/07/08/autonomous-drone-delivery-startup-manna-plots-major-u-s-expansion/</link>
@@ -267,15 +276,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png" medium="image" type="image/png" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png" alt=""></p><p>Street View 重返阿爾巴尼亞、蒙特內哥羅、北馬其頓和塞爾維亞。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>火紅的法國新創 ZML 推出免費產品，加速多種 AI 晶片上的推論</title>
-      <link>https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139750</guid>
-      <pubDate>Wed, 08 Jul 2026 08:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>獲圖靈獎得主 Yann LeCun 背書的熱門法國 AI 新創 ZML，如今已推出 ZML/LLMD，這套軟體可能讓 AI 執行成本更低。</description>
     </item>
     <item>
       <title>介紹 GPT-Live</title>
