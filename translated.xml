@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 17:13:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 17:28:35 GMT</lastBuildDate>
     <item>
       <title>Meta 希望它的 AI 眼鏡別那麼毛骨悚然，但它的 AI 策略卻不是這麼回事。</title>
       <link>https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/</link>
@@ -53,6 +53,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這起針對美國某大型保險公司的網路攻擊，是目前已知 2026 年規模最大的駕照號碼外洩事件。</description>
+    </item>
+    <item>
+      <title>這家咖啡店靠 Gemini 成長的 3 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/</guid>
+      <pubDate>Wed, 08 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>像咖啡店這類小型企業可以使用 Gemini 來節省平面設計、電子郵件行銷和銷售預測的時間。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/henrys_coffee_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/henrys_coffee_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/henrys_coffee_hero.max-600x600.format-webp.webp" alt=""></p><p>像咖啡店這類小型企業可以使用 Gemini 來節省平面設計、電子郵件行銷和銷售預測的時間。</p>]]></content:encoded>
     </item>
     <item>
       <title>這些 AI 新創的營收成長速度越來越快</title>
@@ -705,18 +717,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在為 WhatsApp 推出使用者名稱，這樣你就可以在不提供電話號碼的情況下與他人聯繫。<br>這篇〈現在是預留你的 WhatsApp 使用者名稱的時候了〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 現在可為 Google AI Pro 和 Ultra 訂閱者在 Google Meet 中做筆記。</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</guid>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Meet 的「幫我做筆記」功能已向特定語言的 Google AI Pro 和 Ultra 訂閱者開放。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" alt=""></p><p>Google Meet 的「幫我做筆記」功能已向特定語言的 Google AI Pro 和 Ultra 訂閱者開放。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>問 AI 專家：究竟什麼是全堆疊？</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</guid>
@@ -727,6 +727,18 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 專家說明，採取全堆疊 AI 方法代表什麼，以及為什麼這一直是我們 AI 工作長久以來的基礎。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 現在可為 Google AI Pro 和 Ultra 訂閱者在 Google Meet 中做筆記。</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</guid>
+      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Meet 的「幫我做筆記」功能已向特定語言的 Google AI Pro 和 Ultra 訂閱者開放。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" alt=""></p><p>Google Meet 的「幫我做筆記」功能已向特定語言的 Google AI Pro 和 Ultra 訂閱者開放。</p>]]></content:encoded>
     </item>
     <item>
       <title>Firefly Aerospace 首次在月球軌道運作 NVIDIA Jetson</title>
@@ -794,18 +806,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://about.fb.com/wp-content/uploads/2026/06/Tom-Shaw-pointing-thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/06/Tom-Shaw-pointing-thumbnail.jpg?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Tom-Shaw-pointing-thumbnail.jpg?fit=890%2C501" alt=""></p><p>跟著 Tom Shaw 一起深入了解 Meta 位於愛荷華州奧圖納的資料中心。從運算伺服器到永續冷卻系統，看看 Tom 對這套每天連結超過 35 億人的基礎設施與技術的觀點。由 Tom Shaw 製作<br>〈走進 Meta 的其中一座資料中心〉一文首先出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>這就是 Gemini 如何幫助你避免時差。</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-help-avoid-jetlag/</guid>
-      <pubDate>Fri, 26 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>如果你即將展開一趟長途旅行，Gemini app 可以幫助你避免時差，讓你能充分利用這趟行程。一旦你授權 Gemini 存取你…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Avoid_jetlag_with_Gemini.max-600x600.format-webp.webp" alt=""></p><p>如果你即將展開一趟長途旅行，Gemini app 可以幫助你避免時差，讓你能充分利用這趟行程。一旦你授權 Gemini 存取你…</p>]]></content:encoded>
     </item>
     <item>
       <title>預覽 GPT-5.6 Sol：下一代模型</title>
