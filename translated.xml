@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 17:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 17:58:56 GMT</lastBuildDate>
+    <item>
+      <title>為什麼這位 CEO 認為電玩遊戲比網際網路更適合作為訓練資料</title>
+      <link>https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3140196</guid>
+      <pubDate>Wed, 08 Jul 2026 17:47:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在實現人工通用智慧（AGI）這件事上，大型語言模型就是不夠格。像 ChatGPT 和 Claude 這樣的模型很擅長處理文字，但它們比較不擅長理解事物在空間與時間中實際如何移動——而這是產生可泛化智慧的一項基本能力。事實上，這個落差或許可以由遊戲資料來補上。這正是 General Intuition 背後的押注，這是一家 […]</description>
+    </item>
     <item>
       <title>Meta 希望它的 AI 眼鏡別那麼毛骨悚然，但它的 AI 策略卻不是這麼回事。</title>
       <link>https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/</link>
@@ -276,15 +285,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Discord 已承認，其 AI 內容審查系統中的一個 bug 在過去兩個月內誤封了超過 8,000 名使用者，原因是一些無害圖片——包括試算表、棋盤、遊戲材質，以及白色和灰色的透明背景——被錯誤標記為有害內容。該公司證實，這個問題自 5 月以來一直影響帳號，並且 […]</description>
-    </item>
-    <item>
-      <title>Google 的 Pixel 發表會定於 8 月 12 日舉行</title>
-      <link>https://techcrunch.com/2026/07/07/googles-pixel-event-is-set-for-august-12/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139813</guid>
-      <pubDate>Tue, 07 Jul 2026 18:38:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 即將在 8 月舉行的發表會將介紹新的 Pixel 裝置。</description>
     </item>
     <item>
       <title>推出 Muse Image：為你的世界打造的圖片生成</title>
