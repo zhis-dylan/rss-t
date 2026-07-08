@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 18:44:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 18:59:28 GMT</lastBuildDate>
+    <item>
+      <title>Elon Musk 表示，當你互動過的貼文被更正時，X 會傳送私訊</title>
+      <link>https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140198</guid>
+      <pubDate>Wed, 08 Jul 2026 18:46:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>X 計劃在使用者按讚、回覆或轉發的貼文收到 Community Notes 時，傳送直接訊息給使用者；這項更新旨在回應外界批評，認為這個平台由群眾協作的事實查核系統往往來得太晚，無法遏止錯誤資訊。</description>
+    </item>
     <item>
       <title>Google 相簿新增一項新的 AI「Video Remix」工具</title>
       <link>https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/</link>
@@ -267,15 +276,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>開源模型的成功並不是以犧牲前沿實驗室為代價。相反，它們似乎各自捕捉到了同一個生命週期的兩個階段。</description>
-    </item>
-    <item>
-      <title>Microsoft 透過更依賴自家模型加入 AI 降成本趨勢</title>
-      <link>https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139819</guid>
-      <pubDate>Tue, 07 Jul 2026 19:58:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 是最新一家縮減 AI 支出的矽谷巨頭。</description>
     </item>
     <item>
       <title>推出 Muse Image：為你的世界打造的圖片生成</title>
