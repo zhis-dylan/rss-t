@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 07:53:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 08:08:17 GMT</lastBuildDate>
+    <item>
+      <title>Street View 上阿爾巴尼亞、蒙特內哥羅、北馬其頓和塞爾維亞的新面貌</title>
+      <link>https://blog.google/products-and-platforms/products/maps/street-view-albania-montenegro-north-macedonia-serbia/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/street-view-albania-montenegro-north-macedonia-serbia/</guid>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Street View 重返阿爾巴尼亞、蒙特內哥羅、北馬其頓和塞爾維亞。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png" medium="image" type="image/png" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png" alt=""></p><p>Street View 重返阿爾巴尼亞、蒙特內哥羅、北馬其頓和塞爾維亞。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>火紅的法國新創 ZML 推出免費產品，加速多種 AI 晶片上的推論</title>
+      <link>https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139750</guid>
+      <pubDate>Wed, 08 Jul 2026 08:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>獲圖靈獎得主 Yann LeCun 背書的熱門法國 AI 新創 ZML，如今已推出 ZML/LLMD，這套軟體可能讓 AI 執行成本更低。</description>
+    </item>
     <item>
       <title>AI 晶片製造商 SambaNova 以 110 億美元估值募得 10 億美元，距離上次大型融資僅 5 個月</title>
       <link>https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/</link>
@@ -301,15 +322,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>看看 Australian Payments Plus 如何運用 ChatGPT Enterprise 和 Codex，更快因應支付領域的複雜性。AP+ 節省時間、提升品質，並讓人類判斷始終居於核心。</description>
-    </item>
-    <item>
-      <title>史上「首次」由 AI 執行的勒索軟體攻擊，仍然需要人類介入</title>
-      <link>https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139436</guid>
-      <pubDate>Mon, 06 Jul 2026 23:56:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一個 AI agent 首次在真實世界中完成了一起勒索軟體攻擊的技術執行，但新的細節顯示，仍是由人類挑選受害者、架設基礎設施，並提供遭竊的憑證——這表示它並沒有如上週標題所暗示的那樣，成為完全自主的網路犯罪首秀。</description>
     </item>
     <item>
       <title>開放模型如何推動 AI 研究</title>
@@ -749,18 +761,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>Google.org 正提供 500 萬美元補助金，擴大 Obrii——烏克蘭的國家 AI 求職平台。這有助於烏克蘭在 AI 採用上扮演示範角色，延續永續…</description>
-    </item>
-    <item>
-      <title>試試這 3 個 Google AI 工具，幫你找到下一份工作。</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/find-job-with-google-ai-tools/</guid>
-      <pubDate>Thu, 25 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Tools_CC_social.max-600x600.format-webp.webp" alt=""></p><p>找工作可能很辛苦。不過有了幾個 Google AI 工具，你可以從頭到尾簡化這個過程。Career Dreamer：找到工作第一步，就是找出……</p>]]></content:encoded>
     </item>
     <item>
       <title>Google 家長使用 Gemini 的 5 種方式</title>
