@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 08 Jul 2026 11:55:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 12:10:15 GMT</lastBuildDate>
+    <item>
+      <title>前 OpenAI 高層 Kevin Weil 現已加入 Stoke Space 董事會</title>
+      <link>https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3139858</guid>
+      <pubDate>Wed, 08 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Kevin Weil 在 Stoke Space 的新職務顯示，可重複使用火箭可能是矽谷下一個熱門題材。</description>
+    </item>
     <item>
       <title>Apple 將增加對 Broadcom 的支出，以生產數十億顆更多美國晶片</title>
       <link>https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/</link>
@@ -313,15 +322,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/98920b727045b5c12b56c2d117e9a63f/6a4c96153d63325b54c655da_nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/98920b727045b5c12b56c2d117e9a63f/6a4c96153d63325b54c655da_nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/98920b727045b5c12b56c2d117e9a63f/6a4c96153d63325b54c655da_nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450/nv-gr00t-e2r-letobot-2up-KV-r2-1600x900-1-842x450_thmb.jpg" alt=""></p><p>開源 AI 已經顯示，當模型、資料和工具被共享時，開發者能以多快的速度創新。機器人技術也有同樣的機會，但實體 AI 開發的進展，仍可能受到昂貴且碎片化資源的限制，從大型資料集和機器人基礎模型，到模擬、運算與驗證工具都是如此。NVIDIA 與 Hugging Face 正在……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Netflix 發明了追劇。現在它可能已經超越了它。</title>
-      <link>https://techcrunch.com/2026/07/06/netflix-invented-binge-watching-now-it-may-have-outgrown-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139394</guid>
-      <pubDate>Tue, 07 Jul 2026 00:47:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一份新報告顯示，Netflix 觀眾似乎不會一直看下去等到第二季。更大的問題可能是，追劇本身已經不再是它曾經擁有的優勢。</description>
     </item>
     <item>
       <title>Australian Payments Plus 透過 ChatGPT 和 Codex 加快腳步</title>
