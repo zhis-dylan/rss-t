@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 18:57:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:12:18 GMT</lastBuildDate>
+    <item>
+      <title>紐約時報稱 OpenAI 在 ChatGPT 著作權訴訟中隱瞞證據</title>
+      <link>https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140699</guid>
+      <pubDate>Thu, 09 Jul 2026 19:05:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新聞出版商表示，OpenAI 隱瞞了可在 ChatGPT 輸出中辨識受著作權保護新聞報導的工具和資料集，並以新的制裁動議升高這起訴訟。</description>
+    </item>
+    <item>
+      <title>Slate Auto 與 Crayola 合作，為其電動皮卡增添色彩</title>
+      <link>https://techcrunch.com/2026/07/09/slate-auto-teams-up-with-crayola-to-color-its-ev-truck/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140583</guid>
+      <pubDate>Thu, 09 Jul 2026 19:01:16 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Slate 對那些一直想開著亮眼蠟筆色卡車的車主，給出了答案。</description>
+    </item>
     <item>
       <title>FanDuel 向一名有賭博問題的客戶傳送了球星 Bryce Harper 的影片</title>
       <link>https://techcrunch.com/2026/07/09/fanduel-sent-a-video-from-star-athlete-bryce-harper-to-a-customer-with-a-gambling-problem/</link>
@@ -260,24 +278,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>美國國家公路交通安全管理局表示，緊急現場並不是「邊緣案例」。</description>
-    </item>
-    <item>
-      <title>Google 的 deepfake 偵測系統被用來破解 McConnell 騙局照片</title>
-      <link>https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140297</guid>
-      <pubDate>Wed, 08 Jul 2026 20:37:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>本週稍早，一張看起來顯示肯塔基州參議員 Mitch McConnell 在醫院病床上插滿管子、處於極度痛苦狀態的照片。後來證實那是 AI 生成的假圖。</description>
-    </item>
-    <item>
-      <title>在歐盟支持下，QuantumDiamonds 旨在加速晶片製造</title>
-      <link>https://techcrunch.com/2026/07/08/with-eu-backing-quantumdiamonds-aims-to-speed-up-chip-manufacturing/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140158</guid>
-      <pubDate>Wed, 08 Jul 2026 20:29:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>生產更多晶片的競賽已經展開，而歐洲也加入了。荷蘭公司 ASML 在晶片製造設備上幾乎壟斷市場，或許很快就不再只是孤立的成功案例。與美國的對應法案一樣，《歐洲晶片法案》旨在扶持半導體產業——部分歸功於 […]</description>
     </item>
     <item>
       <title>Meta 在加拿大的首座資料中心動土</title>
