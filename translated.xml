@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:32:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:47:41 GMT</lastBuildDate>
+    <item>
+      <title>Apple 獲得創紀錄的 89 項艾美獎提名</title>
+      <link>https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-scores-record-89-emmy-award-nominations/</guid>
+      <pubDate>Thu, 09 Jul 2026 00:42:00 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 憑藉 15 個節目在第 78 屆黃金時段艾美獎共拿下創紀錄的 89 項提名。</description>
+    </item>
     <item>
       <title>儘管「有所疑慮」，法官仍批准伊隆·馬斯克 150 萬美元的 SEC 和解案</title>
       <link>https://techcrunch.com/2026/07/08/despite-misgivings-judge-approves-elon-musks-1-5-million-sec-settlement/</link>
@@ -1724,15 +1733,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>隨著變化速度加快，組織正迅速從 AI 實驗邁向企業規模轉型。領導者正優先考量可衡量的成果、更快的價值實現時間，以及在整個業務中的可重複性。但許多人正面臨同樣的現實：挑戰已不再是要不要投資 AI，而是如何擴大採用並持續交付一致的...</description>
-    </item>
-    <item>
-      <title>App Store 在 2025 年阻止了超過 22 億美元的詐騙交易</title>
-      <link>https://www.apple.com/newsroom/2026/05/the-app-store-stopped-over-2-point-2-billion-usd-in-fraudulent-transactions-in-2025/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/05/the-app-store-stopped-over-2-point-2-billion-usd-in-fraudulent-transactions-in-2025/</guid>
-      <pubDate>Wed, 20 May 2026 12:59:10 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>在 2025 年，Apple 阻止了超過 22 億美元的潛在詐騙交易，使過去六年的總金額達到超過 112 億美元。</description>
     </item>
     <item>
       <title>Ramp 工程師如何使用 Codex 加速程式碼審查</title>
