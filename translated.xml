@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 15:09:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 15:24:42 GMT</lastBuildDate>
+    <item>
+      <title>Block 與 46 州就 Cash App 詐欺調查達成 4,500 萬美元和解</title>
+      <link>https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140477</guid>
+      <pubDate>Thu, 09 Jul 2026 15:16:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>各州檢察長表示，他們發現 Block 透過錯誤宣稱 Cash App 提供類似銀行的保障，包括進階詐欺偵測，誤導了使用者。</description>
+    </item>
     <item>
       <title>Anthropic 的新 Claude 功能正在悄悄向你推銷 AI</title>
       <link>https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/</link>
@@ -225,15 +234,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/05_Google_Photo_Video_Remix_Soc.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/05_Google_Photo_Video_Remix_Soc.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/05_Google_Photo_Video_Remix_Soc.max-600x600.format-webp.webp" alt=""></p><p>透過 Google 相簿的 Video Remix，只要輕觸幾下，就能把普通影片變成值得分享的精彩時刻。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 釋出新的語音模型，讓即時對話更自然</title>
-      <link>https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140033</guid>
-      <pubDate>Wed, 08 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 表示，其新的語音模式可以同時說話和聆聽，這是即時翻譯的關鍵能力。</description>
     </item>
     <item>
       <title>這家咖啡店靠 Gemini 成長的 3 種方式</title>
