@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 18:26:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:41:54 GMT</lastBuildDate>
+    <item>
+      <title>Google 現在將揭露哪些廣告是使用 AI 製作的</title>
+      <link>https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140626</guid>
+      <pubDate>Thu, 09 Jul 2026 18:40:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 表示，一項新功能將標示廣告主是否使用生成式 AI 工具來建立或編輯廣告。</description>
+    </item>
+    <item>
+      <title>巴黎 AI 語音新創公司 Gradium 募得 1 億美元種子輪，獲 Nvidia 支持</title>
+      <link>https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140596</guid>
+      <pubDate>Thu, 09 Jul 2026 18:34:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家總部位於巴黎、競爭 ElevenLabs 的公司，剛宣布完成一輪大額種子輪延伸融資。</description>
+    </item>
     <item>
       <title>政府是如何決定 OpenAI 的前沿模型可以安全發布的？</title>
       <link>https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/</link>
@@ -273,24 +291,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Elon Musk 的科技公司於週三發布最新版本的 Grok，並承諾這將是比其他強大 AI 模型更便宜、更有效率的替代方案。</description>
-    </item>
-    <item>
-      <title>「慢社交」app Roost 迫使你放慢到鴿子的速度</title>
-      <link>https://techcrunch.com/2026/07/08/slow-cial-app-roost-forces-you-to-slow-down-to-the-speed-of-a-carrier-pigeon/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140021</guid>
-      <pubDate>Wed, 08 Jul 2026 19:22:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這位開發者沒想到他的副業專案會成長到 300,000 名使用者，但大家喜歡 Roost，因為它是對隨時在線、快節奏網路文化的另一種選擇。</description>
-    </item>
-    <item>
-      <title>這家新創公司認為機器人技術即將迎來它的 ChatGPT 時刻</title>
-      <link>https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140241</guid>
-      <pubDate>Wed, 08 Jul 2026 19:19:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>General Intuition 押注數百萬小時的電玩遊戲資料，可以用來訓練實體 AI 的基礎模型，讓用最少的真實世界資料打造更聰明的機器人變得更容易。</description>
     </item>
     <item>
       <title>用 Google 相簿的 Video Remix 在幾秒內製作可分享的影片片段。</title>
