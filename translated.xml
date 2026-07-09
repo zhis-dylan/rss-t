@@ -5,7 +5,40 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 15:54:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:10:08 GMT</lastBuildDate>
+    <item>
+      <title>擴展廣告中的 AI 透明度</title>
+      <link>https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</guid>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</guid>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" alt=""></p><p>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple 與美國職棒大聯盟公布 8 月「Friday Night Baseball」賽程</title>
+      <link>https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/</guid>
+      <pubDate>Thu, 09 Jul 2026 15:59:17 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 和美國職棒大聯盟公布了「Friday Night Baseball」8 月賽程，這項每週雙重賽將於每週五在 Apple TV 上串流播放。</description>
+    </item>
     <item>
       <title>Block 與 46 州就 Cash App 詐欺調查達成 4,500 萬美元和解</title>
       <link>https://techcrunch.com/2026/07/09/block-reaches-45m-settlement-with-46-states-over-cash-app-fraud-probe/</link>
@@ -770,30 +803,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在為 WhatsApp 推出使用者名稱，這樣你就可以在不提供電話號碼的情況下與他人聯繫。<br>這篇〈現在是預留你的 WhatsApp 使用者名稱的時候了〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>問 AI 專家：究竟什麼是全堆疊？</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/</guid>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位 Google 專家說明，採取全堆疊 AI 方法代表什麼，以及為什麼這一直是我們 AI 工作長久以來的基礎。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Full_Stack.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 專家說明，採取全堆疊 AI 方法代表什麼，以及為什麼這一直是我們 AI 工作長久以來的基礎。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini 現在可為 Google AI Pro 和 Ultra 訂閱者在 Google Meet 中做筆記。</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/</guid>
-      <pubDate>Mon, 29 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Meet 的「幫我做筆記」功能已向特定語言的 Google AI Pro 和 Ultra 訂閱者開放。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TNFM-header-light.max-600x600.format-webp.webp" alt=""></p><p>Google Meet 的「幫我做筆記」功能已向特定語言的 Google AI Pro 和 Ultra 訂閱者開放。</p>]]></content:encoded>
     </item>
     <item>
       <title>Firefly Aerospace 首次在月球軌道運作 NVIDIA Jetson</title>
@@ -1706,15 +1715,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 在 2026 年 Gartner 企業 AI 編碼代理魔力象限中被評為領導者，Codex 因創新與企業規模部署而獲得認可。</description>
-    </item>
-    <item>
-      <title>Apple TV 將播出首個以 iPhone 17 Pro 拍攝的重大職業體育賽事直播</title>
-      <link>https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-shot-on-iphone-17-pro/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/05/apple-tv-to-air-first-major-live-pro-sports-event-shot-on-iphone-17-pro/</guid>
-      <pubDate>Thu, 21 May 2026 13:59:27 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple TV 將於 5 月 23 日播出一場特別的 MLS 比賽，並以 iPhone 17 Pro 拍攝——這是重大職業直播體育賽事的首例。</description>
     </item>
     <item>
       <title>AdventHealth 利用 OpenAI 推進全人照護</title>
