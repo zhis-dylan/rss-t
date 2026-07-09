@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 21:58:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:14:16 GMT</lastBuildDate>
+    <item>
+      <title>一家 AI 代理新創剛讓自己的代理完成了 1 億美元募資</title>
+      <link>https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140819</guid>
+      <pubDate>Thu, 09 Jul 2026 22:08:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>為企業打造 AI 代理的新創公司 Lyzr，動用自家的 AI 代理募得一輪 1 億美元融資——顯然證明這項產品真的能用。</description>
+    </item>
+    <item>
+      <title>OpenAI 正在關閉 Atlas，但其 AI 瀏覽器野心仍在擴大</title>
+      <link>https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140848</guid>
+      <pubDate>Thu, 09 Jul 2026 22:03:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 將在不到一年後停止這款 AI 驅動的瀏覽器。不過，它正把部分具代理能力的瀏覽功能移到桌面應用程式和 Chrome 擴充功能上。</description>
+    </item>
     <item>
       <title>Elon Musk 稱讚 Mythos/Fable，承諾不會「切斷」Anthropic</title>
       <link>https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/</link>
@@ -221,24 +239,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>獲得 Benchmark 支持的 Ollama 透過幫助開發者輕鬆在自己的 PC 上執行 AI，已累積 176,000 個星號，以及接近 17,000 個 GitHub 分支。</description>
-    </item>
-    <item>
-      <title>Character.ai 帶著自家製作進軍微短劇領域，但有個轉折</title>
-      <link>https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140394</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>有個有趣的轉折充分利用了公司的核心產品，使用者可以和這些影集中的角色聊天、向他們提問，甚至扮演不同的故事情節。</description>
-    </item>
-    <item>
-      <title>Nandan Nilekani 退出 Fundamentum 的 GP 角色，該公司推出 2 億美元第三檔基金</title>
-      <link>https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140101</guid>
-      <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Nilekani 仍是 Fundamentum 的基石投資人，隨著該公司擴大領導團隊，並鎖定印度的 AI 與 fintech 新創公司。</description>
     </item>
     <item>
       <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
