@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 11:52:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 12:07:46 GMT</lastBuildDate>
+    <item>
+      <title>Nandan Nilekani 退出 Fundamentum 的 GP 角色，該公司推出 2 億美元第三檔基金</title>
+      <link>https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140101</guid>
+      <pubDate>Thu, 09 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nilekani 仍是 Fundamentum 的基石投資人，隨著該公司擴大領導團隊，並鎖定印度的 AI 與 fintech 新創公司。</description>
+    </item>
     <item>
       <title>共同打造全球健康的未來</title>
       <link>https://blog.google/innovation-and-ai/technology/health/open-health-stack-software-foundation/</link>
@@ -237,15 +246,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/6ac686b63b01a8602d322d4d5b4e6058/6a4e66303d6332467e4bd360_Nemotron_LangChain-842x450/Nemotron_LangChain-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/6ac686b63b01a8602d322d4d5b4e6058/6a4e66303d6332467e4bd360_Nemotron_LangChain-842x450/Nemotron_LangChain-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/6ac686b63b01a8602d322d4d5b4e6058/6a4e66303d6332467e4bd360_Nemotron_LangChain-842x450/Nemotron_LangChain-842x450_thmb.jpg" alt=""></p><p>NVIDIA Nemotron 3 Ultra 與最大且最廣泛採用的 AI agent 編排平台合作，在比頂級封閉模型更低的成本下提供領先效能。LangChain 針對 NVIDIA Nemotron 3 Ultra 調校了其 Deep Agents harness，在開源模型中取得最高準確率，同時以更高的吞吐量完成更多任務，並以 10 倍速度執行 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>獨立創投 Ashley Smith 宣布第二支 2,500 萬美元基金，投資 AI、資安等新創公司</title>
-      <link>https://techcrunch.com/2026/07/08/solo-gp-ashley-smith-announces-25m-close-of-second-fund/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140022</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Vermilion Cliffs Ventures 週三宣布已完成 2,500 萬美元的第二期基金募資。</description>
     </item>
     <item>
       <title>我們對政府與國家安全合作夥伴關係的做法</title>
