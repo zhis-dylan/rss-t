@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 23:29:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 23:45:07 GMT</lastBuildDate>
+    <item>
+      <title>Fidji Simo 辭去 OpenAI 二把手職位</title>
+      <link>https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140900</guid>
+      <pubDate>Thu, 09 Jul 2026 23:38:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 的二號主管 Fidji Simo 在她的醫療休假比預期更長後，正卸下全職職務——這個領導層空缺出現在一個棘手的時刻，因為公司正考慮可能的 IPO，並在企業市場上競逐追上 Anthropic。</description>
+    </item>
     <item>
       <title>OpenAI 推出新一代模型系列 GPT-5.6</title>
       <link>https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/</link>
@@ -209,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Claude 的新 Reflect 儀表板不只是把你如何使用 AI 視覺化。它也微妙地強化了你日常工作的多少如今都依賴 Anthropic 的聊天機器人這件事。</description>
-    </item>
-    <item>
-      <title>Anthropic、OpenAI 和 SpaceX 的規模比過去 25 年的科技退出交易還大</title>
-      <link>https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140464</guid>
-      <pubDate>Thu, 09 Jul 2026 14:51:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>三家大型 AI IPO 預計將創造比自 2000 年以來所有美國創投支持的退出交易總和還要多的價值。</description>
     </item>
     <item>
       <title>GeForce NOW 以全新由 GeForce RTX 5080 驅動的多倫多伺服器升溫登場</title>
