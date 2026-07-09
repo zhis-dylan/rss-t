@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 07:50:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 08:05:54 GMT</lastBuildDate>
+    <item>
+      <title>共同打造全球健康的未來</title>
+      <link>https://blog.google/innovation-and-ai/technology/health/open-health-stack-software-foundation/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/open-health-stack-software-foundation/</guid>
+      <pubDate>Thu, 09 Jul 2026 08:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Open Health Stack Software Foundation 將為全球健康解決方案的基礎元件提供一個由社群主導的平台。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHS_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHS_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHS_hero.max-600x600.format-webp.webp" alt=""></p><p>Open Health Stack Software Foundation 將為全球健康解決方案的基礎元件提供一個由社群主導的平台。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Truecaller 與印度電信監管機構就反垃圾訊息規則發生衝突</title>
       <link>https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/</link>
@@ -782,18 +794,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg" alt=""></p><p></p>]]></content:encoded>
-    </item>
-    <item>
-      <title>解鎖 YouTube 品牌廣告活動更深入的洞察。</title>
-      <link>https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/</guid>
-      <pubDate>Mon, 29 Jun 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>新功能將有助於證明 YouTube 品牌廣告活動如何帶動廣告主關心的成果。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_socialshare.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Logo_socialshare.max-600x600.format-webp.webp" alt=""></p><p>新功能將有助於證明 YouTube 品牌廣告活動如何帶動廣告主關心的成果。</p>]]></content:encoded>
     </item>
     <item>
       <title>開放模型，封閉環境：Palantir 以 NVIDIA Nemotron 將安全 AI 帶給美國政府機構</title>
