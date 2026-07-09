@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:25:53 GMT</lastBuildDate>
+    <item>
+      <title>Meta 的新 AI 晶片將於 9 月開始量產</title>
+      <link>https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140504</guid>
+      <pubDate>Thu, 09 Jul 2026 17:17:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>為了減少向 Nvidia 等供應商採購 GPU 的支出，Meta 預計將於 9 月開始製造其最新版本的 AI 專用晶片。</description>
+    </item>
     <item>
       <title>Nvidia 成了自己打造的運算市場的受害者</title>
       <link>https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/</link>
@@ -759,15 +768,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp" alt=""></p><p>Google 英國分享最新的經濟影響報告，以及如何讓更多人發揮 AI 驅動技術的效益。</p>]]></content:encoded>
     </item>
     <item>
-      <title>核心傾印流行病學：修復一個 18 年的舊錯誤</title>
-      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
-      <guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
-    </item>
-    <item>
       <title>Genebench-Pro 內部</title>
       <link>https://openai.com/index/genebench-pro/case-studies</link>
       <guid isPermaLink="false">https://openai.com/index/genebench-pro/case-studies</guid>
@@ -784,6 +784,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>介紹 GeneBench-Pro，一個新的基準測試，使用複雜的真實世界資料集來測試 AI 在基因組學、生物學和科學研究方面的表現。</description>
+    </item>
+    <item>
+      <title>核心傾印流行病學：修復一個 18 年的舊錯誤</title>
+      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
+      <guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
     </item>
     <item>
       <title>Gemini 應用程式正將個人化圖片建立功能帶給更多使用者。</title>
