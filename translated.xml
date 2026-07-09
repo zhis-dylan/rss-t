@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 12:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 13:08:22 GMT</lastBuildDate>
+    <item>
+      <title>GeForce NOW 以全新由 GeForce RTX 5080 驅動的多倫多伺服器升溫登場</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:55 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>這個 GFN Thursday 為 GeForce NOW 帶來更多遊戲、更強效能，以及更多遊玩的方式。這項雲端遊戲服務正在擴充，在多倫多新增一座由 GeForce RTX 5080 驅動的伺服器，讓區域內的會員更接近雲端中的專屬高效能。NTE：《Neverness to Everness》也在雲端獲得更新， […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/3e3ee94d16b13a11d45c4b363c1ff746/6a4f9bbd3d633226e978121d_gfn-thursday-7-9-blog-1920x1080-no-copy-842x450/gfn-thursday-7-9-blog-1920x1080-no-copy-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/3e3ee94d16b13a11d45c4b363c1ff746/6a4f9bbd3d633226e978121d_gfn-thursday-7-9-blog-1920x1080-no-copy-842x450/gfn-thursday-7-9-blog-1920x1080-no-copy-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/3e3ee94d16b13a11d45c4b363c1ff746/6a4f9bbd3d633226e978121d_gfn-thursday-7-9-blog-1920x1080-no-copy-842x450/gfn-thursday-7-9-blog-1920x1080-no-copy-842x450_thmb.jpg" alt=""></p><p>這個 GFN Thursday 為 GeForce NOW 帶來更多遊戲、更強效能，以及更多遊玩的方式。這項雲端遊戲服務正在擴充，在多倫多新增一座由 GeForce RTX 5080 驅動的伺服器，讓區域內的會員更接近雲端中的專屬高效能。NTE：《Neverness to Everness》也在雲端獲得更新， […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>熱門開源 AI 開發者工具 Ollama 募得 6,500 萬美元，使用者數成長至將近 900 萬</title>
+      <link>https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140214</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>獲得 Benchmark 支持的 Ollama 透過幫助開發者輕鬆在自己的 PC 上執行 AI，已累積 176,000 個星號，以及接近 17,000 個 GitHub 分支。</description>
+    </item>
+    <item>
+      <title>Character.ai 帶著自家製作進軍微短劇領域，但有個轉折</title>
+      <link>https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140394</guid>
+      <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>有個有趣的轉折充分利用了公司的核心產品，使用者可以和這些影集中的角色聊天、向他們提問，甚至扮演不同的故事情節。</description>
+    </item>
     <item>
       <title>Nandan Nilekani 退出 Fundamentum 的 GP 角色，該公司推出 2 億美元第三檔基金</title>
       <link>https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/</link>
@@ -206,15 +236,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <description>這輪融資由 Radical Ventures 領投，讓這家成立兩年的新創公司估值達到 10 億美元。</description>
     </item>
     <item>
-      <title>又一起大規模資料外洩事件，數百萬筆駕照號碼遭曝光</title>
-      <link>https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140082</guid>
-      <pubDate>Wed, 08 Jul 2026 16:14:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這起針對美國某大型保險公司的網路攻擊，是目前已知 2026 年規模最大的駕照號碼外洩事件。</description>
-    </item>
-    <item>
       <title>這家咖啡店靠 Gemini 成長的 3 種方式</title>
       <link>https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/coffee-shop-gemini-features/</guid>
@@ -225,15 +246,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/henrys_coffee_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/henrys_coffee_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/henrys_coffee_hero.max-600x600.format-webp.webp" alt=""></p><p>像咖啡店這類小型企業可以使用 Gemini 來節省平面設計、電子郵件行銷和銷售預測的時間。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>這些 AI 新創的營收成長速度越來越快</title>
-      <link>https://techcrunch.com/2026/07/08/these-ai-startups-are-growing-revenue-at-faster-and-faster-rates/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139890</guid>
-      <pubDate>Wed, 08 Jul 2026 15:41:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>有很多成長快速的 AI 新創，但他們說，有些成長得更快。</description>
     </item>
     <item>
       <title>NVIDIA Nemotron 透過 LangChain Deep Agents Harness 達成基準領先的效能</title>
@@ -995,18 +1007,6 @@ Launch of Meta’s Small Business Growth Academy Across Asia-Pacific to Boost AI
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/126321c83c648dda781aae73ed1a512a/6a39d0553d6332bebe9782ec_nvidia-bionemo-agent-toolkit/nvidia-bionemo-agent-toolkit_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/126321c83c648dda781aae73ed1a512a/6a39d0553d6332bebe9782ec_nvidia-bionemo-agent-toolkit/nvidia-bionemo-agent-toolkit_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/126321c83c648dda781aae73ed1a512a/6a39d0553d6332bebe9782ec_nvidia-bionemo-agent-toolkit/nvidia-bionemo-agent-toolkit_thmb.jpg" alt=""></p><p>BIO -- NVIDIA 今日宣布 NVIDIA BioNeMo Agent Toolkit，為代理式生命科學時代提供領域專用工具與技能...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 驅動全球 500 台最快超級電腦中的 400 多台</title>
-      <link>https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/top500-green500-supercomputers-isc-2026/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:00:38 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>新聞重點：NVIDIA 技術支援 TOP500 中 81% 的系統，以及新上榜系統中 90% 的系統。TOP500 中有 26 個系統採用 NVIDIA Grace CPU，較前一份榜單增加 8 個。Green500 前八名系統都運行在 NVIDIA GPU 上，前 10 名中有 9 個使用 NVIDIA 技術。第 1 名 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/944a968b7a1ea61749eb7931738a8a98/6a3a4b8b3d6332248a4b5c6b_hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450/hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450_thmb.jpg" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/944a968b7a1ea61749eb7931738a8a98/6a3a4b8b3d6332248a4b5c6b_hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450/hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/944a968b7a1ea61749eb7931738a8a98/6a3a4b8b3d6332248a4b5c6b_hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450/hpc-corp-blog-isc26-wrap-up-blog-1280x680-5375050-842x450_thmb.jpg" alt=""></p><p>新聞重點：NVIDIA 技術支援 TOP500 中 81% 的系統，以及新上榜系統中 90% 的系統。TOP500 中有 26 個系統採用 NVIDIA Grace CPU，較前一份榜單增加 8 個。Green500 前八名系統都運行在 NVIDIA GPU 上，前 10 名中有 9 個使用 NVIDIA 技術。第 1 名 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Omio 如何打造對話式旅遊的未來</title>
