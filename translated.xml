@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 22:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:29:26 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出新一代模型系列 GPT-5.6</title>
+      <link>https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140805</guid>
+      <pubDate>Thu, 09 Jul 2026 22:24:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 最新一代模型系列承諾在多個領域帶來改進，包括資安。</description>
+    </item>
     <item>
       <title>一家 AI 代理新創剛讓自己的代理完成了 1 億美元募資</title>
       <link>https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/</link>
@@ -230,15 +239,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 GPT-5.6 如何透過更強的 AI 能力驅動 Microsoft 365 Copilot，涵蓋 Word、Excel、PowerPoint、Chat 和 Cowork，讓工作更快、品質更高。</description>
-    </item>
-    <item>
-      <title>熱門開源 AI 開發者工具 Ollama 募得 6,500 萬美元，使用者數成長至將近 900 萬</title>
-      <link>https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140214</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>獲得 Benchmark 支持的 Ollama 透過幫助開發者輕鬆在自己的 PC 上執行 AI，已累積 176,000 個星號，以及接近 17,000 個 GitHub 分支。</description>
     </item>
     <item>
       <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
