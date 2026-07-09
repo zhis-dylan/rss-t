@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 18:11:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:26:34 GMT</lastBuildDate>
+    <item>
+      <title>政府是如何決定 OpenAI 的前沿模型可以安全發布的？</title>
+      <link>https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140210</guid>
+      <pubDate>Thu, 09 Jul 2026 18:22:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「政府與 Anthropic 和 OpenAI 之間的那段對話究竟是什麼樣子，並不清楚。」</description>
+    </item>
     <item>
       <title>如何阻止 Meta 的 AI 圖像生成器使用你的 Instagram 照片</title>
       <link>https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/</link>
@@ -252,9 +261,9 @@
       <dc:creator>About Facebook</dc:creator>
       <description>我們正在亞伯達省 Sturgeon County 興建一座新的 1GW、針對 AI 最佳化的資料中心——這將是我們在加拿大的首座資料中心，也是我們全球資料中心群中的第 33 座。
 The post Meta 在加拿大的首座資料中心動土 appeared first on Meta Newsroom.</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.mp4?fit=890%2C501" medium="image"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.mp4?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.mp4?fit=890%2C501" alt=""></p><p>我們正在亞伯達省 Sturgeon County 興建一座新的 1GW、針對 AI 最佳化的資料中心——這將是我們在加拿大的首座資料中心，也是我們全球資料中心群中的第 33 座。<br>The post Meta 在加拿大的首座資料中心動土 appeared first on Meta Newsroom.</p>]]></content:encoded>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.gif?fit=890%2C501"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.gif?fit=890%2C501" alt=""></p><p>我們正在亞伯達省 Sturgeon County 興建一座新的 1GW、針對 AI 最佳化的資料中心——這將是我們在加拿大的首座資料中心，也是我們全球資料中心群中的第 33 座。<br>The post Meta 在加拿大的首座資料中心動土 appeared first on Meta Newsroom.</p>]]></content:encoded>
     </item>
     <item>
       <title>SpaceXAI 發布 Grok 4.5，Elon 稱其為「Opus 級模型」</title>
@@ -282,15 +291,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>General Intuition 押注數百萬小時的電玩遊戲資料，可以用來訓練實體 AI 的基礎模型，讓用最少的真實世界資料打造更聰明的機器人變得更容易。</description>
-    </item>
-    <item>
-      <title>Elon Musk 表示，當你互動過的貼文被更正時，X 會傳送私訊</title>
-      <link>https://techcrunch.com/2026/07/08/elon-musk-says-x-will-send-dms-when-posts-youve-engaged-with-are-corrected/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140198</guid>
-      <pubDate>Wed, 08 Jul 2026 18:46:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>X 計劃在使用者按讚、回覆或轉發的貼文收到 Community Notes 時，傳送直接訊息給使用者；這項更新旨在回應外界批評，認為這個平台由群眾協作的事實查核系統往往來得太晚，無法遏止錯誤資訊。</description>
     </item>
     <item>
       <title>用 Google 相簿的 Video Remix 在幾秒內製作可分享的影片片段。</title>
