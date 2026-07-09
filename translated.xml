@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 09 Jul 2026 19:12:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 19:27:33 GMT</lastBuildDate>
+    <item>
+      <title>Charles Hudson 分享他在投資 500 多家新創公司後看到的常見錯誤</title>
+      <link>https://techcrunch.com/2026/07/09/charles-hudson-shares-the-common-mistakes-hes-seen-after-investing-in-500-startups/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140677</guid>
+      <pubDate>Thu, 09 Jul 2026 19:26:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在本週的 Build Mode 節目中，Isabelle Johannessen 與 Precursor Ventures 的 Charles Hudson 談到當今早期創業者面臨的逆風，以及創業者為了獲得融資應避免的最常見錯誤。</description>
+    </item>
     <item>
       <title>紐約時報稱 OpenAI 在 ChatGPT 著作權訴訟中隱瞞證據</title>
       <link>https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/</link>
@@ -269,15 +278,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Sifted 報導，這輪 3 億美元融資預計由 Menlo Ventures 領投。</description>
-    </item>
-    <item>
-      <title>聯邦政府要求自駕車公司停止干擾第一線應變人員</title>
-      <link>https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140325</guid>
-      <pubDate>Wed, 08 Jul 2026 21:49:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>美國國家公路交通安全管理局表示，緊急現場並不是「邊緣案例」。</description>
     </item>
     <item>
       <title>Meta 在加拿大的首座資料中心動土</title>
