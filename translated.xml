@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 10 Jul 2026 12:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:21:24 GMT</lastBuildDate>
+    <item>
+      <title>Bryson DeChambeau 與 Google Health 合作</title>
+      <link>https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/</guid>
+      <pubDate>Fri, 10 Jul 2026 16:12:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>職業高爾夫球選手 Bryson DeChambeau 與 Google Health 合作，使用 Fitbit Air 追蹤體能指標，將數據驅動的運動訓練帶入日常健康例行…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" alt=""></p><p>職業高爾夫球選手 Bryson DeChambeau 與 Google Health 合作，使用 Fitbit Air 追蹤體能指標，將數據驅動的運動訓練帶入日常健康例行…</p>]]></content:encoded>
+    </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
       <link>https://openai.com/index/deutsche-telekom</link>
@@ -820,18 +832,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description/>
-    </item>
-    <item>
-      <title>Gemini 應用程式正將個人化圖片建立功能帶給更多使用者。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/</guid>
-      <pubDate>Mon, 29 Jun 2026 17:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Personal Intelligence 讓 Gemini 應用程式更貼合你的需求。經你授權後，它會從 Gmail、Google 相簿、YouTube 和搜尋等 Google 工具中擷取資料，提供…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/No-cost_personalized_image_crea.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/No-cost_personalized_image_crea.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/No-cost_personalized_image_crea.max-600x600.format-webp.webp" alt=""></p><p>Personal Intelligence 讓 Gemini 應用程式更貼合你的需求。經你授權後，它會從 Gmail、Google 相簿、YouTube 和搜尋等 Google 工具中擷取資料，提供…</p>]]></content:encoded>
     </item>
     <item>
       <title>Claude 遇上 Blackwell Ultra：Anthropic 的模型現已在 Azure 的 NVIDIA GB300 上執行</title>
