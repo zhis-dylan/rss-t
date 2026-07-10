@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 10 Jul 2026 14:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 14:22:29 GMT</lastBuildDate>
     <item>
       <title>Bryson DeChambeau 與 Google Health 合作</title>
       <link>https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/</link>
@@ -17,6 +17,24 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" alt=""></p><p>職業高爾夫球選手 Bryson DeChambeau 與 Google Health 合作，使用 Fitbit Air 追蹤體能指標，將數據驅動的運動訓練帶入日常健康例行…</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>歐盟因 Facebook 和 Instagram 上的成癮性功能威脅對 Meta 罰款</title>
+      <link>https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140977</guid>
+      <pubDate>Fri, 10 Jul 2026 14:19:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>歐盟執委會表示，這家科技巨頭因聚焦於無限捲動、自動播放、推播通知，以及高度個人化的推薦演算法等功能，而違反了《數位服務法》.</description>
+    </item>
+    <item>
+      <title>協助勒索軟體幫派勒索美國公司的佛州勒索軟體談判人員遭定罪</title>
+      <link>https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140978</guid>
+      <pubDate>Fri, 10 Jul 2026 14:11:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>第三名勒索軟體談判人員因協助一個臭名昭著的勒索軟體組織，勒索美國受害公司向駭客付款而被判入獄。</description>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
@@ -188,24 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>「政府與 Anthropic 和 OpenAI 之間的那段對話究竟是什麼樣子，並不清楚。」</description>
-    </item>
-    <item>
-      <title>如何阻止 Meta 的 AI 圖像生成器使用你的 Instagram 照片</title>
-      <link>https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140527</guid>
-      <pubDate>Thu, 09 Jul 2026 17:56:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>除非你選擇退出，否則 Meta 的新 AI 圖像生成器會使用你的公開 Instagram 照片。以下是設定方法。</description>
-    </item>
-    <item>
-      <title>Meta 的新 AI 晶片將於 9 月開始量產</title>
-      <link>https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140504</guid>
-      <pubDate>Thu, 09 Jul 2026 17:17:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>為了減少向 Nvidia 等供應商採購 GPU 的支出，Meta 預計將於 9 月開始製造其最新版本的 AI 專用晶片。</description>
     </item>
     <item>
       <title>擴展廣告中的 AI 透明度</title>
