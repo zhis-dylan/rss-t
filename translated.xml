@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 10 Jul 2026 19:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 19:40:34 GMT</lastBuildDate>
     <item>
       <title>訴狀：大學社群 App Fizz 指控創投將新創機密資訊分享給競爭對手 Sidechat</title>
       <link>https://techcrunch.com/2026/07/10/filing-college-app-fizz-accuses-vc-of-sharing-confidential-startup-information-with-rival-sidechat/</link>
@@ -71,6 +71,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Dumb Co 販售可與你的智慧型手機同步的掀蓋手機，連結 iPhone 的無限連線能力與 2000 年代初期遺留裝置那種不切實際的限制。</description>
+    </item>
+    <item>
+      <title>這是如何在 Gemini app 中製作讀書筆記本。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/</guid>
+      <pubDate>Fri, 10 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>正在為考試準備，但不知道該從哪裡開始？讀書筆記本是 Gemini app 的新功能，可以幫助你整理得更有條理，並更有效率地學習。把讀書筆記本想成……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/study_notebooks_in_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/study_notebooks_in_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/study_notebooks_in_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>正在為考試準備，但不知道該從哪裡開始？讀書筆記本是 Gemini app 的新功能，可以幫助你整理得更有條理，並更有效率地學習。把讀書筆記本想成……</p>]]></content:encoded>
     </item>
     <item>
       <title>Oratomic 籌得 3 億美元，打造只需 2 萬量子位元的可行量子電腦</title>
@@ -208,18 +220,6 @@
       <description>AI 投資報酬率的辯論又回來了，而且數字更大，也許後果也更嚴重。</description>
     </item>
     <item>
-      <title>擴展廣告中的 AI 透明度</title>
-      <link>https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</guid>
-      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</guid>
@@ -230,6 +230,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" alt=""></p><p>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>擴展廣告中的 AI 透明度</title>
+      <link>https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</guid>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 與美國職棒大聯盟公布 8 月「Friday Night Baseball」賽程</title>
@@ -793,18 +805,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的 OpenAI Signals 資料顯示 ChatGPT 的採用正在全球成長，使用者持續增加使用量、探索更多功能，並帶動各地區與語言的成長。</description>
-    </item>
-    <item>
-      <title>開啟英國下一個生產力時代：打造 AI 先鋒國度</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/</guid>
-      <pubDate>Tue, 30 Jun 2026 06:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 英國分享最新的經濟影響報告，以及如何讓更多人發揮 AI 驅動技術的效益。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Generated_Image_k2dxu1k2.max-600x600.format-webp.webp" alt=""></p><p>Google 英國分享最新的經濟影響報告，以及如何讓更多人發揮 AI 驅動技術的效益。</p>]]></content:encoded>
     </item>
     <item>
       <title>核心傾印流行病學：修復一個 18 年的舊錯誤</title>
