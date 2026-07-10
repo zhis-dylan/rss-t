@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 10 Jul 2026 16:23:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 16:38:46 GMT</lastBuildDate>
+    <item>
+      <title>Disney+ 正在考慮推出免費串流方案，報導指出</title>
+      <link>https://techcrunch.com/2026/07/10/disney-is-considering-a-free-streaming-tier-report-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141067</guid>
+      <pubDate>Fri, 10 Jul 2026 16:29:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>推出免費內容將可讓 Disney+ 更好地與 YouTube 和 Tubi 等免費服務競爭，這些服務正吸引越來越多消費者的觀看時間。</description>
+    </item>
     <item>
       <title>Bryson DeChambeau 與 Google Health 合作</title>
       <link>https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/</link>
@@ -197,15 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這段影片通話凸顯了職業運動員與賭博應用程式之間模糊的關係。</description>
-    </item>
-    <item>
-      <title>Mercor 正在洽談 200 億美元估值</title>
-      <link>https://techcrunch.com/2026/07/09/mercor-is-in-talks-for-a-20b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140621</guid>
-      <pubDate>Thu, 09 Jul 2026 18:42:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新的 200 億美元估值將較它在 10 月達到的 100 億美元估值大幅提升。</description>
     </item>
     <item>
       <title>擴展廣告中的 AI 透明度</title>
@@ -414,9 +414,9 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>Street View 重返阿爾巴尼亞、蒙特內哥羅、北馬其頓和塞爾維亞。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png" medium="image" type="image/png" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Live_Canvas_Collage_-_Hero_image__2096x_875x_.png" alt=""></p><p>Street View 重返阿爾巴尼亞、蒙特內哥羅、北馬其頓和塞爾維亞。</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Live_Canvas_Collage_-_Hero_imag.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Live_Canvas_Collage_-_Hero_imag.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Live_Canvas_Collage_-_Hero_imag.max-600x600.format-webp.webp" alt=""></p><p>Street View 重返阿爾巴尼亞、蒙特內哥羅、北馬其頓和塞爾維亞。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 GPT-Live</title>
