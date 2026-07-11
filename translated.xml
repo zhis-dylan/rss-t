@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:28:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:43:17 GMT</lastBuildDate>
+    <item>
+      <title>Phia 被指控「cookie stuffing」，對未賺得的購買行為取得聯盟行銷歸因</title>
+      <link>https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141355</guid>
+      <pubDate>Sat, 11 Jul 2026 00:29:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由比爾·蓋茲的女兒 Phoebe 與她的朋友 Sophia Kianni 創立的購物新創公司 Phia，因涉及一種稱為「cookie stuffing」的手法而受到抨擊；根據彭博社的調查，這種做法讓該產品得以取得其實並未真正促成的銷售佣金與歸因。</description>
+    </item>
     <item>
       <title>Meta 在 Instagram 上下架具爭議性的 AI 功能，原因是外界反彈</title>
       <link>https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/</link>
@@ -209,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 最新一代模型系列承諾在多個領域帶來改進，包括資安。</description>
-    </item>
-    <item>
-      <title>一家 AI 代理新創剛讓自己的代理完成了 1 億美元募資</title>
-      <link>https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140819</guid>
-      <pubDate>Thu, 09 Jul 2026 22:08:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>為企業打造 AI 代理的新創公司 Lyzr，動用自家的 AI 代理募得一輪 1 億美元融資——顯然證明這項產品真的能用。</description>
     </item>
     <item>
       <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
