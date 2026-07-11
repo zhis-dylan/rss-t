@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 01:13:34 GMT</lastBuildDate>
+    <item>
+      <title>美國網路安全機構 CISA 必須在事件發生期間建立事件應變手冊，該機構透露</title>
+      <link>https://techcrunch.com/2026/07/10/us-cyber-agency-cisa-had-to-build-its-incident-playbook-during-the-incident-agency-reveals/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141180</guid>
+      <pubDate>Sat, 11 Jul 2026 01:01:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>CISA 表示，因為沒有事先制定應變計畫，錯失了搶先掌握這起資安事件的機會。</description>
+    </item>
     <item>
       <title>Phia 被指控「cookie stuffing」，對未賺得的購買行為取得聯盟行銷歸因</title>
       <link>https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/</link>
@@ -209,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 的二號主管 Fidji Simo 在她的醫療休假比預期更長後，正卸下全職職務——這個領導層空缺出現在一個棘手的時刻，因為公司正考慮可能的 IPO，並在企業市場上競逐追上 Anthropic。</description>
-    </item>
-    <item>
-      <title>OpenAI 推出新一代模型系列 GPT-5.6</title>
-      <link>https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140805</guid>
-      <pubDate>Thu, 09 Jul 2026 22:24:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 最新一代模型系列承諾在多個領域帶來改進，包括資安。</description>
     </item>
     <item>
       <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
