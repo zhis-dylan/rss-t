@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 12 Jul 2026 00:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:24:26 GMT</lastBuildDate>
+    <item>
+      <title>Reed Jobs 比起自己的姓氏，更願意談治癒癌症</title>
+      <link>https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141407</guid>
+      <pubDate>Sun, 12 Jul 2026 00:16:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>我們上次在 TechCrunch Disrupt 與 Jobs 坐下來聊時，大約是快三年前，當時他的公司 Yosemite 才剛成立，生技產業仍在疫情後的崩跌中掙扎。現在，這家創投團隊已有 17 人；一批重磅藥物正大致在同一時間失去專利保護，創造出各式各樣的新機會；而 AI 也已從一個新奇事物，變成 Jobs 所說 Yosemite 業務中很大的一部分。"我沒想到 Yosemite 會進展得這麼快，"他說。</description>
+    </item>
     <item>
       <title>這台冰沙機在紐約市熱浪期間救了我一命</title>
       <link>https://techcrunch.com/2026/07/11/this-slushie-machine-was-a-lifesaver-during-nycs-heat-wave/</link>
@@ -209,15 +218,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>德國電信如何透過 OpenAI 轉型客服、員工工作流程、網路營運，以及語音的未來，成為 AI 原生電信業者。</description>
-    </item>
-    <item>
-      <title>繼 Apple 之後，印度智慧型手機製造熱潮進入新階段，Vivo 合資企業登場</title>
-      <link>https://techcrunch.com/2026/07/09/after-apple-indias-smartphone-manufacturing-boom-enters-new-phase-with-vivo-jv/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140763</guid>
-      <pubDate>Fri, 10 Jul 2026 04:36:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Vivo 的合資企業可能成為中國智慧型手機製造商在印度的範本。</description>
     </item>
     <item>
       <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
