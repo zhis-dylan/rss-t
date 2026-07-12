@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 12 Jul 2026 16:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 16:18:05 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch Mobility：一項 robotaxi 最後通牒</title>
+      <link>https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141278</guid>
+      <pubDate>Sun, 12 Jul 2026 16:07:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>歡迎回到 TechCrunch Mobility，你掌握交通運輸未來的中心，現在比以往任何時候都更能看見 AI 正在其中扮演的角色。</description>
+    </item>
     <item>
       <title>Reed Jobs 比起自己的姓氏，更願意談治癒癌症</title>
       <link>https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>第三名勒索軟體談判人員因協助一個臭名昭著的勒索軟體組織，勒索美國受害公司向駭客付款而被判入獄。</description>
-    </item>
-    <item>
-      <title>Hugging Face 執行長談為什麼公司不再租用他們的 AI</title>
-      <link>https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140997</guid>
-      <pubDate>Fri, 10 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 Hugging Face 執行長 Clem Delangue 的說法，開源 AI 正在蓬勃發展。近年來，這家公司已成長為有點像 AI 版 GitHub 的平台，AI 開發者可以在上面分享和下載開放模型與資料集，目前約有一半的《財富》500 強企業在使用。Delangue 一再看到同樣的故事重演：公司開始 […]</description>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
