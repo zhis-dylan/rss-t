@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 13 Jul 2026 18:17:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 18:32:50 GMT</lastBuildDate>
+    <item>
+      <title>蘋果對 OpenAI 提起的商業機密訴訟中最誇張的指控</title>
+      <link>https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141608</guid>
+      <pubDate>Mon, 13 Jul 2026 18:22:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>蘋果對 OpenAI 的商業機密訴訟包含一系列指控，從員工拿未經授權存取蘋果系統開玩笑，到聲稱求職者被要求帶蘋果硬體去面試。以下是這份訴狀中最吸睛的幾項指控。</description>
+    </item>
     <item>
       <title>Sam Altman 的太空資料中心嘴砲，正是多數專家早已相信的事</title>
       <link>https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/</link>
@@ -213,15 +222,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Schneider 曾擔任 Automattic 執行長，現為 True Ventures 合夥人，他表示自己對這個非傳統社群媒體平台「全力投入」了。</description>
-    </item>
-    <item>
-      <title>Apple 控告 OpenAI 涉嫌竊取商業機密</title>
-      <link>https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141179</guid>
-      <pubDate>Fri, 10 Jul 2026 20:32:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 指控這些不當行為是由 OpenAI 的高層管理團隊所指使，包括一名曾任職多年的前員工。</description>
     </item>
     <item>
       <title>Bryson DeChambeau 與 Google Health 合作</title>
