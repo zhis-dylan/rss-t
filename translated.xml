@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 13 Jul 2026 08:56:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 09:11:40 GMT</lastBuildDate>
+    <item>
+      <title>Waze 推出新的自訂功能與更多 Gemini 更新</title>
+      <link>https://blog.google/waze/waze-updates-gemini-motorcycle-mode/</link>
+      <guid isPermaLink="false">https://blog.google/waze/waze-updates-gemini-motorcycle-mode/</guid>
+      <pubDate>Mon, 13 Jul 2026 09:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>無論你是騎機車，還是想減少語音提示，最新功能——包括 Gemini 更新——都讓你有更多彈性。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Motorcycle_hero_2_english_stati.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Motorcycle_hero_2_english_stati.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Motorcycle_hero_2_english_stati.max-600x600.format-webp.webp" alt=""></p><p>無論你是騎機車，還是想減少語音提示，最新功能——包括 Gemini 更新——都讓你有更多彈性。</p>]]></content:encoded>
+    </item>
     <item>
       <title>TechCrunch Mobility：一項 robotaxi 最後通牒</title>
       <link>https://techcrunch.com/2026/07/12/techcrunch-mobility-a-robotaxi-ultimatum/</link>
@@ -220,18 +232,6 @@
       <description>德國電信如何透過 OpenAI 轉型客服、員工工作流程、網路營運，以及語音的未來，成為 AI 原生電信業者。</description>
     </item>
     <item>
-      <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</guid>
-      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" alt=""></p><p>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</p>]]></content:encoded>
-    </item>
-    <item>
       <title>擴展廣告中的 AI 透明度</title>
       <link>https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</link>
       <guid isPermaLink="false">https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</guid>
@@ -242,6 +242,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</guid>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" alt=""></p><p>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 與美國職棒大聯盟公布 8 月「Friday Night Baseball」賽程</title>
@@ -748,18 +760,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Sustainability_Environme.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Sustainability_Environme.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Sustainability_Environme.max-600x600.format-webp.webp" alt=""></p><p>今天，我們發布第 11 份環境報告，提供我們 2025 年永續發展表現的整體概覽。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>開始使用 Nano Banana 2 Lite 和 Gemini Omni Flash 進行開發</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/</guid>
-      <pubDate>Tue, 30 Jun 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Nano Banana 2 Lite 擴展你的創意，這是我們速度最快、成本效益最高的 Gemini 圖像模型，以及 Gemini Omni Flash，可用於高品質影片生成和對話式…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni__keyword_v6.max-600x600.format-webp.webp" alt=""></p><p>使用 Nano Banana 2 Lite 擴展你的創意，這是我們速度最快、成本效益最高的 Gemini 圖像模型，以及 Gemini Omni Flash，可用於高品質影片生成和對話式…</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 的推論軟體堆疊如何實現最低的 token 成本</title>
