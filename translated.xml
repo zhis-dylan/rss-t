@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 13 Jul 2026 12:28:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 12:43:42 GMT</lastBuildDate>
+    <item>
+      <title>Uber 的 robotaxi 遊說行動讓它與 Waymo 走上對撞軌道</title>
+      <link>https://techcrunch.com/2026/07/13/ubers-robotaxi-lobbying-effort-has-put-it-on-a-collision-course-with-waymo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141417</guid>
+      <pubDate>Mon, 13 Jul 2026 12:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>華盛頓特區已成為 Uber 和 Waymo 對立觀點的戰場。</description>
+    </item>
     <item>
       <title>Meta 擴建路易斯安那州資料中心，教師與當地企業受惠</title>
       <link>https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/</link>
@@ -225,15 +234,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>歐盟執委會表示，這家科技巨頭因聚焦於無限捲動、自動播放、推播通知，以及高度個人化的推薦演算法等功能，而違反了《數位服務法》.</description>
-    </item>
-    <item>
-      <title>協助勒索軟體幫派勒索美國公司的佛州勒索軟體談判人員遭定罪</title>
-      <link>https://techcrunch.com/2026/07/10/florida-ransomware-negotiator-convicted-for-helping-ransomware-gang-extort-us-companies/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140978</guid>
-      <pubDate>Fri, 10 Jul 2026 14:11:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>第三名勒索軟體談判人員因協助一個臭名昭著的勒索軟體組織，勒索美國受害公司向駭客付款而被判入獄。</description>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
