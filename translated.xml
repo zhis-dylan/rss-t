@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 13 Jul 2026 15:30:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 15:45:37 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 開始為印度在地化 Claude 定價，印度是其繼美國之後最大的市場</title>
+      <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141549</guid>
+      <pubDate>Mon, 13 Jul 2026 15:34:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>印度的 Claude 使用者開始看到以印度盧比計價的訂閱方案。</description>
+    </item>
     <item>
       <title>SpaceX 在 5 月助推器故障後獲准再次發射 Starship</title>
       <link>https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/</link>
@@ -213,15 +222,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" alt=""></p><p>職業高爾夫球選手 Bryson DeChambeau 與 Google Health 合作，使用 Fitbit Air 追蹤體能指標，將數據驅動的運動訓練帶入日常健康例行…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Dumb Co 挑戰我把 iPhone 換成一支被破解的掀蓋手機</title>
-      <link>https://techcrunch.com/2026/07/10/dumb-co-dared-me-to-trade-my-iphone-for-a-hacked-flip-phone/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141021</guid>
-      <pubDate>Fri, 10 Jul 2026 16:06:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Dumb Co 販售可與你的智慧型手機同步的掀蓋手機，連結 iPhone 的無限連線能力與 2000 年代初期遺留裝置那種不切實際的限制。</description>
     </item>
     <item>
       <title>這是如何在 Gemini app 中建立學習筆記本。</title>
