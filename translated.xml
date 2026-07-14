@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 14 Jul 2026 22:17:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:32:59 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的第一款硬體裝置據報是一款沒有螢幕、可以移動的揚聲器</title>
+      <link>https://techcrunch.com/2026/07/14/openais-first-hardware-device-is-reportedly-a-screenless-speaker-that-can-move/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142378</guid>
+      <pubDate>Tue, 14 Jul 2026 22:22:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 的第一款硬體裝置據報是一款沒有螢幕、由 AI 引導的智慧揚聲器，而且可以移動。夠怪了吧？</description>
+    </item>
     <item>
       <title>OpenAI 反擊 Apple 的營業秘密訴訟</title>
       <link>https://techcrunch.com/2026/07/14/openai-pushes-back-on-apple-trade-secret-lawsuit/</link>
@@ -269,15 +278,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp" alt=""></p><p>看看 Google DeepMind 的 AI 技術如何在我們的新迷你紀錄片中重建比利 1959 年在 Rua Javari 的傳奇失落進球。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>大衛・貝克漢的健康飲品新創 IM8 從 General Catalyst 非比尋常的 CVF 基金拿到 10 億美元</title>
-      <link>https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141781</guid>
-      <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>General Catalyst 的 Customer Value Fund 不做股權投資。它正為 IM8 提供 10 億美元；IM8 以其長壽維他命飲品聞名。</description>
     </item>
     <item>
       <title>如何在 agentic 時代管理 AI 投資</title>
