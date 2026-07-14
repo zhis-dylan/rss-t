@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 14 Jul 2026 18:30:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:45:48 GMT</lastBuildDate>
+    <item>
+      <title>Google 面臨來自大型出版商的另一宗 AI 訓練訴訟</title>
+      <link>https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142189</guid>
+      <pubDate>Tue, 14 Jul 2026 18:33:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Hachette、Cengage、Elsevier 和其他出版商指控 Google 在未取得必要授權的情況下，使用受著作權保護的作品訓練其 AI。</description>
+    </item>
     <item>
       <title>DeepMind 執行長呼籲成立獨立標準機構來監管前沿 AI</title>
       <link>https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/</link>
@@ -278,15 +287,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>該公司正在募資至少 7,500 萬美元，由 Robot 領投，USV 和其他知名投資人也有大幅參與。</description>
-    </item>
-    <item>
-      <title>Satya Nadella 向使用 AI 的公司發出驚人警告</title>
-      <link>https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141632</guid>
-      <pubDate>Mon, 13 Jul 2026 20:59:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在週一一篇令人意外的部落格文章中，Microsoft 執行長警告企業使用 Anthropic 和 OpenAI 等專有模型的風險。</description>
     </item>
     <item>
       <title>透過影片廣告活動群組，在各廣告活動間最佳化觸及率與曝光頻率。</title>
