@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 14 Jul 2026 12:56:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 13:12:05 GMT</lastBuildDate>
+    <item>
+      <title>重建比利「失落」的進球</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/</guid>
+      <pubDate>Tue, 14 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看 Google DeepMind 的 AI 技術如何在我們的新迷你紀錄片中重建比利 1959 年在 Rua Javari 的傳奇失落進球。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp" alt=""></p><p>看看 Google DeepMind 的 AI 技術如何在我們的新迷你紀錄片中重建比利 1959 年在 Rua Javari 的傳奇失落進球。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Pinwheel 推出一款復古風格的兒童市話電話</title>
       <link>https://techcrunch.com/2026/07/14/pinwheel-launches-a-retro-inspired-landline-phone-for-kids/</link>
@@ -737,18 +749,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/260701_ICYMI-June-AI_Thumb.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 於 2026 年 6 月發布的最新 AI 更新。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Maps 在紐西蘭有了真實的新聲音</title>
-      <link>https://blog.google/products-and-platforms/products/maps/te-reo-maori/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/te-reo-maori/</guid>
-      <pubDate>Wed, 01 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>這個新聲音以紐西蘭口音說英語，同時能準確發音原住民地名。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/New_Zealand_Maps_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/New_Zealand_Maps_hero_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/New_Zealand_Maps_hero_1.max-600x600.format-webp.webp" alt=""></p><p>這個新聲音以紐西蘭口音說英語，同時能準確發音原住民地名。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 與合作夥伴在美國打造，為美國打造</title>
