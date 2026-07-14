@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 14 Jul 2026 15:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 15:28:41 GMT</lastBuildDate>
+    <item>
+      <title>紐約州暫停所有新資料中心的建設</title>
+      <link>https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142131</guid>
+      <pubDate>Tue, 14 Jul 2026 15:17:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>紐約已成為第一個暫時停止大型資料中心核准的州，州長 Kathy Hochul 表示，AI 驅動的建設熱潮不應以更高的電費、水資源供應或地方控制權為代價。</description>
+    </item>
+    <item>
+      <title>報告指出，伊朗濫用行動網路漏洞來定位美國在中東的軍隊</title>
+      <link>https://techcrunch.com/2026/07/14/iran-abused-mobile-networks-vulnerabilities-to-locate-u-s-military-in-the-middle-east-report-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142118</guid>
+      <pubDate>Tue, 14 Jul 2026 15:14:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>伊朗政府利用手機網路中眾所周知的缺陷，先定位美軍人員，並在戰爭醞釀與初期對其發動攻擊。</description>
+    </item>
     <item>
       <title>為什麼每瓦效能是 AI 基礎設施效率的終極指標</title>
       <link>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</link>
@@ -224,24 +242,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>General Fusion 在一樁反向併購後於 Nasdaq 開始交易，該交易出現大量贖回。</description>
-    </item>
-    <item>
-      <title>12 個州提起訴訟，阻止派拉蒙 1100 億美元的華納兄弟交易</title>
-      <link>https://techcrunch.com/2026/07/13/12-states-sue-to-block-paramounts-110b-warner-bros-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141594</guid>
-      <pubDate>Mon, 13 Jul 2026 17:00:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這些州主張，這筆交易將損害電影院、有線電視基本頻道分銷商以及觀眾。</description>
-    </item>
-    <item>
-      <title>AI 應該幫你逃過殺害配偶的罪責嗎？</title>
-      <link>https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141477</guid>
-      <pubDate>Mon, 13 Jul 2026 16:31:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一個完全與使用者對齊的 AI 世界，實際上會是什麼樣子？</description>
     </item>
     <item>
       <title>透過影片廣告活動群組，在各廣告活動間最佳化觸及率與曝光頻率。</title>
