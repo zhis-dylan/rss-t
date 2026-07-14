@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 14 Jul 2026 04:22:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 04:38:07 GMT</lastBuildDate>
+    <item>
+      <title>Gemini 如何說出東南亞的語言</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/</guid>
+      <pubDate>Tue, 14 Jul 2026 04:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>多虧 Gemini 對在地語言的流利掌握，以及該地區以行動裝置為先的人口結構，Gemini 正在東南亞迅速普及。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SEA_Report_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SEA_Report_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SEA_Report_.max-600x600.format-webp.webp" alt=""></p><p>多虧 Gemini 對在地語言的流利掌握，以及該地區以行動裝置為先的人口結構，Gemini 正在東南亞迅速普及。</p>]]></content:encoded>
+    </item>
     <item>
       <title>已經很有錢、已經很成功，為什麼上一波科技贏家又開始拚了</title>
       <link>https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/</link>
@@ -749,18 +761,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg" alt=""></p><p>NVIDIA 及其合作夥伴正在投資美國製造業、供應鏈、能源電網與技術熟練的勞動力，讓美國能夠生產所需的基礎設施，以改善醫療保健、促成科學上的突破性發現、提升工業生產力，並維持全球科技領導地位。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini Spark 更新：macOS 推出、連結應用程式等更多功能</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/</guid>
-      <pubDate>Tue, 30 Jun 2026 21:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>最新的 Gemini Spark 更新將 Spark 帶到 macOS 應用程式，連結你最喜愛的應用程式，並即時追蹤主題。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Spark.max-600x600.format-webp.webp" alt=""></p><p>最新的 Gemini Spark 更新將 Spark 帶到 macOS 應用程式，連結你最喜愛的應用程式，並即時追蹤主題。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA BioNeMo Agent Toolkit 為 Claude Science 中的生命科學研究人員帶來加速 AI</title>
