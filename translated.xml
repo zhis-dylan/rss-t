@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 14 Jul 2026 14:43:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:58:18 GMT</lastBuildDate>
+    <item>
+      <title>我要勸你不要買 RingConn 3（雖然它真的很好看）</title>
+      <link>https://techcrunch.com/2026/07/14/ringconn-3-review/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141808</guid>
+      <pubDate>Tue, 14 Jul 2026 14:45:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>RingConn 3 看起來真的像珠寶，不像穿戴式裝置——但它的健身追蹤和頭痛偵測功能令人失望。</description>
+    </item>
     <item>
       <title>Reflection 與 Nebius 簽下 10 億美元運算合約</title>
       <link>https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/</link>
@@ -71,6 +80,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp" alt=""></p><p>看看 Google DeepMind 的 AI 技術如何在我們的新迷你紀錄片中重建比利 1959 年在 Rua Javari 的傳奇失落進球。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>大衛・貝克漢的健康飲品新創 IM8 從 General Catalyst 非比尋常的 CVF 基金拿到 10 億美元</title>
+      <link>https://techcrunch.com/2026/07/14/david-beckhams-health-drink-startup-im8-takes-1b-from-general-catalysts-unusual-cvf-fund/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141781</guid>
+      <pubDate>Tue, 14 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>General Catalyst 的 Customer Value Fund 不做股權投資。它正為 IM8 提供 10 億美元；IM8 以其長壽維他命飲品聞名。</description>
     </item>
     <item>
       <title>Pinwheel 推出一款復古風格的兒童市話電話</title>
@@ -224,24 +242,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Reach_and_Frequency_UI_Nb3ub0t.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Reach_and_Frequency_UI_Nb3ub0t.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Reach_and_Frequency_UI_Nb3ub0t.max-600x600.format-webp.webp" alt=""></p><p>在維持各別廣告活動設定的同時，協調各廣告活動間的觸及率與曝光頻率。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>隨著電視追蹤 app TV Time 關閉，其創辦人打造 Bingers，成為粉絲的新去處</title>
-      <link>https://techcrunch.com/2026/07/13/as-tv-tracking-app-tv-time-shuts-down-its-founder-builds-bingers-a-new-home-for-fans/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141543</guid>
-      <pubDate>Mon, 13 Jul 2026 15:49:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TV Time 的創辦人正在打造一款接班 app，讓使用者匯入自己的觀影紀錄，並保留原本圍繞著討論最愛影集而形成的社群。</description>
-    </item>
-    <item>
-      <title>Anthropic 開始為印度在地化 Claude 定價，印度是其繼美國之後最大的市場</title>
-      <link>https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141549</guid>
-      <pubDate>Mon, 13 Jul 2026 15:34:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>印度的 Claude 使用者開始看到以印度盧比計價的訂閱方案。</description>
     </item>
     <item>
       <title>Meta 擴建路易斯安那州資料中心，教師與當地企業受惠</title>
@@ -838,15 +838,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>新的 OpenAI Signals 資料顯示 ChatGPT 的採用正在全球成長，使用者持續增加使用量、探索更多功能，並帶動各地區與語言的成長。</description>
     </item>
     <item>
-      <title>Genebench-Pro 內部</title>
-      <link>https://openai.com/index/genebench-pro/case-studies</link>
-      <guid isPermaLink="false">https://openai.com/index/genebench-pro/case-studies</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description/>
-    </item>
-    <item>
       <title>介紹 GeneBench-Pro</title>
       <link>https://openai.com/index/introducing-genebench-pro</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro</guid>
@@ -854,6 +845,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>介紹 GeneBench-Pro，一個新的基準測試，使用複雜的真實世界資料集來測試 AI 在基因組學、生物學和科學研究方面的表現。</description>
+    </item>
+    <item>
+      <title>Genebench-Pro 內部</title>
+      <link>https://openai.com/index/genebench-pro/case-studies</link>
+      <guid isPermaLink="false">https://openai.com/index/genebench-pro/case-studies</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description/>
     </item>
     <item>
       <title>核心傾印流行病學：修復一個 18 年的舊錯誤</title>
