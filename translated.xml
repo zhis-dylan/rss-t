@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 14 Jul 2026 14:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:43:06 GMT</lastBuildDate>
+    <item>
+      <title>Reflection 與 Nebius 簽下 10 億美元運算合約</title>
+      <link>https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141991</guid>
+      <pubDate>Tue, 14 Jul 2026 14:37:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Reflection AI 已簽署一項 10 億美元的合約，以使用 Nebius 的運算資源。Reflection 成立於 2024 年，正在開發開源 AI 技術。</description>
+    </item>
     <item>
       <title>真正的 AI 競賽或許不再是在前沿</title>
       <link>https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/</link>
@@ -233,15 +242,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>印度的 Claude 使用者開始看到以印度盧比計價的訂閱方案。</description>
-    </item>
-    <item>
-      <title>SpaceX 在 5 月助推器故障後獲准再次發射 Starship</title>
-      <link>https://techcrunch.com/2026/07/13/spacex-cleared-to-fly-starship-again-after-booster-failure-in-may/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141469</guid>
-      <pubDate>Mon, 13 Jul 2026 14:19:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這將是 SpaceX 作為上市公司後的首次 Starship 測試飛行，測試市場對這家公司「飛、失敗、修正」火箭開發方式的接受度，而這種方式往往以火球收場。</description>
     </item>
     <item>
       <title>Meta 擴建路易斯安那州資料中心，教師與當地企業受惠</title>
