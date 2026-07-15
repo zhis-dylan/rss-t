@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 18:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 18:58:40 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 修補《世紀帝國 II》電玩中的漏洞</title>
+      <link>https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142935</guid>
+      <pubDate>Wed, 15 Jul 2026 18:47:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這款有數十年歷史的遊戲中的漏洞，可能讓駭客透過惡意的遊戲邀請接管受害者的電腦。</description>
+    </item>
     <item>
       <title>Apple 悄悄揭露其地圖廣告將如何與 Google 的不同</title>
       <link>https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</link>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這位 TCP/IP 背後的人正在制定一項用於辨識野外 AI 代理的標準。</description>
-    </item>
-    <item>
-      <title>為什麼 Realta Fusion 要在一家老舊熱狗工廠打造聚變反應爐</title>
-      <link>https://techcrunch.com/2026/07/15/why-realta-fusion-is-building-a-fusion-reactor-at-an-old-hot-dog-factory/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142356</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>威斯康辛州的一家舊 Oscar Meyer 工廠將成為美國最新的聚變發電研究與開發中心。</description>
     </item>
     <item>
       <title>NVIDIA 與日本將全堆疊 AI 和機器人帶進每個產業</title>
