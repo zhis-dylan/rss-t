@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 15:26:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:41:24 GMT</lastBuildDate>
+    <item>
+      <title>據報 Stripe 和 Advent 提出以約 534 億美元收購 PayPal</title>
+      <link>https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142780</guid>
+      <pubDate>Wed, 15 Jul 2026 15:30:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報 Stripe 與私募股權公司 Advent International 已提交一項聯合出價，擬以約 534 億美元收購 PayPal。路透社報導，這項報價已於本月較早時提出，並有約 500 億美元的已承諾銀行融資支持。根據這項提案，Stripe 與 Advent 將共同持有 PayPal，[…]</description>
+    </item>
+    <item>
+      <title>搭載阿里巴巴 Qwen AI 的 Apple Intelligence 已獲准在中國推出</title>
+      <link>https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142774</guid>
+      <pubDate>Wed, 15 Jul 2026 15:29:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple Intelligence 即將進入中國，因為監管機構已透過與阿里巴巴的合作批准蘋果的 AI 服務。這項傳聞已久的合作將把阿里巴巴的 Qwen AI 模型帶到蘋果的作業系統，標誌著這家公司的生成式 AI 平台大幅擴展到其最重要的市場之一。</description>
+    </item>
     <item>
       <title>美國職業足球大聯盟明天回歸 Apple TV</title>
       <link>https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</link>
@@ -212,24 +230,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anthropic 的最新廣告掀起了強烈情緒——而這無疑正是它的設計目的。</description>
-    </item>
-    <item>
-      <title>Hinge 創辦人募得 1800 萬美元，打造新的 AI 約會服務 Overtone</title>
-      <link>https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142228</guid>
-      <pubDate>Tue, 14 Jul 2026 19:39:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Overtone 將自己描述為「一項以語音和音訊為主、由 AI 驅動的服務，提供高度精選的介紹。」</description>
-    </item>
-    <item>
-      <title>Lucid Motors否認考慮破產的報導</title>
-      <link>https://techcrunch.com/2026/07/14/lucid-motors-denies-report-its-considering-bankruptcy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142223</guid>
-      <pubDate>Tue, 14 Jul 2026 18:47:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司表示，在其股價因一篇報導而暴跌超過50%後，這些「傳聞完全不實」，該報導稱公司正在考慮這個選項。</description>
     </item>
     <item>
       <title>Nemotron Labs：開放模型如何為企業和國家帶來可信任、可控制且可自訂的 AI</title>
