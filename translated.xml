@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 12:54:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:09:50 GMT</lastBuildDate>
+    <item>
+      <title>Rime 獲得 2400 萬美元 A 輪融資，協助企業接聽客服來電</title>
+      <link>https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142237</guid>
+      <pubDate>Wed, 15 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Rime 每個月在多家公司間處理超過 1 億通電話</description>
+    </item>
+    <item>
+      <title>Reelful 的 AI 會把你的相簿轉成適合社群媒體的短影音</title>
+      <link>https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142243</guid>
+      <pubDate>Wed, 15 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這款 app 是為想要創作社群內容，但覺得傳統影片編輯工具太複雜或太耗時的人所設計。</description>
+    </item>
     <item>
       <title>印度 AI 程式碼新創公司 Emergent 以 1.3 億美元 C 輪融資躍升為獨角獸</title>
       <link>https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/</link>
@@ -239,24 +257,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 圖片即將滿 25 週年。這裡回顧一些重要里程碑，以及探索和創造視覺內容的新方式。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 圖片獲得類似 Pinterest 的重新設計，聚焦探索</title>
-      <link>https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141998</guid>
-      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>現在，當使用者前往 Google 圖片時，會看到一個依據他們的興趣和瀏覽紀錄量身打造的「為你推薦」圖片圖庫。</description>
-    </item>
-    <item>
-      <title>紐約州暫停所有新資料中心的建設</title>
-      <link>https://techcrunch.com/2026/07/14/new-york-state-halts-construction-of-all-new-data-centers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142131</guid>
-      <pubDate>Tue, 14 Jul 2026 15:17:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>紐約已成為第一個暫時停止大型資料中心核准的州，州長 Kathy Hochul 表示，AI 驅動的建設熱潮不應以更高的電費、水資源供應或地方控制權為代價。</description>
     </item>
     <item>
       <title>為什麼每瓦效能是 AI 基礎設施效率的終極指標</title>
