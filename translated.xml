@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:28:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 19:44:04 GMT</lastBuildDate>
+    <item>
+      <title>在硬體法律戰中，OpenAI 為 Codex 推出一款 230 美元的鍵盤</title>
+      <link>https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142831</guid>
+      <pubDate>Wed, 15 Jul 2026 19:41:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正陷於與 Apple 就硬體竊取商業機密指控的法律戰中，剛推出了一款會發光的鍵盤，設計上是要搭配其 agentic coding app 使用。</description>
+    </item>
     <item>
       <title>Microsoft 修補《世紀帝國 II》電玩中的漏洞</title>
       <link>https://techcrunch.com/2026/07/15/microsoft-patches-bug-in-video-game-age-of-empires-ii/</link>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家新創公司的年化營收運行率已達 1.2 億美元，付費客戶超過 20 萬名。</description>
-    </item>
-    <item>
-      <title>Vint Cerf 正在制定一項讓 AI 代理進入開放網際網路的計畫</title>
-      <link>https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142184</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這位 TCP/IP 背後的人正在制定一項用於辨識野外 AI 代理的標準。</description>
     </item>
     <item>
       <title>NVIDIA 與日本將全堆疊 AI 和機器人帶進每個產業</title>
