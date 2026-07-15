@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 18:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 18:28:18 GMT</lastBuildDate>
+    <item>
+      <title>Apple 悄悄揭露其地圖廣告將如何與 Google 的不同</title>
+      <link>https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142829</guid>
+      <pubDate>Wed, 15 Jul 2026 18:21:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 已公布即將推出的地圖廣告業務所適用的政策，揭示出一項與 Google 不同的策略。這些新規則禁止水電工、電工、鎖匠和屋頂工等家居服務業者在 Apple Maps 上投放廣告，也禁止其他幾個敏感類別，顯示 Apple 對這些廣告採取的是更精選的做法。</description>
+    </item>
     <item>
       <title>SpaceX 在 Starship 發射前跌破 135 美元 IPO 價格</title>
       <link>https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/</link>
@@ -86,15 +95,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple Intelligence 即將進入中國，因為監管機構已透過與阿里巴巴的合作批准蘋果的 AI 服務。這項傳聞已久的合作將把阿里巴巴的 Qwen AI 模型帶到蘋果的作業系統，標誌著這家公司的生成式 AI 平台大幅擴展到其最重要的市場之一。</description>
-    </item>
-    <item>
-      <title>與 Anthropic 一起走進 Ode：這家新創公司押注 AI 服務將是企業的未來</title>
-      <link>https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3142876</guid>
-      <pubDate>Wed, 15 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>少數幾位工程師真的能做出一支顧問大軍的工作嗎？這就是 Ode with Anthropic 背後的賭注——這家合資企業致力於把前線部署工程師嵌入企業公司，獲得 Anthropic、Blackstone、Hellman &amp; Friedman、Goldman Sachs 等支持。在本集 TechCrunch 的 Equity podcast 中，Rebecca Bellan 與 Ode 的領導者 Chris Taylor 和 Eddie Siegel 坐下聊聊；兩人創辦了 Fractional AI，[…]</description>
     </item>
     <item>
       <title>美國職業足球大聯盟明天回歸 Apple TV</title>
@@ -194,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>威斯康辛州的一家舊 Oscar Meyer 工廠將成為美國最新的聚變發電研究與開發中心。</description>
-    </item>
-    <item>
-      <title>在 6000 萬美元融資支持下，Oak 結束隱身模式，著手修補 AI 代理讓身分管理更加混亂的問題</title>
-      <link>https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141713</guid>
-      <pubDate>Wed, 15 Jul 2026 11:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由資深創業家 Shai Morag 共同創立的以色列身分管理新創公司 Oak，正帶著 6000 萬美元種子輪資金走出隱身模式。</description>
     </item>
     <item>
       <title>NVIDIA 與日本將全堆疊 AI 和機器人帶進每個產業</title>
