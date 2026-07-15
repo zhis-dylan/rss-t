@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 17:57:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 18:13:08 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 在 Starship 發射前跌破 135 美元 IPO 價格</title>
+      <link>https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3135290</guid>
+      <pubDate>Wed, 15 Jul 2026 18:06:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這檔股票已經穩定從 IPO 後的狂熱高點回落，顯示市場可能正在對執行長 Elon Musk 在 SpaceX 上市前後所做的承諾降溫。</description>
+    </item>
+    <item>
+      <title>Thinking Machines 以首個開放模型 Inkling，加碼押注反對一體適用的 AI</title>
+      <link>https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142329</guid>
+      <pubDate>Wed, 15 Jul 2026 18:04:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是該公司在花了一年半時間、主要在大眾視野之外打造 AI 基礎設施後，首次對外公開的證明。</description>
+    </item>
     <item>
       <title>手機製造商 OnePlus 據報計劃縮減美國與歐洲業務</title>
       <link>https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/</link>
@@ -68,6 +86,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple Intelligence 即將進入中國，因為監管機構已透過與阿里巴巴的合作批准蘋果的 AI 服務。這項傳聞已久的合作將把阿里巴巴的 Qwen AI 模型帶到蘋果的作業系統，標誌著這家公司的生成式 AI 平台大幅擴展到其最重要的市場之一。</description>
+    </item>
+    <item>
+      <title>與 Anthropic 一起走進 Ode：這家新創公司押注 AI 服務將是企業的未來</title>
+      <link>https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3142876</guid>
+      <pubDate>Wed, 15 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>少數幾位工程師真的能做出一支顧問大軍的工作嗎？這就是 Ode with Anthropic 背後的賭注——這家合資企業致力於把前線部署工程師嵌入企業公司，獲得 Anthropic、Blackstone、Hellman &amp; Friedman、Goldman Sachs 等支持。在本集 TechCrunch 的 Equity podcast 中，Rebecca Bellan 與 Ode 的領導者 Chris Taylor 和 Eddie Siegel 坐下聊聊；兩人創辦了 Fractional AI，[…]</description>
     </item>
     <item>
       <title>美國職業足球大聯盟明天回歸 Apple TV</title>
@@ -190,15 +217,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/8d5d44e4ba7487845368c6beab8b91ea/6a5766433d633216108a381c_IMG_7018-scaled-e1784111533455-842x450/IMG_7018-scaled-e1784111533455-842x450_thmb.jpg" alt=""></p><p>日本是領先製造商、機器人先驅和基礎設施建設者的聚集地之一，也是全球 AI 的中心之一——以 NVIDIA 技術打造完整堆疊。NVIDIA 與其在日本的合作夥伴本週正在展示 AI 生態系統的最新進展。請回來這裡查看更新。NVIDIA 和 SEGA 慶祝 30 年的 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>一位 SpaceX 老將募得 6500 萬美元，要把線束從冷戰時代解放出來</title>
-      <link>https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142335</guid>
-      <pubDate>Wed, 15 Jul 2026 10:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>總得有人把所有要接到火箭、飛彈和衛星上的電線束整合起來。</description>
-    </item>
-    <item>
       <title>GPT-Red：解鎖強健性的自我改進</title>
       <link>https://openai.com/index/unlocking-self-improvement-gpt-red</link>
       <guid isPermaLink="false">https://openai.com/index/unlocking-self-improvement-gpt-red</guid>
@@ -206,24 +224,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索 GPT-Red，OpenAI 的自動化紅隊測試系統，運用自我對弈來提升 AI 安全性、對齊性，以及對提示注入的強健性。</description>
-    </item>
-    <item>
-      <title>OpenAI 研究員 Miles Wang 傳將創立 AI 藥物發現新創公司，估值達 20 億美元</title>
-      <link>https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142345</guid>
-      <pubDate>Wed, 15 Jul 2026 00:27:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Lightspeed 正在討論領投這輪融資，知情人士表示。</description>
-    </item>
-    <item>
-      <title>Lorde 說 AI 眼鏡「不性感」</title>
-      <link>https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142316</guid>
-      <pubDate>Tue, 14 Jul 2026 23:10:02 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「在我們的世界裡，越來越難知道什麼是真的，」Lorde 在台上說。</description>
     </item>
     <item>
       <title>為你的 Pixel 9 或 10 投保 Pixel Care+ 還不算太晚。</title>
