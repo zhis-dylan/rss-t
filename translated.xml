@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 14:25:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 14:40:43 GMT</lastBuildDate>
+    <item>
+      <title>印度押注數十億美元，打破中國對智慧型手機製造的掌控</title>
+      <link>https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142747</guid>
+      <pubDate>Wed, 15 Jul 2026 14:39:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新德里宣布一項 65 億美元的智慧型手機製造計畫，以及一項 133 億美元的半導體推動計畫，以深化印度的電子供應鏈。</description>
+    </item>
     <item>
       <title>美國起訴俄羅斯「bulletproof」網路主機，指其涉及網攻，從網路犯罪受害者手中獲利 6200 萬美元</title>
       <link>https://techcrunch.com/2026/07/15/us-charges-russian-bulletproof-web-hosts-over-cyberattacks-that-netted-62m-from-cybercrime-victims/</link>
@@ -212,15 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Hachette、Cengage、Elsevier 和其他出版商指控 Google 在未取得必要授權的情況下，使用受著作權保護的作品訓練其 AI。</description>
-    </item>
-    <item>
-      <title>DeepMind 執行長呼籲成立獨立標準機構來監管前沿 AI</title>
-      <link>https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142153</guid>
-      <pubDate>Tue, 14 Jul 2026 17:45:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>DeepMind 執行長 Demis Hassabis 提議建立一個仿照 FINRA 的 AI「標準機構」，用來測試前沿模型並制定其發布的最佳實務。</description>
     </item>
     <item>
       <title>Nemotron Labs：開放模型如何為企業和國家帶來可信任、可控制且可自訂的 AI</title>
