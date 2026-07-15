@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 23:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 23:16:01 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 推出全新 Jetson Thor 電腦，加速主流機器人與邊緣 AI 發展</title>
+      <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</guid>
+      <pubDate>Wed, 15 Jul 2026 23:00:54 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>通用型機器人與自主機器正從研究實驗室走向真實世界的量產部署，帶動對可在邊緣執行基礎模型的精巧、節能 AI 超級電腦需求。為了滿足這項需求，NVIDIA 今日推出基於 NVIDIA Thor 架構的新模組 T3000 與 T2000，可支援量產機器人與邊緣 AI […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg" alt=""></p><p>通用型機器人與自主機器正從研究實驗室走向真實世界的量產部署，帶動對可在邊緣執行基礎模型的精巧、節能 AI 超級電腦需求。為了滿足這項需求，NVIDIA 今日推出基於 NVIDIA Thor 架構的新模組 T3000 與 T2000，可支援量產機器人與邊緣 AI […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>日本企業與新創以 NVIDIA Nemotron 開放模型打造產業專用 AI</title>
+      <link>https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models</guid>
+      <pubDate>Wed, 15 Jul 2026 23:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布，領先的日本企業、新創與研究機構正運用 NVIDIA Nemotron™ 開放模型、資料與程式庫，打造產業專用的 AI 模型與應用，加速開發符合日本語言、產業與勞動力需求的 AI。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png" alt=""></p><p>NVIDIA 今日宣布，領先的日本企業、新創與研究機構正運用 NVIDIA Nemotron™ 開放模型、資料與程式庫，打造產業專用的 AI 模型與應用，加速開發符合日本語言、產業與勞動力需求的 AI。</p>]]></content:encoded>
+    </item>
     <item>
       <title>特斯拉駕駛在德州致命車禍中將油門踩到底 100%，NTSB 證實</title>
       <link>https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/</link>
@@ -965,18 +989,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg" alt=""></p><p></p>]]></content:encoded>
     </item>
     <item>
-      <title>開放模型，封閉環境：Palantir 以 NVIDIA Nemotron 將安全 AI 帶給美國政府機構</title>
-      <link>https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/palantir-secure-ai-us-agencies-nemotron-open-models/</guid>
-      <pubDate>Mon, 29 Jun 2026 10:59:38 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>展現開源創新在美國 AI 產業中的重要性，Palantir 今天推出的新智慧引擎使用 NVIDIA Nemotron 開放模型來滿足美國政府機構的需求。開源軟體長期以來一直是美國科技領導地位的支柱。1969 年，DARPA 將四台大學電腦連接起來——分別來自 UCLA、Stanford、UCSB […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/906958b95c44a8eecd4161502132d7a9/6a42502c3d6332172b2c246a_open-source-software-crop1-scaled/open-source-software-crop1-scaled_thmb.jpg" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/906958b95c44a8eecd4161502132d7a9/6a42502c3d6332172b2c246a_open-source-software-crop1-scaled/open-source-software-crop1-scaled_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/906958b95c44a8eecd4161502132d7a9/6a42502c3d6332172b2c246a_open-source-software-crop1-scaled/open-source-software-crop1-scaled_thmb.jpg" alt=""></p><p>展現開源創新在美國 AI 產業中的重要性，Palantir 今天推出的新智慧引擎使用 NVIDIA Nemotron 開放模型來滿足美國政府機構的需求。開源軟體長期以來一直是美國科技領導地位的支柱。1969 年，DARPA 將四台大學電腦連接起來——分別來自 UCLA、Stanford、UCSB […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>描繪歐洲 AI 勞動力機會</title>
       <link>https://openai.com/index/mapping-ai-jobs-transition-eu</link>
       <guid isPermaLink="false">https://openai.com/index/mapping-ai-jobs-transition-eu</guid>
@@ -1015,18 +1027,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 預覽 GPT-5.6 Sol，這是一個在程式設計、科學和資安方面具備更強能力的下一代模型，並搭配其最先進的安全防護堆疊。</description>
-    </item>
-    <item>
-      <title>終極夏季特賣組合：Steam 特賣遇上 GeForce NOW 折扣</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-steam-summer-sale-2026/</guid>
-      <pubDate>Thu, 25 Jun 2026 13:00:34 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>夏季省錢優惠正在升溫。從 Steam 夏季特賣到 GeForce NOW 會員折扣，本週的 GFN Thursday 帶來雙重優惠，讓你在雲端遊戲中獲得更多價值。此外，Dark Scrolls 加入不斷成長的 Devolver 陣容，還有 Square Enix 的 The Adventures of Elliot: The Millennium Tales。它們領銜了 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/96a72013b6b4d41f92b9dfe2856818eb/6a3d26c23d63320ffc07c8db_gfn-thursday-6-25-no-copy-kv-1536x920-1-842x450/gfn-thursday-6-25-no-copy-kv-1536x920-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/96a72013b6b4d41f92b9dfe2856818eb/6a3d26c23d63320ffc07c8db_gfn-thursday-6-25-no-copy-kv-1536x920-1-842x450/gfn-thursday-6-25-no-copy-kv-1536x920-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/96a72013b6b4d41f92b9dfe2856818eb/6a3d26c23d63320ffc07c8db_gfn-thursday-6-25-no-copy-kv-1536x920-1-842x450/gfn-thursday-6-25-no-copy-kv-1536x920-1-842x450_thmb.jpg" alt=""></p><p>夏季省錢優惠正在升溫。從 Steam 夏季特賣到 GeForce NOW 會員折扣，本週的 GFN Thursday 帶來雙重優惠，讓你在雲端遊戲中獲得更多價值。此外，Dark Scrolls 加入不斷成長的 Devolver 陣容，還有 Square Enix 的 The Adventures of Elliot: The Millennium Tales。它們領銜了 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>青少年、家長和教育工作者透過真實對話在新加坡掌握網路安全</title>
