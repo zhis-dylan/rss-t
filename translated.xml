@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 10:23:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 10:38:25 GMT</lastBuildDate>
+    <item>
+      <title>一位 SpaceX 老將募得 6500 萬美元，要把線束從冷戰時代解放出來</title>
+      <link>https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142335</guid>
+      <pubDate>Wed, 15 Jul 2026 10:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>總得有人把所有要接到火箭、飛彈和衛星上的電線束整合起來。</description>
+    </item>
     <item>
       <title>OpenAI 研究員 Miles Wang 傳將創立 AI 藥物發現新創公司，估值達 20 億美元</title>
       <link>https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/</link>
@@ -248,15 +257,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Hugging Face 執行長 Clem Delangue 表示，企業越來越想要開放模型，原因包括成本、可近性與所有權。如果大多數生產環境中的 AI 最後都運行在開放模型上，那麼前沿模型還重要嗎？</description>
-    </item>
-    <item>
-      <title>Telegram 的短連結網域在停擺一天後恢復上線</title>
-      <link>https://techcrunch.com/2026/07/14/telegrams-shortlink-domain-is-back-online-after-day-long-suspension/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3141930</guid>
-      <pubDate>Tue, 14 Jul 2026 14:10:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Telegram 執行長 Pavel Durov 在一則推文中證實了這次中斷，表示這款通訊 app 的短連結「已經無法運作」了。</description>
     </item>
     <item>
       <title>Madden NFL 27 Arcade Edition 將於 8 月 6 日為 Apple Arcade 帶來美式足球賽場動作</title>
