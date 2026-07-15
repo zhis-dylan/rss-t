@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 10:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 11:08:45 GMT</lastBuildDate>
+    <item>
+      <title>在 6000 萬美元融資支持下，Oak 結束隱身模式，著手修補 AI 代理讓身分管理更加混亂的問題</title>
+      <link>https://techcrunch.com/2026/07/15/backed-by-60m-in-funding-oak-steps-out-of-stealth-to-fix-the-identity-mess-that-ai-agents-are-making-worse/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3141713</guid>
+      <pubDate>Wed, 15 Jul 2026 11:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由資深創業家 Shai Morag 共同創立的以色列身分管理新創公司 Oak，正帶著 6000 萬美元種子輪資金走出隱身模式。</description>
+    </item>
+    <item>
+      <title>NVIDIA 與日本將全堆疊 AI 和機器人帶進每個產業</title>
+      <link>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/japan-ecosystem-2026/</guid>
+      <pubDate>Wed, 15 Jul 2026 10:51:37 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>日本是領先製造商、機器人先驅和基礎設施建設者的聚集地之一，也是全球 AI 的中心之一——以 NVIDIA 技術打造完整堆疊。NVIDIA 與其在日本的合作夥伴本週正在展示 AI 生態系統的最新進展。請回來這裡查看更新。NVIDIA 和 SEGA 慶祝 30 年的 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/8d5d44e4ba7487845368c6beab8b91ea/6a5766433d633216108a381c_IMG_7018-scaled-e1784111533455-842x450/IMG_7018-scaled-e1784111533455-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/8d5d44e4ba7487845368c6beab8b91ea/6a5766433d633216108a381c_IMG_7018-scaled-e1784111533455-842x450/IMG_7018-scaled-e1784111533455-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/8d5d44e4ba7487845368c6beab8b91ea/6a5766433d633216108a381c_IMG_7018-scaled-e1784111533455-842x450/IMG_7018-scaled-e1784111533455-842x450_thmb.jpg" alt=""></p><p>日本是領先製造商、機器人先驅和基礎設施建設者的聚集地之一，也是全球 AI 的中心之一——以 NVIDIA 技術打造完整堆疊。NVIDIA 與其在日本的合作夥伴本週正在展示 AI 生態系統的最新進展。請回來這裡查看更新。NVIDIA 和 SEGA 慶祝 30 年的 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>一位 SpaceX 老將募得 6500 萬美元，要把線束從冷戰時代解放出來</title>
       <link>https://techcrunch.com/2026/07/15/a-spacex-vet-raised-65m-to-pull-wire-harnesses-out-of-the-cold-war-era/</link>
@@ -248,15 +269,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Reflection AI 已簽署一項 10 億美元的合約，以使用 Nebius 的運算資源。Reflection 成立於 2024 年，正在開發開源 AI 技術。</description>
-    </item>
-    <item>
-      <title>真正的 AI 競賽或許不再是在前沿</title>
-      <link>https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142002</guid>
-      <pubDate>Tue, 14 Jul 2026 14:24:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Hugging Face 執行長 Clem Delangue 表示，企業越來越想要開放模型，原因包括成本、可近性與所有權。如果大多數生產環境中的 AI 最後都運行在開放模型上，那麼前沿模型還重要嗎？</description>
     </item>
     <item>
       <title>Madden NFL 27 Arcade Edition 將於 8 月 6 日為 Apple Arcade 帶來美式足球賽場動作</title>
@@ -1041,18 +1053,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 與 Broadcom 推出 Jalapeño，這是一款專為 LLM 推論打造的客製化 AI 晶片，旨在提升 AI 系統的效能、效率與規模。</description>
-    </item>
-    <item>
-      <title>NVIDIA 與 AWS 合作，將 AI 大規模導入正式環境</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-aws-ai-production-scale/</guid>
-      <pubDate>Wed, 24 Jun 2026 00:05:37 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>大規模建置 AI 系統是一項艱鉅任務，需要低延遲推論、快速向量搜尋、強大的 GPU 價效比，以及能夠擴展而不會成倍增加營運複雜度的基礎架構。NVIDIA 與 Amazon Web Services（AWS）最新的合作，正針對這些限制逐一提供解決方案。從 Amazon OpenSearch 到 Amazon EC2，NVIDIA AI 基礎架構正為企業提供更實際的部署途徑 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/90353e3cadbbe046575332f36e8c264d/6a3b1f753d63322be37a5edf_logo-lockup-tech-blog-aws-1920x1080-2-842x450/logo-lockup-tech-blog-aws-1920x1080-2-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/90353e3cadbbe046575332f36e8c264d/6a3b1f753d63322be37a5edf_logo-lockup-tech-blog-aws-1920x1080-2-842x450/logo-lockup-tech-blog-aws-1920x1080-2-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/90353e3cadbbe046575332f36e8c264d/6a3b1f753d63322be37a5edf_logo-lockup-tech-blog-aws-1920x1080-2-842x450/logo-lockup-tech-blog-aws-1920x1080-2-842x450_thmb.jpg" alt=""></p><p>大規模建置 AI 系統是一項艱鉅任務，需要低延遲推論、快速向量搜尋、強大的 GPU 價效比，以及能夠擴展而不會成倍增加營運複雜度的基礎架構。NVIDIA 與 Amazon Web Services（AWS）最新的合作，正針對這些限制逐一提供解決方案。從 Amazon OpenSearch 到 Amazon EC2，NVIDIA AI 基礎架構正為企業提供更實際的部署途徑 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>GPT-5 如何幫助免疫學家 Derya Unutmaz 解開一個 3 年的謎團</title>
