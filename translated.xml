@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 13:09:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 13:25:01 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic、Blackstone 押注下一個兆美元級 AI 事業將是導入實作，而不是模型</title>
+      <link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142610</guid>
+      <pubDate>Wed, 15 Jul 2026 13:10:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 Anthropic 支持下，Ode 登場；隨著 AI 實驗室押注，將前線部署工程師嵌入企業內部，是加速企業採用 AI 的關鍵。</description>
+    </item>
     <item>
       <title>Rime 獲得 2400 萬美元 A 輪融資，協助企業接聽客服來電</title>
       <link>https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/</link>
@@ -224,15 +233,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg" alt=""></p><p>企業有許多強大的模型可供選擇。真正的考驗在於，企業所打造的 AI 是否能獨特地滿足業務需求：改善工作流程、運用領域知識，並超越準確性與信任標準。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 的 Adam Mosseri 表示，AI token 預算很快可能會按每位工程師設上限</title>
-      <link>https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142125</guid>
-      <pubDate>Tue, 14 Jul 2026 16:22:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Instagram 負責人 Adam Mosseri 認為，企業最終將需要像管理薪資或其他營運費用一樣，管理 AI token 支出，並預測工程師很快就會面臨使用 AI 工具時可花費金額的限制。</description>
     </item>
     <item>
       <title>我們有史以來最大的太陽能與電池儲能專案</title>
