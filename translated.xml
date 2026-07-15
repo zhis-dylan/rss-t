@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 14:40:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 14:55:52 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 擴大將家長管理的帳戶開放給免費方案用戶</title>
+      <link>https://techcrunch.com/2026/07/15/spotify-expands-parent-managed-accounts-to-users-on-its-free-tier/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142745</guid>
+      <pubDate>Wed, 15 Jul 2026 14:42:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項功能先前僅提供給付費訂閱者。</description>
+    </item>
     <item>
       <title>印度押注數十億美元，打破中國對智慧型手機製造的掌控</title>
       <link>https://techcrunch.com/2026/07/15/india-bets-billions-on-breaking-chinas-grip-on-smartphone-manufacturing/</link>
@@ -212,15 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>該公司表示，在其股價因一篇報導而暴跌超過50%後，這些「傳聞完全不實」，該報導稱公司正在考慮這個選項。</description>
-    </item>
-    <item>
-      <title>Google 面臨來自大型出版商的另一宗 AI 訓練訴訟</title>
-      <link>https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142189</guid>
-      <pubDate>Tue, 14 Jul 2026 18:33:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Hachette、Cengage、Elsevier 和其他出版商指控 Google 在未取得必要授權的情況下，使用受著作權保護的作品訓練其 AI。</description>
     </item>
     <item>
       <title>Nemotron Labs：開放模型如何為企業和國家帶來可信任、可控制且可自訂的 AI</title>
