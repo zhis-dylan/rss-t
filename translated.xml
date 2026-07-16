@@ -5,7 +5,43 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 15:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 15:39:19 GMT</lastBuildDate>
+    <item>
+      <title>是的，你現在可以用命令列訂購 DoorDash</title>
+      <link>https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143273</guid>
+      <pubDate>Thu, 16 Jul 2026 15:38:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>DoorDash 正在開放 dd-cli 的限量 Beta 版，這是一個命令列工具，讓開發者和 AI 代理能夠在終端機中搜尋商店、建立購物車並下單，標誌著軟體朝向為 AI 代理而不只是人類設計的又一步。</description>
+    </item>
+    <item>
+      <title>英國警方表示，逮捕兩名年輕駭客擾亂了臭名昭著駭客組織的運作</title>
+      <link>https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143280</guid>
+      <pubDate>Thu, 16 Jul 2026 15:37:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Owen Flowers 和 Thalha Jubair 這兩名 Scattered Spider 駭客組織成員認罪，並因駭入倫敦地鐵系統被判處 5 年 6 個月徒刑。</description>
+    </item>
+    <item>
+      <title>經期追蹤器 Stardust 會將使用者健康資料分享給分析公司，Mozilla 研究指出</title>
+      <link>https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143294</guid>
+      <pubDate>Thu, 16 Jul 2026 15:33:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Mozilla 測試的一款經期追蹤應用程式「乾乾淨淨」，而另一款應用程式則被發現會將使用者的健康資料分享給一家分析公司，凸顯出這些應用程式在使用者隱私上存在巨大差異。</description>
+    </item>
+    <item>
+      <title>為什麼 OpenAI 要賣 ChatGPT 籃球？</title>
+      <link>https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143216</guid>
+      <pubDate>Thu, 16 Jul 2026 15:31:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>你可能已經聽說 OpenAI 這週推出了首款硬體。你可能沒聽說過 ChatGPT 籃球。</description>
+    </item>
     <item>
       <title>一位前 DeepMind 研究員如何在推出產品前，先以 3 億美元的 pre-seed 估值募資</title>
       <link>https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/</link>
@@ -227,33 +263,6 @@
       <description>這款有數十年歷史的遊戲中的漏洞，可能讓駭客透過惡意的遊戲邀請接管受害者的電腦。</description>
     </item>
     <item>
-      <title>Apple 悄悄揭露其地圖廣告將如何與 Google 的不同</title>
-      <link>https://techcrunch.com/2026/07/15/apple-quietly-reveals-how-its-maps-ads-will-differ-from-googles/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142829</guid>
-      <pubDate>Wed, 15 Jul 2026 18:21:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 已公布即將推出的地圖廣告業務所適用的政策，揭示出一項與 Google 不同的策略。這些新規則禁止水電工、電工、鎖匠和屋頂工等家居服務業者在 Apple Maps 上投放廣告，也禁止其他幾個敏感類別，顯示 Apple 對這些廣告採取的是更精選的做法。</description>
-    </item>
-    <item>
-      <title>SpaceX 在 Starship 發射前跌破 135 美元 IPO 價格</title>
-      <link>https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3135290</guid>
-      <pubDate>Wed, 15 Jul 2026 18:06:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這檔股票已經穩定從 IPO 後的狂熱高點回落，顯示市場可能正在對執行長 Elon Musk 在 SpaceX 上市前後所做的承諾降溫。</description>
-    </item>
-    <item>
-      <title>Thinking Machines 以首個開放模型 Inkling，加碼押注反對一體適用的 AI</title>
-      <link>https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142329</guid>
-      <pubDate>Wed, 15 Jul 2026 18:04:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是該公司在花了一年半時間、主要在大眾視野之外打造 AI 基礎設施後，首次對外公開的證明。</description>
-    </item>
-    <item>
       <title>手機製造商 OnePlus 據報計劃縮減美國與歐洲業務</title>
       <link>https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3142827</guid>
@@ -261,15 +270,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OnePlus 也可能在 2027 年前縮減其在印度的業務</description>
-    </item>
-    <item>
-      <title>Google 最大的潔淨能源專案距離 xAI 未經許可的燃氣發電廠北邊 40 英里</title>
-      <link>https://techcrunch.com/2026/07/15/googles-biggest-clean-power-project-is-40-miles-north-of-xais-unpermitted-gas-power-plant/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142810</guid>
-      <pubDate>Wed, 15 Jul 2026 17:39:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 最大的太陽能與電池專案，與 xAI 附近未經許可的發電廠形成鮮明對比。</description>
     </item>
     <item>
       <title>搭載阿里巴巴 Qwen AI 的 Apple Intelligence 已獲准在中國推出</title>
