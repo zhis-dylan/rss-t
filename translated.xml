@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 18:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:26:23 GMT</lastBuildDate>
+    <item>
+      <title>Roblox 在其手機 app 推出 AI 驅動的遊戲創作功能</title>
+      <link>https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143441</guid>
+      <pubDate>Thu, 16 Jul 2026 18:22:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Roblox 的新「Build」功能讓使用者只需輸入一段文字提示，就能生成基本遊戲。</description>
+    </item>
     <item>
       <title>石油巨擘 BP 在運作 20 年後關閉其企業創投部門</title>
       <link>https://techcrunch.com/2026/07/16/oil-giant-bp-shutters-its-corporate-venture-arm-after-20-years/</link>
@@ -306,15 +315,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20260716071936ZJW_8754.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20260716071936ZJW_8754.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20260716071936ZJW_8754.max-600x600.format-webp.webp" alt=""></p><p>Google 與 Screwfix 攜手合作，協助全國的技工使用 AI 工具拓展事業。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Lululemon 支持尼龍回收新創公司 Syntetica，完成 3000 萬美元 A 輪融資</title>
-      <link>https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142193</guid>
-      <pubDate>Thu, 16 Jul 2026 04:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>法國新創公司 Syntetica 開發出一種全新的尼龍回收方法，已經獲得知名合作夥伴和投資人。</description>
     </item>
     <item>
       <title>日本的機器人與製造業領導者運用 NVIDIA Cosmos 推進實體 AI 前沿</title>
