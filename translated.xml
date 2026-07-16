@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 15 Jul 2026 23:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:01:25 GMT</lastBuildDate>
+    <item>
+      <title>據報導，微軟正在訓練業務人員貶低 OpenAI 和 Anthropic</title>
+      <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143129</guid>
+      <pubDate>Wed, 15 Jul 2026 23:59:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>微軟正試圖將自家 AI 模型賣成比競爭對手的模型更有效率且更具成本效益。</description>
+    </item>
     <item>
       <title>NVIDIA 推出全新 Jetson Thor 電腦，加速主流機器人與邊緣 AI 發展</title>
       <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Anthropic 支持下，Ode 登場；隨著 AI 實驗室押注，將前線部署工程師嵌入企業內部，是加速企業採用 AI 的關鍵。</description>
-    </item>
-    <item>
-      <title>Rime 獲得 2400 萬美元 A 輪融資，協助企業接聽客服來電</title>
-      <link>https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142237</guid>
-      <pubDate>Wed, 15 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Rime 每個月在多家公司間處理超過 1 億通電話</description>
     </item>
     <item>
       <title>美國正透過州與聯邦行動推進 AI 安全</title>
