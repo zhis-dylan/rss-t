@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:31:40 GMT</lastBuildDate>
+    <item>
+      <title>Greylock 為何將新基金上限設為 15 億美元，卻表示原本可以募得更多</title>
+      <link>https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143149</guid>
+      <pubDate>Thu, 16 Jul 2026 00:20:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Greylock 將每檔基金的投資數量維持在約 25 筆，目的是持續成為其所稱「對創辦人最重要的夥伴」。</description>
+    </item>
     <item>
       <title>據報導，微軟正在訓練業務人員貶低 OpenAI 和 Anthropic</title>
       <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這份 2024 年的起訴書如今已解封，指控三名俄羅斯人和兩家網路主機協助駭客，並從網路犯罪中獲利。</description>
-    </item>
-    <item>
-      <title>Anthropic、Blackstone 押注下一個兆美元級 AI 事業將是導入實作，而不是模型</title>
-      <link>https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142610</guid>
-      <pubDate>Wed, 15 Jul 2026 13:10:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 Anthropic 支持下，Ode 登場；隨著 AI 實驗室押注，將前線部署工程師嵌入企業內部，是加速企業採用 AI 的關鍵。</description>
     </item>
     <item>
       <title>美國正透過州與聯邦行動推進 AI 安全</title>
