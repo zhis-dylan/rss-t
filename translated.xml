@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 22:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:13:50 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 在點火後突然中止第二次 Starship V3 發射</title>
+      <link>https://techcrunch.com/2026/07/16/spacex-suddenly-aborts-second-starship-v3-launch-after-ignition/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143576</guid>
+      <pubDate>Thu, 16 Jul 2026 23:01:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司未立即說明出了什麼問題。SpaceX 股價在盤後交易中一度重挫逾 4%，之後跌幅收斂。</description>
+    </item>
     <item>
       <title>可口可樂在 Fairlife 乳品廠遭勒索軟體攻擊後暫停生產</title>
       <link>https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/</link>
@@ -381,15 +390,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png" alt=""></p><p>NVIDIA 今日宣布，領先的日本企業、新創與研究機構正運用 NVIDIA Nemotron™ 開放模型、資料與程式庫，打造產業專用的 AI 模型與應用，加速開發符合日本語言、產業與勞動力需求的 AI。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>搭載阿里巴巴 Qwen AI 的 Apple Intelligence 已獲准在中國推出</title>
-      <link>https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142774</guid>
-      <pubDate>Wed, 15 Jul 2026 15:29:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple Intelligence 即將進入中國，因為監管機構已透過與阿里巴巴的合作批准蘋果的 AI 服務。這項傳聞已久的合作將把阿里巴巴的 Qwen AI 模型帶到蘋果的作業系統，標誌著這家公司的生成式 AI 平台大幅擴展到其最重要的市場之一。</description>
     </item>
     <item>
       <title>美國職業足球大聯盟明天重返 Apple TV</title>
