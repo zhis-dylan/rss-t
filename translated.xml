@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 20:12:22 GMT</lastBuildDate>
+    <item>
+      <title>Founders Fund 聘請前 OpenAI 高管 Ryan Beiermeister（不是因為她玩《Mafia》的技巧）</title>
+      <link>https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143465</guid>
+      <pubDate>Thu, 16 Jul 2026 20:07:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ryan Beiermeister 曾在 Founders Fund 的 YouTube 系列《Mafia》中展現冷靜的分析能力，現在已加入該公司擔任合夥人。</description>
+    </item>
     <item>
       <title>在 Google Earth 體驗阿茲特克體育場的傳奇歷史。</title>
       <link>https://blog.google/products-and-platforms/products/earth/estadio-azteca/</link>
@@ -303,15 +312,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Keeping-parents-informed-if-teens-show-signs-of-distress-in-conversations-with-Meta-AI_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Keeping-parents-informed-if-teens-show-signs-of-distress-in-conversations-with-Meta-AI_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Keeping-parents-informed-if-teens-show-signs-of-distress-in-conversations-with-Meta-AI_Header.jpg?fit=1920%2C1080" alt=""></p><p>使用 Instagram 監護工具的家長，現在如果他們的青少年與 Meta AI 討論自殺或自我傷害，將會收到通知。<br>這篇〈若青少年與 Meta AI 對話時出現困擾跡象，將通知家長〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>如果青少年跟其 AI 聊天機器人談到自殺或自殘，Meta 現在會提醒家長</title>
-      <link>https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143044</guid>
-      <pubDate>Thu, 16 Jul 2026 11:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這些更新正值 Meta 和其他科技公司因 AI 聊天機器人如何回應處於危機中的使用者，尤其是青少年，而受到監管機關與家長的關注。</description>
     </item>
     <item>
       <title>日本政府、產業領袖與 NVIDIA 啟動全球首座國家級 AI 基礎設施</title>
