@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 16:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:10:33 GMT</lastBuildDate>
+    <item>
+      <title>每位學生都該知道的 6 個開學採買小技巧</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</guid>
+      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>不管你是在佈置房間、更新衣櫃，還是補齊最後一刻才想起的必需品，這些購物工具都會帶來很大的不同。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" alt=""></p><p>不管你是在佈置房間、更新衣櫃，還是補齊最後一刻才想起的必需品，這些購物工具都會帶來很大的不同。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>電子報平台 Beehiiv 現在讓訂閱者彼此聊天，並加入 AI</title>
+      <link>https://techcrunch.com/2026/07/16/newsletter-platform-beehiivs-now-lets-subscribers-chat-with-each-other-adds-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143197</guid>
+      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Beehiiv 正在推出 AI Copilot，協助出版商進行用戶成長與分析</description>
+    </item>
     <item>
       <title>X 開始打擊竊取內容的創作者</title>
       <link>https://techcrunch.com/2026/07/16/x-cracks-down-on-creators-who-steal-content/</link>
@@ -308,15 +329,6 @@
       <description>Cars24 使用由 OpenAI 驅動的語音與聊天代理，每月處理超過 100 萬分鐘的對話，挽回 12% 流失的潛在客戶，並將代理式工作流程帶給公司各團隊。</description>
     </item>
     <item>
-      <title>據報導，微軟正在訓練業務人員貶低 OpenAI 和 Anthropic</title>
-      <link>https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143129</guid>
-      <pubDate>Wed, 15 Jul 2026 23:59:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>微軟正試圖將自家 AI 模型賣成比競爭對手的模型更有效率且更具成本效益。</description>
-    </item>
-    <item>
       <title>NVIDIA 推出全新 Jetson Thor 電腦，加速主流機器人與邊緣 AI 發展</title>
       <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</guid>
@@ -613,18 +625,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" alt=""></p><p>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>擴展廣告中的 AI 透明度</title>
-      <link>https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</guid>
-      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 與美國職棒大聯盟公布 8 月「Friday Night Baseball」賽程</title>
