@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 07:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 07:34:53 GMT</lastBuildDate>
+    <item>
+      <title>我們正與 Screwfix 合作，協助全國的技工運用 AI 搞定行政工作並拓展事業。</title>
+      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/</guid>
+      <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 與 Screwfix 攜手合作，協助全國的技工使用 AI 工具拓展事業。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_-_2026-07-16T082559.246.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_-_2026-07-16T082559.246.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_-_2026-07-16T082559.246.max-600x600.format-webp.webp" alt=""></p><p>Google 與 Screwfix 攜手合作，協助全國的技工使用 AI 工具拓展事業。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Lululemon 支持尼龍回收新創公司 Syntetica，完成 3000 萬美元 A 輪融資</title>
       <link>https://techcrunch.com/2026/07/15/lululemon-backs-nylon-recycling-startup-syntetica-in-30m-series-a/</link>
@@ -458,18 +470,6 @@
       <description>了解如何使用 ChatGPT、開始你的第一次對話，並發現用 AI 寫作、發想點子和解決問題的簡單方法。</description>
     </item>
     <item>
-      <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</guid>
-      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" alt=""></p><p>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</p>]]></content:encoded>
-    </item>
-    <item>
       <title>擴展廣告中的 AI 透明度</title>
       <link>https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</link>
       <guid isPermaLink="false">https://blog.google/products/ads-commerce/google-ads-ai-transparency-labels/</guid>
@@ -480,6 +480,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expanding_AI_transparency_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的 AI 透明度功能，幫助人們了解他們看到的廣告，並為廣告主提供簡單的揭露工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們正廣泛推出 AlphaEvolve，以解決 Google Cloud 客戶最棘手的問題。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/alphaevolve-on-cloud/</guid>
+      <pubDate>Thu, 09 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1-Blog_hero_pic.max-600x600.format-webp.webp" alt=""></p><p>找到最有效率的演算法——無論是設計微晶片、規劃物流網路，或加速醫學研究——都可能充滿挑戰，且有許多可能…</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 與美國職棒大聯盟公布 8 月「Friday Night Baseball」賽程</title>
@@ -714,18 +726,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Crisis_resilience_hero__social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Crisis_resilience_hero__social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Crisis_resilience_hero__social.max-600x600.format-webp.webp" alt=""></p><p>Google 與政府、國際組織和社群合作，強化全球危機韌性的三種方式。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>三顆新衛星加入對抗野火的行列。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/firesat-satellites/</guid>
-      <pubDate>Tue, 07 Jul 2026 16:15:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>三顆新的 FireSat 衛星已發射升空，擴展一個運用 Google AI 協助消防單位偵測早期野火的網路。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FireSat_satellites.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FireSat_satellites.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FireSat_satellites.max-600x600.format-webp.webp" alt=""></p><p>三顆新的 FireSat 衛星已發射升空，擴展一個運用 Google AI 協助消防單位偵測早期野火的網路。</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 創新者採用 NVIDIA Vera —— 為什麼大規模最高單執行緒 CPU 這麼重要</title>
