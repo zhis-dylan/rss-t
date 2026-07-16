@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 14:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:38:37 GMT</lastBuildDate>
+    <item>
+      <title>Moonshot 即將推出的 Kimi 3 預計將縮小與 Anthropic 的 Opus 4.8 之間的差距</title>
+      <link>https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143233</guid>
+      <pubDate>Thu, 16 Jul 2026 14:26:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>《金融時報》報導，Kimi K3 將會是中國規模最大的開放式 AI 模型，參數量介於 2 兆到 3 兆之間。</description>
+    </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</link>
@@ -261,15 +270,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Microsoft 每月發布的安全修補更新 Patch Tuesday，在 AI 的協助下發現問題，修復了公司產品線中創紀錄的 570 個安全漏洞。</description>
-    </item>
-    <item>
-      <title>據報 Stripe 和 Advent 提出以約 534 億美元收購 PayPal</title>
-      <link>https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142780</guid>
-      <pubDate>Wed, 15 Jul 2026 15:30:26 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報 Stripe 與私募股權公司 Advent International 已提交一項聯合出價，擬以約 534 億美元收購 PayPal。路透社報導，這項報價已於本月較早時提出，並有約 500 億美元的已承諾銀行融資支持。根據這項提案，Stripe 與 Advent 將共同持有 PayPal，[…]</description>
     </item>
     <item>
       <title>搭載阿里巴巴 Qwen AI 的 Apple Intelligence 已獲准在中國推出</title>
