@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 18:56:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 19:11:49 GMT</lastBuildDate>
+    <item>
+      <title>在 Google Earth 體驗阿茲特克體育場的傳奇歷史。</title>
+      <link>https://blog.google/products-and-platforms/products/earth/estadio-azteca/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/earth/estadio-azteca/</guid>
+      <pubDate>Thu, 16 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過 Google Earth 和 ICA Foundation，重溫墨西哥城阿茲特克體育場 60 年的足球歷史。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Earth 和 ICA Foundation，重溫墨西哥城阿茲特克體育場 60 年的足球歷史。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Google Vids 現在讓你成為自己 AI 影片中的主角</title>
       <link>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</link>
@@ -136,18 +148,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp" alt=""></p><p>你將能夠在 AI 模式中，直接安全地連結並使用你常用的服務。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們正與喬治亞州公共圖書館服務合作，提供免費的職涯與 AI 訓練。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 與喬治亞州公共圖書館服務合作，為全州居民提供免費的職涯證照課程與 AI 訓練。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp" alt=""></p><p>Google 與喬治亞州公共圖書館服務合作，為全州居民提供免費的職涯證照課程與 AI 訓練。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>透過兩項 Google Vids 更新建立、編輯並親自入鏡影片</title>
       <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</guid>
@@ -158,6 +158,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 和 Google Vids 的個人虛擬人像，讓影片製作比以往更簡單。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們正與喬治亞州公共圖書館服務合作，提供免費的職涯與 AI 訓練。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/</guid>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 與喬治亞州公共圖書館服務合作，為全州居民提供免費的職涯證照課程與 AI 訓練。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp" alt=""></p><p>Google 與喬治亞州公共圖書館服務合作，為全州居民提供免費的職涯證照課程與 AI 訓練。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google 的 AI Mode 現在可讓你連結並與特定應用程式互動</title>
@@ -455,18 +467,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg" alt=""></p><p>企業有許多強大的模型可供選擇。真正的考驗在於，企業所打造的 AI 是否能獨特地滿足業務需求：改善工作流程、運用領域知識，並超越準確性與信任標準。</p>]]></content:encoded>
     </item>
     <item>
-      <title>慶祝視覺搜尋創新 25 週年</title>
-      <link>https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</guid>
-      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 圖片即將滿 25 週年。這裡回顧一些重要里程碑，以及探索和創造視覺內容的新方式。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 圖片即將滿 25 週年。這裡回顧一些重要里程碑，以及探索和創造視覺內容的新方式。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們有史以來最大的太陽能與電池儲能專案</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/steel-river-arkansas/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/steel-river-arkansas/</guid>
@@ -477,6 +477,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Solar_Steel_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Solar_Steel_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Solar_Steel_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 將投資並向位於阿肯色州密西西比郡的 Steel River Energy Center 購買能源和儲能。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>慶祝視覺搜尋創新 25 週年</title>
+      <link>https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</guid>
+      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 圖片即將滿 25 週年。這裡回顧一些重要里程碑，以及探索和創造視覺內容的新方式。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 圖片即將滿 25 週年。這裡回顧一些重要里程碑，以及探索和創造視覺內容的新方式。</p>]]></content:encoded>
     </item>
     <item>
       <title>為什麼每瓦效能是 AI 基礎設施效率的終極指標</title>
@@ -592,18 +604,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" alt=""></p><p>職業高爾夫球選手 Bryson DeChambeau 與 Google Health 合作，使用 Fitbit Air 追蹤體能指標，將數據驅動的運動訓練帶入日常健康例行…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>這是如何在 Gemini app 中建立學習筆記本。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/how-to-make-gemini-study-notebooks/</guid>
-      <pubDate>Fri, 10 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>正在準備考試，但不知道從哪裡開始嗎？學習筆記本是 Gemini app 的新功能，可以幫助你整理資料並更有效率地學習。把學習筆記本想成……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/study_notebooks_in_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/study_notebooks_in_thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/study_notebooks_in_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>正在準備考試，但不知道從哪裡開始嗎？學習筆記本是 Gemini app 的新功能，可以幫助你整理資料並更有效率地學習。把學習筆記本想成……</p>]]></content:encoded>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
