@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 08:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 08:20:17 GMT</lastBuildDate>
+    <item>
+      <title>日本政府、產業領袖與 NVIDIA 啟動全球首座國家級 AI 基礎設施</title>
+      <link>https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure</guid>
+      <pubDate>Thu, 16 Jul 2026 08:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布，正與 Noetra Corp. 合作，推出一座 NVIDIA Vera Rubin AI factory，配備 13,750 顆 NVIDIA Vera CPU 與 27,500 顆 NVIDIA Rubin GPU，供國家級實體 AI...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg" alt=""></p><p>NVIDIA 今日宣布，正與 Noetra Corp. 合作，推出一座 NVIDIA Vera Rubin AI factory，配備 13,750 顆 NVIDIA Vera CPU 與 27,500 顆 NVIDIA Rubin GPU，供國家級實體 AI...</p>]]></content:encoded>
+    </item>
     <item>
       <title>我們正與 Screwfix 合作，協助全國的技工運用 AI 搞定行政工作並拓展事業。</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/</link>
@@ -962,18 +974,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
-    </item>
-    <item>
-      <title>Claude 遇上 Blackwell Ultra：Anthropic 的模型現已在 Azure 的 NVIDIA GB300 上執行</title>
-      <link>https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/</guid>
-      <pubDate>Mon, 29 Jun 2026 17:00:19 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Anthropic 的 Claude 模型在 Microsoft Foundry 中——託管於 Microsoft Azure，並在 NVIDIA GB300 Blackwell Ultra GPU 上執行——現已正式全面可用，為原生使用 Azure 的企業提供一種強大新方式來打造自主且具特定領域的 AI 代理。隨著 agentic AI 持續推動企業創新並變得更自主，組織需要取得運算 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/af9901b98c988a16e2ee18669dabde22/6a42a4d23d6332b314da2188_logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450_thmb.jpg" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/af9901b98c988a16e2ee18669dabde22/6a42a4d23d6332b314da2188_logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/af9901b98c988a16e2ee18669dabde22/6a42a4d23d6332b314da2188_logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450/logo-lockup-tech-blog-anthropic-microsoft-1920x1080-4999350-842x450_thmb.jpg" alt=""></p><p>Anthropic 的 Claude 模型在 Microsoft Foundry 中——託管於 Microsoft Azure，並在 NVIDIA GB300 Blackwell Ultra GPU 上執行——現已正式全面可用，為原生使用 Azure 的企業提供一種強大新方式來打造自主且具特定領域的 AI 代理。隨著 agentic AI 持續推動企業創新並變得更自主，組織需要取得運算 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>現在是預留你的 WhatsApp 使用者名稱的時候了</title>
