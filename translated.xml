@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 14:38:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:53:46 GMT</lastBuildDate>
+    <item>
+      <title>為什麼 AMI Labs 的 Alexandre LeBrun 不會把他的 AI 稱為「AGI」或「超級智慧」</title>
+      <link>https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3142431</guid>
+      <pubDate>Thu, 16 Jul 2026 14:40:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>當所有 AI 圈的人都在追逐「超級智慧」時，Yann LeCun 的世界模型新創 AMI Labs 執行長 Alexandre LeBrun 卻不認同這個詞。</description>
+    </item>
     <item>
       <title>Moonshot 即將推出的 Kimi 3 預計將縮小與 Anthropic 的 Opus 4.8 之間的差距</title>
       <link>https://techcrunch.com/2026/07/16/moonshots-upcoming-kimi-3-is-expected-to-close-the-gap-with-anthropics-opus-4-8/</link>
@@ -261,15 +270,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>直播購物平台 Whatnot 已收購 AI 新創公司 Shaped，這是一家專注於即時推薦與搜尋的機器學習公司。這筆交易將強化 Whatnot 的個人化與探索功能，並協助其擴展到新的產品類別。</description>
-    </item>
-    <item>
-      <title>Microsoft 修補破紀錄數量的安全漏洞，歸功於其使用 AI</title>
-      <link>https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142791</guid>
-      <pubDate>Wed, 15 Jul 2026 16:20:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 每月發布的安全修補更新 Patch Tuesday，在 AI 的協助下發現問題，修復了公司產品線中創紀錄的 570 個安全漏洞。</description>
     </item>
     <item>
       <title>搭載阿里巴巴 Qwen AI 的 Apple Intelligence 已獲准在中國推出</title>
