@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 03:32:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 03:48:09 GMT</lastBuildDate>
+    <item>
+      <title>日本的機器人與製造業領導者運用 NVIDIA Cosmos 推進實體 AI 前沿</title>
+      <link>https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/japans-robotics-and-manufacturing-leaders-build-on-nvidia-cosmos-to-advance-physical-ai-frontier</guid>
+      <pubDate>Thu, 16 Jul 2026 03:40:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今天宣布，日本的實體 AI 領導者正以 NVIDIA Cosmos™、NVIDIA Isaac™、NVIDIA Metropolis 和 NVIDIA Jetson™ 平台為基礎，加速智慧機器在製造、移動、基礎設施和機器人領域的部署。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/ec180c85cf8840fb0edaf360eba98abd/6a580ccd3d63323228944ad6_NVIDIA%20Cosmos%20in%20Japan/NVIDIA%20Cosmos%20in%20Japan_thmb.jpg" alt=""></p><p>NVIDIA 今天宣布，日本的實體 AI 領導者正以 NVIDIA Cosmos™、NVIDIA Isaac™、NVIDIA Metropolis 和 NVIDIA Jetson™ 平台為基礎，加速智慧機器在製造、移動、基礎設施和機器人領域的部署。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Greylock 為何將新基金上限設為 15 億美元，卻表示原本可以募得更多</title>
       <link>https://techcrunch.com/2026/07/15/why-greylock-capped-its-new-fund-at-1-5b-when-it-says-it-could-have-raised-more/</link>
@@ -975,18 +987,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Its-time-to-reserve-your-WhatsApp-username_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在為 WhatsApp 推出使用者名稱，這樣你就可以在不提供電話號碼的情況下與他人聯繫。<br>這篇〈現在是預留你的 WhatsApp 使用者名稱的時候了〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Firefly Aerospace 首次在月球軌道運作 NVIDIA Jetson</title>
-      <link>https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/firefly-aerospace-nvidia-jetson-lunar-orbit/</guid>
-      <pubDate>Mon, 29 Jun 2026 15:00:04 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description/>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/524c0a392c5f408b333782adf25cb1d3/6a42889a3d633229a782c35f_featured-firefly-1920x1080-1-842x450/featured-firefly-1920x1080-1-842x450_thmb.jpg" alt=""></p><p></p>]]></content:encoded>
     </item>
     <item>
       <title>描繪歐洲 AI 勞動力機會</title>
