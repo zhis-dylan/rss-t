@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 21:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:27:58 GMT</lastBuildDate>
+    <item>
+      <title>可口可樂在 Fairlife 乳品廠遭勒索軟體攻擊後暫停生產</title>
+      <link>https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143530</guid>
+      <pubDate>Thu, 16 Jul 2026 21:22:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>可口可樂表示，在遭駭後，其 Fairlife 事業體在美國的乳品生產將「維持暫停」。</description>
+    </item>
     <item>
       <title>Founders Fund 聘請前 OpenAI 高管 Ryan Beiermeister（不是因為她玩《Mafia》的技巧）</title>
       <link>https://techcrunch.com/2026/07/16/founders-fund-hires-former-openai-exec-ryan-beiermeister-and-not-because-of-her-mafia-skills/</link>
@@ -290,15 +299,6 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>今天的決定有可能削弱數百萬歐洲人至關重要的隱私與安全防護措施。我們已多次提出解決方案，在滿足…的同時保護使用者。</description>
-    </item>
-    <item>
-      <title>Ultrahuman 前硬體副總裁募得 550 萬美元，打造可控制 AI 代理、而不只是記錄你的裝置</title>
-      <link>https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3140458</guid>
-      <pubDate>Thu, 16 Jul 2026 11:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Aina 將在未來幾週試行一款新裝置</description>
     </item>
     <item>
       <title>若青少年與 Meta AI 對話時出現困擾跡象，將通知家長</title>
