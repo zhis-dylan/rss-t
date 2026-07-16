@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 12:52:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:07:43 GMT</lastBuildDate>
+    <item>
+      <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</guid>
+      <pubDate>Thu, 16 Jul 2026 13:00:34 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>《鬼武者：劍之道》將在上市時登陸 GeForce NOW，本週也會提供可遊玩的試玩版。Denshattack! 也會加入，雲端將迎來五款新遊戲。此外，GeForce NOW 正式在印度上線，從 beta 轉為正式提供服務——這代表玩家無需等候名單就能註冊。[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg" alt=""></p><p>《鬼武者：劍之道》將在上市時登陸 GeForce NOW，本週也會提供可遊玩的試玩版。Denshattack! 也會加入，雲端將迎來五款新遊戲。此外，GeForce NOW 正式在印度上線，從 beta 轉為正式提供服務——這代表玩家無需等候名單就能註冊。[…]</p>]]></content:encoded>
+    </item>
     <item>
       <title>DMA 不應削弱歐洲人的安全與隱私</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/</link>
@@ -945,18 +957,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/4a49d8cc2176b28150170f1fd646d533/6a43da873d6332962ecebea3_JaiveerNVIDIALife-13-842x450/JaiveerNVIDIALife-13-842x450_thmb.jpg" alt=""></p><p>當 Jaiveer Singh 談到機器人時，他不會從炫目表現開始。他會從基礎架構開始：機器內部的板卡、讓開發者能透過機器人攝影機看見畫面的軟體，以及在機器人離開展示場去做有用事情之前所需的工程工作。身為一位帶領團隊的機器人軟體工程師，他負責背後的團隊 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>進入 Omniverse：運用合成資料與微調提升 Vision AI Agent 準確度的三種工作流程</title>
-      <link>https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vision-ai-agent-skills-omniverse-metropolis/</guid>
-      <pubDate>Tue, 30 Jun 2026 13:00:27 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>編者註：這篇文章是 Into the Omniverse 系列的一部分，該系列聚焦開發者、3D 專業人士與企業如何運用 OpenUSD 與 NVIDIA Omniverse 的最新進展來改造他們的工作流程。Vision AI agents 正在成為一種實用方式，可自動將實體世界的影片資料轉化為工廠中的營運情報，[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/231eeae3a3671e68ca1f8ffd16a44d56/6a43be0d3d63320baa2820b2_nv-ov-ito-jun-1280x680-1-842x450/nv-ov-ito-jun-1280x680-1-842x450_thmb.jpg" alt=""></p><p>編者註：這篇文章是 Into the Omniverse 系列的一部分，該系列聚焦開發者、3D 專業人士與企業如何運用 OpenUSD 與 NVIDIA Omniverse 的最新進展來改造他們的工作流程。Vision AI agents 正在成為一種實用方式，可自動將實體世界的影片資料轉化為工廠中的營運情報，[…]</p>]]></content:encoded>
     </item>
     <item>
       <title>ChatGPT 的採用如何擴大</title>
