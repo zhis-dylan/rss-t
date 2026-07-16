@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 18:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:41:33 GMT</lastBuildDate>
+    <item>
+      <title>Google Vids 現在讓你成為自己 AI 影片中的主角</title>
+      <link>https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143447</guid>
+      <pubDate>Thu, 16 Jul 2026 18:32:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正在為 Vids 加入個人化 AI 虛擬分身，讓使用者可以製作由自己數位分身主演的影片，並搭配由 Gemini Omni 驅動的工具，可根據提示詞和參考圖片來生成與編輯影片。</description>
+    </item>
     <item>
       <title>Roblox 在其手機 app 推出 AI 驅動的遊戲創作功能</title>
       <link>https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/</link>
@@ -360,15 +369,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png" alt=""></p><p>NVIDIA 今日宣布，領先的日本企業、新創與研究機構正運用 NVIDIA Nemotron™ 開放模型、資料與程式庫，打造產業專用的 AI 模型與應用，加速開發符合日本語言、產業與勞動力需求的 AI。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>手機製造商 OnePlus 據報計劃縮減美國與歐洲業務</title>
-      <link>https://techcrunch.com/2026/07/15/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3142827</guid>
-      <pubDate>Wed, 15 Jul 2026 17:53:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OnePlus 也可能在 2027 年前縮減其在印度的業務</description>
     </item>
     <item>
       <title>搭載阿里巴巴 Qwen AI 的 Apple Intelligence 已獲准在中國推出</title>
