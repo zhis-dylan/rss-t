@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 13:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 13:53:08 GMT</lastBuildDate>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</link>
@@ -279,15 +279,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple Intelligence 即將進入中國，因為監管機構已透過與阿里巴巴的合作批准蘋果的 AI 服務。這項傳聞已久的合作將把阿里巴巴的 Qwen AI 模型帶到蘋果的作業系統，標誌著這家公司的生成式 AI 平台大幅擴展到其最重要的市場之一。</description>
-    </item>
-    <item>
-      <title>美國職業足球大聯盟明天回歸 Apple TV</title>
-      <link>https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:59:11 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>在為期一個月、配合 FIFA 世界盃的休賽期後，美國職業足球大聯盟將於明天 7 月 16 日回到 Apple TV。</description>
     </item>
     <item>
       <title>美國正透過州與聯邦行動推進 AI 安全</title>
@@ -1721,6 +1712,15 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享關於第三方 AI 評估的指引，涵蓋如何評估前沿系統的模型能力、防護措施與有效性。</description>
+    </item>
+    <item>
+      <title>切羅基語學習者透過 iPad 和 Mac 連結世代</title>
+      <link>https://www.apple.com/newsroom/2026/05/cherokee-language-learners-bridge-generations-with-ipad-and-mac/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/05/cherokee-language-learners-bridge-generations-with-ipad-and-mac/</guid>
+      <pubDate>Thu, 28 May 2026 12:59:53 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>透過社群教育計畫，Apple 一直與 OCU 和切羅基族合作，為年輕學習者配備 iPad 和 Mac。</description>
     </item>
     <item>
       <title>Endava 如何透過 Codex 建立代理型組織</title>
