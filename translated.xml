@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 16 Jul 2026 11:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 12:07:11 GMT</lastBuildDate>
+    <item>
+      <title>DMA 不應削弱歐洲人的安全與隱私</title>
+      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/</guid>
+      <pubDate>Thu, 16 Jul 2026 12:05:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>今天的決定有可能削弱數百萬歐洲人至關重要的隱私與安全防護措施。我們已多次提出解決方案，在滿足…的同時保護使用者。</description>
+    </item>
     <item>
       <title>Ultrahuman 前硬體副總裁募得 550 萬美元，打造可控制 AI 代理、而不只是記錄你的裝置</title>
       <link>https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/</link>
@@ -748,18 +757,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Muse-Image_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Muse-Image_Thumbnail.gif?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Muse-Image_Thumbnail.gif?fit=890%2C501" alt=""></p><p>Muse Image 是 Meta 超級智慧實驗室推出的首個圖片生成模型，現已在 Meta AI 中提供。<br>〈推出 Muse Image：為你的世界打造的圖片生成〉一文最先出現在 Meta 新聞室。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>各國政府與組織如何運用 Google 的 AI 突破來提升危機韌性</title>
-      <link>https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/technology-global-crisis-resilience/</guid>
-      <pubDate>Tue, 07 Jul 2026 17:50:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 與政府、國際組織和社群合作，強化全球危機韌性的三種方式。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Crisis_resilience_hero__social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Crisis_resilience_hero__social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Crisis_resilience_hero__social.max-600x600.format-webp.webp" alt=""></p><p>Google 與政府、國際組織和社群合作，強化全球危機韌性的三種方式。</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 創新者採用 NVIDIA Vera —— 為什麼大規模最高單執行緒 CPU 這麼重要</title>
