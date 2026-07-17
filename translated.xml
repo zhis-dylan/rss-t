@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 17 Jul 2026 15:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 15:36:30 GMT</lastBuildDate>
+    <item>
+      <title>Amazon 修正錯誤，曾向部分 AWS 客戶收取數十億美元費用</title>
+      <link>https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143717</guid>
+      <pubDate>Fri, 17 Jul 2026 15:29:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一些 Amazon 客戶在週五登入時，看到一筆意外的帳單估算，顯示他們欠這家科技與雲端巨頭數十億美元費用。</description>
+    </item>
+    <item>
+      <title>Patreon 不再要求 AI 機器人不要抓取內容，改為直接封鎖它們</title>
+      <link>https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143704</guid>
+      <pubDate>Fri, 17 Jul 2026 15:21:17 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Patreon 正在強化對 AI 抓取的防護，透過與 Cloudflare 合作，封鎖未經許可就用創作者內容訓練 AI 模型的機器人。這項舉動代表它不再只依賴網站使用 robots.txt，而是改為主動阻擋未授權的 AI 訓練。</description>
+    </item>
     <item>
       <title>NVIDIA Vera Rubin 將每美元智慧效能最大化，適用於後訓練工作負載——代理式 AI 的關鍵指標</title>
       <link>https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/</link>
@@ -302,24 +320,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>DoorDash 正在開放 dd-cli 的限量 Beta 版，這是一個命令列工具，讓開發者和 AI 代理能夠在終端機中搜尋商店、建立購物車並下單，標誌著軟體朝向為 AI 代理而不只是人類設計的又一步。</description>
-    </item>
-    <item>
-      <title>英國警方表示，逮捕兩名年輕駭客擾亂了臭名昭著駭客組織的運作</title>
-      <link>https://techcrunch.com/2026/07/16/uk-cops-say-arrest-of-two-young-hackers-disrupted-the-operations-of-an-infamous-hacking-group/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143280</guid>
-      <pubDate>Thu, 16 Jul 2026 15:37:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Owen Flowers 和 Thalha Jubair 這兩名 Scattered Spider 駭客組織成員認罪，並因駭入倫敦地鐵系統被判處 5 年 6 個月徒刑。</description>
-    </item>
-    <item>
-      <title>經期追蹤器 Stardust 會將使用者健康資料分享給分析公司，Mozilla 研究指出</title>
-      <link>https://techcrunch.com/2026/07/16/period-tracker-stardust-shares-users-health-data-with-analytics-firm-says-mozilla-research/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143294</guid>
-      <pubDate>Thu, 16 Jul 2026 15:33:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Mozilla 測試的一款經期追蹤應用程式「乾乾淨淨」，而另一款應用程式則被發現會將使用者的健康資料分享給一家分析公司，凸顯出這些應用程式在使用者隱私上存在巨大差異。</description>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
