@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 17 Jul 2026 14:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:35:53 GMT</lastBuildDate>
+    <item>
+      <title>沒有產品？沒問題。這場 Disrupt 2026 場次將展示如何憑藉信念與敘事爭取 pre-seed 資金</title>
+      <link>https://techcrunch.com/2026/07/17/no-product-no-problem-this-disrupt-2026-session-shows-how-to-get-pre-seed-funding-with-conviction-storytelling/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3140364</guid>
+      <pubDate>Fri, 17 Jul 2026 14:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>不只是你：AI 新創正在吸納大量 seed 資金，進而讓即使是尋找 pre-seed 階段資金的人也變得更難募資。我們已詳細報導過這個趨勢，而在今年的 TechCrunch Disrupt 活動中，我們想幫助目前被以 seed 階段標準要求的 pre-seed 創辦人 […]</description>
+    </item>
+    <item>
+      <title>為今日的溝通方式設計表情符號</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/</guid>
+      <pubDate>Fri, 17 Jul 2026 14:25:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在世界表情符號日，走進 Noto 3D 的幕後，了解我們如何重新設計數千個表情符號，以符合現代溝通。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp" alt=""></p><p>在世界表情符號日，走進 Noto 3D 的幕後，了解我們如何重新設計數千個表情符號，以符合現代溝通。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Zoox 在一輛 robotaxi 因濃煙而混淆後發出軟體召回</title>
       <link>https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/</link>
@@ -287,15 +308,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>你可能已經聽說 OpenAI 這週推出了首款硬體。你可能沒聽說過 ChatGPT 籃球。</description>
-    </item>
-    <item>
-      <title>一位前 DeepMind 研究員如何在推出產品前，先以 3 億美元的 pre-seed 估值募資</title>
-      <link>https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143111</guid>
-      <pubDate>Thu, 16 Jul 2026 15:02:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>憑藉超過十年協助打造世界上一些最具影響力的 AI 系統的經驗，包括後來促成 ChatGPT 開發的研究，Andrew Dai 說明他為何認為視覺 AI 是人工智慧下一個主要前沿之一。</description>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
@@ -601,18 +613,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Motorcycle_hero_2_english_stati.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Motorcycle_hero_2_english_stati.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Motorcycle_hero_2_english_stati.max-600x600.format-webp.webp" alt=""></p><p>無論你是騎機車，還是想減少語音提示，最新功能——包括 Gemini 更新——都讓你有更多彈性。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Bryson DeChambeau 與 Google Health 合作</title>
-      <link>https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/bryson-dechambeau/</guid>
-      <pubDate>Fri, 10 Jul 2026 16:12:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>職業高爾夫球選手 Bryson DeChambeau 與 Google Health 合作，使用 Fitbit Air 追蹤體能指標，將數據驅動的運動訓練帶入日常健康例行…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bryson_DeChambeau_x_Google_Heal.max-600x600.format-webp.webp" alt=""></p><p>職業高爾夫球選手 Bryson DeChambeau 與 Google Health 合作，使用 Fitbit Air 追蹤體能指標，將數據驅動的運動訓練帶入日常健康例行…</p>]]></content:encoded>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
