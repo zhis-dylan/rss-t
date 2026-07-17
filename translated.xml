@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 17 Jul 2026 19:38:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 19:53:45 GMT</lastBuildDate>
+    <item>
+      <title>Apple 和 Google 被要求從 App Store 下架「nudify」應用程式</title>
+      <link>https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143849</guid>
+      <pubDate>Fri, 17 Jul 2026 19:49:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在寄給 Apple 和 Google 的信件中，舊金山市檢察官 David Chiu 表示，這兩家公司早已知道自己正在提供違反州法的應用程式。</description>
+    </item>
     <item>
       <title>核能新創 Valar Atomics 正洽談以 60 億美元估值募得新一輪資金</title>
       <link>https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/</link>
@@ -233,15 +242,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" alt=""></p><p>不管你是在佈置房間、更新衣櫃，還是補齊最後一刻才想起的必需品，這些購物工具都會帶來很大的不同。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>電子報平台 Beehiiv 現在讓訂閱者彼此聊天，並加入 AI</title>
-      <link>https://techcrunch.com/2026/07/16/newsletter-platform-beehiivs-now-lets-subscribers-chat-with-each-other-adds-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143197</guid>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Beehiiv 正在推出 AI Copilot，協助出版商進行用戶成長與分析</description>
     </item>
     <item>
       <title>為什麼青少年應該能使用安全的 AI</title>
