@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 17 Jul 2026 17:37:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 17:52:41 GMT</lastBuildDate>
+    <item>
+      <title>蘋果的大型訴訟如何可能打亂 OpenAI 的 IPO 計畫</title>
+      <link>https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3143835</guid>
+      <pubDate>Fri, 17 Jul 2026 17:45:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>蘋果上週五對 OpenAI 提起了營業秘密訴訟，而且毫不留情。這份訴狀指控了一系列不當行為，甚至一路牽涉到 OpenAI 的硬體主管，並聲稱目前有超過 400 名前蘋果員工在這家公司任職。到目前為止，OpenAI 的回應一直相當保守，而時機也糟到不能再糟，因為外界報導這家公司正考慮 IPO […]</description>
+    </item>
     <item>
       <title>FBI逮捕被指透過 Steam 遊戲耗盡受害者加密貨幣錢包的男子</title>
       <link>https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/</link>
@@ -311,15 +320,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp" alt=""></p><p>Google 與喬治亞州公共圖書館服務合作，為全州居民提供免費的職涯證照課程與 AI 訓練。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 的 AI Mode 現在可讓你連結並與特定應用程式互動</title>
-      <link>https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143234</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>透過這次新更新，Google 正將 AI Mode 的功能從回答問題擴展到能跨使用者常用的各種應用程式完成任務。</description>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
