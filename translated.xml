@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 17 Jul 2026 16:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 16:21:56 GMT</lastBuildDate>
+    <item>
+      <title>FBI逮捕被指透過 Steam 遊戲耗盡受害者加密貨幣錢包的男子</title>
+      <link>https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143763</guid>
+      <pubDate>Fri, 17 Jul 2026 16:18:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>檢方指控 21 歲學生 Zyaire Wilkins 在 Steam 上發布了數款含有惡意軟體的假電玩遊戲，感染了數千名受害者，並從其中一些人手中竊取加密貨幣。</description>
+    </item>
+    <item>
+      <title>父母希望孩子能用更安全的手機。這些公司正在回應這個需求。</title>
+      <link>https://techcrunch.com/2026/07/17/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143658</guid>
+      <pubDate>Fri, 17 Jul 2026 16:12:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著家長尋找不受限制智慧型手機的替代方案，越來越多公司正在打造專為兒童設計的手機，從功能受限的行動裝置到極簡家用電話都有。</description>
+    </item>
     <item>
       <title>Amazon 修正錯誤，曾向部分 AWS 客戶收取數十億美元費用</title>
       <link>https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/</link>
@@ -302,24 +320,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>透過這次新更新，Google 正將 AI Mode 的功能從回答問題擴展到能跨使用者常用的各種應用程式完成任務。</description>
-    </item>
-    <item>
-      <title>Google 持續更名，將 NotebookLM 改為 Gemini Notebook</title>
-      <link>https://techcrunch.com/2026/07/16/google-continues-its-renaming-streak-by-turning-notebooklm-to-gemini-notebook/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143252</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 表示，使用者很快就能透過 Search 中的 AI Mode 存取自己的筆記本。</description>
-    </item>
-    <item>
-      <title>是的，你現在可以用命令列訂購 DoorDash</title>
-      <link>https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143273</guid>
-      <pubDate>Thu, 16 Jul 2026 15:38:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>DoorDash 正在開放 dd-cli 的限量 Beta 版，這是一個命令列工具，讓開發者和 AI 代理能夠在終端機中搜尋商店、建立購物車並下單，標誌著軟體朝向為 AI 代理而不只是人類設計的又一步。</description>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
