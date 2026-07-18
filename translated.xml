@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 18 Jul 2026 16:18:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 16:33:12 GMT</lastBuildDate>
+    <item>
+      <title>今年在美國停產或被停掉的所有電動車</title>
+      <link>https://techcrunch.com/2026/07/18/all-the-evs-that-were-discontinued-or-killed-off-in-the-u-s-this-year/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143473</guid>
+      <pubDate>Sat, 18 Jul 2026 16:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Honda Prologue 將不再在美國販售，加入今年退出市場的電動車型名單，而且這份名單還在持續增加。</description>
+    </item>
     <item>
       <title>聯邦員工現在又可以在工作用手機上下載 TikTok 了</title>
       <link>https://techcrunch.com/2026/07/18/federal-employees-can-download-tiktok-on-their-work-phones-again/</link>
@@ -204,15 +213,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp" alt=""></p><p>在世界表情符號日，走進 Noto 3D 的幕後，了解我們如何重新設計數千個表情符號，以符合現代溝通。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Zoox 在一輛 robotaxi 因濃煙而混淆後發出軟體召回</title>
-      <link>https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143652</guid>
-      <pubDate>Fri, 17 Jul 2026 14:12:02 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這次召回發生之際，美國最高汽車安全監管機關已警告自駕車公司，不要讓其車輛干擾第一線應變人員。</description>
     </item>
     <item>
       <title>AI 時代的計分卡</title>
