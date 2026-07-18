@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 18 Jul 2026 14:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 14:32:14 GMT</lastBuildDate>
+    <item>
+      <title>一趟 600 英里的公路旅行（以及數據）證明電動車充電現在已經沒那麼糟了</title>
+      <link>https://techcrunch.com/2026/07/18/a-600-mile-road-trip-and-data-proves-ev-charging-doesnt-suck-anymore/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143790</guid>
+      <pubDate>Sat, 18 Jul 2026 14:32:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>最近一次開電動車的公路旅行顯示，在美國，DC 快充已經變得快得多，也可靠得多。</description>
+    </item>
     <item>
       <title>Neil Rimer 認為 AI 的資金正在流出</title>
       <link>https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/</link>
@@ -213,15 +222,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的財務長 Sarah Friar 提出一個實用的 AI 計分卡，透過有用的工作、每次成功任務成本、可靠性，以及運算報酬來衡量投資報酬率。</description>
-    </item>
-    <item>
-      <title>舊金山市長在 Waymo 交通亂象後推動更嚴格的規定</title>
-      <link>https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143520</guid>
-      <pubDate>Thu, 16 Jul 2026 23:25:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在一場長達數小時、造成嚴重交通壅塞的事件之後，舊金山市長 Daniel Lurie 告訴州監管機關，是時候對像 Waymo 這類 robotaxi 營運商提出更多要求了。</description>
     </item>
     <item>
       <title>在 Google Earth 體驗阿茲特克體育場的傳奇歷史。</title>
