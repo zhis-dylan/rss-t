@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 18 Jul 2026 19:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 19:34:38 GMT</lastBuildDate>
+    <item>
+      <title>Waymo 似乎在停電期間暫停舊金山服務</title>
+      <link>https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144073</guid>
+      <pubDate>Sat, 18 Jul 2026 19:30:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這不是第一次停電導致 Waymo 出現問題。</description>
+    </item>
     <item>
       <title>Kimi：威脅還是危害？</title>
       <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
@@ -192,15 +201,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/a36d2ab9f02473c4ad6982b9cebe6874/6a5a43943d63323c232c58b7_inline-1784235912807-842x450/inline-1784235912807-842x450_thmb.jpg?v=89f2974f-1947-4fb0-80f7-17e2b986de2b" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/a36d2ab9f02473c4ad6982b9cebe6874/6a5a43943d63323c232c58b7_inline-1784235912807-842x450/inline-1784235912807-842x450_thmb.jpg?v=89f2974f-1947-4fb0-80f7-17e2b986de2b"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/a36d2ab9f02473c4ad6982b9cebe6874/6a5a43943d63323c232c58b7_inline-1784235912807-842x450/inline-1784235912807-842x450_thmb.jpg?v=89f2974f-1947-4fb0-80f7-17e2b986de2b" alt=""></p><p>透過極致共同設計，以最低每 token 成本，在代理式時代將後訓練的每美元智慧效能最大化。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Remarkable 的新款 Paper Pure 很不錯。這就是我用它寫這篇評測的原因。</title>
-      <link>https://techcrunch.com/2026/07/17/remarkables-new-paper-pure-is-good-thats-why-i-wrote-this-review-on-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139500</guid>
-      <pubDate>Fri, 17 Jul 2026 14:47:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Remarkable 的 Paper Pure 取代了 Remarkable 2，而且它相當不錯。</description>
     </item>
     <item>
       <title>為今日的溝通方式設計表情符號</title>
