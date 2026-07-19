@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 19 Jul 2026 19:21:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:36:37 GMT</lastBuildDate>
+    <item>
+      <title>蘋果的訴訟會讓 OpenAI 的硬體計畫受阻嗎？</title>
+      <link>https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144101</guid>
+      <pubDate>Sun, 19 Jul 2026 19:24:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在最新一集的 Equity 中，我們討論蘋果的訴訟是否會影響 OpenAI 備受討論的進軍硬體和上市計畫。</description>
+    </item>
     <item>
       <title>TechCrunch Mobility：robotaxi 規則之爭</title>
       <link>https://techcrunch.com/2026/07/19/techcrunch-mobility-the-battle-over-robotaxi-rules/</link>
@@ -180,15 +189,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>專為全年舒適而設計，Dyson Hot+Cool HF1 結合了安靜運作、簡單控制，以及 Dyson 標誌性的無葉片設計。</description>
-    </item>
-    <item>
-      <title>FBI逮捕被指透過 Steam 遊戲耗盡受害者加密貨幣錢包的男子</title>
-      <link>https://techcrunch.com/2026/07/17/fbi-arrests-man-accused-of-using-steam-games-to-drain-victims-crypto-wallets/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143763</guid>
-      <pubDate>Fri, 17 Jul 2026 16:18:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>檢方指控 21 歲學生 Zyaire Wilkins 在 Steam 上發布了數款含有惡意軟體的假電玩遊戲，感染了數千名受害者，並從其中一些人手中竊取加密貨幣。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 將每美元智慧效能最大化，適用於後訓練工作負載——代理式 AI 的關鍵指標</title>
