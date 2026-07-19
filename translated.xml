@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 19 Jul 2026 14:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:04:34 GMT</lastBuildDate>
+    <item>
+      <title>《奧德賽》導演克里斯多福·諾蘭稱 AI 是顯而易見的「特洛伊木馬」</title>
+      <link>https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144080</guid>
+      <pubDate>Sun, 19 Jul 2026 14:52:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「大家都知道希臘人就在裡面。」</description>
+    </item>
     <item>
       <title>非營利組織 Current AI 正在加速打造 AI 的全球資訊網，讓所有人都能免費使用</title>
       <link>https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</link>
@@ -180,15 +189,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>隨著家長尋找不受限制智慧型手機的替代方案，越來越多公司正在打造專為兒童設計的手機，從功能受限的行動裝置到極簡家用電話都有。</description>
-    </item>
-    <item>
-      <title>Amazon 修正錯誤，曾向部分 AWS 客戶收取數十億美元費用</title>
-      <link>https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143717</guid>
-      <pubDate>Fri, 17 Jul 2026 15:29:21 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一些 Amazon 客戶在週五登入時，看到一筆意外的帳單估算，顯示他們欠這家科技與雲端巨頭數十億美元費用。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 將每美元智慧效能最大化，適用於後訓練工作負載——代理式 AI 的關鍵指標</title>
