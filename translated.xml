@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 19 Jul 2026 13:57:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 14:12:52 GMT</lastBuildDate>
+    <item>
+      <title>非營利組織 Current AI 正在加速打造 AI 的全球資訊網，讓所有人都能免費使用</title>
+      <link>https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143631</guid>
+      <pubDate>Sun, 19 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>非營利組織 Current AI 致力於打造不遺漏任何文化的 AI，並在各種裝置、AI 聊天等方面取得了顯著進展。</description>
+    </item>
     <item>
       <title>Waymo 似乎在停電期間暫停舊金山服務</title>
       <link>https://techcrunch.com/2026/07/18/waymo-appears-to-pause-san-francisco-service-amidst-power-outage/</link>
@@ -180,15 +189,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一些 Amazon 客戶在週五登入時，看到一筆意外的帳單估算，顯示他們欠這家科技與雲端巨頭數十億美元費用。</description>
-    </item>
-    <item>
-      <title>Patreon 不再要求 AI 機器人不要抓取內容，改為直接封鎖它們</title>
-      <link>https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143704</guid>
-      <pubDate>Fri, 17 Jul 2026 15:21:17 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Patreon 正在強化對 AI 抓取的防護，透過與 Cloudflare 合作，封鎖未經許可就用創作者內容訓練 AI 模型的機器人。這項舉動代表它不再只依賴網站使用 robots.txt，而是改為主動阻擋未授權的 AI 訓練。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 將每美元智慧效能最大化，適用於後訓練工作負載——代理式 AI 的關鍵指標</title>
