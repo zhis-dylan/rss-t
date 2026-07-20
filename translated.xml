@@ -5,7 +5,46 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 20 Jul 2026 15:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:16:24 GMT</lastBuildDate>
+    <item>
+      <title>推論新創公司 Infinity 從 Touring Capital、OpenAI 和 Anthropic 研究人員募得 1,500 萬美元</title>
+      <link>https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144195</guid>
+      <pubDate>Mon, 20 Jul 2026 15:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 基礎設施公司 Infinity 週一宣布完成 1,500 萬美元募資，投後估值達 1 億美元，投資人包括 Touring Capital、Principal VC，以及來自 OpenAI 和 Anthropic 等公司的研究人員。</description>
+    </item>
+    <item>
+      <title>駭客從數千家美國醫院和藥局仰賴的科技公司竊走「相當可觀」的資料</title>
+      <link>https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144192</guid>
+      <pubDate>Mon, 20 Jul 2026 15:01:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>總部位於愛丁堡的科技公司 Craneware 表示，客戶資料在一起網路攻擊中遭竊。這家公司製作的軟體，仰賴它來向病患收費的數千家美國醫院、藥局和診所都在使用，可能使健康資料外洩。</description>
+    </item>
+    <item>
+      <title>在 SIGGRAPH，NVIDIA 推進具代理能力與物理 AI 的圖形與模擬</title>
+      <link>https://blogs.nvidia.com/blog/siggraph-news-2026/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/siggraph-news-2026/</guid>
+      <pubDate>Mon, 20 Jul 2026 15:00:53 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>從開放模型到即時模擬，AI 與圖形方面的突破正改變媒體、內容創作與機器人。</description>
+    </item>
+    <item>
+      <title>NVIDIA Agent Toolkit 擴充全新 Omniverse 程式庫，讓 AI 代理著手打造可供模擬的世界</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-agent-toolkit-expands-with-new-omniverse-libraries-putting-ai-agents-to-work-building-simulation-ready-worlds</guid>
+      <pubDate>Mon, 20 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布，NVIDIA Agent Toolkit 現在納入 NVIDIA Omniverse™ 程式庫——一套軟體元件，能為 AI 代理提供工具與技能，將物理 AI 功能加入既有應用程式，並為模擬準備 3D 內容。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_thmb.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_thmb.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_thmb.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4" alt=""></p><p>NVIDIA 今日宣布，NVIDIA Agent Toolkit 現在納入 NVIDIA Omniverse™ 程式庫——一套軟體元件，能為 AI 代理提供工具與技能，將物理 AI 功能加入既有應用程式，並為模擬準備 3D 內容。</p>]]></content:encoded>
+    </item>
     <item>
       <title>觀看 Flock Safety 執行長 Garrett Langley 在 TechCrunch Disrupt 2026 討論監控的未來</title>
       <link>https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/</link>
@@ -202,24 +241,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/The-2026-Summer-of-Football_A-Record-Breaking-Moment-Across-Meta_Header-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/The-2026-Summer-of-Football_A-Record-Breaking-Moment-Across-Meta_Header-1.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/The-2026-Summer-of-Football_A-Record-Breaking-Moment-Across-Meta_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>在 2026 年足球夏季期間，Instagram、Threads、Facebook 和 WhatsApp 的互動量創下紀錄。<br>〈2026 足球夏季：Meta 各平台創下破紀錄時刻〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>那場 Zoom 駭客事件說的是：「不要錄我」</title>
-      <link>https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143936</guid>
-      <pubDate>Fri, 17 Jul 2026 21:20:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果每場會議、茶水間閒聊和約會都被轉錄並摘要，究竟有誰真的會讀那些內容？</description>
-    </item>
-    <item>
-      <title>Agility Robotics 在 Tesla 的地盤插旗</title>
-      <link>https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143772</guid>
-      <pubDate>Fri, 17 Jul 2026 20:19:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Agility 正在加州 Fremont 為其 Digit 機器人開設一座新的訓練中心。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 將每美元智慧效能最大化，適用於後訓練工作負載——代理式 AI 的關鍵指標</title>
@@ -971,30 +992,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg?v=1cd24622-5324-4cbb-8f45-10e4ac90a20e" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg?v=1cd24622-5324-4cbb-8f45-10e4ac90a20e"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg?v=1cd24622-5324-4cbb-8f45-10e4ac90a20e" alt=""></p><p>隨著 AI 從模型開發走向生產環境推論，運算需求正加速成長，並轉向持續運作、能大規模產生 token 的 AI 工廠。這項轉變需要能快速上線、保持高使用率，並支援 token 規模 AI 服務經濟效益的大規模、多租戶加速運算。新興 AI 公司過去一直……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 與合作夥伴在美國打造，為美國打造</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-and-partners-build-in-america-for-america/</guid>
-      <pubDate>Wed, 01 Jul 2026 13:00:47 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 及其合作夥伴正在投資美國製造業、供應鏈、能源電網與技術熟練的勞動力，讓美國能夠生產所需的基礎設施，以改善醫療保健、促成科學上的突破性發現、提升工業生產力，並維持全球科技領導地位。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg?v=cf0c020f-f520-4d06-875d-e17a0e38149d" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg?v=cf0c020f-f520-4d06-875d-e17a0e38149d"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/03fa60ff120062cc51e952ee179f258f/6a450fd73d63327bc9a7eb33_made-in-america-still-1920x1080-1-842x450/made-in-america-still-1920x1080-1-842x450_thmb.jpg?v=cf0c020f-f520-4d06-875d-e17a0e38149d" alt=""></p><p>NVIDIA 及其合作夥伴正在投資美國製造業、供應鏈、能源電網與技術熟練的勞動力，讓美國能夠生產所需的基礎設施，以改善醫療保健、促成科學上的突破性發現、提升工業生產力，並維持全球科技領導地位。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA BioNeMo Agent Toolkit 為 Claude Science 中的生命科學研究人員帶來加速 AI</title>
-      <link>https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/claude-science-bionemo-agent-toolkit/</guid>
-      <pubDate>Tue, 30 Jun 2026 17:00:38 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>生命科學已進入運算規模的時代，而十多年來，NVIDIA 一直打造完整的 GPU 加速運算堆疊——涵蓋硬體、框架、程式庫、模型、微服務以及特定領域工具——協助研究人員執行更複雜的工作流程並更快迭代。本週，Anthropic 宣布 Claude Science，一個用於科學的 AI 工作台 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/87fcaecc8e2e0705958c997424700a1a/6a43f6783d6332202b542014_anthropic-nvidia-842x450/anthropic-nvidia-842x450_thmb.jpg?v=a26ed3fb-ec5e-4232-a093-157619daf7fd" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/87fcaecc8e2e0705958c997424700a1a/6a43f6783d6332202b542014_anthropic-nvidia-842x450/anthropic-nvidia-842x450_thmb.jpg?v=a26ed3fb-ec5e-4232-a093-157619daf7fd"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/87fcaecc8e2e0705958c997424700a1a/6a43f6783d6332202b542014_anthropic-nvidia-842x450/anthropic-nvidia-842x450_thmb.jpg?v=a26ed3fb-ec5e-4232-a093-157619daf7fd" alt=""></p><p>生命科學已進入運算規模的時代，而十多年來，NVIDIA 一直打造完整的 GPU 加速運算堆疊——涵蓋硬體、框架、程式庫、模型、微服務以及特定領域工具——協助研究人員執行更複雜的工作流程並更快迭代。本週，Anthropic 宣布 Claude Science，一個用於科學的 AI 工作台 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Creator Studio 變得更聰明、更快、更連結</title>
