@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 20 Jul 2026 14:15:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 14:30:52 GMT</lastBuildDate>
+    <item>
+      <title>觀看 Flock Safety 執行長 Garrett Langley 在 TechCrunch Disrupt 2026 討論監控的未來</title>
+      <link>https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143067</guid>
+      <pubDate>Mon, 20 Jul 2026 14:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Flock Safety 正處於隱私與公共安全之間界線該如何劃分的爭論核心。這正是我們邀請 Flock 創辦人兼執行長 Garrett Langley 登上舞台，談論這些重要議題的原因。</description>
+    </item>
     <item>
       <title>Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構</title>
       <link>https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/</link>
@@ -211,15 +220,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Agility 正在加州 Fremont 為其 Digit 機器人開設一座新的訓練中心。</description>
-    </item>
-    <item>
-      <title>AI 驅動的記憶體吃緊震撼印度智慧型手機市場</title>
-      <link>https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143715</guid>
-      <pubDate>Fri, 17 Jul 2026 20:09:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>印度智慧型手機成長放緩凸顯 AI 熱潮如何重塑消費性電子產品，從定價與需求到企業策略都受影響。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 將每美元智慧效能最大化，適用於後訓練工作負載——代理式 AI 的關鍵指標</title>
