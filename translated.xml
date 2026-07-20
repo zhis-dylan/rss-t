@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 20 Jul 2026 20:49:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:04:39 GMT</lastBuildDate>
+    <item>
+      <title>AI 最重要的協定變得更容易使用了一些</title>
+      <link>https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144390</guid>
+      <pubDate>Mon, 20 Jul 2026 20:50:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>模型上下文協定（MCP）是 AI 互通性的基本構成要素之一，讓 AI 模型能以安全的方式存取外部資料來源和服務。它是讓聊天機器人能夠存取你的行事曆、資料庫或內部工具的底層管線，而不是由工程師為每一個連接建立客製化管道。接著 […]</description>
+    </item>
     <item>
       <title>X 重新推出重建版 Android 應用程式，歷經一年多的努力</title>
       <link>https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/</link>
@@ -240,15 +249,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這不是第一次停電導致 Waymo 出現問題。</description>
-    </item>
-    <item>
-      <title>Kimi：威脅還是危害？</title>
-      <link>https://techcrunch.com/2026/07/18/kimi-threat-or-menace/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144070</guid>
-      <pubDate>Sat, 18 Jul 2026 18:51:07 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>中國公司 Moonshot AI 本週釋出其 Kimi 模型的新版本，引發對「全面 AI 共產主義」的擔憂。</description>
     </item>
     <item>
       <title>2026 足球夏季：Meta 各平台創下破紀錄時刻</title>
