@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 20 Jul 2026 12:29:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 12:44:55 GMT</lastBuildDate>
+    <item>
+      <title>Hugging Face 證實外洩事件影響內部資料集與憑證，敦促使用者採取行動</title>
+      <link>https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144122</guid>
+      <pubDate>Mon, 20 Jul 2026 12:39:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Hugging Face 敦促使用者輪替任何儲存在平台上的存取權杖，並檢查帳號活動。</description>
+    </item>
+    <item>
+      <title>StrictlyVC 將於 9 月 10 日重返紐約市，慶祝該市新創社群豐收的一年</title>
+      <link>https://techcrunch.com/2026/07/20/strictlyvc-returns-to-new-york-city-september-10-to-celebrate-a-huge-year-for-the-citys-startup-community/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143787</guid>
+      <pubDate>Mon, 20 Jul 2026 12:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>自 2024 年以來首次，StrictlyVC 將重返紐約市——我們將把原本只有在保密活動中才能獲得的那種參與機會，帶給整個新創、VC 與交易促成社群。</description>
+    </item>
     <item>
       <title>Bristol Myers Squibb 在 NVIDIA Vera Rubin 上打造生命科學產業最先進的 AI 工廠</title>
       <link>https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/</link>
@@ -192,24 +210,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>印度智慧型手機成長放緩凸顯 AI 熱潮如何重塑消費性電子產品，從定價與需求到企業策略都受影響。</description>
-    </item>
-    <item>
-      <title>Apple 和 Google 被要求從 App Store 下架「nudify」應用程式</title>
-      <link>https://techcrunch.com/2026/07/17/apple-and-google-ordered-to-purge-nudify-apps-from-app-stores/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143849</guid>
-      <pubDate>Fri, 17 Jul 2026 19:49:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在寄給 Apple 和 Google 的信件中，舊金山市檢察官 David Chiu 表示，這兩家公司早已知道自己正在提供違反州法的應用程式。</description>
-    </item>
-    <item>
-      <title>核能新創 Valar Atomics 正洽談以 60 億美元估值募得新一輪資金</title>
-      <link>https://techcrunch.com/2026/07/17/nuclear-startup-valar-atomics-in-talks-to-raise-new-funding-at-6b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143710</guid>
-      <pubDate>Fri, 17 Jul 2026 19:22:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆潛在交易凸顯一種日益成長的趨勢：複雜的多階段融資輪次掩蓋了真正的進場價格。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 將每美元智慧效能最大化，適用於後訓練工作負載——代理式 AI 的關鍵指標</title>
