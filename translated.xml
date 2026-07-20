@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 20 Jul 2026 10:58:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:14:03 GMT</lastBuildDate>
+    <item>
+      <title>Bristol Myers Squibb 在 NVIDIA Vera Rubin 上打造生命科學產業最先進的 AI 工廠</title>
+      <link>https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/bristol-myers-squibb-building-life-science-industrys-most-advanced-ai-factory-on-nvidia-vera-rubin/</guid>
+      <pubDate>Mon, 20 Jul 2026 10:59:23 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Erin Davis 稱它為「SuperDuperPOD」。這個名字有兩層意思：製藥巨擘 Bristol Myers Squibb（BMS）已經營運生命科學領域其中一個最大的 AI 叢集，且成果相當可觀。而且他們還在加碼。BMS 今天宣布，正在部署第二座 NVIDIA DGX SuperPOD，這一座建構於 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/33910a48d1a7f8306c457401a0f496cd/6a5dffdb3d633258b2eb92d2_Image-7-842x450/Image-7-842x450_thmb.jpg?v=5ccfeda4-612f-4d84-ab36-eba61b5806af" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/33910a48d1a7f8306c457401a0f496cd/6a5dffdb3d633258b2eb92d2_Image-7-842x450/Image-7-842x450_thmb.jpg?v=5ccfeda4-612f-4d84-ab36-eba61b5806af"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/33910a48d1a7f8306c457401a0f496cd/6a5dffdb3d633258b2eb92d2_Image-7-842x450/Image-7-842x450_thmb.jpg?v=5ccfeda4-612f-4d84-ab36-eba61b5806af" alt=""></p><p>Erin Davis 稱它為「SuperDuperPOD」。這個名字有兩層意思：製藥巨擘 Bristol Myers Squibb（BMS）已經營運生命科學領域其中一個最大的 AI 叢集，且成果相當可觀。而且他們還在加碼。BMS 今天宣布，正在部署第二座 NVIDIA DGX SuperPOD，這一座建構於 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Netflix 以 5.87 億美元收購 Ben Affleck 的 AI 電影製作新創公司</title>
       <link>https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/</link>
@@ -982,18 +994,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今天推出了 Apple Creator Studio 的強大更新，這是一套開創性的創意 app 集合。</description>
-    </item>
-    <item>
-      <title>NVIDIA 的推論軟體堆疊如何實現最低的 token 成本</title>
-      <link>https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/inference-software-lowest-token-cost/</guid>
-      <pubDate>Tue, 30 Jun 2026 15:00:57 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>隨著各組織從 AI 試點轉向生產級 AI 工廠，基礎架構決策已從晶片的峰值規格，轉向每個 token 的成本：他們能以每美元、每瓦以及在所需延遲目標內提供多少有用的 token。與 NVIDIA GPU、CPU、網路與系統共同設計，並在廣泛的開源生態系統強化下，NVIDIA 的 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg?v=642f5bae-f98e-41de-ab84-ac69e9ca451f" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg?v=642f5bae-f98e-41de-ab84-ac69e9ca451f"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202606/46eca8102541963ace8bb69d9d7d8481/6a43da813d6332962ecebe9c_press-inference-ai-aws-beat-1920x1080-1-842x450/press-inference-ai-aws-beat-1920x1080-1-842x450_thmb.jpg?v=642f5bae-f98e-41de-ab84-ac69e9ca451f" alt=""></p><p>隨著各組織從 AI 試點轉向生產級 AI 工廠，基礎架構決策已從晶片的峰值規格，轉向每個 token 的成本：他們能以每美元、每瓦以及在所需延遲目標內提供多少有用的 token。與 NVIDIA GPU、CPU、網路與系統共同設計，並在廣泛的開源生態系統強化下，NVIDIA 的 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>ChatGPT 的採用如何擴大</title>
