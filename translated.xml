@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 18:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 18:15:33 GMT</lastBuildDate>
+    <item>
+      <title>資料中心預計到 2035 年用電量將增加 4 倍</title>
+      <link>https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144833</guid>
+      <pubDate>Tue, 21 Jul 2026 18:06:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>到 2033 年前建成的新資料中心，可能會消耗與印度如今相同的電力。</description>
+    </item>
+    <item>
+      <title>特斯拉在奧蘭多和坦帕啟動 Robotaxi 試點，為第二季財報做準備</title>
+      <link>https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144883</guid>
+      <pubDate>Tue, 21 Jul 2026 18:05:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司沒有說明每個城市各有多少台，且在擴展這個網路時採取了比執行長 Elon Musk 承諾更為謹慎的做法。</description>
+    </item>
     <item>
       <title>Google 推出三款新的 Gemini 模型——但沒有 3.5 Pro</title>
       <link>https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/</link>
@@ -237,24 +255,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>模型上下文協定（MCP）是 AI 互通性的基本構成要素之一，讓 AI 模型能以安全的方式存取外部資料來源和服務。它是讓聊天機器人能夠存取你的行事曆、資料庫或內部工具的底層管線，而不是由工程師為每一個連接建立客製化管道。接著 […]</description>
-    </item>
-    <item>
-      <title>X 重新推出重建版 Android 應用程式，歷經一年多的努力</title>
-      <link>https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144370</guid>
-      <pubDate>Mon, 20 Jul 2026 19:37:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>X 表示，重建版的 Android 應用程式現已在全球推出。</description>
-    </item>
-    <item>
-      <title>OpenAI 很怕開放權重模型。美國也該怕嗎？</title>
-      <link>https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144280</guid>
-      <pubDate>Mon, 20 Jul 2026 19:33:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>討論禁止中國製開放權重大型語言模型，凸顯了把 AI 變成一門生意的難題。</description>
     </item>
     <item>
       <title>用 Gemini 開展副業的 5 種方式</title>
