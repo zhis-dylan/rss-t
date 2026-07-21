@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 16:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 16:29:26 GMT</lastBuildDate>
+    <item>
+      <title>Instagram 現在可以讓你替換舊貼文中的音樂</title>
+      <link>https://techcrunch.com/2026/07/21/instagram-now-lets-you-swap-out-the-music-in-your-old-posts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144672</guid>
+      <pubDate>Tue, 21 Jul 2026 16:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>透過全新的「Replace Audio」工具，使用者可以在任何時間更新貼文中的音樂，同時保留該貼文既有的按讚數、留言、分享以及觸及範圍。</description>
+    </item>
     <item>
       <title>Threads 即將推出新的家長監護工具</title>
       <link>https://about.fb.com/news/2026/07/new-parental-supervision-tools-coming-threads/</link>
@@ -249,15 +258,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Scale_Side_Hustles_w_Gemini_her.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Scale_Side_Hustles_w_Gemini_her.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Scale_Side_Hustles_w_Gemini_her.max-600x600.format-webp.webp" alt=""></p><p>想要推出副業嗎？使用 Gemini 來設計你的品牌、進行市場研究並自動化物流。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>法官暫停 1100 億美元的 Paramount-Warner Bros 合併案</title>
-      <link>https://techcrunch.com/2026/07/20/judge-pauses-110b-paramount-warner-bros-merger/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144311</guid>
-      <pubDate>Mon, 20 Jul 2026 17:58:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>各州提起的訴訟主張，這筆交易將損害電影院、基本有線電視分銷商以及觀眾。</description>
     </item>
     <item>
       <title>在 SIGGRAPH，NVIDIA 推進具代理能力與物理 AI 的圖形與模擬</title>
