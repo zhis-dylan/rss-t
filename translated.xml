@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 19:31:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 19:46:28 GMT</lastBuildDate>
+    <item>
+      <title>Jack Dorsey 以 Buzz 挑戰 Slack，這是一個供團隊與其 AI 代理人使用的群組聊天平台</title>
+      <link>https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144907</guid>
+      <pubDate>Tue, 21 Jul 2026 19:43:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Buzz 是一個工作場域用的群組聊天平台，讓人類與他們的 AI 代理人能在同一個對話中互動。</description>
+    </item>
+    <item>
+      <title>AI 與通用娛樂 App 的崛起</title>
+      <link>https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144827</guid>
+      <pubDate>Tue, 21 Jul 2026 19:39:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在過去十年裡，串流平台透過主導音樂、影片、Podcast 或有聲書等單一格式來競爭。如今，隨著 AI 讓內容的創作、整理與推薦變得更容易，這些界線正逐漸消失，推動 Spotify、Netflix、YouTube 和 TikTok 等公司轉而成為全方位的娛樂目的地。</description>
+    </item>
+    <item>
+      <title>在電動車放緩之際，Sila 募資 3 億美元擴建電池材料工廠</title>
+      <link>https://techcrunch.com/2026/07/21/bucking-ev-slowdown-sila-raises-300m-to-expand-battery-materials-factory/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144956</guid>
+      <pubDate>Tue, 21 Jul 2026 19:36:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Sila 最新一輪 3 億美元融資將幫助它生產足以為超過 10 萬輛電動車供電的矽碳負極材料。</description>
+    </item>
     <item>
       <title>Einride 砸 3,800 萬美元押注 EV 充電，擴展電動卡車運輸</title>
       <link>https://techcrunch.com/2026/07/21/einride-bets-38m-on-ev-charging-as-it-scales-electric-trucking/</link>
@@ -228,33 +255,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Gritt 走出隱身模式，募得 3,400 萬美元，並計劃將工地上最困難的工作自動化。</description>
-    </item>
-    <item>
-      <title>Anthropic 具有里程碑意義的 15 億美元著作權和解獲准通過</title>
-      <link>https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144516</guid>
-      <pubDate>Tue, 21 Jul 2026 00:12:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>最終核准解決了一起案件，但並未解決使用受著作權保護的作品來訓練 AI 模型這個更廣泛的問題。</description>
-    </item>
-    <item>
-      <title>據報 Colossal Biosciences 正洽談以 200 億至 300 億美元估值籌集新資金</title>
-      <link>https://techcrunch.com/2026/07/20/colossal-biosciences-reportedly-in-talks-to-raise-new-capital-at-20b-30b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144524</guid>
-      <pubDate>Mon, 20 Jul 2026 23:39:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據該報導，這家滅絕物種復活新創公司正尋求將其先前估值翻倍或翻三倍。</description>
-    </item>
-    <item>
-      <title>川普最新的 AI 沙皇已經辭職</title>
-      <link>https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144451</guid>
-      <pubDate>Mon, 20 Jul 2026 22:21:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>自從 David Sacks 辭去沙皇職位後，人工智慧標準與創新中心（CAISI）的主任一職就一直像走馬燈一樣換人。</description>
     </item>
     <item>
       <title>用 Gemini 開展副業的 5 種方式</title>
