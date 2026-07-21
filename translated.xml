@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 20:47:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 21:02:18 GMT</lastBuildDate>
+    <item>
+      <title>這些國家正推動禁止兒童使用社群媒體</title>
+      <link>https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3092894</guid>
+      <pubDate>Tue, 21 Jul 2026 20:57:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>澳洲是在 2025 年底率先宣布禁令的國家，目的是降低年輕使用者在社群媒體上可能面臨的壓力與風險，包括網路霸凌、社群媒體成癮，以及接觸掠食者的風險。</description>
+    </item>
+    <item>
+      <title>OpenAI 表示，Hugging Face 是被其尚未發布的模型入侵</title>
+      <link>https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144991</guid>
+      <pubDate>Tue, 21 Jul 2026 20:56:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 出面聲稱對 Hugging Face 的入侵事件負責，表示這是內部測試失控所致。</description>
+    </item>
     <item>
       <title>13 個 Google 小技巧，讓你的大學暑假既有趣又高效</title>
       <link>https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/</link>
@@ -249,24 +267,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Deezer 表示，6 月在平台上每天有超過 9 萬首 AI 生成曲目被上傳</description>
-    </item>
-    <item>
-      <title>Bluecore Energy 募得 1,000 萬美元，打造設於駁船上的可攜式核反應爐</title>
-      <link>https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144585</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>海事核能新創 Bluecore Energy 在由 Slauson &amp; Co. 領投的 pre-seed 融資輪中募得 1,000 萬美元。</description>
-    </item>
-    <item>
-      <title>Gritt 走出隱身模式，獲得 3,400 萬美元，打造能建造太陽能電廠的機器人——接著是其他一切</title>
-      <link>https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144417</guid>
-      <pubDate>Tue, 21 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Gritt 走出隱身模式，募得 3,400 萬美元，並計劃將工地上最困難的工作自動化。</description>
     </item>
     <item>
       <title>OpenAI 與 Hugging Face 合作因應模型評估期間的資安事件</title>
