@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:13:29 GMT</lastBuildDate>
+    <item>
+      <title>為 Vera Rubin 打造，NVIDIA Spectrum-6 登陸超大規模 AI 工廠</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</guid>
+      <pubDate>Tue, 21 Jul 2026 15:00:20 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI 已進入超大規模時代。世界上最先進的 AI 工廠正把數十萬顆 GPU 和 CPU 匯聚在一起，用來訓練前沿模型、驅動代理式 AI，並以前所未有的規模產生智慧。在這個層級，網路已成為驅動 token 生成的關鍵運算效能倍增器。作為網路里程碑，NVIDIA Spectrum-6 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85" alt=""></p><p>AI 已進入超大規模時代。世界上最先進的 AI 工廠正把數十萬顆 GPU 和 CPU 匯聚在一起，用來訓練前沿模型、驅動代理式 AI，並以前所未有的規模產生智慧。在這個層級，網路已成為驅動 token 生成的關鍵運算效能倍增器。作為網路里程碑，NVIDIA Spectrum-6 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Light 做出了一支摺疊手機。它色彩繽紛，而且很便宜。</title>
+      <link>https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144347</guid>
+      <pubDate>Tue, 21 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Light 共同創辦人 Kaiwei Tang 曾協助打造 Motorola Razr，而他和其他人一樣都很驚訝，二十多年後，摺疊手機竟然又重新變得有意義了。</description>
+    </item>
     <item>
       <title>繼 TikTok 之後，Snap 和解社群媒體成癮訴訟案</title>
       <link>https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/</link>
@@ -200,15 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據一位資安研究員的估計，WordPress 軟體中的兩個重大安全漏洞，讓駭客有機會遠端接管數千萬個網站。</description>
-    </item>
-    <item>
-      <title>YouTube 澄清關於 AI 垃圾內容和令人不安影片的政策</title>
-      <link>https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144190</guid>
-      <pubDate>Mon, 20 Jul 2026 15:23:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>YouTube 已更新其營利政策，以更清楚定義哪些 AI 生成和低品質影片無法獲得廣告收入。</description>
     </item>
     <item>
       <title>在 SIGGRAPH，NVIDIA 推進具代理能力與物理 AI 的圖形與模擬</title>
@@ -989,18 +1001,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>AI 採用的速度正快得驚人。客戶早已超越試驗階段，並了解採用 AI 來轉型其業務的重要性。他們現在專注於帶來可衡量的商業成果，並證明 AI 投資的報酬，同時確保他們的智慧能被放大，且其智慧財產權受到保護。今天……
 The post Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence appeared first on The Official Microsoft Blog.</description>
-    </item>
-    <item>
-      <title>NVIDIA 釋放大規模 AI 運算，邀請資本合作夥伴共同推動 AI 基礎設施建設</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-unlocks-ai-compute-at-scale-capital-partners-to-power-ai-infrastructure-buildout/</guid>
-      <pubDate>Thu, 02 Jul 2026 03:34:48 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>隨著 AI 從模型開發走向生產環境推論，運算需求正加速成長，並轉向持續運作、能大規模產生 token 的 AI 工廠。這項轉變需要能快速上線、保持高使用率，並支援 token 規模 AI 服務經濟效益的大規模、多租戶加速運算。新興 AI 公司過去一直……</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg?v=1cd24622-5324-4cbb-8f45-10e4ac90a20e" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg?v=1cd24622-5324-4cbb-8f45-10e4ac90a20e"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/076ef79c416b7fe34697bd4a115237b1/6a45dc8c3d633268d53ce814_nvendeavor-1-842x450/nvendeavor-1-842x450_thmb.jpg?v=1cd24622-5324-4cbb-8f45-10e4ac90a20e" alt=""></p><p>隨著 AI 從模型開發走向生產環境推論，運算需求正加速成長，並轉向持續運作、能大規模產生 token 的 AI 工廠。這項轉變需要能快速上線、保持高使用率，並支援 token 規模 AI 服務經濟效益的大規模、多租戶加速運算。新興 AI 公司過去一直……</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Creator Studio 變得更聰明、更快、更連結</title>
