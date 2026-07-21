@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:43:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:58:17 GMT</lastBuildDate>
+    <item>
+      <title>繼 TikTok 之後，Snap 和解社群媒體成癮訴訟案</title>
+      <link>https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144711</guid>
+      <pubDate>Tue, 21 Jul 2026 14:54:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Snap 是最新一家和解訴訟的大型科技公司，該訴訟主張社群媒體平台對兒童和年輕人有害。該公司已在一宗原定於本月稍晚開庭審理的案件中達成「初步」協議。TikTok 最近已就這宗案件中的其部分與原告達成和解，原告被稱為 […]</description>
+    </item>
+    <item>
+      <title>根據 Have I Been Pwned，AI 音樂生成器 Suno 遭入侵，影響 5,500 萬用戶</title>
+      <link>https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144712</guid>
+      <pubDate>Tue, 21 Jul 2026 14:48:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一名駭客取得了數百萬使用 AI 音樂生成器 Suno 的客戶姓名、電話號碼和實體地址。</description>
+    </item>
     <item>
       <title>關於華納兄弟探索（Warner Bros. Discovery）里程碑式出售案，你需要知道的事</title>
       <link>https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/</link>
@@ -191,24 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>YouTube 已更新其營利政策，以更清楚定義哪些 AI 生成和低品質影片無法獲得廣告收入。</description>
-    </item>
-    <item>
-      <title>推論新創公司 Infinity 從 Touring Capital、OpenAI 和 Anthropic 研究人員募得 1,500 萬美元</title>
-      <link>https://techcrunch.com/2026/07/20/inference-startup-infinity-raises-15m-from-touring-capital-openai-and-athropic-researchers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144195</guid>
-      <pubDate>Mon, 20 Jul 2026 15:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 基礎設施公司 Infinity 週一宣布完成 1,500 萬美元募資，投後估值達 1 億美元，投資人包括 Touring Capital、Principal VC，以及來自 OpenAI 和 Anthropic 等公司的研究人員。</description>
-    </item>
-    <item>
-      <title>駭客從數千家美國醫院和藥局仰賴的科技公司竊走「相當可觀」的資料</title>
-      <link>https://techcrunch.com/2026/07/20/hackers-stole-significant-amount-of-data-from-tech-firm-relied-on-by-thousands-of-us-hospitals-and-pharmacies/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144192</guid>
-      <pubDate>Mon, 20 Jul 2026 15:01:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>總部位於愛丁堡的科技公司 Craneware 表示，客戶資料在一起網路攻擊中遭竊。這家公司製作的軟體，仰賴它來向病患收費的數千家美國醫院、藥局和診所都在使用，可能使健康資料外洩。</description>
     </item>
     <item>
       <title>在 SIGGRAPH，NVIDIA 推進具代理能力與物理 AI 的圖形與模擬</title>
