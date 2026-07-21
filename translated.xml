@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:12:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:27:58 GMT</lastBuildDate>
+    <item>
+      <title>關於華納兄弟探索（Warner Bros. Discovery）里程碑式出售案，你需要知道的事</title>
+      <link>https://techcrunch.com/2026/07/21/warner-bros-netflix-paramount-acquisition-timeline-wbd/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3085519</guid>
+      <pubDate>Tue, 21 Jul 2026 14:15:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>進一步了解派拉蒙（Paramount）計劃收購華納兄弟探索（Warner Bros. Discovery）——這樁估值 1,110 億美元、歷史性的好萊塢超級交易——隨著進展持續更新。</description>
+    </item>
+    <item>
+      <title>英國政府在數百萬英國民眾反對後，撤回數位身分證計畫</title>
+      <link>https://techcrunch.com/2026/07/21/uk-government-scraps-plans-for-digital-id-cards-after-millions-of-brits-opposed/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144673</guid>
+      <pubDate>Tue, 21 Jul 2026 14:13:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新的英國政府取消了一項遭數百萬英國人反對的數位身分證計畫，改以減稅來應對生活成本問題。</description>
+    </item>
     <item>
       <title>我們正在宣布美國技術工種聯盟。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-america-skilled-trades/</link>
@@ -214,15 +232,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/7da24036858337008646d9a6a3752ac4/6a5aaa273d63320eee00f8a6_nvidia-omniverse-libraries/nvidia-omniverse-libraries_thmb.jpg?v=65052a7c-b8c9-4405-8de6-07ab084378a4" alt=""></p><p>NVIDIA 今日宣布，NVIDIA Agent Toolkit 現在納入 NVIDIA Omniverse™ 程式庫——一套軟體元件，能為 AI 代理提供工具與技能，將物理 AI 功能加入既有應用程式，並為模擬準備 3D 內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>觀看 Flock Safety 執行長 Garrett Langley 在 TechCrunch Disrupt 2026 討論監控的未來</title>
-      <link>https://techcrunch.com/2026/07/20/watch-flock-safety-ceo-garrett-langley-discuss-the-future-of-surveillance-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143067</guid>
-      <pubDate>Mon, 20 Jul 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Flock Safety 正處於隱私與公共安全之間界線該如何劃分的爭論核心。這正是我們邀請 Flock 創辦人兼執行長 Garrett Langley 登上舞台，談論這些重要議題的原因。</description>
-    </item>
-    <item>
       <title>Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構</title>
       <link>https://blogs.microsoft.com/blog/2026/07/20/microsoft-expands-azure-ai-and-hpc-infrastructure-with-amd/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562996</guid>
@@ -231,15 +240,6 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>AI 工作負載的擴展速度比任何單一基礎架構方案所能支援的都還要快——隨著更多模型、新的代理驅動工作負載，以及激增的運算需求，推動整個技術堆疊對更高專業化的需求。為了滿足這項需求，Microsoft 持續演進 Azure 的基礎架構，包括以 AMD 最先進的 AI 與高效能運算...
 〈Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構〉一文最初刊載於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>Hugging Face 證實外洩事件影響內部資料集與憑證，敦促使用者採取行動</title>
-      <link>https://techcrunch.com/2026/07/20/hugging-face-confirms-breach-affected-internal-datasets-and-credentials-urges-users-to-take-action/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144122</guid>
-      <pubDate>Mon, 20 Jul 2026 12:39:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Hugging Face 敦促使用者輪替任何儲存在平台上的存取權杖，並檢查帳號活動。</description>
     </item>
     <item>
       <title>Bristol Myers Squibb 在 NVIDIA Vera Rubin 上打造生命科學產業最先進的 AI 工廠</title>
