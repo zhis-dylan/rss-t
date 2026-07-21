@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 18:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 18:30:43 GMT</lastBuildDate>
+    <item>
+      <title>Apple 與 Klarna 合作推出 iPhone、iPad 和 Mac 的租購方案</title>
+      <link>https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144873</guid>
+      <pubDate>Tue, 21 Jul 2026 18:18:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項新的租賃方案對這家硬體公司來說是一大轉變，而且正值它考慮提高許多產品價格之際。</description>
+    </item>
     <item>
       <title>資料中心預計到 2035 年用電量將增加 4 倍</title>
       <link>https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/</link>
@@ -246,15 +255,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據報導，Alphabet（Google 的母公司）正在開發一款新晶片，旨在讓其 Gemini 模型以更高效率執行。</description>
-    </item>
-    <item>
-      <title>AI 最重要的協定變得更容易使用了一些</title>
-      <link>https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144390</guid>
-      <pubDate>Mon, 20 Jul 2026 20:50:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>模型上下文協定（MCP）是 AI 互通性的基本構成要素之一，讓 AI 模型能以安全的方式存取外部資料來源和服務。它是讓聊天機器人能夠存取你的行事曆、資料庫或內部工具的底層管線，而不是由工程師為每一個連接建立客製化管道。接著 […]</description>
     </item>
     <item>
       <title>用 Gemini 開展副業的 5 種方式</title>
