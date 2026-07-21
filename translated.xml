@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 22:33:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:48:11 GMT</lastBuildDate>
+    <item>
+      <title>在沃斯堡打造：緯創開設先進製造工廠，生產 NVIDIA AI 系統</title>
+      <link>https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</guid>
+      <pubDate>Tue, 21 Jul 2026 22:35:45 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI 時代仰賴 AI 基礎設施。許多這些先進系統都在德州製造與測試。緯創今天在沃斯堡開設了其美國首座製造設施——一座 324,000 平方英尺的全新綠地工廠，生產 superchips，這些 superchips 是全球最強大 AI 系統的核心。在一群緯創 […] 的觀眾面前</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/e9802f6daf7685f7032cd3e15505ed02/6a5ff44d3d6332043850ee6c_wistron-event-july2026-kv-3840x2160-1-842x450/wistron-event-july2026-kv-3840x2160-1-842x450_thmb.jpg?v=841e3369-d7a4-4283-b364-3080c365dfdc" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/e9802f6daf7685f7032cd3e15505ed02/6a5ff44d3d6332043850ee6c_wistron-event-july2026-kv-3840x2160-1-842x450/wistron-event-july2026-kv-3840x2160-1-842x450_thmb.jpg?v=841e3369-d7a4-4283-b364-3080c365dfdc"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/e9802f6daf7685f7032cd3e15505ed02/6a5ff44d3d6332043850ee6c_wistron-event-july2026-kv-3840x2160-1-842x450/wistron-event-july2026-kv-3840x2160-1-842x450_thmb.jpg?v=841e3369-d7a4-4283-b364-3080c365dfdc" alt=""></p><p>AI 時代仰賴 AI 基礎設施。許多這些先進系統都在德州製造與測試。緯創今天在沃斯堡開設了其美國首座製造設施——一座 324,000 平方英尺的全新綠地工廠，生產 superchips，這些 superchips 是全球最強大 AI 系統的核心。在一群緯創 […] 的觀眾面前</p>]]></content:encoded>
+    </item>
     <item>
       <title>這些國家正推動禁止兒童使用社群媒體</title>
       <link>https://techcrunch.com/2026/07/21/social-media-ban-children-countries-list/</link>
@@ -1009,18 +1021,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg?v=de93d241-6f17-49cf-bc60-a5ced2279836" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg?v=de93d241-6f17-49cf-bc60-a5ced2279836"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg?v=de93d241-6f17-49cf-bc60-a5ced2279836" alt=""></p><p>每年，國際機器學習大會（ICML）都會揭示數以千計的 AI 研究人員決定把心力投入在哪裡。 今年獲接受的論文顯示出一個明確方向：開放的前沿模型與開放的 AI 基礎設施，已成為現代 AI 科學研究的基礎。NVIDIA 在 ICML 2026 有 74 篇論文獲接受。約莫 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>各國如何運用 AI 推動戰略優先事項</title>
-      <link>https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nations-deploy-ai-strategic-priorities/</guid>
-      <pubDate>Mon, 06 Jul 2026 15:00:25 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>各國長期以來一直投資國內基礎設施，以促進經濟發展、保護並運用其資料，並把握運輸、通訊、商務、娛樂和醫療保健等領域的科技機會。AI，這個我們這個時代最重要的科技，正在為社會的每個層面加速創新。各國正投資 AI 能力，以便 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202506/6849556d3d6332a11bf78634_llm-blog-gtc-25-paris-3945665-1280x680-1-842x450/llm-blog-gtc-25-paris-3945665-1280x680-1-842x450_thmb.jpg?v=d8ba2467-53ff-4f7f-9b6b-b01ccb9070ac" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202506/6849556d3d6332a11bf78634_llm-blog-gtc-25-paris-3945665-1280x680-1-842x450/llm-blog-gtc-25-paris-3945665-1280x680-1-842x450_thmb.jpg?v=d8ba2467-53ff-4f7f-9b6b-b01ccb9070ac"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202506/6849556d3d6332a11bf78634_llm-blog-gtc-25-paris-3945665-1280x680-1-842x450/llm-blog-gtc-25-paris-3945665-1280x680-1-842x450_thmb.jpg?v=d8ba2467-53ff-4f7f-9b6b-b01ccb9070ac" alt=""></p><p>各國長期以來一直投資國內基礎設施，以促進經濟發展、保護並運用其資料，並把握運輸、通訊、商務、娛樂和醫療保健等領域的科技機會。AI，這個我們這個時代最重要的科技，正在為社會的每個層面加速創新。各國正投資 AI 能力，以便 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>我們公司轉型的最新進展</title>
