@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 19:46:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 20:01:39 GMT</lastBuildDate>
+    <item>
+      <title>13 個 Google 小技巧，讓你的大學暑假既有趣又高效</title>
+      <link>https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/summer-productivity-tips-google-ai-tools/</guid>
+      <pubDate>Tue, 21 Jul 2026 20:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解大學生如何使用 Google AI 工具，例如 Gemini 和 AI 模式，來為研究所申請、實習和秋季課程做準備。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12_Google_Productivity_Tips_her.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12_Google_Productivity_Tips_her.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12_Google_Productivity_Tips_her.max-600x600.format-webp.webp" alt=""></p><p>了解大學生如何使用 Google AI 工具，例如 Gemini 和 AI 模式，來為研究所申請、實習和秋季課程做準備。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Jack Dorsey 以 Buzz 挑戰 Slack，這是一個供團隊與其 AI 代理人使用的群組聊天平台</title>
       <link>https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/</link>
@@ -711,18 +723,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解企業如何透過衡量每一美元所帶來的有效工作量、提升效率，以及擴展高價值工作流程，來管理 agentic 時代的 AI 投資。</description>
-    </item>
-    <item>
-      <title>我們將 Gemini in Chrome 擴展給英國使用者</title>
-      <link>https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/were-expanding-gemini-in-chrome-to-users-in-the-uk/</guid>
-      <pubDate>Tue, 14 Jul 2026 07:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 從今天起，開始在英國推出 Chrome 的多項最新 AI 功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-ze4hxeoh_thumb.jpg" medium="image" type="image/jpeg" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-ze4hxeoh_thumb.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-ze4hxeoh_thumb.jpg" alt=""></p><p>Google 從今天起，開始在英國推出 Chrome 的多項最新 AI 功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>Meta 擴建路易斯安那州資料中心，教師與當地企業受惠</title>
