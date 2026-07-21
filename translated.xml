@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:42:26 GMT</lastBuildDate>
+    <item>
+      <title>音樂串流平台 Deezer 表示，每日上傳內容有超過 50% 是 AI 生成</title>
+      <link>https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144590</guid>
+      <pubDate>Tue, 21 Jul 2026 13:27:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Deezer 表示，6 月在平台上每天有超過 9 萬首 AI 生成曲目被上傳</description>
+    </item>
     <item>
       <title>Bluecore Energy 募得 1,000 萬美元，打造設於駁船上的可攜式核反應爐</title>
       <link>https://techcrunch.com/2026/07/21/this-uber-alumn-just-raised-a-10m-pre-seed-to-build-portable-nuclear-enegry/</link>
@@ -240,15 +249,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享部署長時間運行 AI 模型的經驗，強調新的安全風險、觀察到的失敗，以及透過迭代部署改善的防護措施。</description>
-    </item>
-    <item>
-      <title>Netflix 以 5.87 億美元收購 Ben Affleck 的 AI 電影製作新創公司</title>
-      <link>https://techcrunch.com/2026/07/19/netflix-paid-587m-for-ben-afflecks-ai-filmmaking-startup/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144113</guid>
-      <pubDate>Sun, 19 Jul 2026 21:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Netflix 透露，已以 5.87 億美元現金收購由 Ben Affleck 共同創立的新創公司 InterPositive。</description>
     </item>
     <item>
       <title>2026 足球夏季：Meta 各平台創下破紀錄時刻</title>
