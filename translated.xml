@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 15:28:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:43:56 GMT</lastBuildDate>
+    <item>
+      <title>美國威脅就智慧財產權竊取對中國 AI 模型祭出制裁</title>
+      <link>https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144722</guid>
+      <pubDate>Tue, 21 Jul 2026 15:37:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>財政部長 Scott Bessent 表示，美國可能會因涉嫌智慧財產權竊取而制裁中國的開源 AI 模型，進一步擴大川普政府放緩中國 AI 進展的行動。</description>
+    </item>
+    <item>
+      <title>NVIDIA Vera Rubin 以每瓦效能驅動表現，為全球合作夥伴帶來最低的 Token 成本</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-rubin/</guid>
+      <pubDate>Tue, 21 Jul 2026 15:36:43 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA Vera Rubin 登場，而且將邁向巨量規模。Vera Rubin NVL72 的量產正在加速，機架已在合作夥伴 CoreWeave、Google Cloud、Microsoft Azure 和 Oracle Cloud Infrastructure 運行。Vera Rubin 橫跨 30 個國家、350 多個工廠據點，擁有史上規模最大、最成熟的機架級供應鏈，以滿足客戶的運算需求。[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/815a8a18037d3a7514d0ce28f8d949de/6a5f922f3d633228b7291e17_vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450_thmb.jpg?v=c295a905-654b-411d-a586-6d456d4439ff" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/815a8a18037d3a7514d0ce28f8d949de/6a5f922f3d633228b7291e17_vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450_thmb.jpg?v=c295a905-654b-411d-a586-6d456d4439ff"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/815a8a18037d3a7514d0ce28f8d949de/6a5f922f3d633228b7291e17_vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450_thmb.jpg?v=c295a905-654b-411d-a586-6d456d4439ff" alt=""></p><p>NVIDIA Vera Rubin 登場，而且將邁向巨量規模。Vera Rubin NVL72 的量產正在加速，機架已在合作夥伴 CoreWeave、Google Cloud、Microsoft Azure 和 Oracle Cloud Infrastructure 運行。Vera Rubin 橫跨 30 個國家、350 多個工廠據點，擁有史上規模最大、最成熟的機架級供應鏈，以滿足客戶的運算需求。[…]</p>]]></content:encoded>
+    </item>
     <item>
       <title>為 Vera Rubin 打造，NVIDIA Spectrum-6 登陸超大規模 AI 工廠</title>
       <link>https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</link>
@@ -224,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Adobe 的 Project Indigo 現在可以移除你用這個 app 拍攝的照片中的各種背景</description>
-    </item>
-    <item>
-      <title>駭客正在利用最近修補的 WordPress 漏洞，讓數百萬個網站面臨風險</title>
-      <link>https://techcrunch.com/2026/07/20/hackers-are-exploiting-recently-patched-wordpress-bugs-putting-millions-of-websites-at-risk/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144249</guid>
-      <pubDate>Mon, 20 Jul 2026 15:35:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據一位資安研究員的估計，WordPress 軟體中的兩個重大安全漏洞，讓駭客有機會遠端接管數千萬個網站。</description>
     </item>
     <item>
       <title>在 SIGGRAPH，NVIDIA 推進具代理能力與物理 AI 的圖形與模擬</title>
@@ -979,18 +991,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>Amy Coleman，執行副總裁暨人力長，今天向員工分享了以下訊息。當我接下這個職位時，我承諾會更坦誠地與大家溝通，並分享我們決策背後的「為什麼」。今天，我們將裁撤約 4,800 個職位，約占全球員工數的 2.1%，因為我們正將我們的人力、投資與...
 〈我們公司轉型的最新進展〉最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>7 月歡樂上路，GeForce NOW 迎來 12 款新遊戲</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-july-2026-games-list/</guid>
-      <pubDate>Thu, 02 Jul 2026 13:00:23 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>夏天熱度升高，GeForce NOW 也帶著玩家一路同樂。這個月一開始就有《Monopoly: Star Wars Heroes vs. Villains》，把遙遠銀河帶進這個經典桌遊系列，同時還有 12 款新遊戲本月加入雲端。此。外，別讓太陽落下前就錯過最大的 GeForce […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/f38ec34046598385e3332bcd64a51247/6a4661303d6332ed559e1208_gfn-thursday-7-2-blog-2048x1024-no-copy-logo-842x450/gfn-thursday-7-2-blog-2048x1024-no-copy-logo-842x450_thmb.jpg?v=98e33fd2-d055-4908-9bde-73d7178cd0b4" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/f38ec34046598385e3332bcd64a51247/6a4661303d6332ed559e1208_gfn-thursday-7-2-blog-2048x1024-no-copy-logo-842x450/gfn-thursday-7-2-blog-2048x1024-no-copy-logo-842x450_thmb.jpg?v=98e33fd2-d055-4908-9bde-73d7178cd0b4"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/f38ec34046598385e3332bcd64a51247/6a4661303d6332ed559e1208_gfn-thursday-7-2-blog-2048x1024-no-copy-logo-842x450/gfn-thursday-7-2-blog-2048x1024-no-copy-logo-842x450_thmb.jpg?v=98e33fd2-d055-4908-9bde-73d7178cd0b4" alt=""></p><p>夏天熱度升高，GeForce NOW 也帶著玩家一路同樂。這個月一開始就有《Monopoly: Star Wars Heroes vs. Villains》，把遙遠銀河帶進這個經典桌遊系列，同時還有 12 款新遊戲本月加入雲端。此。外，別讓太陽落下前就錯過最大的 GeForce […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Microsoft Frontier Company：放大並保護你智慧的 AI 工程</title>
