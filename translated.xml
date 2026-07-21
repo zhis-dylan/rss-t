@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 15:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 15:28:44 GMT</lastBuildDate>
     <item>
       <title>為 Vera Rubin 打造，NVIDIA Spectrum-6 登陸超大規模 AI 工廠</title>
       <link>https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</link>
@@ -17,6 +17,18 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85" alt=""></p><p>AI 已進入超大規模時代。世界上最先進的 AI 工廠正把數十萬顆 GPU 和 CPU 匯聚在一起，用來訓練前沿模型、驅動代理式 AI，並以前所未有的規模產生智慧。在這個層級，網路已成為驅動 token 生成的關鍵運算效能倍增器。作為網路里程碑，NVIDIA Spectrum-6 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/</guid>
+      <pubDate>Tue, 21 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp" alt=""></p><p>我們正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。</p>]]></content:encoded>
     </item>
     <item>
       <title>Light 做出了一支摺疊手機。它色彩繽紛，而且很便宜。</title>
@@ -399,18 +411,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp" alt=""></p><p>你將能夠在 AI 模式中，直接安全地連結並使用你常用的服務。</p>]]></content:encoded>
     </item>
     <item>
-      <title>透過兩項 Google Vids 更新建立、編輯並親自入鏡影片</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Omni 和 Google Vids 的個人虛擬人像，讓影片製作比以往更簡單。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 和 Google Vids 的個人虛擬人像，讓影片製作比以往更簡單。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們正與喬治亞州公共圖書館服務合作，提供免費的職涯與 AI 訓練。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/</guid>
@@ -421,6 +421,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Georgia_Grow_with_Google_social.max-600x600.format-webp.webp" alt=""></p><p>Google 與喬治亞州公共圖書館服務合作，為全州居民提供免費的職涯證照課程與 AI 訓練。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>透過兩項 Google Vids 更新建立、編輯並親自入鏡影片</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</guid>
+      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Omni 和 Google Vids 的個人虛擬人像，讓影片製作比以往更簡單。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 和 Google Vids 的個人虛擬人像，讓影片製作比以往更簡單。</p>]]></content:encoded>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
@@ -677,18 +689,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-ze4hxeoh_thumb.jpg" medium="image" type="image/jpeg" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-ze4hxeoh_thumb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-ze4hxeoh_thumb.jpg" alt=""></p><p>Google 從今天起，開始在英國推出 Chrome 的多項最新 AI 功能。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini 如何說出東南亞的語言</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-southeast-asia-report-2026/</guid>
-      <pubDate>Tue, 14 Jul 2026 04:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>多虧 Gemini 對在地語言的流利掌握，以及該地區以行動裝置為先的人口結構，Gemini 正在東南亞迅速普及。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SEA_Report_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SEA_Report_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SEA_Report_.max-600x600.format-webp.webp" alt=""></p><p>多虧 Gemini 對在地語言的流利掌握，以及該地區以行動裝置為先的人口結構，Gemini 正在東南亞迅速普及。</p>]]></content:encoded>
     </item>
     <item>
       <title>Meta 擴建路易斯安那州資料中心，教師與當地企業受惠</title>
