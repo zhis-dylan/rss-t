@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 16:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:26:54 GMT</lastBuildDate>
+    <item>
+      <title>美國開源 AI 實驗室 Arcee 表示，中國模型本質上並不危險</title>
+      <link>https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144980</guid>
+      <pubDate>Wed, 22 Jul 2026 16:24:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著中國 AI 模型的能力與在美國企業中的普及程度不斷提升，外界對於應該如何因應它們的爭論也已經升溫到白熱化。</description>
+    </item>
+    <item>
+      <title>Substack 的新工具會告訴你哪些人是用 AI 寫電子報</title>
+      <link>https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145276</guid>
+      <pubDate>Wed, 22 Jul 2026 16:23:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Substack 讓讀者能估算一份電子報有多少內容是由 AI 撰寫，顯示外界正朝向對 AI 輔助內容提高透明度的更大轉變。</description>
+    </item>
+    <item>
+      <title>OpenAI 的 AI 大撒幣計畫已膨脹到 7,500 億美元</title>
+      <link>https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145288</guid>
+      <pubDate>Wed, 22 Jul 2026 16:13:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 到 2030 年將在基礎設施上花費相當於瑞典 GDP 的金額。</description>
+    </item>
     <item>
       <title>如果你支付駭客的贖金，他們很可能會再來要更多</title>
       <link>https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/</link>
@@ -265,33 +292,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這項新的租賃方案對這家硬體公司來說是一大轉變，而且正值它考慮提高許多產品價格之際。</description>
-    </item>
-    <item>
-      <title>資料中心預計到 2035 年用電量將增加 4 倍</title>
-      <link>https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144833</guid>
-      <pubDate>Tue, 21 Jul 2026 18:06:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>到 2033 年前建成的新資料中心，可能會消耗與印度如今相同的電力。</description>
-    </item>
-    <item>
-      <title>特斯拉在奧蘭多和坦帕啟動 Robotaxi 試點，為第二季財報做準備</title>
-      <link>https://techcrunch.com/2026/07/21/tesla-spins-up-robotaxi-pilots-in-orlando-and-tampa-ahead-of-q2-earnings/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144883</guid>
-      <pubDate>Tue, 21 Jul 2026 18:05:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司沒有說明每個城市各有多少台，且在擴展這個網路時採取了比執行長 Elon Musk 承諾更為謹慎的做法。</description>
-    </item>
-    <item>
-      <title>Google 推出三款新的 Gemini 模型——但沒有 3.5 Pro</title>
-      <link>https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144838</guid>
-      <pubDate>Tue, 21 Jul 2026 17:11:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 發布了 Gemini 3.6 Flash、3.5 Flash-Lite 和 Flash Cyber，但 Gemini 3.5 Pro 持續缺席，讓外界對其 AI 策略再度產生疑問。</description>
     </item>
     <item>
       <title>推出 ChatGPT 小型企業方案</title>
