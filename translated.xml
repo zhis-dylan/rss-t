@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 01:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 01:34:29 GMT</lastBuildDate>
+    <item>
+      <title>Dimension Capital 的 8 億美元第三檔基金顯示科學與運算的交會正蓬勃發展</title>
+      <link>https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145093</guid>
+      <pubDate>Wed, 22 Jul 2026 01:27:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家成立四年的公司最新基金規模比 18 個月前宣布的第二檔基金大 60%。</description>
+    </item>
     <item>
       <title>Meta 正在測試一款給沒什麼想像力的人用的 AI 睡前故事應用程式</title>
       <link>https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/</link>
@@ -270,15 +279,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_Alliance_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_Alliance_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_Alliance_social.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 BlackRock、Carhartt 和 Ford 攜手推出美國技術工種聯盟。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Xteink X4 Pro 可能是你夢寐以求的迷你電子書閱讀器</title>
-      <link>https://techcrunch.com/2026/07/21/the-xteink-x4-pro-could-be-the-tiny-e-reader-of-your-dreams/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144518</guid>
-      <pubDate>Tue, 21 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Xteink 透過觸控螢幕和前光，讓它的口袋尺寸電子書閱讀器更進一步。</description>
     </item>
     <item>
       <title>OpenAI 與 Hugging Face 合作因應模型評估期間的資安事件</title>
