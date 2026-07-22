@@ -5,15 +5,24 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 18:12:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:28:10 GMT</lastBuildDate>
     <item>
-      <title>Menlo Ventures 的 Matt Murphy 解釋為什麼 Anthropic 正在勝出（而且不是模型）</title>
-      <link>https://techcrunch.com/video/menlo-ventures-matt-murphy-explains-why-anthropic-is-winning-and-its-not-the-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3145436</guid>
-      <pubDate>Wed, 22 Jul 2026 18:02:57 GMT</pubDate>
+      <title>Science Corporation 的視力恢復晶片獲得歐盟核准</title>
+      <link>https://techcrunch.com/2026/07/22/science-corporations-vision-restoring-chip-wins-eu-approval/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145407</guid>
+      <pubDate>Wed, 22 Jul 2026 18:18:02 GMT</pubDate>
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 到 5 月時已躍升至 470 億美元的營收年化率，相較於 2025 年的 90 億美元。Menlo Ventures 的 Matt Murphy 說，這種成長是他在 25 年投資生涯中從未見過的，無論是網路浪潮、行動網路，還是第一波雲端熱潮都沒有。Menlo 領投 Anthropic 的 5 億美元 D 輪，而 Murphy 也親眼見證這家公司如何從尚未有營收的公司，[…]</description>
+      <description>「這個領域需要的是一家每年營收達 1 億美元的公司，」Science Corp. 執行長 Max Hodak 表示。</description>
+    </item>
+    <item>
+      <title>Yope 募得 1,230 萬美元，打造沒有演算法或廣告的私人社交網路</title>
+      <link>https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145364</guid>
+      <pubDate>Wed, 22 Jul 2026 18:13:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Yope 是一款成長快速的社交應用，專注於朋友和家人的私人群組，已募得 1,230 萬美元種子輪資金。這家新創沒有追逐創作者和演算法動態消息，而是押注社群網路的未來在於小型私密社群，透過訊息、照片分享，以及旨在強化真實世界關係的 AI 功能來運作。</description>
     </item>
     <item>
       <title>Monday.com 裁員數百人，聚焦 AI</title>
@@ -286,24 +295,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12_Google_Productivity_Tips_her.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12_Google_Productivity_Tips_her.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/12_Google_Productivity_Tips_her.max-600x600.format-webp.webp" alt=""></p><p>了解大學生如何使用 Google AI 工具，例如 Gemini 和 AI 模式，來為研究所申請、實習和秋季課程做準備。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Jack Dorsey 以 Buzz 挑戰 Slack，這是一個供團隊與其 AI 代理人使用的群組聊天平台</title>
-      <link>https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144907</guid>
-      <pubDate>Tue, 21 Jul 2026 19:43:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Buzz 是一個工作場域用的群組聊天平台，讓人類與他們的 AI 代理人能在同一個對話中互動。</description>
-    </item>
-    <item>
-      <title>AI 與通用娛樂 App 的崛起</title>
-      <link>https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144827</guid>
-      <pubDate>Tue, 21 Jul 2026 19:39:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在過去十年裡，串流平台透過主導音樂、影片、Podcast 或有聲書等單一格式來競爭。如今，隨著 AI 讓內容的創作、整理與推薦變得更容易，這些界線正逐漸消失，推動 Spotify、Netflix、YouTube 和 TikTok 等公司轉而成為全方位的娛樂目的地。</description>
     </item>
     <item>
       <title>推出 ChatGPT 小型企業方案</title>
