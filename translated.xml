@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 19:29:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 19:44:10 GMT</lastBuildDate>
+    <item>
+      <title>SoundCloud 收購去中心化音樂平台 Nina Protocol，距其關閉僅數月</title>
+      <link>https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145490</guid>
+      <pubDate>Wed, 22 Jul 2026 19:42:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>SoundCloud 已收購去中心化音樂平台 Nina Protocol，而這家新創公司是在數月前宣布將關閉後才完成這筆交易。這項交易將 Nina 的藝人、編輯檔案，以及音樂發掘工具帶到 SoundCloud，該公司持續擴展其面向獨立音樂人的平台。</description>
+    </item>
     <item>
       <title>OpenAI 的人為失誤如何導致對 Hugging Face 的 AI 驅動駭客攻擊</title>
       <link>https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/</link>
@@ -262,15 +271,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家成立四年的公司最新基金規模比 18 個月前宣布的第二檔基金大 60%。</description>
-    </item>
-    <item>
-      <title>Meta 正在測試一款給沒什麼想像力的人用的 AI 睡前故事應用程式</title>
-      <link>https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145004</guid>
-      <pubDate>Tue, 21 Jul 2026 23:55:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 的 StoryKit 應用程式目前只在特定地區提供，因為公司正在測試家長對它的反應。</description>
     </item>
     <item>
       <title>在沃斯堡打造：緯創開設先進製造工廠，生產 NVIDIA AI 系統</title>
