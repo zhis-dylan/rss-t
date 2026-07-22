@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 20:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:00:00 GMT</lastBuildDate>
+    <item>
+      <title>財政部在白宮指控 Moonshot 蒸餾 Anthropic 的 Fable 之後揚言制裁</title>
+      <link>https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145517</guid>
+      <pubDate>Wed, 22 Jul 2026 20:49:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>財政部長史考特・貝森特警告，在白宮官員指控 Moonshot 蒸餾 Anthropic 的 Fable 模型以開發 Kimi K3 之後，美國政府可能會制裁中國 AI 公司。</description>
+    </item>
+    <item>
+      <title>2026 年第二季財報電話會議：我們執行長的談話</title>
+      <link>https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/</guid>
+      <pubDate>Wed, 22 Jul 2026 20:45:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>閱讀 Sundar Pichai 在 2026 年第二季 Alphabet 財報電話會議上的談話逐字稿編輯版。</description>
+    </item>
     <item>
       <title>Tesla支出飆升，Cybercab、Semi、Megapack量產時程延後</title>
       <link>https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/</link>
@@ -262,15 +280,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Glow 針對企業內快速採用 AI 代理與開發者工具所造成的新一類端點風險。</description>
-    </item>
-    <item>
-      <title>Synthesia 的 AI 訓練平台正從影片邁向即時教練</title>
-      <link>https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145013</guid>
-      <pubDate>Wed, 22 Jul 2026 08:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Synthesia 推出 AI Roleplay Sessions，這是一個互動式企業訓練平台，員工可透過 AI 虛擬角色練習職場對話，並獲得回饋、評分與分析，協助公司衡量訓練成效。</description>
     </item>
     <item>
       <title>介紹 OpenAI Presence</title>
@@ -758,18 +767,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PixelCare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PixelCare.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PixelCare.max-600x600.format-webp.webp" alt=""></p><p>從 7 月 13 日到 8 月 2 日，註冊 Pixel Care+，即可享有意外損壞保障，以及 0 元電池和螢幕維修。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>大都會藝術博物館與 Google Arts &amp; Culture 慶祝 15 年創新</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-met-ai-initiatives/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-met-ai-initiatives/</guid>
-      <pubDate>Tue, 14 Jul 2026 20:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>大都會藝術博物館與 Google Arts &amp; Culture 推出兩項新的生成式 AI 計畫。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Met_Keyword_Asset_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Met_Keyword_Asset_2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Met_Keyword_Asset_2.max-600x600.format-webp.webp" alt=""></p><p>大都會藝術博物館與 Google Arts &amp;amp; Culture 推出兩項新的生成式 AI 計畫。</p>]]></content:encoded>
     </item>
     <item>
       <title>Nemotron Labs：開放模型如何為企業和國家帶來可信任、可控制且可自訂的 AI</title>
