@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 21 Jul 2026 23:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 00:03:45 GMT</lastBuildDate>
+    <item>
+      <title>Meta 正在測試一款給沒什麼想像力的人用的 AI 睡前故事應用程式</title>
+      <link>https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145004</guid>
+      <pubDate>Tue, 21 Jul 2026 23:55:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 的 StoryKit 應用程式目前只在特定地區提供，因為公司正在測試家長對它的反應。</description>
+    </item>
     <item>
       <title>在沃斯堡打造：緯創開設先進製造工廠，生產 NVIDIA AI 系統</title>
       <link>https://blogs.nvidia.com/blog/wistron-manufacturing-texas/</link>
@@ -270,15 +279,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Xteink 透過觸控螢幕和前光，讓它的口袋尺寸電子書閱讀器更進一步。</description>
-    </item>
-    <item>
-      <title>音樂串流平台 Deezer 表示，每日上傳內容有超過 50% 是 AI 生成</title>
-      <link>https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144590</guid>
-      <pubDate>Tue, 21 Jul 2026 13:27:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Deezer 表示，6 月在平台上每天有超過 9 萬首 AI 生成曲目被上傳</description>
     </item>
     <item>
       <title>OpenAI 與 Hugging Face 合作因應模型評估期間的資安事件</title>
