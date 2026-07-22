@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 16:42:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 16:57:13 GMT</lastBuildDate>
     <item>
       <title>美國開源 AI 實驗室 Arcee 表示，中國模型本質上並不危險</title>
       <link>https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/</link>
@@ -32,6 +32,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 到 2030 年將在基礎設施上花費相當於瑞典 GDP 的金額。</description>
+    </item>
+    <item>
+      <title>以下是如何向 Gemini Live 尋求你所看到的一切的協助。</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/</guid>
+      <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>你是否曾經苦於描述你正在看的東西？不論是複雜的手冊、閃爍的錯誤代碼，還是獨特的物件，有時你只需要一點說明……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Gemini_Live_for_help_with_a.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Gemini_Live_for_help_with_a.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Gemini_Live_for_help_with_a.max-600x600.format-webp.webp" alt=""></p><p>你是否曾經苦於描述你正在看的東西？不論是複雜的手冊、閃爍的錯誤代碼，還是獨特的物件，有時你只需要一點說明……</p>]]></content:encoded>
     </item>
     <item>
       <title>如果你支付駭客的贖金，他們很可能會再來要更多</title>
@@ -770,18 +782,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg?v=609c4fe9-a975-4efd-85b1-517908e7e239" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg?v=609c4fe9-a975-4efd-85b1-517908e7e239"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg?v=609c4fe9-a975-4efd-85b1-517908e7e239" alt=""></p><p>企業有許多強大的模型可供選擇。真正的考驗在於，企業所打造的 AI 是否能獨特地滿足業務需求：改善工作流程、運用領域知識，並超越準確性與信任標準。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們有史以來最大的太陽能與電池儲能專案</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/steel-river-arkansas/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/steel-river-arkansas/</guid>
-      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 將投資並向位於阿肯色州密西西比郡的 Steel River Energy Center 購買能源和儲能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_SteelRiver_Groundbreaking-21.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_SteelRiver_Groundbreaking-21.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_SteelRiver_Groundbreaking-21.max-600x600.format-webp.webp" alt=""></p><p>Google 將投資並向位於阿肯色州密西西比郡的 Steel River Energy Center 購買能源和儲能。</p>]]></content:encoded>
     </item>
     <item>
       <title>為什麼每瓦效能是 AI 基礎設施效率的終極指標</title>
