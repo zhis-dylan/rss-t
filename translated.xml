@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 09:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 10:08:24 GMT</lastBuildDate>
+    <item>
+      <title>Glow 以 12 億美元估值低調亮相，挑戰 AI 時代的端點安全</title>
+      <link>https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144940</guid>
+      <pubDate>Wed, 22 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Glow 針對企業內快速採用 AI 代理與開發者工具所造成的新一類端點風險。</description>
+    </item>
     <item>
       <title>Synthesia 的 AI 訓練平台正從影片邁向即時教練</title>
       <link>https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/</link>
@@ -258,15 +267,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Snap 是最新一家和解訴訟的大型科技公司，該訴訟主張社群媒體平台對兒童和年輕人有害。該公司已在一宗原定於本月稍晚開庭審理的案件中達成「初步」協議。TikTok 最近已就這宗案件中的其部分與原告達成和解，原告被稱為 […]</description>
-    </item>
-    <item>
-      <title>根據 Have I Been Pwned，AI 音樂生成器 Suno 遭入侵，影響 5,500 萬用戶</title>
-      <link>https://techcrunch.com/2026/07/21/ai-music-generator-suno-breach-affects-55m-users-per-have-i-been-pwned/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144712</guid>
-      <pubDate>Tue, 21 Jul 2026 14:48:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一名駭客取得了數百萬使用 AI 音樂生成器 Suno 的客戶姓名、電話號碼和實體地址。</description>
     </item>
     <item>
       <title>我們正在宣布美國技術工種聯盟。</title>
