@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 20:29:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 20:44:47 GMT</lastBuildDate>
+    <item>
+      <title>Tesla支出飆升，Cybercab、Semi、Megapack量產時程延後</title>
+      <link>https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145498</guid>
+      <pubDate>Wed, 22 Jul 2026 20:43:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tesla 26%的營收成長仍不足以抵銷營運費用與資本支出的增加，因為該公司正推動新一代產品上市。</description>
+    </item>
+    <item>
+      <title>針對 Meta 的社群媒體成癮訴訟遭撤回</title>
+      <link>https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145505</guid>
+      <pubDate>Wed, 22 Jul 2026 20:36:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一宗備受關注、原定下週開庭的社群媒體成癮訴訟，在原告自願撤回對 Meta 的主張後遭到撤回，導致此案沒有任何主要科技公司面臨審判。</description>
+    </item>
     <item>
       <title>SoundCloud 收購去中心化音樂平台 Nina Protocol，距其關閉僅數月</title>
       <link>https://techcrunch.com/2026/07/22/soundcloud-acquires-decentralized-music-platform-nina-protocol-months-after-its-shutdown/</link>
@@ -262,24 +280,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>推出 OpenAI Presence，一個經過驗證的企業 AI 智慧代理平台，協助組織為客戶和內部工作流程部署值得信賴的語音與聊天代理。</description>
-    </item>
-    <item>
-      <title>Anthropic 與 Physical Intelligence 的傳聞在 AI Twitter 掀起波瀾</title>
-      <link>https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145006</guid>
-      <pubDate>Wed, 22 Jul 2026 03:20:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 和 OpenAI 在 2026 年積極展開的收購熱潮，為這個週末傳聞埋下伏筆。</description>
-    </item>
-    <item>
-      <title>Dimension Capital 的 8 億美元第三檔基金顯示科學與運算的交會正蓬勃發展</title>
-      <link>https://techcrunch.com/2026/07/21/dimension-capitals-800m-third-fund-shows-the-intersection-of-science-and-compute-is-booming/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145093</guid>
-      <pubDate>Wed, 22 Jul 2026 01:27:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家成立四年的公司最新基金規模比 18 個月前宣布的第二檔基金大 60%。</description>
     </item>
     <item>
       <title>在沃斯堡打造：緯創開設先進製造工廠，生產 NVIDIA AI 系統</title>
