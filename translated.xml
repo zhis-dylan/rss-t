@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 13:10:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:25:14 GMT</lastBuildDate>
+    <item>
+      <title>瀏覽器戰爭已經不再是關於搜尋了——以下是 Chrome 和 Safari 的最佳替代選擇</title>
+      <link>https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3026701</guid>
+      <pubDate>Wed, 22 Jul 2026 13:20:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>我們整理了目前一些旨在挑戰 Chrome 和 Safari 的頂尖替代瀏覽器概覽。</description>
+    </item>
     <item>
       <title>NVIDIA 開源首個 GPU 加速的醫療物理模擬框架</title>
       <link>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</link>
@@ -283,15 +292,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>有了這些新工具，家長和監護人將能查看青少年在 Threads 上花費的時間、設定每日使用時間上限、調整睡眠模式，並管理其隱私設定。</description>
-    </item>
-    <item>
-      <title>美國威脅就智慧財產權竊取對中國 AI 模型祭出制裁</title>
-      <link>https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144722</guid>
-      <pubDate>Tue, 21 Jul 2026 15:37:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>財政部長 Scott Bessent 表示，美國可能會因涉嫌智慧財產權竊取而制裁中國的開源 AI 模型，進一步擴大川普政府放緩中國 AI 進展的行動。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 以每瓦效能驅動表現，為全球合作夥伴帶來最低的 Token 成本</title>
