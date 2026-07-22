@@ -5,7 +5,29 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 13:25:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:40:26 GMT</lastBuildDate>
+    <item>
+      <title>新的 WhatsApp 功能跟上你真實的生活方式</title>
+      <link>https://about.fb.com/news/2026/07/new-whatsapp-features-keep-up-with-the-way-you-actually-live/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=49646</guid>
+      <pubDate>Wed, 22 Jul 2026 13:30:41 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>我們推出了新功能，讓你更容易把 WhatsApp 融入生活。
+〈新的 WhatsApp 功能跟上你真實的生活方式〉最早出現在 Meta 新聞中心。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/WhatsApp-Feature-Roundup_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/WhatsApp-Feature-Roundup_Header.jpg?fit=1920%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/WhatsApp-Feature-Roundup_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們推出了新功能，讓你更容易把 WhatsApp 融入生活。<br>〈新的 WhatsApp 功能跟上你真實的生活方式〉最早出現在 Meta 新聞中心。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Cascade 募得 350 萬美元，協助營造公司找到並贏得專案</title>
+      <link>https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145157</guid>
+      <pubDate>Wed, 22 Jul 2026 13:28:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>a16z Speedrun、Ada Ventures 和 Snowball VC 參與了 Cascade 350 萬美元種子輪投資。</description>
+    </item>
     <item>
       <title>瀏覽器戰爭已經不再是關於搜尋了——以下是 Chrome 和 Safari 的最佳替代選擇</title>
       <link>https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/</link>
@@ -283,15 +305,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在 Threads 推出家長監護功能，讓家長能在 Meta 的各款應用程式中，提供更多工具來支持青少年。<br>這篇〈Threads 即將推出新的家長監護工具〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Threads 推出家長監護工具</title>
-      <link>https://techcrunch.com/2026/07/21/threads-rolls-out-parental-supervision-tools/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144698</guid>
-      <pubDate>Tue, 21 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>有了這些新工具，家長和監護人將能查看青少年在 Threads 上花費的時間、設定每日使用時間上限、調整睡眠模式，並管理其隱私設定。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 以每瓦效能驅動表現，為全球合作夥伴帶來最低的 Token 成本</title>
@@ -1142,19 +1155,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>HP Inc. 擴大其 OpenAI Frontier 合作夥伴關係，以在客戶體驗、軟體開發和企業營運中部署 AI。</description>
-    </item>
-    <item>
-      <title>走進 Meta 的其中一座資料中心</title>
-      <link>https://about.fb.com/news/2026/06/inside-meta-data-center/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49272</guid>
-      <pubDate>Fri, 26 Jun 2026 18:28:26 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>跟著 Tom Shaw 一起深入了解 Meta 位於愛荷華州奧圖納的資料中心。從運算伺服器到永續冷卻系統，看看 Tom 對這套每天連結超過 35 億人的基礎設施與技術的觀點。由 Tom Shaw 製作
-〈走進 Meta 的其中一座資料中心〉一文首先出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/06/Tom-Shaw-pointing-thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/06/Tom-Shaw-pointing-thumbnail.jpg?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/06/Tom-Shaw-pointing-thumbnail.jpg?fit=890%2C501" alt=""></p><p>跟著 Tom Shaw 一起深入了解 Meta 位於愛荷華州奧圖納的資料中心。從運算伺服器到永續冷卻系統，看看 Tom 對這套每天連結超過 35 億人的基礎設施與技術的觀點。由 Tom Shaw 製作<br>〈走進 Meta 的其中一座資料中心〉一文首先出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>預覽 GPT-5.6 Sol：下一代模型</title>
