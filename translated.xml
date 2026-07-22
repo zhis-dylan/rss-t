@@ -5,7 +5,67 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 22 Jul 2026 12:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 13:10:04 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 開源首個 GPU 加速的醫療物理模擬框架</title>
+      <link>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:11 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在醫療照護機器人能在真實世界中發揮作用之前，它必須學會理解物理世界如何反作用。解剖結構各不相同。器械會彎曲、施壓、滑動並與組織互動。影像可能有雜訊，或是不完整。而開發人員最需要理解的罕見邊緣情境，並不會按時出現。這造成了其中之一 […]</description>
+    </item>
+    <item>
+      <title>與艾芬厄姆郡社區一起打造 AI 基礎設施</title>
+      <link>https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</link>
+      <guid isPermaLink="false">https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 在喬治亞州艾芬厄姆郡宣布 Project Camellia，並承諾負責任的能源、社區投資、工作機會，以及 Codex 的使用權。</description>
+    </item>
+    <item>
+      <title>輕鬆切換到 Android，並帶著你的資料一起過來。</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-switch-from-iphone-to-android/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-switch-from-iphone-to-android/</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Android 17 內建全新的移轉體驗，讓你能從 iPhone 無線傳輸更多資料。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp" alt=""></p><p>Android 17 內建全新的移轉體驗，讓你能從 iPhone 無線傳輸更多資料。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>來自 Galaxy Unpacked 2026 的 3 項 Google 更新</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們分享了 Samsung 使用者如何在即將推出的新摺疊機、手錶和眼鏡上提升生產力並省下時間。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp" alt=""></p><p>我們分享了 Samsung 使用者如何在即將推出的新摺疊機、手錶和眼鏡上提升生產力並省下時間。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Passionfroot 募得 1,500 萬美元，將其 B2B 創作者市集擴展到美國</title>
+      <link>https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144582</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Passionfroot 是一家德國新創公司，正在打造一個連結 B2B 創作者與品牌的市集，已在由 Insight Partners 領投的 A 輪融資中募得 1,500 萬美元。</description>
+    </item>
+    <item>
+      <title>WhatsApp 新增 Apple CarPlay 與 Android Auto 升級、iPad 註冊等功能</title>
+      <link>https://techcrunch.com/2026/07/22/whatsapp-adds-apple-carplay-and-android-auto-upgrades-ipad-sign-ups-and-more/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144884</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>WhatsApp 在 Apple CarPlay 和 Android Auto 上，將讓使用者可以聽取並回覆訊息、撥打電話、查看通話紀錄，並免持且直接從車載螢幕存取常用聯絡人。</description>
+    </item>
     <item>
       <title>驅動美國的 Genesis Mission：Microsoft 對科學發現的承諾</title>
       <link>https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/</link>
@@ -33,6 +93,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Synthesia 推出 AI Roleplay Sessions，這是一個互動式企業訓練平台，員工可透過 AI 虛擬角色練習職場對話，並獲得回饋、評分與分析，協助公司衡量訓練成效。</description>
+    </item>
+    <item>
+      <title>介紹 OpenAI Presence</title>
+      <link>https://openai.com/index/introducing-openai-presence</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-presence</guid>
+      <pubDate>Wed, 22 Jul 2026 05:30:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>推出 OpenAI Presence，一個經過驗證的企業 AI 智慧代理平台，協助組織為客戶和內部工作流程部署值得信賴的語音與聊天代理。</description>
     </item>
     <item>
       <title>Anthropic 與 Physical Intelligence 的傳聞在 AI Twitter 掀起波瀾</title>
@@ -259,24 +328,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp" alt=""></p><p>我們正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Light 做出了一支摺疊手機。它色彩繽紛，而且很便宜。</title>
-      <link>https://techcrunch.com/2026/07/21/light-is-modernizing-the-flip-phone-with-light-flip/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144347</guid>
-      <pubDate>Tue, 21 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Light 共同創辦人 Kaiwei Tang 曾協助打造 Motorola Razr，而他和其他人一樣都很驚訝，二十多年後，摺疊手機竟然又重新變得有意義了。</description>
-    </item>
-    <item>
-      <title>繼 TikTok 之後，Snap 和解社群媒體成癮訴訟案</title>
-      <link>https://techcrunch.com/2026/07/21/after-tiktok-snap-settles-social-media-addiction-case/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144711</guid>
-      <pubDate>Tue, 21 Jul 2026 14:54:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Snap 是最新一家和解訴訟的大型科技公司，該訴訟主張社群媒體平台對兒童和年輕人有害。該公司已在一宗原定於本月稍晚開庭審理的案件中達成「初步」協議。TikTok 最近已就這宗案件中的其部分與原告達成和解，原告被稱為 […]</description>
     </item>
     <item>
       <title>我們正在宣布美國技術工種聯盟。</title>
@@ -711,18 +762,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_SteelRiver_Groundbreaking-21.max-600x600.format-webp.webp" alt=""></p><p>Google 將投資並向位於阿肯色州密西西比郡的 Steel River Energy Center 購買能源和儲能。</p>]]></content:encoded>
     </item>
     <item>
-      <title>慶祝視覺搜尋創新 25 週年</title>
-      <link>https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary/</guid>
-      <pubDate>Tue, 14 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 圖片即將滿 25 週年。這裡回顧一些重要里程碑，以及探索和創造視覺內容的新方式。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Images_25th_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 圖片即將滿 25 週年。這裡回顧一些重要里程碑，以及探索和創造視覺內容的新方式。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>為什麼每瓦效能是 AI 基礎設施效率的終極指標</title>
       <link>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</guid>
@@ -742,18 +781,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple Arcade 透過加入 EA SPORTS Madden NFL 27 等遊戲，擴充其熱門運動遊戲陣容，更多內容將於 8 月登場。</description>
-    </item>
-    <item>
-      <title>重建比利「失落」的進球</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/reconstructing-peles-lost-goal/</guid>
-      <pubDate>Tue, 14 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看 Google DeepMind 的 AI 技術如何在我們的新迷你紀錄片中重建比利 1959 年在 Rua Javari 的傳奇失落進球。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-07-13_at_7.18.4.max-600x600.format-webp.webp" alt=""></p><p>看看 Google DeepMind 的 AI 技術如何在我們的新迷你紀錄片中重建比利 1959 年在 Rua Javari 的傳奇失落進球。</p>]]></content:encoded>
     </item>
     <item>
       <title>如何在 agentic 時代管理 AI 投資</title>
@@ -826,6 +853,15 @@
       <description>了解 GPT-5.6 如何透過更強的 AI 能力驅動 Microsoft 365 Copilot，涵蓋 Word、Excel、PowerPoint、Chat 和 Cowork，讓工作更快、品質更高。</description>
     </item>
     <item>
+      <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
+      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Work 是一個 agent，可以跨你的應用程式和檔案採取行動，必要時能持續跟進一個專案數小時，並把一個目標變成完成的成果。</description>
+    </item>
+    <item>
       <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
       <link>https://openai.com/index/gpt-5-6</link>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
@@ -842,15 +878,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 生物獎勵計畫的詳細資訊</description>
-    </item>
-    <item>
-      <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
-      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Work 是一個 agent，可以跨你的應用程式和檔案採取行動，必要時能持續跟進一個專案數小時，並把一個目標變成完成的成果。</description>
     </item>
     <item>
       <title>Apple 獲得創紀錄的 89 項艾美獎提名</title>
@@ -1019,18 +1046,6 @@ Take It Down：我們支持 NCMEC 建立 Take It Down 工具，這有助於防�
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>看看 Australian Payments Plus 如何運用 ChatGPT Enterprise 和 Codex，更快因應支付領域的複雜性。AP+ 節省時間、提升品質，並讓人類判斷始終居於核心。</description>
-    </item>
-    <item>
-      <title>開放模型如何推動 AI 研究</title>
-      <link>https://blogs.nvidia.com/blog/open-models-icml-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-models-icml-2026/</guid>
-      <pubDate>Mon, 06 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>每年，國際機器學習大會（ICML）都會揭示數以千計的 AI 研究人員決定把心力投入在哪裡。 今年獲接受的論文顯示出一個明確方向：開放的前沿模型與開放的 AI 基礎設施，已成為現代 AI 科學研究的基礎。NVIDIA 在 ICML 2026 有 74 篇論文獲接受。約莫 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg?v=de93d241-6f17-49cf-bc60-a5ced2279836" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg?v=de93d241-6f17-49cf-bc60-a5ced2279836"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/71178f679a4a0e9b1cb80a0672270b98/6a4bd12a3d633294f94558f5_ICML-Blog-Featured-Image-842x450/ICML-Blog-Featured-Image-842x450_thmb.jpg?v=de93d241-6f17-49cf-bc60-a5ced2279836" alt=""></p><p>每年，國際機器學習大會（ICML）都會揭示數以千計的 AI 研究人員決定把心力投入在哪裡。 今年獲接受的論文顯示出一個明確方向：開放的前沿模型與開放的 AI 基礎設施，已成為現代 AI 科學研究的基礎。NVIDIA 在 ICML 2026 有 74 篇論文獲接受。約莫 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>我們公司轉型的最新進展</title>
@@ -1235,15 +1250,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" alt=""></p><p>今天，Microsoft 宣布其歷史上最大的一次單筆容量擴充之一。我們將在德州 Pecos 建立一座新的資料中心園區，將我們的全球資料中心容量擴充約 2 吉瓦（GW），以滿足各產業與各地區對 AI 和雲端服務強勁且持續的客戶需求。除了技術層面之外，這也是...<br>〈Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos〉一文最先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Patch the Planet：一項支持開源維護者的 Daybreak 倡議</title>
-      <link>https://openai.com/index/patch-the-planet</link>
-      <guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出 Patch the Planet，這是 Daybreak 的一項倡議，協助開源維護者透過 AI 與專家審查找出、驗證並修補漏洞。</description>
-    </item>
-    <item>
       <title>Daybreak：為全球每個組織提供安全防護的工具</title>
       <link>https://openai.com/index/daybreak-securing-the-world</link>
       <guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
@@ -1251,6 +1257,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出新的 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，協助組織大規模找出、驗證並修補漏洞。</description>
+    </item>
+    <item>
+      <title>Patch the Planet：一項支持開源維護者的 Daybreak 倡議</title>
+      <link>https://openai.com/index/patch-the-planet</link>
+      <guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 推出 Patch the Planet，這是 Daybreak 的一項倡議，協助開源維護者透過 AI 與專家審查找出、驗證並修補漏洞。</description>
     </item>
     <item>
       <title>Codex-maxxing 用於長時間執行的工作</title>
@@ -1371,15 +1386,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>Preply 使用 OpenAI 推出 AI 生成的課堂摘要，提供個人化回饋與語言學習練習。</description>
     </item>
     <item>
-      <title>OpenAI 將收購 Ona</title>
-      <link>https://openai.com/index/openai-to-acquire-ona</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 計劃收購 Ona，以透過安全、持久的雲端環境擴展 Codex，讓 AI 代理能在企業工作流程中長時間運作。</description>
-    </item>
-    <item>
       <title>天文物理學家如何運用 Codex 協助模擬黑洞</title>
       <link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
       <guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
@@ -1389,13 +1395,13 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>了解天文物理學家陳志寬如何使用 Codex 建立黑洞模擬，協助科學家研究極端物理現象並測試愛因斯坦的廣義相對論理論。</description>
     </item>
     <item>
-      <title>BBVA將 AI 放在銀行業務核心，攜手 OpenAI</title>
-      <link>https://openai.com/index/bbva</link>
-      <guid isPermaLink="false">https://openai.com/index/bbva</guid>
+      <title>OpenAI 將收購 Ona</title>
+      <link>https://openai.com/index/openai-to-acquire-ona</link>
+      <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
       <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
+      <description>OpenAI 計劃收購 Ona，以透過安全、持久的雲端環境擴展 Codex，讓 AI 代理能在企業工作流程中長時間運作。</description>
     </item>
     <item>
       <title>支持歐洲在確保可信賴 AI 生態系統方面的工作</title>
@@ -1405,6 +1411,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 支持歐盟 AI 內容透明度行為準則，推動來源標準和工具，協助人們理解 AI 生成內容。</description>
+    </item>
+    <item>
+      <title>BBVA將 AI 放在銀行業務核心，攜手 OpenAI</title>
+      <link>https://openai.com/index/bbva</link>
+      <guid isPermaLink="false">https://openai.com/index/bbva</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
     </item>
     <item>
       <title>透過你的 Oracle 雲端承諾存取 OpenAI 模型和 Codex</title>
@@ -1632,15 +1647,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>了解 Wasmer 如何搭配 GPT-5.5 使用 Codex 打造適用於邊緣端的 Node.js 執行環境，將開發速度加快 10 倍到 20 倍，並在數週內而非數月內完成推出。</description>
     </item>
     <item>
-      <title>前沿 AI 民主治理藍圖</title>
-      <link>https://openai.com/index/frontier-safety-blueprint</link>
-      <guid isPermaLink="false">https://openai.com/index/frontier-safety-blueprint</guid>
-      <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 概述了美國前沿 AI 治理藍圖，提出聯邦框架以保障安全、韌性與國家安全。</description>
-    </item>
-    <item>
       <title>OpenAI 公共政策議程</title>
       <link>https://openai.com/index/public-policy-agenda</link>
       <guid isPermaLink="false">https://openai.com/index/public-policy-agenda</guid>
@@ -1648,6 +1654,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 概述其人工智慧公共政策議程，涵蓋安全、青少年保護、勞動力轉型，以及確保人工智慧造福社會的全球標準。</description>
+    </item>
+    <item>
+      <title>前沿 AI 民主治理藍圖</title>
+      <link>https://openai.com/index/frontier-safety-blueprint</link>
+      <guid isPermaLink="false">https://openai.com/index/frontier-safety-blueprint</guid>
+      <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 概述了美國前沿 AI 治理藍圖，提出聯邦框架以保障安全、韌性與國家安全。</description>
     </item>
     <item>
       <title>AI 本身不會改變你的業務。真正改變它的是運作它的系統。</title>
@@ -1908,13 +1923,13 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>AdventHealth 正在使用 ChatGPT for Healthcare 來簡化工作流程、減輕行政負擔，並把更多時間還給病患照護。</description>
     </item>
     <item>
-      <title>一個 OpenAI 模型已推翻離散幾何中的一個核心猜想</title>
-      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture</link>
-      <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture</guid>
+      <title>OpenAI 國家教育的下一階段</title>
+      <link>https://openai.com/index/the-next-phase-of-education-for-countries</link>
+      <guid isPermaLink="false">https://openai.com/index/the-next-phase-of-education-for-countries</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>一個 OpenAI 模型解決了已有 80 年歷史的單位距離問題，推翻離散幾何中的一個重要猜想，並標誌著 AI 驅動數學的一個里程碑。</description>
+      <description>OpenAI 推進國家教育，透過新的合作夥伴關係、教師培訓與工具，擴大 AI 在學校中的採用，以改善全球學習成果。</description>
     </item>
     <item>
       <title>Ramp 工程師如何使用 Codex 加速程式碼審查</title>
@@ -1926,13 +1941,13 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>Ramp 工程師如何將 Codex 與 GPT-5.5 搭配使用來審查程式碼並推出改進，讓他們能在幾分鐘內而不是幾小時內獲得實質回饋。</description>
     </item>
     <item>
-      <title>OpenAI 國家教育的下一階段</title>
-      <link>https://openai.com/index/the-next-phase-of-education-for-countries</link>
-      <guid isPermaLink="false">https://openai.com/index/the-next-phase-of-education-for-countries</guid>
+      <title>一個 OpenAI 模型已推翻離散幾何中的一個核心猜想</title>
+      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture</link>
+      <guid isPermaLink="false">https://openai.com/index/model-disproves-discrete-geometry-conjecture</guid>
       <pubDate>Wed, 20 May 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推進國家教育，透過新的合作夥伴關係、教師培訓與工具，擴大 AI 在學校中的採用，以改善全球學習成果。</description>
+      <description>一個 OpenAI 模型解決了已有 80 年歷史的單位距離問題，推翻離散幾何中的一個重要猜想，並標誌著 AI 驅動數學的一個里程碑。</description>
     </item>
     <item>
       <title>介紹 OpenAI 新加坡版</title>
@@ -1962,15 +1977,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <description>OpenAI 與 Dell 合作，將 Codex 帶入混合與地端環境，協助企業在資料與工作流程之間，以安全方式部署 AI 程式碼代理。</description>
     </item>
     <item>
-      <title>OpenAI 與馬爾他合作，讓所有公民都能使用 ChatGPT Plus</title>
-      <link>https://openai.com/index/malta-chatgpt-plus-partnership</link>
-      <guid isPermaLink="false">https://openai.com/index/malta-chatgpt-plus-partnership</guid>
-      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 與馬爾他合作，擴大 AI 使用機會，提供 ChatGPT Plus 和訓練，協助公民培養實用的 AI 技能並負責任地使用 AI。</description>
-    </item>
-    <item>
       <title>銷售團隊如何使用 Codex</title>
       <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
       <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</guid>
@@ -1987,15 +1993,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解資料科學團隊如何使用 Codex，根據實際工作輸入建立根本原因簡報、影響報告、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
-    </item>
-    <item>
-      <title>商務營運團隊如何使用 Codex</title>
-      <link>https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解商務營運團隊如何使用 Codex，根據實際工作輸入建立倡議簡報、策略更新、領導層決策包、進度更新等內容。</description>
     </item>
   </channel>
 </rss>
