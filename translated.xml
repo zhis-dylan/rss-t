@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 09:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 10:06:20 GMT</lastBuildDate>
+    <item>
+      <title>了解 AI 經濟</title>
+      <link>https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/</guid>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image-3-with-logo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image-3-with-logo.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image-3-with-logo.max-600x600.format-webp.webp" alt=""></p><p>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>推出自拍登入：存取 Google 帳戶的新簡單方式</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/</guid>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>自拍影片可在你被鎖在外面，或無法使用平常的手機或電腦時，提供更多選項。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp" alt=""></p><p>自拍影片可在你被鎖在外面，或無法使用平常的手機或電腦時，提供更多選項。</p>]]></content:encoded>
+    </item>
     <item>
       <title>ServiceNow 下注 4,000 萬美元投資印度銀行軟體專家，以擴大其金融服務布局</title>
       <link>https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/</link>
@@ -660,15 +684,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg?v=bd33b739-b1ec-4d77-bd91-49605860249f" alt=""></p><p>《鬼武者：劍之道》將在上市時登陸 GeForce NOW，本週也會提供可遊玩的試玩版。Denshattack! 也會加入，雲端將迎來五款新遊戲。此外，GeForce NOW 正式在印度上線，從 beta 轉為正式提供服務——這代表玩家無需等候名單就能註冊。[…]</p>]]></content:encoded>
     </item>
     <item>
-      <title>DMA 不應削弱歐洲人的安全與隱私</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/the-dma-should-not-undercut-security-privacy-for-europeans/</guid>
-      <pubDate>Thu, 16 Jul 2026 12:05:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>今天的決定有可能削弱數百萬歐洲人至關重要的隱私與安全防護措施。我們已多次提出解決方案，在滿足…的同時保護使用者。</description>
-    </item>
-    <item>
       <title>若青少年與 Meta AI 對話時出現困擾跡象，將通知家長</title>
       <link>https://about.fb.com/news/2026/07/keeping-parents-informed-teens-distress-conversations-meta-ai/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=49587</guid>
@@ -692,18 +707,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb" alt=""></p><p>NVIDIA 今日宣布，正與 Noetra Corp. 合作，推出一座 NVIDIA Vera Rubin AI factory，配備 13,750 顆 NVIDIA Vera CPU 與 27,500 顆 NVIDIA Rubin GPU，供國家級實體 AI...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們正與 Screwfix 合作，協助全國的技工運用 AI 搞定行政工作並拓展事業。</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/</guid>
-      <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 與 Screwfix 攜手合作，協助全國的技工使用 AI 工具拓展事業。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20260716071936ZJW_8754.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20260716071936ZJW_8754.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20260716071936ZJW_8754.max-600x600.format-webp.webp" alt=""></p><p>Google 與 Screwfix 攜手合作，協助全國的技工使用 AI 工具拓展事業。</p>]]></content:encoded>
     </item>
     <item>
       <title>日本的機器人與製造業領導者運用 NVIDIA Cosmos 推進實體 AI 前沿</title>
