@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 13:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 14:08:20 GMT</lastBuildDate>
+    <item>
+      <title>你的 TechCrunch Disrupt 2026 幕後通行證正在等你</title>
+      <link>https://techcrunch.com/2026/07/23/your-backstage-pass-to-techcrunch-disrupt-2026-is-waiting/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144974</guid>
+      <pubDate>Thu, 23 Jul 2026 14:02:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 TechCrunch Disrupt 2026 擔任志工，近距離看看這場全球最大的新創公司會議之一是如何打造出來的。</description>
+    </item>
+    <item>
+      <title>Ford 把下一代電動車押注在 Apple 上</title>
+      <link>https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145482</guid>
+      <pubDate>Thu, 23 Jul 2026 13:58:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ford 是第一家使用一套新的開發者工具組的汽車製造商，這套工具組可讓它直接在車載資訊娛樂系統中嵌入 Apple Maps 導航和地圖功能。</description>
+    </item>
     <item>
       <title>GeForce NOW 隨著《流亡黯道：Allflame 詛咒》加入雲端而啟航</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/</link>
@@ -238,15 +256,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Gemini_Live_for_help_with_a.max-600x600.format-webp.webp" alt=""></p><p>你是否曾經苦於描述你正在看的東西？不論是複雜的手冊、閃爍的錯誤代碼，還是獨特的物件，有時你只需要一點說明……</p>]]></content:encoded>
     </item>
     <item>
-      <title>如果你支付駭客的贖金，他們很可能會再來要更多</title>
-      <link>https://techcrunch.com/2026/07/22/if-you-pay-a-hackers-ransom-chances-are-that-theyll-come-back-for-more/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145278</guid>
-      <pubDate>Wed, 22 Jul 2026 15:29:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>最新研究再次證實，駭客往往會在受害者第一次付款後要求更多金錢。</description>
-    </item>
-    <item>
       <title>新的 WhatsApp 功能跟上你真實的生活方式</title>
       <link>https://about.fb.com/news/2026/07/new-whatsapp-features-keep-up-with-the-way-you-actually-live/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=49646</guid>
@@ -258,15 +267,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/WhatsApp-Feature-Roundup_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/WhatsApp-Feature-Roundup_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/WhatsApp-Feature-Roundup_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們推出了新功能，讓你更容易把 WhatsApp 融入生活。<br>〈新的 WhatsApp 功能跟上你真實的生活方式〉最早出現在 Meta 新聞中心。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Cascade 募得 350 萬美元，協助營造公司找到並贏得專案</title>
-      <link>https://techcrunch.com/2026/07/22/cascade-raises-3-5m-to-help-construction-firms-find-and-win-projects/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145157</guid>
-      <pubDate>Wed, 22 Jul 2026 13:28:36 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>a16z Speedrun、Ada Ventures 和 Snowball VC 參與了 Cascade 350 萬美元種子輪投資。</description>
     </item>
     <item>
       <title>NVIDIA 開源首個 GPU 加速的醫療物理模擬框架</title>
