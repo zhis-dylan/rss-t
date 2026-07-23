@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 17:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 17:25:18 GMT</lastBuildDate>
     <item>
       <title>Runway 推出 AI 模型路由器，生成式媒體市場愈來愈擁擠</title>
       <link>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Runway 不再只想當另一家 AI 模型公司。它想成為生成式媒體的基礎架構層。週四，這家新創透過本月稍早推出的開發者平台 Runway Dev，發表了 Runway Media Router，該平台提供 API 存取日益增加的第三方圖像、影片與音訊模型清單，並涵蓋 […]</description>
+    </item>
+    <item>
+      <title>Play Points 會員和漫畫書迷可以透過 Google Play 獲得獨家獎勵</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-play/comic-con-san-diego/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/comic-con-san-diego/</guid>
+      <pubDate>Thu, 23 Jul 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過我們的 roadcase 和使用分頁解鎖數位福利，或加入 Google Play 在聖地牙哥的現場拍賣會。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>透過我們的 roadcase 和使用分頁解鎖數位福利，或加入 Google Play 在聖地牙哥的現場拍賣會。</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 讓 ChatGPT Health 開放給所有美國使用者</title>
@@ -633,6 +645,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Earth 和 ICA Foundation，重溫墨西哥城阿茲特克體育場 60 年的足球歷史。</p>]]></content:encoded>
     </item>
     <item>
+      <title>海灘氛圍和暫時性桌布正成為返校季的熱門趨勢。</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</guid>
+      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>大學生很想把單調的宿舍房間變成舒適的空間。以下是我們在 Google 搜尋中看到的趨勢。</description>
+    </item>
+    <item>
       <title>每位學生都該知道的 6 個開學採買小技巧</title>
       <link>https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</guid>
@@ -643,15 +664,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" alt=""></p><p>不管你是在佈置房間、更新衣櫃，還是補齊最後一刻才想起的必需品，這些購物工具都會帶來很大的不同。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>海灘氛圍和暫時性桌布正成為返校季的熱門趨勢。</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</guid>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>大學生很想把單調的宿舍房間變成舒適的空間。以下是我們在 Google 搜尋中看到的趨勢。</description>
     </item>
     <item>
       <title>為什麼青少年應該能使用安全的 AI</title>
@@ -697,18 +709,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp" alt=""></p><p>你將能夠在 AI 模式中，直接安全地連結並使用你常用的服務。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過兩項 Google Vids 更新建立、編輯並親自入鏡影片</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Omni 和 Google Vids 的個人虛擬人像，讓影片製作比以往更簡單。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/omni-blog-header_OarEe2t.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 和 Google Vids 的個人虛擬人像，讓影片製作比以往更簡單。</p>]]></content:encoded>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
