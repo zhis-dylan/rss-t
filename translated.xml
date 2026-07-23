@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 20:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:42:11 GMT</lastBuildDate>
+    <item>
+      <title>AMD推出 Helios AI 機架級系統，正面迎戰 Nvidia</title>
+      <link>https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145851</guid>
+      <pubDate>Thu, 23 Jul 2026 20:33:02 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AMD 正以全新的機架級系統挑戰這家晶片製造商競爭對手，該系統將在今年稍晚開始出貨給客戶。</description>
+    </item>
+    <item>
+      <title>Patreon裁員20%</title>
+      <link>https://techcrunch.com/2026/07/23/patreon-lays-off-off-20-of-its-workforce/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145963</guid>
+      <pubDate>Thu, 23 Jul 2026 20:30:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在一份公開貼出的致員工備忘錄中，Conte 表示公司的核心業務依然強勁，但平台必須因應市場變化並調整成本結構，以維持穩定。</description>
+    </item>
     <item>
       <title>保險新創 Corgi 據報在估值 40 億美元下再募得更多資金——這是其八週內的第三輪融資</title>
       <link>https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/</link>
@@ -193,15 +211,6 @@
       <description>在 TechCrunch Disrupt 2026 擔任志工，近距離看看這場全球最大的新創公司會議之一是如何打造出來的。</description>
     </item>
     <item>
-      <title>Ford 把下一代電動車押注在 Apple 上</title>
-      <link>https://techcrunch.com/2026/07/23/ford-bets-on-apple-for-its-next-generation-of-evs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145482</guid>
-      <pubDate>Thu, 23 Jul 2026 13:58:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ford 是第一家使用一套新的開發者工具組的汽車製造商，這套工具組可讓它直接在車載資訊娛樂系統中嵌入 Apple Maps 導航和地圖功能。</description>
-    </item>
-    <item>
       <title>GeForce NOW 隨著《流亡黯道：Allflame 詛咒》加入雲端而啟航</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/</guid>
@@ -221,15 +230,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 與 Ford 宣布，Apple Maps 將透過 MapKit for Automotive SDK 直接整合進 Ford 的 UEV Platform。</description>
-    </item>
-    <item>
-      <title>專家表示，利用 Anthropic 的 Fable 並不是 Kimi K3 如此優秀的原因</title>
-      <link>https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145469</guid>
-      <pubDate>Thu, 23 Jul 2026 11:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「我不認為僅靠 Fable 做純蒸餾，就能讓一個模型這麼快、這麼強。」一位專家告訴 TechCrunch。</description>
     </item>
     <item>
       <title>了解 AI 經濟</title>
