@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 18:41:00 GMT</lastBuildDate>
+    <item>
+      <title>由前 Google 資安主管創立的 AegisAI 募得 3600 萬美元，以阻止 AI 驅動的魚叉式網路釣魚</title>
+      <link>https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145881</guid>
+      <pubDate>Thu, 23 Jul 2026 18:38:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這輪 A 輪融資由 Battery Ventures 領投，使 AegisAI 的總募資金額達到 4900 萬美元。</description>
+    </item>
     <item>
       <title>美國政府表示與伊朗有關的駭客正在干擾美國的水務與能源供應商</title>
       <link>https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/</link>
@@ -275,15 +284,6 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>閱讀 Sundar Pichai 在 2026 年第二季 Alphabet 財報電話會議上的談話逐字稿編輯版。</description>
-    </item>
-    <item>
-      <title>Tesla支出飆升，Cybercab、Semi、Megapack量產時程延後</title>
-      <link>https://techcrunch.com/2026/07/22/tesla-spending-skyrockets-as-cybercab-semi-megapack-production-timeline-slips/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145498</guid>
-      <pubDate>Wed, 22 Jul 2026 20:43:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Tesla 26%的營收成長仍不足以抵銷營運費用與資本支出的增加，因為該公司正推動新一代產品上市。</description>
     </item>
     <item>
       <title>以下是如何向 Gemini Live 尋求你所看到的一切的協助。</title>
