@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 18:56:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:11:18 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 更新 Claude 語音模式，採用更強大的模型</title>
+      <link>https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145822</guid>
+      <pubDate>Thu, 23 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Claude 的新語音模型可讓你改期會議或起草電子郵件</description>
+    </item>
     <item>
       <title>由前 Google 資安主管創立的 AegisAI 募得 3600 萬美元，以阻止 AI 驅動的魚叉式網路釣魚</title>
       <link>https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/</link>
@@ -266,15 +275,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 的雲端業務正蓬勃發展，採用其 AI 和 AI 基礎設施服務的公司，幫助這家科技巨頭公布創紀錄的獲利。</description>
-    </item>
-    <item>
-      <title>財政部在白宮指控 Moonshot 蒸餾 Anthropic 的 Fable 之後揚言制裁</title>
-      <link>https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145517</guid>
-      <pubDate>Wed, 22 Jul 2026 20:49:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>財政部長史考特・貝森特警告，在白宮官員指控 Moonshot 蒸餾 Anthropic 的 Fable 模型以開發 Kimi K3 之後，美國政府可能會制裁中國 AI 公司。</description>
     </item>
     <item>
       <title>2026 年第二季財報電話會議：我們執行長的談話</title>
