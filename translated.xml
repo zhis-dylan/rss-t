@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 22:58:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 23:13:33 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與 KAIST 成立聯合 AI 研究實驗室，加速韓國 AI 創新</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea</guid>
+      <pubDate>Thu, 23 Jul 2026 23:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 與韓國科學技術院（KAIST）今日宣布，於首爾的 KAIST Kim Jaechul AI 研究所成立聯合 AI 研究實驗室，致力於推動韓國的 agentic AI 發展。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/0a371748949da7ce912af7cbe02e2356/6a6289053d6332cd560657ba_kaist-nvidia-logos/kaist-nvidia-logos_thmb.jpg?v=149c8cf5-1d93-4af7-a292-b20c717485a0" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/0a371748949da7ce912af7cbe02e2356/6a6289053d6332cd560657ba_kaist-nvidia-logos/kaist-nvidia-logos_thmb.jpg?v=149c8cf5-1d93-4af7-a292-b20c717485a0"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/0a371748949da7ce912af7cbe02e2356/6a6289053d6332cd560657ba_kaist-nvidia-logos/kaist-nvidia-logos_thmb.jpg?v=149c8cf5-1d93-4af7-a292-b20c717485a0" alt=""></p><p>NVIDIA 與韓國科學技術院（KAIST）今日宣布，於首爾的 KAIST Kim Jaechul AI 研究所成立聯合 AI 研究實驗室，致力於推動韓國的 agentic AI 發展。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Mobileye 執行長 Amnon Shashua 將卸任，因公司持續進軍 robotaxi 與機器人領域</title>
       <link>https://techcrunch.com/2026/07/23/mobileye-ceo-amnon-shashua-to-step-aside-as-company-pushes-into-robotaxis-robotics/</link>
@@ -991,18 +1003,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.gif?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/SCDC_Thumbnail.gif?fit=890%2C501" alt=""></p><p>我們正在亞伯達省 Sturgeon County 興建一座新的 1GW、針對 AI 最佳化的資料中心——這將是我們在加拿大的首座資料中心，也是我們全球資料中心群中的第 33 座。<br>The post Meta 在加拿大的首座資料中心動土 appeared first on Meta Newsroom.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 透過 LangChain Deep Agents Harness 達成基準領先的效能</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nemotron-langchain-agents-open-stack/</guid>
-      <pubDate>Wed, 08 Jul 2026 15:00:27 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA Nemotron 3 Ultra 與最大且最廣泛採用的 AI agent 編排平台合作，在比頂級封閉模型更低的成本下提供領先效能。LangChain 針對 NVIDIA Nemotron 3 Ultra 調校了其 Deep Agents harness，在開源模型中取得最高準確率，同時以更高的吞吐量完成更多任務，並以 10 倍速度執行 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/6ac686b63b01a8602d322d4d5b4e6058/6a4e66303d6332467e4bd360_Nemotron_LangChain-842x450/Nemotron_LangChain-842x450_thmb.jpg?v=ff33fc65-782a-48f1-98e4-72b5900cadec" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/6ac686b63b01a8602d322d4d5b4e6058/6a4e66303d6332467e4bd360_Nemotron_LangChain-842x450/Nemotron_LangChain-842x450_thmb.jpg?v=ff33fc65-782a-48f1-98e4-72b5900cadec"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/6ac686b63b01a8602d322d4d5b4e6058/6a4e66303d6332467e4bd360_Nemotron_LangChain-842x450/Nemotron_LangChain-842x450_thmb.jpg?v=ff33fc65-782a-48f1-98e4-72b5900cadec" alt=""></p><p>NVIDIA Nemotron 3 Ultra 與最大且最廣泛採用的 AI agent 編排平台合作，在比頂級封閉模型更低的成本下提供領先效能。LangChain 針對 NVIDIA Nemotron 3 Ultra 調校了其 Deep Agents harness，在開源模型中取得最高準確率，同時以更高的吞吐量完成更多任務，並以 10 倍速度執行 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>我們對政府與國家安全合作夥伴關係的做法</title>
