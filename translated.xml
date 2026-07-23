@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 17:25:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 17:40:30 GMT</lastBuildDate>
+    <item>
+      <title>美國政府表示與伊朗有關的駭客正在干擾美國的水務與能源供應商</title>
+      <link>https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145849</guid>
+      <pubDate>Thu, 23 Jul 2026 17:27:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>更新後的政府警示指出，伊朗駭客正在利用水務與能源供應商使用的系統。</description>
+    </item>
     <item>
       <title>Runway 推出 AI 模型路由器，生成式媒體市場愈來愈擁擠</title>
       <link>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</link>
@@ -275,15 +284,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Tesla 26%的營收成長仍不足以抵銷營運費用與資本支出的增加，因為該公司正推動新一代產品上市。</description>
-    </item>
-    <item>
-      <title>針對 Meta 的社群媒體成癮訴訟遭撤回</title>
-      <link>https://techcrunch.com/2026/07/22/social-media-addiction-lawsuit-against-meta-is-dropped/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145505</guid>
-      <pubDate>Wed, 22 Jul 2026 20:36:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一宗備受關注、原定下週開庭的社群媒體成癮訴訟，在原告自願撤回對 Meta 的主張後遭到撤回，導致此案沒有任何主要科技公司面臨審判。</description>
     </item>
     <item>
       <title>以下是如何向 Gemini Live 尋求你所看到的一切的協助。</title>
