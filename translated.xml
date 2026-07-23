@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 12:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 13:07:50 GMT</lastBuildDate>
+    <item>
+      <title>GeForce NOW 隨著《流亡黯道：Allflame 詛咒》加入雲端而啟航</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/</guid>
+      <pubDate>Thu, 23 Jul 2026 13:00:16 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>鎖定並裝填好雲端。GFN Thursday 帶來全新更新與新冒險，全部都可立即遊玩，無需等待下載。本週《流亡黯道：Allflame 詛咒》啟航，並在《戰地風雲 6》第 4 賽季衝鋒，兩者都將為會員推出重大內容。接著重溫 Capcom 傳奇作品，例如《Breath of […]》</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/558b4b77dfdc89e8b30fa7ae784a30a4/6a6210843d63327a0eb55d3f_gfn-thursday-7-23-blog-1920x1080-logo-842x450/gfn-thursday-7-23-blog-1920x1080-logo-842x450_thmb.jpg?v=c7ef8eb7-2359-4ce9-b02d-8557f107b130" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/558b4b77dfdc89e8b30fa7ae784a30a4/6a6210843d63327a0eb55d3f_gfn-thursday-7-23-blog-1920x1080-logo-842x450/gfn-thursday-7-23-blog-1920x1080-logo-842x450_thmb.jpg?v=c7ef8eb7-2359-4ce9-b02d-8557f107b130"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/558b4b77dfdc89e8b30fa7ae784a30a4/6a6210843d63327a0eb55d3f_gfn-thursday-7-23-blog-1920x1080-logo-842x450/gfn-thursday-7-23-blog-1920x1080-logo-842x450_thmb.jpg?v=c7ef8eb7-2359-4ce9-b02d-8557f107b130" alt=""></p><p>鎖定並裝填好雲端。GFN Thursday 帶來全新更新與新冒險，全部都可立即遊玩，無需等待下載。本週《流亡黯道：Allflame 詛咒》啟航，並在《戰地風雲 6》第 4 賽季衝鋒，兩者都將為會員推出重大內容。接著重溫 Capcom 傳奇作品，例如《Breath of […]》</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple Maps 將為 Ford UEV Platform 提供導航體驗</title>
+      <link>https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</guid>
+      <pubDate>Thu, 23 Jul 2026 13:00:06 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 與 Ford 宣布，Apple Maps 將透過 MapKit for Automotive SDK 直接整合進 Ford 的 UEV Platform。</description>
+    </item>
     <item>
       <title>專家表示，利用 Anthropic 的 Fable 並不是 Kimi K3 如此優秀的原因</title>
       <link>https://techcrunch.com/2026/07/23/experts-say-exploiting-anthropics-fable-isnt-how-kimi-k3-got-so-good/</link>
@@ -1028,15 +1049,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Muse-Image_Thumbnail.gif?fit=890%2C501" alt=""></p><p>Muse Image 是 Meta 超級智慧實驗室推出的首個圖片生成模型，現已在 Meta AI 中提供。<br>〈推出 Muse Image：為你的世界打造的圖片生成〉一文最先出現在 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>AI 創新者採用 NVIDIA Vera —— 為什麼大規模最高單執行緒 CPU 這麼重要</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-vera-max-single-threaded-cpu-at-scale/</guid>
-      <pubDate>Tue, 07 Jul 2026 15:00:52 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>大規模最高單執行緒 CPU 是為 agentic AI 時代打造的新一類 CPU。 在 agentic 系統的建立與部署過程中，CPU 都在推理、回應時間和學習的關鍵路徑上。CPU 是執行 AI 模型所指揮工作的處理器：工具呼叫、程式碼 […]</description>
-    </item>
-    <item>
       <title>我們在應用程式上打擊兒童剝削的工作</title>
       <link>https://about.fb.com/news/2026/07/our-work-to-fight-child-exploitation-on-our-apps/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=49434</guid>
@@ -1786,15 +1798,6 @@ The post Microsoft Build 2026: Be yourself at work appeared first on The Officia
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 前沿模型和 Codex 現已在 AWS 上全面開放，讓企業能透過他們已經在使用的 AWS 環境、控管機制和採購流程，以 OpenAI 建立應用程式的新途徑。客戶可以在 AWS 上使用 OpenAI 開始上手，並更快從評估階段邁向正式上線。</description>
-    </item>
-    <item>
-      <title>底特律新興開發者受到 Apple Developer Academy 的支持</title>
-      <link>https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/05/detroits-rising-developers-are-supported-by-the-apple-developer-academy/</guid>
-      <pubDate>Fri, 29 May 2026 15:59:14 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>今年是底特律 Apple Developer Academy 與密西根州立大學（MSU）及 Gilbert Family Foundation 合作的第五屆結業典禮。</description>
     </item>
     <item>
       <title>波士頓兒童醫院運用 AI 發掘新診斷</title>
