@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 20:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 20:27:01 GMT</lastBuildDate>
+    <item>
+      <title>保險新創 Corgi 據報在估值 40 億美元下再募得更多資金——這是其八週內的第三輪融資</title>
+      <link>https://techcrunch.com/2026/07/23/insurance-startup-corgi-reportedly-raised-more-money-at-4b-its-third-round-in-eight-weeks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145880</guid>
+      <pubDate>Thu, 23 Jul 2026 20:13:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Corgi 在 5 月底宣布完成一輪 1.06 億美元的 B1 輪融資，估值為 26 億美元。</description>
+    </item>
     <item>
       <title>Tesla 的車門把手可能促使美國制定新的安全規則</title>
       <link>https://techcrunch.com/2026/07/23/teslas-door-handles-may-spur-new-u-s-safety-rules/</link>
@@ -245,15 +254,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp" alt=""></p><p>自拍影片可在你被鎖在外面，或無法使用平常的手機或電腦時，提供更多選項。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>ServiceNow 下注 4,000 萬美元投資印度銀行軟體專家，以擴大其金融服務布局</title>
-      <link>https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145578</guid>
-      <pubDate>Thu, 23 Jul 2026 06:09:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>ServiceNow 的投資讓 BusinessNext 擁有一個策略夥伴，得以將其 AI 驅動的銀行軟體拓展至全球。</description>
     </item>
     <item>
       <title>NVIDIA AI 超級電腦在海軍研究所學校正式上線</title>
