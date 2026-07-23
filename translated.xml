@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 23 Jul 2026 15:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:54:21 GMT</lastBuildDate>
     <item>
       <title>立即申請 Google for Startups Gemini 新創論壇。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-winter-2026/</link>
@@ -128,9 +128,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image-3-with-logo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image-3-with-logo.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image-3-with-logo.max-600x600.format-webp.webp" alt=""></p><p>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出自拍登入：存取 Google 帳戶的新簡單方式</title>
