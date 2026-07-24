@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 24 Jul 2026 15:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 15:21:37 GMT</lastBuildDate>
+    <item>
+      <title>Rivian 起訴美國政府，要求川普關稅「全額退費」</title>
+      <link>https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146315</guid>
+      <pubDate>Fri, 24 Jul 2026 15:16:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家車廠表示，政府積欠它「數千萬美元」的退款。</description>
+    </item>
+    <item>
+      <title>Bluesky 的 AI 助理 Attie 擴展成開放的社群研究工具</title>
+      <link>https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146304</guid>
+      <pubDate>Fri, 24 Jul 2026 15:13:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>使用者現在可以向 Attie 詢問 Bluesky 以及 AT Protocol 上其他應用程式中的新聞、趨勢和對話。</description>
+    </item>
+    <item>
+      <title>Midjourney 收購了占星應用程式 Co-Star</title>
+      <link>https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146313</guid>
+      <pubDate>Fri, 24 Jul 2026 15:09:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 實驗室 Midjourney 持續將版圖擴展到影像和影片生成之外。</description>
+    </item>
     <item>
       <title>Google 將簽署歐盟 AI 法案人工智慧生成內容透明度行為準則。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/</link>
@@ -247,15 +274,6 @@
       <description>David Bowie 的歌曲〈Five Years〉被 Meta 用在一則號稱鼓舞人心的廣告中，這首歌內容是在說人類得知自己只剩五年可活，然後世界末日就要來臨。</description>
     </item>
     <item>
-      <title>Google 現在讓你可以用自拍影片登入帳戶</title>
-      <link>https://techcrunch.com/2026/07/23/google-will-now-let-you-sign-in-to-your-account-with-a-selfie-video/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145752</guid>
-      <pubDate>Thu, 23 Jul 2026 16:01:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家科技巨頭表示，如果使用者哪天無法登入，或者無法使用平常的手機或電腦，自拍影片能讓他們有更多登入選項。</description>
-    </item>
-    <item>
       <title>立即申請 Google for Startups Gemini 新創論壇。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-winter-2026/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-winter-2026/</guid>
@@ -266,24 +284,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Startup_Forum_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Startup_Forum_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Startup_Forum_social.max-600x600.format-webp.webp" alt=""></p><p>深入了解 Google for Startups Gemini 新創論壇，並在 8 月 28 日前申請。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 晶片新創 Etched 不甩質疑，獲大咖投資人追捧，估值達 103 億美元</title>
-      <link>https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145576</guid>
-      <pubDate>Thu, 23 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由三位哈佛輟學生創立的 Etched，打造了新晶片與記憶體元件，號稱可加速任何 AI 模型的推論——不需要 GPU。</description>
-    </item>
-    <item>
-      <title>Edtech 平台募得 450 萬美元，協助教學生如何 vibe code</title>
-      <link>https://techcrunch.com/2026/07/23/edtech-platform-raises-4-5m-to-help-teach-students-how-to-vibe-code/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145708</guid>
-      <pubDate>Thu, 23 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Imagi 公布了一輪 450 萬美元的種子輪，投資人包括 Brighteye Ventures、Day One Capital 以及藝術家 Wil.i.am。</description>
     </item>
     <item>
       <title>GeForce NOW 隨著《流亡黯道：Allflame 詛咒》加入雲端而啟航</title>
