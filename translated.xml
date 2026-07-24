@@ -5,15 +5,46 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 24 Jul 2026 16:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 17:07:50 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 自家的模型在 Kimi 讓華爾街緊張之前就已經失控</title>
-      <link>https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3146454</guid>
-      <pubDate>Fri, 24 Jul 2026 16:50:08 GMT</pubDate>
+      <title>Meta AI 不只是思考，還會行動</title>
+      <link>https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=49654</guid>
+      <pubDate>Fri, 24 Jul 2026 17:00:55 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>由 Muse Spark 1.1 驅動的 Meta AI，現在可以從頭到尾進行建置、規劃並執行到底。
+〈Meta AI 不只是思考，還會行動〉最早出現在 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif" medium="image" type="image/gif"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif" alt=""></p><p>由 Muse Spark 1.1 驅動的 Meta AI，現在可以從頭到尾進行建置、規劃並執行到底。<br>〈Meta AI 不只是思考，還會行動〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>公開打造，公開失敗：現在當一個 20 歲以下的創辦人是什麼感覺</title>
+      <link>https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145635</guid>
+      <pubDate>Fri, 24 Jul 2026 17:00:00 GMT</pubDate>
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>中國 AI 實驗室 Moonshot 的開源模型 Kimi 這週爆紅，原因和模型本身關係不大，比較多是因為美國 AI 產業對它的反應。與此同時，一個尚未發布的 OpenAI 模型跑出了測試環境，最後還和 Hugging Face 的一起真實資安外洩事件牽扯在一起——這也提醒人們 […]</description>
+      <description>AI 工具已經讓打造產品的機會更加普及，縮短了成功所需的時間，也讓更多年輕人不用踏進大型科技公司，就能創立成功的公司。</description>
+    </item>
+    <item>
+      <title>Anthropic 推出 Opus 5</title>
+      <link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146446</guid>
+      <pubDate>Fri, 24 Jul 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Opus 5 的價格會比 Fable 更便宜，而且限制也更少，可能讓它在大多數使用情境下都更合適。</description>
+    </item>
+    <item>
+      <title>印度針對 Jack Dorsey 的 Bitchat 採取行動，引發法律爭議</title>
+      <link>https://techcrunch.com/2026/07/24/indias-move-against-jack-dorseys-bitchat-sparks-legal-debate/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146410</guid>
+      <pubDate>Fri, 24 Jul 2026 16:54:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這款離線訊息 App 在新德里抗議期間於印度人氣暴增。</description>
     </item>
     <item>
       <title>Sam Altman 的生物辨識新創 World 透過加密貨幣銷售募得 5,250 萬美元</title>
@@ -233,33 +264,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Claude 的新語音模型可讓你改期會議或起草電子郵件</description>
-    </item>
-    <item>
-      <title>由前 Google 資安主管創立的 AegisAI 募得 3600 萬美元，以阻止 AI 驅動的魚叉式網路釣魚</title>
-      <link>https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145881</guid>
-      <pubDate>Thu, 23 Jul 2026 18:38:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這輪 A 輪融資由 Battery Ventures 領投，使 AegisAI 的總募資金額達到 4900 萬美元。</description>
-    </item>
-    <item>
-      <title>美國政府表示與伊朗有關的駭客正在干擾美國的水務與能源供應商</title>
-      <link>https://techcrunch.com/2026/07/23/us-government-says-iran-linked-hackers-are-disrupting-american-water-and-energy-providers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145849</guid>
-      <pubDate>Thu, 23 Jul 2026 17:27:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>更新後的政府警示指出，伊朗駭客正在利用水務與能源供應商使用的系統。</description>
-    </item>
-    <item>
-      <title>Runway 推出 AI 模型路由器，生成式媒體市場愈來愈擁擠</title>
-      <link>https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145764</guid>
-      <pubDate>Thu, 23 Jul 2026 17:07:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Runway 不再只想當另一家 AI 模型公司。它想成為生成式媒體的基礎架構層。週四，這家新創透過本月稍早推出的開發者平台 Runway Dev，發表了 Runway Media Router，該平台提供 API 存取日益增加的第三方圖像、影片與音訊模型清單，並涵蓋 […]</description>
     </item>
     <item>
       <title>Play Points 會員和漫畫書迷可以透過 Google Play 獲得獨家獎勵</title>
@@ -1087,19 +1091,6 @@ The post Meta 在加拿大的首座資料中心動土 appeared first on Meta New
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新一代語音模型，實現自然的人機互動，現在為 ChatGPT Voice 提供支援。</description>
-    </item>
-    <item>
-      <title>Meta 的 AI 眼鏡：你的問題，我們來解答</title>
-      <link>https://about.fb.com/news/2026/07/metas-ai-glasses-your-questions-answered/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49524</guid>
-      <pubDate>Tue, 07 Jul 2026 23:35:43 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們正在回答關於我們的 AI 眼鏡的常見問題，並分享我們打造的功能，幫助我們的眼鏡配戴者以及他們周圍的人都能感到自在。
-這篇〈Meta 的 AI 眼鏡：你的問題，我們來解答〉最初刊登於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Metas-AI-Glasses_Your-Questions-Answered_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Metas-AI-Glasses_Your-Questions-Answered_Header.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Metas-AI-Glasses_Your-Questions-Answered_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在回答關於我們的 AI 眼鏡的常見問題，並分享我們打造的功能，幫助我們的眼鏡配戴者以及他們周圍的人都能感到自在。<br>這篇〈Meta 的 AI 眼鏡：你的問題，我們來解答〉最初刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>Australian Payments Plus 透過 ChatGPT 和 Codex 加快腳步</title>
