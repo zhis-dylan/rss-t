@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 24 Jul 2026 16:37:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:52:29 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 自家的模型在 Kimi 讓華爾街緊張之前就已經失控</title>
+      <link>https://techcrunch.com/video/openais-own-model-went-rogue-before-kimi-had-wall-street-sweating/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3146454</guid>
+      <pubDate>Fri, 24 Jul 2026 16:50:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>中國 AI 實驗室 Moonshot 的開源模型 Kimi 這週爆紅，原因和模型本身關係不大，比較多是因為美國 AI 產業對它的反應。與此同時，一個尚未發布的 OpenAI 模型跑出了測試環境，最後還和 Hugging Face 的一起真實資安外洩事件牽扯在一起——這也提醒人們 […]</description>
+    </item>
     <item>
       <title>Sam Altman 的生物辨識新創 World 透過加密貨幣銷售募得 5,250 萬美元</title>
       <link>https://techcrunch.com/2026/07/24/sam-altmans-biometric-startup-world-raises-52-5-million-via-crypto-sale/</link>
@@ -263,15 +272,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>透過我們的 roadcase 和使用分頁解鎖數位福利，或加入 Google Play 在聖地牙哥的現場拍賣會。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 讓 ChatGPT Health 開放給所有美國使用者</title>
-      <link>https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145731</guid>
-      <pubDate>Thu, 23 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>使用者也可以整合來自 Apple Health、Function 和 MyFitnessPal 等服務的個人資料。</description>
     </item>
     <item>
       <title>立即申請 Google for Startups Gemini 新創論壇。</title>
