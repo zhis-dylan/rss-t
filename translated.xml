@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 24 Jul 2026 04:31:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 04:46:16 GMT</lastBuildDate>
+    <item>
+      <title>在 AI 峰會上，南韓與 NVIDIA 和合作夥伴勾勒其 AI 未來</title>
+      <link>https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/</guid>
+      <pubDate>Fri, 24 Jul 2026 04:34:27 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在本週於舊金山舉行的 AI 峰會上，南韓總統李在明以及該國一些頂尖企業領袖和研究人員，正與 NVIDIA 及生態系夥伴會面，以規劃韓國的 AI 發展。承接 NVIDIA 創辦人暨執行長黃仁勳上個月造訪韓國，本週的討論與宣布推動了……</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/7fa7d8563102c1cfb3b22e05f5fa8505/6a62eb5f3d6332c03fdb2ed0_jhh-k-ai-summit-1920x1080-2-842x450/jhh-k-ai-summit-1920x1080-2-842x450_thmb.jpg?v=88a8942f-ee25-4d59-9719-acc43e56bc81" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/7fa7d8563102c1cfb3b22e05f5fa8505/6a62eb5f3d6332c03fdb2ed0_jhh-k-ai-summit-1920x1080-2-842x450/jhh-k-ai-summit-1920x1080-2-842x450_thmb.jpg?v=88a8942f-ee25-4d59-9719-acc43e56bc81"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/7fa7d8563102c1cfb3b22e05f5fa8505/6a62eb5f3d6332c03fdb2ed0_jhh-k-ai-summit-1920x1080-2-842x450/jhh-k-ai-summit-1920x1080-2-842x450_thmb.jpg?v=88a8942f-ee25-4d59-9719-acc43e56bc81" alt=""></p><p>在本週於舊金山舉行的 AI 峰會上，南韓總統李在明以及該國一些頂尖企業領袖和研究人員，正與 NVIDIA 及生態系夥伴會面，以規劃韓國的 AI 發展。承接 NVIDIA 創辦人暨執行長黃仁勳上個月造訪韓國，本週的討論與宣布推動了……</p>]]></content:encoded>
+    </item>
     <item>
       <title>AI 防護機制如何阻礙進攻型資安研究人員的工作</title>
       <link>https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/</link>
@@ -933,18 +945,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 和美國職棒大聯盟公布了「Friday Night Baseball」8 月賽程，這項每週雙重賽將於每週五在 Apple TV 上串流播放。</description>
-    </item>
-    <item>
-      <title>GeForce NOW 以全新由 GeForce RTX 5080 驅動的多倫多伺服器升溫登場</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-toronto-expansion/</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:55 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>這個 GFN Thursday 為 GeForce NOW 帶來更多遊戲、更強效能，以及更多遊玩的方式。這項雲端遊戲服務正在擴充，在多倫多新增一座由 GeForce RTX 5080 驅動的伺服器，讓區域內的會員更接近雲端中的專屬高效能。NTE：《Neverness to Everness》也在雲端獲得更新， […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/3e3ee94d16b13a11d45c4b363c1ff746/6a4f9bbd3d633226e978121d_gfn-thursday-7-9-blog-1920x1080-no-copy-842x450/gfn-thursday-7-9-blog-1920x1080-no-copy-842x450_thmb.jpg?v=82a7a136-ec98-4843-a3ba-3d13deabf934" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/3e3ee94d16b13a11d45c4b363c1ff746/6a4f9bbd3d633226e978121d_gfn-thursday-7-9-blog-1920x1080-no-copy-842x450/gfn-thursday-7-9-blog-1920x1080-no-copy-842x450_thmb.jpg?v=82a7a136-ec98-4843-a3ba-3d13deabf934"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/3e3ee94d16b13a11d45c4b363c1ff746/6a4f9bbd3d633226e978121d_gfn-thursday-7-9-blog-1920x1080-no-copy-842x450/gfn-thursday-7-9-blog-1920x1080-no-copy-842x450_thmb.jpg?v=82a7a136-ec98-4843-a3ba-3d13deabf934" alt=""></p><p>這個 GFN Thursday 為 GeForce NOW 帶來更多遊戲、更強效能，以及更多遊玩的方式。這項雲端遊戲服務正在擴充，在多倫多新增一座由 GeForce RTX 5080 驅動的伺服器，讓區域內的會員更接近雲端中的專屬高效能。NTE：《Neverness to Everness》也在雲端獲得更新， […]</p>]]></content:encoded>
     </item>
     <item>
       <title>GPT-5.6 現已成為 Microsoft 365 Copilot 的預設模型</title>
