@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 24 Jul 2026 15:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 16:07:01 GMT</lastBuildDate>
+    <item>
+      <title>隨著美國評估對中國 AI 的回應，業界敦促不要對開放權重設下廣泛限制</title>
+      <link>https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146372</guid>
+      <pubDate>Fri, 24 Jul 2026 15:51:49 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>包括 Nvidia 和 Mistral 在內的 AI 公司敦促政策制定者避免對開放權重 AI 模型施加廣泛限制，因為華盛頓正就對中國 AI 及其涉嫌模型蒸餾的回應展開討論。</description>
+    </item>
     <item>
       <title>Rivian 起訴美國政府，要求川普關稅「全額退費」</title>
       <link>https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/</link>
@@ -263,15 +272,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據 Tesla 自己的數據，儘管擴展到新城市，付費 robotaxi 行駛里程在第二季下降了 36%。</description>
-    </item>
-    <item>
-      <title>Meta 推出一則搭配關於人類滅亡歌曲的新 AI 樂觀廣告</title>
-      <link>https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145730</guid>
-      <pubDate>Thu, 23 Jul 2026 16:28:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>David Bowie 的歌曲〈Five Years〉被 Meta 用在一則號稱鼓舞人心的廣告中，這首歌內容是在說人類得知自己只剩五年可活，然後世界末日就要來臨。</description>
     </item>
     <item>
       <title>立即申請 Google for Startups Gemini 新創論壇。</title>
