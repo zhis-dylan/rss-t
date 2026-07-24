@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 24 Jul 2026 13:50:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 14:05:57 GMT</lastBuildDate>
+    <item>
+      <title>Google 將簽署歐盟 AI 法案人工智慧生成內容透明度行為準則。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/</guid>
+      <pubDate>Fri, 24 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>簽署該準則重申了我們對歐洲透明度與負責任 AI 發展的承諾。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" alt=""></p><p>簽署該準則重申了我們對歐洲透明度與負責任 AI 發展的承諾。</p>]]></content:encoded>
+    </item>
     <item>
       <title>OpenAI 的新語音模式已加入 ChatGPT 桌面版應用程式</title>
       <link>https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/</link>
@@ -760,18 +772,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.max-600x600.format-webp.webp" alt=""></p><p>NotebookLM 現已更名為 Gemini Notebook：同樣是獨立產品，並有更深度的 Google 整合與安全的雲端電腦。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>將更多應用程式連接到 Search</title>
-      <link>https://blog.google/products-and-platforms/products/search/connected-apps/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/connected-apps/</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>你將能夠在 AI 模式中，直接安全地連結並使用你常用的服務。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ConnectedAppshero.max-600x600.format-webp.webp" alt=""></p><p>你將能夠在 AI 模式中，直接安全地連結並使用你常用的服務。</p>]]></content:encoded>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
