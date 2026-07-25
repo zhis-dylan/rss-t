@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 25 Jul 2026 05:13:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 05:29:01 GMT</lastBuildDate>
+    <item>
+      <title>NAVER、NVIDIA 與 Brookfield 擴大韓國國家 AI 工廠基礎設施建置</title>
+      <link>https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout</guid>
+      <pubDate>Sat, 25 Jul 2026 05:10:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NAVER、NVIDIA 與 Brookfield 今日宣布，擬擴大韓國的主權 AI 工廠基礎設施，並規劃投資，將把最初部署的 NVIDIA® DSX™ AI 工廠擴充至 200 兆瓦——比上月宣布的 55 兆瓦建置規模多出三倍以上。NAVER 計劃將其 NVIDIA AI 基礎設施部署擴充至 1 吉瓦。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/6f17a6451c306392c3376747f022b895/6a63f3113d6332dc5d2a252d_naver-nvidia-brookfield-logos/naver-nvidia-brookfield-logos_thmb.jpg?v=23c4d337-017e-4cbe-9f64-6a602ab1abc6" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/6f17a6451c306392c3376747f022b895/6a63f3113d6332dc5d2a252d_naver-nvidia-brookfield-logos/naver-nvidia-brookfield-logos_thmb.jpg?v=23c4d337-017e-4cbe-9f64-6a602ab1abc6"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/6f17a6451c306392c3376747f022b895/6a63f3113d6332dc5d2a252d_naver-nvidia-brookfield-logos/naver-nvidia-brookfield-logos_thmb.jpg?v=23c4d337-017e-4cbe-9f64-6a602ab1abc6" alt=""></p><p>NAVER、NVIDIA 與 Brookfield 今日宣布，擬擴大韓國的主權 AI 工廠基礎設施，並規劃投資，將把最初部署的 NVIDIA® DSX™ AI 工廠擴充至 200 兆瓦——比上月宣布的 55 兆瓦建置規模多出三倍以上。NAVER 計劃將其 NVIDIA AI 基礎設施部署擴充至 1 吉瓦。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>SK 集團與 NVIDIA 擴大涵蓋 AI 工廠與次世代記憶體的策略夥伴關係</title>
+      <link>https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory</guid>
+      <pubDate>Sat, 25 Jul 2026 05:10:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>SK 集團與 NVIDIA 今日宣布，計劃建立一項超過 5,000 億美元的全面合作夥伴關係，以打造服務全球運算激增需求的 AI 基礎設施。雙方已簽署意向書，使協議正式化，合作範圍涵蓋從 AI 工廠建設到 AI 記憶體供應。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/e5bed52ab6ab2d0b526ce8fc0d495c37/6a63f6713d6332dc622a2636_sk-nvidia-logos/sk-nvidia-logos_thmb.jpg?v=63978d76-b4d8-4c57-bb65-18cb2415ad6b" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/e5bed52ab6ab2d0b526ce8fc0d495c37/6a63f6713d6332dc622a2636_sk-nvidia-logos/sk-nvidia-logos_thmb.jpg?v=63978d76-b4d8-4c57-bb65-18cb2415ad6b"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/e5bed52ab6ab2d0b526ce8fc0d495c37/6a63f6713d6332dc622a2636_sk-nvidia-logos/sk-nvidia-logos_thmb.jpg?v=63978d76-b4d8-4c57-bb65-18cb2415ad6b" alt=""></p><p>SK 集團與 NVIDIA 今日宣布，計劃建立一項超過 5,000 億美元的全面合作夥伴關係，以打造服務全球運算激增需求的 AI 基礎設施。雙方已簽署意向書，使協議正式化，合作範圍涵蓋從 AI 工廠建設到 AI 記憶體供應。</p>]]></content:encoded>
+    </item>
     <item>
       <title>我試用了 OpenAI 的新 AI 鍵盤——對某些程式設計師來說會很有趣，但對其他人來說可能有點摸不著頭緒</title>
       <link>https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/</link>
@@ -906,30 +930,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索 GPT-Red，OpenAI 的自動化紅隊測試系統，運用自我對弈來提升 AI 安全性、對齊性，以及對提示注入的強健性。</description>
-    </item>
-    <item>
-      <title>Nemotron Labs：開放模型如何為企業和國家帶來可信任、可控制且可自訂的 AI</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nemotron-open-models-ai-trust-control-customize/</guid>
-      <pubDate>Tue, 14 Jul 2026 16:45:13 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>企業有許多強大的模型可供選擇。真正的考驗在於，企業所打造的 AI 是否能獨特地滿足業務需求：改善工作流程、運用領域知識，並超越準確性與信任標準。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg?v=609c4fe9-a975-4efd-85b1-517908e7e239" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg?v=609c4fe9-a975-4efd-85b1-517908e7e239"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/3e4f0607784a3005a6a6ec41d4b9346b/6a5667b83d63322ec5499b0d_nemotron-labs-open-models-blog-feature-image-842x450/nemotron-labs-open-models-blog-feature-image-842x450_thmb.jpg?v=609c4fe9-a975-4efd-85b1-517908e7e239" alt=""></p><p>企業有許多強大的模型可供選擇。真正的考驗在於，企業所打造的 AI 是否能獨特地滿足業務需求：改善工作流程、運用領域知識，並超越準確性與信任標準。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>為什麼每瓦效能是 AI 基礎設施效率的終極指標</title>
-      <link>https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/performance-per-watt-ai-infrastructure-efficiency/</guid>
-      <pubDate>Tue, 14 Jul 2026 15:00:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>電力是 AI 基礎設施無可迴避的限制。在固定的電力預算下，一家 AI 工廠能產生多少 token，決定了它的營收與獲利能力。正因如此，每瓦效能——一項無法靠投機取巧，只能透過真實世界成果贏得的指標——是 AI 工廠的基礎。隨著 agentic AI 推動 token 需求 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/c8c4abe1d1aa396fd04f81535ac0fb5b/6a564f3c3d6332b361f2b652_performance-per-watt-ai-infra-efficiency-842x450/performance-per-watt-ai-infra-efficiency-842x450_thmb.jpg?v=956ae853-d212-428c-9484-7283a1d69eb6" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/c8c4abe1d1aa396fd04f81535ac0fb5b/6a564f3c3d6332b361f2b652_performance-per-watt-ai-infra-efficiency-842x450/performance-per-watt-ai-infra-efficiency-842x450_thmb.jpg?v=956ae853-d212-428c-9484-7283a1d69eb6"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/c8c4abe1d1aa396fd04f81535ac0fb5b/6a564f3c3d6332b361f2b652_performance-per-watt-ai-infra-efficiency-842x450/performance-per-watt-ai-infra-efficiency-842x450_thmb.jpg?v=956ae853-d212-428c-9484-7283a1d69eb6" alt=""></p><p>電力是 AI 基礎設施無可迴避的限制。在固定的電力預算下，一家 AI 工廠能產生多少 token，決定了它的營收與獲利能力。正因如此，每瓦效能——一項無法靠投機取巧，只能透過真實世界成果贏得的指標——是 AI 工廠的基礎。隨著 agentic AI 推動 token 需求 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Madden NFL 27 Arcade Edition 將於 8 月 6 日為 Apple Arcade 帶來美式足球賽場動作</title>
