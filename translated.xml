@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 25 Jul 2026 20:21:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 20:36:15 GMT</lastBuildDate>
+    <item>
+      <title>讓間諜軟體製造商蒙羞、卻始終沒被抓到的駭客</title>
+      <link>https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143811</guid>
+      <pubDate>Sat, 25 Jul 2026 20:24:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一位令人敬佩的駭客行動主義者，曾入侵兩家備受爭議的政府間諜軟體製造商，可能是從未被逮到的最活躍駭客。我們對 Phineas Fisher 知道些什麼？</description>
+    </item>
     <item>
       <title>馬斯克的 The Boring Company 據報以 200 億美元估值募資</title>
       <link>https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/</link>
@@ -204,15 +213,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Sam Altman 的副業——旨在掃描全世界的眼球並將其轉換成獨特數位識別碼——透過一場加密貨幣銷售籌得了一筆新的資金。</description>
-    </item>
-    <item>
-      <title>隨著美國評估對中國 AI 的回應，業界敦促不要對開放權重設下廣泛限制</title>
-      <link>https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146372</guid>
-      <pubDate>Fri, 24 Jul 2026 15:51:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>包括 Nvidia 和 Mistral 在內的 AI 公司敦促政策制定者避免對開放權重 AI 模型施加廣泛限制，因為華盛頓正就對中國 AI 及其涉嫌模型蒸餾的回應展開討論。</description>
     </item>
     <item>
       <title>Google 將簽署歐盟 AI 法案人工智慧生成內容透明度行為準則。</title>
