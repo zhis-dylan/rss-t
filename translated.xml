@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 25 Jul 2026 15:48:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 16:04:06 GMT</lastBuildDate>
+    <item>
+      <title>圖書館員正在為受夠大型科技公司的民眾舉辦爆紅的「避免 AI」工作坊</title>
+      <link>https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146451</guid>
+      <pubDate>Sat, 25 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在全美各地的圖書館，「避免 AI」工作坊引發了前所未有的需求。</description>
+    </item>
     <item>
       <title>一條倒塌的電力線暴露出日益嚴重的 AI 資料中心問題。以下是解決方法。</title>
       <link>https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/</link>
@@ -204,15 +213,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>使用者現在可以向 Attie 詢問 Bluesky 以及 AT Protocol 上其他應用程式中的新聞、趨勢和對話。</description>
-    </item>
-    <item>
-      <title>Midjourney 收購了占星應用程式 Co-Star</title>
-      <link>https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146313</guid>
-      <pubDate>Fri, 24 Jul 2026 15:09:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 實驗室 Midjourney 持續將版圖擴展到影像和影片生成之外。</description>
     </item>
     <item>
       <title>Google 將簽署歐盟 AI 法案人工智慧生成內容透明度行為準則。</title>
