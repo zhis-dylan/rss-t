@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 25 Jul 2026 19:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 19:35:45 GMT</lastBuildDate>
+    <item>
+      <title>馬斯克的 The Boring Company 據報以 200 億美元估值募資</title>
+      <link>https://techcrunch.com/2026/07/25/elon-musks-boring-company-reportedly-raising-funding-at-a-20-billion-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146740</guid>
+      <pubDate>Sat, 25 Jul 2026 19:23:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報導，伊隆·馬斯克的隧道新創公司正在洽談一輪大型新融資。</description>
+    </item>
     <item>
       <title>Kalshi要求Netflix下架《Prediction Games》紀錄片預告片</title>
       <link>https://techcrunch.com/2026/07/25/kalshi-demands-netflix-take-down-trailer-for-prediction-games-documentary/</link>
@@ -204,15 +213,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>包括 Nvidia 和 Mistral 在內的 AI 公司敦促政策制定者避免對開放權重 AI 模型施加廣泛限制，因為華盛頓正就對中國 AI 及其涉嫌模型蒸餾的回應展開討論。</description>
-    </item>
-    <item>
-      <title>Rivian 起訴美國政府，要求川普關稅「全額退費」</title>
-      <link>https://techcrunch.com/2026/07/24/rivian-sues-the-us-government-for-full-refund-of-trump-tariffs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146315</guid>
-      <pubDate>Fri, 24 Jul 2026 15:16:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家車廠表示，政府積欠它「數千萬美元」的退款。</description>
     </item>
     <item>
       <title>Google 將簽署歐盟 AI 法案人工智慧生成內容透明度行為準則。</title>
