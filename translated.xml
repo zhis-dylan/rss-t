@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 26 Jul 2026 16:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:13:55 GMT</lastBuildDate>
+    <item>
+      <title>走進倫敦一間正在重寫創辦人合宿規則的創辦人之家</title>
+      <link>https://techcrunch.com/2026/07/26/inside-one-london-founder-house-rewriting-the-founder-house-rules/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146052</guid>
+      <pubDate>Sun, 26 Jul 2026 17:03:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這間創辦人之家如何押注工作與生活平衡能勝過倦怠。</description>
+    </item>
     <item>
       <title>Hugging Face 執行長在 OpenAI 遭「前所未見」駭客入侵後呼籲「徹底透明」</title>
       <link>https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/</link>
@@ -213,15 +222,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif" alt=""></p><p>由 Muse Spark 1.1 驅動的 Meta AI，現在可以從頭到尾進行建置、規劃並執行到底。<br>〈Meta AI 不只是思考，還會行動〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>公開打造，公開失敗：現在當一個 20 歲以下的創辦人是什麼感覺</title>
-      <link>https://techcrunch.com/2026/07/24/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145635</guid>
-      <pubDate>Fri, 24 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 工具已經讓打造產品的機會更加普及，縮短了成功所需的時間，也讓更多年輕人不用踏進大型科技公司，就能創立成功的公司。</description>
     </item>
     <item>
       <title>Google 將簽署歐盟 AI 法案人工智慧生成內容透明度行為準則。</title>
