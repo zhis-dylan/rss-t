@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 26 Jul 2026 21:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 21:16:18 GMT</lastBuildDate>
+    <item>
+      <title>Apple 能打造出不會持續威脅隱私的智慧眼鏡嗎？</title>
+      <link>https://techcrunch.com/2026/07/26/can-apple-make-smart-glasses-that-arent-a-constant-privacy-threat/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146797</guid>
+      <pubDate>Sun, 26 Jul 2026 21:06:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著 Apple 準備推出第一款智慧眼鏡，這家公司也可能正苦惱於如何回應消費者對隱私的疑慮。</description>
+    </item>
     <item>
       <title>理解外界對中國 AI 恐慌的原因</title>
       <link>https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 編碼新創公司 Cognition 已收購 Poke，這款像朋友一樣傳訊息聊天的 AI 助理，這筆交易對這家新創公司的估值為低九位數。這項收購把 Poke 的對話風格與互動模式帶進 Cognition 的編碼代理 Devin，也反映出一個日益增長的信念：AI 助理如何與使用者互動，和驅動它們的模型同樣重要。</description>
-    </item>
-    <item>
-      <title>美國指控一名美國人據稱在邊境搜查期間使用「脅迫」密碼抹除手機</title>
-      <link>https://techcrunch.com/2026/07/24/us-accuses-american-of-allegedly-wiping-his-phone-using-a-duress-password-during-border-search/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146437</guid>
-      <pubDate>Fri, 24 Jul 2026 17:53:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一名美國公民已請求法院駁回政府的主張；政府聲稱他向邊境當局交出了一組密碼，導致他的手機資料被抹除，這也引發了關於一個人在美國邊境的憲法權利的新問題。</description>
     </item>
     <item>
       <title>Meta AI 不只是思考，還會行動</title>
