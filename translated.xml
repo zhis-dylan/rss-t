@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 26 Jul 2026 16:27:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 16:43:14 GMT</lastBuildDate>
+    <item>
+      <title>Hugging Face 執行長在 OpenAI 遭「前所未見」駭客入侵後呼籲「徹底透明」</title>
+      <link>https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146775</guid>
+      <pubDate>Sun, 26 Jul 2026 16:33:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「第一起自主代理資安攻擊是一個前所未見的事件。它值得一個前所未見的回應！」</description>
+    </item>
     <item>
       <title>TechCrunch Mobility：Uber 押注其前任執行長</title>
       <link>https://techcrunch.com/2026/07/26/techcrunch-mobility-uber-bets-on-its-former-ceo/</link>
@@ -213,15 +222,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 工具已經讓打造產品的機會更加普及，縮短了成功所需的時間，也讓更多年輕人不用踏進大型科技公司，就能創立成功的公司。</description>
-    </item>
-    <item>
-      <title>Anthropic 推出 Opus 5</title>
-      <link>https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146446</guid>
-      <pubDate>Fri, 24 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Opus 5 的價格會比 Fable 更便宜，而且限制也更少，可能讓它在大多數使用情境下都更合適。</description>
     </item>
     <item>
       <title>Google 將簽署歐盟 AI 法案人工智慧生成內容透明度行為準則。</title>
