@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 27 Jul 2026 16:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 16:40:14 GMT</lastBuildDate>
+    <item>
+      <title>重新思考 AI 時代的安全性</title>
+      <link>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563065</guid>
+      <pubDate>Mon, 27 Jul 2026 16:30:09 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>為什麼安全需要全新的 Cyber Stack —— 介紹 Project Perception 資安的物理法則正在改變。自主系統現在可以推理、適應並持續運作。同時，攻擊的成本正在下降，而需要保護的內容在數量、速度與複雜度上持續增加。攻擊者可以更快產生漏洞利用程式，...
+The post Rethinking security for the age of AI appeared first on The Official Microsoft Blog.</description>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" alt=""></p><p>為什麼安全需要全新的 Cyber Stack —— 介紹 Project Perception 資安的物理法則正在改變。自主系統現在可以推理、適應並持續運作。同時，攻擊的成本正在下降，而需要保護的內容在數量、速度與複雜度上持續增加。攻擊者可以更快產生漏洞利用程式，...<br>The post Rethinking security for the age of AI appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
+    </item>
     <item>
       <title>Google 的 AI 搜尋正快速成為預設選項，最新數據顯示</title>
       <link>https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/</link>
@@ -1723,16 +1736,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png" alt=""></p><p>AI 已經進入企業，而這場轉變正在同時發生。每一個部門、每一個角色、每一個工作流程都正在被重塑。與此同時，一種新的組織類型正在浮現，這種組織將在根本上與定義上一個商業時代的公司截然不同。贏家不會是那些……<br><br>這篇〈AI 本身不會改變你的業務。真正改變它的是運作它的系統。〉最早發表於 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Microsoft Build 2026：在工作中做自己</title>
-      <link>https://blogs.microsoft.com/blog/2026/06/02/microsoft-build-2026-be-yourself-at-work/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562936</guid>
-      <pubDate>Tue, 02 Jun 2026 18:54:13 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>Platforms shift when developers build. We explore, choose tools, dream, create. This platform shift comes with more information than ever, ready at your fingertips. This shift, it’s about building fast AND THEN: it’s about building, operating, optimizing and observing. Securing your infrastructure, applications and agents in a seamless way that doesn’t slow you down from...
-The post Microsoft Build 2026: Be yourself at work appeared first on The Official Microsoft Blog.</description>
     </item>
     <item>
       <title>Apple 公布 2026 年 Apple 設計大獎得主</title>
