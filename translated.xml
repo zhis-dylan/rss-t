@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 27 Jul 2026 18:26:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 18:41:31 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 推出其首個網路安全模型，並推出新的 agentic 資安系統</title>
+      <link>https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146944</guid>
+      <pubDate>Mon, 27 Jul 2026 18:32:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 本週擴大了其 AI 資安產品，推出首個 AI 安全模型與新的安全平台。</description>
+    </item>
+    <item>
+      <title>Apple 因疑似 App Store 加密貨幣詐騙導致用戶損失 180 萬美元而遭提告</title>
+      <link>https://techcrunch.com/2026/07/27/apple-sued-after-alleged-app-store-crypto-scam-cost-users-1-8m/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146980</guid>
+      <pubDate>Mon, 27 Jul 2026 18:28:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 正面臨三名用戶提起的訴訟，這些用戶表示他們在從 App Store 下載一個詐騙性的加密貨幣錢包後，合計損失超過 180 萬美元，這也挑戰了該公司長期以來聲稱其 App 審核流程能保護用戶免於詐騙的說法。</description>
+    </item>
     <item>
       <title>亞馬遜為手機打造的新衛星網路，可能讓 SpaceX 面臨更大壓力</title>
       <link>https://techcrunch.com/2026/07/27/amazons-new-satellite-network-for-mobile-phones-could-turn-up-the-heat-on-spacex/</link>
@@ -32,6 +50,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 的 Hugging Face 外洩事件重新點燃了關於 AI 對齊與控制的辯論，揭露了對於能力日益提升的 AI 是否應該更好地對齊、更好地限制，或兩者兼具的不同觀點。</description>
+    </item>
+    <item>
+      <title>NOAA 與 Google Cloud 合作推進天氣預報。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/</guid>
+      <pubDate>Mon, 27 Jul 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Cloud 現在正為 NOAA 的超級電腦系統提供高效能運算基礎設施。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" alt=""></p><p>Google Cloud 現在正為 NOAA 的超級電腦系統提供高效能運算基礎設施。</p>]]></content:encoded>
     </item>
     <item>
       <title>Threads 使用者現在可以在私訊中與 Meta AI 聊天</title>
@@ -250,24 +280,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>依時間倒序持續更新——列出今年宣布大規模裁員、並將 AI 列為明確因素的較大型科技公司。</description>
-    </item>
-    <item>
-      <title>華納兄弟提告指控 Amazon 非法挖角高階主管</title>
-      <link>https://techcrunch.com/2026/07/25/warner-bros-lawsuit-accuses-amazon-of-illegally-poaching-executives/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146746</guid>
-      <pubDate>Sat, 25 Jul 2026 20:55:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這起訴訟很可能會重新引發關於在加州法下，定期僱用協議是否具有可執行性的討論</description>
-    </item>
-    <item>
-      <title>讓間諜軟體製造商蒙羞、卻始終沒被抓到的駭客</title>
-      <link>https://techcrunch.com/2026/07/25/the-hacker-who-humiliated-spyware-makers-and-was-never-caught/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143811</guid>
-      <pubDate>Sat, 25 Jul 2026 20:24:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一位令人敬佩的駭客行動主義者，曾入侵兩家備受爭議的政府間諜軟體製造商，可能是從未被逮到的最活躍駭客。我們對 Phineas Fisher 知道些什麼？</description>
     </item>
     <item>
       <title>NAVER、NVIDIA 與 Brookfield 擴大韓國國家 AI 工廠基礎設施建置</title>
@@ -880,18 +892,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interview_with_alumni_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interview_with_alumni_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interview_with_alumni_.max-600x600.format-webp.webp" alt=""></p><p>Google 與滑鐵盧大學的 Futures Lab 正在幫助學生打造真實世界的 AI 工具，並為未來的工作做準備。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NotebookLM 現已更名為 Gemini Notebook</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>NotebookLM 現已更名為 Gemini Notebook：同樣是獨立產品，並有更深度的 Google 整合與安全的雲端電腦。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-notebook__cover.max-600x600.format-webp.webp" alt=""></p><p>NotebookLM 現已更名為 Gemini Notebook：同樣是獨立產品，並有更深度的 Google 整合與安全的雲端電腦。</p>]]></content:encoded>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
