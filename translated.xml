@@ -5,19 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 27 Jul 2026 01:02:58 GMT</lastBuildDate>
-    <item>
-      <title>NVIDIA 擴充 NVIDIA Agent Toolkit，納入 NVIDIA PhysicsNeMo 與 CUDA-X 函式庫，改變全球工程、設計與建造方式</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds-6926982</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds-6926982</guid>
-      <pubDate>Mon, 27 Jul 2026 00:49:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" alt=""></p><p>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</p>]]></content:encoded>
-    </item>
+    <lastBuildDate>Mon, 27 Jul 2026 01:18:09 GMT</lastBuildDate>
     <item>
       <title>NVIDIA 運用 Vera CPU 加速次世代 CPU 與 GPU 的設計</title>
       <link>https://blogs.nvidia.com/blog/vera-cpu-eda/</link>
@@ -912,6 +900,18 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Cars24 使用由 OpenAI 驅動的語音與聊天代理，每月處理超過 100 萬分鐘的對話，挽回 12% 流失的潛在客戶，並將代理式工作流程帶給公司各團隊。</description>
+    </item>
+    <item>
+      <title>NVIDIA 推出全新 Jetson Thor 電腦，加速主流機器人與邊緣 AI 發展</title>
+      <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</guid>
+      <pubDate>Wed, 15 Jul 2026 23:00:54 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>通用型機器人與自主機器正從研究實驗室走向實際的量產部署，帶動市場對可在邊緣執行基礎模型、體積精巧且節能的 AI 超級電腦需求。為滿足這項需求，NVIDIA 今天推出基於 NVIDIA Thor 架構的新模組 T3000 和 T2000，可實現量產規模的機器人與邊緣 AI […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818" alt=""></p><p>通用型機器人與自主機器正從研究實驗室走向實際的量產部署，帶動市場對可在邊緣執行基礎模型、體積精巧且節能的 AI 超級電腦需求。為滿足這項需求，NVIDIA 今天推出基於 NVIDIA Thor 架構的新模組 T3000 和 T2000，可實現量產規模的機器人與邊緣 AI […]</p>]]></content:encoded>
     </item>
     <item>
       <title>美國職業足球大聯盟明天重返 Apple TV</title>
