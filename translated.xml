@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 27 Jul 2026 08:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:06:20 GMT</lastBuildDate>
+    <item>
+      <title>產業領袖攜手成立 Open Secure AI Alliance，推動 AI 安全與資安</title>
+      <link>https://blogs.nvidia.com/blog/open-secure-ai-alliance/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-secure-ai-alliance/</guid>
+      <pubDate>Mon, 27 Jul 2026 09:00:07 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/1a9187783a4013e100c708ff1b103f9b/6a671e633d6332949ffc75a8_osaia-logo-garden_press-kit_1920x1080_V4-842x450/osaia-logo-garden_press-kit_1920x1080_V4-842x450_thmb.jpg?v=6aadbf19-a1b8-44d9-8a4e-801fafcae81d" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/1a9187783a4013e100c708ff1b103f9b/6a671e633d6332949ffc75a8_osaia-logo-garden_press-kit_1920x1080_V4-842x450/osaia-logo-garden_press-kit_1920x1080_V4-842x450_thmb.jpg?v=6aadbf19-a1b8-44d9-8a4e-801fafcae81d"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/1a9187783a4013e100c708ff1b103f9b/6a671e633d6332949ffc75a8_osaia-logo-garden_press-kit_1920x1080_V4-842x450/osaia-logo-garden_press-kit_1920x1080_V4-842x450_thmb.jpg?v=6aadbf19-a1b8-44d9-8a4e-801fafcae81d" alt=""></p><p>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</p>]]></content:encoded>
+    </item>
     <item>
       <title>NVIDIA 運用 Vera CPU 加速次世代 CPU 與 GPU 的設計</title>
       <link>https://blogs.nvidia.com/blog/vera-cpu-eda/</link>
@@ -900,18 +912,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Cars24 使用由 OpenAI 驅動的語音與聊天代理，每月處理超過 100 萬分鐘的對話，挽回 12% 流失的潛在客戶，並將代理式工作流程帶給公司各團隊。</description>
-    </item>
-    <item>
-      <title>NVIDIA 推出全新 Jetson Thor 電腦，加速主流機器人與邊緣 AI 發展</title>
-      <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</guid>
-      <pubDate>Wed, 15 Jul 2026 23:00:54 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>通用型機器人與自主機器正從研究實驗室走向實際的量產部署，帶動市場對可在邊緣執行基礎模型、體積精巧且節能的 AI 超級電腦需求。為滿足這項需求，NVIDIA 今天推出基於 NVIDIA Thor 架構的新模組 T3000 和 T2000，可實現量產規模的機器人與邊緣 AI […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818" alt=""></p><p>通用型機器人與自主機器正從研究實驗室走向實際的量產部署，帶動市場對可在邊緣執行基礎模型、體積精巧且節能的 AI 超級電腦需求。為滿足這項需求，NVIDIA 今天推出基於 NVIDIA Thor 架構的新模組 T3000 和 T2000，可實現量產規模的機器人與邊緣 AI […]</p>]]></content:encoded>
     </item>
     <item>
       <title>美國職業足球大聯盟明天重返 Apple TV</title>
