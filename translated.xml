@@ -5,7 +5,43 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:47:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 01:02:58 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 擴充 NVIDIA Agent Toolkit，納入 NVIDIA PhysicsNeMo 與 CUDA-X 函式庫，改變全球工程、設計與建造方式</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds-6926982</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds-6926982</guid>
+      <pubDate>Mon, 27 Jul 2026 00:49:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" alt=""></p><p>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 運用 Vera CPU 加速次世代 CPU 與 GPU 的設計</title>
+      <link>https://blogs.nvidia.com/blog/vera-cpu-eda/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-cpu-eda/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:45:42 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>現代晶片設計的複雜度持續提升，工程團隊正致力開發日益精密的 CPU、GPU 與 AI 系統。為協助因應這項挑戰，NVIDIA 正與產業領導者 Cadence 和 Synopsys 合作，為 NVIDIA Vera CPU 最佳化關鍵電子設計自動化（EDA）應用程式。NVIDIA 現正將 Vera 部署至 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728" alt=""></p><p>現代晶片設計的複雜度持續提升，工程團隊正致力開發日益精密的 CPU、GPU 與 AI 系統。為協助因應這項挑戰，NVIDIA 正與產業領導者 Cadence 和 Synopsys 合作，為 NVIDIA Vera CPU 最佳化關鍵電子設計自動化（EDA）應用程式。NVIDIA 現正將 Vera 部署至 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 擴充 NVIDIA Agent Toolkit，納入 NVIDIA PhysicsNeMo 與 CUDA-X 函式庫，改變全球工程、設計與建造方式</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds</guid>
+      <pubDate>Mon, 27 Jul 2026 00:45:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" alt=""></p><p>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</p>]]></content:encoded>
+    </item>
     <item>
       <title>腦波會是實體 AI 的下一個突破嗎？</title>
       <link>https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/</link>
@@ -878,30 +914,6 @@
       <description>Cars24 使用由 OpenAI 驅動的語音與聊天代理，每月處理超過 100 萬分鐘的對話，挽回 12% 流失的潛在客戶，並將代理式工作流程帶給公司各團隊。</description>
     </item>
     <item>
-      <title>NVIDIA 推出全新 Jetson Thor 電腦，加速主流機器人與邊緣 AI 發展</title>
-      <link>https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/</guid>
-      <pubDate>Wed, 15 Jul 2026 23:00:54 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>通用型機器人與自主機器正從研究實驗室走向真實世界的量產部署，帶動對可在邊緣執行基礎模型的精巧、節能 AI 超級電腦需求。為了滿足這項需求，NVIDIA 今日推出基於 NVIDIA Thor 架構的新模組 T3000 與 T2000，可支援量產機器人與邊緣 AI […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/56b16093788ba0949a17666292c87880/6a58115a3d6332679ec2b54d_robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450/robotics-jetson-T3000-T2000-jhh-japan-1280x680-1-842x450_thmb.jpg?v=4230e976-68d1-469a-afe1-87a5bd525818" alt=""></p><p>通用型機器人與自主機器正從研究實驗室走向真實世界的量產部署，帶動對可在邊緣執行基礎模型的精巧、節能 AI 超級電腦需求。為了滿足這項需求，NVIDIA 今日推出基於 NVIDIA Thor 架構的新模組 T3000 與 T2000，可支援量產機器人與邊緣 AI […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>日本企業與新創以 NVIDIA Nemotron 開放模型打造產業專用 AI</title>
-      <link>https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/japans-enterprises-and-startups-build-industry-specialized-ai-with-nvidia-nemotron-open-models</guid>
-      <pubDate>Wed, 15 Jul 2026 23:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布，領先的日本企業、新創與研究機構正運用 NVIDIA Nemotron™ 開放模型、資料與程式庫，打造產業專用的 AI 模型與應用，加速開發符合日本語言、產業與勞動力需求的 AI。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png?v=5cb86e2d-be05-445a-a4c8-d2f389b9adb5" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png?v=5cb86e2d-be05-445a-a4c8-d2f389b9adb5"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/c8a6311b98926bc3df93a25ecb1a8164/6a5708423d633247f6bf707d_japan-enterprises-startups-nemotron-open-models/japan-enterprises-startups-nemotron-open-models_thmb.png?v=5cb86e2d-be05-445a-a4c8-d2f389b9adb5" alt=""></p><p>NVIDIA 今日宣布，領先的日本企業、新創與研究機構正運用 NVIDIA Nemotron™ 開放模型、資料與程式庫，打造產業專用的 AI 模型與應用，加速開發符合日本語言、產業與勞動力需求的 AI。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>美國職業足球大聯盟明天重返 Apple TV</title>
       <link>https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</guid>
@@ -918,18 +930,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 提出一種用於 AI 治理的「逆向聯邦主義」做法，也就是由州法協助建立安全、民主的 AI 國家框架。</description>
-    </item>
-    <item>
-      <title>NVIDIA 與日本將全堆疊 AI 和機器人帶進每個產業</title>
-      <link>https://blogs.nvidia.com/blog/japan-ecosystem-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/japan-ecosystem-2026/</guid>
-      <pubDate>Wed, 15 Jul 2026 10:51:37 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>日本是領先製造商、機器人先驅和基礎設施建設者的聚集地之一，也是全球 AI 的中心之一——以 NVIDIA 技術打造完整堆疊。NVIDIA 與其在日本的合作夥伴本週正在展示 AI 生態系統的最新進展。請回來這裡查看更新。NVIDIA 和 SEGA 慶祝 30 年的 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/8d5d44e4ba7487845368c6beab8b91ea/6a5766433d633216108a381c_IMG_7018-scaled-e1784111533455-842x450/IMG_7018-scaled-e1784111533455-842x450_thmb.jpg?v=28bf7caa-2666-4684-97d5-e0905cb89b58" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/8d5d44e4ba7487845368c6beab8b91ea/6a5766433d633216108a381c_IMG_7018-scaled-e1784111533455-842x450/IMG_7018-scaled-e1784111533455-842x450_thmb.jpg?v=28bf7caa-2666-4684-97d5-e0905cb89b58"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/8d5d44e4ba7487845368c6beab8b91ea/6a5766433d633216108a381c_IMG_7018-scaled-e1784111533455-842x450/IMG_7018-scaled-e1784111533455-842x450_thmb.jpg?v=28bf7caa-2666-4684-97d5-e0905cb89b58" alt=""></p><p>日本是領先製造商、機器人先驅和基礎設施建設者的聚集地之一，也是全球 AI 的中心之一——以 NVIDIA 技術打造完整堆疊。NVIDIA 與其在日本的合作夥伴本週正在展示 AI 生態系統的最新進展。請回來這裡查看更新。NVIDIA 和 SEGA 慶祝 30 年的 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>GPT-Red：解鎖強健性的自我改進</title>
