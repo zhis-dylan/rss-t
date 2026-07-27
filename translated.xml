@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 27 Jul 2026 20:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 20:27:21 GMT</lastBuildDate>
+    <item>
+      <title>提醒：你的 Claude 共用聊天室和 Artifacts 可能已出現在 Google 上</title>
+      <link>https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147064</guid>
+      <pubDate>Mon, 27 Jul 2026 20:19:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在週末期間，無數 Claude 聊天與 Artifacts——使用者可在 Claude 內建立的互動式迷你應用程式和文件——被發現可在 Google 上公開搜尋到；原因是 Reddit 使用者發現，在 Google 輸入像「site:claude.ai/share」這類搜尋運算子，會顯示一長串共用對話。據報有些內容還包含健康紀錄、私人 […]</description>
+    </item>
     <item>
       <title>Microsoft 推出其首個網路安全模型，並推出新的 agentic 資安系統</title>
       <link>https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/</link>
@@ -271,15 +280,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>歡迎回到 TechCrunch Mobility，這裡是你掌握未來交通運輸的中心，而現在，比以往任何時候都更能看出 AI 在其中扮演的角色。</description>
-    </item>
-    <item>
-      <title>Monday.com 是最新一家把裁員歸咎於 AI 的科技公司——以下還有另外 20 家</title>
-      <link>https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3132769</guid>
-      <pubDate>Sun, 26 Jul 2026 01:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>依時間倒序持續更新——列出今年宣布大規模裁員、並將 AI 列為明確因素的較大型科技公司。</description>
     </item>
     <item>
       <title>NAVER、NVIDIA 與 Brookfield 擴大韓國國家 AI 工廠基礎設施建置</title>
