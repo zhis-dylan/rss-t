@@ -5,7 +5,52 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:46:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 13:01:41 GMT</lastBuildDate>
+    <item>
+      <title>Search 中的 AI 模式如何透過 5 種方式幫助你享受真實世界</title>
+      <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>這聽起來可能有點反直覺，但 Search 的 AI 工具其實能幫你充分利用離線時間，不管你是想訂演唱會門票，還是找最完美的……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp" alt=""></p><p>這聽起來可能有點反直覺，但 Search 的 AI 工具其實能幫你充分利用離線時間，不管你是想訂演唱會門票，還是找最完美的……</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>這些 Google Trends 顯示大家真的很想出門走走</title>
+      <link>https://blog.google/products-and-platforms/products/search/touch-grass-trends/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/touch-grass-trends/</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 搜尋資料顯示，越來越多人想要暫時離線，並透過在地跑步社團、麻將課程等方式與現實生活連結。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 搜尋資料顯示，越來越多人想要暫時離線，並透過在地跑步社團、麻將課程等方式與現實生活連結。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Google 搜尋舉辦完美晚宴派對的 5 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Granola 推出 Apple Watch 應用程式</title>
+      <link>https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3144567</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Granola 推出一款 Apple Watch 應用程式，供面對面記筆記使用</description>
+    </item>
     <item>
       <title>Apple Upgrade 在美國推出</title>
       <link>https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/</link>
@@ -274,15 +319,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆龐大的種子輪由 Index Ventures 和 Ribbit Capital 領投，Sarah Guo 的 Conviction Partners 也有參與。</description>
-    </item>
-    <item>
-      <title>歐洲也有了自己的 TBPN 風格直播節目，大家都在搶著上節目當來賓</title>
-      <link>https://techcrunch.com/2026/07/27/europe-got-its-own-tbpn-style-live-show-and-its-already-a-hot-spot-on-a-press-tour/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146305</guid>
-      <pubDate>Mon, 27 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>週一，這個網路宣布完成 160 萬美元的種子輪融資，投資方包括媒體生態系統中的頂尖業者，如 Powerhouse Capital、Axel Springer SE（擁有 Business Insider 和 Politico）、廣受歡迎的媒體出版物 LadBible，以及來自 OpenAI 和 DeepMind 的天使投資人。憑藉這筆新資金，該網路宣布其迄今為止最大規模的擴張。</description>
     </item>
     <item>
       <title>產業領袖攜手成立 Open Secure AI Alliance，推動 AI 安全與資安</title>
@@ -886,39 +922,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的財務長 Sarah Friar 提出一個實用的 AI 計分卡，透過有用的工作、每次成功任務成本、可靠性，以及運算報酬來衡量投資報酬率。</description>
-    </item>
-    <item>
-      <title>在 Google Earth 體驗阿茲特克體育場的傳奇歷史。</title>
-      <link>https://blog.google/products-and-platforms/products/earth/estadio-azteca/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/earth/estadio-azteca/</guid>
-      <pubDate>Thu, 16 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 Google Earth 和 ICA Foundation，重溫墨西哥城阿茲特克體育場 60 年的足球歷史。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Earth 和 ICA Foundation，重溫墨西哥城阿茲特克體育場 60 年的足球歷史。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>每位學生都該知道的 6 個開學採買小技巧</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</guid>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>不管你是在佈置房間、更新衣櫃，還是補齊最後一刻才想起的必需品，這些購物工具都會帶來很大的不同。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" alt=""></p><p>不管你是在佈置房間、更新衣櫃，還是補齊最後一刻才想起的必需品，這些購物工具都會帶來很大的不同。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>海灘氛圍和暫時性桌布正成為返校季的熱門趨勢。</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</guid>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>大學生很想把單調的宿舍房間變成舒適的空間。以下是我們在 Google 搜尋中看到的趨勢。</description>
     </item>
     <item>
       <title>為什麼青少年應該能使用安全的 AI</title>
