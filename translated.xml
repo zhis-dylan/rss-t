@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 07:59:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 08:14:22 GMT</lastBuildDate>
+    <item>
+      <title>Lyft 和百度進入倫敦的 robotaxi 戰場，測試正式開始</title>
+      <link>https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147199</guid>
+      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>百度的 Apollo Go 自駕車將可透過 Freenow 使用，這是 Lyft 在 2025 年收購的移動出行網路。</description>
+    </item>
     <item>
       <title>Cursor 在 SpaceX 收購前夕展開至今最大規模的印度布局，推出在地化定價</title>
       <link>https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/</link>
@@ -283,15 +292,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" alt=""></p><p>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>腦波會是實體 AI 的下一個突破嗎？</title>
-      <link>https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146429</guid>
-      <pubDate>Mon, 27 Jul 2026 00:19:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>別再看 YouTube 影片了——前沿的實體 AI 模型需要多個攝影機角度、密集標註，而且很快還需要腦波讀取。</description>
     </item>
     <item>
       <title>NAVER、NVIDIA 與 Brookfield 擴大韓國國家 AI 工廠基礎設施建置</title>
