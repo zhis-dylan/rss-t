@@ -5,7 +5,38 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 13:47:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:02:16 GMT</lastBuildDate>
+    <item>
+      <title>推出 WhatsApp 網頁版通話，以及更多新功能</title>
+      <link>https://about.fb.com/news/2026/07/whatsapp-web-calling-new-features/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=49777</guid>
+      <pubDate>Tue, 28 Jul 2026 14:00:38 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>我們正在推出新功能，例如可從 WhatsApp 網頁版撥打電話、通話轉接、背景噪音抑制等。
+〈推出 WhatsApp 網頁版通話，以及更多新功能〉一文首先出現在 Meta 新聞中心。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出新功能，例如可從 WhatsApp 網頁版撥打電話、通話轉接、背景噪音抑制等。<br>〈推出 WhatsApp 網頁版通話，以及更多新功能〉一文首先出現在 Meta 新聞中心。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Fish Audio 募得 5,000 萬美元種子輪，打造供創作者與企業使用的 AI 語音模型</title>
+      <link>https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146881</guid>
+      <pubDate>Tue, 28 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>自去年上線以來，這家新創公司目前已有超過 800 萬人使用其開源版或託管版模型，且目前的年度經常性營收達 2,100 萬美元。</description>
+    </item>
+    <item>
+      <title>Apple 與 Klarna 合作推出「Upgrade」裝置租賃方案</title>
+      <link>https://techcrunch.com/2026/07/28/apple-launches-upgrade-device-leasing-program-in-partnership-with-klarna/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147286</guid>
+      <pubDate>Tue, 28 Jul 2026 13:50:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>租賃價格從 iPhone 每月 17.99 美元、Apple Watch 每月 11.99 美元、Mac 每月 24.99 美元，以及 iPad 每月 11.99 美元起。</description>
+    </item>
     <item>
       <title>Recursive Superintelligence 與 Amazon 簽下 4.1 億美元運算合約</title>
       <link>https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/</link>
@@ -278,15 +309,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>這把 9 美元的 NFC 鑰匙需要你親自掃描它，才能解鎖手機上讓人分心的 app。</description>
     </item>
     <item>
-      <title>Ilya Sutskever 的 Safe Superintelligence 與 Nvidia 合作擴大其 AI 研究規模</title>
-      <link>https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146871</guid>
-      <pubDate>Mon, 27 Jul 2026 15:01:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在低調運作兩年後，Safe Superintelligence 宣布與 Nvidia 建立長期合作夥伴關係，為其邁向下一個階段做準備。</description>
-    </item>
-    <item>
       <title>宣布 AI Glasses Impact Grant 得獎者：協助人們更獨立地工作、學習和生活</title>
       <link>https://about.fb.com/news/2026/07/ai-glasses-helping-people-work-learn-live-independently/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=49609</guid>
@@ -310,15 +332,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/595589fd9c7929f74a3726662e15f4ac/6a6675ff3d63324e142a251a_ssi-nvidia/ssi-nvidia_thmb.jpg?v=c11a6442-e59a-4f26-b4a9-a08fb34f2181" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/595589fd9c7929f74a3726662e15f4ac/6a6675ff3d63324e142a251a_ssi-nvidia/ssi-nvidia_thmb.jpg?v=c11a6442-e59a-4f26-b4a9-a08fb34f2181"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/595589fd9c7929f74a3726662e15f4ac/6a6675ff3d63324e142a251a_ssi-nvidia/ssi-nvidia_thmb.jpg?v=c11a6442-e59a-4f26-b4a9-a08fb34f2181" alt=""></p><p>取得 NVIDIA 同級最佳的 Vera Rubin 系統，將 SSI 的運算能力提升一個數量級SANTA CLARA, Calif. 和 PALO ALTO, Calif.，2026 年 7 月 27 日 Safe Superintelligence Inc.（SSI）和 ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Snapchat 現在可讓你即時分享你正在聆聽的內容</title>
-      <link>https://techcrunch.com/2026/07/27/snapchat-now-lets-you-share-what-youre-listening-to-in-real-time/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146494</guid>
-      <pubDate>Mon, 27 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從 Spotify 開始，Snapchat 使用者將能連結他們的帳號、選擇誰可以看到他們的聆聽動態，並即時查看朋友正在聆聽什麼。</description>
     </item>
     <item>
       <title>產業領袖攜手成立 Open Secure AI Alliance，推動 AI 安全與資安</title>
@@ -876,19 +889,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享部署長時間運行 AI 模型的經驗，強調新的安全風險、觀察到的失敗，以及透過迭代部署改善的防護措施。</description>
-    </item>
-    <item>
-      <title>2026 足球夏季：Meta 各平台創下破紀錄時刻</title>
-      <link>https://about.fb.com/news/2026/07/the-2026-summer-of-football-a-record-breaking-moment-across-meta/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49614</guid>
-      <pubDate>Fri, 17 Jul 2026 22:12:42 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>在 2026 年足球夏季期間，Instagram、Threads、Facebook 和 WhatsApp 的互動量創下紀錄。
-〈2026 足球夏季：Meta 各平台創下破紀錄時刻〉最早出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/The-2026-Summer-of-Football_A-Record-Breaking-Moment-Across-Meta_Header-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/The-2026-Summer-of-Football_A-Record-Breaking-Moment-Across-Meta_Header-1.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/The-2026-Summer-of-Football_A-Record-Breaking-Moment-Across-Meta_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>在 2026 年足球夏季期間，Instagram、Threads、Facebook 和 WhatsApp 的互動量創下紀錄。<br>〈2026 足球夏季：Meta 各平台創下破紀錄時刻〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA Vera Rubin 將每美元智慧效能最大化，適用於後訓練工作負載——代理式 AI 的關鍵指標</title>
