@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 19:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 19:19:58 GMT</lastBuildDate>
+    <item>
+      <title>Ozlo 的 Sleepbuds 2 延續 Bose 的睡眠耳塞傳承</title>
+      <link>https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147414</guid>
+      <pubDate>Tue, 28 Jul 2026 19:09:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ozlo 針對其睡眠耳塞推出的首個重大更新，帶來更長的電池續航力、改善的連線能力、強化的音訊，以及新的睡眠功能，這家新創公司持續推進這條曾被 Bose 擱置的產品線。</description>
+    </item>
+    <item>
+      <title>NASA 雇用來抬升軌道望遠鏡的機器人正失控翻滾</title>
+      <link>https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147507</guid>
+      <pubDate>Tue, 28 Jul 2026 19:07:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Katalyst 的 LINK 太空船在關鍵元件故障後，正失控翻滾。</description>
+    </item>
+    <item>
+      <title>Waymo 和 robotaxi 營運商因緊急應變失敗面臨新一輪審查</title>
+      <link>https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147409</guid>
+      <pubDate>Tue, 28 Jul 2026 19:06:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>加州民主黨眾議員 Kevin Mullin 提出的法案，將要求聯邦監管機構為自動駕駛車輛營運商制定最低全國安全標準；此舉是在一連串 robotaxi 擋住消防車、阻礙緊急救援人員的事件之後提出的。</description>
+    </item>
     <item>
       <title>eBay 與其在 2019 年恐嚇的電子商務電子報作者達成 5,600 萬美元和解</title>
       <link>https://techcrunch.com/2026/07/28/ebay-reaches-56m-settlement-with-e-commerce-newsletter-writers-it-terrorized-in-2019/</link>
@@ -322,33 +349,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>核融合發電新創公司 Thea Energy 從 ARPA-E 獲得 2,000 萬美元獎助，用於擴大高溫超導磁體的生產規模。</description>
-    </item>
-    <item>
-      <title>當對手忙著收購，Peacock 透過與 YouTube 的新合作押注套裝方案</title>
-      <link>https://techcrunch.com/2026/07/27/as-rivals-chase-acquisitions-peacock-bets-on-bundles-through-a-new-deal-with-youtube/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147146</guid>
-      <pubDate>Mon, 27 Jul 2026 20:40:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>雖然串流產業大多把焦點放在併購上，NBCUniversal 正透過合作夥伴關係擴大觸及範圍，而最新一步是讓 Peacock 直接登上 YouTube。週一，NBCUniversal 和 YouTube 宣布一項為期多年的全球策略夥伴關係，從 2027 年初開始，將 Peacock 的 Premium 方案提供給美國的 YouTube Premium 訂閱用戶。這 […]</description>
-    </item>
-    <item>
-      <title>提醒：你的 Claude 共用聊天室和 Artifacts 可能已出現在 Google 上</title>
-      <link>https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147064</guid>
-      <pubDate>Mon, 27 Jul 2026 20:19:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在週末期間，無數 Claude 聊天與 Artifacts——使用者可在 Claude 內建立的互動式迷你應用程式和文件——被發現可在 Google 上公開搜尋到；原因是 Reddit 使用者發現，在 Google 輸入像「site:claude.ai/share」這類搜尋運算子，會顯示一長串共用對話。據報有些內容還包含健康紀錄、私人 […]</description>
-    </item>
-    <item>
-      <title>Microsoft 推出其首個網路安全模型，並推出新的 agentic 資安系統</title>
-      <link>https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146944</guid>
-      <pubDate>Mon, 27 Jul 2026 18:32:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 本週擴大了其 AI 資安產品，推出首個 AI 安全模型與新的安全平台。</description>
     </item>
     <item>
       <title>NOAA 與 Google Cloud 合作推進天氣預報。</title>
