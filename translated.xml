@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 09:29:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:45:03 GMT</lastBuildDate>
+    <item>
+      <title>Meta 宣布與 BlackRock 的新策略性合資計畫，於 El Paso 開發資料中心</title>
+      <link>https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=49743</guid>
+      <pubDate>Tue, 28 Jul 2026 09:30:23 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>Meta 和 BlackRock 宣布一項合資計畫，將為德州 El Paso 的資料中心園區開發與營運提供資金。
+這篇〈Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso〉最早刊登於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>Meta 和 BlackRock 宣布一項合資計畫，將為德州 El Paso 的資料中心園區開發與營運提供資金。<br>這篇〈Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Lyft 和百度進入倫敦的 robotaxi 戰場，測試正式開始</title>
       <link>https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/</link>
@@ -992,19 +1005,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解企業如何透過衡量每一美元所帶來的有效工作量、提升效率，以及擴展高價值工作流程，來管理 agentic 時代的 AI 投資。</description>
-    </item>
-    <item>
-      <title>Meta 擴建路易斯安那州資料中心，教師與當地企業受惠</title>
-      <link>https://about.fb.com/news/2026/07/teachers-local-businesses-win-as-meta-expands-louisiana-data-center/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49545</guid>
-      <pubDate>Mon, 13 Jul 2026 09:30:24 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們正在將路易斯安那州 Richland Parish 的資料中心擴充至 5GW 的運算容量，這個小鎮已經為教師、當地企業和學生帶來改變人生的回報。
-〈教師與當地企業受惠，因為 Meta 擴建路易斯安那州資料中心〉一文首先出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Teachers-and-Local-Businesses-Win-as-Meta-Expands-Louisiana-Data-Center-_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Teachers-and-Local-Businesses-Win-as-Meta-Expands-Louisiana-Data-Center-_Thumbnail.gif?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Teachers-and-Local-Businesses-Win-as-Meta-Expands-Louisiana-Data-Center-_Thumbnail.gif?fit=890%2C501" alt=""></p><p>我們正在將路易斯安那州 Richland Parish 的資料中心擴充至 5GW 的運算容量，這個小鎮已經為教師、當地企業和學生帶來改變人生的回報。<br>〈教師與當地企業受惠，因為 Meta 擴建路易斯安那州資料中心〉一文首先出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
