@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 00:10:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:26:01 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 的 Dario Amodei 回應：不反對開放權重模型，但擔心中國 AI</title>
+      <link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147197</guid>
+      <pubDate>Tue, 28 Jul 2026 00:13:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 創辦人兼執行長 Dario Amodei 明確表達了他對開放權重模型，以及中國不斷成長的 AI 能力的看法。</description>
+    </item>
     <item>
       <title>Satya Nadella 表示，信任單一 AI 處理所有事情的公司可能無法存活</title>
       <link>https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/</link>
@@ -271,15 +280,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>隨著 Apple 準備推出第一款智慧眼鏡，這家公司也可能正苦惱於如何回應消費者對隱私的疑慮。</description>
-    </item>
-    <item>
-      <title>理解外界對中國 AI 恐慌的原因</title>
-      <link>https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146794</guid>
-      <pubDate>Sun, 26 Jul 2026 19:40:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在最新一集 Equity 中，我們討論了為什麼月之暗面 AI 的 Kimi 似乎讓矽谷和華爾街感到恐慌。</description>
     </item>
     <item>
       <title>NAVER、NVIDIA 與 Brookfield 擴大韓國國家 AI 工廠基礎設施建置</title>
