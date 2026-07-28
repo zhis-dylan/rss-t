@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 15:32:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 15:48:06 GMT</lastBuildDate>
+    <item>
+      <title>資料中心可能面臨暫時停電，以防止美國最大電網發生大停電</title>
+      <link>https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147357</guid>
+      <pubDate>Tue, 28 Jul 2026 15:42:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國最大的電網營運商表示，為了防止停電，明年起將會切斷大型資料中心的供電。</description>
+    </item>
     <item>
       <title>PayPal 在財報優於預期後，仍保留接受更高收購報價的可能</title>
       <link>https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/</link>
@@ -297,15 +306,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" alt=""></p><p>Google Cloud 現在正為 NOAA 的超級電腦系統提供高效能運算基礎設施。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Threads 使用者現在可以在私訊中與 Meta AI 聊天</title>
-      <link>https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146923</guid>
-      <pubDate>Mon, 27 Jul 2026 16:45:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 週一表示，正在 Threads 的私訊中推出其 Meta AI 聊天機器人，讓使用者能夠與這個 AI 助理聊天。</description>
     </item>
     <item>
       <title>重新思考 AI 時代的安全性</title>
