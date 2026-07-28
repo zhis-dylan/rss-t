@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 00:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 01:11:21 GMT</lastBuildDate>
+    <item>
+      <title>Google 和 KDDI 已準備好支持日本新創公司。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/</guid>
+      <pubDate>Tue, 28 Jul 2026 01:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們將推出 AI 新創支持計畫，以加速創新的 AI 原生日本新創公司。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Futures_Fund__KDDI_ba.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Futures_Fund__KDDI_ba.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Futures_Fund__KDDI_ba.max-600x600.format-webp.webp" alt=""></p><p>我們將推出 AI 新創支持計畫，以加速創新的 AI 原生日本新創公司。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Anthropic 的 Dario Amodei 回應：不反對開放權重模型，但擔心中國 AI</title>
       <link>https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/</link>
@@ -852,15 +864,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Celebrating_the_worlds_first_3-.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Earth 和 ICA Foundation，重溫墨西哥城阿茲特克體育場 60 年的足球歷史。</p>]]></content:encoded>
     </item>
     <item>
-      <title>海灘氛圍和暫時性桌布正成為返校季的熱門趨勢。</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</guid>
-      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>大學生很想把單調的宿舍房間變成舒適的空間。以下是我們在 Google 搜尋中看到的趨勢。</description>
-    </item>
-    <item>
       <title>每位學生都該知道的 6 個開學採買小技巧</title>
       <link>https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/6-back-to-school-shopping-tricks-every-student-should-know/</guid>
@@ -873,6 +876,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Back_to_School_Shopping_Trends_.max-600x600.format-webp.webp" alt=""></p><p>不管你是在佈置房間、更新衣櫃，還是補齊最後一刻才想起的必需品，這些購物工具都會帶來很大的不同。</p>]]></content:encoded>
     </item>
     <item>
+      <title>海灘氛圍和暫時性桌布正成為返校季的熱門趨勢。</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/back-to-school-trends/</guid>
+      <pubDate>Thu, 16 Jul 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>大學生很想把單調的宿舍房間變成舒適的空間。以下是我們在 Google 搜尋中看到的趨勢。</description>
+    </item>
+    <item>
       <title>為什麼青少年應該能使用安全的 AI</title>
       <link>https://openai.com/index/why-teens-deserve-access-safe-ai</link>
       <guid isPermaLink="false">https://openai.com/index/why-teens-deserve-access-safe-ai</guid>
@@ -880,18 +892,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 如何透過符合年齡的保護措施、學習工具、家長監護控制，以及專家合作夥伴關係，讓 ChatGPT 對青少年更安全。</description>
-    </item>
-    <item>
-      <title>以滑鐵盧 Futures Lab 重新想像高等教育</title>
-      <link>https://blog.google/products-and-platforms/products/education/university-of-waterloo-futures-lab/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/university-of-waterloo-futures-lab/</guid>
-      <pubDate>Thu, 16 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 與滑鐵盧大學的 Futures Lab 正在幫助學生打造真實世界的 AI 工具，並為未來的工作做準備。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interview_with_alumni_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interview_with_alumni_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Interview_with_alumni_.max-600x600.format-webp.webp" alt=""></p><p>Google 與滑鐵盧大學的 Futures Lab 正在幫助學生打造真實世界的 AI 工具，並為未來的工作做準備。</p>]]></content:encoded>
     </item>
     <item>
       <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
