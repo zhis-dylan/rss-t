@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 20:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 20:50:38 GMT</lastBuildDate>
+    <item>
+      <title>MCP 新創 Runlayer 指控 Rippling 竊取其產品構想</title>
+      <link>https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147500</guid>
+      <pubDate>Tue, 28 Jul 2026 20:45:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Runlayer 正在控告 Rippling，因為 Rippling 評估了這家新創公司的 MCP 閘道產品，之後卻選擇自行開發一個。</description>
+    </item>
     <item>
       <title>Sam Altman 已準備好放慢腳步</title>
       <link>https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/</link>
@@ -340,15 +349,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anthropic 創辦人兼執行長 Dario Amodei 明確表達了他對開放權重模型，以及中國不斷成長的 AI 能力的看法。</description>
-    </item>
-    <item>
-      <title>Satya Nadella 表示，信任單一 AI 處理所有事情的公司可能無法存活</title>
-      <link>https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147049</guid>
-      <pubDate>Mon, 27 Jul 2026 21:17:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>微軟執行長 Satya Nadella 預測，完全依賴大型 AI 實驗室的企業最終將無法存活。</description>
     </item>
     <item>
       <title>NOAA 與 Google Cloud 合作推進天氣預報。</title>
