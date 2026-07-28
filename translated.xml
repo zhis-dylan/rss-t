@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 16:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:33:33 GMT</lastBuildDate>
+    <item>
+      <title>Gemini Flash agents 如何協助密西根州的一位乳牛農夫</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/using-gemini-to-manage-farm/</guid>
+      <pubDate>Tue, 28 Jul 2026 16:15:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看密西根州乳牛農夫 Paul Windemuller 如何透過使用以 Gemini 3.6 Flash 建立的 AI agents 改變他的工作方式。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Flash_Michigan_dairy_far.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Flash_Michigan_dairy_far.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Flash_Michigan_dairy_far.max-600x600.format-webp.webp" alt=""></p><p>看看密西根州乳牛農夫 Paul Windemuller 如何透過使用以 Gemini 3.6 Flash 建立的 AI agents 改變他的工作方式。</p>]]></content:encoded>
+    </item>
     <item>
       <title>回顧微軟 FY26：從 AI 實驗邁向前沿轉型</title>
       <link>https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/</link>
@@ -841,18 +853,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-a.max-600x600.format-webp_dgy5uuM.webp" alt=""></p><p>我們正在推出新的 Gemini 模型，包括 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們正在宣布美國技術工種聯盟。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-america-skilled-trades/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-america-skilled-trades/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正與 BlackRock、Carhartt 和 Ford 攜手推出美國技術工種聯盟。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_Alliance_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_Alliance_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_Alliance_social.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 BlackRock、Carhartt 和 Ford 攜手推出美國技術工種聯盟。</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 與 Hugging Face 合作因應模型評估期間的資安事件</title>
