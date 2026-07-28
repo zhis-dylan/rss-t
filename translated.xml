@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 12:16:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:31:19 GMT</lastBuildDate>
+    <item>
+      <title>Apple Upgrade 在美國推出</title>
+      <link>https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/</guid>
+      <pubDate>Tue, 28 Jul 2026 12:20:23 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple Upgrade——一項新的硬體租賃方案——現已可在美國的 Apple Store 線上商店、Apple Store app，以及 Apple Store 門市使用。</description>
+    </item>
     <item>
       <title>Meta 將簽署歐盟 AI 法案《AI 生成內容透明度實務守則》</title>
       <link>https://about.fb.com/news/2026/07/meta-is-signing-the-eu-ai-act-code-of-practice-on-transparency-of-ai-generated-content/</link>
@@ -1737,15 +1746,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png" alt=""></p><p>AI 已經進入企業，而這場轉變正在同時發生。每一個部門、每一個角色、每一個工作流程都正在被重塑。與此同時，一種新的組織類型正在浮現，這種組織將在根本上與定義上一個商業時代的公司截然不同。贏家不會是那些……<br><br>這篇〈AI 本身不會改變你的業務。真正改變它的是運作它的系統。〉最早發表於 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple 公布 2026 年 Apple 設計大獎得主</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/apple-reveals-winners-of-the-2026-apple-design-awards/</guid>
-      <pubDate>Tue, 02 Jun 2026 17:00:46 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 公布 2026 年 Apple 設計大獎得主，表揚在六個類別中表現傑出的 app 與遊戲設計。</description>
     </item>
     <item>
       <title>Travelers 在全美部署由 AI 驅動的理賠服務，採用 OpenAI</title>
