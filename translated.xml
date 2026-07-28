@@ -5,7 +5,41 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 15:48:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:03:19 GMT</lastBuildDate>
+    <item>
+      <title>回顧微軟 FY26：從 AI 實驗邁向前沿轉型</title>
+      <link>https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563055</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:10 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>在過去這個財年期間，各行各業和各個領域的客戶都從 AI 實驗階段，邁向部署 AI 以達成真實世界的商業成果。他們釋放了創新，並創造了新的成長機會。隨著他們超越效率提升，轉而聚焦人類雄心，並將 AI 融入核心，我們看見了 Frontier Firms 的出現……
+The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on The Official Microsoft Blog.</description>
+    </item>
+    <item>
+      <title>Gemini API 管理式代理：3.6 Flash、hooks 等更多功能</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" alt=""></p><p>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>非營利組織使用 AI 的 3 種新方式</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</p>]]></content:encoded>
+    </item>
     <item>
       <title>資料中心可能面臨暫時停電，以防止美國最大電網發生大停電</title>
       <link>https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/</link>
@@ -353,9 +387,9 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/1a9187783a4013e100c708ff1b103f9b/6a671e633d6332949ffc75a8_osaia-logo-garden_press-kit_1920x1080_V4-842x450/osaia-logo-garden_press-kit_1920x1080_V4-842x450_thmb.jpg?v=6aadbf19-a1b8-44d9-8a4e-801fafcae81d" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/1a9187783a4013e100c708ff1b103f9b/6a671e633d6332949ffc75a8_osaia-logo-garden_press-kit_1920x1080_V4-842x450/osaia-logo-garden_press-kit_1920x1080_V4-842x450_thmb.jpg?v=6aadbf19-a1b8-44d9-8a4e-801fafcae81d"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/1a9187783a4013e100c708ff1b103f9b/6a671e633d6332949ffc75a8_osaia-logo-garden_press-kit_1920x1080_V4-842x450/osaia-logo-garden_press-kit_1920x1080_V4-842x450_thmb.jpg?v=6aadbf19-a1b8-44d9-8a4e-801fafcae81d" alt=""></p><p>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</p>]]></content:encoded>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20266/fb14f7c59fc41a6cb3e360dad2df1ca1/6a68d1333d6332f1e8a4b6c7_osaia-logo-garden_press-kit_1920x1080-2/osaia-logo-garden_press-kit_1920x1080-2_thmb.png?v=a78abb0f-0b87-48bf-a95d-cbd695698576" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20266/fb14f7c59fc41a6cb3e360dad2df1ca1/6a68d1333d6332f1e8a4b6c7_osaia-logo-garden_press-kit_1920x1080-2/osaia-logo-garden_press-kit_1920x1080-2_thmb.png?v=a78abb0f-0b87-48bf-a95d-cbd695698576"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20266/fb14f7c59fc41a6cb3e360dad2df1ca1/6a68d1333d6332f1e8a4b6c7_osaia-logo-garden_press-kit_1920x1080-2/osaia-logo-garden_press-kit_1920x1080-2_thmb.png?v=a78abb0f-0b87-48bf-a95d-cbd695698576" alt=""></p><p>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 如何擴展人們在工作中所做的事</title>
@@ -839,18 +873,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>David Vélez 和 Robin Vince 加入 OpenAI Foundation 與 OpenAI Group PBC 董事會，帶來金融、科技與治理方面的全球領導經驗。</description>
     </item>
     <item>
-      <title>用 Gemini 開展副業的 5 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/</guid>
-      <pubDate>Mon, 20 Jul 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>想要推出副業嗎？使用 Gemini 來設計你的品牌、進行市場研究並自動化物流。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Scale_Side_Hustles_w_Gemini_her.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Scale_Side_Hustles_w_Gemini_her.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Scale_Side_Hustles_w_Gemini_her.max-600x600.format-webp.webp" alt=""></p><p>想要推出副業嗎？使用 Gemini 來設計你的品牌、進行市場研究並自動化物流。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>在 SIGGRAPH，NVIDIA 推進具代理能力與物理 AI 的圖形與模擬</title>
       <link>https://blogs.nvidia.com/blog/siggraph-news-2026/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/siggraph-news-2026/</guid>
@@ -913,18 +935,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/a36d2ab9f02473c4ad6982b9cebe6874/6a5a43943d63323c232c58b7_inline-1784235912807-842x450/inline-1784235912807-842x450_thmb.jpg?v=89f2974f-1947-4fb0-80f7-17e2b986de2b" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/a36d2ab9f02473c4ad6982b9cebe6874/6a5a43943d63323c232c58b7_inline-1784235912807-842x450/inline-1784235912807-842x450_thmb.jpg?v=89f2974f-1947-4fb0-80f7-17e2b986de2b"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/a36d2ab9f02473c4ad6982b9cebe6874/6a5a43943d63323c232c58b7_inline-1784235912807-842x450/inline-1784235912807-842x450_thmb.jpg?v=89f2974f-1947-4fb0-80f7-17e2b986de2b" alt=""></p><p>透過極致共同設計，以最低每 token 成本，在代理式時代將後訓練的每美元智慧效能最大化。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>為今日的溝通方式設計表情符號</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/world-emoji-day-noto-3d/</guid>
-      <pubDate>Fri, 17 Jul 2026 14:25:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在世界表情符號日，走進 Noto 3D 的幕後，了解我們如何重新設計數千個表情符號，以符合現代溝通。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/emoji_blog_social.max-600x600.format-webp.webp" alt=""></p><p>在世界表情符號日，走進 Noto 3D 的幕後，了解我們如何重新設計數千個表情符號，以符合現代溝通。</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 時代的計分卡</title>
@@ -1735,20 +1745,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 概述了美國前沿 AI 治理藍圖，提出聯邦框架以保障安全、韌性與國家安全。</description>
-    </item>
-    <item>
-      <title>AI 本身不會改變你的業務。真正改變它的是運作它的系統。</title>
-      <link>https://blogs.microsoft.com/blog/2026/06/02/ai-alone-wont-change-your-business-the-system-running-it-will/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562973</guid>
-      <pubDate>Tue, 02 Jun 2026 19:00:13 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>AI 已經進入企業，而這場轉變正在同時發生。每一個部門、每一個角色、每一個工作流程都正在被重塑。與此同時，一種新的組織類型正在浮現，這種組織將在根本上與定義上一個商業時代的公司截然不同。贏家不會是那些……
-
-這篇〈AI 本身不會改變你的業務。真正改變它的是運作它的系統。〉最早發表於 The Official Microsoft Blog。</description>
-      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png" medium="image" type="image/png"/>
-      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png"/>
-      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Jay-Parikh-Build-Image-1.png" alt=""></p><p>AI 已經進入企業，而這場轉變正在同時發生。每一個部門、每一個角色、每一個工作流程都正在被重塑。與此同時，一種新的組織類型正在浮現，這種組織將在根本上與定義上一個商業時代的公司截然不同。贏家不會是那些……<br><br>這篇〈AI 本身不會改變你的業務。真正改變它的是運作它的系統。〉最早發表於 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
       <title>Travelers 在全美部署由 AI 驅動的理賠服務，採用 OpenAI</title>
