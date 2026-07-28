@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 28 Jul 2026 15:02:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 15:17:52 GMT</lastBuildDate>
+    <item>
+      <title>PayPal 在財報優於預期後，仍保留接受更高收購報價的可能</title>
+      <link>https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147303</guid>
+      <pubDate>Tue, 28 Jul 2026 15:10:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在公布優於預期的第二季財報後，PayPal 表示仍專注於其由 AI 驅動的轉型，但也會考慮能為股東創造更多價值的交易。</description>
+    </item>
+    <item>
+      <title>強大運算，如此精巧，隨身必備——用 NVIDIA Jetson 在你手中打造 AI</title>
+      <link>https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/build-ai-with-nvidia-jetson/</guid>
+      <pubDate>Tue, 28 Jul 2026 15:00:19 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>任何人都能讓機器人動起來；NVIDIA Jetson 讓它思考。身為重視風格與實質的精明 AI 投資人，Sarah Guo 知道，這個季節最亮眼的配件不是最新款設計師手袋，而是裡面的內容。在最近的一段影片中，AI 原生創投公司 Conviction 的創辦人、AI 節目共同主持人 Guo [...]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202607/db25288b024e484385754083ffb2e0f1/6a68c4ae3d6332c7cabdaf15_SarahGuo_Jetson_FeaturedImage-842x450/SarahGuo_Jetson_FeaturedImage-842x450_thmb.jpg?v=8a1a8fdc-2497-44d1-8b26-ae819263bb83" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/db25288b024e484385754083ffb2e0f1/6a68c4ae3d6332c7cabdaf15_SarahGuo_Jetson_FeaturedImage-842x450/SarahGuo_Jetson_FeaturedImage-842x450_thmb.jpg?v=8a1a8fdc-2497-44d1-8b26-ae819263bb83"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/db25288b024e484385754083ffb2e0f1/6a68c4ae3d6332c7cabdaf15_SarahGuo_Jetson_FeaturedImage-842x450/SarahGuo_Jetson_FeaturedImage-842x450_thmb.jpg?v=8a1a8fdc-2497-44d1-8b26-ae819263bb83" alt=""></p><p>任何人都能讓機器人動起來；NVIDIA Jetson 讓它思考。身為重視風格與實質的精明 AI 投資人，Sarah Guo 知道，這個季節最亮眼的配件不是最新款設計師手袋，而是裡面的內容。在最近的一段影片中，AI 原生創投公司 Conviction 的創辦人、AI 節目共同主持人 Guo [...]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Elon Musk 的 X Money 應用程式正在美國推出</title>
       <link>https://techcrunch.com/2026/07/28/elon-musks-x-money-app-is-rolling-out-in-the-u-s/</link>
@@ -298,15 +319,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" alt=""></p><p>為什麼安全需要全新的 Cyber Stack —— 介紹 Project Perception 資安的物理法則正在改變。自主系統現在可以推理、適應並持續運作。同時，攻擊的成本正在下降，而需要保護的內容在數量、速度與複雜度上持續增加。攻擊者可以更快產生漏洞利用程式，...<br>The post Rethinking security for the age of AI appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 的 AI 搜尋正快速成為預設選項，最新數據顯示</title>
-      <link>https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146884</guid>
-      <pubDate>Mon, 27 Jul 2026 15:57:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 的 AI Overviews 現在出現在 43% 的搜尋中，凸顯出 AI 生成的答案正多快成為人們在線上探索資訊的預設方式。</description>
     </item>
     <item>
       <title>宣布 AI Glasses Impact Grant 得獎者：協助人們更獨立地工作、學習和生活</title>
@@ -943,18 +955,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg?v=bd33b739-b1ec-4d77-bd91-49605860249f" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg?v=bd33b739-b1ec-4d77-bd91-49605860249f"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg?v=bd33b739-b1ec-4d77-bd91-49605860249f" alt=""></p><p>《鬼武者：劍之道》將在上市時登陸 GeForce NOW，本週也會提供可遊玩的試玩版。Denshattack! 也會加入，雲端將迎來五款新遊戲。此外，GeForce NOW 正式在印度上線，從 beta 轉為正式提供服務——這代表玩家無需等候名單就能註冊。[…]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>日本政府、產業領袖與 NVIDIA 啟動全球首座國家級 AI 基礎設施</title>
-      <link>https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/japan-government-industrial-leaders-and-nvidia-launch-the-worlds-first-national-ai-infrastructure</guid>
-      <pubDate>Thu, 16 Jul 2026 08:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布，正與 Noetra Corp. 合作，推出一座 NVIDIA Vera Rubin AI factory，配備 13,750 顆 NVIDIA Vera CPU 與 27,500 顆 NVIDIA Rubin GPU，供國家級實體 AI...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/06eb47bace9f6c49172afcccaea0f7a0/6a57f2cd3d6332c269944adc_japan-ai-infrastructure/japan-ai-infrastructure_thmb.jpg?v=396d279d-90dd-48ec-9372-c71a7a15dbfb" alt=""></p><p>NVIDIA 今日宣布，正與 Noetra Corp. 合作，推出一座 NVIDIA Vera Rubin AI factory，配備 13,750 顆 NVIDIA Vera CPU 與 27,500 顆 NVIDIA Rubin GPU，供國家級實體 AI...</p>]]></content:encoded>
     </item>
     <item>
       <title>Codex 如何成為 OpenAI 創意團隊的協作者</title>
