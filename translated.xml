@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:13:19 GMT</lastBuildDate>
+    <item>
+      <title>Fast Metals 正用更多廢棄物處理廢棄物，以萃取關鍵礦物</title>
+      <link>https://techcrunch.com/2026/07/29/fast-metals-is-treating-waste-with-more-waste-to-extract-critical-minerals/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147597</guid>
+      <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>鋁生產讓全球累積了數十億噸的腐蝕性廢棄物。一家新創公司有個計畫，要把這些廢棄物清理掉，還能賺錢。</description>
+    </item>
     <item>
       <title>隨著 AI 內容充斥網路，Pangram 募得 900 萬美元用於偵測它</title>
       <link>https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/</link>
@@ -292,15 +301,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Granola 推出 Apple Watch 應用程式</title>
-      <link>https://techcrunch.com/2026/07/28/granola-launches-an-apple-watch-app/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3144567</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Granola 推出一款 Apple Watch 應用程式，供面對面記筆記使用</description>
     </item>
     <item>
       <title>Apple Upgrade 在美國推出</title>
