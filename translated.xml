@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 22:33:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:48:34 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 透過 Anthropic 投資獲得 32 億美元收益，但 OpenAI 的表現喜憂參半</title>
+      <link>https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148002</guid>
+      <pubDate>Wed, 29 Jul 2026 22:46:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>當 Microsoft 公布其 2026 會計年度第四季亮眼財報時（該年度於 6 月 30 日結束），順帶透露了一個有趣的小細節，說明它對兩家最大、且彼此競爭的 AI 實驗室的投資表現如何。</description>
+    </item>
     <item>
       <title>祖克柏表示，Meta 的企業 AI 機會不只侷限於代理人</title>
       <link>https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/</link>
@@ -245,15 +254,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-5.6 提升了模型、推論與代理式工作流程的 AI 效率，協助在每一美元成本下提供更實用的智慧。</description>
-    </item>
-    <item>
-      <title>Bot 偵測新創 Spur 從 Insight 募得 2 億美元</title>
-      <link>https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147594</guid>
-      <pubDate>Tue, 28 Jul 2026 21:29:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Spur Intelligence 已從 Insight Partners 募得 2 億美元，這筆資金將用於其可辨識真實人類流量與機器人流量的技術。</description>
     </item>
     <item>
       <title>Agentic AI 時代的科學運算</title>
