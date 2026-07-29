@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 16:00:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:15:15 GMT</lastBuildDate>
+    <item>
+      <title>我們正在 Google Flow Music 推出 Lyria 3.5，在音樂性、歌詞、演唱和創意控制方面都有進展。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/</guid>
+      <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們最新的音樂生成模型 Lyria 3.5，在音樂性、歌詞和人聲品質方面都有顯著進展，讓你能打造更豐富的曲目。我們…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp" alt=""></p><p>我們最新的音樂生成模型 Lyria 3.5，在音樂性、歌詞和人聲品質方面都有顯著進展，讓你能打造更豐富的曲目。我們…</p>]]></content:encoded>
+    </item>
     <item>
       <title>Elon Musk 的 X 與世界廣告主聯合會達成多年法律戰和解</title>
       <link>https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/</link>
@@ -774,18 +786,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 概述了與美國能源部和國家實驗室合作，運用前沿 AI 加速發現，以推動美國科學發展的承諾。</description>
-    </item>
-    <item>
-      <title>在 Waze 上開車，使用 Halo</title>
-      <link>https://blog.google/waze/waze-halo/</link>
-      <guid isPermaLink="false">https://blog.google/waze/waze-halo/</guid>
-      <pubDate>Wed, 22 Jul 2026 09:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>延續自 2021 年開始的合作，Waze 再次與 Halo 攜手慶祝《Halo: Campaign Evolved》推出，並帶來更新版的 Halo 體驗…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Halo-Keyvisual_Horizontal.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Halo-Keyvisual_Horizontal.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Halo-Keyvisual_Horizontal.max-600x600.format-webp.webp" alt=""></p><p>延續自 2021 年開始的合作，Waze 再次與 Halo 攜手慶祝《Halo: Campaign Evolved》推出，並帶來更新版的 Halo 體驗…</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 OpenAI Presence</title>
