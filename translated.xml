@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 22:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:03:44 GMT</lastBuildDate>
+    <item>
+      <title>馬克·祖克柏預測，五年內數十億人將擁有個人 AI 代理</title>
+      <link>https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148017</guid>
+      <pubDate>Wed, 29 Jul 2026 23:00:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著 Meta 將數十億美元投入 AI 基礎設施和代理，祖克柏正努力說服投資人，這筆投資將會值得其代價。</description>
+    </item>
     <item>
       <title>Microsoft 透過 Anthropic 投資獲得 32 億美元收益，但 OpenAI 的表現喜憂參半</title>
       <link>https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/</link>
@@ -172,6 +181,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drops_July.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 7 月的 Demand Gen Drop 升級版 tROAS 出價、Checkout Links 等功能，為假期旺季做好準備。</p>]]></content:encoded>
     </item>
     <item>
+      <title>啟用兩個設定如何讓我們在 ARC-AGI-3 基準測試的分數翻了三倍</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
+      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>兩個 API 設定如何提升 GPT-5.6 在 ARC-AGI-3 上的表現，透過保留推理與啟用壓縮來提升分數與效率。</description>
+    </item>
+    <item>
       <title>Gemini for macOS 新增新的自然語言功能</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/</guid>
@@ -236,15 +254,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正提供 10 萬名學術研究人員免費使用 ChatGPT 最先進的 AI 模型，以加速科學研究、協作與發現。</description>
-    </item>
-    <item>
-      <title>Cyera 同意以 10 億美元收購 Oasis Security，以保護日益增多的 AI 代理</title>
-      <link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147673</guid>
-      <pubDate>Wed, 29 Jul 2026 00:09:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆交易是 Cyera 今年的第三筆收購。</description>
     </item>
     <item>
       <title>GPT-5.6 如何融合前沿智慧與前沿效率</title>
@@ -1084,15 +1093,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解 GPT-5.6 如何透過更強的 AI 能力驅動 Microsoft 365 Copilot，涵蓋 Word、Excel、PowerPoint、Chat 和 Cowork，讓工作更快、品質更高。</description>
     </item>
     <item>
-      <title>GPT-5.5 生物漏洞獎勵計畫</title>
-      <link>https://openai.com/index/bio-bug-bounty</link>
-      <guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 生物獎勵計畫的詳細資訊</description>
-    </item>
-    <item>
       <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
       <link>https://openai.com/index/gpt-5-6</link>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
@@ -1109,6 +1109,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT Work 是一個 agent，可以跨你的應用程式和檔案採取行動，必要時能持續跟進一個專案數小時，並把一個目標變成完成的成果。</description>
+    </item>
+    <item>
+      <title>GPT-5.5 生物漏洞獎勵計畫</title>
+      <link>https://openai.com/index/bio-bug-bounty</link>
+      <guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 生物獎勵計畫的詳細資訊</description>
     </item>
     <item>
       <title>Apple 獲得創紀錄的 89 項艾美獎提名</title>
@@ -1212,15 +1221,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>新的 OpenAI Signals 資料顯示 ChatGPT 的採用正在全球成長，使用者持續增加使用量、探索更多功能，並帶動各地區與語言的成長。</description>
     </item>
     <item>
-      <title>介紹 GeneBench-Pro</title>
-      <link>https://openai.com/index/introducing-genebench-pro</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>介紹 GeneBench-Pro，一個新的基準測試，使用複雜的真實世界資料集來測試 AI 在基因組學、生物學和科學研究方面的表現。</description>
-    </item>
-    <item>
       <title>核心傾印流行病學：修復一個 18 年的舊錯誤</title>
       <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
       <guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
@@ -1228,6 +1228,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
+    </item>
+    <item>
+      <title>介紹 GeneBench-Pro</title>
+      <link>https://openai.com/index/introducing-genebench-pro</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>介紹 GeneBench-Pro，一個新的基準測試，使用複雜的真實世界資料集來測試 AI 在基因組學、生物學和科學研究方面的表現。</description>
     </item>
     <item>
       <title>Genebench-Pro 內部</title>
@@ -1350,15 +1359,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" alt=""></p><p>今天，Microsoft 宣布其歷史上最大的一次單筆容量擴充之一。我們將在德州 Pecos 建立一座新的資料中心園區，將我們的全球資料中心容量擴充約 2 吉瓦（GW），以滿足各產業與各地區對 AI 和雲端服務強勁且持續的客戶需求。除了技術層面之外，這也是...<br>〈Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos〉一文最先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Daybreak：為全球每個組織提供安全防護的工具</title>
-      <link>https://openai.com/index/daybreak-securing-the-world</link>
-      <guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出新的 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，協助組織大規模找出、驗證並修補漏洞。</description>
-    </item>
-    <item>
       <title>Patch the Planet：一項支持開源維護者的 Daybreak 倡議</title>
       <link>https://openai.com/index/patch-the-planet</link>
       <guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
@@ -1366,6 +1366,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出 Patch the Planet，這是 Daybreak 的一項倡議，協助開源維護者透過 AI 與專家審查找出、驗證並修補漏洞。</description>
+    </item>
+    <item>
+      <title>Daybreak：為全球每個組織提供安全防護的工具</title>
+      <link>https://openai.com/index/daybreak-securing-the-world</link>
+      <guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
+      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 推出新的 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，協助組織大規模找出、驗證並修補漏洞。</description>
     </item>
     <item>
       <title>Codex-maxxing 用於長時間執行的工作</title>
@@ -1495,6 +1504,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
     </item>
     <item>
+      <title>OpenAI 將收購 Ona</title>
+      <link>https://openai.com/index/openai-to-acquire-ona</link>
+      <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 計劃收購 Ona，以透過安全、持久的雲端環境擴展 Codex，讓 AI 代理能在企業工作流程中長時間運作。</description>
+    </item>
+    <item>
       <title>天文物理學家如何運用 Codex 協助模擬黑洞</title>
       <link>https://openai.com/index/using-codex-to-simulate-black-holes</link>
       <guid isPermaLink="false">https://openai.com/index/using-codex-to-simulate-black-holes</guid>
@@ -1511,15 +1529,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 支持歐盟 AI 內容透明度行為準則，推動來源標準和工具，協助人們理解 AI 生成內容。</description>
-    </item>
-    <item>
-      <title>OpenAI 將收購 Ona</title>
-      <link>https://openai.com/index/openai-to-acquire-ona</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 計劃收購 Ona，以透過安全、持久的雲端環境擴展 Codex，讓 AI 代理能在企業工作流程中長時間運作。</description>
     </item>
     <item>
       <title>透過你的 Oracle 雲端承諾存取 OpenAI 模型和 Codex</title>
@@ -1918,15 +1927,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>了解 OpenAI、Thrive 和 Crete 如何使用 Codex 打造自我改進的稅務代理人，實現申報自動化、提升準確度並加速工作流程。</description>
     </item>
     <item>
-      <title>2026 年的選舉資訊與防護措施</title>
-      <link>https://openai.com/index/election-safeguards-2026</link>
-      <guid isPermaLink="false">https://openai.com/index/election-safeguards-2026</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>在全球選舉到來之前，我們正協助人們取得資訊、支援網路防禦者，並提升 AI 透明度</description>
-    </item>
-    <item>
       <title>Warp 對用 GPT-5.5 打造開源的重大押注</title>
       <link>https://openai.com/index/warp</link>
       <guid isPermaLink="false">https://openai.com/index/warp</guid>
@@ -1936,6 +1936,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>Warp 使用 GPT-5.5 和 OpenAI 模型，來協調跨本機、雲端與開源開發工作流程的程式碼代理。</description>
     </item>
     <item>
+      <title>2026 年的選舉資訊與防護措施</title>
+      <link>https://openai.com/index/election-safeguards-2026</link>
+      <guid isPermaLink="false">https://openai.com/index/election-safeguards-2026</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>在全球選舉到來之前，我們正協助人們取得資訊、支援網路防禦者，並提升 AI 透明度</description>
+    </item>
+    <item>
       <title>AI 正成為小型企業的首位員工</title>
       <link>https://openai.com/index/ai-first-hire-small-business</link>
       <guid isPermaLink="false">https://openai.com/index/ai-first-hire-small-business</guid>
@@ -1943,15 +1952,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的研究顯示，400 萬美國人如何使用 ChatGPT 來創業、經營和擴展小型企業，藉由 AI 降低創業成本。</description>
-    </item>
-    <item>
-      <title>OpenAI、Grupo Folha 與 Grupo UOL 宣布策略性內容合作夥伴關係</title>
-      <link>https://openai.com/index/grupo-folha-grupo-uol-partnership</link>
-      <guid isPermaLink="false">https://openai.com/index/grupo-folha-grupo-uol-partnership</guid>
-      <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 與 Grupo Folha 和 Grupo UOL 合作，將可信賴的巴西新聞帶入 ChatGPT，透過標註來源與透明度，擴大新聞存取。</description>
     </item>
     <item>
       <title>資料科學團隊如何使用 Codex</title>
