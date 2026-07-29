@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 16:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:45:30 GMT</lastBuildDate>
     <item>
       <title>我們正在 Google Flow Music 推出 Lyria 3.5，在音樂性、歌詞、演唱和創意控制方面都有進展。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/</link>
@@ -77,6 +77,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家新創公司會分析通話、訊息和 CRM 資料，找出有效的銷售技巧，並將其轉化為供 AI 代理使用的作戰手冊。</description>
+    </item>
+    <item>
+      <title>「沒有人在做這樣的手機」：Light 共同創辦人談為反智慧型手機世代打造產品</title>
+      <link>https://techcrunch.com/video/no-ones-making-a-phone-like-this-lights-co-founders-on-building-for-the-anti-smartphone-generation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3147858</guid>
+      <pubDate>Wed, 29 Jul 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>有了 Light Phone，Kaiwei Tang 和 Joe Hollier 花了十多年時間探索在我們與科技的關係中，簡單的價值；一路上也與 Andrew Yang、Kendrick Lamar 和 Pete Davidson 等人合作。現在，隨著一款新的翻蓋手機，以及一波日益壯大的「注意力行動者」對 Big Tech 發起反擊，他們認為其餘的 […]</description>
     </item>
     <item>
       <title>DoorDash 正在打造自己的無人機送貨業務</title>
@@ -267,15 +276,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>美國最大的電網營運商表示，為了防止停電，明年起將會切斷大型資料中心的供電。</description>
-    </item>
-    <item>
-      <title>PayPal 在財報優於預期後，仍保留接受更高收購報價的可能</title>
-      <link>https://techcrunch.com/2026/07/28/paypal-leaves-the-door-open-to-a-higher-takeover-offer-following-earnings-beat/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147303</guid>
-      <pubDate>Tue, 28 Jul 2026 15:10:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在公布優於預期的第二季財報後，PayPal 表示仍專注於其由 AI 驅動的轉型，但也會考慮能為股東創造更多價值的交易。</description>
     </item>
     <item>
       <title>強大運算，如此精巧，隨身必備——用 NVIDIA Jetson 在你手中打造 AI</title>
