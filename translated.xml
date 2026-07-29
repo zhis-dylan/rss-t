@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 20:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:02:38 GMT</lastBuildDate>
+    <item>
+      <title>Winamp 透過 Deezer 驅動的新音樂播放器，力拚東山再起</title>
+      <link>https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147993</guid>
+      <pubDate>Wed, 29 Jul 2026 21:02:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Winamp 正準備推出一項由 Deezer 驅動的付費音樂服務，押注其懷舊品牌與全新的一體化音樂播放器，能在如今競爭激烈的串流市場中脫穎而出。</description>
+    </item>
     <item>
       <title>Hugging Face 的 AI 入侵事件，透過一個越來越投入的熊比喻來講述</title>
       <link>https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/</link>
@@ -59,6 +68,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 正在擴大其 Play Age Signals API，為 Android 開發者提供一種兼顧隱私的方式，可依使用者的年齡區間調整體驗。</description>
+    </item>
+    <item>
+      <title>YouTube Health 負責人如何和孩子們管理螢幕使用時間</title>
+      <link>https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/</guid>
+      <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>聽聽 Garth Graham 醫師分享他在自己家中如何訂定規則，以及關於溝通螢幕使用時間的實用方法。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screentime_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screentime_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screentime_Hero.max-600x600.format-webp.webp" alt=""></p><p>聽聽 Garth Graham 醫師分享他在自己家中如何訂定規則，以及關於溝通螢幕使用時間的實用方法。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們正在 Google Flow Music 推出 Lyria 3.5，在音樂性、歌詞、演唱和創意控制方面都有進展。</title>
@@ -221,15 +242,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Ozlo 針對其睡眠耳塞推出的首個重大更新，帶來更長的電池續航力、改善的連線能力、強化的音訊，以及新的睡眠功能，這家新創公司持續推進這條曾被 Bose 擱置的產品線。</description>
-    </item>
-    <item>
-      <title>NASA 雇用來抬升軌道望遠鏡的機器人正失控翻滾</title>
-      <link>https://techcrunch.com/2026/07/28/the-robot-nasa-hired-to-lift-a-orbital-telescope-is-tumbling-out-of-control/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147507</guid>
-      <pubDate>Tue, 28 Jul 2026 19:07:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Katalyst 的 LINK 太空船在關鍵元件故障後，正失控翻滾。</description>
     </item>
     <item>
       <title>Agentic AI 時代的科學運算</title>
@@ -764,18 +776,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp" alt=""></p><p>Android 17 內建全新的移轉體驗，讓你能從 iPhone 無線傳輸更多資料。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>來自 Galaxy Unpacked 2026 的 3 項 Google 更新</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們分享了 Samsung 使用者如何在即將推出的新摺疊機、手錶和眼鏡上提升生產力並省下時間。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp" alt=""></p><p>我們分享了 Samsung 使用者如何在即將推出的新摺疊機、手錶和眼鏡上提升生產力並省下時間。</p>]]></content:encoded>
     </item>
     <item>
       <title>驅動美國的 Genesis Mission：Microsoft 對科學發現的承諾</title>
