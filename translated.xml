@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 21:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:17:53 GMT</lastBuildDate>
+    <item>
+      <title>在 TechCrunch Disrupt 2026 探索 AI 的下一步，從 SaaS 的清算到代理安全缺口</title>
+      <link>https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147648</guid>
+      <pubDate>Wed, 29 Jul 2026 21:16:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 TechCrunch Disrupt 2026，AI Stage 將再度登場，深入探討過去幾年社群中最熱門的單一話題，由 Google for Startups 贊助呈現。</description>
+    </item>
+    <item>
+      <title>Thinking Machines 共同創辦人 Lilian Weng 因健康因素離職，之後加入 OpenAI</title>
+      <link>https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147986</guid>
+      <pubDate>Wed, 29 Jul 2026 21:07:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Weng 先前曾擔任 OpenAI 的 AI 安全研究副總裁。</description>
+    </item>
     <item>
       <title>Winamp 透過 Deezer 驅動的新音樂播放器，力拚東山再起</title>
       <link>https://techcrunch.com/2026/07/29/winamp-aims-for-a-comeback-with-a-new-music-player-powered-by-deezer/</link>
@@ -14,6 +32,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Winamp 正準備推出一項由 Deezer 驅動的付費音樂服務，押注其懷舊品牌與全新的一體化音樂播放器，能在如今競爭激烈的串流市場中脫穎而出。</description>
+    </item>
+    <item>
+      <title>NVIDIA 將召開第二季財報電話會議</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195</guid>
+      <pubDate>Wed, 29 Jul 2026 21:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 將於 8 月 26 日星期三下午 2 點（太平洋時間，東部時間下午 5 點）舉行電話會議，討論截至 2026 年 7 月 26 日的 2027 會計年度第二季財報結果。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" alt=""></p><p>NVIDIA 將於 8 月 26 日星期三下午 2 點（太平洋時間，東部時間下午 5 點）舉行電話會議，討論截至 2026 年 7 月 26 日的 2027 會計年度第二季財報結果。</p>]]></content:encoded>
     </item>
     <item>
       <title>Hugging Face 的 AI 入侵事件，透過一個越來越投入的熊比喻來講述</title>
@@ -224,24 +254,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Runlayer 正在控告 Rippling，因為 Rippling 評估了這家新創公司的 MCP 閘道產品，之後卻選擇自行開發一個。</description>
-    </item>
-    <item>
-      <title>Sam Altman 已準備好放慢腳步</title>
-      <link>https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147554</guid>
-      <pubDate>Tue, 28 Jul 2026 20:17:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>他的立場改變，是在「我親身非常強烈感受到的第一起安全事件」之後。</description>
-    </item>
-    <item>
-      <title>Ozlo 的 Sleepbuds 2 延續 Bose 的睡眠耳塞傳承</title>
-      <link>https://techcrunch.com/2026/07/28/ozlos-sleepbuds-2-build-on-boses-sleep-earbud-legacy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147414</guid>
-      <pubDate>Tue, 28 Jul 2026 19:09:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ozlo 針對其睡眠耳塞推出的首個重大更新，帶來更長的電池續航力、改善的連線能力、強化的音訊，以及新的睡眠功能，這家新創公司持續推進這條曾被 Bose 擱置的產品線。</description>
     </item>
     <item>
       <title>Agentic AI 時代的科學運算</title>
@@ -971,18 +983,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 如何透過符合年齡的保護措施、學習工具、家長監護控制，以及專家合作夥伴關係，讓 ChatGPT 對青少年更安全。</description>
-    </item>
-    <item>
-      <title>磨利你的劍，跳過下載——《鬼武者：劍之道》即將登陸 GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-onimusha-coming/</guid>
-      <pubDate>Thu, 16 Jul 2026 13:00:34 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>《鬼武者：劍之道》將在上市時登陸 GeForce NOW，本週也會提供可遊玩的試玩版。Denshattack! 也會加入，雲端將迎來五款新遊戲。此外，GeForce NOW 正式在印度上線，從 beta 轉為正式提供服務——這代表玩家無需等候名單就能註冊。[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg?v=bd33b739-b1ec-4d77-bd91-49605860249f" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg?v=bd33b739-b1ec-4d77-bd91-49605860249f"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/e2dc9dd5c783d363913bac27cb7c7c6c/6a58d6693d633231acd3f8d8_blog-1920x1080-no-copy-842x450/blog-1920x1080-no-copy-842x450_thmb.jpg?v=bd33b739-b1ec-4d77-bd91-49605860249f" alt=""></p><p>《鬼武者：劍之道》將在上市時登陸 GeForce NOW，本週也會提供可遊玩的試玩版。Denshattack! 也會加入，雲端將迎來五款新遊戲。此外，GeForce NOW 正式在印度上線，從 beta 轉為正式提供服務——這代表玩家無需等候名單就能註冊。[…]</p>]]></content:encoded>
     </item>
     <item>
       <title>Codex 如何成為 OpenAI 創意團隊的協作者</title>
