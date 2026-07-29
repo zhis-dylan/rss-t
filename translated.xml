@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 10:57:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:12:54 GMT</lastBuildDate>
+    <item>
+      <title>隨著 AI 內容充斥網路，Pangram 募得 900 萬美元用於偵測它</title>
+      <link>https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147680</guid>
+      <pubDate>Wed, 29 Jul 2026 11:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Pangram 已募得 900 萬美元，用於擴展其 AI 偵測軟體。這家新創公司也推出了新的 AI 文字偵測模型 Pangram 4，以及一個仍在研究預覽階段的 AI 圖像偵測模型。</description>
+    </item>
     <item>
       <title>Cyera 同意以 10 億美元收購 Oasis Security，以保護日益增多的 AI 代理</title>
       <link>https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/</link>
@@ -328,15 +337,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>Meta 和 BlackRock 宣布一項合資計畫，將為德州 El Paso 的資料中心園區開發與營運提供資金。<br>這篇〈Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Lyft 和百度進入倫敦的 robotaxi 戰場，測試正式開始</title>
-      <link>https://techcrunch.com/2026/07/28/lyft-and-baidu-enter-londons-robotaxi-battleground-as-testing-begins/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147199</guid>
-      <pubDate>Tue, 28 Jul 2026 08:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>百度的 Apollo Go 自駕車將可透過 Freenow 使用，這是 Lyft 在 2025 年收購的移動出行網路。</description>
     </item>
     <item>
       <title>Google 和 KDDI 已準備好支持日本新創公司。</title>
