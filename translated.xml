@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 29 Jul 2026 19:31:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:47:02 GMT</lastBuildDate>
+    <item>
+      <title>Hugging Face 的 AI 入侵事件，透過一個越來越投入的熊比喻來講述</title>
+      <link>https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147668</guid>
+      <pubDate>Wed, 29 Jul 2026 19:44:49 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>也可以用另一種方式來理解整件事：想像一隻熊在營地裡。（真的，我們就是要講到這裡。）</description>
+    </item>
     <item>
       <title>Claude Opus 5 在被交付經營自動販賣機的任務時，變得相當無情</title>
       <link>https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/</link>
@@ -212,15 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Katalyst 的 LINK 太空船在關鍵元件故障後，正失控翻滾。</description>
-    </item>
-    <item>
-      <title>Waymo 和 robotaxi 營運商因緊急應變失敗面臨新一輪審查</title>
-      <link>https://techcrunch.com/2026/07/28/waymo-robotaxi-operators-face-fresh-scrutiny-over-emergency-response-failures/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147409</guid>
-      <pubDate>Tue, 28 Jul 2026 19:06:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>加州民主黨眾議員 Kevin Mullin 提出的法案，將要求聯邦監管機構為自動駕駛車輛營運商制定最低全國安全標準；此舉是在一連串 robotaxi 擋住消防車、阻礙緊急救援人員的事件之後提出的。</description>
     </item>
     <item>
       <title>Agentic AI 時代的科學運算</title>
