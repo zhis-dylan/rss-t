@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 13:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 13:39:35 GMT</lastBuildDate>
+    <item>
+      <title>FTC 控告 Hims &amp; Hers 涉嫌與廣告商 Meta 和 Snap 分享患者的醫療資料</title>
+      <link>https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148113</guid>
+      <pubDate>Thu, 30 Jul 2026 13:30:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國聯邦消費者監管機構表示，開立性健康與心理健康相關處方的 Hims &amp; Hers 使用網站追蹤器與廣告商分享客戶資訊。</description>
+    </item>
     <item>
       <title>Zoox 清除了推出付費 robotaxi 服務的最後一道聯邦關卡</title>
       <link>https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/</link>
@@ -269,15 +278,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_macOS_language_capab.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_macOS_language_capab.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_macOS_language_capab.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemini app for macOS 如何現在讓你只用聲音就能自然地說話，取得乾淨的轉錄、編輯和摘要。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>曾參與 Comet 開發的 Perplexity 員工推出一款鎖定知識工作者的 AI 瀏覽器</title>
-      <link>https://techcrunch.com/2026/07/29/perplexity-employee-who-worked-on-comet-launches-an-ai-browser-aimed-at-knowledge-work/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147438</guid>
-      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Polar 推出了一款以 AI 為優先、鎖定知識工作者的瀏覽器，並已完成由 Madrona 領投的 570 萬美元種子輪融資。</description>
     </item>
     <item>
       <title>透過 ChatGPT for Academic Researchers 加速科學發現</title>
