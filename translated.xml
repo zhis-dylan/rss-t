@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 22:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 22:44:15 GMT</lastBuildDate>
+    <item>
+      <title>投資人喜歡 AI，只要你是雲端主機商</title>
+      <link>https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148562</guid>
+      <pubDate>Thu, 30 Jul 2026 22:41:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 並沒有放慢資料中心支出，但投資人似乎並不在意。</description>
+    </item>
+    <item>
+      <title>Apple 表示遊戲成長放緩和 App Store 變動拖累服務業務成長</title>
+      <link>https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148556</guid>
+      <pubDate>Thu, 30 Jul 2026 22:37:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 表示，行動遊戲放緩以及 App Store 商業模式的變動——包括美國法院下令的付款規則變更——都拖累了其服務業務，儘管該公司已突破 15 億個付費訂閱。</description>
+    </item>
     <item>
       <title>Apple 公布第三季財報</title>
       <link>https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/</link>
@@ -212,24 +230,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Disrupt 舞台是許多科技領域最大型對話發生的地方，這項傳統已延續超過十年。</description>
-    </item>
-    <item>
-      <title>FTC 控告 Hims &amp; Hers 涉嫌與廣告商 Meta 和 Snap 分享患者的醫療資料</title>
-      <link>https://techcrunch.com/2026/07/30/ftc-sues-hims-hers-for-allegedly-sharing-patients-medical-data-with-advertisers-meta-and-snap/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148113</guid>
-      <pubDate>Thu, 30 Jul 2026 13:30:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>美國聯邦消費者監管機構表示，開立性健康與心理健康相關處方的 Hims &amp; Hers 使用網站追蹤器與廣告商分享客戶資訊。</description>
-    </item>
-    <item>
-      <title>Zoox 清除了推出付費 robotaxi 服務的最後一道聯邦關卡</title>
-      <link>https://techcrunch.com/2026/07/30/zoox-clears-final-federal-hurdle-to-launch-paid-robotaxi-service/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148062</guid>
-      <pubDate>Thu, 30 Jul 2026 13:09:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>聯邦安全監管機關已向 Zoox 核准一項臨時豁免，將允許這家由 Amazon 持有的自駕車技術公司，向乘客收取其客製化 robotaxi 乘車服務費用。</description>
     </item>
     <item>
       <title>同級最佳：用同一台筆電串流 PC 遊戲與讀書，搭配 GeForce NOW</title>
