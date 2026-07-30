@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:55:14 GMT</lastBuildDate>
+    <item>
+      <title>在 Hugging Face 外洩事件中，OpenAI 的駭客動作張揚又迅速——但並非無法阻止</title>
+      <link>https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148205</guid>
+      <pubDate>Thu, 30 Jul 2026 14:48:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>資安專家告訴 TechCrunch，從 OpenAI 對 HuggingFace 的駭客攻擊中得到的最大教訓之一，與 AI 無關，而是傳統的資安防禦。</description>
+    </item>
     <item>
       <title>TechCrunch Disrupt 2026 最大的舞台將邀請來自 Amazon、Replit、Tether 的領袖，更多內容即將公布</title>
       <link>https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/</link>
@@ -236,15 +245,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp" alt=""></p><p>我們最新的音樂生成模型 Lyria 3.5，在音樂性、歌詞和人聲品質方面都有顯著進展，讓你能打造更豐富的曲目。我們…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Elon Musk 的 X 與世界廣告主聯合會達成多年法律戰和解</title>
-      <link>https://techcrunch.com/2026/07/29/elon-musks-x-settles-multiyear-legal-battle-with-the-world-federation-of-advertisers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147792</guid>
-      <pubDate>Wed, 29 Jul 2026 15:36:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>X 於 2024 年起訴 WFA，稱其在 Musk 以 440 億美元收購這家社群網路後、該平台廣告收入下滑之際，對平台進行了「系統性非法抵制」</description>
     </item>
     <item>
       <title>用 7 月的 Demand Gen Drop 為假期旺季做好準備。</title>
