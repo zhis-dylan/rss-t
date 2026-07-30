@@ -5,7 +5,40 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 14:55:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 15:10:27 GMT</lastBuildDate>
+    <item>
+      <title>介紹 Gemini Robotics ER 2</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/</guid>
+      <pubDate>Thu, 30 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Robotics ER 2 在影片理解、工具協調，以及機器人應用的多機器人協作方面，帶來了一大躍進。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp" alt=""></p><p>Gemini Robotics ER 2 在影片理解、工具協調，以及機器人應用的多機器人協作方面，帶來了一大躍進。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>來看看我們在 Google 的 Flow Sessions 計畫中最新一批藝術家創作的短片。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/google-flow-sessions-short-films/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/google-flow-sessions-short-films/</guid>
+      <pubDate>Thu, 30 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在分享 Google 的 Flow Sessions 計畫中最新一批藝術家創作的短片。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp" alt=""></p><p>我們正在分享 Google 的 Flow Sessions 計畫中最新一批藝術家創作的短片。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>前線部署工程師成為 AI 產業最新的人才迷戀焦點</title>
+      <link>https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3147978</guid>
+      <pubDate>Thu, 30 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一項新研究估計，只有 2,000 名美國工程師具備提供有意義 AI 投資報酬率的專業能力；隨著企業競相招募前線部署工程師以大規模落實 AI，情況正是如此。</description>
+    </item>
     <item>
       <title>在 Hugging Face 外洩事件中，OpenAI 的駭客動作張揚又迅速——但並非無法阻止</title>
       <link>https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/</link>
@@ -214,15 +247,6 @@
       <description>這項禁令主要影響美國自中國的進口；中國目前在製造人形機器人和太陽能逆變器的全球市場中占主導地位。</description>
     </item>
     <item>
-      <title>Google 將其年齡保障技術帶給全球 Android 開發者</title>
-      <link>https://techcrunch.com/2026/07/29/google-is-rolling-out-its-age-assurance-tech-for-apps-worldwide-by-year-end/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147848</guid>
-      <pubDate>Wed, 29 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 正在擴大其 Play Age Signals API，為 Android 開發者提供一種兼顧隱私的方式，可依使用者的年齡區間調整體驗。</description>
-    </item>
-    <item>
       <title>YouTube Health 負責人如何和孩子們管理螢幕使用時間</title>
       <link>https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/families/kids-summer-screen-time-tips/</guid>
@@ -329,18 +353,6 @@
 The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on The Official Microsoft Blog.</description>
     </item>
     <item>
-      <title>非營利組織使用 AI 的 3 種新方式</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</guid>
-      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini API 管理式代理：3.6 Flash、hooks 等更多功能</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</guid>
@@ -351,6 +363,18 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" alt=""></p><p>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>非營利組織使用 AI 的 3 種新方式</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>強大運算，如此精巧，隨身必備——用 NVIDIA Jetson 在你手中打造 AI</title>
@@ -378,18 +402,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出新功能，例如可從 WhatsApp 網頁版撥打電話、通話轉接、背景噪音抑制等。<br>〈推出 WhatsApp 網頁版通話，以及更多新功能〉一文首先出現在 Meta 新聞中心。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Google 搜尋舉辦完美晚宴派對的 5 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Search 中的 AI 模式如何透過 5 種方式幫助你享受真實世界</title>
       <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</guid>
@@ -412,6 +424,18 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 搜尋資料顯示，越來越多人想要暫時離線，並透過在地跑步社團、麻將課程等方式與現實生活連結。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Google 搜尋舉辦完美晚宴派對的 5 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Upgrade 在美國推出</title>
@@ -714,18 +738,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>Apple 與 Ford 宣布，Apple Maps 將透過 MapKit for Automotive SDK 直接整合進 Ford 的 UEV Platform。</description>
     </item>
     <item>
-      <title>了解 AI 經濟</title>
-      <link>https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/</guid>
-      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>推出自拍登入：存取 Google 帳戶的新簡單方式</title>
       <link>https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/selfie-video-sign-in/</guid>
@@ -736,6 +748,18 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Selfie_sign-in_social.max-600x600.format-webp.webp" alt=""></p><p>自拍影片可在你被鎖在外面，或無法使用平常的手機或電腦時，提供更多選項。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>了解 AI 經濟</title>
+      <link>https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/</guid>
+      <pubDate>Thu, 23 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_3_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在發布首份 Activity、Task、Landscape 與 Adoption Study（ATLAS）報告，展示人們如何使用 Google 的 AI 工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA AI 超級電腦在海軍研究所學校正式上線</title>
@@ -757,27 +781,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT 中的健康功能現在讓符合資格的美國使用者能安全連結醫療紀錄和 Apple Health，以取得更個人化的洞察並更了解自己的健康狀況。</description>
-    </item>
-    <item>
-      <title>2026 年第二季財報電話會議：我們執行長的談話</title>
-      <link>https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/</guid>
-      <pubDate>Wed, 22 Jul 2026 20:45:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>閱讀 Sundar Pichai 在 2026 年第二季 Alphabet 財報電話會議上的談話逐字稿編輯版。</description>
-    </item>
-    <item>
-      <title>以下是如何向 Gemini Live 尋求你所看到的一切的協助。</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-live-camera-how-to/</guid>
-      <pubDate>Wed, 22 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>你是否曾經苦於描述你正在看的東西？不論是複雜的手冊、閃爍的錯誤代碼，還是獨特的物件，有時你只需要一點說明……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Gemini_Live_for_help_with_a.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Gemini_Live_for_help_with_a.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Gemini_Live_for_help_with_a.max-600x600.format-webp.webp" alt=""></p><p>你是否曾經苦於描述你正在看的東西？不論是複雜的手冊、閃爍的錯誤代碼，還是獨特的物件，有時你只需要一點說明……</p>]]></content:encoded>
     </item>
     <item>
       <title>新的 WhatsApp 功能跟上你真實的生活方式</title>
