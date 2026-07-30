@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 15:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 15:25:38 GMT</lastBuildDate>
+    <item>
+      <title>Nscale 收購 Anyscale，力求掌握更多 AI 運算堆疊</title>
+      <link>https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148209</guid>
+      <pubDate>Thu, 30 Jul 2026 15:19:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>英國 AI neocloud Nscale 正在收購軟體新創 Anyscale，該公司協助企業在資料中心和伺服器之間擴展其 AI 工作負載。</description>
+    </item>
+    <item>
+      <title>聚變能源寵兒 Commonwealth Fusion Systems 再募得 10 億美元</title>
+      <link>https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148222</guid>
+      <pubDate>Thu, 30 Jul 2026 15:17:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Commonwealth Fusion Systems 募得 10 億美元，這家新創正朝著首座商業聚變發電廠邁進。</description>
+    </item>
     <item>
       <title>介紹 Gemini Robotics ER 2</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/</link>
@@ -227,24 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>讓網路上各處留言者大感震驚的是，Ferrari Luce 似乎賣得很成功。</description>
-    </item>
-    <item>
-      <title>Waymo robotaxi 開始重新上高速公路</title>
-      <link>https://techcrunch.com/2026/07/29/waymo-robotaxis-are-starting-to-return-to-freeways/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147854</guid>
-      <pubDate>Wed, 29 Jul 2026 17:50:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Waymo robotaxi 現在已在鳳凰城使用高速公路，接下來幾天還會有更多城市跟進。</description>
-    </item>
-    <item>
-      <title>美國政府以國家安全風險為由，禁止新進口外國製的人形機器人、機器狗和太陽能逆變器</title>
-      <link>https://techcrunch.com/2026/07/29/us-government-bans-new-foreign-made-humanoids-robot-dogs-and-solar-inverters-citing-risks-to-national-security/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147872</guid>
-      <pubDate>Wed, 29 Jul 2026 17:41:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項禁令主要影響美國自中國的進口；中國目前在製造人形機器人和太陽能逆變器的全球市場中占主導地位。</description>
     </item>
     <item>
       <title>YouTube Health 負責人如何和孩子們管理螢幕使用時間</title>
