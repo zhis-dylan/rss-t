@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 20:13:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:28:19 GMT</lastBuildDate>
+    <item>
+      <title>法官表示川普政府仍缺乏將 Anthropic 標記為「供應鏈風險」的證據</title>
+      <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148510</guid>
+      <pubDate>Thu, 30 Jul 2026 20:26:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一名聯邦法官表示，川普政府尚未提出足夠證據來證明將 Anthropic 標記為供應鏈風險的合理性，這也讓政府對其 AI 技術的禁令受到質疑。</description>
+    </item>
+    <item>
+      <title>CareCloud 在駭客竊取醫療紀錄後開始通知數十萬人</title>
+      <link>https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148465</guid>
+      <pubDate>Thu, 30 Jul 2026 20:13:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家處理大量病患醫療資料的健康科技資料巨頭表示，駭客攻擊了其其中一個受保護的健康資料儲存區。</description>
+    </item>
     <item>
       <title>Gemini Spark 現已整合 Chrome</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/</link>
@@ -215,24 +233,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472" alt=""></p><p>返校季代表著要同時兼顧作業、截止期限和休息時間。GeForce NOW 讓一切都更輕鬆。透過雲端遊戲，平常上課用的筆電也能變成搭載 GeForce RTX 的遊戲平台。當該從讀書切換到打遊戲時，會員可以直接進入 Halo: Campaign Evolved，因為 GeForce NOW 正帶來一項 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Spotify 在 App 中新增跑步模式</title>
-      <link>https://techcrunch.com/2026/07/30/spotify-adds-a-running-mode-to-its-app/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147704</guid>
-      <pubDate>Thu, 30 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Running Mode 將在部分國家／地區的 iOS 上，提供給 Premium 用戶使用</description>
-    </item>
-    <item>
-      <title>Inforcer 募得 5000 萬美元，協助較小型企業為 AI 與資安風險的新世界做好準備</title>
-      <link>https://techcrunch.com/2026/07/30/inforcer-raises-50m-to-help-prepare-smbs-for-a-new-world-of-ai-and-security-risks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147747</guid>
-      <pubDate>Thu, 30 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家總部位於倫敦的 Inforcer 剛完成一輪 5000 萬美元的 C 輪融資，由 Insight Partners 領投。</description>
     </item>
     <item>
       <title>使用 Nano Banana 在 Google Earth 中轉換任何地點</title>
