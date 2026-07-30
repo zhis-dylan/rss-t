@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 23:14:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 23:29:37 GMT</lastBuildDate>
+    <item>
+      <title>蘋果囤積庫存，因其正準備應對「顯著的供應受限」</title>
+      <link>https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148575</guid>
+      <pubDate>Thu, 30 Jul 2026 23:28:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>蘋果對供應短缺的擔憂已經嚴重到，在財報中公布約 111 億美元的庫存，幾乎是去年 9 月公布的 57 億美元的兩倍。</description>
+    </item>
+    <item>
+      <title>AI 對沖基金 Situational Awareness 可能已出售其公開投資組合，但它仍持有 Anthropic 股票</title>
+      <link>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148482</guid>
+      <pubDate>Thu, 30 Jul 2026 23:25:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這位前 OpenAI 研究員的基金在槓桿公開押注暴跌後，被迫平倉公開股票。不過，他手上仍有牌可打。</description>
+    </item>
     <item>
       <title>Reddit 交出穩健的季度成績，但顯露出 AI 影響的跡象</title>
       <link>https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/</link>
@@ -212,24 +230,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp" alt=""></p><p>我們正在分享 Google 的 Flow Sessions 計畫中最新一批藝術家創作的短片。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>前線部署工程師成為 AI 產業最新的人才迷戀焦點</title>
-      <link>https://techcrunch.com/2026/07/30/forward-deployed-engineers-are-the-ai-industrys-latest-talent-obsession/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147978</guid>
-      <pubDate>Thu, 30 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一項新研究估計，只有 2,000 名美國工程師具備提供有意義 AI 投資報酬率的專業能力；隨著企業競相招募前線部署工程師以大規模落實 AI，情況正是如此。</description>
-    </item>
-    <item>
-      <title>在 Hugging Face 外洩事件中，OpenAI 的駭客動作張揚又迅速——但並非無法阻止</title>
-      <link>https://techcrunch.com/2026/07/30/in-the-hugging-face-breach-openais-hacker-was-noisy-and-fast-but-not-unstoppable/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148205</guid>
-      <pubDate>Thu, 30 Jul 2026 14:48:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>資安專家告訴 TechCrunch，從 OpenAI 對 HuggingFace 的駭客攻擊中得到的最大教訓之一，與 AI 無關，而是傳統的資安防禦。</description>
     </item>
     <item>
       <title>同級最佳：用同一台筆電串流 PC 遊戲與讀書，搭配 GeForce NOW</title>
