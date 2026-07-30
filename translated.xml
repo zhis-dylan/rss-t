@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 17:56:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:12:05 GMT</lastBuildDate>
+    <item>
+      <title>LinkedIn 新增按鈕，可回報 AI 生成的「垃圾內容」</title>
+      <link>https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148364</guid>
+      <pubDate>Thu, 30 Jul 2026 18:05:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>LinkedIn 正在導入新的方式來減少低品質的 AI 生成貼文，包括一個「看起來像 AI 垃圾內容」的回報選項。它也會把自家的 AI 寫作功能換成校對工具。</description>
+    </item>
     <item>
       <title>合成使用者新創公司 Simile 在完成 1 億美元 A 輪融資 5 個月後，再募得 2 億美元，估值達 20 億美元</title>
       <link>https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/</link>
@@ -233,15 +242,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>隨著 Meta 將數十億美元投入 AI 基礎設施和代理，祖克柏正努力說服投資人，這筆投資將會值得其代價。</description>
-    </item>
-    <item>
-      <title>Microsoft 透過 Anthropic 投資獲得 32 億美元收益，但 OpenAI 的表現喜憂參半</title>
-      <link>https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148002</guid>
-      <pubDate>Wed, 29 Jul 2026 22:46:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當 Microsoft 公布其 2026 會計年度第四季亮眼財報時（該年度於 6 月 30 日結束），順帶透露了一個有趣的小細節，說明它對兩家最大、且彼此競爭的 AI 實驗室的投資表現如何。</description>
     </item>
     <item>
       <title>NVIDIA 將召開第二季財報電話會議</title>
