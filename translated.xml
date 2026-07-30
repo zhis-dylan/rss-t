@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 12:23:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 12:38:56 GMT</lastBuildDate>
+    <item>
+      <title>使用 Nano Banana 在 Google Earth 中轉換任何地點</title>
+      <link>https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/</guid>
+      <pubDate>Thu, 30 Jul 2026 12:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>自訂圖片——由 Google Earth 衛星、航拍與 3D 影像生成——幫助你重新設計任何地點。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_Wide_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_Wide_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_Wide_1.max-600x600.format-webp.webp" alt=""></p><p>自訂圖片——由 Google Earth 衛星、航拍與 3D 影像生成——幫助你重新設計任何地點。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Microsoft 比以往更公開地與 OpenAI、Anthropic 競爭</title>
       <link>https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/</link>
@@ -296,18 +308,6 @@
 The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on The Official Microsoft Blog.</description>
     </item>
     <item>
-      <title>Gemini API 管理式代理：3.6 Flash、hooks 等更多功能</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</guid>
-      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" alt=""></p><p>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>非營利組織使用 AI 的 3 種新方式</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</guid>
@@ -318,6 +318,18 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini API 管理式代理：3.6 Flash、hooks 等更多功能</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" alt=""></p><p>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</p>]]></content:encoded>
     </item>
     <item>
       <title>強大運算，如此精巧，隨身必備——用 NVIDIA Jetson 在你手中打造 AI</title>
@@ -345,6 +357,18 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出新功能，例如可從 WhatsApp 網頁版撥打電話、通話轉接、背景噪音抑制等。<br>〈推出 WhatsApp 網頁版通話，以及更多新功能〉一文首先出現在 Meta 新聞中心。</p>]]></content:encoded>
     </item>
     <item>
+      <title>用 Google 搜尋舉辦完美晚宴派對的 5 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Search 中的 AI 模式如何透過 5 種方式幫助你享受真實世界</title>
       <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</guid>
@@ -367,18 +391,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 搜尋資料顯示，越來越多人想要暫時離線，並透過在地跑步社團、麻將課程等方式與現實生活連結。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用 Google 搜尋舉辦完美晚宴派對的 5 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Upgrade 在美國推出</title>
@@ -785,18 +797,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新聞機構正運用 AI 來強化報導、擴大受眾，並改善業務營運，而 OpenAI 工具正支援全球的記者和出版商。</description>
-    </item>
-    <item>
-      <title>輕鬆切換到 Android，並帶著你的資料一起過來。</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-switch-from-iphone-to-android/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-switch-from-iphone-to-android/</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Android 17 內建全新的移轉體驗，讓你能從 iPhone 無線傳輸更多資料。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Switching_Android.max-600x600.format-webp.webp" alt=""></p><p>Android 17 內建全新的移轉體驗，讓你能從 iPhone 無線傳輸更多資料。</p>]]></content:encoded>
     </item>
     <item>
       <title>驅動美國的 Genesis Mission：Microsoft 對科學發現的承諾</title>
