@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 21:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 21:28:45 GMT</lastBuildDate>
     <item>
       <title>Apple 公布第三季財報</title>
       <link>https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/</link>
@@ -1543,15 +1543,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>了解天文物理學家陳志寬如何使用 Codex 建立黑洞模擬，協助科學家研究極端物理現象並測試愛因斯坦的廣義相對論理論。</description>
     </item>
     <item>
-      <title>BBVA將 AI 放在銀行業務核心，攜手 OpenAI</title>
-      <link>https://openai.com/index/bbva</link>
-      <guid isPermaLink="false">https://openai.com/index/bbva</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
-    </item>
-    <item>
       <title>OpenAI 將收購 Ona</title>
       <link>https://openai.com/index/openai-to-acquire-ona</link>
       <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
@@ -1559,6 +1550,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 計劃收購 Ona，以透過安全、持久的雲端環境擴展 Codex，讓 AI 代理能在企業工作流程中長時間運作。</description>
+    </item>
+    <item>
+      <title>BBVA將 AI 放在銀行業務核心，攜手 OpenAI</title>
+      <link>https://openai.com/index/bbva</link>
+      <guid isPermaLink="false">https://openai.com/index/bbva</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
     </item>
     <item>
       <title>透過你的 Oracle 雲端承諾存取 OpenAI 模型和 Codex</title>
@@ -1948,15 +1948,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>了解 OpenAI、Thrive 和 Crete 如何使用 Codex 打造自我改進的稅務代理人，實現申報自動化、提升準確度並加速工作流程。</description>
     </item>
     <item>
-      <title>Warp 對用 GPT-5.5 打造開源的重大押注</title>
-      <link>https://openai.com/index/warp</link>
-      <guid isPermaLink="false">https://openai.com/index/warp</guid>
-      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Warp 使用 GPT-5.5 和 OpenAI 模型，來協調跨本機、雲端與開源開發工作流程的程式碼代理。</description>
-    </item>
-    <item>
       <title>2026 年的選舉資訊與防護措施</title>
       <link>https://openai.com/index/election-safeguards-2026</link>
       <guid isPermaLink="false">https://openai.com/index/election-safeguards-2026</guid>
@@ -1966,13 +1957,13 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>在全球選舉到來之前，我們正協助人們取得資訊、支援網路防禦者，並提升 AI 透明度</description>
     </item>
     <item>
-      <title>資料科學團隊如何使用 Codex</title>
-      <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+      <title>Warp 對用 GPT-5.5 打造開源的重大押注</title>
+      <link>https://openai.com/index/warp</link>
+      <guid isPermaLink="false">https://openai.com/index/warp</guid>
+      <pubDate>Wed, 27 May 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>了解資料科學團隊如何使用 Codex，根據實際工作輸入建立根本原因簡報、影響報告、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
+      <description>Warp 使用 GPT-5.5 和 OpenAI 模型，來協調跨本機、雲端與開源開發工作流程的程式碼代理。</description>
     </item>
     <item>
       <title>銷售團隊如何使用 Codex</title>
@@ -1982,6 +1973,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>看看銷售團隊如何使用 ChatGPT Codex，根據實際工作輸入建立 pipeline 簡報、會議準備資料包、預測檢視、客戶帳戶計畫，以及停滯交易診斷。</description>
+    </item>
+    <item>
+      <title>資料科學團隊如何使用 Codex</title>
+      <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
+      <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解資料科學團隊如何使用 Codex，根據實際工作輸入建立根本原因簡報、影響報告、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
     </item>
   </channel>
 </rss>
