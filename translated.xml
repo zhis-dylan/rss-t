@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 20:28:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:43:28 GMT</lastBuildDate>
+    <item>
+      <title>Apple 公布第三季財報</title>
+      <link>https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/</guid>
+      <pubDate>Thu, 30 Jul 2026 20:30:21 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日公布截至 2026 年 6 月 27 日止的 2026 會計年度第三季財務結果。</description>
+    </item>
     <item>
       <title>法官表示川普政府仍缺乏將 Anthropic 標記為「供應鏈風險」的證據</title>
       <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/</link>
@@ -1721,15 +1730,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple Arcade 屢獲殊榮的超過 200 款遊戲目錄將新增九款新遊戲，包括《My Talking Tom 2+》和《Coffee Inc 2+》。</description>
-    </item>
-    <item>
-      <title>App Store 生態系統達到 1.4 兆美元，開發者在全球蓬勃發展</title>
-      <link>https://www.apple.com/newsroom/2026/06/app-store-ecosystem-reaches-1-point-4-trillion-usd-as-developers-thrive-globally/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/app-store-ecosystem-reaches-1-point-4-trillion-usd-as-developers-thrive-globally/</guid>
-      <pubDate>Thu, 04 Jun 2026 13:00:48 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今日宣布，全球 App Store 生態系統在 2025 年促成超過 1.4 兆美元的開發者帳單與銷售額。</description>
     </item>
     <item>
       <title>Endava 如何圍繞 AI agent 重新設計軟體交付</title>
