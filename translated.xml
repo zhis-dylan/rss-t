@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 30 Jul 2026 18:57:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 19:12:35 GMT</lastBuildDate>
+    <item>
+      <title>Google 表示，在 AI 的幫助下，它在 6 月修復的 Chrome 錯誤比過去兩年還多</title>
+      <link>https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148357</guid>
+      <pubDate>Thu, 30 Jul 2026 18:57:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>正如專家在過去兩年所警告的，一些公司——像是 Microsoft，以及現在的 Google——正因為使用 LLM 和 AI 工具，而在其產品中發現並修補指數級增加的漏洞。</description>
+    </item>
     <item>
       <title>佛羅里達州計畫使用原本要用於電動車充電樁的2億美元建造空中計程車停機坪</title>
       <link>https://techcrunch.com/2026/07/30/florida-plans-to-build-air-taxi-pads-using-200m-intended-for-ev-chargers/</link>
@@ -233,15 +242,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Luna 和 Terra 更低的 GPT‑5.6 定價，以及 OpenAI 更高效率的模型如何協助企業大規模部署 AI 工作流程。</description>
-    </item>
-    <item>
-      <title>Microsoft 比以往更公開地與 OpenAI、Anthropic 競爭</title>
-      <link>https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148055</guid>
-      <pubDate>Thu, 30 Jul 2026 00:21:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 週三展示了自家內部開發的 AI 模型、工具，甚至還有一個 Mythos 競爭產品，向華爾街表示公司計劃持續成長。</description>
     </item>
     <item>
       <title>NVIDIA 將召開第二季財報電話會議</title>
