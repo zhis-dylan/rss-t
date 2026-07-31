@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 22:39:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:54:41 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>OpenAI 據報找到更多其代理人失控的證據</title>
+      <link>https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148949</guid>
+      <pubDate>Fri, 31 Jul 2026 22:47:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 據報在調查與 Hugging Face 有關的事件時，發現了額外的代理人異常行為證據。</description>
     </item>
     <item>
       <title>Rivian 分拆公司 Also 在延遲數個月後開始交付電動自行車</title>
@@ -239,15 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>蘋果對供應短缺的擔憂已經嚴重到，在財報中公布約 111 億美元的庫存，幾乎是去年 9 月公布的 57 億美元的兩倍。</description>
-    </item>
-    <item>
-      <title>AI 對沖基金 Situational Awareness 可能已出售其公開投資組合，但它仍持有 Anthropic 股票</title>
-      <link>https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148482</guid>
-      <pubDate>Thu, 30 Jul 2026 23:25:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這位前 OpenAI 研究員的基金在槓桿公開押注暴跌後，被迫平倉公開股票。不過，他手上仍有牌可打。</description>
     </item>
     <item>
       <title>Apple 公布第三季財報</title>
