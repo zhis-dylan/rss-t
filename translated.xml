@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 19:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:38:00 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,18 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>用這款充滿氛圍感程式碼風格的行程 App 簡化你的早晨。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/glanceboard-gemini-flash-nano-banana/</guid>
+      <pubDate>Fri, 31 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>厭倦了每天早上盯著亮眼螢幕和讓人緊張的通知開始一天嗎？Google 的創意技術專家 Raph 打造了一款名為 Glanceboard 的客製化 App，並且……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Glanceboard_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Glanceboard_socialshare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Glanceboard_socialshare.max-600x600.format-webp.webp" alt=""></p><p>厭倦了每天早上盯著亮眼螢幕和讓人緊張的通知開始一天嗎？Google 的創意技術專家 Raph 打造了一款名為 Glanceboard 的客製化 App，並且……</p>]]></content:encoded>
     </item>
     <item>
       <title>獲創投支持的新創公司涉及更多詐欺，研究人員認為他們知道原因</title>
@@ -781,18 +793,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67" alt=""></p><p>NVIDIA 與韓國科學技術院（KAIST）今日宣布，於首爾的 KAIST Kim Jaechul AI 研究所成立聯合 AI 研究實驗室，致力於推動韓國的 agentic AI 發展。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Play Points 會員和漫畫書迷可以透過 Google Play 獲得獨家獎勵</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/comic-con-san-diego/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/comic-con-san-diego/</guid>
-      <pubDate>Thu, 23 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過我們的 roadcase 和使用分頁解鎖數位福利，或加入 Google Play 在聖地牙哥的現場拍賣會。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SDCC_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>透過我們的 roadcase 和使用分頁解鎖數位福利，或加入 Google Play 在聖地牙哥的現場拍賣會。</p>]]></content:encoded>
     </item>
     <item>
       <title>GeForce NOW 隨著《流亡黯道：Allflame 詛咒》加入雲端而啟航</title>
