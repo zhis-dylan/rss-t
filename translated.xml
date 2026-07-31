@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 20:53:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:08:52 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>印度開始付費購買應用程式，而不只是下載它們</title>
+      <link>https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148857</guid>
+      <pubDate>Fri, 31 Jul 2026 21:07:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>印度的應用程式市場在第二季創下 3.45 億美元的紀錄。</description>
     </item>
     <item>
       <title>Google 在推出一天後就撤下 Earth AI 功能，因外界批評其會散播錯誤資訊</title>
@@ -239,15 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Amazon 並沒有放慢資料中心支出，但投資人似乎並不在意。</description>
-    </item>
-    <item>
-      <title>Apple 表示遊戲成長放緩和 App Store 變動拖累服務業務成長</title>
-      <link>https://techcrunch.com/2026/07/30/apple-says-gaming-slowdown-and-app-store-changes-hurt-services-growth/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148556</guid>
-      <pubDate>Thu, 30 Jul 2026 22:37:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 表示，行動遊戲放緩以及 App Store 商業模式的變動——包括美國法院下令的付款規則變更——都拖累了其服務業務，儘管該公司已突破 15 億個付費訂閱。</description>
     </item>
     <item>
       <title>Apple 公布第三季財報</title>
