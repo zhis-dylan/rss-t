@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 14:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 14:50:39 GMT</lastBuildDate>
     <item>
       <title>推動歐洲各地的負責任 AI 發展</title>
       <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
@@ -14,6 +14,33 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享其安全性、資安、透明度與來源證明實務如何支持歐洲的負責任 AI 治理。隨著 EU AI Act 持續推進，這項工作也會繼續進行。</description>
+    </item>
+    <item>
+      <title>Reddit 正在測試一種全新的觀看——以及收聽——熱門貼文的方式</title>
+      <link>https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148681</guid>
+      <pubDate>Fri, 31 Jul 2026 14:49:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Reddit 正在開發一種新的影片體驗，讓使用者可以觀看——或者單純收聽——它最受歡迎的貼文，靈感來自把 Reddit 故事搭配遊戲畫面或其他影像的爆紅 TikTok 影片。執行長 Steve Huffman 表示，這項功能已經在進行中，最快可能在今年稍晚開始測試。</description>
+    </item>
+    <item>
+      <title>Smallest.ai 募得 1,300 萬美元，打造聽起來真正像人的超高速語音 AI</title>
+      <link>https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148682</guid>
+      <pubDate>Fri, 31 Jul 2026 14:47:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司正在打造語音模型，目標是讓 AI 電話通過圖靈測試。</description>
+    </item>
+    <item>
+      <title>WhatsApp 正在測試一個用來收納來自大型企業訊息的新資料夾</title>
+      <link>https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148110</guid>
+      <pubDate>Fri, 31 Jul 2026 14:39:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>WhatsApp 會在你收到大型企業的訊息幾個小時後，自動把它們移到新的資料夾中</description>
     </item>
     <item>
       <title>據報導，Tesla 可能在與 SpaceX 合併前出售其中國業務</title>
@@ -209,33 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆交易讓 Okta 獲得身分威脅偵測能力，因為企業正尋求在雲端環境中保護 AI 代理與其他非人類身分。</description>
-    </item>
-    <item>
-      <title>Tesla 造出了第 1,000 萬輛電動車</title>
-      <link>https://techcrunch.com/2026/07/30/tesla-made-its-10-millionth-ev/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148225</guid>
-      <pubDate>Thu, 30 Jul 2026 16:00:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這個里程碑意味著 Tesla 已完成一半，朝著 Elon Musk 必須達成的四項核心產品目標之一邁進，藉此解鎖他全額 1 兆美元薪酬方案。</description>
-    </item>
-    <item>
-      <title>Commonwealth Fusion Systems 這家聚變能源新創何時會上市？</title>
-      <link>https://techcrunch.com/2026/07/30/when-will-fusion-power-startup-commonwealth-fusion-systems-go-public/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148224</guid>
-      <pubDate>Thu, 30 Jul 2026 15:45:36 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>有新的跡象顯示，聚變能源新創 Commonwealth Fusion Systems 將在未來兩到三年內上市。</description>
-    </item>
-    <item>
-      <title>Meta 表示，AI 讓打造新應用程式更容易了——而且還會有更多</title>
-      <link>https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148216</guid>
-      <pubDate>Thu, 30 Jul 2026 15:41:16 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 表示，AI 正大幅降低打造和推出新的消費型應用程式的門檻，執行長 Mark Zuckerberg 告訴投資人，在最近針對 Facebook Groups、Marketplace 賣家、Instagram 和遊戲推出一波新產品後，公司手上還有更多新的消費者產品即將登場。</description>
     </item>
     <item>
       <title>介紹 Gemini Robotics ER 2</title>
