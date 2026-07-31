@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 15:36:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 15:51:12 GMT</lastBuildDate>
+    <item>
+      <title>GM 和 Ford 越來越少談論 EV</title>
+      <link>https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148673</guid>
+      <pubDate>Fri, 31 Jul 2026 15:47:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據 TechCrunch 和 Hudson Labs 的新資料，美國領先的汽車製造商在投資人電話會議中提到 EV 的頻率已回到疫情前的水準。</description>
+    </item>
+    <item>
+      <title>Samsung 預期記憶體短缺將惡化至 2027 年，並持續到 2028 年</title>
+      <link>https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148660</guid>
+      <pubDate>Fri, 31 Jul 2026 15:37:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 資料中心需求正在推動一場為期多年的晶片短缺，推高零組件成本和零售裝置價格。</description>
+    </item>
     <item>
       <title>SpaceX 還要再過一年才會移除 xAI 所有未經許可的渦輪機</title>
       <link>https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/</link>
@@ -227,24 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>LinkedIn 正在導入新的方式來減少低品質的 AI 生成貼文，包括一個「看起來像 AI 垃圾內容」的回報選項。它也會把自家的 AI 寫作功能換成校對工具。</description>
-    </item>
-    <item>
-      <title>合成使用者新創公司 Simile 在完成 1 億美元 A 輪融資 5 個月後，再募得 2 億美元，估值達 20 億美元</title>
-      <link>https://techcrunch.com/2026/07/30/synthetic-user-startup-simile-raises-200m-at-2b-valuation-5-months-after-100m-series-a/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148353</guid>
-      <pubDate>Thu, 30 Jul 2026 17:50:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>再添一位快速加入 AI 獨角獸俱樂部的成員：Simile</description>
-    </item>
-    <item>
-      <title>Spotify 推出「User notes」，讓使用者為歌曲加入回憶</title>
-      <link>https://techcrunch.com/2026/07/30/spotify-launches-user-notes-to-let-users-add-memories-to-songs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148367</guid>
-      <pubDate>Thu, 30 Jul 2026 17:41:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Spotify 表示，這項新功能是為了讓使用者替自己喜愛的歌曲加入個人註記，例如標記某首歌為何被加入播放清單，或是自己第一次發現它的時間</description>
     </item>
     <item>
       <title>介紹 Gemini Robotics ER 2</title>
