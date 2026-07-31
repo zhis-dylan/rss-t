@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 19:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:53:10 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Google 在推出一天後就撤下 Earth AI 功能，因外界批評其會散播錯誤資訊</title>
+      <link>https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148844</guid>
+      <pubDate>Fri, 31 Jul 2026 19:47:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個工具讓任何人都能生成假的 AI 影像，並疊加到真實的 Google Earth 地圖上，很快就引發了反彈。</description>
+    </item>
+    <item>
+      <title>在拿到 Wiz 的回報後，Index Ventures 透過三個基金募得 20 億美元</title>
+      <link>https://techcrunch.com/2026/07/31/fresh-off-its-wiz-payout-index-ventures-raises-2b-across-three-funds/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148862</guid>
+      <pubDate>Fri, 31 Jul 2026 19:39:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆新資金使 Index 可動用的總投資資本達到 35 億美元。</description>
     </item>
     <item>
       <title>用這款充滿氛圍感程式碼風格的行程 App 簡化你的早晨。</title>
@@ -239,24 +257,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今日公布截至 2026 年 6 月 27 日止的 2026 會計年度第三季財務結果。</description>
-    </item>
-    <item>
-      <title>法官表示川普政府仍缺乏將 Anthropic 標記為「供應鏈風險」的證據</title>
-      <link>https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148510</guid>
-      <pubDate>Thu, 30 Jul 2026 20:26:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一名聯邦法官表示，川普政府尚未提出足夠證據來證明將 Anthropic 標記為供應鏈風險的合理性，這也讓政府對其 AI 技術的禁令受到質疑。</description>
-    </item>
-    <item>
-      <title>CareCloud 在駭客竊取醫療紀錄後開始通知數十萬人</title>
-      <link>https://techcrunch.com/2026/07/30/carecloud-begins-to-notify-hundreds-of-thousands-after-hackers-stole-medical-records/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148465</guid>
-      <pubDate>Thu, 30 Jul 2026 20:13:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家處理大量病患醫療資料的健康科技資料巨頭表示，駭客攻擊了其其中一個受保護的健康資料儲存區。</description>
     </item>
     <item>
       <title>Gemini Spark 現已整合 Chrome</title>
