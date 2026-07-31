@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 15:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 15:20:57 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 還要再過一年才會移除 xAI 所有未經許可的渦輪機</title>
+      <link>https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148699</guid>
+      <pubDate>Fri, 31 Jul 2026 15:16:17 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>SpaceX 正在為 xAI 的 Colossus 資料中心興建新的發電廠，但在未來好幾個月內都不會移除現有、未經許可的渦輪機。</description>
+    </item>
     <item>
       <title>推動歐洲各地的負責任 AI 發展</title>
       <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
@@ -236,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Spotify 表示，這項新功能是為了讓使用者替自己喜愛的歌曲加入個人註記，例如標記某首歌為何被加入播放清單，或是自己第一次發現它的時間</description>
-    </item>
-    <item>
-      <title>Okta 收購 AI 安全新創公司 Permiso；消息人士稱金額約為 2 億美元</title>
-      <link>https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148308</guid>
-      <pubDate>Thu, 30 Jul 2026 16:09:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆交易讓 Okta 獲得身分威脅偵測能力，因為企業正尋求在雲端環境中保護 AI 代理與其他非人類身分。</description>
     </item>
     <item>
       <title>介紹 Gemini Robotics ER 2</title>
