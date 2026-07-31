@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 18:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:07:45 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>獲創投支持的新創公司涉及更多詐欺，研究人員認為他們知道原因</title>
+      <link>https://techcrunch.com/2026/07/31/vc-backed-startups-commit-more-fraud-and-researchers-think-they-know-why/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148210</guid>
+      <pubDate>Fri, 31 Jul 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>來自英國帝國理工學院和法國里昂商學院的新研究描繪了矽谷創辦人如何進行詐欺，以及投資人扮演的角色。</description>
     </item>
     <item>
       <title>Snapchat 不再獎勵完全由 AI 生成的 Spotlight 內容</title>
@@ -248,15 +257,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_2784x1566_Option_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_2784x1566_Option_1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_2784x1566_Option_1.max-600x600.format-webp.webp" alt=""></p><p>最新 Gemini Spark 更新總覽，包括新的 Chrome 網頁瀏覽功能。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Friend，這款孤獨的 AI 穿戴裝置，以新的聲音回歸，而且價格高了不少</title>
-      <link>https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148423</guid>
-      <pubDate>Thu, 30 Jul 2026 19:44:16 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Friend，這款 AI 穿戴裝置，現在可以跟使用者說話了——但價格也提高了。</description>
     </item>
     <item>
       <title>介紹 Gemini Robotics ER 2</title>
