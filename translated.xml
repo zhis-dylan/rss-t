@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 11:49:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 12:04:27 GMT</lastBuildDate>
     <item>
       <title>推動歐洲各地的負責任 AI 發展</title>
       <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享其安全性、資安、透明度與來源證明實務如何支持歐洲的負責任 AI 治理。隨著 EU AI Act 持續推進，這項工作也會繼續進行。</description>
+    </item>
+    <item>
+      <title>連續創業者 Ryan Williams 為私募信貸管理者的 AI 新創募得 1,000 萬美元種子資金</title>
+      <link>https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148494</guid>
+      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ellis AI 週四宣布結束低調運作，並獲得 1,000 萬美元種子資金。</description>
     </item>
     <item>
       <title>透過街景服務，隨時隨地體驗科索沃的魅力</title>
@@ -227,15 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Netflix 剛簽下了一項價值 5 億美元的大型新授權協議，將《陰屍路宇宙》帶到國際市場。</description>
-    </item>
-    <item>
-      <title>Nscale 收購 Anyscale，力求掌握更多 AI 運算堆疊</title>
-      <link>https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148209</guid>
-      <pubDate>Thu, 30 Jul 2026 15:19:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>英國 AI neocloud Nscale 正在收購軟體新創 Anyscale，該公司協助企業在資料中心和伺服器之間擴展其 AI 工作負載。</description>
     </item>
     <item>
       <title>介紹 Gemini Robotics ER 2</title>
