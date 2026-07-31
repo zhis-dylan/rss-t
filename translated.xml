@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 16:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 16:21:30 GMT</lastBuildDate>
+    <item>
+      <title>Siri AI 可能會對重度使用者設置付費牆</title>
+      <link>https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148730</guid>
+      <pubDate>Fri, 31 Jul 2026 16:08:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 執行長 Tim Cook 設想，使用者可以透過 Apple 現有的 iCloud+ 訂閱，為 Siri AI 購買更多運算資源。</description>
+    </item>
     <item>
       <title>了解 7 月 Gemini Drop 中 Gemini 應用程式有哪些新功能。</title>
       <link>https://blog.google/products-and-platforms/products/gemini/gemini-drop-july-2026/</link>
@@ -248,15 +257,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>佛羅里達州想動用聯邦電動車充電樁資金，打造一個連接高爾夫球場、豪華公寓大樓和機場的空中計程車網路。</description>
-    </item>
-    <item>
-      <title>LinkedIn 新增按鈕，可回報 AI 生成的「垃圾內容」</title>
-      <link>https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148364</guid>
-      <pubDate>Thu, 30 Jul 2026 18:05:21 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>LinkedIn 正在導入新的方式來減少低品質的 AI 生成貼文，包括一個「看起來像 AI 垃圾內容」的回報選項。它也會把自家的 AI 寫作功能換成校對工具。</description>
     </item>
     <item>
       <title>介紹 Gemini Robotics ER 2</title>
