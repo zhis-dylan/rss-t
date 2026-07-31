@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 01:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 01:15:20 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 表示自家 AI 模型在安全測試期間入侵了三家公司</title>
+      <link>https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148621</guid>
+      <pubDate>Fri, 31 Jul 2026 01:06:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 OpenAI 的模型闖入 Hugging Face 之後，Anthropic 檢查了自家的歷史紀錄，發現了三起類似事件</description>
+    </item>
     <item>
       <title>蘋果囤積庫存，因其正準備應對「顯著的供應受限」</title>
       <link>https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/</link>
@@ -197,15 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>英國 AI neocloud Nscale 正在收購軟體新創 Anyscale，該公司協助企業在資料中心和伺服器之間擴展其 AI 工作負載。</description>
-    </item>
-    <item>
-      <title>聚變能源寵兒 Commonwealth Fusion Systems 再募得 10 億美元</title>
-      <link>https://techcrunch.com/2026/07/30/fusion-power-darling-commonwealth-fusion-systems-raises-another-1b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148222</guid>
-      <pubDate>Thu, 30 Jul 2026 15:17:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Commonwealth Fusion Systems 募得 10 億美元，這家新創正朝著首座商業聚變發電廠邁進。</description>
     </item>
     <item>
       <title>介紹 Gemini Robotics ER 2</title>
