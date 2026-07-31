@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 21:54:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 22:09:19 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Rivian 分拆公司 Also 在延遲數個月後開始交付電動自行車</title>
+      <link>https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148946</guid>
+      <pubDate>Fri, 31 Jul 2026 22:00:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Also 除了 TM-B 之外還有宏大計畫。這家新創公司大多把自己稱為「車輛」公司，並計畫為 Amazon 打造四輪電助力貨運車輛。</description>
+    </item>
+    <item>
+      <title>矽谷喜歡年輕創辦人。直到它不喜歡為止。</title>
+      <link>https://techcrunch.com/2026/07/31/build-in-public-fail-in-public-what-its-like-to-be-a-founder-under-20-right-now/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3145635</guid>
+      <pubDate>Fri, 31 Jul 2026 22:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 工具已經普及了打造產品的機會，縮短了成功所需的時間，也讓更多年輕人不必踏進大型科技公司，就能創辦成功的公司。</description>
     </item>
     <item>
       <title>印度開始付費購買應用程式，而不只是下載它們</title>
@@ -230,24 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這位前 OpenAI 研究員的基金在槓桿公開押注暴跌後，被迫平倉公開股票。不過，他手上仍有牌可打。</description>
-    </item>
-    <item>
-      <title>Reddit 交出穩健的季度成績，但顯露出 AI 影響的跡象</title>
-      <link>https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148540</guid>
-      <pubDate>Thu, 30 Jul 2026 23:08:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Reddit 的財務狀況看起來不錯，但市場對它與 Google 的關係，以及新的 AI 化網路所帶來的不確定性，正感到憂慮。</description>
-    </item>
-    <item>
-      <title>投資人喜歡 AI，只要你是雲端主機商</title>
-      <link>https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148562</guid>
-      <pubDate>Thu, 30 Jul 2026 22:41:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 並沒有放慢資料中心支出，但投資人似乎並不在意。</description>
     </item>
     <item>
       <title>Apple 公布第三季財報</title>
