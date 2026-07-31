@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 31 Jul 2026 16:21:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 16:36:39 GMT</lastBuildDate>
+    <item>
+      <title>破壞一個犯罪詐騙集團</title>
+      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
+      <guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
     <item>
       <title>Siri AI 可能會對重度使用者設置付費牆</title>
       <link>https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/</link>
@@ -1903,6 +1912,24 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>OpenAI 前沿模型和 Codex 現已在 AWS 上全面開放，讓企業能透過他們已經在使用的 AWS 環境、控管機制和採購流程，以 OpenAI 建立應用程式的新途徑。客戶可以在 AWS 上使用 OpenAI 開始上手，並更快從評估階段邁向正式上線。</description>
     </item>
     <item>
+      <title>「科技與關稅」行動：針對美國科技政策的影響力活動</title>
+      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs</link>
+      <guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 封禁了一批可能源自中國的帳號，這些帳號使用 AI 來製作關於美國科技政策、關稅和貿易限制的留言與漫畫。</description>
+    </item>
+    <item>
+      <title>「資料中心風潮」行動：針對美國的影響力活動</title>
+      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon</link>
+      <guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-data-center-bandwagon</guid>
+      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 封禁了一個可能源自中國的集群，該集群使用 AI 生成批評美國資料中心與 AI 基礎設施的社群媒體內容。</description>
+    </item>
+    <item>
       <title>波士頓兒童醫院運用 AI 發掘新診斷</title>
       <link>https://openai.com/index/boston-childrens-hospital</link>
       <guid isPermaLink="false">https://openai.com/index/boston-childrens-hospital</guid>
@@ -1930,24 +1957,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>OpenAI 推出 Rosalind Biodefense，擴大經過審核的開發者與美國政府夥伴對 GPT-Rosalind 的可信存取，推動生物防禦、公共衛生與疫情準備，藉由前沿 AI 促進相關工作。</description>
     </item>
     <item>
-      <title>信任可靠的第三方評估共同作業手冊</title>
-      <link>https://openai.com/index/trustworthy-third-party-evaluations-foundations</link>
-      <guid isPermaLink="false">https://openai.com/index/trustworthy-third-party-evaluations-foundations</guid>
-      <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 分享關於第三方 AI 評估的指引，涵蓋如何評估前沿系統的模型能力、防護措施與有效性。</description>
-    </item>
-    <item>
-      <title>Endava 如何透過 Codex 建立代理型組織</title>
-      <link>https://openai.com/index/endava</link>
-      <guid isPermaLink="false">https://openai.com/index/endava</guid>
-      <pubDate>Thu, 28 May 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Endava 如何使用 Codex 建立代理型組織，將軟體交付加速，並把需求分析從數週縮短到數小時。</description>
-    </item>
-    <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
       <link>https://openai.com/index/mufg</link>
       <guid isPermaLink="false">https://openai.com/index/mufg</guid>
@@ -1955,15 +1964,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>MUFG 使用 ChatGPT Enterprise 打造 AI 原生組織，改善工作流程，並大規模提供新的 AI 驅動金融服務。</description>
-    </item>
-    <item>
-      <title>OpenAI 的前沿治理框架</title>
-      <link>https://openai.com/index/openai-frontier-governance-framework</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-frontier-governance-framework</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 OpenAI 的前沿治理框架，以及我們的 AI 安全、資安與風險實務如何符合新興的歐盟與加州法規。</description>
     </item>
     <item>
       <title>資料科學團隊如何使用 Codex</title>
