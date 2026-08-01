@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 01 Aug 2026 15:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 15:15:39 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Uber 正在打造自駕車帝國，而這是它用來實現這件事的每一家公司的名單</title>
+      <link>https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3143162</guid>
+      <pubDate>Sat, 01 Aug 2026 15:05:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Uber 在過去兩年與大約 30 家自駕車公司建立了合作關係，且在某些情況下也直接投資。以下是名單以及這些合作關係的最新進展。</description>
     </item>
     <item>
       <title>幫助你擺脫無止盡滑手機、動起來的 App</title>
@@ -227,15 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據報導，Tesla 早已為北京入侵台灣的情況預作準備。</description>
-    </item>
-    <item>
-      <title>連續創業者 Ryan Williams 為私募信貸管理者的 AI 新創募得 1,000 萬美元種子資金</title>
-      <link>https://techcrunch.com/2026/07/31/repeat-founder-ryan-williams-raises-10m-seed-for-an-ai-startup-for-private-credit-managers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148494</guid>
-      <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ellis AI 週四宣布結束低調運作，並獲得 1,000 萬美元種子資金。</description>
     </item>
     <item>
       <title>透過街景服務，隨時隨地體驗科索沃的魅力</title>
