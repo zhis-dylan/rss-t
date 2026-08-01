@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 01 Aug 2026 19:32:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 19:47:33 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>YouTuber Hank Green 表示他使用 AI「不健康」</title>
+      <link>https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149017</guid>
+      <pubDate>Sat, 01 Aug 2026 19:45:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Green 做出了一段相當驚人的道歉，表示「我在與 LLM 互動時所獲得的多巴胺程度……對我來說並不健康，對世界也沒有好處。」</description>
     </item>
     <item>
       <title>你還應該購買下一支智慧型手機，還是改用訂閱？</title>
@@ -227,15 +236,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>以全端方法讓先進 AI 更強大、更實惠，並更廣泛地發揮用途。</description>
-    </item>
-    <item>
-      <title>Reddit 正在測試一種全新的觀看——以及收聽——熱門貼文的方式</title>
-      <link>https://techcrunch.com/2026/07/31/reddit-is-testing-a-new-way-to-watch-and-listen-to-its-viral-posts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148681</guid>
-      <pubDate>Fri, 31 Jul 2026 14:49:21 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Reddit 正在開發一種新的影片體驗，讓使用者可以觀看——或者單純收聽——它最受歡迎的貼文，靈感來自把 Reddit 故事搭配遊戲畫面或其他影像的爆紅 TikTok 影片。執行長 Steve Huffman 表示，這項功能已經在進行中，最快可能在今年稍晚開始測試。</description>
     </item>
     <item>
       <title>透過街景服務，隨時隨地體驗科索沃的魅力</title>
