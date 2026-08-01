@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 01 Aug 2026 20:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 20:32:53 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>法官駁回 xAI 阻止明尼蘇達州禁止「nudify」應用程式的請求</title>
+      <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
+      <pubDate>Sat, 01 Aug 2026 20:26:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>儘管 xAI 提出訴訟，明尼蘇達州對允許使用者將圖片「nudify」的應用程式所下的禁令仍可繼續推進。</description>
     </item>
     <item>
       <title>YouTuber Hank Green 表示他使用 AI「不健康」</title>
@@ -209,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 資料中心需求正在推動一場為期多年的晶片短缺，推高零組件成本和零售裝置價格。</description>
-    </item>
-    <item>
-      <title>SpaceX 還要再過一年才會移除 xAI 所有未經許可的渦輪機</title>
-      <link>https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148699</guid>
-      <pubDate>Fri, 31 Jul 2026 15:16:17 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>SpaceX 正在為 xAI 的 Colossus 資料中心興建新的發電廠，但在未來好幾個月內都不會移除現有、未經許可的渦輪機。</description>
     </item>
     <item>
       <title>推動歐洲各地的負責任 AI 發展</title>
