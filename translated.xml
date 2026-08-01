@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 01 Aug 2026 18:47:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 19:02:14 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>你還應該購買下一支智慧型手機，還是改用訂閱？</title>
+      <link>https://techcrunch.com/2026/08/01/should-you-still-buy-your-next-smartphone-or-subscribe-to-it-instead/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149003</guid>
+      <pubDate>Sat, 01 Aug 2026 18:47:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 的新 Upgrade 計畫，是智慧型手機所有權正在改變的最新跡象。</description>
     </item>
     <item>
       <title>Sam Altman 仍在為透過 ChatGPT 育兒提出理由</title>
@@ -227,15 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Reddit 正在開發一種新的影片體驗，讓使用者可以觀看——或者單純收聽——它最受歡迎的貼文，靈感來自把 Reddit 故事搭配遊戲畫面或其他影像的爆紅 TikTok 影片。執行長 Steve Huffman 表示，這項功能已經在進行中，最快可能在今年稍晚開始測試。</description>
-    </item>
-    <item>
-      <title>Smallest.ai 募得 1,300 萬美元，打造聽起來真正像人的超高速語音 AI</title>
-      <link>https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148682</guid>
-      <pubDate>Fri, 31 Jul 2026 14:47:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創公司正在打造語音模型，目標是讓 AI 電話通過圖靈測試。</description>
     </item>
     <item>
       <title>透過街景服務，隨時隨地體驗科索沃的魅力</title>
