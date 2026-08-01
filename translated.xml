@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 01 Aug 2026 13:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 13:45:02 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>最好的手持迷你風扇是什麼？</title>
+      <link>https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148853</guid>
+      <pubDate>Sat, 01 Aug 2026 13:36:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從高級的 Shark 和 Dyson 產品到隨機的 Amazon 裝置，這些迷你風扇會讓你在悶熱的夏天稍微好過一點。</description>
     </item>
     <item>
       <title>數學與理論電腦科學的十項進展</title>
@@ -248,15 +257,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 OpenAI 的模型闖入 Hugging Face 之後，Anthropic 檢查了自家的歷史紀錄，發現了三起類似事件</description>
-    </item>
-    <item>
-      <title>蘋果囤積庫存，因其正準備應對「顯著的供應受限」</title>
-      <link>https://techcrunch.com/2026/07/30/apple-stockpiles-inventory-as-it-braces-for-significant-supply-constraints/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148575</guid>
-      <pubDate>Thu, 30 Jul 2026 23:28:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>蘋果對供應短缺的擔憂已經嚴重到，在財報中公布約 111 億美元的庫存，幾乎是去年 9 月公布的 57 億美元的兩倍。</description>
     </item>
     <item>
       <title>Apple 公布第三季財報</title>
