@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 01 Aug 2026 17:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:16:34 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Sam Altman 仍在為透過 ChatGPT 育兒提出理由</title>
+      <link>https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149010</guid>
+      <pubDate>Sat, 01 Aug 2026 17:07:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 的執行長似乎很興奮地分享一個給父母的「很酷的使用案例」。</description>
     </item>
     <item>
       <title>這把 9 美元的鑰匙可以實體鎖住你最容易上癮的應用程式</title>
@@ -227,15 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家新創公司正在打造語音模型，目標是讓 AI 電話通過圖靈測試。</description>
-    </item>
-    <item>
-      <title>WhatsApp 正在測試一個用來收納來自大型企業訊息的新資料夾</title>
-      <link>https://techcrunch.com/2026/07/31/whatsapp-is-testing-a-new-folder-for-messages-from-large-businesses/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148110</guid>
-      <pubDate>Fri, 31 Jul 2026 14:39:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>WhatsApp 會在你收到大型企業的訊息幾個小時後，自動把它們移到新的資料夾中</description>
     </item>
     <item>
       <title>透過街景服務，隨時隨地體驗科索沃的魅力</title>
