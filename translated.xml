@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 01 Aug 2026 21:03:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 21:18:13 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>走進倫敦駭客屋，對抗創辦人倦怠</title>
+      <link>https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146052</guid>
+      <pubDate>Sat, 01 Aug 2026 21:14:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這間創辦人住宅如何押注工作與生活平衡能戰勝倦怠。</description>
     </item>
     <item>
       <title>法官駁回 xAI 阻止明尼蘇達州禁止「nudify」應用程式的請求</title>
@@ -209,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據 TechCrunch 和 Hudson Labs 的新資料，美國領先的汽車製造商在投資人電話會議中提到 EV 的頻率已回到疫情前的水準。</description>
-    </item>
-    <item>
-      <title>Samsung 預期記憶體短缺將惡化至 2027 年，並持續到 2028 年</title>
-      <link>https://techcrunch.com/2026/07/31/samsung-expects-memory-shortage-to-worsen-through-2027-and-last-until-2028/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148660</guid>
-      <pubDate>Fri, 31 Jul 2026 15:37:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 資料中心需求正在推動一場為期多年的晶片短缺，推高零組件成本和零售裝置價格。</description>
     </item>
     <item>
       <title>推動歐洲各地的負責任 AI 發展</title>
