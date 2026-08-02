@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 02 Aug 2026 16:55:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:10:10 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>馬來西亞據報正在關閉 Balaji Srinivasan 的 Network School</title>
+      <link>https://techcrunch.com/2026/08/02/malaysia-is-reportedly-shutting-down-balaji-srinivasans-network-school/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149041</guid>
+      <pubDate>Sun, 02 Aug 2026 17:05:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>來看看這個「技術樂觀主義者的前沿社群」進展如何……</description>
     </item>
     <item>
       <title>TechCrunch Mobility：兩條路分岔——為了 robotaxi</title>
@@ -197,15 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>來自英國帝國理工學院和法國里昂商學院的新研究描繪了矽谷創辦人如何進行詐欺，以及投資人扮演的角色。</description>
-    </item>
-    <item>
-      <title>Snapchat 不再獎勵完全由 AI 生成的 Spotlight 內容</title>
-      <link>https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148803</guid>
-      <pubDate>Fri, 31 Jul 2026 16:49:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Snapchat 已調整其推薦系統，確保只有真人製作的影片才有資格獲得 Spotlight 推薦，對 AI 垃圾內容採取明確立場。</description>
     </item>
     <item>
       <title>了解 7 月 Gemini Drop 中 Gemini 應用程式有哪些新功能。</title>
