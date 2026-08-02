@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 02 Aug 2026 15:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 15:24:26 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>這些 App Store 隱藏寶石證明，在 AI 時代依然有一席之地可容納優秀軟體</title>
+      <link>https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3146922</guid>
+      <pubDate>Sun, 02 Aug 2026 15:23:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>儘管外界預測 AI 代理程式可能會讓傳統 App 變得過時，開發者推出新軟體的速度卻比以往更快。從更聰明的書籤工具、鄰里市集，到數位筆友與自然日記，以下是近期值得加入主畫面的 App Store 新發現。</description>
     </item>
     <item>
       <title>走進倫敦駭客屋，對抗創辦人倦怠</title>
@@ -209,15 +218,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Drops_Social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Drops_Social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Drops_Social.max-600x600.format-webp.webp" alt=""></p><p>Gemini Drops 是我們每月定期推出的更新，說明如何充分運用 Gemini 應用程式。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>GM 和 Ford 越來越少談論 EV</title>
-      <link>https://techcrunch.com/2026/07/31/gm-and-ford-are-talking-less-and-less-about-evs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148673</guid>
-      <pubDate>Fri, 31 Jul 2026 15:47:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 TechCrunch 和 Hudson Labs 的新資料，美國領先的汽車製造商在投資人電話會議中提到 EV 的頻率已回到疫情前的水準。</description>
     </item>
     <item>
       <title>推動歐洲各地的負責任 AI 發展</title>
