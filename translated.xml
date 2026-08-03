@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 17:49:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:05:06 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Outernet 將你儲存的貼文變成現實世界的冒險</title>
+      <link>https://techcrunch.com/2026/08/03/outernet-turns-your-saved-posts-into-real-world-adventures/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149083</guid>
+      <pubDate>Mon, 03 Aug 2026 18:00:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Outernet 由舉辦過舊金山全市尋寶活動 Pursuit 等爆紅離線活動的創辦人打造，這款 app 幫助使用者儲存他們在線上發現的地點和活動，接著再提醒他們實際前往。</description>
     </item>
     <item>
       <title>WhatsApp 表示正在修復一個導致多個帳號停用的問題</title>
@@ -218,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這把 9 美元的 NFC 鑰匙需要你實際掃描它，才能解鎖手機上會讓人分心的應用程式。</description>
-    </item>
-    <item>
-      <title>Uber 正在打造自駕車帝國，而這是它用來實現這件事的每一家公司的名單</title>
-      <link>https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143162</guid>
-      <pubDate>Sat, 01 Aug 2026 15:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Uber 在過去兩年與大約 30 家自駕車公司建立了合作關係，且在某些情況下也直接投資。以下是名單以及這些合作關係的最新進展。</description>
     </item>
     <item>
       <title>數學與理論電腦科學的十項進展</title>
