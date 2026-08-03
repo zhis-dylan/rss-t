@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:02:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:17:20 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>三星禁止會與陌生人共享使用者網路連線的智慧電視應用程式</title>
+      <link>https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149073</guid>
+      <pubDate>Mon, 03 Aug 2026 12:10:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新的資安研究罕見揭露了住宅代理網路的內部運作，這些網路依賴會將某人網際網路連線與他人共享的應用程式。</description>
     </item>
     <item>
       <title>一家獲 Marc Benioff 支持的新創公司認為，AI 可以解決 AI 部署問題</title>
@@ -194,15 +203,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>印度的應用程式市場在第二季創下 3.45 億美元的紀錄。</description>
-    </item>
-    <item>
-      <title>Google 在推出一天後就撤下 Earth AI 功能，因外界批評其會散播錯誤資訊</title>
-      <link>https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148844</guid>
-      <pubDate>Fri, 31 Jul 2026 19:47:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這個工具讓任何人都能生成假的 AI 影像，並疊加到真實的 Google Earth 地圖上，很快就引發了反彈。</description>
     </item>
     <item>
       <title>用這款充滿氛圍感程式碼風格的行程 App 簡化你的早晨。</title>
