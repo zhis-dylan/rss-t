@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 12:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 13:02:40 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Horizon3 在 AI 威脅升高之際，透過 2.5 億美元 E 輪融資將估值推升至 20 億美元</title>
+      <link>https://techcrunch.com/2026/08/03/horizon3-hits-2-billion-valuation-with-250m-series-e-as-ai-threats-escalate/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149022</guid>
+      <pubDate>Mon, 03 Aug 2026 12:50:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>資安新創公司 Horizon3 募得 2.5 億美元，估值達 20 億美元；隨著企業想要持續的、由 AI 驅動的安全驗證，而不是一年一次的滲透測試。</description>
     </item>
     <item>
       <title>三星禁止會與陌生人共享使用者網路連線的智慧電視應用程式</title>
@@ -194,15 +203,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 工具已經普及了打造產品的機會，縮短了成功所需的時間，也讓更多年輕人不必踏進大型科技公司，就能創辦成功的公司。</description>
-    </item>
-    <item>
-      <title>印度開始付費購買應用程式，而不只是下載它們</title>
-      <link>https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148857</guid>
-      <pubDate>Fri, 31 Jul 2026 21:07:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>印度的應用程式市場在第二季創下 3.45 億美元的紀錄。</description>
     </item>
     <item>
       <title>用這款充滿氛圍感程式碼風格的行程 App 簡化你的早晨。</title>
