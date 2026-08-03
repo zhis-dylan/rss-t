@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 16:49:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:04:34 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -41,6 +41,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Wispr Flow 的新服務條款顯示，它將推出一款可生成會議摘要和待辦事項的筆記工具。</description>
+    </item>
+    <item>
+      <title>歡迎來到 Sail Tower，我們位於奧斯汀的最新辦公室</title>
+      <link>https://blog.google/company-news/inside-google/company-announcements/austin-office-sail-tower/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/austin-office-sail-tower/</guid>
+      <pubDate>Mon, 03 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們全新的奧斯汀辦公室 Sail Tower，設有供 Googler 使用的彈性工作空間，以及一個提供給社群成員的 Google.org 非營利場地。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Austin_mural_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Austin_mural_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Austin_mural_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>我們全新的奧斯汀辦公室 Sail Tower，設有供 Googler 使用的彈性工作空間，以及一個提供給社群成員的 Google.org 非營利場地。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們的 353,000 人 vibe coding 課程幕後揭秘</title>
@@ -494,18 +506,6 @@
 The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on The Official Microsoft Blog.</description>
     </item>
     <item>
-      <title>非營利組織使用 AI 的 3 種新方式</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</guid>
-      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini API 管理式代理：3.6 Flash、hooks 等更多功能</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</guid>
@@ -516,6 +516,18 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" alt=""></p><p>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>非營利組織使用 AI 的 3 種新方式</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/nonprofits-ai-tools-training/</guid>
+      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>強大運算，如此精巧，隨身必備——用 NVIDIA Jetson 在你手中打造 AI</title>
@@ -543,18 +555,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出新功能，例如可從 WhatsApp 網頁版撥打電話、通話轉接、背景噪音抑制等。<br>〈推出 WhatsApp 網頁版通話，以及更多新功能〉一文首先出現在 Meta 新聞中心。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Google 搜尋舉辦完美晚宴派對的 5 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>這些 Google Trends 顯示大家真的很想出門走走</title>
       <link>https://blog.google/products-and-platforms/products/search/touch-grass-trends/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/touch-grass-trends/</guid>
@@ -577,6 +577,18 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp" alt=""></p><p>這聽起來可能有點反直覺，但 Search 的 AI 工具其實能幫你充分利用離線時間，不管你是想訂演唱會門票，還是找最完美的……</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Google 搜尋舉辦完美晚宴派對的 5 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</guid>
+      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Upgrade 在美國推出</title>
@@ -625,18 +637,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Futures_Fund__KDDI_ba.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Futures_Fund__KDDI_ba.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_AI_Futures_Fund__KDDI_ba.max-600x600.format-webp.webp" alt=""></p><p>我們將推出 AI 新創支持計畫，以加速創新的 AI 原生日本新創公司。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NOAA 與 Google Cloud 合作推進天氣預報。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/noaa-google-cloud-weather-forecasting/</guid>
-      <pubDate>Mon, 27 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Cloud 現在正為 NOAA 的超級電腦系統提供高效能運算基礎設施。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hurricane-Melissa_header.max-600x600.format-webp.webp" alt=""></p><p>Google Cloud 現在正為 NOAA 的超級電腦系統提供高效能運算基礎設施。</p>]]></content:encoded>
     </item>
     <item>
       <title>重新思考 AI 時代的安全性</title>
