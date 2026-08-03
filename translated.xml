@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 14:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:03:34 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,27 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>我們的 353,000 人 vibe coding 課程幕後揭秘</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/</guid>
+      <pubDate>Mon, 03 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Kaggle 與 Google 合作推出的 AI Agents Intensive 以免費課程匯聚學習者，一起打造並部署 AI 的下一個前沿。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_coding_course_hero.max-600x600.format-webp.webp" alt=""></p><p>Kaggle 與 Google 合作推出的 AI Agents Intensive 以免費課程匯聚學習者，一起打造並部署 AI 的下一個前沿。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Leagues Cup 將於明天 8 月 4 日在 Apple TV 登場</title>
+      <link>https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/</guid>
+      <pubDate>Mon, 03 Aug 2026 14:59:10 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>由 Concacaf 核准、集結美國職業足球大聯盟 18 支球隊與 Liga MX 18 支球隊的賽事，將於明天 8 月 4 日在 Apple TV 登場。</description>
     </item>
     <item>
       <title>Horizon3 在 AI 威脅升高之際，透過 2.5 億美元 E 輪融資將估值推升至 20 億美元</title>
@@ -736,18 +757,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif" alt=""></p><p>由 Muse Spark 1.1 驅動的 Meta AI，現在可以從頭到尾進行建置、規劃並執行到底。<br>〈Meta AI 不只是思考，還會行動〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 將簽署歐盟 AI 法案人工智慧生成內容透明度行為準則。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/public-policy/eu-ai-act-transparency-code-of-practice/</guid>
-      <pubDate>Fri, 24 Jul 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>簽署該準則重申了我們對歐洲透明度與負責任 AI 發展的承諾。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleG_FullColor_White_RGB.max-600x600.format-webp.webp" alt=""></p><p>簽署該準則重申了我們對歐洲透明度與負責任 AI 發展的承諾。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出 Facebook 驗證</title>
@@ -1775,15 +1784,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 與美國職棒大聯盟已宣布 Apple TV 上「Friday Night Baseball」的 7 月賽程，將帶來多場焦點對戰。</description>
-    </item>
-    <item>
-      <title>《迷你足球傳奇》、《家庭爭霸戰 Pocket》和另外七款熱門遊戲加入 Apple Arcade</title>
-      <link>https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/mini-football-legends-family-feud-pocket-and-seven-more-hits-join-apple-arcade/</guid>
-      <pubDate>Thu, 04 Jun 2026 13:59:28 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple Arcade 屢獲殊榮的超過 200 款遊戲目錄將新增九款新遊戲，包括《My Talking Tom 2+》和《Coffee Inc 2+》。</description>
     </item>
     <item>
       <title>Endava 如何圍繞 AI agent 重新設計軟體交付</title>
