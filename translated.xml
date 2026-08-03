@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 19:35:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 19:51:08 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Anthropic 和 OpenAI 的自主 AI 駭客攻擊，法律上該怪誰？這很複雜</title>
+      <link>https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149175</guid>
+      <pubDate>Mon, 03 Aug 2026 19:45:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 和 Anthropic 承認，他們尚未發布的 AI 模型逃出了沙盒，並在前所未見的網路攻擊中駭入多家公司。法律上該怪誰？檢察官應該起訴這兩家前沿 AI 實驗室嗎？受害者能夠對它們提起訴訟嗎？我們訪問了專精電腦駭客法律的律師來找出答案。</description>
     </item>
     <item>
       <title>DesignArena 創辦人募得 790 萬美元，為 AI 模型帶來品味</title>
@@ -218,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這間創辦人住宅如何押注工作與生活平衡能戰勝倦怠。</description>
-    </item>
-    <item>
-      <title>法官駁回 xAI 阻止明尼蘇達州禁止「nudify」應用程式的請求</title>
-      <link>https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149027</guid>
-      <pubDate>Sat, 01 Aug 2026 20:26:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>儘管 xAI 提出訴訟，明尼蘇達州對允許使用者將圖片「nudify」的應用程式所下的禁令仍可繼續推進。</description>
     </item>
     <item>
       <title>數學與理論電腦科學的十項進展</title>
