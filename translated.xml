@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 17:34:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:49:57 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>WhatsApp 表示正在修復一個導致多個帳號停用的問題</title>
+      <link>https://techcrunch.com/2026/08/03/whatsapp-says-it-is-is-fixing-an-issue-that-disabled-several-accounts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149187</guid>
+      <pubDate>Mon, 03 Aug 2026 17:46:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 表示，正在恢復那些被誤標記並列為「審查中」的 WhatsApp 帳號存取權；先前有使用者回報，自己在毫無預警下被這款通訊 app 鎖在外面。</description>
     </item>
     <item>
       <title>Sequoia 的 Shaun Maguire 領投核能新創 Valar Atomics 的 10 億美元融資輪</title>
@@ -218,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Uber 在過去兩年與大約 30 家自駕車公司建立了合作關係，且在某些情況下也直接投資。以下是名單以及這些合作關係的最新進展。</description>
-    </item>
-    <item>
-      <title>幫助你擺脫無止盡滑手機、動起來的 App</title>
-      <link>https://techcrunch.com/2026/08/01/apps-that-help-you-break-free-from-doomscrolling-and-get-active/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3145781</guid>
-      <pubDate>Sat, 01 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果你想減少螢幕使用時間，並多活動一下，這裡整理了一些可能幫得上忙的 App。</description>
     </item>
     <item>
       <title>數學與理論電腦科學的十項進展</title>
