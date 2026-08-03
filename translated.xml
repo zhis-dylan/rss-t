@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 19:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 20:06:18 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>AWS 正在協助 vibe-coding 新創 Superblocks，其影響重大</title>
+      <link>https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3148841</guid>
+      <pubDate>Mon, 03 Aug 2026 20:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AWS 現在允許將 vibe coding 工具 Superblocks 嵌入 AWS 客戶的私有雲中。這是讓應用程式與模型脫鉤的又一步。</description>
     </item>
     <item>
       <title>Anthropic 和 OpenAI 的自主 AI 駭客攻擊，法律上該怪誰？這很複雜</title>
@@ -218,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>儘管外界預測 AI 代理程式可能會讓傳統 App 變得過時，開發者推出新軟體的速度卻比以往更快。從更聰明的書籤工具、鄰里市集，到數位筆友與自然日記，以下是近期值得加入主畫面的 App Store 新發現。</description>
-    </item>
-    <item>
-      <title>走進倫敦駭客屋，對抗創辦人倦怠</title>
-      <link>https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3146052</guid>
-      <pubDate>Sat, 01 Aug 2026 21:14:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這間創辦人住宅如何押注工作與生活平衡能戰勝倦怠。</description>
     </item>
     <item>
       <title>數學與理論電腦科學的十項進展</title>
