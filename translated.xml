@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 17:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:19:43 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Sequoia 的 Shaun Maguire 領投核能新創 Valar Atomics 的 10 億美元融資輪</title>
+      <link>https://techcrunch.com/2026/08/03/sequoias-shaun-maguire-leads-1b-round-for-nuclear-startup-valar-atomics/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149118</guid>
+      <pubDate>Mon, 03 Aug 2026 17:16:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Valar Atomics 在 6 月與 Nvidia 簽署開發協議後，以 60 億美元估值募得 10 億美元。</description>
     </item>
     <item>
       <title>Base Power 再募得 10 億美元，透過後院電池拯救電網</title>
@@ -218,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>如果你想減少螢幕使用時間，並多活動一下，這裡整理了一些可能幫得上忙的 App。</description>
-    </item>
-    <item>
-      <title>最好的手持迷你風扇是什麼？</title>
-      <link>https://techcrunch.com/2026/08/01/whats-the-best-handheld-mini-fan/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148853</guid>
-      <pubDate>Sat, 01 Aug 2026 13:36:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從高級的 Shark 和 Dyson 產品到隨機的 Amazon 裝置，這些迷你風扇會讓你在悶熱的夏天稍微好過一點。</description>
     </item>
     <item>
       <title>數學與理論電腦科學的十項進展</title>
