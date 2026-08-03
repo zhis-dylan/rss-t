@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 03 Aug 2026 16:34:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 16:49:24 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
+    </item>
+    <item>
+      <title>Base Power 再募得 10 億美元，透過後院電池拯救電網</title>
+      <link>https://techcrunch.com/2026/08/03/base-power-raises-another-1b-to-save-the-grid-using-backyard-batteries/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149093</guid>
+      <pubDate>Mon, 03 Aug 2026 16:46:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Base Power 的 10 億美元融資輪將幫助這家新創公司擴大其家用電池的生產。</description>
+    </item>
+    <item>
+      <title>國會最愛的 AI 工具？ChatGPT</title>
+      <link>https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149151</guid>
+      <pubDate>Mon, 03 Aug 2026 16:40:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>眾議院支出紀錄顯示，OpenAI 的 ChatGPT 主導了國會山莊的付費 AI 使用，國會辦公室依賴這個聊天機器人來起草備忘錄、摘要法案，並協助與選民的溝通。</description>
     </item>
     <item>
       <title>Wispr Flow 正準備推出會議筆記工具，更新後的條款顯示</title>
@@ -206,24 +224,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享了在數學與理論電腦科學長期懸而未決的開放問題上的新成果，包括幾何、密碼學與複雜度方面的進展。</description>
-    </item>
-    <item>
-      <title>OpenAI 據報找到更多其代理人失控的證據</title>
-      <link>https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148949</guid>
-      <pubDate>Fri, 31 Jul 2026 22:47:26 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 據報在調查與 Hugging Face 有關的事件時，發現了額外的代理人異常行為證據。</description>
-    </item>
-    <item>
-      <title>Rivian 分拆公司 Also 在延遲數個月後開始交付電動自行車</title>
-      <link>https://techcrunch.com/2026/07/31/rivian-spinoff-also-to-start-delivering-e-bikes-after-months-of-delays/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3148946</guid>
-      <pubDate>Fri, 31 Jul 2026 22:00:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Also 除了 TM-B 之外還有宏大計畫。這家新創公司大多把自己稱為「車輛」公司，並計畫為 Amazon 打造四輪電助力貨運車輛。</description>
     </item>
     <item>
       <title>用這款充滿氛圍感程式碼風格的行程 App 簡化你的早晨。</title>
