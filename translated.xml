@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 20:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 21:03:33 GMT</lastBuildDate>
     <item>
       <title>SpaceX 因 Anthropic 和 Google 的運算合約以及 Starlink 成長，營收翻倍</title>
       <link>https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/</link>
@@ -59,6 +59,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>由 Nvidia 領頭、成員已擴大到超過 120 家公司的成立一週的 Open Secure AI Alliance，已經提出多項用於防禦 AI 代理的提案。</description>
+    </item>
+    <item>
+      <title>涉及 OpenAI 模型的第三方資安評估</title>
+      <link>https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</link>
+      <guid isPermaLink="false">https://openai.com/index/third-party-cyber-evaluations-involving-openai-models</guid>
+      <pubDate>Tue, 04 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 說明近期第三方資安評估事件，並概述新的保障措施，以強化 AI 模型測試與評估。</description>
     </item>
     <item>
       <title>Waymo 在達拉斯向所有人開放 robotaxi 服務</title>
@@ -1949,15 +1958,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 在密西根州為一項 1GW 資料中心專案動工，作為 Stargate 的一部分，建設 AI 基礎設施以擴大使用機會、創造就業並支援社區。</description>
-    </item>
-    <item>
-      <title>OpenAI 前沿模型和 Codex 現已在 AWS 上提供</title>
-      <link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws</guid>
-      <pubDate>Mon, 01 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 前沿模型和 Codex 現已在 AWS 上全面開放，讓企業能透過他們已經在使用的 AWS 環境、控管機制和採購流程，以 OpenAI 建立應用程式的新途徑。客戶可以在 AWS 上使用 OpenAI 開始上手，並更快從評估階段邁向正式上線。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
