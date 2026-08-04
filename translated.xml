@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:53:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 01:08:42 GMT</lastBuildDate>
     <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
@@ -209,6 +209,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-Live 透過無需輪替的語音模型與低延遲架構，實現與 AI 的連續語音互動，讓對話更快速、更自然。</description>
+    </item>
+    <item>
+      <title>Circles 運用 OpenAI 技術提升電信個人化服務</title>
+      <link>https://openai.com/index/circles</link>
+      <guid isPermaLink="false">https://openai.com/index/circles</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Circles 使用 OpenAI API 和 Codex 來支援 AI 原生的電信體驗，使 ARPU 提高 22%、流失率降低 9%，並提升開發效率。</description>
     </item>
     <item>
       <title>全球記憶體短缺衝擊 MacBook Air</title>
@@ -1946,15 +1955,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 封禁了一個可能源自中國的集群，該集群使用 AI 生成批評美國資料中心與 AI 基礎設施的社群媒體內容。</description>
-    </item>
-    <item>
-      <title>波士頓兒童醫院運用 AI 發掘新診斷</title>
-      <link>https://openai.com/index/boston-childrens-hospital</link>
-      <guid isPermaLink="false">https://openai.com/index/boston-childrens-hospital</guid>
-      <pubDate>Fri, 29 May 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>波士頓兒童醫院使用 OpenAI 技術改善病患照護、減輕營運負擔，並協助診斷超過 40 起罕見疾病病例。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
