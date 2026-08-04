@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:01:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:16:38 GMT</lastBuildDate>
+    <item>
+      <title>TV Time 共同創辦人推出 Bingers，讓廣受喜愛的電視追蹤 App 起死回生</title>
+      <link>https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149675</guid>
+      <pubDate>Tue, 04 Aug 2026 17:05:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 TV Time 關閉後，讓數百萬使用者苦尋替代方案，其中一位原始創辦人帶著 Bingers 回歸；這是一款新的電視與電影追蹤器，重現粉絲喜愛的社群功能，同時新增匯入觀影紀錄的支援。</description>
+    </item>
     <item>
       <title>駭客利用離線硬體錢包漏洞竊取超過 1.3 億美元</title>
       <link>https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/</link>
@@ -176,6 +185,15 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <description>Airtable 在 2021 年巔峰時的估值超過 110 億美元，但今年稍早有消息指出，其股份在次級市場的交易估值為 40 億美元。</description>
     </item>
     <item>
+      <title>使用 ChatGPT Work 和 Codex 學習與教學的新方式</title>
+      <link>https://openai.com/index/learn-teach-chatgpt-work-codex</link>
+      <guid isPermaLink="false">https://openai.com/index/learn-teach-chatgpt-work-codex</guid>
+      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 ChatGPT Work 和 Codex 的全新教育外掛，協助 K–12 教師、大學教育者和學生學習、教學、研究與開發。</description>
+    </item>
+    <item>
       <title>破壞一個犯罪詐騙集團</title>
       <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
       <guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
@@ -255,15 +273,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 已對英國政府提出的一項新的法律要求提起上訴，批評者認為這可能會威脅全球用戶的隱私權。</description>
-    </item>
-    <item>
-      <title>Apple 終於修好了 Siri。那為什麼感覺有點平淡？</title>
-      <link>https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149128</guid>
-      <pubDate>Mon, 03 Aug 2026 18:43:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 備受期待的 AI 大改造，終於讓 Siri 成為它本來就應該是的助理。但經過多年延宕，這次推出正好落在一個 AI 市場裡，在那裡聊天機器人已進化成能寫程式、推理、創作媒體，並完成複雜任務的代理。Siri AI 確實很實用，但它出現的時點，讓「只是一個能用的 AI 助理」這件事，已經不再讓人覺得有革命性。</description>
     </item>
     <item>
       <title>歡迎來到 Sail Tower，我們位於奧斯汀的最新辦公室</title>
@@ -1949,15 +1958,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 前沿模型和 Codex 現已在 AWS 上全面開放，讓企業能透過他們已經在使用的 AWS 環境、控管機制和採購流程，以 OpenAI 建立應用程式的新途徑。客戶可以在 AWS 上使用 OpenAI 開始上手，並更快從評估階段邁向正式上線。</description>
-    </item>
-    <item>
-      <title>「科技與關稅」行動：針對美國科技政策的影響力活動</title>
-      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs</link>
-      <guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-tech-and-tariffs</guid>
-      <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 封禁了一批可能源自中國的帳號，這些帳號使用 AI 來製作關於美國科技政策、關稅和貿易限制的留言與漫畫。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
