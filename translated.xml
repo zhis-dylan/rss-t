@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:46:57 GMT</lastBuildDate>
     <item>
       <title>Waymo 在達拉斯向所有人開放 robotaxi 服務</title>
       <link>https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Waymo 已取消其在達拉斯 robotaxi 服務的候補名單，這是該公司將其自駕技術擴展到美國、英國和歐洲的最新一步。</description>
+    </item>
+    <item>
+      <title>NVIDIA 加入 NSF 州與區域 AI 中心計畫，擴展美國各地的 AI 研究與教育</title>
+      <link>https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program</guid>
+      <pubDate>Tue, 04 Aug 2026 17:30:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 正參與美國國家科學基金會（NSF）的州與區域人工智慧基礎設施中心計畫，這項計畫今天啟動，旨在擴大取得 AI 賦能研究與教育所需的先進運算、資料、軟體與專業知識的管道。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00" alt=""></p><p>NVIDIA 正參與美國國家科學基金會（NSF）的州與區域人工智慧基礎設施中心計畫，這項計畫今天啟動，旨在擴大取得 AI 賦能研究與教育所需的先進運算、資料、軟體與專業知識的管道。</p>]]></content:encoded>
     </item>
     <item>
       <title>你的 TechCrunch Disrupt 2026 票價再減 100 美元：只限本週！</title>
@@ -1057,18 +1069,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/815a8a18037d3a7514d0ce28f8d949de/6a5f922f3d633228b7291e17_vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450_thmb.jpg?v=c295a905-654b-411d-a586-6d456d4439ff" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/815a8a18037d3a7514d0ce28f8d949de/6a5f922f3d633228b7291e17_vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450_thmb.jpg?v=c295a905-654b-411d-a586-6d456d4439ff"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/815a8a18037d3a7514d0ce28f8d949de/6a5f922f3d633228b7291e17_vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450/vera-tech-blog-vera-rubin-nvl72-1920x1080-1-842x450_thmb.jpg?v=c295a905-654b-411d-a586-6d456d4439ff" alt=""></p><p>NVIDIA Vera Rubin 登場，而且將邁向巨量規模。Vera Rubin NVL72 的量產正在加速，機架已在合作夥伴 CoreWeave、Google Cloud、Microsoft Azure 和 Oracle Cloud Infrastructure 運行。Vera Rubin 橫跨 30 個國家、350 多個工廠據點，擁有史上規模最大、最成熟的機架級供應鏈，以滿足客戶的運算需求。[…]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>為 Vera Rubin 打造，NVIDIA Spectrum-6 登陸超大規模 AI 工廠</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-spectrum-six-arrives-in-gigascale-ai-factories/</guid>
-      <pubDate>Tue, 21 Jul 2026 15:00:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI 已進入超大規模時代。世界上最先進的 AI 工廠正把數十萬顆 GPU 和 CPU 匯聚在一起，用來訓練前沿模型、驅動代理式 AI，並以前所未有的規模產生智慧。在這個層級，網路已成為驅動 token 生成的關鍵運算效能倍增器。作為網路里程碑，NVIDIA Spectrum-6 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/8a2a24326c92409de98c31c57e75d332/6a5f89c43d6332ff6c3104f7_ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450/ethernet-spectrum-x-corp-blog-1920x1080-5205700-842x450_thmb.jpg?v=3cbe4980-f407-4815-b5c4-303ab70b5c85" alt=""></p><p>AI 已進入超大規模時代。世界上最先進的 AI 工廠正把數十萬顆 GPU 和 CPU 匯聚在一起，用來訓練前沿模型、驅動代理式 AI，並以前所未有的規模產生智慧。在這個層級，網路已成為驅動 token 生成的關鍵運算效能倍增器。作為網路里程碑，NVIDIA Spectrum-6 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 與 Hugging Face 合作因應模型評估期間的資安事件</title>
