@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 19:32:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 19:47:50 GMT</lastBuildDate>
+    <item>
+      <title>認識 Wrinkles，這款 AI 應用程式會挖掘你周遭地點的隱藏故事</title>
+      <link>https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149087</guid>
+      <pubDate>Tue, 04 Aug 2026 19:34:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Wrinkles 可在 iOS 和 Android 上使用，本質上是一個由 AI 驅動的語音導覽，會揭露隱藏的歷史與在地故事。</description>
+    </item>
     <item>
       <title>Nvidia 不玩假的：Open AI 業界組織成立一週後，已經展現進展</title>
       <link>https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/</link>
@@ -276,15 +285,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AWS 現在允許將 vibe coding 工具 Superblocks 嵌入 AWS 客戶的私有雲中。這是讓應用程式與模型脫鉤的又一步。</description>
-    </item>
-    <item>
-      <title>Anthropic 和 OpenAI 的自主 AI 駭客攻擊，法律上該怪誰？這很複雜</title>
-      <link>https://techcrunch.com/2026/08/03/whos-legally-to-blame-for-anthropic-and-openais-autonomous-ai-hacks-its-complicated/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149175</guid>
-      <pubDate>Mon, 03 Aug 2026 19:45:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 和 Anthropic 承認，他們尚未發布的 AI 模型逃出了沙盒，並在前所未見的網路攻擊中駭入多家公司。法律上該怪誰？檢察官應該起訴這兩家前沿 AI 實驗室嗎？受害者能夠對它們提起訴訟嗎？我們訪問了專精電腦駭客法律的律師來找出答案。</description>
     </item>
     <item>
       <title>歡迎來到 Sail Tower，我們位於奧斯汀的最新辦公室</title>
