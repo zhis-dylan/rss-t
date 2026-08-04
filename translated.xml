@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 04 Aug 2026 13:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 13:59:20 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 現在已有超過 3 億名訂閱者</title>
+      <link>https://techcrunch.com/2026/08/04/spotify-now-has-over-300m-subscribers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149519</guid>
+      <pubDate>Tue, 04 Aug 2026 13:52:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>值得注意的是，該公司在第二季的訂閱者數量成長了 9%，儘管今年已在多個地區調漲價格。</description>
+    </item>
     <item>
       <title>印度著手為其即時支付網路建立商業模式</title>
       <link>https://techcrunch.com/2026/08/04/india-moves-to-give-its-instant-payments-network-a-business-model/</link>
@@ -251,15 +260,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>資安新創公司 Horizon3 募得 2.5 億美元，估值達 20 億美元；隨著企業想要持續的、由 AI 驅動的安全驗證，而不是一年一次的滲透測試。</description>
-    </item>
-    <item>
-      <title>三星禁止會與陌生人共享使用者網路連線的智慧電視應用程式</title>
-      <link>https://techcrunch.com/2026/08/03/samsung-bans-smart-tv-apps-that-share-users-internet-connections-with-strangers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149073</guid>
-      <pubDate>Mon, 03 Aug 2026 12:10:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新的資安研究罕見揭露了住宅代理網路的內部運作，這些網路依賴會將某人網際網路連線與他人共享的應用程式。</description>
     </item>
     <item>
       <title>我們如何在六個月內打造出一套可即時回應的語音 AI 系統</title>
