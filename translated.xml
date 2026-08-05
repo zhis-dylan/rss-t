@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 15:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:56:18 GMT</lastBuildDate>
+    <item>
+      <title>Hark 預覽其用於完成任務的瀏覽器使用代理</title>
+      <link>https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149995</guid>
+      <pubDate>Wed, 05 Aug 2026 15:46:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Hark 聲稱，其瀏覽器使用代理比競爭對手更快，也更便宜。</description>
+    </item>
     <item>
       <title>Zoox 將開始對拉斯維加斯的 robotaxi 乘車服務收費</title>
       <link>https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>SaferAI 的一份新報告發現，Z.ai 的開放權重 GLM-5.2 接近前沿 AI 能力，卻缺乏關鍵安全緩解措施，重新引發外界對於強大開放模型可能超越治理與防護措施的擔憂。</description>
-    </item>
-    <item>
-      <title>Anthropic 與 AI 雲端新創 Volta 簽下 100 億美元協議</title>
-      <link>https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149770</guid>
-      <pubDate>Tue, 04 Aug 2026 19:48:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報導，Anthropic 近幾個月來一直積極展開雲端合作，而其最新動作是一項與 AI 雲端新創 Volta 簽下的 100 億美元協議。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
