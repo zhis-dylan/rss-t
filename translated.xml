@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 13:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:25:03 GMT</lastBuildDate>
+    <item>
+      <title>Disney+ 希望透過 TikTok 創作者為其短影音動態提供粉絲內容</title>
+      <link>https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150067</guid>
+      <pubDate>Wed, 05 Aug 2026 13:21:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在串流平台與社群媒體巨頭爭奪觀眾注意力之際，Disney+ 正與 TikTok 合作，將創作者內容帶進其應用程式。</description>
+    </item>
     <item>
       <title>MacPaw 攜手 Liquid AI，為開發者在其應用程式商店打造裝置端推論服務</title>
       <link>https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/</link>
@@ -197,15 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 TV Time 關閉後，讓數百萬使用者苦尋替代方案，其中一位原始創辦人帶著 Bingers 回歸；這是一款新的電視與電影追蹤器，重現粉絲喜愛的社群功能，同時新增匯入觀影紀錄的支援。</description>
-    </item>
-    <item>
-      <title>駭客利用離線硬體錢包漏洞竊取超過 1.3 億美元</title>
-      <link>https://techcrunch.com/2026/08/04/hackers-steal-over-130-million-by-exploiting-bug-in-offline-hardware-wallets/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149641</guid>
-      <pubDate>Tue, 04 Aug 2026 16:27:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>區塊鏈監控公司表示，加密貨幣硬體錢包 Coldcard 的一項安全漏洞正讓駭客能夠掏空受害者錢包中的加密貨幣。總損失金額已超過 1.3 億美元。</description>
     </item>
     <item>
       <title>NVIDIA Alpamayo 2 Super，適用於 Robotaxi 與自駕車的前沿開放模型，現已可供商業使用</title>
