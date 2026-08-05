@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 20:58:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:13:58 GMT</lastBuildDate>
+    <item>
+      <title>川普時期的司法部取得對 OpenAI 綠卡員工贊助的監督權</title>
+      <link>https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150305</guid>
+      <pubDate>Wed, 05 Aug 2026 21:05:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>司法部指控 OpenAI 在替持有簽證的員工申請永久居留權前，並未實質嘗試聘用美國公民。</description>
+    </item>
     <item>
       <title>Moove 籌得 2.5 億美元，成為 robotaxi 產業的骨幹</title>
       <link>https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/</link>
@@ -23,15 +32,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Lightspeed 合夥人 Josh Machiz 和 Claire Zau 來到 Equity 工作室，談論他們日益成長的社群媒體影響力，以及他們的 podcast《Lightwork》背後的策略。</description>
-    </item>
-    <item>
-      <title>為什麼 Lightspeed 全力投入由創作者主導的風險投資</title>
-      <link>https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3150410</guid>
-      <pubDate>Wed, 05 Aug 2026 20:48:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>風投公司正轉向創作者，在寫出任何支票之前，先與新一代創辦人建立信任。這是一個正在成形的趨勢，從 a16z 收購 Erik Torenberg 的 Turpentine podcast，以及 OpenAI 收購 TBPN 就可看出。Lightspeed Venture Partners 剛在這方面聘用了自己一位值得注意的新成員，邀請到在 Instagram 上擁有大量追蹤者的種子輪投資人 Claire Zau，而 […]</description>
     </item>
     <item>
       <title>Klaviyo 收購 Elias Torres 的 Agency，科技創辦人上演圓滿重聚</title>
@@ -185,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Robinhood 最新的金融工具打算讓任何散戶投資人都覺得自己也能透過支持 Y Combinator 新創公司來賺錢。</description>
-    </item>
-    <item>
-      <title>印度電動車新創 River 籌得 1.2 億美元 C 輪資金，以擴大產能並推出更多車款</title>
-      <link>https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149662</guid>
-      <pubDate>Wed, 05 Aug 2026 11:26:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>River 計畫興建新工廠，從 2027 年起推出更多車款，並在擴大產能的同時朝獲利邁進。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
