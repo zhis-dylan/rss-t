@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 12:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 12:24:35 GMT</lastBuildDate>
+    <item>
+      <title>Robinhood 將上架一檔讓任何人都能支持 Y Combinator 新創公司的基金</title>
+      <link>https://techcrunch.com/2026/08/05/robinhood-to-list-a-fund-that-lets-anyone-back-y-combinator-startups/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149868</guid>
+      <pubDate>Wed, 05 Aug 2026 12:23:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Robinhood 最新的金融工具打算讓任何散戶投資人都覺得自己也能透過支持 Y Combinator 新創公司來賺錢。</description>
+    </item>
     <item>
       <title>印度電動車新創 River 籌得 1.2 億美元 C 輪資金，以擴大產能並推出更多車款</title>
       <link>https://techcrunch.com/2026/08/05/indian-ev-two-wheeler-startup-river-raises-120m-after-scaling-with-one-model/</link>
@@ -197,15 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Spotify 表示，代表超過 30,000 家獨立唱片公司與發行商的 Merlin，已加入 Universal Music Group 的行列，支持其即將推出的 AI 驅動混音與翻唱產品。這款付費工具將讓粉絲能為參與藝人的音樂創作 AI 生成的翻唱與混音，同時確保藝人選擇加入、獲得署名，並取得報酬。</description>
-    </item>
-    <item>
-      <title>德州在州長呼籲進行審計之際暫停新資料中心建設</title>
-      <link>https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149621</guid>
-      <pubDate>Tue, 04 Aug 2026 15:42:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>德州州長 Greg Abbott 已暫停新的資料中心開發，直到審計完成為止。</description>
     </item>
     <item>
       <title>NVIDIA Alpamayo 2 Super，適用於 Robotaxi 與自駕車的前沿開放模型，現已可供商業使用</title>
