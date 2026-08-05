@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 15:56:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 16:11:29 GMT</lastBuildDate>
+    <item>
+      <title>我們 AI 動能的下一個篇章</title>
+      <link>https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/</guid>
+      <pubDate>Wed, 05 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>今天，Google 和 Alphabet 執行長 Sundar Pichai 向 Google DeepMind 團隊分享了一些變動。</description>
+    </item>
+    <item>
+      <title>Shopify 表示 AI 搜尋正帶來更多流量和銷售，並未取代 Google</title>
+      <link>https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150177</guid>
+      <pubDate>Wed, 05 Aug 2026 15:56:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Shopify 表示，AI 並沒有像對出版商那樣蠶食搜尋流量。相反地，第二季由 AI 驅動到 Shopify 商店的流量和訂單年增三倍。</description>
+    </item>
     <item>
       <title>Hark 預覽其用於完成任務的瀏覽器使用代理</title>
       <link>https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/</link>
@@ -176,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據一項新研究，開發者可能沒有意識到自己正在把使用者的位置資料分享給廣告商。</description>
-    </item>
-    <item>
-      <title>開放權重 AI 模型正在追上最前沿。安全落差仍然存在。</title>
-      <link>https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149807</guid>
-      <pubDate>Tue, 04 Aug 2026 20:05:26 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>SaferAI 的一份新報告發現，Z.ai 的開放權重 GLM-5.2 接近前沿 AI 能力，卻缺乏關鍵安全緩解措施，重新引發外界對於強大開放模型可能超越治理與防護措施的擔憂。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
@@ -695,18 +704,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 搜尋資料顯示，越來越多人想要暫時離線，並透過在地跑步社團、麻將課程等方式與現實生活連結。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Search 中的 AI 模式如何透過 5 種方式幫助你享受真實世界</title>
-      <link>https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>這聽起來可能有點反直覺，但 Search 的 AI 工具其實能幫你充分利用離線時間，不管你是想訂演唱會門票，還是找最完美的……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp" alt=""></p><p>這聽起來可能有點反直覺，但 Search 的 AI 工具其實能幫你充分利用離線時間，不管你是想訂演唱會門票，還是找最完美的……</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Upgrade 在美國推出</title>
