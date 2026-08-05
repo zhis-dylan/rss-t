@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 14:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:40:37 GMT</lastBuildDate>
+    <item>
+      <title>川普政府的 EPA 錯誤取消了 200 億美元氣候資金，上訴法院裁定</title>
+      <link>https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150105</guid>
+      <pubDate>Wed, 05 Aug 2026 14:40:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>氣候非營利組織在川普政府的 EPA 下令花旗銀行凍結其帳戶一年多後，如今可再次動用聯邦資金。</description>
+    </item>
     <item>
       <title>Anthropic 正在招募 AI 晶片設計團隊</title>
       <link>https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/</link>
@@ -197,15 +206,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00" alt=""></p><p>NVIDIA 正參與美國國家科學基金會（NSF）的州與區域人工智慧基礎設施中心計畫，這項計畫今天啟動，旨在擴大取得 AI 賦能研究與教育所需的先進運算、資料、軟體與專業知識的管道。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>你的 TechCrunch Disrupt 2026 票價再減 100 美元：只限本週！</title>
-      <link>https://techcrunch.com/2026/08/04/take-an-extra-100-off-your-techcrunch-disrupt-2026-pass-this-week-only/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149365</guid>
-      <pubDate>Tue, 04 Aug 2026 17:20:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從今天開始，你的 TechCrunch Disrupt 2026 創辦人、投資人或與會者票價可再額外折抵 100 美元，這是在我們目前折扣價格之上的一項不錯加碼。</description>
     </item>
     <item>
       <title>NVIDIA Alpamayo 2 Super，適用於 Robotaxi 與自駕車的前沿開放模型，現已可供商業使用</title>
