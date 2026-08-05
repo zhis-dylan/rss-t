@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 16:56:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:12:00 GMT</lastBuildDate>
+    <item>
+      <title>認識在 Startup Battlefield Australia 簡報的八家新創公司</title>
+      <link>https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3149974</guid>
+      <pubDate>Wed, 05 Aug 2026 17:02:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>申請已經送出，TechCrunch Startup Battlefield 團隊也已經做出決定！</description>
+    </item>
     <item>
       <title>提醒：Apple 的 Private Relay 可能洩漏你的真實 IP 位址</title>
       <link>https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/</link>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>SpaceX 已加大為其 xAI 資料中心採購 Tesla Megapacks 的力度。</description>
-    </item>
-    <item>
-      <title>SpaceX 因 Anthropic 和 Google 的運算合約以及 Starlink 成長，營收翻倍</title>
-      <link>https://techcrunch.com/2026/08/04/spacex-doubles-revenues-on-anthropic-and-google-compute-deals-starlink-growth/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149811</guid>
-      <pubDate>Tue, 04 Aug 2026 20:36:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 SpaceX 自 6 月上市以來的首份季度財報，其營收較去年翻了一倍。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
