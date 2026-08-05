@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 14:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:25:29 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 正在招募 AI 晶片設計團隊</title>
+      <link>https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150081</guid>
+      <pubDate>Wed, 05 Aug 2026 14:13:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 正在建立一個團隊來設計自己的客製化 AI 晶片。這家 Claude 的製造商表示，將共同設計硬體與模型，以協助其技術更快、更有效率地運作。</description>
+    </item>
     <item>
       <title>Disney+ 希望透過 TikTok 創作者為其短影音動態提供粉絲內容</title>
       <link>https://techcrunch.com/2026/08/05/disney-looks-to-tiktok-creators-to-bring-fan-content-to-its-short-form-video-feed/</link>
@@ -197,15 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>從今天開始，你的 TechCrunch Disrupt 2026 創辦人、投資人或與會者票價可再額外折抵 100 美元，這是在我們目前折扣價格之上的一項不錯加碼。</description>
-    </item>
-    <item>
-      <title>TV Time 共同創辦人推出 Bingers，讓廣受喜愛的電視追蹤 App 起死回生</title>
-      <link>https://techcrunch.com/2026/08/04/tv-time-co-founder-launches-bingers-to-revive-the-beloved-tv-tracking-app/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149675</guid>
-      <pubDate>Tue, 04 Aug 2026 17:05:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 TV Time 關閉後，讓數百萬使用者苦尋替代方案，其中一位原始創辦人帶著 Bingers 回歸；這是一款新的電視與電影追蹤器，重現粉絲喜愛的社群功能，同時新增匯入觀影紀錄的支援。</description>
     </item>
     <item>
       <title>NVIDIA Alpamayo 2 Super，適用於 Robotaxi 與自駕車的前沿開放模型，現已可供商業使用</title>
