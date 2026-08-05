@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 14:40:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 14:55:46 GMT</lastBuildDate>
+    <item>
+      <title>隨著 Z 世代重新考慮交友軟體，Tinder 的實體活動擴展到更多數十個城市</title>
+      <link>https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150079</guid>
+      <pubDate>Wed, 05 Aug 2026 14:45:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tinder 正將其線下活動功能從最初在洛杉磯的測試，擴展到全球 26 個城市，預計在 9 月底前完成。</description>
+    </item>
     <item>
       <title>川普政府的 EPA 錯誤取消了 200 億美元氣候資金，上訴法院裁定</title>
       <link>https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/</link>
@@ -185,15 +194,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 說明近期第三方資安評估事件，並概述新的保障措施，以強化 AI 模型測試與評估。</description>
-    </item>
-    <item>
-      <title>Waymo 在達拉斯向所有人開放 robotaxi 服務</title>
-      <link>https://techcrunch.com/2026/08/04/waymo-opens-up-robotaxi-service-in-dallas-to-everyone/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149699</guid>
-      <pubDate>Tue, 04 Aug 2026 17:31:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Waymo 已取消其在達拉斯 robotaxi 服務的候補名單，這是該公司將其自駕技術擴展到美國、英國和歐洲的最新一步。</description>
     </item>
     <item>
       <title>NVIDIA 加入 NSF 州與區域 AI 中心計畫，擴展美國各地的 AI 研究與教育</title>
