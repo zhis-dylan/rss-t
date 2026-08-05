@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 07:52:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 08:07:53 GMT</lastBuildDate>
     <item>
       <title>Wispr Flow 推出一款 Granola 風格的會議筆記工具</title>
       <link>https://techcrunch.com/2026/08/05/wispr-flow-is-preparing-to-launch-a-meeting-notetaker-updated-terms-suggest/</link>
@@ -554,6 +554,15 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drops_July.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 7 月的 Demand Gen Drop 升級版 tROAS 出價、Checkout Links 等功能，為假期旺季做好準備。</p>]]></content:encoded>
     </item>
     <item>
+      <title>啟用兩個設定如何讓我們在 ARC-AGI-3 基準測試的分數翻了三倍</title>
+      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
+      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
+      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>兩個 API 設定如何提升 GPT-5.6 在 ARC-AGI-3 上的表現，透過保留推理與啟用壓縮來提升分數與效率。</description>
+    </item>
+    <item>
       <title>Gemini for macOS 新增新的自然語言功能</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/speak-naturally-gemini-app-mac-os/</guid>
@@ -564,15 +573,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_macOS_language_capab.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_macOS_language_capab.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_macOS_language_capab.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemini app for macOS 如何現在讓你只用聲音就能自然地說話，取得乾淨的轉錄、編輯和摘要。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>啟用兩個設定如何讓我們在 ARC-AGI-3 基準測試的分數翻了三倍</title>
-      <link>https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</link>
-      <guid isPermaLink="false">https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores</guid>
-      <pubDate>Wed, 29 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>兩個 API 設定如何提升 GPT-5.6 在 ARC-AGI-3 上的表現，透過保留推理與啟用壓縮來提升分數與效率。</description>
     </item>
     <item>
       <title>透過 ChatGPT for Academic Researchers 加速科學發現</title>
