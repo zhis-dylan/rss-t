@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 19:27:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:43:09 GMT</lastBuildDate>
+    <item>
+      <title>Jeff Dean 和其他頂尖 AI 研究人員正離開 Google，創立自己的新創公司</title>
+      <link>https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150299</guid>
+      <pubDate>Wed, 05 Aug 2026 19:30:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這位傳奇的 Google 高層與其他即將離職的 Google 高層攜手合作，目標是運用 AI 推動科學發現的進程。</description>
+    </item>
     <item>
       <title>Reddit 透過轉向 AI 內容審核工具，想讓新手發文者不那麼在意「karma」</title>
       <link>https://techcrunch.com/2026/08/05/reddit-aims-to-make-karma-less-important-for-first-time-posters-with-shift-to-ai-moderation-tools/</link>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>馬斯克不斷把 SpaceX 財務長 Bret Johnsen 和 Gwynne Shotwell 在公司首次電話會議上提出的已經很大的承諾說得更誇大。</description>
-    </item>
-    <item>
-      <title>Lucid 的重振計畫取決於 14 億美元現金節省和 robotaxi</title>
-      <link>https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149894</guid>
-      <pubDate>Tue, 04 Aug 2026 22:24:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Lucid 新任執行長 Silvio Napoli 列出四項必須成功的優先事項，包括成功推出中型電動車、完成沙烏地阿拉伯的一座工廠、削減支出，以及 robotaxi。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
