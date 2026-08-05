@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 05 Aug 2026 16:41:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 16:56:50 GMT</lastBuildDate>
+    <item>
+      <title>提醒：Apple 的 Private Relay 可能洩漏你的真實 IP 位址</title>
+      <link>https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150252</guid>
+      <pubDate>Wed, 05 Aug 2026 16:52:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 實作其 Private Relay 功能的方式有個 bug，理論上這項功能會遮蔽使用者造訪網站時的 IP 位址，但它可能會揭露使用者的真實 IP 位址。</description>
+    </item>
     <item>
       <title>我們 AI 動能的下一個篇章</title>
       <link>https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/</link>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據 SpaceX 自 6 月上市以來的首份季度財報，其營收較去年翻了一倍。</description>
-    </item>
-    <item>
-      <title>Android 應用程式開發者可能在不知不覺中將使用者的位置資料分享給廣告商</title>
-      <link>https://techcrunch.com/2026/08/04/android-app-developers-may-be-unwittingly-sharing-their-users-location-data-with-advertisers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149282</guid>
-      <pubDate>Tue, 04 Aug 2026 20:26:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據一項新研究，開發者可能沒有意識到自己正在把使用者的位置資料分享給廣告商。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
