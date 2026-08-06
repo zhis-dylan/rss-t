@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 13:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:35:21 GMT</lastBuildDate>
+    <item>
+      <title>在法律訴訟之際，Suno 表示將開始為歌曲加上浮水印</title>
+      <link>https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150555</guid>
+      <pubDate>Thu, 06 Aug 2026 13:31:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Suno 的浮水印功能推出之際，該公司正面臨多方的法律訴訟。</description>
+    </item>
     <item>
       <title>Ford 的新電動卡車「Fathom」起價 28,350 美元</title>
       <link>https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/</link>
@@ -224,15 +233,6 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>今天，Google 和 Alphabet 執行長 Sundar Pichai 向 Google DeepMind 團隊分享了一些變動。</description>
-    </item>
-    <item>
-      <title>Shopify 表示 AI 搜尋正帶來更多流量和銷售，並未取代 Google</title>
-      <link>https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150177</guid>
-      <pubDate>Wed, 05 Aug 2026 15:56:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Shopify 表示，AI 並沒有像對出版商那樣蠶食搜尋流量。相反地，第二季由 AI 驅動到 Shopify 商店的流量和訂單年增三倍。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
