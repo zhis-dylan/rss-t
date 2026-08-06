@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 12:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 12:34:46 GMT</lastBuildDate>
+    <item>
+      <title>Ask Maps 變得更實用，可點餐等更多功能</title>
+      <link>https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/</guid>
+      <pubDate>Thu, 06 Aug 2026 12:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>從代理式功能和即時資訊，到個人化推薦，Ask Maps 讓你比以往更輕鬆完成更多事情。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero.max-600x600.format-webp.webp" alt=""></p><p>從代理式功能和即時資訊，到個人化推薦，Ask Maps 讓你比以往更輕鬆完成更多事情。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 地圖新增代理功能，包括點餐和飯店預訂</title>
+      <link>https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150297</guid>
+      <pubDate>Thu, 06 Aug 2026 12:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這些新功能的推出，反映出 Google 想把 Google 地圖從導航工具，轉變成能協助使用者完成現實世界任務的助理。</description>
+    </item>
+    <item>
+      <title>Omilia 募得 6,700 萬美元，擴大其客服平台規模</title>
+      <link>https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150505</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這輪 B 輪是該公司自 2020 年上次募資以來的第二次融資。在這段期間，其年度經常性收入（ARR）成長了 10 倍，達到 6,000 萬美元。</description>
+    </item>
     <item>
       <title>在週五前可享 TechCrunch Disrupt 2026 門票最高折抵 400 美元</title>
       <link>https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/</link>
@@ -167,24 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在我們全新的 Real World AI 舞台上，我們將聚焦數位與實體的交會，以及未來兩者持續融合的各種方式。</description>
-    </item>
-    <item>
-      <title>隨著 Z 世代重新考慮交友軟體，Tinder 的實體活動擴展到更多數十個城市</title>
-      <link>https://techcrunch.com/2026/08/05/as-gen-z-reconsiders-dating-apps-tinders-irl-events-expand-to-dozens-more-cities/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150079</guid>
-      <pubDate>Wed, 05 Aug 2026 14:45:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Tinder 正將其線下活動功能從最初在洛杉磯的測試，擴展到全球 26 個城市，預計在 9 月底前完成。</description>
-    </item>
-    <item>
-      <title>川普政府的 EPA 錯誤取消了 200 億美元氣候資金，上訴法院裁定</title>
-      <link>https://techcrunch.com/2026/08/05/trump-epa-wrongly-canceled-20b-in-climate-funds-appeals-court-rules/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150105</guid>
-      <pubDate>Wed, 05 Aug 2026 14:40:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>氣候非營利組織在川普政府的 EPA 下令花旗銀行凍結其帳戶一年多後，如今可再次動用聯邦資金。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
@@ -683,18 +695,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>這些 Google Trends 顯示大家真的很想出門走走</title>
-      <link>https://blog.google/products-and-platforms/products/search/touch-grass-trends/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/touch-grass-trends/</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 搜尋資料顯示，越來越多人想要暫時離線，並透過在地跑步社團、麻將課程等方式與現實生活連結。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Touch_Grass_Trends_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 搜尋資料顯示，越來越多人想要暫時離線，並透過在地跑步社團、麻將課程等方式與現實生活連結。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Upgrade 在美國推出</title>
