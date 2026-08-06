@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:20:39 GMT</lastBuildDate>
+    <item>
+      <title>eBay 持續押注直播購物，延續創紀錄的季度表現</title>
+      <link>https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150662</guid>
+      <pubDate>Thu, 06 Aug 2026 14:17:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>eBay 宣稱 eBay Live 的商品交易總額有所增加，並計劃在未來幾週和幾個月內將其擴展到更多國際市場。</description>
+    </item>
     <item>
       <title>在法律訴訟之際，Suno 表示將開始為歌曲加上浮水印</title>
       <link>https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/</link>
@@ -215,15 +224,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>申請已經送出，TechCrunch Startup Battlefield 團隊也已經做出決定！</description>
-    </item>
-    <item>
-      <title>提醒：Apple 的 Private Relay 可能洩漏你的真實 IP 位址</title>
-      <link>https://techcrunch.com/2026/08/05/psa-apples-private-relay-can-leak-your-real-ip-address/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150252</guid>
-      <pubDate>Wed, 05 Aug 2026 16:52:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 實作其 Private Relay 功能的方式有個 bug，理論上這項功能會遮蔽使用者造訪網站時的 IP 位址，但它可能會揭露使用者的真實 IP 位址。</description>
     </item>
     <item>
       <title>我們 AI 動能的下一個篇章</title>
