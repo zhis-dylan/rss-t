@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 19:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 19:53:34 GMT</lastBuildDate>
+    <item>
+      <title>Google 表示駭客正在打電話給金融公司員工，以入侵並勒索受害者</title>
+      <link>https://techcrunch.com/2026/08/06/google-says-hackers-are-calling-financial-firm-employees-to-hack-and-extort-victims/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150918</guid>
+      <pubDate>Thu, 06 Aug 2026 19:40:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 的資安研究人員表示，一群駭客正入侵美國大型金融公司，竊取敏感資料並勒索受害者。</description>
+    </item>
     <item>
       <title>與中國有關的 LightSpy 間諜軟體被發現鎖定 13 個國家的受害者，包括美國</title>
       <link>https://techcrunch.com/2026/08/06/china-linked-lightspy-spyware-caught-targeting-victims-in-13-countries-including-the-us/</link>
@@ -288,15 +297,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的 OpenAI Signals 資料顯示人們在全球如何使用 ChatGPT，並提供各國層級的採用情況、使用趨勢與行為演變洞察。</description>
-    </item>
-    <item>
-      <title>在週五前可享 TechCrunch Disrupt 2026 門票最高折抵 400 美元</title>
-      <link>https://techcrunch.com/2026/08/05/get-up-to-400-off-your-techcrunch-disrupt-2026-pass-until-friday/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149365</guid>
-      <pubDate>Wed, 05 Aug 2026 22:55:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從今天開始，你可以在創辦人、投資人或一般參加者的 TechCrunch Disrupt 2026 門票價格上，再額外折抵 100 美元，這是在目前折扣價之外的一個不錯加碼。</description>
     </item>
     <item>
       <title>我們 AI 動能的下一個篇章</title>
