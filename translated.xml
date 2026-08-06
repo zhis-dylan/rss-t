@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 17:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:37:29 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 為免費用戶帶來無限文字聊天</title>
+      <link>https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150766</guid>
+      <pubDate>Thu, 06 Aug 2026 17:34:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 表示，ChatGPT 免費版和 Go 用戶也將獲得一個新的 think 按鈕，用於複雜查詢。</description>
+    </item>
     <item>
       <title>Naïve 募得 2,850 萬美元，將公司設立與營運的繁瑣工作自動化</title>
       <link>https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/</link>
@@ -288,15 +297,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>司法部指控 OpenAI 在替持有簽證的員工申請永久居留權前，並未實質嘗試聘用美國公民。</description>
-    </item>
-    <item>
-      <title>Moove 籌得 2.5 億美元，成為 robotaxi 產業的骨幹</title>
-      <link>https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150298</guid>
-      <pubDate>Wed, 05 Aug 2026 20:50:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Moove 正在擴大其業務中自動駕駛車隊管理這一塊，並計畫有朝一日不只是管理 Waymo robotaxi，還要擁有它們。</description>
     </item>
     <item>
       <title>我們 AI 動能的下一個篇章</title>
