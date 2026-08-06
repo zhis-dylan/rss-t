@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 15:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:21:10 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 表示，Apple 自身的安全做法削弱了其營業秘密案的主張</title>
+      <link>https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150664</guid>
+      <pubDate>Thu, 06 Aug 2026 15:10:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新提交的法庭證物顯示，OpenAI 在 Apple 營業秘密訴訟中的法律策略：主張 Apple 自身的安全與離職交接做法——包括允許一名 Apple 經理在一名前工程師離職後存取其 iCloud 帳號——削弱了其所稱遭竊資訊已受到妥善保護的說法。</description>
+    </item>
     <item>
       <title>為什麼 Meta 要打造自己的 AI 資料中心</title>
       <link>https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/</link>
@@ -27,6 +36,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>eBay 宣稱 eBay Live 的商品交易總額有所增加，並計劃在未來幾週和幾個月內將其擴展到更多國際市場。</description>
+    </item>
+    <item>
+      <title>我們的 WeatherNext 2 AI 模型在預測颶風方面展現出巨大的躍進。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-2-cyclones/</guid>
+      <pubDate>Thu, 06 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google DeepMind 的 WeatherNext 2 在颶風預測方面展現了最先進的準確度。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WN-cyclones_header_blog_16x9_bl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WN-cyclones_header_blog_16x9_bl.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WN-cyclones_header_blog_16x9_bl.max-600x600.format-webp.webp" alt=""></p><p>Google DeepMind 的 WeatherNext 2 在颶風預測方面展現了最先進的準確度。</p>]]></content:encoded>
     </item>
     <item>
       <title>在法律訴訟之際，Suno 表示將開始為歌曲加上浮水印</title>
@@ -228,15 +249,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Cosmos EV 現在預定於 2027 年下半年推出。執行長 Silivo Napoli 表示，他目前專注於把這款 EV 做好，以及與 Uber 和 Nuro 合作、較近程的 robotaxi 計畫。</description>
-    </item>
-    <item>
-      <title>認識在 Startup Battlefield Australia 簡報的八家新創公司</title>
-      <link>https://techcrunch.com/2026/08/05/meet-the-eight-startups-pitching-at-startup-battlefield-australia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149974</guid>
-      <pubDate>Wed, 05 Aug 2026 17:02:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>申請已經送出，TechCrunch Startup Battlefield 團隊也已經做出決定！</description>
     </item>
     <item>
       <title>我們 AI 動能的下一個篇章</title>
@@ -695,18 +707,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nonprofits_AI_hero_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出新的工具和資源，讓非營利組織進一步了解 Google AI 工具。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini API 管理式代理：3.6 Flash、hooks 等更多功能</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/</guid>
-      <pubDate>Tue, 28 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/unnamed_2_vNnOv20.max-600x600.format-webp.webp" alt=""></p><p>我們正在宣布 Gemini API 中管理式代理的更多新功能，讓開發者能打造可靠、可供生產環境使用的代理。</p>]]></content:encoded>
     </item>
     <item>
       <title>強大運算，如此精巧，隨身必備——用 NVIDIA Jetson 在你手中打造 AI</title>
