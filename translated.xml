@@ -5,7 +5,46 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 12:49:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:05:04 GMT</lastBuildDate>
+    <item>
+      <title>Ford 的新電動卡車「Fathom」起價 28,350 美元</title>
+      <link>https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150519</guid>
+      <pubDate>Thu, 06 Aug 2026 13:01:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ford 週四表示，預計在「2027 年秋季」上市，但要等到明年年初才會揭曉 Fathom 的外觀。</description>
+    </item>
+    <item>
+      <title>走進 Google Arts &amp; Culture 的探戈世界</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過全新的 Google Arts &amp; Culture 藏品，探索阿根廷探戈豐富的歷史、熱情的舞者，以及歷久不衰的傳承。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp" alt=""></p><p>透過全新的 Google Arts &amp; Culture 藏品，探索阿根廷探戈豐富的歷史、熱情的舞者，以及歷久不衰的傳承。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>前 Spotify 員工募資 1,000 萬美元，把其推薦功能背後的 AI 帶到電子商務</title>
+      <link>https://techcrunch.com/2026/08/06/ex-spotify-employees-raise-10m-to-bring-the-ai-behind-its-recommendations-to-e-commerce/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150351</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司的平台可預測購物者下一步想買什麼商品、了解他們的大致品味，並根據他們即時的行為持續微調。</description>
+    </item>
+    <item>
+      <title>獨家：Mirendil 簽下超過 1 億美元的 Google Cloud 合約，以擴大自我改進 AI</title>
+      <link>https://techcrunch.com/2026/08/06/exclusive-mirendil-inks-100m-google-cloud-deal-to-scale-self-improving-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150500</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Mirendil 已簽署一項價值超過 1 億美元的 Google Cloud 合作案，以擴充其運算基礎設施，推動針對自我改進 AI 系統的研究，這些系統旨在加速科學發現與 AI 開發。</description>
+    </item>
     <item>
       <title>Ask Maps 變得更實用，可點餐等更多功能</title>
       <link>https://blog.google/products-and-platforms/products/maps/order-food-in-ask-maps/</link>
@@ -170,33 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Shopify 表示，AI 並沒有像對出版商那樣蠶食搜尋流量。相反地，第二季由 AI 驅動到 Shopify 商店的流量和訂單年增三倍。</description>
-    </item>
-    <item>
-      <title>Hark 預覽其用於完成任務的瀏覽器使用代理</title>
-      <link>https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149995</guid>
-      <pubDate>Wed, 05 Aug 2026 15:46:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Hark 聲稱，其瀏覽器使用代理比競爭對手更快，也更便宜。</description>
-    </item>
-    <item>
-      <title>Zoox 將開始對拉斯維加斯的 robotaxi 乘車服務收費</title>
-      <link>https://techcrunch.com/2026/08/05/zoox-to-start-charging-for-robotaxi-rides-in-las-vegas/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150094</guid>
-      <pubDate>Wed, 05 Aug 2026 15:06:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這標誌著 Zoox 商業營運的正式啟動。</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026 的 Real World AI 舞台將呈現機器人、自動化工廠與已滅絕動物</title>
-      <link>https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3149903</guid>
-      <pubDate>Wed, 05 Aug 2026 15:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在我們全新的 Real World AI 舞台上，我們將聚焦數位與實體的交會，以及未來兩者持續融合的各種方式。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
@@ -683,18 +695,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Web-Calling-on-WhatsApp_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出新功能，例如可從 WhatsApp 網頁版撥打電話、通話轉接、背景噪音抑制等。<br>〈推出 WhatsApp 網頁版通話，以及更多新功能〉一文首先出現在 Meta 新聞中心。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用 Google 搜尋舉辦完美晚宴派對的 5 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/</guid>
-      <pubDate>Tue, 28 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp" alt=""></p><p>這些 AI 功能可以幫你規劃菜單、設計餐桌擺設，還能處理其他派對籌備工作。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Upgrade 在美國推出</title>
