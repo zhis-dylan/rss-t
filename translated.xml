@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 06 Aug 2026 16:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:07:14 GMT</lastBuildDate>
+    <item>
+      <title>Naïve 募得 2,850 萬美元，將公司設立與營運的繁瑣工作自動化</title>
+      <link>https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3150524</guid>
+      <pubDate>Thu, 06 Aug 2026 17:00:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>更進一步把 vibe-coding 推向實作，Naive 宣稱其基礎架構可以自動化創辦和營運一家企業的大部分工作。</description>
+    </item>
     <item>
       <title>駭客承認竊取超過 165 家 Snowflake 客戶資料罪名</title>
       <link>https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/</link>
@@ -209,6 +218,15 @@
       <description>這輪 B 輪是該公司自 2020 年上次募資以來的第二次融資。在這段期間，其年度經常性收入（ARR）成長了 10 倍，達到 6,000 萬美元。</description>
     </item>
     <item>
+      <title>在 ChatGPT 中提升 GPT-5.6 Sol——並擴大免費用戶的使用權限</title>
+      <link>https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt</guid>
+      <pubDate>Thu, 06 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT 推出改良版 GPT-5.6 Sol，帶來更好的準確度與一致性，並擴大免費用戶的使用權限，以及可無限使用 GPT-5.6 Luna 進行日常聊天。</description>
+    </item>
+    <item>
       <title>與美國心理學會合作推進青少年心理健康與 AI</title>
       <link>https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</link>
       <guid isPermaLink="false">https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai</guid>
@@ -216,6 +234,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 與 APA 正在啟動一項為期三年的合作夥伴關係，以制定指引、資源與保障措施，支持負責任的 AI 使用，協助青少年心理健康。</description>
+    </item>
+    <item>
+      <title>從提問到行動：全球如何運用 ChatGPT 來工作</title>
+      <link>https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</link>
+      <guid isPermaLink="false">https://openai.com/index/how-the-world-is-putting-chatgpt-to-work</guid>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>新的 OpenAI Signals 資料顯示人們在全球如何使用 ChatGPT，並提供各國層級的採用情況、使用趨勢與行為演變洞察。</description>
     </item>
     <item>
       <title>在週五前可享 TechCrunch Disrupt 2026 門票最高折抵 400 美元</title>
@@ -270,15 +297,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Moove 正在擴大其業務中自動駕駛車隊管理這一塊，並計畫有朝一日不只是管理 Waymo robotaxi，還要擁有它們。</description>
-    </item>
-    <item>
-      <title>Lightspeed 是如何透過 Instagram 私訊找到最新一位新人的…</title>
-      <link>https://techcrunch.com/2026/08/05/how-lightspeed-found-their-newest-hire-via-instagram-dm/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150270</guid>
-      <pubDate>Wed, 05 Aug 2026 20:48:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Lightspeed 合夥人 Josh Machiz 和 Claire Zau 來到 Equity 工作室，談論他們日益成長的社群媒體影響力，以及他們的 podcast《Lightwork》背後的策略。</description>
     </item>
     <item>
       <title>我們 AI 動能的下一個篇章</title>
@@ -1937,24 +1955,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 呼籲全球採取行動，推動青少年 AI 安全，並提議設立一個國際機構，以強化保障措施、標準，以及年輕人的機會。</description>
-    </item>
-    <item>
-      <title>Codex 正在成為每個人的生產力工具</title>
-      <link>https://openai.com/index/codex-for-knowledge-work</link>
-      <guid isPermaLink="false">https://openai.com/index/codex-for-knowledge-work</guid>
-      <pubDate>Tue, 02 Jun 2026 02:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>《Knowledge Work 的下一個時代》報告探討 Codex 如何透過 AI 驅動的研究、資料分析、工作流程自動化與內容創作，改變生產力。</description>
-    </item>
-    <item>
-      <title>我們對 AI 政策與政治倡議的看法</title>
-      <link>https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</link>
-      <guid isPermaLink="false">https://openai.com/index/our-views-on-ai-policy-and-political-advocacy</guid>
-      <pubDate>Mon, 01 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們對 AI 政策與政治倡議的做法、透明度、對審慎監管與 AI 安全的支持，以及沒有任何外部政治團體能代表公司發言。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
