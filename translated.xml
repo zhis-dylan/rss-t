@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 07 Aug 2026 16:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:47:12 GMT</lastBuildDate>
     <item>
       <title>Cloudflare 推出 Kitesurf，一款為 AI 代理打造的瀏覽器</title>
       <link>https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/</link>
@@ -23,6 +23,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Framework 告知「所有」客戶，駭客在一次資料外洩事件中存取了他們的姓名、電子郵件地址、電話號碼和實體地址。</description>
+    </item>
+    <item>
+      <title>回應關鍵網路資安能力的下一個前沿</title>
+      <link>https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</link>
+      <guid isPermaLink="false">https://openai.com/index/responding-next-frontier-critical-cyber-capabilities</guid>
+      <pubDate>Fri, 07 Aug 2026 15:20:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 分享 Astra 的初步資安評估，以及我們為強化保障措施和安全控管所採取的步驟。</description>
     </item>
     <item>
       <title>川普政府已花費近 40 億美元取消離岸風電場</title>
@@ -1946,15 +1955,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 Codex 建立那種輕量級網站或應用程式。</description>
-    </item>
-    <item>
-      <title>適用於各種角色、工具與工作流程的 Codex</title>
-      <link>https://openai.com/index/codex-for-every-role-tool-workflow</link>
-      <guid isPermaLink="false">https://openai.com/index/codex-for-every-role-tool-workflow</guid>
-      <pubDate>Tue, 02 Jun 2026 09:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索全新的 Codex 外掛、網站與註解，協助分析師、行銷人員、設計師、投資人以及其他團隊借助 AI 完成更多工作。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
