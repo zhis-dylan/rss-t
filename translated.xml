@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 07 Aug 2026 22:34:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:50:01 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 表示因安全疑慮而放慢 Astra 模型開發</title>
+      <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151331</guid>
+      <pubDate>Fri, 07 Aug 2026 22:48:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 表示，因擔心其網路安全能力，已暫停 Astra 即將推出模型的部分開發工作。</description>
+    </item>
     <item>
       <title>Rippling 在幾個月內在 AI 上砸了數百萬美元後，打造了員工 ROI 工具</title>
       <link>https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/</link>
@@ -218,15 +227,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_vacation_itineraries.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_vacation_itineraries.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_vacation_itineraries.max-600x600.format-webp.webp" alt=""></p><p>了解當你請 Gemini 幫你規劃旅行時，它如何提供個人化推薦並建立客製化的旅遊行程。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ford 需要另一款 Taurus，而 3 萬美元的 Fathom EV 皮卡不是</title>
-      <link>https://techcrunch.com/2026/08/06/ford-needs-another-taurus-and-the-30k-fathom-ev-pickup-isnt-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150745</guid>
-      <pubDate>Thu, 06 Aug 2026 17:41:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ford 執行長將全新的 Ford Fathom 形容為公司「Model T 時刻」。但這款電動皮卡不太可能達到這麼高的期待，也許它其實也不必如此。</description>
     </item>
     <item>
       <title>家長現在可以透過 Google Wallet 向孩子轉帳。</title>
@@ -869,9 +869,9 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20267/5df758f41b6c146ae15aaa12802759e4/6a72391a3d63324c1429b01d_osaia-logo-garden_press-kit_1920x1080_84_use/osaia-logo-garden_press-kit_1920x1080_84_use_thmb.png?v=2697a310-0e7b-4707-b107-25e36846df16" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20267/5df758f41b6c146ae15aaa12802759e4/6a72391a3d63324c1429b01d_osaia-logo-garden_press-kit_1920x1080_84_use/osaia-logo-garden_press-kit_1920x1080_84_use_thmb.png?v=2697a310-0e7b-4707-b107-25e36846df16"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20267/5df758f41b6c146ae15aaa12802759e4/6a72391a3d63324c1429b01d_osaia-logo-garden_press-kit_1920x1080_84_use/osaia-logo-garden_press-kit_1920x1080_84_use_thmb.png?v=2697a310-0e7b-4707-b107-25e36846df16" alt=""></p><p>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</p>]]></content:encoded>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20267/50989c32e58bc9eda5f3804b0d99601c/6a765f823d6332bf06b14787_osaia-logo-garden_press-kit_1920x1080/osaia-logo-garden_press-kit_1920x1080_thmb.png?v=d85d534b-de3e-4ced-9011-45b14812d3ec" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20267/50989c32e58bc9eda5f3804b0d99601c/6a765f823d6332bf06b14787_osaia-logo-garden_press-kit_1920x1080/osaia-logo-garden_press-kit_1920x1080_thmb.png?v=d85d534b-de3e-4ced-9011-45b14812d3ec"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20267/50989c32e58bc9eda5f3804b0d99601c/6a765f823d6332bf06b14787_osaia-logo-garden_press-kit_1920x1080/osaia-logo-garden_press-kit_1920x1080_thmb.png?v=d85d534b-de3e-4ced-9011-45b14812d3ec" alt=""></p><p>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 如何擴展人們在工作中所做的事</title>
