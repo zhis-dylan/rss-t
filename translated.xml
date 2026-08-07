@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 07 Aug 2026 14:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 14:16:00 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 的 Terafab 將仰賴天然氣發電廠，而非 Tesla 太陽能板</title>
+      <link>https://techcrunch.com/2026/08/07/spacexs-terafab-will-rely-on-natural-gas-power-plants-not-tesla-solar-panels/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151112</guid>
+      <pubDate>Fri, 07 Aug 2026 14:07:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>SpaceX 和 Tesla 正在德州建造一座大型半導體晶圓廠，該廠將依賴天然氣發電廠，而不是 Tesla 太陽能板。</description>
+    </item>
     <item>
       <title>創辦人參加 TechCrunch Disrupt 2026 指南：你需要知道的一切</title>
       <link>https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</link>
@@ -222,15 +231,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Thumbnail-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Thumbnail-1.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Thumbnail-1.jpg?fit=1920%2C1080" alt=""></p><p>開發者與創作者 Tom Shaw 與 Meta 的資料中心副總裁 Rachel Peterson 對談，討論 Meta 如何建造世界上最大的一些運算設施。<br>這篇〈為什麼 Meta 要打造自己的 AI 資料中心〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>eBay 持續押注直播購物，延續創紀錄的季度表現</title>
-      <link>https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150662</guid>
-      <pubDate>Thu, 06 Aug 2026 14:17:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>eBay 宣稱 eBay Live 的商品交易總額有所增加，並計劃在未來幾週和幾個月內將其擴展到更多國際市場。</description>
     </item>
     <item>
       <title>我們的 WeatherNext 2 AI 模型在預測颶風方面展現出巨大的躍進。</title>
