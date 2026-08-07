@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 07 Aug 2026 12:30:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 12:45:26 GMT</lastBuildDate>
+    <item>
+      <title>創辦人參加 TechCrunch Disrupt 2026 指南：你需要知道的一切</title>
+      <link>https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151020</guid>
+      <pubDate>Fri, 07 Aug 2026 12:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch Disrupt 2026 圍繞著一個問題打造：你要如何在 AI 時代建立一家能長久經營的公司？我們的議程與講者陣容都反映了這一點。</description>
+    </item>
     <item>
       <title>新墨西哥州法院命令 Meta 在兒童安全案件中額外支付 5.67 億美元</title>
       <link>https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/</link>
@@ -234,15 +243,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WN-cyclones_header_blog_16x9_bl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WN-cyclones_header_blog_16x9_bl.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WN-cyclones_header_blog_16x9_bl.max-600x600.format-webp.webp" alt=""></p><p>Google DeepMind 的 WeatherNext 2 在颶風預測方面展現了最先進的準確度。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在法律訴訟之際，Suno 表示將開始為歌曲加上浮水印</title>
-      <link>https://techcrunch.com/2026/08/06/amid-legal-battles-suno-says-it-will-start-watermarking-songs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150555</guid>
-      <pubDate>Thu, 06 Aug 2026 13:31:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Suno 的浮水印功能推出之際，該公司正面臨多方的法律訴訟。</description>
     </item>
     <item>
       <title>GeForce NOW 在 8 月帶來 26 款新遊戲</title>
