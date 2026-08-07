@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 07 Aug 2026 16:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:16:57 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 推出 Kitesurf，一款為 AI 代理打造的瀏覽器</title>
+      <link>https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151175</guid>
+      <pubDate>Fri, 07 Aug 2026 16:16:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Cloudflare 推出了 Kitesurf，這是一款雲端託管的瀏覽器，專為 AI 代理而非人類設計。該公司表示，這款瀏覽器在常見自動化任務上比 Chromium 消耗更少的運算資源，有助開發者更有效率地打造基於瀏覽器的 AI 代理。</description>
+    </item>
+    <item>
+      <title>電腦製造商 Framework 通知「所有客戶」發生資料外洩</title>
+      <link>https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151194</guid>
+      <pubDate>Fri, 07 Aug 2026 16:09:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Framework 告知「所有」客戶，駭客在一次資料外洩事件中存取了他們的姓名、電子郵件地址、電話號碼和實體地址。</description>
+    </item>
     <item>
       <title>川普政府已花費近 40 億美元取消離岸風電場</title>
       <link>https://techcrunch.com/2026/08/07/trump-administration-has-spent-nearly-4b-to-cancel-offshore-wind-farms/</link>
@@ -200,24 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>更進一步把 vibe-coding 推向實作，Naive 宣稱其基礎架構可以自動化創辦和營運一家企業的大部分工作。</description>
-    </item>
-    <item>
-      <title>駭客承認竊取超過 165 家 Snowflake 客戶資料罪名</title>
-      <link>https://techcrunch.com/2026/08/06/hacker-pleads-guilty-to-stealing-data-from-more-than-165-snowflake-customers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150760</guid>
-      <pubDate>Thu, 06 Aug 2026 16:42:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Connor Moucka 承認入侵並竊取超過 165 家 Snowflake 客戶的資料，讓他和共犯獲得超過 250 萬美元的贖金付款。</description>
-    </item>
-    <item>
-      <title>TikTok 裁員 250 名員工，關閉納什維爾辦公室</title>
-      <link>https://techcrunch.com/2026/08/06/tiktok-lays-off-250-employees-shutters-its-nashville-office/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150707</guid>
-      <pubDate>Thu, 06 Aug 2026 16:06:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家社群媒體巨頭正在關閉一間辦公室，該辦公室曾容納 TikTok 內容審核團隊的部分成員。</description>
     </item>
     <item>
       <title>家長現在可以透過 Google Wallet 向孩子轉帳。</title>
