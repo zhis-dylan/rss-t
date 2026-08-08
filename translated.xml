@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 08 Aug 2026 10:24:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 10:39:18 GMT</lastBuildDate>
+    <item>
+      <title>Firebird 在亞美尼亞推出獨立國家國協地區最大 AI 工廠</title>
+      <link>https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/</guid>
+      <pubDate>Sat, 08 Aug 2026 10:24:54 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>全球 AI 基礎設施的建置今天達到一個新的里程碑——新興的 AI 雲端 Firebird 在亞美尼亞推出了獨立國家國協地區最大 AI 工廠，建立一個由 NVIDIA 加速運算與 Dell Technologies 高效能 AI 基礎設施驅動的新 AI 運算樞紐。亞美尼亞共和國總理 Nikol Pashinyan；Zhaslan Madiyev，副 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529" alt=""></p><p>全球 AI 基礎設施的建置今天達到一個新的里程碑——新興的 AI 雲端 Firebird 在亞美尼亞推出了獨立國家國協地區最大 AI 工廠，建立一個由 NVIDIA 加速運算與 Dell Technologies 高效能 AI 基礎設施驅動的新 AI 運算樞紐。亞美尼亞共和國總理 Nikol Pashinyan；Zhaslan Madiyev，副 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>OpenAI 表示因安全疑慮而放慢 Astra 模型開發</title>
       <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
@@ -1047,15 +1059,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT 中的健康功能現在讓符合資格的美國使用者能安全連結醫療紀錄和 Apple Health，以取得更個人化的洞察並更了解自己的健康狀況。</description>
-    </item>
-    <item>
-      <title>NVIDIA 開源首個 GPU 加速的醫學物理模擬框架</title>
-      <link>https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/medical-physics-simulation-open-source/</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:11 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在醫療機器人能真正派上用場之前，它必須先學會如何回應現實世界。人體解剖結構各不相同。器械會彎曲、施壓、滑動，並與組織互動。影像可能充滿雜訊或不完整。而開發人員最需要理解的罕見邊緣情境，往往不會按時出現。這造成了其中一個[…]</description>
     </item>
     <item>
       <title>與艾芬厄姆郡社區一起打造 AI 基礎設施</title>
