@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 08 Aug 2026 06:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 06:52:47 GMT</lastBuildDate>
     <item>
       <title>OpenAI 表示因安全疑慮而放慢 Astra 模型開發</title>
       <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
@@ -278,18 +278,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/d6f9b30fdbeb852e4940643c7ce59212/6a7485993d6332ba4196a955_gfn-thursday-8-6-nv-blog-1280x680-logo-842x450/gfn-thursday-8-6-nv-blog-1280x680-logo-842x450_thmb.jpg?v=af6f12c1-0246-45c5-ae86-fffe7dd8fd7e" alt=""></p><p>8 月來了，為 GeForce NOW 會員帶來 26 款新遊戲。指揮《World of Warships: Legends》中的海上戰局，並從本週新加入的 8 款遊戲開始，探索 GeForce NOW 遊戲庫的下一步。另外，GeForce NOW 本週也在德州 Grapevine 舉行的 QuakeCon 遊戲大會現場，帶來實機體驗 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>走進 Google Arts &amp; Culture 的探戈世界</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過全新的 Google Arts &amp; Culture 藏品，探索阿根廷探戈豐富的歷史、熱情的舞者，以及歷久不衰的傳承。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp" alt=""></p><p>透過全新的 Google Arts &amp;amp; Culture 藏品，探索阿根廷探戈豐富的歷史、熱情的舞者，以及歷久不衰的傳承。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>進入 Omniverse：開放世界模型如何推進實體 AI 的前沿</title>
       <link>https://blogs.nvidia.com/blog/open-world-models-physical-ai/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-world-models-physical-ai/</guid>
@@ -300,6 +288,18 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/8643e8c980bfcf1c3c0437618d1a65d0/6a74859e3d6332ba4196a95c_nv-ov-ito-social-1920x1080-1-842x450/nv-ov-ito-social-1920x1080-1-842x450_thmb.jpg?v=45641c00-9197-4e5e-8c94-14898ced7196" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/8643e8c980bfcf1c3c0437618d1a65d0/6a74859e3d6332ba4196a95c_nv-ov-ito-social-1920x1080-1-842x450/nv-ov-ito-social-1920x1080-1-842x450_thmb.jpg?v=45641c00-9197-4e5e-8c94-14898ced7196"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/8643e8c980bfcf1c3c0437618d1a65d0/6a74859e3d6332ba4196a95c_nv-ov-ito-social-1920x1080-1-842x450/nv-ov-ito-social-1920x1080-1-842x450_thmb.jpg?v=45641c00-9197-4e5e-8c94-14898ced7196" alt=""></p><p>7 月，NVIDIA 與 200 多家企業和組織共同簽署〈Open Weights and American AI Leadership〉，這是一封公開信，主張 AI 領導地位的衡量標準不會是任何單一前沿模型，而是開放生態系能否觸及每個產業。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>走進 Google Arts &amp; Culture 的探戈世界</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/argentina-tango-collection/</guid>
+      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過全新的 Google Arts &amp; Culture 藏品，探索阿根廷探戈豐富的歷史、熱情的舞者，以及歷久不衰的傳承。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tango_hero.max-600x600.format-webp.webp" alt=""></p><p>透過全新的 Google Arts &amp;amp; Culture 藏品，探索阿根廷探戈豐富的歷史、熱情的舞者，以及歷久不衰的傳承。</p>]]></content:encoded>
     </item>
     <item>
       <title>Ask Maps 變得更實用，可點餐等更多功能</title>
