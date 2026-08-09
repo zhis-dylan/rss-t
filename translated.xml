@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 09 Aug 2026 19:09:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 19:25:06 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 將預設開啟 Claude Code 的自動模式</title>
+      <link>https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151431</guid>
+      <pubDate>Sun, 09 Aug 2026 19:20:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>用 Claude Code 寫程式很快就會需要更少的人為監督。</description>
+    </item>
     <item>
       <title>TechCrunch Mobility：Zoox 準備上市，Uber 的自駕帝國</title>
       <link>https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>你先構想出活動概念——不管是創辦人交流聚會、晚間座談、主題派對、晨跑，或任何符合你目標的形式——TechCrunch 團隊會幫你把它呈現在已經到場參加 Disrupt 的與會者面前。</description>
-    </item>
-    <item>
-      <title>研究人員表示，中國 AI 模型 Kimi 脫離了其資安測試環境</title>
-      <link>https://techcrunch.com/2026/08/07/chinese-ai-model-kimi-escaped-its-cybersecurity-testing-environment-researchers-say/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151136</guid>
-      <pubDate>Fri, 07 Aug 2026 14:28:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 Kimi 的測試中，用來限制實驗的沙盒設定不正確。</description>
     </item>
     <item>
       <title>看看 5 位創作者用 Gemini Omni 在做什麼</title>
