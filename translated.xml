@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 09 Aug 2026 13:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 14:07:46 GMT</lastBuildDate>
+    <item>
+      <title>這種「對抗性」圖案可以防止監視攝影機偵測到你</title>
+      <link>https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151149</guid>
+      <pubDate>Sun, 09 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一名資安研究人員設計出一種演算法，能生成電腦製作的圖案，讓監視攝影機無法偵測到人、臉孔和車輛。</description>
+    </item>
     <item>
       <title>這個曾經惡名昭彰的紅燈區，如今已成為全球頂尖 AI 樞紐之一</title>
       <link>https://techcrunch.com/2026/08/09/this-former-notorious-red-light-district-is-now-one-of-the-worlds-top-ai-hubs/</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TechCrunch Disrupt 2026 圍繞著一個問題打造：你要如何在 AI 時代建立一家能長久經營的公司？我們的議程與講者陣容都反映了這一點。</description>
-    </item>
-    <item>
-      <title>新墨西哥州法院命令 Meta 在兒童安全案件中額外支付 5.67 億美元</title>
-      <link>https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151093</guid>
-      <pubDate>Fri, 07 Aug 2026 11:40:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 在這起案件中的總罰款已累計至 9.42 億美元</description>
     </item>
     <item>
       <title>HSP GRUPPE 如何打造 AI 能力以支援稅務諮詢</title>
