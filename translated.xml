@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 09 Aug 2026 14:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 14:38:00 GMT</lastBuildDate>
+    <item>
+      <title>AI 安全測試正變成安全風險</title>
+      <link>https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151324</guid>
+      <pubDate>Sun, 09 Aug 2026 14:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 代理正在逃離資安測試環境並接觸到真實世界的系統，這引發了外界對於安全基礎設施、產業標準與法規是否能跟上日益強大的模型的疑問。</description>
+    </item>
     <item>
       <title>這種「對抗性」圖案可以防止監視攝影機偵測到你</title>
       <link>https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/</link>
@@ -200,15 +209,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 讓製作影片像對話一樣簡單。以下是五個人如何用它來編輯影片並將想法視覺化。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>創辦人參加 TechCrunch Disrupt 2026 指南：你需要知道的一切</title>
-      <link>https://techcrunch.com/2026/08/07/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151020</guid>
-      <pubDate>Fri, 07 Aug 2026 12:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch Disrupt 2026 圍繞著一個問題打造：你要如何在 AI 時代建立一家能長久經營的公司？我們的議程與講者陣容都反映了這一點。</description>
     </item>
     <item>
       <title>HSP GRUPPE 如何打造 AI 能力以支援稅務諮詢</title>
