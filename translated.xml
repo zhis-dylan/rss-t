@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 14:02:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 14:17:45 GMT</lastBuildDate>
+    <item>
+      <title>註冊了 Klaviyo 嗎？數十家廣告商可能看過你的密碼</title>
+      <link>https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151196</guid>
+      <pubDate>Mon, 10 Aug 2026 14:14:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家科技巨頭網站的一個錯誤，誤將使用者的註冊資訊，包括個人資料和密碼，分享給第三方公司。</description>
+    </item>
     <item>
       <title>OpenAI 致艾伯特州長關於德州負責任 AI 基礎設施的信</title>
       <link>https://openai.com/index/responsible-ai-infrastructure-texas</link>
@@ -244,15 +253,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Cloudflare 推出了 Kitesurf，這是一款雲端託管的瀏覽器，專為 AI 代理而非人類設計。該公司表示，這款瀏覽器在常見自動化任務上比 Chromium 消耗更少的運算資源，有助開發者更有效率地打造基於瀏覽器的 AI 代理。</description>
-    </item>
-    <item>
-      <title>電腦製造商 Framework 通知「所有客戶」發生資料外洩</title>
-      <link>https://techcrunch.com/2026/08/07/computer-maker-framework-notifies-all-customers-of-a-data-breach/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151194</guid>
-      <pubDate>Fri, 07 Aug 2026 16:09:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Framework 告知「所有」客戶，駭客在一次資料外洩事件中存取了他們的姓名、電子郵件地址、電話號碼和實體地址。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
