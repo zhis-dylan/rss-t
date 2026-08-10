@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 19:50:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:06:06 GMT</lastBuildDate>
+    <item>
+      <title>科技業因 Claude 智能代理入侵健身房而熱議</title>
+      <link>https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151503</guid>
+      <pubDate>Mon, 10 Aug 2026 20:04:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一個 OpenClaw 智能代理入侵了健身房的預約系統，把它的人類老闆在某堂課的候補名單往前推。科技業也因此注意到了這件事。</description>
+    </item>
     <item>
       <title>Aptoide 成為首個重返美國 Google Play 的競爭應用程式商店</title>
       <link>https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/</link>
@@ -292,15 +301,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>作為德州一座規劃中的資料中心的一部分，Amazon 正投資興建一座現場發電廠，據報導，這座電廠可能會成為美國最大的氣候污染來源。</description>
-    </item>
-    <item>
-      <title>OpenAI 收購簡報新創 NextSlide</title>
-      <link>https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151377</guid>
-      <pubDate>Sat, 08 Aug 2026 19:41:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>NextSlide 表示，其團隊成員目前正在為 ChatGPT 工作。</description>
     </item>
     <item>
       <title>Firebird 在亞美尼亞推出獨立國家國協地區最大 AI 工廠</title>
