@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 13:17:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 13:32:17 GMT</lastBuildDate>
     <item>
       <title>Meta 支持德州州長 Greg Abbott 的資料中心標準</title>
       <link>https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/</link>
@@ -18,6 +18,15 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>Meta 支持德州州長 Greg Abbott 對負責任的資料中心發展的承諾，而且我們全額支付資料中心的能源與用水成本，不會把這些成本轉嫁給消費者。<br>這篇文章 Meta 支持德州州長 Greg Abbott 的資料中心標準 最早出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Model ML 使用 GPT-5.6 Sol 更有效率地完成財務工作</title>
+      <link>https://openai.com/index/model-ml</link>
+      <guid isPermaLink="false">https://openai.com/index/model-ml</guid>
+      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Model ML 使用 GPT-5.6 Sol，將財務工作從研究與分析一路延伸到可編輯、可追蹤的 PowerPoint 簡報與 Excel 活頁簿。</description>
     </item>
     <item>
       <title>Venmo 現在提供你在 Google Play 上付款的新方式。</title>
@@ -1949,15 +1958,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Travelers 與 OpenAI 打造了 AI 驅動的理賠助手 Claim Assistant，引導客戶完成理賠申請、提供 24/7 支援，並在需求高峰期間擴展營運。</description>
-    </item>
-    <item>
-      <title>ChatGPT Sites</title>
-      <link>https://openai.com/academy/chatgpt-sites</link>
-      <guid isPermaLink="false">https://openai.com/academy/chatgpt-sites</guid>
-      <pubDate>Tue, 02 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 Codex 建立那種輕量級網站或應用程式。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
