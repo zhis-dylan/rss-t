@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 14:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 14:32:58 GMT</lastBuildDate>
+    <item>
+      <title>運用全新 AI 工具讓你的行銷持續進化</title>
+      <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</guid>
+      <pubDate>Mon, 10 Aug 2026 14:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解 Google Ads 和 Google Analytics 中全新的 AI 與代理式體驗如何簡化你的行銷工作流程。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp" alt=""></p><p>了解 Google Ads 和 Google Analytics 中全新的 AI 與代理式體驗如何簡化你的行銷工作流程。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>航運巨頭 Ceva Logistics 的資料外洩波及銀行、零售商、Steam 玩家等各方</title>
+      <link>https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151452</guid>
+      <pubDate>Mon, 10 Aug 2026 14:20:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>依賴 Ceva Logistics 將實體商品寄送給顧客的公司表示，他們的個人資料在最近一次網路攻擊中被竊取。</description>
+    </item>
     <item>
       <title>註冊了 Klaviyo 嗎？數十家廣告商可能看過你的密碼</title>
       <link>https://techcrunch.com/2026/08/10/signed-up-for-klaviyo-dozens-of-advertisers-may-have-seen-your-password/</link>
@@ -244,15 +265,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>研究人員發現，像是用來整理和顯示網頁內容的軟體等常見故障點，可能會讓駭客在政府網站上大肆入侵。</description>
-    </item>
-    <item>
-      <title>Cloudflare 推出 Kitesurf，一款為 AI 代理打造的瀏覽器</title>
-      <link>https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151175</guid>
-      <pubDate>Fri, 07 Aug 2026 16:16:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cloudflare 推出了 Kitesurf，這是一款雲端託管的瀏覽器，專為 AI 代理而非人類設計。該公司表示，這款瀏覽器在常見自動化任務上比 Chromium 消耗更少的運算資源，有助開發者更有效率地打造基於瀏覽器的 AI 代理。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -759,18 +771,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screentime_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screentime_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screentime_Hero.max-600x600.format-webp.webp" alt=""></p><p>聽聽 Garth Graham 醫師分享他在自己家中如何訂定規則，以及關於溝通螢幕使用時間的實用方法。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們正在 Google Flow Music 推出 Lyria 3.5，在音樂性、歌詞、演唱和創意控制方面都有進展。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/lyria-3-5/</guid>
-      <pubDate>Wed, 29 Jul 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們最新的音樂生成模型 Lyria 3.5，在音樂性、歌詞和人聲品質方面都有顯著進展，讓你能打造更豐富的曲目。我們…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria3.5_social.max-600x600.format-webp.webp" alt=""></p><p>我們最新的音樂生成模型 Lyria 3.5，在音樂性、歌詞和人聲品質方面都有顯著進展，讓你能打造更豐富的曲目。我們…</p>]]></content:encoded>
     </item>
     <item>
       <title>啟用兩個設定如何讓我們在 ARC-AGI-3 基準測試的分數翻了三倍</title>
