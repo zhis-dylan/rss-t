@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 18:20:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:35:26 GMT</lastBuildDate>
+    <item>
+      <title>Aptoide 成為首個重返美國 Google Play 的競爭應用程式商店</title>
+      <link>https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151571</guid>
+      <pubDate>Mon, 10 Aug 2026 18:31:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Aptoide 在超過十年後，將其遊戲商店帶回 Google Play，因法院命令的變更讓 Android 開放給競爭的應用程式商店。</description>
+    </item>
+    <item>
+      <title>社群媒體平台在上訴失敗後，仍面臨數千起使用者成癮訴訟</title>
+      <link>https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151567</guid>
+      <pubDate>Mon, 10 Aug 2026 18:30:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>像 Meta、TikTok、Snapchat 和 Google 這類平台正面臨漫長的訴訟之路。</description>
+    </item>
+    <item>
+      <title>YouTube 現在要求創作者要有兩倍的觀看時數才能開始賺錢</title>
+      <link>https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151573</guid>
+      <pubDate>Mon, 10 Aug 2026 18:27:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>想要在平台上開始賺錢的創作者，過去一年內需要至少 8,000 個符合資格的觀看時數，或是在過去 90 天內有 2,000 萬次符合資格的 Shorts 觀看次數。</description>
+    </item>
     <item>
       <title>Clicks 的 Power Keyboard 為任何手機帶來 BlackBerry 風格的打字體驗——但有一些取捨</title>
       <link>https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/</link>
@@ -177,6 +204,15 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>祖克柏寫給大家的一封信，談邁向正向 AI 未來的路。<br>「未來屬於每個人」這篇貼文最初出現在 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
+      <title>隨著網路防禦窗口縮小，擴展 Daybreak</title>
+      <link>https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</link>
+      <guid isPermaLink="false">https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows</guid>
+      <pubDate>Mon, 10 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
+    </item>
+    <item>
       <title>ChatGPT Business 即將推出進階席位</title>
       <link>https://openai.com/index/premium-seats-chatgpt-business</link>
       <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
@@ -265,33 +301,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>NextSlide 表示，其團隊成員目前正在為 ChatGPT 工作。</description>
-    </item>
-    <item>
-      <title>X 以 Original Content Rewards 取代「不一致」的營收分潤計畫</title>
-      <link>https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151374</guid>
-      <pubDate>Sat, 08 Aug 2026 16:34:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>X 正在結束其現有的營收分潤計畫。</description>
-    </item>
-    <item>
-      <title>Kindle Scribe Colorsoft 很有趣，但它不是必買的</title>
-      <link>https://techcrunch.com/2026/08/08/the-kindle-scribe-colorsoft-is-a-lot-of-fun-but-its-not-a-must-have/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151237</guid>
-      <pubDate>Sat, 08 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>雖然這台裝置外型漂亮又輕巧，但因為價格高、尺寸大，並不是一般人日常會需要的東西。</description>
-    </item>
-    <item>
-      <title>Google 頂尖駭客獵人解釋為什麼駭客組織會有代號</title>
-      <link>https://techcrunch.com/2026/08/08/googles-top-hacker-hunter-explains-why-hacking-groups-get-codenames/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151281</guid>
-      <pubDate>Sat, 08 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 最近改變了它對駭客組織的稱呼方式和命名方式。TechCrunch 與一位全球最頂尖的駭客追蹤專家之一談過，以了解公司為什麼要替駭客取代號。</description>
     </item>
     <item>
       <title>Firebird 在亞美尼亞推出獨立國家國協地區最大 AI 工廠</title>
@@ -1949,15 +1958,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>AI 驅動的生物韌性行動方案</description>
-    </item>
-    <item>
-      <title>介紹 GPT-Rosalind 的新功能</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
-      <pubDate>Wed, 03 Jun 2026 13:15:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-Rosalind 透過強化的生物推理、藥物化學專業、基因體分析與實驗流程能力，推進生命科學研究。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
