@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 14:48:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:03:14 GMT</lastBuildDate>
+    <item>
+      <title>Apple 與 MLB 公布 9 月「Friday Night Baseball」賽程</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/</guid>
+      <pubDate>Mon, 10 Aug 2026 14:59:21 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 與美國職棒大聯盟公布了「Friday Night Baseball」的 9 月賽程。</description>
+    </item>
     <item>
       <title>運用全新 AI 工具讓你的行銷持續進化</title>
       <link>https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/</link>
@@ -1886,15 +1895,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出經濟研究交流平台，用來研究 AI 對工作、生產力與經濟的影響。目前已開放申請入選研究專案。</description>
-    </item>
-    <item>
-      <title>Apple 與美國職棒大聯盟宣布 7 月「Friday Night Baseball」賽程</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/apple-and-major-league-baseball-announce-july-friday-night-baseball-schedule/</guid>
-      <pubDate>Thu, 04 Jun 2026 15:59:08 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 與美國職棒大聯盟已宣布 Apple TV 上「Friday Night Baseball」的 7 月賽程，將帶來多場焦點對戰。</description>
     </item>
     <item>
       <title>Endava 如何圍繞 AI agent 重新設計軟體交付</title>
