@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:05:04 GMT</lastBuildDate>
+    <item>
+      <title>Clicks 的 Power Keyboard 為任何手機帶來 BlackBerry 風格的打字體驗——但有一些取捨</title>
+      <link>https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151469</guid>
+      <pubDate>Mon, 10 Aug 2026 18:00:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Clicks 售價 99 美元的 Power Keyboard 為支援 MagSafe 與 Qi2 的智慧型手機帶來可自訂的滑出式實體鍵盤，但額外增加的重量可能會讓較大的手機不太好用</description>
+    </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
       <link>https://openai.com/index/building-an-ai-native-finance-function</link>
@@ -295,15 +304,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529" alt=""></p><p>全球 AI 基礎設施的建置今天達到一個新的里程碑——新興的 AI 雲端 Firebird 在亞美尼亞推出了獨立國家國協地區最大 AI 工廠，建立一個由 NVIDIA 加速運算與 Dell Technologies 高效能 AI 基礎設施驅動的新 AI 運算樞紐。亞美尼亞共和國總理 Nikol Pashinyan；Zhaslan Madiyev，副 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 表示因安全疑慮而放慢 Astra 模型開發</title>
-      <link>https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151331</guid>
-      <pubDate>Fri, 07 Aug 2026 22:48:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 表示，因擔心其網路安全能力，已暫停 Astra 即將推出模型的部分開發工作。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
