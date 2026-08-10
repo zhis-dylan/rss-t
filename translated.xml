@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:37:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 22:52:34 GMT</lastBuildDate>
     <item>
       <title>現在 Rippling 也反告小型新創公司 Runlayer</title>
       <link>https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/</link>
@@ -277,6 +277,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+    </item>
+    <item>
+      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
       <title>飽受爭議的避險基金 Situational Awareness 向晶片新創公司 Source Foundry 投資 4 億美元</title>
@@ -1949,15 +1958,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Endava 如何運用 AI agent、ChatGPT Enterprise 和 Codex，加速軟體交付、自動化工作流程，並在企業內打造 AI 原生文化。</description>
-    </item>
-    <item>
-      <title>夢想：更好的記憶，讓 ChatGPT 更有幫助</title>
-      <link>https://openai.com/index/chatgpt-memory-dreaming</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-memory-dreaming</guid>
-      <pubDate>Thu, 04 Jun 2026 09:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT 推出新的記憶系統，以更好地記住偏好，讓跨對話的內容保持新鮮且相關。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
