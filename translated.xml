@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 16:49:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:04:32 GMT</lastBuildDate>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
       <link>https://openai.com/index/building-an-ai-native-finance-function</link>
@@ -166,6 +166,15 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>祖克柏寫給大家的一封信，談邁向正向 AI 未來的路。<br>「未來屬於每個人」這篇貼文最初出現在 Meta 新聞室。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>ChatGPT Business 即將推出進階席位</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
       <title>飽受爭議的避險基金 Situational Awareness 向晶片新創公司 Source Foundry 投資 4 億美元</title>
@@ -458,6 +467,24 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>今天，Google 和 Alphabet 執行長 Sundar Pichai 向 Google DeepMind 團隊分享了一些變動。</description>
+    </item>
+    <item>
+      <title>將前沿資安模型交到更值得信任的人手中</title>
+      <link>https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</link>
+      <guid isPermaLink="false">https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands</guid>
+      <pubDate>Wed, 05 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>經核准的 Daybreak 合作夥伴可使用 OpenAI 的前沿資安模型，向客戶提供獲授權且受治理的資安服務。</description>
+    </item>
+    <item>
+      <title>推出 GPT-Daybreak，加速防禦者的工作</title>
+      <link>https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy</link>
+      <guid isPermaLink="false">https://openai.com/index/accelerating-defenders-with-gpt-daybreak-legacy</guid>
+      <pubDate>Wed, 05 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>供防禦者使用的前沿資安模型，從廣泛的防禦工作到進階資安研究皆適用。</description>
     </item>
     <item>
       <title>涉及 OpenAI 模型的第三方資安評估</title>
@@ -1931,33 +1958,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>AI 驅動的生物韌性行動方案</description>
-    </item>
-    <item>
-      <title>介紹 GPT-Rosalind 的新功能</title>
-      <link>https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind</guid>
-      <pubDate>Wed, 03 Jun 2026 13:15:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-Rosalind 透過強化的生物推理、醫藥化學專業、基因體學分析以及實驗工作流程能力，推動生命科學研究進展。</description>
-    </item>
-    <item>
-      <title>Wasmer 如何使用 Codex 打造適用於邊緣端的 Node.js 執行環境</title>
-      <link>https://openai.com/index/wasmer</link>
-      <guid isPermaLink="false">https://openai.com/index/wasmer</guid>
-      <pubDate>Wed, 03 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Wasmer 如何搭配 GPT-5.5 使用 Codex 打造適用於邊緣端的 Node.js 執行環境，將開發速度加快 10 倍到 20 倍，並在數週內而非數月內完成推出。</description>
-    </item>
-    <item>
-      <title>前沿 AI 民主治理藍圖</title>
-      <link>https://openai.com/index/frontier-safety-blueprint</link>
-      <guid isPermaLink="false">https://openai.com/index/frontier-safety-blueprint</guid>
-      <pubDate>Wed, 03 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 概述了美國前沿 AI 治理藍圖，提出聯邦框架以保障安全、韌性與國家安全。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
