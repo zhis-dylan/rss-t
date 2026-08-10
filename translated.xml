@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 20:06:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 20:21:17 GMT</lastBuildDate>
     <item>
       <title>科技業因 Claude 智能代理入侵健身房而熱議</title>
       <link>https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一個 OpenClaw 智能代理入侵了健身房的預約系統，把它的人類老闆在某堂課的候補名單往前推。科技業也因此注意到了這件事。</description>
+    </item>
+    <item>
+      <title>NVIDIA 與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 合作建立 AI 運算基礎設施融資平台，以動員超過 5,000 億美元的第三方資本</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital</guid>
+      <pubDate>Mon, 10 Aug 2026 20:01:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 建立獨立運算融資平台的策略合作，以動員超過 5,000 億美元的第三方資本。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA 今日宣布與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 建立獨立運算融資平台的策略合作，以動員超過 5,000 億美元的第三方資本。</p>]]></content:encoded>
     </item>
     <item>
       <title>Aptoide 成為首個重返美國 Google Play 的競爭應用程式商店</title>
@@ -1101,18 +1113,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 與 Ford 宣布，Apple Maps 將透過 MapKit for Automotive SDK 直接整合進 Ford 的 UEV Platform。</description>
-    </item>
-    <item>
-      <title>NVIDIA AI 超級電腦在海軍研究院正式上線</title>
-      <link>https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/naval-postgraduate-school-dgx-ai-supercomputer/</guid>
-      <pubDate>Thu, 23 Jul 2026 02:00:46 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 創辦人暨執行長黃仁勳今日造訪位於加州蒙特雷的海軍研究院，正式啟用一套 NVIDIA DGX GB300 系統，讓這個世界上最強大的 AI 平台之一，完整上線供美國軍方旗艦研究所的學生、研究人員與教職員使用。「我們的國家仰賴我們的男女軍人 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/33d1d43bbac80839414a1d268ef0a479/6a61760f3d6332733a6ed026_260722-N-UT641-7052-842x450/260722-N-UT641-7052-842x450_thmb.jpg?v=39f1aba7-bdac-494f-90a9-67ef354e2f57" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/33d1d43bbac80839414a1d268ef0a479/6a61760f3d6332733a6ed026_260722-N-UT641-7052-842x450/260722-N-UT641-7052-842x450_thmb.jpg?v=39f1aba7-bdac-494f-90a9-67ef354e2f57"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/33d1d43bbac80839414a1d268ef0a479/6a61760f3d6332733a6ed026_260722-N-UT641-7052-842x450/260722-N-UT641-7052-842x450_thmb.jpg?v=39f1aba7-bdac-494f-90a9-67ef354e2f57" alt=""></p><p>NVIDIA 創辦人暨執行長黃仁勳今日造訪位於加州蒙特雷的海軍研究院，正式啟用一套 NVIDIA DGX GB300 系統，讓這個世界上最強大的 AI 平台之一，完整上線供美國軍方旗艦研究所的學生、研究人員與教職員使用。「我們的國家仰賴我們的男女軍人 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>在 ChatGPT 中推出健康功能</title>
