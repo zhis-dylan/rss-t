@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 10:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 10:15:34 GMT</lastBuildDate>
+    <item>
+      <title>未來屬於每個人</title>
+      <link>https://about.fb.com/news/2026/08/the-future-is-for-everyone/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=49866</guid>
+      <pubDate>Mon, 10 Aug 2026 10:01:23 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>祖克柏寫給大家的一封信，談邁向正向 AI 未來的路。
+「未來屬於每個人」這篇貼文最初出現在 Meta 新聞室。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>祖克柏寫給大家的一封信，談邁向正向 AI 未來的路。<br>「未來屬於每個人」這篇貼文最初出現在 Meta 新聞室。</p>]]></content:encoded>
+    </item>
     <item>
       <title>飽受爭議的避險基金 Situational Awareness 向晶片新創公司 Source Foundry 投資 4 億美元</title>
       <link>https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/</link>
@@ -980,19 +993,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Seller-an-App-for-Facebook-Marketplace-Sellers_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Seller-an-App-for-Facebook-Marketplace-Sellers_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Seller-an-App-for-Facebook-Marketplace-Sellers_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出 Seller，這是一款可協助 Marketplace 賣家簡化作業的新應用程式。<br>〈Introducing Seller, an App for Facebook Marketplace Sellers〉一文最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在 Facebook 上串連真人</title>
-      <link>https://about.fb.com/news/2026/07/connecting-real-people-on-facebook/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49698</guid>
-      <pubDate>Fri, 24 Jul 2026 11:00:32 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們正在慶祝 Marketplace 10 週年，並推出新功能與專為此打造的應用程式，協助真人在 Facebook 上互相連結。
-〈Connecting Real People on Facebook〉一文最初發表於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Connecting-Real-People-on-Facebook_Header-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Connecting-Real-People-on-Facebook_Header-1.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Connecting-Real-People-on-Facebook_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>我們正在慶祝 Marketplace 10 週年，並推出新功能與專為此打造的應用程式，協助真人在 Facebook 上互相連結。<br>〈Connecting Real People on Facebook〉一文最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>在 AI 高峰會上，南韓勾勒出與 NVIDIA 和夥伴共創的 AI 未來</title>
