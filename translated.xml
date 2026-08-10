@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 15:03:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 15:18:23 GMT</lastBuildDate>
+    <item>
+      <title>Archer 收購前競爭對手 Wisk Aero</title>
+      <link>https://techcrunch.com/2026/08/10/archer-buys-former-rival-wisk-aero/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151453</guid>
+      <pubDate>Mon, 10 Aug 2026 15:09:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這兩家公司曾捲入一場商業機密竊取訴訟。現在，Wisk 正被併入 Archer。</description>
+    </item>
     <item>
       <title>Apple 與 MLB 公布 9 月「Friday Night Baseball」賽程</title>
       <link>https://www.apple.com/newsroom/2026/08/apple-mlb-announce-september-friday-night-baseball-schedule/</link>
@@ -265,15 +274,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Movinkpad 11 是一款多功能的小型繪圖板，能幫助你把最狂想的數位藝術夢想變成現實。</description>
-    </item>
-    <item>
-      <title>安全研究人員掃描了波蘭網路，發現法院、醫院和機場有遭駭風險</title>
-      <link>https://techcrunch.com/2026/08/07/security-researchers-scanned-the-polish-web-and-found-courts-hospitals-and-airports-at-risk-of-hacks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151288</guid>
-      <pubDate>Fri, 07 Aug 2026 21:00:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>研究人員發現，像是用來整理和顯示網頁內容的軟體等常見故障點，可能會讓駭客在政府網站上大肆入侵。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
