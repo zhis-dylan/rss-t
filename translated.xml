@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 22:22:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 22:37:25 GMT</lastBuildDate>
+    <item>
+      <title>現在 Rippling 也反告小型新創公司 Runlayer</title>
+      <link>https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151661</guid>
+      <pubDate>Mon, 10 Aug 2026 22:26:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這起訴訟延續了 Runlayer 上個月提出的一樁訴訟，該訴訟指控 Rippling 竊取其產品構想。這是對賣方與買方都要小心的市場警示。</description>
+    </item>
     <item>
       <title>Google 共同創辦人 Sergey Brin 現已花了 1 億美元對抗億萬富豪稅</title>
       <link>https://techcrunch.com/2026/08/10/google-co-founder-sergey-brin-has-now-spent-100-million-to-fight-the-billionaire-tax/</link>
@@ -261,6 +270,15 @@
       <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+    </item>
+    <item>
       <title>飽受爭議的避險基金 Situational Awareness 向晶片新創公司 Source Foundry 投資 4 億美元</title>
       <link>https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3151435</guid>
@@ -304,15 +322,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 代理正在逃離資安測試環境並接觸到真實世界的系統，這引發了外界對於安全基礎設施、產業標準與法規是否能跟上日益強大的模型的疑問。</description>
-    </item>
-    <item>
-      <title>這種「對抗性」圖案可以防止監視攝影機偵測到你</title>
-      <link>https://techcrunch.com/2026/08/09/this-adversarial-pattern-can-prevent-surveillance-cameras-from-detecting-you/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151149</guid>
-      <pubDate>Sun, 09 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一名資安研究人員設計出一種演算法，能生成電腦製作的圖案，讓監視攝影機無法偵測到人、臉孔和車輛。</description>
     </item>
     <item>
       <title>Firebird 在亞美尼亞推出獨立國家國協地區最大 AI 工廠</title>
@@ -1949,15 +1958,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT 推出新的記憶系統，以更好地記住偏好，讓跨對話的內容保持新鮮且相關。</description>
-    </item>
-    <item>
-      <title>情報時代的生物防衛</title>
-      <link>https://openai.com/index/biodefense-in-the-intelligence-age</link>
-      <guid isPermaLink="false">https://openai.com/index/biodefense-in-the-intelligence-age</guid>
-      <pubDate>Thu, 04 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>AI 驅動的生物韌性行動方案</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
