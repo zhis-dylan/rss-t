@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 12:13:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 12:28:23 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 表示將為其 AI 模型生成的文字加上浮水印</title>
+      <link>https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151799</guid>
+      <pubDate>Tue, 11 Aug 2026 12:13:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 也將把 AI 生成內容的浮水印支援擴展到較舊的模型。</description>
+    </item>
     <item>
       <title>OpenAI 據報已完成 70 億美元員工股權收購要約</title>
       <link>https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/</link>
@@ -322,15 +331,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這檔專注於 AI 的避險基金仍在進行一些大手筆押注。</description>
-    </item>
-    <item>
-      <title>Anthropic 將預設開啟 Claude Code 的自動模式</title>
-      <link>https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151431</guid>
-      <pubDate>Sun, 09 Aug 2026 19:20:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>用 Claude Code 寫程式很快就會需要更少的人為監督。</description>
     </item>
     <item>
       <title>Firebird 在亞美尼亞推出獨立國家國協地區最大 AI 工廠</title>
