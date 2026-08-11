@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 18:47:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:02:10 GMT</lastBuildDate>
+    <item>
+      <title>Google 的 Gemini app 用戶數暴增至十億</title>
+      <link>https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152071</guid>
+      <pubDate>Tue, 11 Aug 2026 18:49:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Gemini 正在追趕 OpenAI 的 ChatGPT，後者在 6 月時達到 10 億每月活躍用戶。</description>
+    </item>
     <item>
       <title>Bluesky 的活躍用戶基礎正在萎縮，因為其重心已超出這款 App</title>
       <link>https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/</link>
@@ -290,15 +299,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據報 Jeff Bezos 即將買下他在運動隊伍中的第一筆股份：英國知名的利物浦足球俱樂部。</description>
-    </item>
-    <item>
-      <title>現在 Rippling 也反告小型新創公司 Runlayer</title>
-      <link>https://techcrunch.com/2026/08/10/now-rippling-is-counter-suing-tiny-startup-runlayer/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151661</guid>
-      <pubDate>Mon, 10 Aug 2026 22:26:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這起訴訟延續了 Runlayer 上個月提出的一樁訴訟，該訴訟指控 Rippling 竊取其產品構想。這是對賣方與買方都要小心的市場警示。</description>
     </item>
     <item>
       <title>NVIDIA 與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 合作建立 AI 運算基礎設施融資平台，以動員超過 5,000 億美元的第三方資本</title>
