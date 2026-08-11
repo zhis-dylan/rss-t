@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 13:28:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:44:08 GMT</lastBuildDate>
+    <item>
+      <title>北韓遠端 IT 人員曾為美國政府機構工作，FBI 表示</title>
+      <link>https://techcrunch.com/2026/08/11/north-korean-remote-it-staffer-worked-for-us-government-agency-says-fbi/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151818</guid>
+      <pubDate>Tue, 11 Aug 2026 13:40:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>調查顯示，北韓人員能夠滲透政府機構，以及民間組織和加密貨幣交易所。</description>
+    </item>
     <item>
       <title>NVIDIA 與本地 AI 社群推動開源模型與智慧代理</title>
       <link>https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/</link>
@@ -321,15 +330,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Venmo_social_share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Venmo_social_share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Venmo_social_share.max-600x600.format-webp.webp" alt=""></p><p>Venmo 現已可在 Google Play 上作為付款選項，讓你在結帳時有更多彈性。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Discovered Materials 正在玩 AI 打地鼠遊戲，以尋找更涼爽的晶片</title>
-      <link>https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151410</guid>
-      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Discovered Materials 募得 900 萬美元，以資助尋找更多新穎材料來打造更高效率的晶片。</description>
     </item>
     <item>
       <title>未來屬於每個人</title>
