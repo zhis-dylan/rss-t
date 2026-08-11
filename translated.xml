@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 15:30:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:45:22 GMT</lastBuildDate>
+    <item>
+      <title>達美航空調查有人在飛行途中架設假 Wi‑Fi 網路</title>
+      <link>https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151862</guid>
+      <pubDate>Tue, 11 Aug 2026 15:40:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據一位發言人表示，達美航空的機組人員因這起事件關閉了機上合法的 Wi‑Fi 網路約 30 分鐘。</description>
+    </item>
+    <item>
+      <title>2025 年下載量最高的遊戲《Block Blast!》即將在 Apple Arcade 取消廣告</title>
+      <link>https://techcrunch.com/2026/08/11/2025s-most-downloaded-game-block-blast-is-going-ad-free-on-apple-arcade/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151851</guid>
+      <pubDate>Tue, 11 Aug 2026 15:33:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>2025 年下載量最高的手機遊戲《Block Blast!》將於 9 月登陸 Apple Arcade，屆時將不含廣告。</description>
+    </item>
+    <item>
+      <title>Rivian 執行長 RJ Scaringe 同時押注電動車、機器人與自動駕駛——他將在 Disrupt 2026 說明原因</title>
+      <link>https://techcrunch.com/2026/08/11/rivian-ceo-rj-scaringe-is-betting-on-evs-robots-and-autonomy-all-at-once-hell-explain-why-at-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151727</guid>
+      <pubDate>Tue, 11 Aug 2026 15:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Rivian 執行長 RJ Scaringe 將在 TechCrunch Disrupt 2026 分享他的經歷，以及這段旅程帶給他的體悟。</description>
+    </item>
     <item>
       <title>FlightAware 控告 Kalshi 涉及航班取消預測市場</title>
       <link>https://techcrunch.com/2026/08/11/flightaware-sues-kalshi-over-flight-cancellation-prediction-markets/</link>
@@ -241,15 +268,6 @@
       <description>想要在平台上開始賺錢的創作者，過去一年內需要至少 8,000 個符合資格的觀看時數，或是在過去 90 天內有 2,000 萬次符合資格的 Shorts 觀看次數。</description>
     </item>
     <item>
-      <title>Clicks 的 Power Keyboard 為任何手機帶來 BlackBerry 風格的打字體驗——但有一些取捨</title>
-      <link>https://techcrunch.com/2026/08/10/clicks-power-keyboard-brings-blackberry-style-typing-to-any-phone-with-some-compromises/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151469</guid>
-      <pubDate>Mon, 10 Aug 2026 18:00:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Clicks 售價 99 美元的 Power Keyboard 為支援 MagSafe 與 Qi2 的智慧型手機帶來可自訂的滑出式實體鍵盤，但額外增加的重量可能會讓較大的手機不太好用</description>
-    </item>
-    <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
       <link>https://openai.com/index/building-an-ai-native-finance-function</link>
       <guid isPermaLink="false">https://openai.com/index/building-an-ai-native-finance-function</guid>
@@ -257,15 +275,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 財務長 Sarah Friar 分享打造 AI 原生財務部門的五項心得，從自動化預測到更強健的控管，以及 AI 投資報酬率。</description>
-    </item>
-    <item>
-      <title>Meta 的新 Glimmer AI 模型帶來了祖克柏個人智慧願景的一瞥</title>
-      <link>https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151491</guid>
-      <pubDate>Mon, 10 Aug 2026 16:20:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 新推出的開放權重 Muse Glimmer 模型，讓人得以窺見 Mark Zuckerberg 的個人超級智慧願景，以及 AI 使用者能夠擁有與存取之間日益浮現的分歧。</description>
     </item>
     <item>
       <title>用這些 Google 工具在州博覽會玩得更盡興</title>
@@ -278,15 +287,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026statefair_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026statefair_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026statefair_hero.max-600x600.format-webp.webp" alt=""></p><p>以下有五個簡單方法，說明 Google 工具如何幫助你在州博覽會規劃行程、探索並創造回憶。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Sila 獲得 14 億美元五角大廈貸款，因各國軍方對電池需求增加</title>
-      <link>https://techcrunch.com/2026/08/10/sila-lands-1-4b-pentagon-loan-as-militaries-demand-more-batteries/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151465</guid>
-      <pubDate>Mon, 10 Aug 2026 15:22:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>電池材料新創公司 Sila 將利用美國國防部提供的 14 億美元貸款，擴大其在華盛頓州工廠的生產規模。</description>
     </item>
     <item>
       <title>Apple 與 MLB 公布 9 月「Friday Night Baseball」賽程</title>
