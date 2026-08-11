@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:53:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 00:08:13 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 據報已完成 70 億美元員工股權收購要約</title>
+      <link>https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151767</guid>
+      <pubDate>Tue, 11 Aug 2026 00:03:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>舊金山的房市又出問題了。</description>
+    </item>
+    <item>
+      <title>隨著 AI 主導的攻擊增加，OpenAI 推出新的網路安全模型</title>
+      <link>https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151655</guid>
+      <pubDate>Mon, 10 Aug 2026 23:56:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正在擴大其 AI 網路安全防禦計畫 Daybreak，並同步推出一款新的、以網路安全資料訓練的 AI 模型。</description>
+    </item>
     <item>
       <title>Jeff Bezos 可能終於要入手一支運動隊伍</title>
       <link>https://techcrunch.com/2026/08/10/jeff-bezos-might-finally-get-his-hands-on-a-sports-team/</link>
@@ -313,24 +331,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>用 Claude Code 寫程式很快就會需要更少的人為監督。</description>
-    </item>
-    <item>
-      <title>TechCrunch Mobility：Zoox 準備上市，Uber 的自駕帝國</title>
-      <link>https://techcrunch.com/2026/08/09/techcrunch-mobility-zoox-prepares-for-launch-and-ubers-av-empire/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151220</guid>
-      <pubDate>Sun, 09 Aug 2026 16:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歡迎回到 TechCrunch Mobility，這裡是你掌握交通運輸未來的中心，也是在這個時代 AI 扮演角色的重要所在。</description>
-    </item>
-    <item>
-      <title>歷史學家 Jill Lepore 表示，矽谷誤讀科幻小說並削弱民主</title>
-      <link>https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151401</guid>
-      <pubDate>Sun, 09 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在最新一集 Equity 中，我們與 Jill Lepore 討論了「機器治理」，以及為什麼 Elon Musk 不是個好的科幻小說讀者。</description>
     </item>
     <item>
       <title>Firebird 在亞美尼亞推出獨立國家國協地區最大 AI 工廠</title>
