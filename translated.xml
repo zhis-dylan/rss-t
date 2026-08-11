@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 16:15:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 16:30:50 GMT</lastBuildDate>
+    <item>
+      <title>一個尚未發布的 Anthropic 模型在數學最大未解難題之一上取得進展</title>
+      <link>https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151819</guid>
+      <pubDate>Tue, 11 Aug 2026 16:25:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>超過 150 年來，黎曼假設一直是數學中最重要的未解問題之一。Anthropic 並沒有解決它，但該公司的模型所取得的進展比你想像的還要多。</description>
+    </item>
     <item>
       <title>Joby Aviation 以 5 億美元收購擴大國防業務</title>
       <link>https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/</link>
@@ -175,6 +184,15 @@
       <description>Anthropic 也將把 AI 生成內容的浮水印支援擴展到較舊的模型。</description>
     </item>
     <item>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
+    </item>
+    <item>
       <title>OpenAI 據報已完成 70 億美元員工股權收購要約</title>
       <link>https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3151767</guid>
@@ -257,15 +275,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Aptoide 在超過十年後，將其遊戲商店帶回 Google Play，因法院命令的變更讓 Android 開放給競爭的應用程式商店。</description>
-    </item>
-    <item>
-      <title>社群媒體平台在上訴失敗後，仍面臨數千起使用者成癮訴訟</title>
-      <link>https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151567</guid>
-      <pubDate>Mon, 10 Aug 2026 18:30:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>像 Meta、TikTok、Snapchat 和 Google 這類平台正面臨漫長的訴訟之路。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1949,15 +1958,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出經濟研究交流平台，用來研究 AI 對工作、生產力與經濟的影響。目前已開放申請入選研究專案。</description>
-    </item>
-    <item>
-      <title>Endava 如何圍繞 AI agent 重新設計軟體交付</title>
-      <link>https://openai.com/index/endava-frontiers</link>
-      <guid isPermaLink="false">https://openai.com/index/endava-frontiers</guid>
-      <pubDate>Thu, 04 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Endava 如何運用 AI agent、ChatGPT Enterprise 和 Codex，加速軟體交付、自動化工作流程，並在企業內打造 AI 原生文化。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
