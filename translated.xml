@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 14:59:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:15:00 GMT</lastBuildDate>
+    <item>
+      <title>為什麼擴展 AI 運算效能需要新的電力架構</title>
+      <link>https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:06 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>每一代新的加速運算都讓底層基礎設施需要承擔更多——更高的運算效能、更高的機櫃密度，以及更有效率、可擴充的配電。瓶頸不只是瓦數，而是電力如何從電網送到 GPU。在傳統供電方式中，電力會以交流電（AC）從電網傳輸 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/dc4adb5e93d27f63890053bc3c14f8d4/6a7b392e3d6332a5b3372d6c_800vdc-842x450/800vdc-842x450_thmb.jpg?v=e29bfc46-2ac2-49b9-b68d-1b5fbdf7c023" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/dc4adb5e93d27f63890053bc3c14f8d4/6a7b392e3d6332a5b3372d6c_800vdc-842x450/800vdc-842x450_thmb.jpg?v=e29bfc46-2ac2-49b9-b68d-1b5fbdf7c023"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/dc4adb5e93d27f63890053bc3c14f8d4/6a7b392e3d6332a5b3372d6c_800vdc-842x450/800vdc-842x450_thmb.jpg?v=e29bfc46-2ac2-49b9-b68d-1b5fbdf7c023" alt=""></p><p>每一代新的加速運算都讓底層基礎設施需要承擔更多——更高的運算效能、更高的機櫃密度，以及更有效率、可擴充的配電。瓶頸不只是瓦數，而是電力如何從電網送到 GPU。在傳統供電方式中，電力會以交流電（AC）從電網傳輸 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Kyoto Fusioneering開始製作關鍵的核融合發電廠設備</title>
+      <link>https://techcrunch.com/2026/08/11/kyoto-fusioneering-starts-work-on-key-fusion-power-plant-device/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151829</guid>
+      <pubDate>Tue, 11 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>核融合發電新創公司正轉向 Kyoto Fusioneering，為未來的發電廠供應零組件。這家總部位於日本的新創公司剛獲得一筆補助，用來打造燃料系統的一部分。</description>
+    </item>
     <item>
       <title>Bumble 廢除了禁止男性先主動的規則</title>
       <link>https://techcrunch.com/2026/08/11/bumble-ditches-its-rule-that-kept-men-from-making-the-first-move/</link>
@@ -287,15 +308,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Advisor_Header.max-600x600.format-webp.webp" alt=""></p><p>了解 Google Ads 和 Google Analytics 中全新的 AI 與代理式體驗如何簡化你的行銷工作流程。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>航運巨頭 Ceva Logistics 的資料外洩波及銀行、零售商、Steam 玩家等各方</title>
-      <link>https://techcrunch.com/2026/08/10/a-data-breach-at-shipping-giant-ceva-logistics-is-rippling-across-banks-retailers-steam-gamers-and-beyond/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151452</guid>
-      <pubDate>Mon, 10 Aug 2026 14:20:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>依賴 Ceva Logistics 將實體商品寄送給顧客的公司表示，他們的個人資料在最近一次網路攻擊中被竊取。</description>
     </item>
     <item>
       <title>OpenAI 致艾伯特州長關於德州負責任 AI 基礎設施的信</title>
@@ -1119,18 +1131,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Facebook-Verified_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Facebook-Verified_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Introducing-Facebook-Verified_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出 Facebook 驗證，這是一個免費徽章，可驗證個人檔案背後是真人。<br>〈Introducing Facebook Verified〉一文最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在 AI 高峰會上，南韓勾勒出與 NVIDIA 和夥伴共創的 AI 未來</title>
-      <link>https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-summit-korea-partners-and-nvidia/</guid>
-      <pubDate>Fri, 24 Jul 2026 04:34:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>本週在舊金山舉行的 AI 高峰會上，南韓總統李在明以及該國一些頂尖商業領袖與研究人員，正與 NVIDIA 及生態系夥伴會面，為韓國的 AI 進展擘劃藍圖。承接 NVIDIA 創辦人暨執行長黃仁勳上月造訪韓國的行程，本週的討論與宣布將推進 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20266/ce11f0ba89e667898211e74444c75ac7/6a6420b53d6332a98d2a253f_DSCF9448/DSCF9448_thmb.jpg?v=5159986f-fbaf-43d4-99c8-60daeabb925a" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20266/ce11f0ba89e667898211e74444c75ac7/6a6420b53d6332a98d2a253f_DSCF9448/DSCF9448_thmb.jpg?v=5159986f-fbaf-43d4-99c8-60daeabb925a"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20266/ce11f0ba89e667898211e74444c75ac7/6a6420b53d6332a98d2a253f_DSCF9448/DSCF9448_thmb.jpg?v=5159986f-fbaf-43d4-99c8-60daeabb925a" alt=""></p><p>本週在舊金山舉行的 AI 高峰會上，南韓總統李在明以及該國一些頂尖商業領袖與研究人員，正與 NVIDIA 及生態系夥伴會面，為韓國的 AI 進展擘劃藍圖。承接 NVIDIA 創辦人暨執行長黃仁勳上月造訪韓國的行程，本週的討論與宣布將推進 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Maps 將為 Ford UEV Platform 提供導航體驗</title>
