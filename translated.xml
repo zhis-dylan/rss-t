@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 19:32:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:47:37 GMT</lastBuildDate>
+    <item>
+      <title>FBI 表示，網路犯罪分子正在入侵受害者的線上帳號，竊取他們的私密照片</title>
+      <link>https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152105</guid>
+      <pubDate>Tue, 11 Aug 2026 19:38:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在一則新的警示中，FBI 表示，網路犯罪分子正鎖定成人與未成年人，企圖在勒索行動中竊取他們的個人與私密照片。</description>
+    </item>
     <item>
       <title>OpenAI 推出適用於 Linux 的 ChatGPT 桌面應用程式</title>
       <link>https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/</link>
@@ -290,15 +299,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>舊金山的房市又出問題了。</description>
-    </item>
-    <item>
-      <title>隨著 AI 主導的攻擊增加，OpenAI 推出新的網路安全模型</title>
-      <link>https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151655</guid>
-      <pubDate>Mon, 10 Aug 2026 23:56:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 正在擴大其 AI 網路安全防禦計畫 Daybreak，並同步推出一款新的、以網路安全資料訓練的 AI 模型。</description>
     </item>
     <item>
       <title>NVIDIA 與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 合作建立 AI 運算基礎設施融資平台，以動員超過 5,000 億美元的第三方資本</title>
