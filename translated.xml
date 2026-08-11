@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 19:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 20:02:46 GMT</lastBuildDate>
+    <item>
+      <title>Uber 出售其全部持股，讓機器人公司 Serve 感到意外</title>
+      <link>https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152046</guid>
+      <pubDate>Tue, 11 Aug 2026 20:02:02 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項撤資發生之際，這兩家過去關係緊密的公司在商業層面上已開始走向分歧。</description>
+    </item>
     <item>
       <title>FBI 表示，網路犯罪分子正在入侵受害者的線上帳號，竊取他們的私密照片</title>
       <link>https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/</link>
@@ -290,15 +299,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
-    </item>
-    <item>
-      <title>OpenAI 據報已完成 70 億美元員工股權收購要約</title>
-      <link>https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151767</guid>
-      <pubDate>Tue, 11 Aug 2026 00:03:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>舊金山的房市又出問題了。</description>
     </item>
     <item>
       <title>NVIDIA 與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 合作建立 AI 運算基礎設施融資平台，以動員超過 5,000 億美元的第三方資本</title>
