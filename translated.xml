@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 16:45:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 17:01:07 GMT</lastBuildDate>
+    <item>
+      <title>AMIE，我們的研究醫療 AI 系統，在一項首創研究中展示即時臨床視訊諮詢能力。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/</guid>
+      <pubDate>Tue, 11 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 介紹 AMIE，用於模擬環境中的即時臨床視訊諮詢。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIME_SIZZLE_THUMBNAIL.Aug10.max-600x600.format-webp.webp" alt=""></p><p>Google 介紹 AMIE，用於模擬環境中的即時臨床視訊諮詢。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>在 Google TV Freeplay 串流免費電影和節目</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-tv/google-freeplay-free-on-demand-tv-shows-movies/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-tv/google-freeplay-free-on-demand-tv-shows-movies/</guid>
+      <pubDate>Tue, 11 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google TV Freeplay 現在提供超過 10,000 部免費隨選電影和節目，另有 300 多個直播頻道，且不需要訂閱。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lifestyle_VOD_tab.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lifestyle_VOD_tab.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lifestyle_VOD_tab.max-600x600.format-webp.webp" alt=""></p><p>Google TV Freeplay 現在提供超過 10,000 部免費隨選電影和節目，另有 300 多個直播頻道，且不需要訂閱。</p>]]></content:encoded>
+    </item>
     <item>
       <title>一個尚未發布的 Anthropic 模型在數學最大未解難題之一上取得進展</title>
       <link>https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/</link>
@@ -834,30 +858,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今日公布截至 2026 年 6 月 27 日止的 2026 會計年度第三季財務結果。</description>
-    </item>
-    <item>
-      <title>Gemini Spark 現已整合 Chrome</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-july-2026/</guid>
-      <pubDate>Thu, 30 Jul 2026 20:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>最新 Gemini Spark 更新總覽，包括新的 Chrome 網頁瀏覽功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_2784x1566_Option_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_2784x1566_Option_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_2784x1566_Option_1.max-600x600.format-webp.webp" alt=""></p><p>最新 Gemini Spark 更新總覽，包括新的 Chrome 網頁瀏覽功能。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>介紹 Gemini Robotics ER 2</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/</guid>
-      <pubDate>Thu, 30 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Robotics ER 2 在影片理解、工具協調，以及機器人應用的多機器人協作方面，帶來了一大躍進。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp" alt=""></p><p>Gemini Robotics ER 2 在影片理解、工具協調，以及機器人應用的多機器人協作方面，帶來了一大躍進。</p>]]></content:encoded>
     </item>
     <item>
       <title>同級最佳：用同一台筆電串流 PC 遊戲與讀書，搭配 GeForce NOW</title>
