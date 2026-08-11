@@ -5,7 +5,64 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 11 Aug 2026 12:58:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:13:53 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與本地 AI 社群推動開源模型與智慧代理</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:25 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>開源生態系統正讓 AI 愛好者與開發者更容易在本地端建置、自訂並執行日益強大的代理。整個 8 月，NVIDIA 將與推動本地 AI 前進的合作夥伴與開源社群一同慶祝，同時也聚焦生態系統中湧現的模型、應用程式與工具。這其中包括 NVIDIA 最新的開放模型、軟體 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb" alt=""></p><p>開源生態系統正讓 AI 愛好者與開發者更容易在本地端建置、自訂並執行日益強大的代理。整個 8 月，NVIDIA 將與推動本地 AI 前進的合作夥伴與開源社群一同慶祝，同時也聚焦生態系統中湧現的模型、應用程式與工具。這其中包括 NVIDIA 最新的開放模型、軟體 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Lightning 與 NeMo Switchyard 帶來更快、更聰明、更高效率的 Agentic AI</title>
+      <link>https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:05 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>隨著 AI 從聊天機器人轉向自主代理，開放模型正滿足市場對於完全掌控 AI 在何處執行、如何部署以及如何演進的需求。今天，NVIDIA 透過 Nemotron 3.5 Lightning 擴充其 Nemotron 3 模型家族，這是同級產品中效率最高的模型，適用於長時間運作的 agentic AI 工作負載。這次發布接續 Nemotron […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/88ad63ecbe845009051bfee4ede87d61/6a7b1cd13d63321a00406cfa_image1-842x450/image1-842x450_thmb.jpg?v=2520df3e-f7d8-4a95-ba91-766e1348b762" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/88ad63ecbe845009051bfee4ede87d61/6a7b1cd13d63321a00406cfa_image1-842x450/image1-842x450_thmb.jpg?v=2520df3e-f7d8-4a95-ba91-766e1348b762"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/88ad63ecbe845009051bfee4ede87d61/6a7b1cd13d63321a00406cfa_image1-842x450/image1-842x450_thmb.jpg?v=2520df3e-f7d8-4a95-ba91-766e1348b762" alt=""></p><p>隨著 AI 從聊天機器人轉向自主代理，開放模型正滿足市場對於完全掌控 AI 在何處執行、如何部署以及如何演進的需求。今天，NVIDIA 透過 Nemotron 3.5 Lightning 擴充其 Nemotron 3 模型家族，這是同級產品中效率最高的模型，適用於長時間運作的 agentic AI 工作負載。這次發布接續 Nemotron […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Health 宣布與 Abbott 建立策略合作夥伴關係，Abbott 是健康與保健領域的領導者。</title>
+      <link>https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Health 正與 Abbott 攜手，提供更全面的代謝與女性健康觀點。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Health_Abbott_Flo_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Health_Abbott_Flo_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Health_Abbott_Flo_social.max-600x600.format-webp.webp" alt=""></p><p>Google Health 正與 Abbott 攜手，提供更全面的代謝與女性健康觀點。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>擴充 Google AI Professional Certificate，加入 vibe coding</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/vibe-coding-course/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/vibe-coding-course/</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google AI Professional Certificate 現已成為 Coursera 上最受歡迎的生成式 AI 課程，我們也將加入 vibe coding 進行擴充。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ammaar_Trailer_Thumbnail_01.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ammaar_Trailer_Thumbnail_01.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ammaar_Trailer_Thumbnail_01.max-600x600.format-webp.webp" alt=""></p><p>Google AI Professional Certificate 現已成為 Coursera 上最受歡迎的生成式 AI 課程，我們也將加入 vibe coding 進行擴充。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Spotify 將為「AI Persona」個人檔案加上標籤，並將其音樂排除在推薦之外</title>
+      <link>https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151643</guid>
+      <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Spotify 正在為代表 AI 生成身分的藝人個人檔案導入「AI Persona」標籤，並預設將其音樂排除在編輯推薦、演算法推薦和個人化推薦之外。</description>
+    </item>
     <item>
       <title>智慧型手機之後會是什麼？Amazon 的 Panos Panay 將在 TechCrunch Disrupt 2026 說明他的看法</title>
       <link>https://techcrunch.com/2026/08/11/what-comes-after-the-smartphone-amazons-panos-panay-will-make-his-case-at-techcrunch-disrupt-2026/</link>
@@ -273,15 +330,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Discovered Materials 募得 900 萬美元，以資助尋找更多新穎材料來打造更高效率的晶片。</description>
-    </item>
-    <item>
-      <title>Google Play 新增 Venmo 作為付款選項</title>
-      <link>https://techcrunch.com/2026/08/10/google-play-adds-venmo-as-a-payment-option/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151440</guid>
-      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google Play 能夠新增 Venmo，是因為人們在應用程式和遊戲上的花費越來越多。</description>
     </item>
     <item>
       <title>未來屬於每個人</title>
@@ -782,18 +830,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-robotics-2__blog__cover.max-600x600.format-webp.webp" alt=""></p><p>Gemini Robotics ER 2 在影片理解、工具協調，以及機器人應用的多機器人協作方面，帶來了一大躍進。</p>]]></content:encoded>
     </item>
     <item>
-      <title>來看看我們在 Google 的 Flow Sessions 計畫中最新一批藝術家創作的短片。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/google-flow-sessions-short-films/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/google-flow-sessions-short-films/</guid>
-      <pubDate>Thu, 30 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在分享 Google 的 Flow Sessions 計畫中最新一批藝術家創作的短片。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flow_social_A.max-600x600.format-webp.webp" alt=""></p><p>我們正在分享 Google 的 Flow Sessions 計畫中最新一批藝術家創作的短片。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>同級最佳：用同一台筆電串流 PC 遊戲與讀書，搭配 GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/</guid>
@@ -804,18 +840,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472" alt=""></p><p>返校季代表著要同時兼顧作業、截止期限和休息時間。GeForce NOW 讓一切都更輕鬆。透過雲端遊戲，平常上課用的筆電也能變成搭載 GeForce RTX 的遊戲平台。當該從讀書切換到打遊戲時，會員可以直接進入 Halo: Campaign Evolved，因為 GeForce NOW 正帶來一項 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>使用 Nano Banana 在 Google Earth 中轉換任何地點</title>
-      <link>https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/earth/nano-banana-google-earth-image-generation/</guid>
-      <pubDate>Thu, 30 Jul 2026 12:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>自訂圖片——由 Google Earth 衛星、航拍與 3D 影像生成——幫助你重新設計任何地點。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_Wide_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_Wide_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_Wide_1.max-600x600.format-webp.webp" alt=""></p><p>自訂圖片——由 Google Earth 衛星、航拍與 3D 影像生成——幫助你重新設計任何地點。</p>]]></content:encoded>
     </item>
     <item>
       <title>以 GPT-5.6 推進價格效能極限</title>
@@ -1098,30 +1122,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/20266/ce11f0ba89e667898211e74444c75ac7/6a6420b53d6332a98d2a253f_DSCF9448/DSCF9448_thmb.jpg?v=5159986f-fbaf-43d4-99c8-60daeabb925a" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20266/ce11f0ba89e667898211e74444c75ac7/6a6420b53d6332a98d2a253f_DSCF9448/DSCF9448_thmb.jpg?v=5159986f-fbaf-43d4-99c8-60daeabb925a"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20266/ce11f0ba89e667898211e74444c75ac7/6a6420b53d6332a98d2a253f_DSCF9448/DSCF9448_thmb.jpg?v=5159986f-fbaf-43d4-99c8-60daeabb925a" alt=""></p><p>本週在舊金山舉行的 AI 高峰會上，南韓總統李在明以及該國一些頂尖商業領袖與研究人員，正與 NVIDIA 及生態系夥伴會面，為韓國的 AI 進展擘劃藍圖。承接 NVIDIA 創辦人暨執行長黃仁勳上月造訪韓國的行程，本週的討論與宣布將推進 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 與 KAIST 成立聯合 AI 研究實驗室，加速韓國的 AI 創新</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea</guid>
-      <pubDate>Thu, 23 Jul 2026 23:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 與韓國科學技術院（KAIST）今日宣布，將在首爾 KAIST 金載晳 AI 研究所成立一座聯合 AI 研究實驗室，致力於推進南韓的 agentic AI。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20266/28a0fa81d0fd7998ecd0fa89b61037ac/6a62a26c3d63324a0f0657ca_kaist-nvidia-logos-16x9/kaist-nvidia-logos-16x9_thmb.jpg?v=8f849691-d966-496c-962f-2a7f9b7e8f67" alt=""></p><p>NVIDIA 與韓國科學技術院（KAIST）今日宣布，將在首爾 KAIST 金載晳 AI 研究所成立一座聯合 AI 研究實驗室，致力於推進南韓的 agentic AI。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>GeForce NOW 迎來《流亡黯道：Allflame 的詛咒》加入雲端</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-path-of-exile-allflame/</guid>
-      <pubDate>Thu, 23 Jul 2026 13:00:16 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>雲端就位，準備開戰。GFN Thursday 帶來全新更新和全新冒險，全部都能立刻遊玩，無需等待下載。《流亡黯道：Allflame 的詛咒》即將啟航，而《戰地風雲 6》第 4 季也將衝鋒上陣，本週為會員推出重大內容。接著再重溫卡普空傳奇作品，如《洛克人》[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/558b4b77dfdc89e8b30fa7ae784a30a4/6a6210843d63327a0eb55d3f_gfn-thursday-7-23-blog-1920x1080-logo-842x450/gfn-thursday-7-23-blog-1920x1080-logo-842x450_thmb.jpg?v=c7ef8eb7-2359-4ce9-b02d-8557f107b130" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/558b4b77dfdc89e8b30fa7ae784a30a4/6a6210843d63327a0eb55d3f_gfn-thursday-7-23-blog-1920x1080-logo-842x450/gfn-thursday-7-23-blog-1920x1080-logo-842x450_thmb.jpg?v=c7ef8eb7-2359-4ce9-b02d-8557f107b130"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/558b4b77dfdc89e8b30fa7ae784a30a4/6a6210843d63327a0eb55d3f_gfn-thursday-7-23-blog-1920x1080-logo-842x450/gfn-thursday-7-23-blog-1920x1080-logo-842x450_thmb.jpg?v=c7ef8eb7-2359-4ce9-b02d-8557f107b130" alt=""></p><p>雲端就位，準備開戰。GFN Thursday 帶來全新更新和全新冒險，全部都能立刻遊玩，無需等待下載。《流亡黯道：Allflame 的詛咒》即將啟航，而《戰地風雲 6》第 4 季也將衝鋒上陣，本週為會員推出重大內容。接著再重溫卡普空傳奇作品，如《洛克人》[…]</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Maps 將為 Ford UEV Platform 提供導航體驗</title>
