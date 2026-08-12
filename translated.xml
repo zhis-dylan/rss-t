@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 14:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 14:26:10 GMT</lastBuildDate>
+    <item>
+      <title>Google 在 Made by Google 2026 發表 Pixel 11 系列、新 AirTag 競爭對手和 Gemini 功能</title>
+      <link>https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151814</guid>
+      <pubDate>Wed, 12 Aug 2026 14:20:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從 Pixel 11 系列到全新的 Apple AirTag 競爭對手，這是 Made by Google 2026 活動的所有發表內容。</description>
+    </item>
+    <item>
+      <title>Google 的 Quick Share 新增點按分享模式</title>
+      <link>https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152297</guid>
+      <pubDate>Wed, 12 Aug 2026 14:13:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 的 Quick Share 功能新增了點按分享模式，可快速交換聯絡人、照片、影片等。</description>
+    </item>
+    <item>
+      <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</guid>
+      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 創辦人暨執行長 Jensen Huang 在 Glassdoor 2026 年最佳執行長榜單中排名第 1。這份剛公布的排名，是直接由最了解其領導表現的人——員工——所認可。Huang 名列榜首，99% 的員工認可他所做的工作。「隨著 AI 與不斷變動的期待 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555" alt=""></p><p>NVIDIA 創辦人暨執行長 Jensen Huang 在 Glassdoor 2026 年最佳執行長榜單中排名第 1。這份剛公布的排名，是直接由最了解其領導表現的人——員工——所認可。Huang 名列榜首，99% 的員工認可他所做的工作。「隨著 AI 與不斷變動的期待 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Made by Google 2026</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</link>
@@ -395,15 +425,6 @@
       <description>超過 150 年來，黎曼假設一直是數學中最重要的未解問題之一。Anthropic 並沒有解決它，但該公司的模型所取得的進展比你想像的還要多。</description>
     </item>
     <item>
-      <title>Joby Aviation 以 5 億美元收購擴大國防業務</title>
-      <link>https://techcrunch.com/2026/08/11/joby-aviation-builds-out-defense-business-with-500m-acquisition/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151855</guid>
-      <pubDate>Tue, 11 Aug 2026 16:06:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Joby Aviation 已達成協議，將收購 Resonant Sciences，這將啟動其新的國防業務。</description>
-    </item>
-    <item>
       <title>每月有超過 10 億人正在使用 Gemini 應用程式。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/one-billion-monthly-users/</guid>
@@ -414,15 +435,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1BSS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1BSS.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/1BSS.max-600x600.format-webp.webp" alt=""></p><p>Gemini 應用程式的每月使用者數已正式突破 10 億，成為 Google 史上成長最快的產品。以下是一些關於人們如何使用 G……的資料</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>達美航空調查有人在飛行途中架設假 Wi‑Fi 網路</title>
-      <link>https://techcrunch.com/2026/08/11/delta-investigating-after-someone-set-up-fake-wi-fi-network-mid-flight/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151862</guid>
-      <pubDate>Tue, 11 Aug 2026 15:40:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據一位發言人表示，達美航空的機組人員因這起事件關閉了機上合法的 Wi‑Fi 網路約 30 分鐘。</description>
     </item>
     <item>
       <title>為什麼擴展 AI 運算效能需要新的電力架構</title>
@@ -1136,18 +1148,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" alt=""></p><p>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NAVER、NVIDIA 與 Brookfield 擴大韓國國家 AI 工廠基礎設施建置</title>
-      <link>https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/naver-nvidia-and-brookfield-to-expand-koreas-national-ai-factory-infrastructure-buildout</guid>
-      <pubDate>Sat, 25 Jul 2026 05:10:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NAVER、NVIDIA 與 Brookfield 今日宣布，擬擴大韓國的主權 AI 工廠基礎設施，並規劃投資，將把最初部署的 NVIDIA® DSX™ AI 工廠擴充至 200 兆瓦——比上月宣布的 55 兆瓦建置規模多出三倍以上。NAVER 計劃將其 NVIDIA AI 基礎設施部署擴充至 1 吉瓦。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/6f17a6451c306392c3376747f022b895/6a63f3113d6332dc5d2a252d_naver-nvidia-brookfield-logos/naver-nvidia-brookfield-logos_thmb.jpg?v=23c4d337-017e-4cbe-9f64-6a602ab1abc6" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/6f17a6451c306392c3376747f022b895/6a63f3113d6332dc5d2a252d_naver-nvidia-brookfield-logos/naver-nvidia-brookfield-logos_thmb.jpg?v=23c4d337-017e-4cbe-9f64-6a602ab1abc6"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/6f17a6451c306392c3376747f022b895/6a63f3113d6332dc5d2a252d_naver-nvidia-brookfield-logos/naver-nvidia-brookfield-logos_thmb.jpg?v=23c4d337-017e-4cbe-9f64-6a602ab1abc6" alt=""></p><p>NAVER、NVIDIA 與 Brookfield 今日宣布，擬擴大韓國的主權 AI 工廠基礎設施，並規劃投資，將把最初部署的 NVIDIA® DSX™ AI 工廠擴充至 200 兆瓦——比上月宣布的 55 兆瓦建置規模多出三倍以上。NAVER 計劃將其 NVIDIA AI 基礎設施部署擴充至 1 吉瓦。</p>]]></content:encoded>
     </item>
     <item>
       <title>Meta AI 不只是思考，還會行動</title>
