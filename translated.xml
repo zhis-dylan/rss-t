@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:26:41 GMT</lastBuildDate>
+    <item>
+      <title>在 Microsoft 威脅採取法律行動後，一名資安研究人員公開了一個新的 Windows 零日漏洞</title>
+      <link>https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152294</guid>
+      <pubDate>Wed, 12 Aug 2026 15:18:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是資安研究人員 Nightmare Eclipse 釋出的最新零日漏洞，儘管 Microsoft 已公開威脅要對其採取法律行動。</description>
+    </item>
     <item>
       <title>Silkroad Innovation Hub 的 Road to Battlefield 競賽持續進行</title>
       <link>https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/</link>
@@ -390,15 +399,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 任職最久的高層之一即將離開，不過這位資深營運長告訴員工，他很「期待從不同的角度幫助大家推進這項使命」。</description>
-    </item>
-    <item>
-      <title>General Catalyst 領投 11 億美元輪，投向成立 2 個月的 River AI</title>
-      <link>https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151907</guid>
-      <pubDate>Tue, 11 Aug 2026 17:41:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>River AI 是由 xAI 共同創辦人 Igor Babuschkin 創立的新創公司，對個人代理有著引人入勝的願景，並一開始就拿下了 11 億美元資金。</description>
     </item>
     <item>
       <title>AMIE，我們的研究醫療 AI 系統，在一項首創研究中展示即時臨床視訊諮詢能力。</title>
