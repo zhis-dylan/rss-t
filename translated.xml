@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 20:44:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 20:59:55 GMT</lastBuildDate>
+    <item>
+      <title>Northrop 的機器人太空維修員是一種讓衛星更長時間維持運作的新方式</title>
+      <link>https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152444</guid>
+      <pubDate>Wed, 12 Aug 2026 20:53:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Mission Robotic Vehicle 正在嘗試首次為一顆老化的衛星安裝新的推進器。</description>
+    </item>
     <item>
       <title>Amazon 預設會用 Twitch 實況主的內容來訓練，除非他們選擇退出</title>
       <link>https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/</link>
@@ -361,15 +370,6 @@
       <description>這款新的智慧手錶起價 399 美元，可追蹤血壓趨勢和胰島素阻抗，並提供個人化協助與更好的睡眠追蹤。</description>
     </item>
     <item>
-      <title>Google 以新的 29 美元 Pixel Tag 挑戰 AirTag</title>
-      <link>https://techcrunch.com/2026/08/12/google-takes-on-airtag-with-the-new-29-pixel-tag/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152052</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 新的 Pixel Tag 透過 Find Hub 網路，幫助使用者追蹤遺失的鑰匙、包包和其他物品。</description>
-    </item>
-    <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
       <link>https://about.fb.com/news/2026/08/nabtu-and-meta-partnership-to-invest-in-skilled-trades-for-ai-era/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=49900</guid>
@@ -610,15 +610,6 @@
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
-    </item>
-    <item>
       <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
       <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
       <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
@@ -635,6 +626,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
+    </item>
+    <item>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
       <title>Firebird 在亞美尼亞推出獨立國家國協地區最大 AI 工廠</title>
