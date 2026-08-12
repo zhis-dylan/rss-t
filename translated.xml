@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 21:45:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:00:26 GMT</lastBuildDate>
     <item>
       <title>Northrop 的機器人太空維修員是一種讓衛星更長時間維持運作的新方式</title>
       <link>https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/</link>
@@ -402,6 +402,15 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/fbb1638cdd823c3d889959838e198909/6a7bc08b3d63323f43247650_jhh-support-blog-visual-logo-lock-up-3x4-1-842x450/jhh-support-blog-visual-logo-lock-up-3x4-1-842x450_thmb.jpg?v=7e51e3fb-1d2a-4983-98df-f6b29ec112d8" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/fbb1638cdd823c3d889959838e198909/6a7bc08b3d63323f43247650_jhh-support-blog-visual-logo-lock-up-3x4-1-842x450/jhh-support-blog-visual-logo-lock-up-3x4-1-842x450_thmb.jpg?v=7e51e3fb-1d2a-4983-98df-f6b29ec112d8"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/fbb1638cdd823c3d889959838e198909/6a7bc08b3d63323f43247650_jhh-support-blog-visual-logo-lock-up-3x4-1-842x450/jhh-support-blog-visual-logo-lock-up-3x4-1-842x450_thmb.jpg?v=7e51e3fb-1d2a-4983-98df-f6b29ec112d8" alt=""></p><p>我們宣布與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 和 KKR 建立合作夥伴關係，設立獨立融資平台，目標是在一段時間內動員超過 5,000 億美元的第三方資本，以支持 AI 基礎設施的建置。這對 NVIDIA 和 AI 產業來說是一個重大里程碑。我們已經從一個公司 […] 的時代轉變過來</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>RingCentral 如何從工程到營運打造 AI 原生工作</title>
+      <link>https://openai.com/index/ringcentral</link>
+      <guid isPermaLink="false">https://openai.com/index/ringcentral</guid>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 RingCentral 如何運用 ChatGPT 工作與 Codex，加速 AI 產品開發，並將營運智慧集中於工程與營運之間。</description>
     </item>
     <item>
       <title>AMIE，我們的研究醫療 AI 系統，在一項首創研究中展示即時臨床視訊諮詢能力。</title>
@@ -1354,6 +1363,24 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解企業如何透過衡量每一美元所帶來的有效工作量、提升效率，以及擴展高價值工作流程，來管理 agentic 時代的 AI 投資。</description>
     </item>
     <item>
+      <title>資料科學團隊如何使用 ChatGPT 工作</title>
+      <link>https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</link>
+      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解資料科學團隊如何使用 ChatGPT 工作，從實際工作輸入建立根因簡報、影響摘要、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
+    </item>
+    <item>
+      <title>銷售團隊如何使用 ChatGPT 工作</title>
+      <link>https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</link>
+      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解銷售團隊如何使用 ChatGPT 工作，從實際工作輸入建立管線簡報、會議準備資料包、預測檢視、客戶計畫，以及停滯交易診斷。</description>
+    </item>
+    <item>
       <title>德國電信如何以 AI 重塑電信業</title>
       <link>https://openai.com/index/deutsche-telekom</link>
       <guid isPermaLink="false">https://openai.com/index/deutsche-telekom</guid>
@@ -1945,15 +1972,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>由於《數位市場法》，Apple 將無法隨著 iOS 27 和 iPadOS 27 的發布在歐盟推出 Siri AI。</description>
     </item>
     <item>
-      <title>向美國證券交易委員會秘密提交 S-1 草案</title>
-      <link>https://openai.com/index/openai-submits-confidential-s-1</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-submits-confidential-s-1</guid>
-      <pubDate>Mon, 08 Jun 2026 14:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 證實已向美國證券交易委員會秘密提交 S-1，且尚未決定後續行動的時程。</description>
-    </item>
-    <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
       <link>https://openai.com/index/mufg</link>
       <guid isPermaLink="false">https://openai.com/index/mufg</guid>
@@ -1961,24 +1979,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>MUFG 使用 ChatGPT Enterprise 打造 AI 原生組織，改善工作流程，並大規模提供新的 AI 驅動金融服務。</description>
-    </item>
-    <item>
-      <title>資料科學團隊如何使用 Codex</title>
-      <link>https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解資料科學團隊如何使用 Codex，根據實際工作輸入建立根本原因簡報、影響報告、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
-    </item>
-    <item>
-      <title>銷售團隊如何使用 Codex</title>
-      <link>https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/codex-for-work/how-sales-teams-use-codex</guid>
-      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>看看銷售團隊如何使用 ChatGPT Codex，根據實際工作輸入建立 pipeline 簡報、會議準備資料包、預測檢視、客戶帳戶計畫，以及停滯交易診斷。</description>
     </item>
   </channel>
 </rss>
