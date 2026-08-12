@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:41:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:56:57 GMT</lastBuildDate>
+    <item>
+      <title>Facebook 正式推出獨立的 Creator Studio 應用程式，內建供創作者使用的 AI 工具</title>
+      <link>https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152327</guid>
+      <pubDate>Wed, 12 Aug 2026 15:56:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這款新應用程式已推出，內建 Facebook 的 AI 創作者助理，會根據創作者的內容風格、表現、受眾互動情況和目標，提供個人化建議。</description>
+    </item>
+    <item>
+      <title>一樁 2.5 億美元的收購案如何崩潰成詐欺與偽造簽名的指控</title>
+      <link>https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152187</guid>
+      <pubDate>Wed, 12 Aug 2026 15:44:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>投資人仍在等待他們分得 2.5 億美元意外之財，而 VideoVerse 共同創辦人 Vinayak Shrivastav 現在則身陷多起法律案件的核心。</description>
+    </item>
     <item>
       <title>在 Microsoft 威脅採取法律行動後，一名資安研究人員公開了一個新的 Windows 零日漏洞</title>
       <link>https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/</link>
@@ -381,24 +399,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在選後激增超過一年後，Bluesky 的行動 App 活躍用戶持續下滑，不過剩下的社群仍然相對投入。</description>
-    </item>
-    <item>
-      <title>什麼是 Scaleup Europe？這個 57 億美元基金剛剛支持了衛星公司 ICEYE</title>
-      <link>https://techcrunch.com/2026/08/11/whats-scaleup-europe-the-5-7b-fund-that-just-backed-satellite-company-iceye/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151662</guid>
-      <pubDate>Tue, 11 Aug 2026 17:41:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Scaleup Europe 是一檔公私合營基金，目標規模為 57 億美元，並以支持芬蘭衛星公司 ICEYE 進行首筆投資。</description>
-    </item>
-    <item>
-      <title>OpenAI 資深營運長 Brad Lightcap 將離開，去「開始一些新事物」</title>
-      <link>https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151968</guid>
-      <pubDate>Tue, 11 Aug 2026 17:41:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 任職最久的高層之一即將離開，不過這位資深營運長告訴員工，他很「期待從不同的角度幫助大家推進這項使命」。</description>
     </item>
     <item>
       <title>AMIE，我們的研究醫療 AI 系統，在一項首創研究中展示即時臨床視訊諮詢能力。</title>
