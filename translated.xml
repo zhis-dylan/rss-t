@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 18:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:43:41 GMT</lastBuildDate>
+    <item>
+      <title>Grubhub 的 2400 萬美元 FTC 和解金終於要發給用餐者和外送員了</title>
+      <link>https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152496</guid>
+      <pubDate>Wed, 12 Aug 2026 18:34:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Grubhub 因其商業行為指控與 FTC 和解後，將寄出來自其 2380 萬美元罰款的支票。</description>
+    </item>
     <item>
       <title>AI 程式撰寫新創 Cognition 傳已在洽談以 400 億美元估值募資</title>
       <link>https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/</link>
@@ -360,15 +369,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/08/NABTU-META_1920x1080.png?fit=1920%2C1080" medium="image" type="image/png"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/NABTU-META_1920x1080.png?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/NABTU-META_1920x1080.png?fit=1920%2C1080" alt=""></p><p>Meta 與北美建築工會聯合會（NABTU）正合作投資為美國 AI 基礎設施建設的技術工種勞工。<br>〈NABTU and Meta Announce New Partnership to Invest In Skilled Trades for the AI Era〉一文最早刊載於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 程式碼測試新創 Blacksmith 的估值在不到一年內暴增近 10 倍</title>
-      <link>https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151847</guid>
-      <pubDate>Wed, 12 Aug 2026 11:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Blacksmith 表示，過去一年營收成長超過 10 倍。</description>
     </item>
     <item>
       <title>從輔助到執行：企業如何運用 AI 工作</title>
