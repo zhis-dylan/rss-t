@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 22:15:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:30:42 GMT</lastBuildDate>
+    <item>
+      <title>一些 Claude 使用者很不滿 Anthropic 的新浮水印會抓到他們在工作、課堂上作弊</title>
+      <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152533</guid>
+      <pubDate>Wed, 12 Aug 2026 22:26:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 的新浮水印系統是個醜聞嗎？有些人已經在社群媒體上抱怨它是。</description>
+    </item>
+    <item>
+      <title>AI 核能公司 Fermi 終於有了新執行長</title>
+      <link>https://techcrunch.com/2026/08/12/ai-nuclear-power-firm-fermi-finally-has-a-new-ceo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152615</guid>
+      <pubDate>Wed, 12 Aug 2026 22:24:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Fermi 董事會的獨立成員 Lee McIntire 已獲聘為執行長，距離公司開除共同創辦人 Toby Neugebauer 的最高職位已經超過三個月。</description>
+    </item>
     <item>
       <title>Northrop 的機器人太空維修員是一種讓衛星更長時間維持運作的新方式</title>
       <link>https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/</link>
@@ -350,24 +368,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp" alt=""></p><p>Breathing Emergency Detection 會在你停止呼吸時聯絡緊急服務，讓你有機會獲得可能救命的照護。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 的 Pixel 11 系列提供較少的硬體變化，但 Gemini 功能大幅提升</title>
-      <link>https://techcrunch.com/2026/08/12/pixel-11-has-few-hardware-changes-and-more-gemini/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151448</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google Pixel 11 系列售價比去年高 100 美元，但提供 256GB 起始儲存空間</description>
-    </item>
-    <item>
-      <title>Google 發表 Pixel Watch 5，搭載更聰明的 Gemini 與進階健康監測</title>
-      <link>https://techcrunch.com/2026/08/12/google-unveils-the-pixel-watch-5-with-a-smarter-gemini-and-advanced-health-monitoring/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151889</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款新的智慧手錶起價 399 美元，可追蹤血壓趨勢和胰島素阻抗，並提供個人化協助與更好的睡眠追蹤。</description>
     </item>
     <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
