@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 15:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 16:12:07 GMT</lastBuildDate>
+    <item>
+      <title>Lovable 確認新的 133 億美元估值，再募得 4 億美元</title>
+      <link>https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152347</guid>
+      <pubDate>Wed, 12 Aug 2026 16:04:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這輪新融資是在 Lovable 於 6 月達到年化營收運行率 5 億美元之後，這家新創公司告訴 TechCrunch。</description>
+    </item>
     <item>
       <title>Facebook 正式推出獨立的 Creator Studio 應用程式，內建供創作者使用的 AI 工具</title>
       <link>https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/</link>
@@ -390,15 +399,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Gemini 正在追趕 OpenAI 的 ChatGPT，後者在 6 月時達到 10 億每月活躍用戶。</description>
-    </item>
-    <item>
-      <title>Bluesky 的活躍用戶基礎正在萎縮，因為其重心已超出這款 App</title>
-      <link>https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151942</guid>
-      <pubDate>Tue, 11 Aug 2026 17:46:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在選後激增超過一年後，Bluesky 的行動 App 活躍用戶持續下滑，不過剩下的社群仍然相對投入。</description>
     </item>
     <item>
       <title>AMIE，我們的研究醫療 AI 系統，在一項首創研究中展示即時臨床視訊諮詢能力。</title>
