@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 12 Aug 2026 14:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 15:11:31 GMT</lastBuildDate>
+    <item>
+      <title>Silkroad Innovation Hub 的 Road to Battlefield 競賽持續進行</title>
+      <link>https://techcrunch.com/2026/08/12/silkroad-innovation-hubs-road-to-battlefield-competition-continues/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152122</guid>
+      <pubDate>Wed, 12 Aug 2026 15:02:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Road to Battlefield 競賽現在已進入第二年，其目的是為中亞歐地區的創辦人提供直通 Startup Battlefield 的途徑</description>
+    </item>
     <item>
       <title>Google 在 Made by Google 2026 發表 Pixel 11 系列、新 AirTag 競爭對手和 Gemini 功能</title>
       <link>https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/</link>
@@ -414,15 +423,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lifestyle_VOD_tab.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lifestyle_VOD_tab.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lifestyle_VOD_tab.max-600x600.format-webp.webp" alt=""></p><p>Google TV Freeplay 現在提供超過 10,000 部免費隨選電影和節目，另有 300 多個直播頻道，且不需要訂閱。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>一個尚未發布的 Anthropic 模型在數學最大未解難題之一上取得進展</title>
-      <link>https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151819</guid>
-      <pubDate>Tue, 11 Aug 2026 16:25:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>超過 150 年來，黎曼假設一直是數學中最重要的未解問題之一。Anthropic 並沒有解決它，但該公司的模型所取得的進展比你想像的還要多。</description>
     </item>
     <item>
       <title>每月有超過 10 億人正在使用 Gemini 應用程式。</title>
