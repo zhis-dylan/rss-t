@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 18:09:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:25:00 GMT</lastBuildDate>
     <item>
       <title>OpenAI 延攬新任 CRO，管理層人事調整持續進行</title>
       <link>https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/</link>
@@ -167,6 +167,15 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21" alt=""></p><p>GeForce NOW 正在送上雲端遊戲的加分升級，正好趕上開學季。GeForce NOW 的原生 Linux 應用程式現已正式脫離測試版。GeForce NOW 也推出新的雲端最佳化，讓 Frame Generation 在串流時感覺更即時。除此之外，Performance 會員將可看到更高的畫面幀率 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>GPT‑5.6 開發者指南</title>
+      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
+      <guid isPermaLink="false">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
+      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解新創公司如何運用 GPT-5.6，透過更智慧的模型選擇與新的 Responses API 功能，更快打造、成本更有效率的 AI 代理。</description>
     </item>
     <item>
       <title>預覽 Ultrfast 模式：GPT-5.6 Sol 最高可達 14 倍速度</title>
@@ -1912,15 +1921,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>隨著 2027 年的軟體版本將於今年秋季推出，Apple 正為服務用戶帶來強大的新功能。</description>
-    </item>
-    <item>
-      <title>Nextdoor 的工程師如何使用 Codex 無限制地開發</title>
-      <link>https://openai.com/index/nextdoor</link>
-      <guid isPermaLink="false">https://openai.com/index/nextdoor</guid>
-      <pubDate>Tue, 09 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Nextdoor 的工程師如何搭配 GPT-5.5 使用 Codex，來調查難以重現的問題、跨平台開發，並專注於產品成果。</description>
     </item>
     <item>
       <title>Apple 透過全新智慧框架與進階工具協助 App 開發</title>
