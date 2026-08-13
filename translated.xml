@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 21:56:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:11:53 GMT</lastBuildDate>
+    <item>
+      <title>Flock 表示其新工具將有助於辨識警方濫權，但尚未說明其運作方式</title>
+      <link>https://techcrunch.com/2026/08/13/flock-says-its-new-tool-will-help-identify-police-abuse-but-hasnt-explained-how-it-works/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152977</guid>
+      <pubDate>Thu, 13 Aug 2026 22:02:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家監控公司宣布，將把一款名為「Audit Assistance」的工具列為所有客戶的強制使用項目，並聲稱這款工具已經幫助抓到濫權行為。不過，該公司至今仍未詳細說明這項工具的運作方式，讓外界對其成效產生疑問。</description>
+    </item>
     <item>
       <title>如果 Apple 傳送推播通知提醒你遭受間諜軟體攻擊，請認真看待</title>
       <link>https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/</link>
@@ -306,15 +315,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Mission Robotic Vehicle 正在嘗試首次為一顆老化的衛星安裝新的推進器。</description>
-    </item>
-    <item>
-      <title>Amazon 預設會用 Twitch 實況主的內容來訓練，除非他們選擇退出</title>
-      <link>https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152544</guid>
-      <pubDate>Wed, 12 Aug 2026 20:10:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「如果這是採用選擇加入制，就沒人會加入，」Twitch 產品長 Mike Minton 在一場回應使用者回饋的直播中說。「老實說，答案就是這樣。」</description>
     </item>
     <item>
       <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
