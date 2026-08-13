@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 21:41:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:56:45 GMT</lastBuildDate>
+    <item>
+      <title>如果 Apple 傳送推播通知提醒你遭受間諜軟體攻擊，請認真看待</title>
+      <link>https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152998</guid>
+      <pubDate>Thu, 13 Aug 2026 21:50:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>當 Apple 識別出政府間諜軟體鎖定某人的裝置時，現在會向 iPhone 鎖定畫面送出推播通知。</description>
+    </item>
     <item>
       <title>Writer 推出新的 AI 模型與升級版 harness，以控制 token 成本</title>
       <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
@@ -306,15 +315,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>「如果這是採用選擇加入制，就沒人會加入，」Twitch 產品長 Mike Minton 在一場回應使用者回饋的直播中說。「老實說，答案就是這樣。」</description>
-    </item>
-    <item>
-      <title>Grubhub 的 2400 萬美元 FTC 和解金終於要發給用餐者和外送員了</title>
-      <link>https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152496</guid>
-      <pubDate>Wed, 12 Aug 2026 18:34:21 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Grubhub 因其商業行為指控與 FTC 和解後，將寄出來自其 2380 萬美元罰款的支票。</description>
     </item>
     <item>
       <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
