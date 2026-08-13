@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 12:51:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:06:56 GMT</lastBuildDate>
+    <item>
+      <title>上課囉：GeForce NOW 為 Linux、Chromebook 等平台升級</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/</guid>
+      <pubDate>Thu, 13 Aug 2026 13:00:33 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>GeForce NOW 正在送上雲端遊戲的加分升級，正好趕上開學季。GeForce NOW 的原生 Linux 應用程式現已正式脫離測試版。GeForce NOW 也推出新的雲端最佳化，讓 Frame Generation 在串流時感覺更即時。除此之外，Performance 會員將可看到更高的畫面幀率 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/67cbb9f031f542eb7e86fb5f49c01a75/6a7dc02e3d633209a54c0ee3_gfn-thursday-8-13-blog-1920x1080-logo-842x450/gfn-thursday-8-13-blog-1920x1080-logo-842x450_thmb.jpg?v=2844c00c-76c2-4214-932a-70d53fd6af21" alt=""></p><p>GeForce NOW 正在送上雲端遊戲的加分升級，正好趕上開學季。GeForce NOW 的原生 Linux 應用程式現已正式脫離測試版。GeForce NOW 也推出新的雲端最佳化，讓 Frame Generation 在串流時感覺更即時。除此之外，Performance 會員將可看到更高的畫面幀率 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>未來屬於每一個人：為 Vision Ireland 支持的每位失明與視覺障礙成人提供免費 AI 眼鏡</title>
       <link>https://about.fb.com/news/2026/08/the-future-is-for-everyone-free-ai-glasses-for-every-blind-and-visually-impaired-adult-vision-ireland-supports/</link>
@@ -1145,18 +1157,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728" alt=""></p><p>現代晶片設計的複雜度持續提升，工程團隊正致力開發日益精密的 CPU、GPU 與 AI 系統。為協助因應這項挑戰，NVIDIA 正與產業領導者 Cadence 和 Synopsys 合作，為 NVIDIA Vera CPU 最佳化關鍵電子設計自動化（EDA）應用程式。NVIDIA 現正將 Vera 部署至 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 擴充 NVIDIA Agent Toolkit，納入 NVIDIA PhysicsNeMo 與 CUDA-X 函式庫，改變全球工程、設計與建造方式</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-nvidia-agent-toolkit-with-nvidia-physicsnemo-and-cuda-x-libraries-to-transform-how-the-world-engineers-designs-and-builds</guid>
-      <pubDate>Mon, 27 Jul 2026 00:45:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" alt=""></p><p>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Maps 將為 Ford UEV Platform 提供導航體驗</title>
