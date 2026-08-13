@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 21:11:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:26:31 GMT</lastBuildDate>
+    <item>
+      <title>Writer 推出新的 AI 模型與升級版 harness，以控制 token 成本</title>
+      <link>https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152760</guid>
+      <pubDate>Thu, 13 Aug 2026 21:13:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>基於 Z.ai 開源模型 GLM-5.2 的後訓練變體打造，Writer 表示這個新系統應該能以低得多的價格提供可直接部署的能力。</description>
+    </item>
     <item>
       <title>Databricks 原本想募資 10 億美元，投資人卻想投 150 億美元。最後它以 1900 億美元估值，敲定 50 億美元。</title>
       <link>https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/</link>
@@ -306,15 +315,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Grubhub 因其商業行為指控與 FTC 和解後，將寄出來自其 2380 萬美元罰款的支票。</description>
-    </item>
-    <item>
-      <title>AI 程式撰寫新創 Cognition 傳已在洽談以 400 億美元估值募資</title>
-      <link>https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152463</guid>
-      <pubDate>Wed, 12 Aug 2026 18:19:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cognition 可能正尋求再度募集一輪超大型融資，而距離其以 260 億美元估值募得 10 億美元，才過了短短幾個月。</description>
     </item>
     <item>
       <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
