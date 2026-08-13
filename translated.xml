@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 18:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 18:40:12 GMT</lastBuildDate>
+    <item>
+      <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/</guid>
+      <pubDate>Thu, 13 Aug 2026 18:30:29 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 在休士頓啟用了全新的 Advanced Manufacturing Center，為中小型企業提供免費訓練與教育課程。</description>
+    </item>
+    <item>
+      <title>Anthropic 放任 AI 代理人執行同一項任務。它們開始打起地盤戰。</title>
+      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152849</guid>
+      <pubDate>Thu, 13 Aug 2026 18:28:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 研究人員發現，AI 代理人可能以出乎意料的方式衝突、串通和協調，這也引發了新的問題：現今的安全測試是否能捕捉多代理系統的風險。</description>
+    </item>
     <item>
       <title>OpenAI 延攬新任 CRO，管理層人事調整持續進行</title>
       <link>https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/</link>
@@ -297,15 +315,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一個以鎖定運輸公司和私募股權公司聞名的勒索集團，宣稱對 Uber Freight 的資料外洩事件負責。</description>
-    </item>
-    <item>
-      <title>Mesh，Automattic 的人人適用 CRM 登上 Android</title>
-      <link>https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152358</guid>
-      <pubDate>Wed, 12 Aug 2026 16:57:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>來自 Automattic、由 AI 驅動的聯絡人應用程式與關係管理工具 Mesh，現在已推出 Android 版。</description>
     </item>
     <item>
       <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
@@ -1966,15 +1975,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 預覽新的兒童安全功能，讓家長能更有效控制孩子的內容、通訊以及裝置使用時間。</description>
-    </item>
-    <item>
-      <title>由於 DMA，iOS 27 和 iPadOS 27 的 Siri AI 在歐盟延後推出</title>
-      <link>https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/due-to-dma-siri-ai-delayed-in-eu-for-ios-27-and-ipados-27/</guid>
-      <pubDate>Mon, 08 Jun 2026 18:13:26 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>由於《數位市場法》，Apple 將無法隨著 iOS 27 和 iPadOS 27 的發布在歐盟推出 Siri AI。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
