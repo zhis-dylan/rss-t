@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 13:22:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:37:12 GMT</lastBuildDate>
+    <item>
+      <title>Omni 專家分享他們對這個模型最感興趣的地方。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-experts-roundtable/</guid>
+      <pubDate>Thu, 13 Aug 2026 13:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們訪問了幾位打造 Gemini Omni 的專家，請他們分享對這個模型最感興趣的地方。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp" alt=""></p><p>我們訪問了幾位打造 Gemini Omni 的專家，請他們分享對這個模型最感興趣的地方。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>社群媒體能重新開始嗎？Bluesky 的執行長與營運長在 TechCrunch Disrupt 2026 提出他們的看法</title>
+      <link>https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152224</guid>
+      <pubDate>Thu, 13 Aug 2026 13:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bluesky 執行長 Toni Schneider 將與營運長 Rose Wang 一同登上 Disrupt 舞台，探討社群媒體是否能重新開始，以及 Bluesky 在這場可能的重啟中扮演什麼角色。</description>
+    </item>
     <item>
       <title>上課囉：GeForce NOW 為 Linux、Chromebook 等平台升級</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-linux-native-app/</link>
@@ -203,15 +224,6 @@
       <description>從 Pixel 11 系列到全新的 Apple AirTag 競爭對手，這是 Made by Google 2026 活動的所有發表內容。</description>
     </item>
     <item>
-      <title>Google 的 Quick Share 新增點按分享模式</title>
-      <link>https://techcrunch.com/2026/08/12/googles-quick-share-adds-a-tap-to-share-mode/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152297</guid>
-      <pubDate>Wed, 12 Aug 2026 14:13:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 的 Quick Share 功能新增了點按分享模式，可快速交換聯絡人、照片、影片等。</description>
-    </item>
-    <item>
       <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
       <link>https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</guid>
@@ -224,16 +236,16 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555" alt=""></p><p>NVIDIA 創辦人暨執行長 Jensen Huang 在 Glassdoor 2026 年最佳執行長榜單中排名第 1。這份剛公布的排名，是直接由最了解其領導表現的人——員工——所認可。Huang 名列榜首，99% 的員工認可他所做的工作。「隨著 AI 與不斷變動的期待 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
+      <title>當你停止呼吸時，你的 Pixel Watch 如何介入</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
+      <description>Breathing Emergency Detection 會在你停止呼吸時聯絡緊急服務，讓你有機會獲得可能救命的照護。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp" alt=""></p><p>Breathing Emergency Detection 會在你停止呼吸時聯絡緊急服務，讓你有機會獲得可能救命的照護。</p>]]></content:encoded>
     </item>
     <item>
       <title>現在你可以把更多你喜愛的應用程式和服務連接到 Gemini。</title>
@@ -260,6 +272,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp" alt=""></p><p>Android 裝置之間的分享現在更簡單了，從 Pixel 開始。使用快速分享，輕點即可傳送聯絡資訊等內容。</p>]]></content:encoded>
     </item>
     <item>
+      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
+      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Pixel 11 發表會上 7 個不容錯過的更新</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</guid>
@@ -282,6 +306,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp" alt=""></p><p>探索搭載更新相機硬體、Tensor G6 晶片、LED HiLight 通知和更快速 Gemini AI 支援的 Google Pixel 11 系列。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Google Pixel Tag 掌握你的貴重物品</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/</guid>
+      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Pixel Tag 透過藍牙 Channel Sounding 和 Find Hub 定位鑰匙、錢包和行李。查看規格、價格和相容性。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp" alt=""></p><p>Google Pixel Tag 透過藍牙 Channel Sounding 和 Find Hub 定位鑰匙、錢包和行李。查看規格、價格和相容性。</p>]]></content:encoded>
     </item>
     <item>
       <title>這是全新 Pixel 裝置的搶先一覽。</title>
@@ -332,18 +368,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp" alt=""></p><p>Google 正在隨著 Made by Google 為 Pixel Buds Pro 2 和 Pixel Buds 2a 推出新色和升級功能。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Google Pixel Tag 掌握你的貴重物品</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Pixel Tag 透過藍牙 Channel Sounding 和 Find Hub 定位鑰匙、錢包和行李。查看規格、價格和相容性。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp" alt=""></p><p>Google Pixel Tag 透過藍牙 Channel Sounding 和 Find Hub 定位鑰匙、錢包和行李。查看規格、價格和相容性。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Pixel Watch 5：手腕上的主動協助與進階健康追蹤</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/</guid>
@@ -354,6 +378,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp" alt=""></p><p>Google Pixel Watch 5 提供主動提醒、低延遲 Gemini AI 功能和健康追蹤，讓你保持連線。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>透過 Pixel 和 Fitbit 上的 Health Guardian 功能，追蹤身體的細微變化</title>
+      <link>https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/</guid>
+      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>全新的主動式健康與保健層級即將來到你的手腕上。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp" alt=""></p><p>全新的主動式健康與保健層級即將來到你的手腕上。</p>]]></content:encoded>
     </item>
     <item>
       <title>Made by Google 2026</title>
@@ -378,30 +414,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Fold_Social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Fold_Social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Fold_Social.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 Pro Fold 是我們最新的摺疊機，採用更薄更輕的設計、全新的主相機，以及更強大的智慧工具。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 Pixel 和 Fitbit 上的 Health Guardian 功能，追蹤身體的細微變化</title>
-      <link>https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/pixel-watch-health-guardian/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>全新的主動式健康與保健層級即將來到你的手腕上。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp" alt=""></p><p>全新的主動式健康與保健層級即將來到你的手腕上。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>當你停止呼吸時，你的 Pixel Watch 如何介入</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-breathing-emergency-detection/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Breathing Emergency Detection 會在你停止呼吸時聯絡緊急服務，讓你有機會獲得可能救命的照護。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BED_social.max-600x600.format-webp.webp" alt=""></p><p>Breathing Emergency Detection 會在你停止呼吸時聯絡緊急服務，讓你有機會獲得可能救命的照護。</p>]]></content:encoded>
     </item>
     <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
@@ -538,18 +550,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ammaar_Trailer_Thumbnail_01.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ammaar_Trailer_Thumbnail_01.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ammaar_Trailer_Thumbnail_01.max-600x600.format-webp.webp" alt=""></p><p>Google AI Professional Certificate 現已成為 Coursera 上最受歡迎的生成式 AI 課程，我們也將加入 vibe coding 進行擴充。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Health 宣布與 Abbott 建立策略合作夥伴關係，Abbott 是健康與保健領域的領導者。</title>
-      <link>https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/abbott-google-health-partnership/</guid>
-      <pubDate>Tue, 11 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Health 正與 Abbott 攜手，提供更全面的代謝與女性健康觀點。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Health_Abbott_Flo_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Health_Abbott_Flo_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Health_Abbott_Flo_social.max-600x600.format-webp.webp" alt=""></p><p>Google Health 正與 Abbott 攜手，提供更全面的代謝與女性健康觀點。</p>]]></content:encoded>
     </item>
     <item>
       <title>在 ChatGPT 中測試廣告</title>
