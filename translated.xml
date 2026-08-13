@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 04:33:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 04:48:21 GMT</lastBuildDate>
+    <item>
+      <title>Meta 對澳洲社群媒體禁令的遵循情況</title>
+      <link>https://about.fb.com/news/2026/08/metas-compliance-with-australias-social-media-ban/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=49927</guid>
+      <pubDate>Thu, 13 Aug 2026 04:39:21 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>Meta 對澳洲社群媒體禁令遵循情況的最新消息
+這篇〈Meta 對澳洲社群媒體禁令的遵循情況〉最早刊登於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2022/06/New-Tools-and-Resources-for-Parents-and-Teens-in-VR-and-on-Instagram_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2022/06/New-Tools-and-Resources-for-Parents-and-Teens-in-VR-and-on-Instagram_Header.jpg?fit=1920%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2022/06/New-Tools-and-Resources-for-Parents-and-Teens-in-VR-and-on-Instagram_Header.jpg?fit=1920%2C1080" alt=""></p><p>Meta 對澳洲社群媒體禁令遵循情況的最新消息<br>這篇〈Meta 對澳洲社群媒體禁令的遵循情況〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>一些 Claude 使用者很不滿 Anthropic 的新浮水印會抓到他們在工作、課堂上作弊</title>
       <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
@@ -1148,19 +1161,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/634ffea7eb85d313ed0fd30311186e9a/6a63f3343d6332dc602a2535_nvidia-agent-toolkit-dac/nvidia-agent-toolkit-dac_thmb.jpg?v=68fd82ab-e9ff-4b9a-b17e-e7309d6963a7" alt=""></p><p>NVIDIA 今日宣布擴充用於工程領域的 NVIDIA Agent Toolkit，現新增 NVIDIA PhysicsNeMo™ 和 CUDA-X™ 函式庫作為可供代理人使用的工具與技能，打造改變全球產品設計與開發方式的能力。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta AI 不只是思考，還會行動</title>
-      <link>https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49654</guid>
-      <pubDate>Fri, 24 Jul 2026 17:00:55 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>由 Muse Spark 1.1 驅動的 Meta AI，現在可以從頭到尾進行建置、規劃並執行到底。
-〈Meta AI 不只是思考，還會行動〉最早出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif" medium="image" type="image/gif"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/02_Daily-briefing.gif" alt=""></p><p>由 Muse Spark 1.1 驅動的 Meta AI，現在可以從頭到尾進行建置、規劃並執行到底。<br>〈Meta AI 不只是思考，還會行動〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Maps 將為 Ford UEV Platform 提供導航體驗</title>
