@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 14:52:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:07:59 GMT</lastBuildDate>
+    <item>
+      <title>誰真的需要一台調酒機器人？</title>
+      <link>https://techcrunch.com/2026/08/13/bartesian-duet-cocktail-maker-review/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151162</guid>
+      <pubDate>Thu, 13 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bartesian 的調酒機可說是像 Keurig 或 Nespresso 機一樣的機器，但用來製作含酒精飲料。</description>
+    </item>
     <item>
       <title>Apple 傳與出版商洽談付費，讓 Siri 提供即時新聞：報導</title>
       <link>https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/</link>
@@ -213,15 +222,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>投資人仍在等待他們分得 2.5 億美元意外之財，而 VideoVerse 共同創辦人 Vinayak Shrivastav 現在則身陷多起法律案件的核心。</description>
-    </item>
-    <item>
-      <title>在 Microsoft 威脅採取法律行動後，一名資安研究人員公開了一個新的 Windows 零日漏洞</title>
-      <link>https://techcrunch.com/2026/08/12/after-microsoft-threatened-legal-action-a-security-researcher-publishes-a-new-windows-zero-day-bug/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152294</guid>
-      <pubDate>Wed, 12 Aug 2026 15:18:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是資安研究人員 Nightmare Eclipse 釋出的最新零日漏洞，儘管 Microsoft 已公開威脅要對其採取法律行動。</description>
     </item>
     <item>
       <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
