@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 13 Aug 2026 15:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:38:18 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 取消不成功的 AI 功能，同時整合其獨立的 Copilot 應用程式</title>
+      <link>https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152748</guid>
+      <pubDate>Thu, 13 Aug 2026 15:30:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 正在簡化 Copilot，把消費者版和商業版應用程式合併，並停用 AI 生成的 podcast、群組聊天、深度研究，以及其 Mico 角色。</description>
+    </item>
     <item>
       <title>Nvidia 全新 5000 億美元計畫雖然有風險，但很聰明，特別是對老化的 GPU 而言</title>
       <link>https://techcrunch.com/2026/08/13/nvidias-new-500b-plan-is-risky-but-brilliant-especially-for-aging-gpus/</link>
@@ -213,15 +222,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這輪新融資是在 Lovable 於 6 月達到年化營收運行率 5 億美元之後，這家新創公司告訴 TechCrunch。</description>
-    </item>
-    <item>
-      <title>Facebook 正式推出獨立的 Creator Studio 應用程式，內建供創作者使用的 AI 工具</title>
-      <link>https://techcrunch.com/2026/08/12/facebook-officially-rolls-out-its-standalone-creator-studio-app-with-ai-tools-for-creators/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152327</guid>
-      <pubDate>Wed, 12 Aug 2026 15:56:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款新應用程式已推出，內建 Facebook 的 AI 創作者助理，會根據創作者的內容風格、表現、受眾互動情況和目標，提供個人化建議。</description>
     </item>
     <item>
       <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
