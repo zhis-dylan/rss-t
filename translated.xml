@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 14 Aug 2026 16:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 16:35:08 GMT</lastBuildDate>
+    <item>
+      <title>Unforgetful 是一款新的提醒事項 app，適合總是忍不住按延後的人</title>
+      <link>https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153119</guid>
+      <pubDate>Fri, 14 Aug 2026 16:21:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Unforgetful 是資深獨立開發者 Marco Arment 的最新 app，設計目的是讓提醒事項更難被忽略，或是不小心就被取消。</description>
+    </item>
     <item>
       <title>Google 現在將允許使用者移除其 AI 生成內容上的可見浮水印</title>
       <link>https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/</link>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家社群媒體巨頭表示，經過十年後，是時候換上更俐落、更現代的外觀了。</description>
-    </item>
-    <item>
-      <title>Microsoft 取消不成功的 AI 功能，同時整合其獨立的 Copilot 應用程式</title>
-      <link>https://techcrunch.com/2026/08/13/microsoft-kills-off-unsuccessful-ai-features-while-merging-its-separate-copilot-apps/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152748</guid>
-      <pubDate>Thu, 13 Aug 2026 15:30:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 正在簡化 Copilot，把消費者版和商業版應用程式合併，並停用 AI 生成的 podcast、群組聊天、深度研究，以及其 Mico 角色。</description>
     </item>
     <item>
       <title>Omni 專家分享他們對這個模型最感興趣的地方。</title>
