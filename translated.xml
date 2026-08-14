@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 14 Aug 2026 22:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 22:53:08 GMT</lastBuildDate>
+    <item>
+      <title>將 PayPal 賣給 Stripe 和 Advent 的談判正在升溫</title>
+      <link>https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153275</guid>
+      <pubDate>Fri, 14 Aug 2026 22:43:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報導，PayPal 仍在與 Stripe 和私募股權公司 Advent 就潛在出售一事進行協商，這家金融科技公司的新任執行長正試圖扭轉公司的局面。</description>
+    </item>
     <item>
       <title>自動駕駛卡車已正式在加州高速公路上測試</title>
       <link>https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/</link>
@@ -188,15 +197,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 在休士頓啟用了全新的 Advanced Manufacturing Center，為中小型企業提供免費訓練與教育課程。</description>
-    </item>
-    <item>
-      <title>Anthropic 放任 AI 代理人執行同一項任務。它們開始打起地盤戰。</title>
-      <link>https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152849</guid>
-      <pubDate>Thu, 13 Aug 2026 18:28:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 研究人員發現，AI 代理人可能以出乎意料的方式衝突、串通和協調，這也引發了新的問題：現今的安全測試是否能捕捉多代理系統的風險。</description>
     </item>
     <item>
       <title>介紹 Gemini 3.7 Flash</title>
