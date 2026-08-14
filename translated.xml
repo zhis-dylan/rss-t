@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 14 Aug 2026 18:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:06:23 GMT</lastBuildDate>
+    <item>
+      <title>關於據稱伊朗駭客入侵美國自來水事業單位，我們所知的內容</title>
+      <link>https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153226</guid>
+      <pubDate>Fri, 14 Aug 2026 19:04:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在過去幾週裡，駭客已鎖定並入侵美國多座淨水廠的系統。以下是我們對這波據稱由伊朗政府發動的攻擊所知與未知的部分。</description>
+    </item>
+    <item>
+      <title>稍後閱讀應用程式 Pocket 宣布關閉——以下是最佳替代方案</title>
+      <link>https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3011907</guid>
+      <pubDate>Fri, 14 Aug 2026 18:58:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Pocket 使用者可在 2025 年 10 月 8 日前匯出已儲存的文章和其他項目，包括清單、封存、收藏、筆記和標註。</description>
+    </item>
     <item>
       <title>Universitas Gadjah Mada、Indosat 與 NVIDIA 攜手開設印尼首座大學 AI 中心，培育在地 AI 人才</title>
       <link>https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/</link>
@@ -227,24 +245,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 的新功能 Magic Capture 會從動態場景中找出最佳照片，讓你在捕捉珍貴時刻時不會錯過它們。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>X 開源其排名演算法，讓使用者可查看自己是否被「影子封鎖」</title>
-      <link>https://techcrunch.com/2026/08/13/x-open-sources-its-ranking-algorithm-letting-users-see-if-theyve-been-shadowbanned/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152517</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>X 正在擴大其「For You」動態消息背後的開源程式碼，並推出新的透明度工具，顯示使用者何時其排名系統已影響他們的帳號或貼文。</description>
-    </item>
-    <item>
-      <title>Instagram 推出重新設計的字標</title>
-      <link>https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152762</guid>
-      <pubDate>Thu, 13 Aug 2026 15:46:02 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家社群媒體巨頭表示，經過十年後，是時候換上更俐落、更現代的外觀了。</description>
     </item>
     <item>
       <title>Omni 專家分享他們對這個模型最感興趣的地方。</title>
