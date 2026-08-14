@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 14 Aug 2026 14:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 14:18:57 GMT</lastBuildDate>
+    <item>
+      <title>如果新的預測成真，超大規模雲端業者可能會後悔擁抱天然氣</title>
+      <link>https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152944</guid>
+      <pubDate>Fri, 14 Aug 2026 14:05:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國部分地區的天然氣價格可能會翻三倍，這可能讓超大規模雲端業者得為為 AI 資料中心供電支付高額帳單。</description>
+    </item>
     <item>
       <title>美國法院將開始公布政府使用間諜軟體的頻率</title>
       <link>https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/</link>
@@ -245,15 +254,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_experts_social.max-600x600.format-webp.webp" alt=""></p><p>我們訪問了幾位打造 Gemini Omni 的專家，請他們分享對這個模型最感興趣的地方。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>社群媒體能重新開始嗎？Bluesky 的執行長與營運長在 TechCrunch Disrupt 2026 提出他們的看法</title>
-      <link>https://techcrunch.com/2026/08/13/can-social-media-start-over-blueskys-ceo-and-coo-deliver-their-case-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152224</guid>
-      <pubDate>Thu, 13 Aug 2026 13:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Bluesky 執行長 Toni Schneider 將與營運長 Rose Wang 一同登上 Disrupt 舞台，探討社群媒體是否能重新開始，以及 Bluesky 在這場可能的重啟中扮演什麼角色。</description>
     </item>
     <item>
       <title>上課囉：GeForce NOW 為 Linux、Chromebook 等平台升級</title>
