@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 14 Aug 2026 14:49:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:04:21 GMT</lastBuildDate>
+    <item>
+      <title>Apple 提議對在 App Store 外完成的購買抽成 15%</title>
+      <link>https://techcrunch.com/2026/08/14/apple-proposes-to-take-a-15-cut-of-purchases-made-outside-the-app-store/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153110</guid>
+      <pubDate>Fri, 14 Aug 2026 14:54:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 正在請求聯邦法官允許其對透過 iOS App 內外部連結進行的購買收取最高 15% 的佣金。</description>
+    </item>
+    <item>
+      <title>Kog 正在深入挖掘，從 GPU 擠出更多推論效能</title>
+      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153090</guid>
+      <pubDate>Fri, 14 Aug 2026 14:50:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>法國新創公司 Kog 認為，GPU 不適合代理式工作流程的想法可能是一種誤解。</description>
+    </item>
     <item>
       <title>如果新的預測成真，超大規模雲端業者可能會後悔擁抱天然氣</title>
       <link>https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/</link>
@@ -224,24 +242,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Bartesian 的調酒機可說是像 Keurig 或 Nespresso 機一樣的機器，但用來製作含酒精飲料。</description>
-    </item>
-    <item>
-      <title>Apple 傳與出版商洽談付費，讓 Siri 提供即時新聞：報導</title>
-      <link>https://techcrunch.com/2026/08/13/apple-in-talks-to-pay-publishers-to-provide-siri-with-current-news-report/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152741</guid>
-      <pubDate>Thu, 13 Aug 2026 14:34:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據《華爾街日報》報導，這家科技巨頭已考慮為這些付款編列九位數預算。</description>
-    </item>
-    <item>
-      <title>美國首次允許部分私人公司發動網路攻擊</title>
-      <link>https://techcrunch.com/2026/08/13/in-a-first-us-will-allow-some-private-firms-to-carry-out-cyberattacks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152695</guid>
-      <pubDate>Thu, 13 Aug 2026 14:09:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項新命令推翻了美國數十年來既有的資安政策，該政策禁止私人公司進行「hack back」攻擊或攻擊性網路作戰。</description>
     </item>
     <item>
       <title>Omni 專家分享他們對這個模型最感興趣的地方。</title>
