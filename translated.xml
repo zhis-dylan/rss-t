@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 14 Aug 2026 17:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 17:20:31 GMT</lastBuildDate>
+    <item>
+      <title>Universitas Gadjah Mada、Indosat 與 NVIDIA 攜手開設印尼首座大學 AI 中心，培育在地 AI 人才</title>
+      <link>https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ugm-indosat-nvidia-ai-technology-center/</guid>
+      <pubDate>Fri, 14 Aug 2026 17:13:05 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>印尼正掌握自身 AI 未來的主導權。本週，通訊與數位事務部（Komdigi）、Indosat Ooredoo Hutchison（Indosat 或 IOH）、NVIDIA 以及 Universitas Gadjah Mada（UGM）在日惹啟動了 UGM Indosat NVIDIA AI Technology Center（NVAITC）——全國首座以大學為基礎的 AI 技術中心。該中心是在印尼 AI Center of […] 之下成立的。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/16ff1b2c2a741c0630788f9373ef0aff/6a7f4cc73d63328f41f1a0cf_Launching-Ceremony-2-1-842x450/Launching-Ceremony-2-1-842x450_thmb.jpg?v=8723012a-4021-4988-b070-ff6f89013f45" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/16ff1b2c2a741c0630788f9373ef0aff/6a7f4cc73d63328f41f1a0cf_Launching-Ceremony-2-1-842x450/Launching-Ceremony-2-1-842x450_thmb.jpg?v=8723012a-4021-4988-b070-ff6f89013f45"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/16ff1b2c2a741c0630788f9373ef0aff/6a7f4cc73d63328f41f1a0cf_Launching-Ceremony-2-1-842x450/Launching-Ceremony-2-1-842x450_thmb.jpg?v=8723012a-4021-4988-b070-ff6f89013f45" alt=""></p><p>印尼正掌握自身 AI 未來的主導權。本週，通訊與數位事務部（Komdigi）、Indosat Ooredoo Hutchison（Indosat 或 IOH）、NVIDIA 以及 Universitas Gadjah Mada（UGM）在日惹啟動了 UGM Indosat NVIDIA AI Technology Center（NVAITC）——全國首座以大學為基礎的 AI 技術中心。該中心是在印尼 AI Center of […] 之下成立的。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Unforgetful 是一款新的提醒事項 app，適合總是忍不住按延後的人</title>
       <link>https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/</link>
@@ -1181,18 +1193,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的 OpenAI 研究顯示，AI 正在擴展勞工所做的事情，ChatGPT 使用者承擔跨職務的任務，並重塑工作界線。</description>
-    </item>
-    <item>
-      <title>NVIDIA 運用 Vera CPU 加速次世代 CPU 與 GPU 的設計</title>
-      <link>https://blogs.nvidia.com/blog/vera-cpu-eda/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-cpu-eda/</guid>
-      <pubDate>Mon, 27 Jul 2026 00:45:42 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>現代晶片設計的複雜度持續提升，工程團隊正致力開發日益精密的 CPU、GPU 與 AI 系統。為協助因應這項挑戰，NVIDIA 正與產業領導者 Cadence 和 Synopsys 合作，為 NVIDIA Vera CPU 最佳化關鍵電子設計自動化（EDA）應用程式。NVIDIA 現正將 Vera 部署至 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/64490d907967ce5f22a0ffc6b24e7721/6a66aa823d63325c4d09bac5_cpu-corp-blog-vera-superchip-1280x680-4939150-842x450/cpu-corp-blog-vera-superchip-1280x680-4939150-842x450_thmb.jpg?v=78f7efd1-7b38-4ec5-a140-95e41f375728" alt=""></p><p>現代晶片設計的複雜度持續提升，工程團隊正致力開發日益精密的 CPU、GPU 與 AI 系統。為協助因應這項挑戰，NVIDIA 正與產業領導者 Cadence 和 Synopsys 合作，為 NVIDIA Vera CPU 最佳化關鍵電子設計自動化（EDA）應用程式。NVIDIA 現正將 Vera 部署至 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Maps 將為 Ford UEV Platform 提供導航體驗</title>
