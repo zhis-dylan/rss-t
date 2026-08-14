@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 14 Aug 2026 13:18:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:33:36 GMT</lastBuildDate>
+    <item>
+      <title>美國法院將開始公布政府使用間諜軟體的頻率</title>
+      <link>https://techcrunch.com/2026/08/14/us-courts-will-start-publishing-how-often-the-government-uses-spyware/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153024</guid>
+      <pubDate>Fri, 14 Aug 2026 13:29:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國聯邦法院行政辦公室告訴 TechCrunch，將開始揭露法官授權使用間諜軟體對涉嫌犯罪者進行竊聽的次數。</description>
+    </item>
     <item>
       <title>Uber 和 Pony.ai 計劃在歐洲引進 2,000 輛 robotaxi</title>
       <link>https://techcrunch.com/2026/08/14/uber-and-pony-ai-plan-to-bring-2000-robotaxis-to-europe/</link>
@@ -306,15 +315,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2022/06/New-Tools-and-Resources-for-Parents-and-Teens-in-VR-and-on-Instagram_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2022/06/New-Tools-and-Resources-for-Parents-and-Teens-in-VR-and-on-Instagram_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2022/06/New-Tools-and-Resources-for-Parents-and-Teens-in-VR-and-on-Instagram_Header.jpg?fit=1920%2C1080" alt=""></p><p>Meta 對澳洲社群媒體禁令遵循情況的最新消息<br>這篇〈Meta 對澳洲社群媒體禁令的遵循情況〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>一些 Claude 使用者很不滿 Anthropic 的新浮水印會抓到他們在工作、課堂上作弊</title>
-      <link>https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152533</guid>
-      <pubDate>Wed, 12 Aug 2026 22:26:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 的新浮水印系統是個醜聞嗎？有些人已經在社群媒體上抱怨它是。</description>
     </item>
     <item>
       <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
