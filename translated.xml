@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 14 Aug 2026 19:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:36:39 GMT</lastBuildDate>
+    <item>
+      <title>Thrive 的 Joshua Kushner 譏諷矽谷 VC 對 AI 的狂熱</title>
+      <link>https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153180</guid>
+      <pubDate>Fri, 14 Aug 2026 19:33:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 的機會很大，但 Kushner 在他首封投資信中警告：「在我們看來，若因為興奮而削弱投資紀律，將會是個嚴重的錯誤。」</description>
+    </item>
     <item>
       <title>關於據稱伊朗駭客入侵美國自來水事業單位，我們所知的內容</title>
       <link>https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/</link>
@@ -212,15 +221,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp" alt=""></p><p>Sheets canvas 只要用簡單提示，就能把資料變成互動式儀表板、自訂讀書追蹤器、座位表等更多內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>福特可望按計畫完成為 Fathom 電動皮卡進行的 20 億美元工廠整修</title>
-      <link>https://techcrunch.com/2026/08/13/ford-on-track-to-complete-2b-factory-overhaul-for-fathom-ev-truck/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152763</guid>
-      <pubDate>Thu, 13 Aug 2026 16:37:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>福特預計將於 2027 年第一季開始打造 Fathom 電動車的原型車。</description>
     </item>
     <item>
       <title>當你的 Pixel 11 Pro 螢幕朝下時，也能透過 HiLight 接收更新。</title>
