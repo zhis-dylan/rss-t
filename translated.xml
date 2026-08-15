@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 15 Aug 2026 21:17:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:32:42 GMT</lastBuildDate>
+    <item>
+      <title>女子指控其繼父使用 Grok 將童年照片變成露骨影像</title>
+      <link>https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153313</guid>
+      <pubDate>Sat, 15 Aug 2026 21:29:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該女子聲稱，AI 工具正在「把日常生活轉變成兒童性虐待」。</description>
+    </item>
     <item>
       <title>Anthropic 分享更多 Claude 新浮水印將如何運作的細節</title>
       <link>https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/</link>
@@ -179,15 +188,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家監控公司宣布，將把一款名為「Audit Assistance」的工具列為所有客戶的強制使用項目，並聲稱這款工具已經幫助抓到濫權行為。不過，該公司至今仍未詳細說明這項工具的運作方式，讓外界對其成效產生疑問。</description>
-    </item>
-    <item>
-      <title>如果 Apple 傳送推播通知提醒你遭受間諜軟體攻擊，請認真看待</title>
-      <link>https://techcrunch.com/2026/08/13/if-apple-sends-you-a-push-notification-alerting-you-to-a-spyware-attack-take-it-seriously/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152998</guid>
-      <pubDate>Thu, 13 Aug 2026 21:50:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當 Apple 識別出政府間諜軟體鎖定某人的裝置時，現在會向 iPhone 鎖定畫面送出推播通知。</description>
     </item>
     <item>
       <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
