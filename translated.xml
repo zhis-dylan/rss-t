@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 15 Aug 2026 13:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:29:12 GMT</lastBuildDate>
+    <item>
+      <title>每一家已募資超過 1 億美元的核融合新創公司</title>
+      <link>https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=2878248</guid>
+      <pubDate>Sat, 15 Aug 2026 13:15:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>核融合新創公司至今已募得 71 億美元，其中大部分流向了少數幾家公司。</description>
+    </item>
     <item>
       <title>將 PayPal 賣給 Stripe 和 Advent 的談判正在升溫</title>
       <link>https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/</link>
@@ -179,15 +188,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 正在推出其最新、最強大模型加速版本的預覽版，藉此吸引企業用戶。</description>
-    </item>
-    <item>
-      <title>IBM 與 OpenAI 合作，強化企業 AI 佈局</title>
-      <link>https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152914</guid>
-      <pubDate>Thu, 13 Aug 2026 19:19:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>IBM 計劃在這項交易的一部分中，培訓並認證數萬名顧問使用 OpenAI 的技術。</description>
     </item>
     <item>
       <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
