@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 15 Aug 2026 16:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:15:23 GMT</lastBuildDate>
+    <item>
+      <title>如何判斷你的 AI 平台帳號是否遭到駭入</title>
+      <link>https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153258</guid>
+      <pubDate>Sat, 15 Aug 2026 16:10:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一份指南，說明如何檢查駭客是否已入侵你在最熱門 AI 平台上的帳號。</description>
+    </item>
     <item>
       <title>每一家已募資超過 1 億美元的核融合新創公司</title>
       <link>https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/</link>
@@ -179,15 +188,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 很燒錢，Ali Ghodsi 告訴 TechCrunch。由於有這麼多投資人想參與他最新一輪募資，他答應了比原先計畫更多的資金。</description>
-    </item>
-    <item>
-      <title>OpenAI 推出「Ultrafast」，一種讓 GPT 5.6 Sol 以 14 倍速度運作的新模式</title>
-      <link>https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152875</guid>
-      <pubDate>Thu, 13 Aug 2026 19:22:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 正在推出其最新、最強大模型加速版本的預覽版，藉此吸引企業用戶。</description>
     </item>
     <item>
       <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
