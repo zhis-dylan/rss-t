@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 15 Aug 2026 16:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 16:30:32 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 正式完成收購 Cursor</title>
+      <link>https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153306</guid>
+      <pubDate>Sat, 15 Aug 2026 16:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 寫碼新創 Cursor 現已正式成為 SpaceX 的一部分。</description>
+    </item>
     <item>
       <title>如何判斷你的 AI 平台帳號是否遭到駭入</title>
       <link>https://techcrunch.com/2026/08/15/how-to-tell-if-your-ai-platforms-accounts-have-been-hacked/</link>
@@ -179,15 +188,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>基於 Z.ai 開源模型 GLM-5.2 的後訓練變體打造，Writer 表示這個新系統應該能以低得多的價格提供可直接部署的能力。</description>
-    </item>
-    <item>
-      <title>Databricks 原本想募資 10 億美元，投資人卻想投 150 億美元。最後它以 1900 億美元估值，敲定 50 億美元。</title>
-      <link>https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152870</guid>
-      <pubDate>Thu, 13 Aug 2026 20:14:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 很燒錢，Ali Ghodsi 告訴 TechCrunch。由於有這麼多投資人想參與他最新一輪募資，他答應了比原先計畫更多的資金。</description>
     </item>
     <item>
       <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
