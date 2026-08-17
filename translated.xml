@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 12:32:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 12:47:25 GMT</lastBuildDate>
+    <item>
+      <title>鞏固智慧基礎設施</title>
+      <link>https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</guid>
+      <pubDate>Mon, 17 Aug 2026 12:34:51 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI 工廠是 AI 時代的關鍵基礎設施——在這裡，運算將能源與資料轉化為智慧，驅動每一家企業、每個產業和每個國家。在 AI 經濟中，運算就是營收。AI 工廠需要完整堆疊的關鍵資源：先進晶片、封裝、記憶體和網路，以及土地、電力和機殼。僅此而已 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1" alt=""></p><p>AI 工廠是 AI 時代的關鍵基礎設施——在這裡，運算將能源與資料轉化為智慧，驅動每一家企業、每個產業和每個國家。在 AI 經濟中，運算就是營收。AI 工廠需要完整堆疊的關鍵資源：先進晶片、封裝、記憶體和網路，以及土地、電力和機殼。僅此而已 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 保證 SB Energy 位於俄亥俄州的 PORTS-Pike Technology Campus 將專門承載 NVIDIA AI 運算</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute</guid>
+      <pubDate>Mon, 17 Aug 2026 12:33:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 宣布，已透過與 SB Energy 在俄亥俄州派克郡的 PORTS-Pike Technology Campus 合作，取得土地、電力和機殼（LPS）容量，以承載 NVIDIA 運算...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png" alt=""></p><p>NVIDIA 宣布，已透過與 SB Energy 在俄亥俄州派克郡的 PORTS-Pike Technology Campus 合作，取得土地、電力和機殼（LPS）容量，以承載 NVIDIA 運算...</p>]]></content:encoded>
+    </item>
     <item>
       <title>透過 Gemini 和 Pixel 更貼近賽事</title>
       <link>https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/</link>
@@ -1169,30 +1193,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" alt=""></p><p>為什麼安全需要全新的 Cyber Stack —— 介紹 Project Perception 資安的物理法則正在改變。自主系統現在可以推理、適應並持續運作。同時，攻擊的成本正在下降，而需要保護的內容在數量、速度與複雜度上持續增加。攻擊者可以更快產生漏洞利用程式，...<br>The post Rethinking security for the age of AI appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ilya Sutskever 的 Safe Superintelligence Inc. 與 NVIDIA 宣布長期策略合作夥伴關係</title>
-      <link>https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/ilya-sutskevers-safe-superintelligence-inc-and-nvidia-announce-long-term-strategic-partnership</guid>
-      <pubDate>Mon, 27 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>取得 NVIDIA 同級最佳的 Vera Rubin 系統，將 SSI 的運算能力提升一個數量級SANTA CLARA, Calif. 和 PALO ALTO, Calif.，2026 年 7 月 27 日 Safe Superintelligence Inc.（SSI）和 ...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/595589fd9c7929f74a3726662e15f4ac/6a6675ff3d63324e142a251a_ssi-nvidia/ssi-nvidia_thmb.jpg?v=c11a6442-e59a-4f26-b4a9-a08fb34f2181" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/595589fd9c7929f74a3726662e15f4ac/6a6675ff3d63324e142a251a_ssi-nvidia/ssi-nvidia_thmb.jpg?v=c11a6442-e59a-4f26-b4a9-a08fb34f2181"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/595589fd9c7929f74a3726662e15f4ac/6a6675ff3d63324e142a251a_ssi-nvidia/ssi-nvidia_thmb.jpg?v=c11a6442-e59a-4f26-b4a9-a08fb34f2181" alt=""></p><p>取得 NVIDIA 同級最佳的 Vera Rubin 系統，將 SSI 的運算能力提升一個數量級SANTA CLARA, Calif. 和 PALO ALTO, Calif.，2026 年 7 月 27 日 Safe Superintelligence Inc.（SSI）和 ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>產業領袖攜手成立 Open Secure AI Alliance，推動 AI 安全與資安</title>
-      <link>https://blogs.nvidia.com/blog/open-secure-ai-alliance/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-secure-ai-alliance/</guid>
-      <pubDate>Mon, 27 Jul 2026 09:00:07 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20267/50989c32e58bc9eda5f3804b0d99601c/6a765f823d6332bf06b14787_osaia-logo-garden_press-kit_1920x1080/osaia-logo-garden_press-kit_1920x1080_thmb.png?v=d85d534b-de3e-4ced-9011-45b14812d3ec" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20267/50989c32e58bc9eda5f3804b0d99601c/6a765f823d6332bf06b14787_osaia-logo-garden_press-kit_1920x1080/osaia-logo-garden_press-kit_1920x1080_thmb.png?v=d85d534b-de3e-4ced-9011-45b14812d3ec"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20267/50989c32e58bc9eda5f3804b0d99601c/6a765f823d6332bf06b14787_osaia-logo-garden_press-kit_1920x1080/osaia-logo-garden_press-kit_1920x1080_thmb.png?v=d85d534b-de3e-4ced-9011-45b14812d3ec" alt=""></p><p>開源軟體是全球經濟的重要支柱。它讓技術可被專家社群取得並加以觀察，支撐著雲端運算、金融服務、製造業、電信、政府與網際網路服務。資安是開源軟體前三大受益領域之一。Open Secure AI Alliance —— 建立在 […] 的領導基礎上</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 如何擴展人們在工作中所做的事</title>
