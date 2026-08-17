@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 17:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 17:35:17 GMT</lastBuildDate>
+    <item>
+      <title>Feedly將長達一週的變慢歸因於 bug，而非其 AI 轉型</title>
+      <link>https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153433</guid>
+      <pubDate>Mon, 17 Aug 2026 17:10:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Feedly 表示，造成效能問題、讓部分使用者覺得其網頁應用程式幾乎「無法使用」的原因，是一個 bug；而對其行動應用程式與客戶支援的抱怨，也正在加劇使用者的不滿。</description>
+    </item>
     <item>
       <title>Amazon，曾經是一家線上書商，正在銷毀珍本書來訓練 AI 模型</title>
       <link>https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/</link>
@@ -239,15 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>開發自動駕駛卡車的兩家公司 Aurora Innovation 和 Kodiak AI 已獲得加州車輛管理局核發的許可證。</description>
-    </item>
-    <item>
-      <title>Thrive 的 Joshua Kushner 譏諷矽谷 VC 對 AI 的狂熱</title>
-      <link>https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153180</guid>
-      <pubDate>Fri, 14 Aug 2026 19:33:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 的機會很大，但 Kushner 在他首封投資信中警告：「在我們看來，若因為興奮而削弱投資紀律，將會是個嚴重的錯誤。」</description>
     </item>
     <item>
       <title>Universitas Gadjah Mada、Indosat 與 NVIDIA 攜手開設印尼首座大學 AI 中心，培育在地 AI 人才</title>
