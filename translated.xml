@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 13:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:17:46 GMT</lastBuildDate>
+    <item>
+      <title>Wispr 以 20 億美元估值募得 2.8 億美元，並將目光投向語音輸入之外</title>
+      <link>https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153341</guid>
+      <pubDate>Mon, 17 Aug 2026 13:10:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Wispr 的總募資額現已超過 3.61 億美元。</description>
+    </item>
     <item>
       <title>加密貨幣硬體錢包持有者在近期一連串個資竊取事件後面臨新的安全風險</title>
       <link>https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/</link>
@@ -50,6 +59,24 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini 和 Pixel 與五家全球足球俱樂部合作，透過 AI 和智慧型手機技術提升球迷的比賽日體驗。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>防守者的窗口</title>
+      <link>https://openai.com/index/the-defenders-window</link>
+      <guid isPermaLink="false">https://openai.com/index/the-defenders-window</guid>
+      <pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>AI 正在重塑攻擊者與防守者的資安攻防。了解 OpenAI 如何強化自身防禦，以及資安團隊現在可以採取哪些行動。</description>
+    </item>
+    <item>
+      <title>OpenAI 加入 PORTS-Pike 計畫</title>
+      <link>https://openai.com/index/openai-joins-ports-pike-project</link>
+      <guid isPermaLink="false">https://openai.com/index/openai-joins-ports-pike-project</guid>
+      <pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 加入 PORTS-Pike 計畫，擴大社區投資並支持南俄亥俄州數千個工作機會</description>
     </item>
     <item>
       <title>智慧時代的新政策構想</title>
@@ -224,15 +251,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 正在請求聯邦法官允許其對透過 iOS App 內外部連結進行的購買收取最高 15% 的佣金。</description>
-    </item>
-    <item>
-      <title>Kog 正在深入挖掘，從 GPU 擠出更多推論效能</title>
-      <link>https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153090</guid>
-      <pubDate>Fri, 14 Aug 2026 14:50:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>法國新創公司 Kog 認為，GPU 不適合代理式工作流程的想法可能是一種誤解。</description>
     </item>
     <item>
       <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
@@ -1894,24 +1912,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 支持歐盟 AI 內容透明度行為準則，推動來源標準和工具，協助人們理解 AI 生成內容。</description>
-    </item>
-    <item>
-      <title>透過你的 Oracle 雲端承諾存取 OpenAI 模型和 Codex</title>
-      <link>https://openai.com/index/openai-on-oracle-cloud</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-on-oracle-cloud</guid>
-      <pubDate>Wed, 10 Jun 2026 20:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>透過 Oracle Cloud 存取 OpenAI 模型和 Codex，使用現有承諾來建構與部署具備企業級安全性與治理的 AI。</description>
-    </item>
-    <item>
-      <title>與中國大陸有關聯的影響力行動正鎖定美國的 AI 辯論</title>
-      <link>https://openai.com/index/prc-linked-influence-operations-ai-debates</link>
-      <guid isPermaLink="false">https://openai.com/index/prc-linked-influence-operations-ai-debates</guid>
-      <pubDate>Wed, 10 Jun 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的一份新報告詳細說明了與中國大陸有關聯的影響力行動如何利用 AI 鎖定美國科技辯論、資料中心敘事、關稅，以及關於 ChatGPT 的不實說法。</description>
     </item>
     <item>
       <title>Apple 推出跨服務的創新功能與智慧體驗</title>
