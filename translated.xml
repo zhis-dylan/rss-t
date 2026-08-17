@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 17:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 18:51:02 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 開始測試新的音訊與影片體驗，類似熱門 TikTok 影片</title>
+      <link>https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153520</guid>
+      <pubDate>Mon, 17 Aug 2026 18:42:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Reddit 正開始測試熱門貼文的影片和音訊版本，讓使用者可以觀看或收聽 Reddit 故事，而不只是閱讀它們。</description>
+    </item>
+    <item>
+      <title>以聲音驅動的消防保護新創獲得 1,500 萬美元資金，盼在火勢變得災難性之前將其撲滅</title>
+      <link>https://techcrunch.com/2026/08/17/sound-powered-fire-protection-startup-gets-15m-to-snuff-out-fires-before-they-turn-catastrophic/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153503</guid>
+      <pubDate>Mon, 17 Aug 2026 18:32:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Sonic Fire Protection 募得新一輪資金，協助把其以聲音驅動的消防保護系統導入從商業廚房到公寓大樓等各種場域。</description>
+    </item>
+    <item>
+      <title>YouTube 現在只要影片開始播放就會計為一次觀看</title>
+      <link>https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153547</guid>
+      <pubDate>Mon, 17 Aug 2026 18:09:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項變更是在 YouTube 一年前將同樣的做法套用到 Shorts 影片觀看次數統計之後推出的。</description>
+    </item>
     <item>
       <title>Feedly將長達一週的變慢歸因於 bug，而非其 AI 轉型</title>
       <link>https://techcrunch.com/2026/08/17/feedly-attributes-weeklong-slowdown-to-bug-not-its-ai-pivot/</link>
@@ -221,33 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一份指南，說明如何檢查駭客是否已入侵你在最熱門 AI 平台上的帳號。</description>
-    </item>
-    <item>
-      <title>每一家已募資超過 1 億美元的核融合新創公司</title>
-      <link>https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=2878248</guid>
-      <pubDate>Sat, 15 Aug 2026 13:15:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>核融合新創公司至今已募得 71 億美元，其中大部分流向了少數幾家公司。</description>
-    </item>
-    <item>
-      <title>將 PayPal 賣給 Stripe 和 Advent 的談判正在升溫</title>
-      <link>https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153275</guid>
-      <pubDate>Fri, 14 Aug 2026 22:43:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報導，PayPal 仍在與 Stripe 和私募股權公司 Advent 就潛在出售一事進行協商，這家金融科技公司的新任執行長正試圖扭轉公司的局面。</description>
-    </item>
-    <item>
-      <title>自動駕駛卡車已正式在加州高速公路上測試</title>
-      <link>https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153246</guid>
-      <pubDate>Fri, 14 Aug 2026 20:37:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>開發自動駕駛卡車的兩家公司 Aurora Innovation 和 Kodiak AI 已獲得加州車輛管理局核發的許可證。</description>
     </item>
     <item>
       <title>Universitas Gadjah Mada、Indosat 與 NVIDIA 攜手開設印尼首座大學 AI 中心，培育在地 AI 人才</title>
