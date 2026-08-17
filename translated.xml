@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 16:34:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:49:53 GMT</lastBuildDate>
+    <item>
+      <title>Amazon，曾經是一家線上書商，正在銷毀珍本書來訓練 AI 模型</title>
+      <link>https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153430</guid>
+      <pubDate>Mon, 17 Aug 2026 16:38:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>珍本書對訓練 LLM 來說極具價值，因為這些模型已經在網路上能取得的所有內容上訓練過了。</description>
+    </item>
     <item>
       <title>Groq 募得 3.5 億美元，推動其從 AI 晶片轉向 neocloud</title>
       <link>https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/</link>
@@ -239,15 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 的機會很大，但 Kushner 在他首封投資信中警告：「在我們看來，若因為興奮而削弱投資紀律，將會是個嚴重的錯誤。」</description>
-    </item>
-    <item>
-      <title>關於據稱伊朗駭客入侵美國自來水事業單位，我們所知的內容</title>
-      <link>https://techcrunch.com/2026/08/14/what-we-know-about-the-alleged-iranian-hacks-on-u-s-water-utilities/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153226</guid>
-      <pubDate>Fri, 14 Aug 2026 19:04:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在過去幾週裡，駭客已鎖定並入侵美國多座淨水廠的系統。以下是我們對這波據稱由伊朗政府發動的攻擊所知與未知的部分。</description>
     </item>
     <item>
       <title>Universitas Gadjah Mada、Indosat 與 NVIDIA 攜手開設印尼首座大學 AI 中心，培育在地 AI 人才</title>
