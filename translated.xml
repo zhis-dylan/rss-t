@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 14:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 15:19:04 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 將投資 15 億美元給 OpenAI 專案背後的 SoftBank 資料中心開發商</title>
+      <link>https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153419</guid>
+      <pubDate>Mon, 17 Aug 2026 15:16:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nvidia 對 SoftBank 資料中心開發商的投資，將確保其晶片為一座 OpenAI 資料中心提供運算能力。</description>
+    </item>
+    <item>
+      <title>Terra Industries 完成 5,200 萬美元種子輪，打造全球南方的國防基礎設施</title>
+      <link>https://techcrunch.com/2026/08/17/terra-industries-closes-52m-seed-round-to-build-defense-infrastructure-for-the-global-south/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153373</guid>
+      <pubDate>Mon, 17 Aug 2026 15:06:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>非洲國防科技公司 Terra Industries 宣布再獲 1,800 萬美元融資，使其種子輪總額達到 5,200 萬美元。</description>
+    </item>
+    <item>
+      <title>WordPress.com 以免費學生方案鎖定下一代網頁創作者</title>
+      <link>https://techcrunch.com/2026/08/17/wordpress-com-targets-the-next-generation-of-web-creators-with-a-free-student-plan/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153372</guid>
+      <pubDate>Mon, 17 Aug 2026 14:56:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>WordPress.com 教育版讓老師能為學生提供免費網域、外掛支援和專業網站建置工具。</description>
+    </item>
     <item>
       <title>Uber 將 Zipline 無人機加入其 Eats 外送網路</title>
       <link>https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/</link>
@@ -233,24 +260,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/16ff1b2c2a741c0630788f9373ef0aff/6a7f4cc73d63328f41f1a0cf_Launching-Ceremony-2-1-842x450/Launching-Ceremony-2-1-842x450_thmb.jpg?v=8723012a-4021-4988-b070-ff6f89013f45" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/16ff1b2c2a741c0630788f9373ef0aff/6a7f4cc73d63328f41f1a0cf_Launching-Ceremony-2-1-842x450/Launching-Ceremony-2-1-842x450_thmb.jpg?v=8723012a-4021-4988-b070-ff6f89013f45"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/16ff1b2c2a741c0630788f9373ef0aff/6a7f4cc73d63328f41f1a0cf_Launching-Ceremony-2-1-842x450/Launching-Ceremony-2-1-842x450_thmb.jpg?v=8723012a-4021-4988-b070-ff6f89013f45" alt=""></p><p>印尼正掌握自身 AI 未來的主導權。本週，通訊與數位事務部（Komdigi）、Indosat Ooredoo Hutchison（Indosat 或 IOH）、NVIDIA 以及 Universitas Gadjah Mada（UGM）在日惹啟動了 UGM Indosat NVIDIA AI Technology Center（NVAITC）——全國首座以大學為基礎的 AI 技術中心。該中心是在印尼 AI Center of […] 之下成立的。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Unforgetful 是一款新的提醒事項 app，適合總是忍不住按延後的人</title>
-      <link>https://techcrunch.com/2026/08/14/unforgetful-is-a-new-reminders-app-for-people-who-cant-stop-hitting-snooze/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153119</guid>
-      <pubDate>Fri, 14 Aug 2026 16:21:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Unforgetful 是資深獨立開發者 Marco Arment 的最新 app，設計目的是讓提醒事項更難被忽略，或是不小心就被取消。</description>
-    </item>
-    <item>
-      <title>Google 現在將允許使用者移除其 AI 生成內容上的可見浮水印</title>
-      <link>https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153145</guid>
-      <pubDate>Fri, 14 Aug 2026 16:13:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>關閉這項設定不會影響用來識別 AI 生成檔案的不可見基準</description>
     </item>
     <item>
       <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
