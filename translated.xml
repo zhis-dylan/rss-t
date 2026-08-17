@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 12:47:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 13:02:33 GMT</lastBuildDate>
+    <item>
+      <title>加密貨幣硬體錢包持有者在近期一連串個資竊取事件後面臨新的安全風險</title>
+      <link>https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153347</guid>
+      <pubDate>Mon, 17 Aug 2026 13:00:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>駭客入侵用來寄送硬體錢包的物流公司，讓加密貨幣持有者更容易遭受現實世界中的攻擊。</description>
+    </item>
     <item>
       <title>鞏固智慧基礎設施</title>
       <link>https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</link>
@@ -26,9 +35,9 @@
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>NVIDIA 宣布，已透過與 SB Energy 在俄亥俄州派克郡的 PORTS-Pike Technology Campus 合作，取得土地、電力和機殼（LPS）容量，以承載 NVIDIA 運算...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1.png" alt=""></p><p>NVIDIA 宣布，已透過與 SB Energy 在俄亥俄州派克郡的 PORTS-Pike Technology Campus 合作，取得土地、電力和機殼（LPS）容量，以承載 NVIDIA 運算...</p>]]></content:encoded>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193" alt=""></p><p>NVIDIA 宣布，已透過與 SB Energy 在俄亥俄州派克郡的 PORTS-Pike Technology Campus 合作，取得土地、電力和機殼（LPS）容量，以承載 NVIDIA 運算...</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Gemini 和 Pixel 更貼近賽事</title>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>法國新創公司 Kog 認為，GPU 不適合代理式工作流程的想法可能是一種誤解。</description>
-    </item>
-    <item>
-      <title>如果新的預測成真，超大規模雲端業者可能會後悔擁抱天然氣</title>
-      <link>https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152944</guid>
-      <pubDate>Fri, 14 Aug 2026 14:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>美國部分地區的天然氣價格可能會翻三倍，這可能讓超大規模雲端業者得為為 AI 資料中心供電支付高額帳單。</description>
     </item>
     <item>
       <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
