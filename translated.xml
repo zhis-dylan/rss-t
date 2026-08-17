@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 17 Aug 2026 16:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:19:37 GMT</lastBuildDate>
+    <item>
+      <title>Groq 募得 3.5 億美元，推動其從 AI 晶片轉向 neocloud</title>
+      <link>https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153443</guid>
+      <pubDate>Mon, 17 Aug 2026 16:15:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Groq 在 35 億美元估值下募得 3.5 億美元，這家前 AI 晶片公司正轉向 neocloud 業務，並擴大其由 Nvidia 驅動的資料中心布局。</description>
+    </item>
     <item>
       <title>Nvidia 將投資 15 億美元給 OpenAI 專案背後的 SoftBank 資料中心開發商</title>
       <link>https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/</link>
@@ -239,15 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在過去幾週裡，駭客已鎖定並入侵美國多座淨水廠的系統。以下是我們對這波據稱由伊朗政府發動的攻擊所知與未知的部分。</description>
-    </item>
-    <item>
-      <title>稍後閱讀應用程式 Pocket 宣布關閉——以下是最佳替代方案</title>
-      <link>https://techcrunch.com/2026/08/14/read-it-later-app-pocket-is-shutting-down-here-are-the-best-alternatives/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3011907</guid>
-      <pubDate>Fri, 14 Aug 2026 18:58:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Pocket 使用者可在 2025 年 10 月 8 日前匯出已儲存的文章和其他項目，包括清單、封存、收藏、筆記和標註。</description>
     </item>
     <item>
       <title>Universitas Gadjah Mada、Indosat 與 NVIDIA 攜手開設印尼首座大學 AI 中心，培育在地 AI 人才</title>
