@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 14:00:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:15:15 GMT</lastBuildDate>
+    <item>
+      <title>Anthro Energy 為可能鋪平通往固態電池之路的工廠動土</title>
+      <link>https://techcrunch.com/2026/08/18/anthro-energy-breaks-ground-on-factory-that-could-pave-the-road-to-solid-state-batteries/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153829</guid>
+      <pubDate>Tue, 18 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>電池材料新創公司 Anthro Energy 已在路易維爾動土興建一座工廠，將生產電解液，包括用於固態電池的電解液。</description>
+    </item>
+    <item>
+      <title>Warp 的新系統是一座開箱即用、用於 AI 開發的軟體工廠</title>
+      <link>https://techcrunch.com/2026/08/18/warps-new-system-is-an-out-of-the-box-software-factory-for-ai-development/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153863</guid>
+      <pubDate>Tue, 18 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>週二，Warp 推出 Warp Factories，這是一套旨在讓打造 AI 軟體工廠變得盡可能容易的新基礎架構系統。</description>
+    </item>
     <item>
       <title>OpenAI 推出更安全的青少年版 ChatGPT——這比青少年開始使用它晚了好幾年</title>
       <link>https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/</link>
@@ -209,24 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Feedly 表示，造成效能問題、讓部分使用者覺得其網頁應用程式幾乎「無法使用」的原因，是一個 bug；而對其行動應用程式與客戶支援的抱怨，也正在加劇使用者的不滿。</description>
-    </item>
-    <item>
-      <title>Amazon，曾經是一家線上書商，正在銷毀珍本書來訓練 AI 模型</title>
-      <link>https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153430</guid>
-      <pubDate>Mon, 17 Aug 2026 16:38:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>珍本書對訓練 LLM 來說極具價值，因為這些模型已經在網路上能取得的所有內容上訓練過了。</description>
-    </item>
-    <item>
-      <title>Groq 募得 3.5 億美元，推動其從 AI 晶片轉向 neocloud</title>
-      <link>https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153443</guid>
-      <pubDate>Mon, 17 Aug 2026 16:15:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Groq 在 35 億美元估值下募得 3.5 億美元，這家前 AI 晶片公司正轉向 neocloud 業務，並擴大其由 Nvidia 驅動的資料中心布局。</description>
     </item>
     <item>
       <title>鞏固智慧基礎設施</title>
