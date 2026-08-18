@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 16:31:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:46:41 GMT</lastBuildDate>
+    <item>
+      <title>Comcast 為數百萬台較新的路由器新增動作感測功能，但有隱私疑慮</title>
+      <link>https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153944</guid>
+      <pubDate>Tue, 18 Aug 2026 16:39:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Comcast 最新款路由器新增的一項新功能，可以在不需要傳統動作感測器的情況下，偵測你家中是否有動靜。</description>
+    </item>
     <item>
       <title>為什麼蘋果配備相機的 AirPods 可能不會是消費者害怕的「變態耳機」</title>
       <link>https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/</link>
@@ -175,6 +184,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_blog_image.max-600x600.format-webp.webp" alt=""></p><p>Google 正與英國合作推動藍天行動，這是一項在空域尺度上、由 AI 驅動的凝結尾避讓試驗。</p>]]></content:encoded>
     </item>
     <item>
+      <title>Asana 透過 Codex 在 2 週內完成了 5 年的工程工作</title>
+      <link>https://openai.com/index/asana</link>
+      <guid isPermaLink="false">https://openai.com/index/asana</guid>
+      <pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Asana 使用 OpenAI Codex 取代了一套老舊的測試系統，兩週內完成了原本預計要花五年的工作，成本約 1.2 萬美元。</description>
+    </item>
+    <item>
       <title>Anthropic 的年化營收飆升至 650 億美元</title>
       <link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3153733</guid>
@@ -227,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Higgsfield 由前 Snap 高管 Alex Mashrabov 創立，讓使用者可以建立 AI 圖像和影片。</description>
-    </item>
-    <item>
-      <title>Reddit 開始測試新的音訊與影片體驗，類似熱門 TikTok 影片</title>
-      <link>https://techcrunch.com/2026/08/17/reddit-begins-testing-a-new-audio-and-video-experience-similar-to-popular-tiktok-videos/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153520</guid>
-      <pubDate>Mon, 17 Aug 2026 18:42:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Reddit 正開始測試熱門貼文的影片和音訊版本，讓使用者可以觀看或收聽 Reddit 故事，而不只是閱讀它們。</description>
     </item>
     <item>
       <title>鞏固智慧基礎設施</title>
@@ -1920,15 +1929,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解天文物理學家陳志寬如何使用 Codex 建立黑洞模擬，協助科學家研究極端物理現象並測試愛因斯坦的廣義相對論理論。</description>
-    </item>
-    <item>
-      <title>BBVA將 AI 放在銀行業務核心，攜手 OpenAI</title>
-      <link>https://openai.com/index/bbva</link>
-      <guid isPermaLink="false">https://openai.com/index/bbva</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
     </item>
     <item>
       <title>Apple 推出跨服務的創新功能與智慧體驗</title>
