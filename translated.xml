@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 10:58:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:13:32 GMT</lastBuildDate>
+    <item>
+      <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
+      <link>https://openai.com/index/partnering-with-codeai</link>
+      <guid isPermaLink="false">https://openai.com/index/partnering-with-codeai</guid>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 和 CodeAI 正在合作，協助學生建立 AI 素養、批判性思考 AI，並培養負責任地使用與塑造 AI 的能力。</description>
+    </item>
+    <item>
+      <title>推出 ChatGPT for Teens：為學習而打造，並有保護機制加持</title>
+      <link>https://openai.com/index/introducing-chatgpt-for-teens</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-for-teens</guid>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT for Teens 協助青少年學習、批判性思考，並有信心地使用 AI，具備更強的內建保護、健康使用功能，以及給家長的額外控制選項。</description>
+    </item>
+    <item>
+      <title>Reach Capital 募得 2.65 億美元 Fund V，支持打造「擴展人類潛能」的 AI 創業者</title>
+      <link>https://techcrunch.com/2026/08/18/reach-capital-raises-265m-fund-v-to-back-ai-founders-building-to-expand-human-potential/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153447</guid>
+      <pubDate>Tue, 18 Aug 2026 11:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Reach Capital 週二宣布，其 2.65 億美元的 Fund V 超額認購。</description>
+    </item>
     <item>
       <title>Einride 達成協議，將 500 輛 Tesla Semi 納入車隊</title>
       <link>https://techcrunch.com/2026/08/18/einride-strikes-deal-to-add-500-tesla-semis-to-its-fleet/</link>
@@ -188,15 +215,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Wispr 的總募資額現已超過 3.61 億美元。</description>
-    </item>
-    <item>
-      <title>加密貨幣硬體錢包持有者在近期一連串個資竊取事件後面臨新的安全風險</title>
-      <link>https://techcrunch.com/2026/08/17/crypto-hardware-wallet-owners-face-fresh-security-risks-after-recent-spate-of-personal-data-thefts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153347</guid>
-      <pubDate>Mon, 17 Aug 2026 13:00:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>駭客入侵用來寄送硬體錢包的物流公司，讓加密貨幣持有者更容易遭受現實世界中的攻擊。</description>
     </item>
     <item>
       <title>鞏固智慧基礎設施</title>
@@ -1903,24 +1921,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 BBVA 如何將 ChatGPT Enterprise 擴展到 10 萬名員工，並與 OpenAI 合作，加速全球 AI 驅動的銀行轉型。</description>
-    </item>
-    <item>
-      <title>OpenAI 將收購 Ona</title>
-      <link>https://openai.com/index/openai-to-acquire-ona</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-ona</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 計劃收購 Ona，以透過安全、持久的雲端環境擴展 Codex，讓 AI 代理能在企業工作流程中長時間運作。</description>
-    </item>
-    <item>
-      <title>支持歐洲在確保可信賴 AI 生態系統方面的工作</title>
-      <link>https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</link>
-      <guid isPermaLink="false">https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem</guid>
-      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 支持歐盟 AI 內容透明度行為準則，推動來源標準和工具，協助人們理解 AI 生成內容。</description>
     </item>
     <item>
       <title>Apple 推出跨服務的創新功能與智慧體驗</title>
