@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 18:48:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 19:03:18 GMT</lastBuildDate>
+    <item>
+      <title>在 Android 上的 Chrome 中善用 Gemini 的力量。</title>
+      <link>https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/</guid>
+      <pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Chrome 中的 Gemini 現已向美國所有 Android 使用者開放。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp" alt=""></p><p>Chrome 中的 Gemini 現已向美國所有 Android 使用者開放。</p>]]></content:encoded>
+    </item>
     <item>
       <title>OpenAI 在 Hugging Face 遭入侵後實施新的防護措施</title>
       <link>https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/</link>
@@ -615,18 +627,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Made by Google 2026</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看 Made by Google 2026 上關於 Pixel 裝置的最新公告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp" alt=""></p><p>看看 Made by Google 2026 上關於 Pixel 裝置的最新公告。</p>]]></content:encoded>
     </item>
     <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
