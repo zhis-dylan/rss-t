@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 15:45:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 16:01:12 GMT</lastBuildDate>
+    <item>
+      <title>Bluesky 表示最近的當機是由另一波 DDoS 攻擊所造成</title>
+      <link>https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153904</guid>
+      <pubDate>Tue, 18 Aug 2026 15:59:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是今年第三方社群網站遭遇的最新一起大規模 DDoS 攻擊。</description>
+    </item>
+    <item>
+      <title>Apple 宣布歐盟地區 App 的變更</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今天宣布，經過與歐洲執委會的密切合作後，將變更其在歐盟地區 App 的商業條款。</description>
+    </item>
     <item>
       <title>Peacock 調漲所有串流方案的價格</title>
       <link>https://techcrunch.com/2026/08/18/peacock-is-raising-prices-across-all-of-its-streaming-plans/</link>
@@ -218,15 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Sonic Fire Protection 募得新一輪資金，協助把其以聲音驅動的消防保護系統導入從商業廚房到公寓大樓等各種場域。</description>
-    </item>
-    <item>
-      <title>YouTube 現在只要影片開始播放就會計為一次觀看</title>
-      <link>https://techcrunch.com/2026/08/17/youtube-will-now-count-a-view-as-soon-as-a-video-starts-playing/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153547</guid>
-      <pubDate>Mon, 17 Aug 2026 18:09:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項變更是在 YouTube 一年前將同樣的做法套用到 Shorts 影片觀看次數統計之後推出的。</description>
     </item>
     <item>
       <title>鞏固智慧基礎設施</title>
@@ -1965,15 +1974,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 推出由 Apple Intelligence 驅動的 Siri AI，一個功能強大許多且更個人化的助理，具備個人脈絡、世界知識與螢幕畫面感知。</description>
-    </item>
-    <item>
-      <title>Apple 預覽新的兒童安全功能</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-previews-new-child-safety-features/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/apple-previews-new-child-safety-features/</guid>
-      <pubDate>Mon, 08 Jun 2026 18:14:04 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 預覽新的兒童安全功能，讓家長能更有效控制孩子的內容、通訊以及裝置使用時間。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
