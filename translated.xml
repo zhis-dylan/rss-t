@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 22:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:05:29 GMT</lastBuildDate>
     <item>
       <title>Cursor 乘著對 GitHub 的不滿推出競爭性代管平台</title>
       <link>https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/</link>
@@ -290,6 +290,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Asana 使用 OpenAI Codex 取代了一套老舊的測試系統，兩週內完成了原本預計要花五年的工作，成本約 1.2 萬美元。</description>
+    </item>
+    <item>
+      <title>NVIDIA 如何運用 ChatGPT Work 擴展專業能力</title>
+      <link>https://openai.com/index/nvidia/chatgpt-work</link>
+      <guid isPermaLink="false">https://openai.com/index/nvidia/chatgpt-work</guid>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>NVIDIA 團隊使用 ChatGPT Work 來減少手動工作、連結快速變動的訊號，並在全球擴展成功的工作流程。</description>
     </item>
     <item>
       <title>即日起至 8 月 21 日，購買 TechCrunch Disrupt 2026 門票最高可省 300 美元</title>
@@ -1920,15 +1929,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出合作夥伴網路，投資 1.5 億美元協助全球合作夥伴加速企業 AI 採用、部署與轉型。</description>
-    </item>
-    <item>
-      <title>面向下一個工作時代的全新 OpenAI Academy 課程</title>
-      <link>https://openai.com/index/academy-courses-applying-ai-at-work</link>
-      <guid isPermaLink="false">https://openai.com/index/academy-courses-applying-ai-at-work</guid>
-      <pubDate>Fri, 12 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出三門 Academy 課程，幫助人們建立實用的 AI 技能、打造可重複的工作流程，並在日常工作中應用 agents。</description>
     </item>
     <item>
       <title>Apple 推出跨服務的創新功能與智慧體驗</title>
