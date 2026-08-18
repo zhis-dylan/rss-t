@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 19:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:03:47 GMT</lastBuildDate>
+    <item>
+      <title>強化國家安全中的民主監督</title>
+      <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
+      <guid isPermaLink="false">https://openai.com/index/strengthening-democratic-oversight-in-national-security</guid>
+      <pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
+    </item>
     <item>
       <title>在 Android 上的 Chrome 中善用 Gemini 的力量。</title>
       <link>https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/</link>
@@ -1920,15 +1929,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出三門 Academy 課程，幫助人們建立實用的 AI 技能、打造可重複的工作流程，並在日常工作中應用 agents。</description>
-    </item>
-    <item>
-      <title>Preply 如何結合 AI 與真人家教，打造個人化學習</title>
-      <link>https://openai.com/index/preply</link>
-      <guid isPermaLink="false">https://openai.com/index/preply</guid>
-      <pubDate>Fri, 12 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Preply 使用 OpenAI 推出 AI 生成的課堂摘要，提供個人化回饋與語言學習練習。</description>
     </item>
     <item>
       <title>Apple 推出跨服務的創新功能與智慧體驗</title>
