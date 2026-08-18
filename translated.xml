@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 17:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 18:02:39 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 在 Hugging Face 遭入侵後實施新的防護措施</title>
+      <link>https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154044</guid>
+      <pubDate>Tue, 18 Aug 2026 18:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新的防護措施包括在模型開發過程中進行更詳細的監控，以及在後訓練過程中更強調對齊與安全性。</description>
+    </item>
     <item>
       <title>Etched 的估值在一個月內翻倍至 210 億美元</title>
       <link>https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/</link>
@@ -227,15 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Relay 提供企業工作流程自動化服務，將於下個月停止營運。其執行長和部分員工接下來將轉往 Google Chrome 團隊工作。</description>
-    </item>
-    <item>
-      <title>「前所未有」數量的 Apple 使用者收到最近的間諜軟體警示，調查人員表示</title>
-      <link>https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153672</guid>
-      <pubDate>Mon, 17 Aug 2026 20:18:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>調查間諜軟體攻擊的資安專家表示，收到 Apple 最近威脅通知的人數異常高。</description>
     </item>
     <item>
       <title>即日起至 8 月 21 日，購買 TechCrunch Disrupt 2026 門票最高可省 300 美元</title>
