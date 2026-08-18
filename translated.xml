@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 20:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 20:49:19 GMT</lastBuildDate>
+    <item>
+      <title>司法部對 Andreessen Horowitz 董事席位的調查讓創投界感到困惑</title>
+      <link>https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154080</guid>
+      <pubDate>Tue, 18 Aug 2026 20:36:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由於投資組合公司經常轉型並擴展到競爭市場，投資人認為，對大型創投公司而言，偶爾出現利益衝突是無可避免的。</description>
+    </item>
     <item>
       <title>TikTok 探索透過私訊進行點對點付款，報導稱</title>
       <link>https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/</link>
@@ -281,15 +290,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Asana 使用 OpenAI Codex 取代了一套老舊的測試系統，兩週內完成了原本預計要花五年的工作，成本約 1.2 萬美元。</description>
-    </item>
-    <item>
-      <title>Anthropic 的年化營收飆升至 650 億美元</title>
-      <link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153733</guid>
-      <pubDate>Mon, 17 Aug 2026 23:56:26 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家模型製造商在兩個月內增加了 180 億美元的年化營收。</description>
     </item>
     <item>
       <title>即日起至 8 月 21 日，購買 TechCrunch Disrupt 2026 門票最高可省 300 美元</title>
