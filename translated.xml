@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 08:57:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:12:30 GMT</lastBuildDate>
+    <item>
+      <title>藍天行動：運用 AI 降低航空對氣候的影響</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/blue-skies/</guid>
+      <pubDate>Tue, 18 Aug 2026 09:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 正與英國合作推動藍天行動，這是一項在空域尺度上、由 AI 驅動的凝結尾避讓試驗。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_blog_image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_blog_image.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_blog_image.max-600x600.format-webp.webp" alt=""></p><p>Google 正與英國合作推動藍天行動，這是一項在空域尺度上、由 AI 驅動的凝結尾避讓試驗。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Anthropic 的年化營收飆升至 650 億美元</title>
       <link>https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/</link>
@@ -295,18 +307,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp" alt=""></p><p>Sheets canvas 只要用簡單提示，就能把資料變成互動式儀表板、自訂讀書追蹤器、座位表等更多內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>當你的 Pixel 11 Pro 螢幕朝下時，也能透過 HiLight 接收更新。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" alt=""></p><p>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>使用 Pixel 11 上的 Magic Capture 拍照時，保持當下的存在感。</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/</guid>
@@ -317,6 +317,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 的新功能 Magic Capture 會從動態場景中找出最佳照片，讓你在捕捉珍貴時刻時不會錯過它們。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>當你的 Pixel 11 Pro 螢幕朝下時，也能透過 HiLight 接收更新。</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</guid>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" alt=""></p><p>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</p>]]></content:encoded>
     </item>
     <item>
       <title>Omni 專家分享他們對這個模型最感興趣的地方。</title>
@@ -416,52 +428,52 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp" alt=""></p><p>Android 裝置之間的分享現在更簡單了，從 Pixel 開始。使用快速分享，輕點即可傳送聯絡資訊等內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Pixel Buds Pro 2 和 Pixel Buds 2a 有哪些新功能。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/</guid>
+      <title>Pixel 11 發表會上 7 個不容錯過的更新</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Google 正在隨著 Made by Google 為 Pixel Buds Pro 2 和 Pixel Buds 2a 推出新色和升級功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp" alt=""></p><p>Google 正在隨著 Made by Google 為 Pixel Buds Pro 2 和 Pixel Buds 2a 推出新色和升級功能。</p>]]></content:encoded>
+      <description>全新 Pixel 11 系列提供 Gemini Intelligence 的最佳體驗，並帶來我們多年來最大的相機升級。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" alt=""></p><p>全新 Pixel 11 系列提供 Gemini Intelligence 的最佳體驗，並帶來我們多年來最大的相機升級。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Pixel 11 系列：你最個人化的 Pixel</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/</guid>
+      <title>Made by Google 2026</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>探索搭載更新相機硬體、Tensor G6 晶片、LED HiLight 通知和更快速 Gemini AI 支援的 Google Pixel 11 系列。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp" alt=""></p><p>探索搭載更新相機硬體、Tensor G6 晶片、LED HiLight 通知和更快速 Gemini AI 支援的 Google Pixel 11 系列。</p>]]></content:encoded>
+      <description>看看 Made by Google 2026 上關於 Pixel 裝置的最新公告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp" alt=""></p><p>看看 Made by Google 2026 上關於 Pixel 裝置的最新公告。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Google Pixel Tag 掌握你的貴重物品</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/</guid>
+      <title>現在你可以把更多你喜愛的應用程式和服務連接到 Gemini。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Google Pixel Tag 透過藍牙 Channel Sounding 和 Find Hub 定位鑰匙、錢包和行李。查看規格、價格和相容性。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp" alt=""></p><p>Google Pixel Tag 透過藍牙 Channel Sounding 和 Find Hub 定位鑰匙、錢包和行李。查看規格、價格和相容性。</p>]]></content:encoded>
+      <description>直接將你喜愛的服務連接到 Gemini，幫助你規劃旅程、管理專案，並完成日常待辦清單。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp" alt=""></p><p>直接將你喜愛的服務連接到 Gemini，幫助你規劃旅程、管理專案，並完成日常待辦清單。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Pixel Watch 5：手腕上的主動協助與進階健康追蹤</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/</guid>
+      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Google Pixel Watch 5 提供主動提醒、低延遲 Gemini AI 功能和健康追蹤，讓你保持連線。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp" alt=""></p><p>Google Pixel Watch 5 提供主動提醒、低延遲 Gemini AI 功能和健康追蹤，讓你保持連線。</p>]]></content:encoded>
+      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
     </item>
     <item>
       <title>這是全新 Pixel 裝置的搶先一覽。</title>
@@ -500,16 +512,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp" alt=""></p><p>Google 正在隨著 Made by Google 推出全新的 Pixel 配件</p>]]></content:encoded>
     </item>
     <item>
-      <title>現在你可以把更多你喜愛的應用程式和服務連接到 Gemini。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-services-gemini-august-2026/</guid>
+      <title>Pixel Buds Pro 2 和 Pixel Buds 2a 有哪些新功能。</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>直接將你喜愛的服務連接到 Gemini，幫助你規劃旅程、管理專案，並完成日常待辦清單。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Social_Share_V4.max-600x600.format-webp.webp" alt=""></p><p>直接將你喜愛的服務連接到 Gemini，幫助你規劃旅程、管理專案，並完成日常待辦清單。</p>]]></content:encoded>
+      <description>Google 正在隨著 Made by Google 為 Pixel Buds Pro 2 和 Pixel Buds 2a 推出新色和升級功能。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp" alt=""></p><p>Google 正在隨著 Made by Google 為 Pixel Buds Pro 2 和 Pixel Buds 2a 推出新色和升級功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Pixel 和 Fitbit 上的 Health Guardian 功能，追蹤身體的細微變化</title>
@@ -524,18 +536,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HealthGuardian_social.max-600x600.format-webp.webp" alt=""></p><p>全新的主動式健康與保健層級即將來到你的手腕上。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Made by Google 2026</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看 Made by Google 2026 上關於 Pixel 裝置的最新公告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp" alt=""></p><p>看看 Made by Google 2026 上關於 Pixel 裝置的最新公告。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google 最精密的摺疊機：Pixel 11 Pro Fold</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/</guid>
@@ -548,28 +548,28 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Fold_Social.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 Pro Fold 是我們最新的摺疊機，採用更薄更輕的設計、全新的主相機，以及更強大的智慧工具。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Pixel 11 發表會上 7 個不容錯過的更新</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</guid>
+      <title>Pixel Watch 5：手腕上的主動協助與進階健康追蹤</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>全新 Pixel 11 系列提供 Gemini Intelligence 的最佳體驗，並帶來我們多年來最大的相機升級。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" alt=""></p><p>全新 Pixel 11 系列提供 Gemini Intelligence 的最佳體驗，並帶來我們多年來最大的相機升級。</p>]]></content:encoded>
+      <description>Google Pixel Watch 5 提供主動提醒、低延遲 Gemini AI 功能和健康追蹤，讓你保持連線。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Active_Band_Olive_Flat_Lay_-_Ed.max-600x600.format-webp.webp" alt=""></p><p>Google Pixel Watch 5 提供主動提醒、低延遲 Gemini AI 功能和健康追蹤，讓你保持連線。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
+      <title>Pixel 11 系列：你最個人化的 Pixel</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
+      <description>探索搭載更新相機硬體、Tensor G6 晶片、LED HiLight 通知和更快速 Gemini AI 支援的 Google Pixel 11 系列。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp" alt=""></p><p>探索搭載更新相機硬體、Tensor G6 晶片、LED HiLight 通知和更快速 Gemini AI 支援的 Google Pixel 11 系列。</p>]]></content:encoded>
     </item>
     <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
