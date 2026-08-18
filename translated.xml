@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 18 Aug 2026 12:59:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:14:37 GMT</lastBuildDate>
+    <item>
+      <title>美國勞動力學院：免費。無需任何先前經驗。通往另一端的職涯。</title>
+      <link>https://about.fb.com/news/2026/08/americas-workforce-academy-meta-skilled-trade-training-program/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=49953</guid>
+      <pubDate>Tue, 18 Aug 2026 13:00:28 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>我們正在分享美國勞動力學院首批畢業生的故事。這是 Meta 的免費培訓計畫，保證所有畢業生都能獲得技術類工作。這篇〈美國勞動力學院：免費。無需任何先前經驗。通往另一端的職涯。〉最初發表於 Meta 新聞室。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Americas-Workforce-Academy_No-Cost.-No-Prior-Experience-Necessary.-A-Career-on-the-Other-Side_Thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Americas-Workforce-Academy_No-Cost.-No-Prior-Experience-Necessary.-A-Career-on-the-Other-Side_Thumbnail.jpg?fit=890%2C501"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Americas-Workforce-Academy_No-Cost.-No-Prior-Experience-Necessary.-A-Career-on-the-Other-Side_Thumbnail.jpg?fit=890%2C501" alt=""></p><p>我們正在分享美國勞動力學院首批畢業生的故事。這是 Meta 的免費培訓計畫，保證所有畢業生都能獲得技術類工作。這篇〈美國勞動力學院：免費。無需任何先前經驗。通往另一端的職涯。〉最初發表於 Meta 新聞室。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Daniel Ek 的身體掃描新創公司 Neko Health 在紐約開設首間美國辦公室</title>
+      <link>https://techcrunch.com/2026/08/18/daniel-eks-body-scanning-startup-neko-health-opens-first-us-office-in-new-york/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3153537</guid>
+      <pubDate>Tue, 18 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由 Spotify 創辦人創立的掃描與血液檢測健康新創公司，將在約一個月後於紐約正式推出。</description>
+    </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
       <link>https://openai.com/index/partnering-with-codeai</link>
@@ -206,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>WordPress.com 教育版讓老師能為學生提供免費網域、外掛支援和專業網站建置工具。</description>
-    </item>
-    <item>
-      <title>Uber 將 Zipline 無人機加入其 Eats 外送網路</title>
-      <link>https://techcrunch.com/2026/08/17/uber-adds-zipline-drones-to-its-eats-delivery-network/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153346</guid>
-      <pubDate>Mon, 17 Aug 2026 13:18:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Uber 也將投資 Zipline 作為這項合作的一部分。</description>
     </item>
     <item>
       <title>鞏固智慧基礎設施</title>
@@ -1212,19 +1224,6 @@ The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on T
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/image-4.png?fit=1441%2C988" medium="image" type="image/png"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/image-4.png?fit=1441%2C988"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/image-4.png?fit=1441%2C988" alt=""></p><p>隨著 AI 生成的媒體越來越逼真，人們愈來愈需要工具來幫助辨識它。自 2024 年 4 月以來，我們一直在 Meta 推動把這項原則落實到實務中，當時我們宣布了在旗下平台上辨識與標示 AI 生成內容的方法。最近，我們也推出了一個偵測工具的研究展示版本，協助人們更了解一張圖片是否由 Meta AI 製作，作為這些努力的一部分。簽署歐盟 AI 法案《AI 生成內容透明度實務守則》——我們已於本週稍早確認會這麼做——反映了我們對這項原則的承諾。這也與我們持續和整個產業鏈上的同業合作、共同應對這些跨產業挑戰的工作一致。透過 Partnership on AI 和內容來源與真實性聯盟（C2PA）等論壇，我們正努力開發能夠辨識 AI 生成內容的解決方案，這些方案必須兼具持久性、技術可行性與永續性。把這件事做好至關重要。這代表透明度措施應該提供清楚資訊，而不是增加更多混淆。我們必須避免讓線上內容被越來越多不同的標籤和揭露資訊所規範，最後反而讓人們不知所措，同時也為服務提供者增加額外的監管複雜度。隨著技術標準持續演進，我們將與 AI Office 及其他夥伴合作，讓這套做法保持實用、可互通，並且真正對其所要服務的使用者有幫助。<br><br>該文章 Meta is Signing the EU AI Act Code of Practice on Transparency of AI-Generated Content 首次出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 宣布與 BlackRock 的新策略性合資計畫，於 El Paso 開發資料中心</title>
-      <link>https://about.fb.com/news/2026/07/meta-announces-new-venture-with-blackrock-to-develop-data-center-in-el-paso/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49743</guid>
-      <pubDate>Tue, 28 Jul 2026 09:30:23 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>Meta 和 BlackRock 宣布一項合資計畫，將為德州 El Paso 的資料中心園區開發與營運提供資金。
-這篇〈Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso〉最早刊登於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/Partnership_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>Meta 和 BlackRock 宣布一項合資計畫，將為德州 El Paso 的資料中心園區開發與營運提供資金。<br>這篇〈Meta Announces New Strategic Venture With BlackRock to Develop Data Center in El Paso〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>重新思考 AI 時代的安全性</title>
