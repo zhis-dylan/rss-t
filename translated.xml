@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:29:13 GMT</lastBuildDate>
+    <item>
+      <title>為前沿模型提供零資料保留</title>
+      <link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
+      <guid isPermaLink="false">https://openai.com/index/our-commitment-to-zero-data-retention</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 再次確認符合資格的 API 客戶可享有零資料保留，並預告 Private Safety Processing，讓進階 AI 安全性不會犧牲資料隱私。</description>
+    </item>
+    <item>
+      <title>認識這家幫助華爾街替 AI 運算算價的新創公司</title>
+      <link>https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3154465</guid>
+      <pubDate>Wed, 19 Aug 2026 17:26:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 的建置熱潮看來沒有放緩跡象。而且隨著每年有數千億美元流入資料中心和 GPU，運算已經成為任何打造 AI 產品的人最大的單一成本。但即使投入了這麼多，仍然沒有一套直接的方法來替運算定價——或者讓公司在價格變動時對沖其曝險。 Silicon Data […]</description>
+    </item>
+    <item>
+      <title>T-Mobile「切斷了一條纜線」以將中國駭客逐出其網路</title>
+      <link>https://techcrunch.com/2026/08/19/t-mobile-chopped-a-cable-to-expel-chinese-hackers-from-its-network/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154457</guid>
+      <pubDate>Wed, 19 Aug 2026 17:26:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家美國電話業者在早期發現獲中國支持的駭客後，躲過了一場大規模的網路入侵。</description>
+    </item>
     <item>
       <title>TerraPower 的核反應爐有一個為 AI 資料中心供電的秘密武器</title>
       <link>https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/</link>
@@ -234,24 +261,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Jane Street 已安裝 Etched 第一套出貨的 AI 叢集系統，而這讓他們印象深刻，進而促成了另一輪大規模融資，這家新創表示。</description>
-    </item>
-    <item>
-      <title>Apple 大幅調整其歐盟 App Store 費用，放寬替代應用程式商店規則</title>
-      <link>https://techcrunch.com/2026/08/18/apple-overhauls-its-eu-app-store-fees-loosens-rules-for-alternative-app-stores/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153952</guid>
-      <pubDate>Tue, 18 Aug 2026 17:12:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 正在簡化其歐盟 App Store 費用，將按每次安裝收費改為對在 App Store 之外分發的 App 收取 5% 佣金，並讓開發者更容易營運替代應用程式市集。</description>
-    </item>
-    <item>
-      <title>Comcast 為數百萬台較新的路由器新增動作感測功能，但有隱私疑慮</title>
-      <link>https://techcrunch.com/2026/08/18/comcast-adds-motion-sensing-to-millions-of-its-newer-routers-with-a-privacy-catch/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153944</guid>
-      <pubDate>Tue, 18 Aug 2026 16:39:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Comcast 最新款路由器新增的一項新功能，可以在不需要傳統動作感測器的情況下，偵測你家中是否有動靜。</description>
     </item>
     <item>
       <title>用 Gemini 的模擬測驗讓你的 SAT 準備持續進行。</title>
@@ -1909,15 +1918,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 Molecule.one 展示近乎自主的 AI 化學家如何使用 GPT-5.4 改良關鍵的藥物製造反應，推進藥物化學研究。</description>
-    </item>
-    <item>
-      <title>LifeSciBench 介紹</title>
-      <link>https://openai.com/index/introducing-life-sci-bench</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-life-sci-bench</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>介紹 LifeSciBench，這是一個由專家撰寫、經專家審核的基準，用於評估 AI 系統如何處理真實世界的生命科學研究任務與決策。</description>
     </item>
     <item>
       <title>以 AI 取得成功</title>
