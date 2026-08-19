@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:28:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:43:15 GMT</lastBuildDate>
+    <item>
+      <title>Rivian 分拆公司 Also 再募得 1.5 億美元</title>
+      <link>https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154340</guid>
+      <pubDate>Wed, 19 Aug 2026 15:39:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這輪融資由 Prysm Capital 領投，將用於支持公司從踏板輔助電動自行車與商用載貨四輪車，擴展到自動駕駛配送車輛。</description>
+    </item>
     <item>
       <title>Sachin Bansal 的金融科技公司 Navi 獲得首筆外部資金，獲 Prosus 投資 1 億美元</title>
       <link>https://techcrunch.com/2026/08/19/sachin-bansals-fintech-navi-raises-first-outside-capital-with-100m-prosus-investment/</link>
@@ -267,15 +276,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Bluesky 表示最近的當機是由另一波 DDoS 攻擊所造成</title>
-      <link>https://techcrunch.com/2026/08/18/bluesky-says-its-recent-outage-was-caused-by-another-ddos-attack/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153904</guid>
-      <pubDate>Tue, 18 Aug 2026 15:59:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是今年第三方社群網站遭遇的最新一起大規模 DDoS 攻擊。</description>
     </item>
     <item>
       <title>Apple 宣布歐盟地區 App 的變更</title>
