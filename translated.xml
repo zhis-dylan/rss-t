@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 19:15:14 GMT</lastBuildDate>
+    <item>
+      <title>AI 本來應該早就贏得人心——但還沒有</title>
+      <link>https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154433</guid>
+      <pubDate>Wed, 19 Aug 2026 19:11:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著 AI 越來越難以避免，消費者對這項技術也越來越警惕——而矽谷正在發現，大規模採用不一定就代表接受。</description>
+    </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
       <link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
@@ -14,6 +23,51 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 再次確認符合資格的 API 客戶可享有零資料保留，並預告 Private Safety Processing，讓進階 AI 安全性不會犧牲資料隱私。</description>
+    </item>
+    <item>
+      <title>用 Search 提升學習的 5 種新方法</title>
+      <link>https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" alt=""></p><p>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用我們送你的一年 Gemini，開啟新學期</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" alt=""></p><p>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>返校季 2026</title>
+      <link>https://blog.google/products-and-platforms/products/education/back-to-school-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/back-to-school-2026/</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 工具在這個返校季如何幫助學生和教育工作者。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 工具在這個返校季如何幫助學生和教育工作者。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 為 Search 和 Gemini 加入新的 AI 學習工具</title>
+      <link>https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154456</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這些新學習功能的推出，標誌著 Google 持續努力讓 Gemini 成為學生在學習和讀書時會使用的 AI 助理，同時也繼續與 OpenAI 等公司競爭。</description>
     </item>
     <item>
       <title>研究人員表示 OpenAI 取消了他們對有限資安計畫的存取權</title>
@@ -215,15 +269,6 @@
       <description>由於投資組合公司經常轉型並擴展到競爭市場，投資人認為，對大型創投公司而言，偶爾出現利益衝突是無可避免的。</description>
     </item>
     <item>
-      <title>TikTok 探索透過私訊進行點對點付款，報導稱</title>
-      <link>https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154071</guid>
-      <pubDate>Tue, 18 Aug 2026 20:03:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果推出，這項功能將使用該社群媒體服務的 TikTok Pay 服務，這項服務目前已可在東南亞用於 TikTok Shop 購買。</description>
-    </item>
-    <item>
       <title>強化國家安全中的民主監督</title>
       <link>https://openai.com/index/strengthening-democratic-oversight-in-national-security</link>
       <guid isPermaLink="false">https://openai.com/index/strengthening-democratic-oversight-in-national-security</guid>
@@ -243,15 +288,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp" alt=""></p><p>Chrome 中的 Gemini 現已向美國所有 Android 使用者開放。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 在 Hugging Face 遭入侵後實施新的防護措施</title>
-      <link>https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154044</guid>
-      <pubDate>Tue, 18 Aug 2026 18:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新的防護措施包括在模型開發過程中進行更詳細的監控，以及在後訓練過程中更強調對齊與安全性。</description>
     </item>
     <item>
       <title>在 Gemini 應用程式中試試 4 種全新的 BTS 互動體驗</title>
@@ -606,30 +642,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp" alt=""></p><p>Android 裝置之間的分享現在更簡單了，從 Pixel 開始。使用快速分享，輕點即可傳送聯絡資訊等內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>2026 Google 發表會</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/made-by-google-2026/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>查看 Made by Google 2026 上關於 Pixel 裝置的最新公告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Made_by_Google_2026_Collection_.max-600x600.format-webp_6XacQoy.webp" alt=""></p><p>查看 Made by Google 2026 上關於 Pixel 裝置的最新公告。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google 最精密的摺疊機：Pixel 11 Pro Fold</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-fold/</guid>
@@ -642,40 +654,28 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Fold_Social.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 Pro Fold 是我們最新的摺疊機，採用更薄更輕的設計、全新的主相機，以及更強大的智慧工具。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Pixel 11 發表會 7 項不容錯過的更新</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</guid>
+      <title>Pixel 11 系列：最懂你的 Pixel</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-11-pro-xl/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" alt=""></p><p>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</p>]]></content:encoded>
+      <description>探索 Google Pixel 11 系列，包含更新的相機硬體、Tensor G6 晶片、LED HiLight 通知，以及更快的 Gemini AI 支援。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fudge_Sizzle-Grizzly_Thumbnail_.max-600x600.format-webp.webp" alt=""></p><p>探索 Google Pixel 11 系列，包含更新的相機硬體、Tensor G6 晶片、LED HiLight 通知，以及更快的 Gemini AI 支援。</p>]]></content:encoded>
     </item>
     <item>
-      <title>這是全新 Pixel 裝置的搶先一覽。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/new-pixel-devices-2026/</guid>
+      <title>用 Google Pixel Tag 隨時掌握你的貴重物品</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-tag/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>這是我們全新 Pixel 裝置的搶先一覽，包括新的 Pixel 11 手機、Pixel Watch 5，以及我們首款 Pixel Tag。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/newest_Pixel_devices_social_v2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/newest_Pixel_devices_social_v2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/newest_Pixel_devices_social_v2.max-600x600.format-webp.webp" alt=""></p><p>這是我們全新 Pixel 裝置的搶先一覽，包括新的 Pixel 11 手機、Pixel Watch 5，以及我們首款 Pixel Tag。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>這裡有 3 種方式，讓你的 Pixel 變得更實用。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-helpful-updates-features/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們的 Pixel 11 手機內建許多實用更新，例如 Magic Capture、Rambler 和 HiLight。這裡有一位 Google 員工分享他最喜歡的功能。</description>
-      <media:content url="https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp" alt=""></p><p>我們的 Pixel 11 手機內建許多實用更新，例如 Magic Capture、Rambler 和 HiLight。這裡有一位 Google 員工分享他最喜歡的功能。</p>]]></content:encoded>
+      <description>Google Pixel Tag 可透過 Bluetooth Channel Sounding 和 Find Hub 尋找鑰匙、皮夾和行李。查看規格、價格和相容性。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MBG2026_PixelTagHero.max-600x600.format-webp.webp" alt=""></p><p>Google Pixel Tag 可透過 Bluetooth Channel Sounding 和 Find Hub 尋找鑰匙、皮夾和行李。查看規格、價格和相容性。</p>]]></content:encoded>
     </item>
     <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
