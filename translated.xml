@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 22:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:32:04 GMT</lastBuildDate>
+    <item>
+      <title>Waymo 更便宜的次世代 robotaxi 現已向這三座城市的所有乘客開放</title>
+      <link>https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154552</guid>
+      <pubDate>Wed, 19 Aug 2026 22:25:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這款名為 Waymo Ojai 的次世代 robotaxi，是該公司邁向大規模擴張，並最終實現獲利的核心。</description>
+    </item>
     <item>
       <title>OpenAI 透過新的客戶隱私保護措施試圖超越 Anthropic</title>
       <link>https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/</link>
@@ -227,15 +236,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp" alt=""></p><p>我們請 3 位創作者在 Google Flow 這個 AI 創意工作室裡，為在地商家設計廣告活動。以下是他們做出來的內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>家用電池突然變得便宜又隨處可見。這就是原因。</title>
-      <link>https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154069</guid>
-      <pubDate>Wed, 19 Aug 2026 13:40:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>包括 Tesla 和 Base Power 在內的公司，正爭相搶佔快速成長的家用電池市場。這一切之所以成為可能，全靠一項技術。</description>
     </item>
     <item>
       <title>推出「Meta Startup School」，加速早期新創公司的成長</title>
