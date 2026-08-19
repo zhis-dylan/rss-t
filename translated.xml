@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 19:45:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 20:00:39 GMT</lastBuildDate>
     <item>
       <title>AI 本來應該早就贏得人心——但還沒有</title>
       <link>https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/</link>
@@ -17,12 +17,12 @@
     </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
-      <link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
-      <guid isPermaLink="false">https://openai.com/index/our-commitment-to-zero-data-retention</guid>
+      <link>https://openai.com/index/offering-zero-data-retention-for-frontier-models</link>
+      <guid isPermaLink="false">https://openai.com/index/offering-zero-data-retention-for-frontier-models</guid>
       <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 再次確認符合資格的 API 客戶可享有零資料保留，並預告 Private Safety Processing，讓進階 AI 安全性不會犧牲資料隱私。</description>
+      <description>OpenAI 重申符合資格的 API 客戶可使用零資料保留，並預覽私人安全處理，以在不犧牲資料隱私的情況下提升進階 AI 安全性。</description>
     </item>
     <item>
       <title>用 Search 提升學習的 5 種新方法</title>
