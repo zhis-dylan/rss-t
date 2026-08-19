@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 15:43:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:58:26 GMT</lastBuildDate>
+    <item>
+      <title>TerraPower 的核反應爐有一個為 AI 資料中心供電的秘密武器</title>
+      <link>https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154356</guid>
+      <pubDate>Wed, 19 Aug 2026 15:44:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TerraPower 的核電廠擁有相較競爭對手的策略優勢，尤其是在爭取資料中心合約時。</description>
+    </item>
     <item>
       <title>Rivian 分拆公司 Also 再募得 1.5 億美元</title>
       <link>https://techcrunch.com/2026/08/19/rivian-spinout-also-raises-another-150-million/</link>
@@ -243,15 +252,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Comcast 最新款路由器新增的一項新功能，可以在不需要傳統動作感測器的情況下，偵測你家中是否有動靜。</description>
-    </item>
-    <item>
-      <title>為什麼蘋果配備相機的 AirPods 可能不會是消費者害怕的「變態耳機」</title>
-      <link>https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153909</guid>
-      <pubDate>Tue, 18 Aug 2026 16:19:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>蘋果外洩的配備相機 AirPods 可能透過防止使用者錄製照片和影片，避開其他 AI 穿戴式裝置的隱私風險。</description>
     </item>
     <item>
       <title>用 Gemini 的模擬測驗讓你的 SAT 準備持續進行。</title>
