@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 18:44:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:59:57 GMT</lastBuildDate>
     <item>
       <title>為前沿模型提供零資料保留</title>
       <link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 再次確認符合資格的 API 客戶可享有零資料保留，並預告 Private Safety Processing，讓進階 AI 安全性不會犧牲資料隱私。</description>
+    </item>
+    <item>
+      <title>研究人員表示 OpenAI 取消了他們對有限資安計畫的存取權</title>
+      <link>https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154497</guid>
+      <pubDate>Wed, 19 Aug 2026 18:46:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>多位資安研究人員表示，他們突然失去了 OpenAI 的 Trusted Access for Cyber（TAC）計畫存取權，該計畫會為通過審核的使用者提供防護限制較少的模型。</description>
     </item>
     <item>
       <title>Waymo 正將 Gemini 導入其客製化 Ojai 車輛。</title>
@@ -255,15 +264,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_HeaderImage_mDyRlj4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_HeaderImage_mDyRlj4.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_HeaderImage_mDyRlj4.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini 和 BTS 正在 Gemini 應用程式中合作推出一系列互動功能。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Etched 的估值在一個月內翻倍至 210 億美元</title>
-      <link>https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153956</guid>
-      <pubDate>Tue, 18 Aug 2026 17:21:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Jane Street 已安裝 Etched 第一套出貨的 AI 叢集系統，而這讓他們印象深刻，進而促成了另一輪大規模融資，這家新創表示。</description>
     </item>
     <item>
       <title>用 Gemini 的模擬測驗讓你的 SAT 準備持續進行。</title>
