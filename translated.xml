@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 13:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:12:22 GMT</lastBuildDate>
+    <item>
+      <title>Calendly 也加入會議筆記助理大亂鬥</title>
+      <link>https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154226</guid>
+      <pubDate>Wed, 19 Aug 2026 14:09:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Calendly 也正在推出一款名為 Callie 的會議排程助理</description>
+    </item>
+    <item>
+      <title>創辦人的秘密武器：在 TechCrunch Disrupt 2026 工作，學會專業人士是怎麼做的</title>
+      <link>https://techcrunch.com/2026/08/19/the-founders-secret-weapon-work-at-techcrunch-disrupt-2026-and-learn-how-the-pros-do-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152967</guid>
+      <pubDate>Wed, 19 Aug 2026 14:02:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 TechCrunch Disrupt 2026 擔任志工，從內行角度了解世界級科技活動是如何打造的，以及更多內容。</description>
+    </item>
+    <item>
+      <title>3 位創作者用無限存取 Google Flow 做出了什麼</title>
+      <link>https://blog.google/products/ads-commerce/the-small-brief/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/the-small-brief/</guid>
+      <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們請 3 位創作者在 Google Flow 這個 AI 創意工作室裡，為在地商家設計廣告活動。以下是他們做出來的內容。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp" alt=""></p><p>我們請 3 位創作者在 Google Flow 這個 AI 創意工作室裡，為在地商家設計廣告活動。以下是他們做出來的內容。</p>]]></content:encoded>
+    </item>
     <item>
       <title>家用電池突然變得便宜又隨處可見。這就是原因。</title>
       <link>https://techcrunch.com/2026/08/19/home-batteries-are-suddenly-cheap-and-everywhere-heres-why/</link>
@@ -246,24 +276,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>週二，Warp 推出 Warp Factories，這是一套旨在讓打造 AI 軟體工廠變得盡可能容易的新基礎架構系統。</description>
-    </item>
-    <item>
-      <title>OpenAI 推出更安全的青少年版 ChatGPT——這比青少年開始使用它晚了好幾年</title>
-      <link>https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153830</guid>
-      <pubDate>Tue, 18 Aug 2026 13:50:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>青少年版 ChatGPT 加入符合年齡的安全措施、家長監護控制，以及旨在引導青少年遠離有害內容的學習工具——也避免他們用 AI 作弊寫作業。</description>
-    </item>
-    <item>
-      <title>Perplexity 的免費 AI 方案讓它在印度多了數百萬名用戶</title>
-      <link>https://techcrunch.com/2026/08/18/perplexitys-free-ai-offer-left-it-with-millions-more-users-in-india/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153831</guid>
-      <pubDate>Tue, 18 Aug 2026 13:45:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Airtel 供新用戶使用的優惠結束後，儘管下載量下滑，Perplexity 在印度的營收仍成長約 60%。</description>
     </item>
     <item>
       <title>美國勞動力學院：免費。無需任何先前經驗。通往另一端的職涯。</title>
@@ -573,16 +585,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp" alt=""></p><p>Android 裝置之間的分享現在更簡單了，從 Pixel 開始。使用快速分享，輕點即可傳送聯絡資訊等內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
+      <title>Pixel 11 發表會 7 項不容錯過的更新</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
+      <description>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" alt=""></p><p>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</p>]]></content:encoded>
     </item>
     <item>
       <title>2026 Google 發表會</title>
@@ -609,16 +621,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Fold_Social.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 Pro Fold 是我們最新的摺疊機，採用更薄更輕的設計、全新的主相機，以及更強大的智慧工具。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Pixel 11 發表會 7 項不容錯過的更新</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</guid>
+      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" alt=""></p><p>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</p>]]></content:encoded>
+      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
     </item>
     <item>
       <title>這是全新 Pixel 裝置的搶先一覽。</title>
@@ -655,18 +667,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp" alt=""></p><p>Google 正在隨著 Made by Google 推出全新的 Pixel 配件</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pixel Buds Pro 2 和 Pixel Buds 2a 有哪些新功能。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/google-pixel-buds-mbg-2026/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正在隨著 Made by Google 為 Pixel Buds Pro 2 和 Pixel Buds 2a 推出新色和升級功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_Buds_Pro_2_and_Pixel_Buds.max-600x600.format-webp.webp" alt=""></p><p>Google 正在隨著 Made by Google 為 Pixel Buds Pro 2 和 Pixel Buds 2a 推出新色和升級功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
