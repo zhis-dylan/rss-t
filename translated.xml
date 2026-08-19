@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 05:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 06:08:35 GMT</lastBuildDate>
     <item>
       <title>Cursor 乘著對 GitHub 的不滿推出競爭性代管平台</title>
       <link>https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/</link>
@@ -14,6 +14,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>以 AI 程式碼編輯器聞名的 Cursor，正在推出新的程式碼代管平台，來挑戰開發者長期以來最愛的 GitHub。</description>
+    </item>
+    <item>
+      <title>ChatGPT Ads 擴展至歐洲各地</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-across-europe</guid>
+      <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Ads 正在擴展到 31 個歐洲市場。了解廣告主如何在使用者探索、比較選項並做出決策時接觸到他們。</description>
     </item>
     <item>
       <title>司法部對 Andreessen Horowitz 董事席位的調查讓創投界感到困惑</title>
@@ -1920,15 +1929,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出 Deployment Simulation，一種在部署前使用真實對話資料來預測 AI 模型行為的方法，以提升安全性與評估準確度。</description>
-    </item>
-    <item>
-      <title>介紹 OpenAI 合作夥伴網路</title>
-      <link>https://openai.com/index/introducing-openai-partner-network</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-openai-partner-network</guid>
-      <pubDate>Sun, 14 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出合作夥伴網路，投資 1.5 億美元協助全球合作夥伴加速企業 AI 採用、部署與轉型。</description>
     </item>
     <item>
       <title>Apple 推出跨服務的創新功能與智慧體驗</title>
