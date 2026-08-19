@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 19 Aug 2026 17:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:44:22 GMT</lastBuildDate>
     <item>
       <title>為前沿模型提供零資料保留</title>
       <link>https://openai.com/index/our-commitment-to-zero-data-retention</link>
@@ -16,13 +16,16 @@
       <description>OpenAI 再次確認符合資格的 API 客戶可享有零資料保留，並預告 Private Safety Processing，讓進階 AI 安全性不會犧牲資料隱私。</description>
     </item>
     <item>
-      <title>認識這家幫助華爾街替 AI 運算算價的新創公司</title>
-      <link>https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3154465</guid>
-      <pubDate>Wed, 19 Aug 2026 17:26:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 的建置熱潮看來沒有放緩跡象。而且隨著每年有數千億美元流入資料中心和 GPU，運算已經成為任何打造 AI 產品的人最大的單一成本。但即使投入了這麼多，仍然沒有一套直接的方法來替運算定價——或者讓公司在價格變動時對沖其曝險。 Silicon Data […]</description>
+      <title>Waymo 正將 Gemini 導入其客製化 Ojai 車輛。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-waymo/</guid>
+      <pubDate>Wed, 19 Aug 2026 17:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Waymo 正將 Gemini 導入其客製化打造的 Ojai 車輛，打造更實用且更個人化的乘車體驗。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp" alt=""></p><p>Waymo 正將 Gemini 導入其客製化打造的 Ojai 車輛，打造更實用且更個人化的乘車體驗。</p>]]></content:encoded>
     </item>
     <item>
       <title>T-Mobile「切斷了一條纜線」以將中國駭客逐出其網路</title>
@@ -603,16 +606,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp" alt=""></p><p>Android 裝置之間的分享現在更簡單了，從 Pixel 開始。使用快速分享，輕點即可傳送聯絡資訊等內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Pixel 11 發表會 7 項不容錯過的更新</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</guid>
+      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" alt=""></p><p>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</p>]]></content:encoded>
+      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
     </item>
     <item>
       <title>2026 Google 發表會</title>
@@ -639,16 +642,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Pixel_11_Pro_Fold_Social.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 Pro Fold 是我們最新的摺疊機，採用更薄更輕的設計、全新的主相機，以及更強大的智慧工具。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們如何為 Pixel Watch 5 打造全新的 GPS</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5-gps/</guid>
+      <title>Pixel 11 發表會 7 項不容錯過的更新</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-features/</guid>
       <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPS_on_the_Pixel_Watch_5_Hero.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 5 提供我們迄今最精準的 GPS 路線追蹤，幫助你重現跑步、健行和騎自行車時走過的路線。</p>]]></content:encoded>
+      <description>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/P11_SS.max-600x600.format-webp.webp" alt=""></p><p>全新的 Pixel 11 系列具備 Gemini Intelligence 的最佳功能，並帶來我們多年來最大的相機升級。</p>]]></content:encoded>
     </item>
     <item>
       <title>這是全新 Pixel 裝置的搶先一覽。</title>
@@ -673,18 +676,6 @@
       <media:content url="https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp"/>
       <content:encoded><![CDATA[<p><img src="https://i.ytimg.com/vi_webp/nd5s2AUUHSc/maxresdefault.webp" alt=""></p><p>我們的 Pixel 11 手機內建許多實用更新，例如 Magic Capture、Rambler 和 HiLight。這裡有一位 Google 員工分享他最喜歡的功能。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pixel 11 手機全新配件登場。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/new-pixelsnap-accessories-cases-ring-stand/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正在隨著 Made by Google 推出全新的 Pixel 配件</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Accessories.max-600x600.format-webp.webp" alt=""></p><p>Google 正在隨著 Made by Google 推出全新的 Pixel 配件</p>]]></content:encoded>
     </item>
     <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
