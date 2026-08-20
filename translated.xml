@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 17:11:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:26:14 GMT</lastBuildDate>
+    <item>
+      <title>自 ChatGPT 上線以來發佈的網頁中有三分之一出現 AI 撰寫跡象，研究發現</title>
+      <link>https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154941</guid>
+      <pubDate>Thu, 20 Aug 2026 17:18:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>ChatGPT 和其他 AI 模型現在正在撰寫與編輯大量的新網頁內容。</description>
+    </item>
     <item>
       <title>早期 Cerebras 投資人 Adit Singh 加入 Mayfield 擔任基礎架構合夥人</title>
       <link>https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/</link>
@@ -236,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在為他的新機器人公司 Atoms 募得 17 億美元後，Travis Kalanick 開始反思風險投資人（VC）在他職業生涯中扮演的角色。</description>
-    </item>
-    <item>
-      <title>Rillet 以 10 億美元估值募得 1 億美元 C 輪融資——在低調公開 2 年後</title>
-      <link>https://techcrunch.com/2026/08/19/rillet-raises-100m-series-c-at-1b-valuation-2-years-after-emerging-from-stealth/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154530</guid>
-      <pubDate>Wed, 19 Aug 2026 20:12:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 原生會計新創公司 Rillet 表示，在過去 3 個月把年度經常性收入（ARR）翻倍後，已在 ICONIQ 領投下成為獨角獸。</description>
     </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
