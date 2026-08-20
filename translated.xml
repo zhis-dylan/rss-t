@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 19:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:57:42 GMT</lastBuildDate>
+    <item>
+      <title>Mark 買了一座城堡</title>
+      <link>https://techcrunch.com/2026/08/20/mark-buys-a-castle/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155134</guid>
+      <pubDate>Thu, 20 Aug 2026 19:55:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Mark Zuckerberg 剛在愛爾蘭的 Meta 國際總部附近買了一間舒適的住處。</description>
+    </item>
     <item>
       <title>Google 提供出版商一個對抗 AI 驅動流量下滑的新方式</title>
       <link>https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/</link>
@@ -229,13 +238,13 @@
       <description>駭客正鎖定美國各地水務設施中使用、連上網路的 Siemens 控制器。</description>
     </item>
     <item>
-      <title>Meta AI 的全新 Mac app 想讓你直接跟你的 app 對話</title>
-      <link>https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154766</guid>
-      <pubDate>Thu, 20 Aug 2026 12:11:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 表示，其 Muse Spark 模型正在驅動這項聽寫功能。</description>
+      <title>介紹 AI Futures</title>
+      <link>https://openai.com/index/introducing-ai-futures</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-ai-futures</guid>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>介紹 AI Futures，一個新的 OpenAI 部落格，探討變革性的 AI 如何重塑權力、治理、經濟，以及個人自由。</description>
     </item>
     <item>
       <title>ChatGPT Work 如何協助 Stampli 將想法推向市場</title>
@@ -1909,15 +1918,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 GPT-5.5 Instant 如何透過更強的推理能力、更好的上下文、更清楚的溝通，以及醫師參與的評估，改善 ChatGPT 的健康與保健回應。</description>
-    </item>
-    <item>
-      <title>使用 AI 協助醫師診斷影響兒童的罕見遺傳疾病</title>
-      <link>https://openai.com/index/diagnose-rare-childhood-diseases</link>
-      <guid isPermaLink="false">https://openai.com/index/diagnose-rare-childhood-diseases</guid>
-      <pubDate>Thu, 18 Jun 2026 08:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>研究人員使用一個 OpenAI 推理模型來協助診斷罕見疾病，並在先前未解決的病例中找出 18 個新的診斷。</description>
     </item>
     <item>
       <title>以 AI 取得成功</title>
