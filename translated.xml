@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 17:26:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:41:26 GMT</lastBuildDate>
+    <item>
+      <title>Grok 持續向使用者傳送亂碼回應</title>
+      <link>https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154977</guid>
+      <pubDate>Thu, 20 Aug 2026 17:32:16 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>受影響的使用者告訴 TechCrunch，他們當時使用的是 Grok Lite，並在週三早上就注意到這些問題。</description>
+    </item>
+    <item>
+      <title>投資人指南：TechCrunch Disrupt 2026 你需要知道的一切</title>
+      <link>https://techcrunch.com/2026/08/20/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154551</guid>
+      <pubDate>Thu, 20 Aug 2026 17:27:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>年復一年，走訪 Expo Halls、與創辦人見面並向同儕學習的投資人，都證明了為什麼你今年需要親自到 Disrupt 現場。</description>
+    </item>
     <item>
       <title>自 ChatGPT 上線以來發佈的網頁中有三分之一出現 AI 撰寫跡象，研究發現</title>
       <link>https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/</link>
@@ -227,24 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 和 Anthropic 之間正在展開一場競爭，看誰能為企業客戶資料提供最好的隱私保護。</description>
-    </item>
-    <item>
-      <title>Cognition 執行長否認 SpaceX 曾試圖收購這家新創公司的報導</title>
-      <link>https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154652</guid>
-      <pubDate>Wed, 19 Aug 2026 21:51:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報 SpaceX 曾在洽談收購 AI 寫程式新創公司 Cognition。SpaceX 已經收購了 Cursor，因為它正加速追趕 OpenAI 和 Anthropic 等競爭對手在企業 AI 領域的腳步。</description>
-    </item>
-    <item>
-      <title>Travis Kalanick 再度開砲批評 VC：『只有 1% 有幫助』</title>
-      <link>https://techcrunch.com/2026/08/19/travis-kalanick-kicks-off-another-round-of-vc-bashing-1-are-helpful/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154186</guid>
-      <pubDate>Wed, 19 Aug 2026 21:48:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在為他的新機器人公司 Atoms 募得 17 億美元後，Travis Kalanick 開始反思風險投資人（VC）在他職業生涯中扮演的角色。</description>
     </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
