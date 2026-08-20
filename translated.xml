@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 13:39:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:54:13 GMT</lastBuildDate>
+    <item>
+      <title>Apollo Atomics 想透過縮小一個被忽視的零件來讓核能更便宜</title>
+      <link>https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154377</guid>
+      <pubDate>Thu, 20 Aug 2026 13:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Y Combinator 校友 Apollo Atomics 正在縮小核反應爐的一個關鍵零件，這有望把發電成本壓低到天然氣以下。</description>
+    </item>
     <item>
       <title>AI 資料巨頭 Alation 證實遭受網路攻擊</title>
       <link>https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/</link>
@@ -239,15 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家美國電話業者在早期發現獲中國支持的駭客後，躲過了一場大規模的網路入侵。</description>
-    </item>
-    <item>
-      <title>TerraPower 的核反應爐有一個為 AI 資料中心供電的秘密武器</title>
-      <link>https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154356</guid>
-      <pubDate>Wed, 19 Aug 2026 15:44:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TerraPower 的核電廠擁有相較競爭對手的策略優勢，尤其是在爭取資料中心合約時。</description>
     </item>
     <item>
       <title>3 位創作者用無限存取 Google Flow 做出了什麼</title>
