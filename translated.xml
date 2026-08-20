@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 19:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:27:23 GMT</lastBuildDate>
+    <item>
+      <title>Google 提供出版商一個對抗 AI 驅動流量下滑的新方式</title>
+      <link>https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155082</guid>
+      <pubDate>Thu, 20 Aug 2026 19:18:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正在給出版商一個新按鈕，讓讀者可以將他們設為 Search、Discover 和 Google News 的偏好來源，這可能會在 AI 搜尋送到網站的點擊變少時，提升他們的流量。</description>
+    </item>
+    <item>
+      <title>Runlayer、Rippling 撤回訴訟。但這場風波仍是創辦人的一個警示故事。</title>
+      <link>https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154952</guid>
+      <pubDate>Thu, 20 Aug 2026 19:15:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Runlayer 和 Rippling 已撤回訴訟。沒有支付任何金錢。Rippling 則透過推出一款競爭產品來慶祝。</description>
+    </item>
     <item>
       <title>Castelion 估值達 130 億美元，將量產極音速飛彈</title>
       <link>https://techcrunch.com/2026/08/20/castelion-hits-13b-valuation-to-mass-produce-hypersonic-missiles/</link>
@@ -220,15 +238,6 @@
       <description>Meta 表示，其 Muse Spark 模型正在驅動這項聽寫功能。</description>
     </item>
     <item>
-      <title>Binance 現在讓 AI 代理人交易，但要管好它們大致上還是得靠使用者</title>
-      <link>https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154391</guid>
-      <pubDate>Thu, 20 Aug 2026 09:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Binance 的 Agent OS 可搭配包括 ChatGPT、Claude Code 和 Cursor 在內的工具使用。</description>
-    </item>
-    <item>
       <title>ChatGPT Work 如何協助 Stampli 將想法推向市場</title>
       <link>https://openai.com/index/stampli</link>
       <guid isPermaLink="false">https://openai.com/index/stampli</guid>
@@ -236,15 +245,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>在固定截止日期、且設計資源已投入其他工作的情況下，Stampli 使用 Codex 和 ChatGPT Work，將原本需要數週的上市製作壓縮到幾天內完成。</description>
-    </item>
-    <item>
-      <title>Stripe 並不是真的因為「奇點」而買下 OpenRouter</title>
-      <link>https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154600</guid>
-      <pubDate>Wed, 19 Aug 2026 23:32:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一家支付巨頭為什麼會想要一間在不同 AI 模型之間路由提示詞的新創公司？Stripe 說是因為「奇點」，但其實原因要現實得多，也強大得多。</description>
     </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
