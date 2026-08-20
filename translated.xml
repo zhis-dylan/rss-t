@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:40:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:55:52 GMT</lastBuildDate>
+    <item>
+      <title>Ramp 推出自家的 AI 模型路由器，名為 Router</title>
+      <link>https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154851</guid>
+      <pubDate>Thu, 20 Aug 2026 16:46:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ramp 推出自己的 AI 模型路由服務，名為 Router，讓使用者和公司可透過 API 使用並切換各種大型語言模型。</description>
+    </item>
     <item>
       <title>參議員要求 TikTok 針對停用保護機制的實驗作出說明</title>
       <link>https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/</link>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這位演員創辦的公司 Kinship Ventures 是該公司的投資者。</description>
-    </item>
-    <item>
-      <title>把小聯盟世界大賽拿來賭？體育下注者玩得太過頭了</title>
-      <link>https://techcrunch.com/2026/08/19/gambling-on-the-little-league-world-series-sports-bettors-have-gone-too-far/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154508</guid>
-      <pubDate>Wed, 19 Aug 2026 20:01:02 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>我們有試過把社會關掉再重新打開嗎？</description>
     </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
