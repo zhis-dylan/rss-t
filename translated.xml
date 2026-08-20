@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 12:38:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 12:53:35 GMT</lastBuildDate>
+    <item>
+      <title>美國表示駭客正借助 AI 鎖定有漏洞的供水系統</title>
+      <link>https://techcrunch.com/2026/08/20/us-says-hackers-are-targeting-vulnerable-water-systems-with-the-help-of-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154767</guid>
+      <pubDate>Thu, 20 Aug 2026 12:43:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>駭客正鎖定美國各地水務設施中使用、連上網路的 Siemens 控制器。</description>
+    </item>
     <item>
       <title>Meta AI 的全新 Mac app 想讓你直接跟你的 app 對話</title>
       <link>https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/</link>
@@ -215,15 +224,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆投資正值 Navi 計劃上市之際。</description>
-    </item>
-    <item>
-      <title>Amazon 將其由 AI 驅動的 Alexa+ 在 Fire TV 上免費提供，無需 Prime 會員</title>
-      <link>https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154279</guid>
-      <pubDate>Wed, 19 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 正在把其由 AI 驅動的 Alexa+ 助理免費提供給美國所有相容的 Fire TV 裝置，無論用戶是否訂閱 Prime，都會自動升級。</description>
     </item>
     <item>
       <title>3 位創作者用無限存取 Google Flow 做出了什麼</title>
