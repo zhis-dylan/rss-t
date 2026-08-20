@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:55:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:11:03 GMT</lastBuildDate>
+    <item>
+      <title>早期 Cerebras 投資人 Adit Singh 加入 Mayfield 擔任基礎架構合夥人</title>
+      <link>https://techcrunch.com/2026/08/20/early-cerebras-investor-adit-singh-joins-mayfield-as-infrastructure-partner/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154902</guid>
+      <pubDate>Thu, 20 Aug 2026 17:04:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 Mayfield，Singh 將專注於半導體、資安與實體 AI 投資。</description>
+    </item>
     <item>
       <title>Ramp 推出自家的 AI 模型路由器，名為 Router</title>
       <link>https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</link>
@@ -53,9 +62,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>搜尋、探索和 Google 新聞新增的個人化功能，讓你擁有更多掌控權。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personalize_Ecosystem_Bundle_he.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personalize_Ecosystem_Bundle_he.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personalize_Ecosystem_Bundle_he.max-600x600.format-webp.webp" alt=""></p><p>搜尋、探索和 Google 新聞新增的個人化功能，讓你擁有更多掌控權。</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled-13V_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled-13V_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled-13V_1.max-600x600.format-webp.webp" alt=""></p><p>搜尋、探索和 Google 新聞新增的個人化功能，讓你擁有更多掌控權。</p>]]></content:encoded>
     </item>
     <item>
       <title>2026 年 Startup Battlefield 200 登場——來看看誰入選了</title>
@@ -83,6 +92,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>核融合發電新創 Inertia Enterprises 已將燃料填充流程從一週縮短到只要幾個小時。這是該公司必須克服的十項障礙之一，目標是打造一座有獲利能力的發電廠。</description>
+    </item>
+    <item>
+      <title>走進 Gemmaverse：慶祝 Gemma 下載量突破 10 億次</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/gemma-one-billion-downloads/</guid>
+      <pubDate>Thu, 20 Aug 2026 15:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一窺 Gemmaverse，Gemma 下載量已突破 10 億次。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OneBillionGemma_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OneBillionGemma_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OneBillionGemma_Hero.max-600x600.format-webp.webp" alt=""></p><p>一窺 Gemmaverse，Gemma 下載量已突破 10 億次。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apollo Atomics 想透過縮小一個被忽視的零件來讓核能更便宜</title>
@@ -224,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 原生會計新創公司 Rillet 表示，在過去 3 個月把年度經常性收入（ARR）翻倍後，已在 ICONIQ 領投下成為獨角獸。</description>
-    </item>
-    <item>
-      <title>傳聞 Gwyneth Paltrow 將舉辦晚宴向 Sam Altman 致意</title>
-      <link>https://techcrunch.com/2026/08/19/gwyneth-paltrow-allegedly-set-to-throw-dinner-in-honor-of-sam-altman/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154535</guid>
-      <pubDate>Wed, 19 Aug 2026 20:04:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這位演員創辦的公司 Kinship Ventures 是該公司的投資者。</description>
     </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
@@ -587,18 +599,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp" alt=""></p><p>Sheets canvas 只要用簡單提示，就能把資料變成互動式儀表板、自訂讀書追蹤器、座位表等更多內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>當你的 Pixel 11 Pro 螢幕朝下時，也能透過 HiLight 接收更新。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" alt=""></p><p>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>使用 Pixel 11 上的 Magic Capture 拍照時，保持當下的存在感。</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/</guid>
@@ -609,6 +609,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 的新功能 Magic Capture 會從動態場景中找出最佳照片，讓你在捕捉珍貴時刻時不會錯過它們。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>當你的 Pixel 11 Pro 螢幕朝下時，也能透過 HiLight 接收更新。</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</guid>
+      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" alt=""></p><p>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</p>]]></content:encoded>
     </item>
     <item>
       <title>Omni 專家分享他們對這個模型最感興趣的地方。</title>
@@ -694,18 +706,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555" alt=""></p><p>NVIDIA 創辦人暨執行長 Jensen Huang 在 Glassdoor 2026 年最佳執行長榜單中排名第 1。這份剛公布的排名，是直接由最了解其領導表現的人——員工——所認可。Huang 名列榜首，99% 的員工認可他所做的工作。「隨著 AI 與不斷變動的期待 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pixel 裝置之間的分享現在只要輕輕一點。</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/tap-to-share-android/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Android 裝置之間的分享現在更簡單了，從 Pixel 開始。使用快速分享，輕點即可傳送聯絡資訊等內容。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tap_to_Share_social.max-600x600.format-webp.webp" alt=""></p><p>Android 裝置之間的分享現在更簡單了，從 Pixel 開始。使用快速分享，輕點即可傳送聯絡資訊等內容。</p>]]></content:encoded>
     </item>
     <item>
       <title>NABTU 與 Meta 宣布新合作，投資 AI 時代的技術工種</title>
