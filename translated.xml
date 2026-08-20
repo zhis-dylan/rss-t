@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 18:11:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 18:26:50 GMT</lastBuildDate>
+    <item>
+      <title>Linkdaze 的智慧行事曆是為了管理家庭，而不只是追蹤行程</title>
+      <link>https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155017</guid>
+      <pubDate>Thu, 20 Aug 2026 18:20:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Linkdaze 的智慧數位行事曆與眾不同之處，在於沒有把功能鎖在付費牆後面，包括一個 AI 餐點規劃工具。</description>
+    </item>
     <item>
       <title>Grok 持續向使用者傳送亂碼回應</title>
       <link>https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/</link>
@@ -236,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這款名為 Waymo Ojai 的次世代 robotaxi，是該公司邁向大規模擴張，並最終實現獲利的核心。</description>
-    </item>
-    <item>
-      <title>OpenAI 透過新的客戶隱私保護措施試圖超越 Anthropic</title>
-      <link>https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154506</guid>
-      <pubDate>Wed, 19 Aug 2026 22:10:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 和 Anthropic 之間正在展開一場競爭，看誰能為企業客戶資料提供最好的隱私保護。</description>
     </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
