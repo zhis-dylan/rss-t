@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 16:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:25:34 GMT</lastBuildDate>
+    <item>
+      <title>參議員要求 TikTok 針對停用保護機制的實驗作出說明</title>
+      <link>https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154888</guid>
+      <pubDate>Thu, 20 Aug 2026 16:22:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項保護機制原本是為了防止使用者接收到過量有害內容，但 TikTok 想確認這是否會讓應用程式的吸引力下降。</description>
+    </item>
     <item>
       <title>Meta 將 Pocket 這款可讓你 vibe-code 並分享遊戲的 app 帶給美國用戶</title>
       <link>https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/</link>
@@ -25,7 +34,7 @@
       <description>透過 Google Arts &amp; Culture 的數位中心，走訪美國國家公園的歷史與自然景觀。</description>
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parks_of_America_-_Thumbnail_He.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parks_of_America_-_Thumbnail_He.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parks_of_America_-_Thumbnail_He.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Arts &amp; Culture 的數位中心，走訪美國國家公園的歷史與自然景觀。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Parks_of_America_-_Thumbnail_He.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Arts &amp;amp; Culture 的數位中心，走訪美國國家公園的歷史與自然景觀。</p>]]></content:encoded>
     </item>
     <item>
       <title>個人化你在搜尋、探索和新聞中看到的內容</title>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>我們有試過把社會關掉再重新打開嗎？</description>
-    </item>
-    <item>
-      <title>AI 本來應該早就贏得人心——但還沒有</title>
-      <link>https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154433</guid>
-      <pubDate>Wed, 19 Aug 2026 19:11:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著 AI 越來越難以避免，消費者對這項技術也越來越警惕——而矽谷正在發現，大規模採用不一定就代表接受。</description>
     </item>
     <item>
       <title>為前沿模型提供零資料保留</title>
