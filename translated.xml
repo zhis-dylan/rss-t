@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 20 Aug 2026 15:39:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:55:10 GMT</lastBuildDate>
     <item>
       <title>Apollo Atomics 想透過縮小一個被忽視的零件來讓核能更便宜</title>
       <link>https://techcrunch.com/2026/08/20/apollo-atomics-wants-to-make-nuclear-power-cheaper-by-shrinking-an-overlooked-part/</link>
@@ -83,6 +83,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Binance 的 Agent OS 可搭配包括 ChatGPT、Claude Code 和 Cursor 在內的工具使用。</description>
+    </item>
+    <item>
+      <title>ChatGPT Work 如何協助 Stampli 將想法推向市場</title>
+      <link>https://openai.com/index/stampli</link>
+      <guid isPermaLink="false">https://openai.com/index/stampli</guid>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>在固定截止日期、且設計資源已投入其他工作的情況下，Stampli 使用 Codex 和 ChatGPT Work，將原本需要數週的上市製作壓縮到幾天內完成。</description>
     </item>
     <item>
       <title>Stripe 並不是真的因為「奇點」而買下 OpenRouter</title>
@@ -1900,15 +1909,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>研究人員使用一個 OpenAI 推理模型來協助診斷罕見疾病，並在先前未解決的病例中找出 18 個新的診斷。</description>
-    </item>
-    <item>
-      <title>近乎自主的 AI 化學家改良了藥物化學中的一項具挑戰性的反應</title>
-      <link>https://openai.com/index/ai-chemist-improves-reaction</link>
-      <guid isPermaLink="false">https://openai.com/index/ai-chemist-improves-reaction</guid>
-      <pubDate>Wed, 17 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 和 Molecule.one 展示近乎自主的 AI 化學家如何使用 GPT-5.4 改良關鍵的藥物製造反應，推進藥物化學研究。</description>
     </item>
     <item>
       <title>以 AI 取得成功</title>
