@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:20:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:35:48 GMT</lastBuildDate>
+    <item>
+      <title>私募股權公司 Apollo 證實遭遇資料外洩，駭客攻擊浪潮鎖定金融巨頭</title>
+      <link>https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155391</guid>
+      <pubDate>Fri, 21 Aug 2026 13:35:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家私募股權巨擘證實發生資料外洩，距離 Google 研究人員表示駭客正在鎖定金融公司才過了幾週。</description>
+    </item>
     <item>
       <title>參議員要求美國政府監察機構審查聯邦政府如何使用駭客工具</title>
       <link>https://techcrunch.com/2026/08/21/senator-asks-us-federal-watchdog-to-review-how-feds-use-hacking-tools/</link>
@@ -167,15 +176,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Ramp 推出自己的 AI 模型路由服務，名為 Router，讓使用者和公司可透過 API 使用並切換各種大型語言模型。</description>
-    </item>
-    <item>
-      <title>參議員要求 TikTok 針對停用保護機制的實驗作出說明</title>
-      <link>https://techcrunch.com/2026/08/20/senators-demand-answers-from-tiktok-over-experiment-that-disabled-safeguards/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154888</guid>
-      <pubDate>Thu, 20 Aug 2026 16:22:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項保護機制原本是為了防止使用者接收到過量有害內容，但 TikTok 想確認這是否會讓應用程式的吸引力下降。</description>
     </item>
     <item>
       <title>踏上美國國家公園的互動旅程</title>
