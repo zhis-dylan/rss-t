@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 16:07:14 GMT</lastBuildDate>
+    <item>
+      <title>美國政府實驗室正在調查中國 lidar 的安全漏洞</title>
+      <link>https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155072</guid>
+      <pubDate>Fri, 21 Aug 2026 16:01:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項安全審查由愛達荷國家實驗室執行，研究經費來自一家公司——或一組公司——，這些公司來自電動車與自動駕駛車產業。</description>
+    </item>
+    <item>
+      <title>「全端」AI 到底是什麼意思？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/</guid>
+      <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一位 Google DeepMind 工程師將全端開發拆解成五個簡單層次，並說明這如何影響日常使用者。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 工程師將全端開發拆解成五個簡單層次，並說明這如何影響日常使用者。</p>]]></content:encoded>
+    </item>
     <item>
       <title>以下是如何在 Pixel 11 上使用手語轉文字翻譯。</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/</link>
@@ -193,15 +214,6 @@
       <description>Linkdaze 的智慧數位行事曆與眾不同之處，在於沒有把功能鎖在付費牆後面，包括一個 AI 餐點規劃工具。</description>
     </item>
     <item>
-      <title>Grok 持續向使用者傳送亂碼回應</title>
-      <link>https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154977</guid>
-      <pubDate>Thu, 20 Aug 2026 17:32:16 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>受影響的使用者告訴 TechCrunch，他們當時使用的是 Grok Lite，並在週三早上就注意到這些問題。</description>
-    </item>
-    <item>
       <title>踏上美國國家公園的互動旅程</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/united-parks-of-america/</guid>
@@ -301,18 +313,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" alt=""></p><p>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</p>]]></content:encoded>
     </item>
     <item>
-      <title>返校季 2026</title>
-      <link>https://blog.google/products-and-platforms/products/education/back-to-school-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/back-to-school-2026/</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 工具在這個返校季如何幫助學生和教育工作者。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 工具在這個返校季如何幫助學生和教育工作者。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用我們送你的一年 Gemini，開啟新學期</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</guid>
@@ -323,6 +323,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" alt=""></p><p>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>返校季 2026</title>
+      <link>https://blog.google/products-and-platforms/products/education/back-to-school-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/back-to-school-2026/</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 工具在這個返校季如何幫助學生和教育工作者。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 工具在這個返校季如何幫助學生和教育工作者。</p>]]></content:encoded>
     </item>
     <item>
       <title>Waymo 正將 Gemini 導入其客製化 Ojai 車輛。</title>
@@ -413,18 +425,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_HeaderImage_mDyRlj4.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini 和 BTS 正在 Gemini 應用程式中合作推出一系列互動功能。</p>]]></content:encoded>
     </item>
     <item>
-      <title>問科學家：研究人員如何運用 AI 預測洪水？</title>
-      <link>https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/</guid>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Gemini 的模擬測驗讓你的 SAT 準備持續進行。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/</guid>
@@ -435,6 +435,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp" alt=""></p><p>Google 的 Gemini App 免費提供完整長度的 SAT 模擬測驗。以下是你在準備時如何進行這些 SAT 練習測驗。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>問科學家：研究人員如何運用 AI 預測洪水？</title>
+      <link>https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/</guid>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 宣布歐盟地區 App 的變更</title>
@@ -621,18 +633,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Sheets_canvas-blog-header-2784x.max-600x600.format-webp.webp" alt=""></p><p>Sheets canvas 只要用簡單提示，就能把資料變成互動式儀表板、自訂讀書追蹤器、座位表等更多內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>使用 Pixel 11 上的 Magic Capture 拍照時，保持當下的存在感。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-magic-capture/</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Pixel 11 的新功能 Magic Capture 會從動態場景中找出最佳照片，讓你在捕捉珍貴時刻時不會錯過它們。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 的新功能 Magic Capture 會從動態場景中找出最佳照片，讓你在捕捉珍貴時刻時不會錯過它們。</p>]]></content:encoded>
     </item>
     <item>
       <title>上課囉：GeForce NOW 為 Linux、Chromebook 等平台升級</title>
