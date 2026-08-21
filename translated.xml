@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 21 Aug 2026 17:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 17:23:03 GMT</lastBuildDate>
     <item>
       <title>參加 Google Play 抽獎，有機會贏得傳奇體驗和收藏品，還能使用你的 Play Points。</title>
       <link>https://blog.google/products-and-platforms/platforms/google-play/google-play-sweepstakes/</link>
@@ -17,15 +17,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp" alt=""></p><p>在抽獎活動中兌換 Google Play Points，有機會贏得前往紐約動漫展的行程、稀有收藏品、遊戲設備等更多好禮。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>為什麼司法部正在調查 Andreessen Horowitz 的董事會席位？</title>
-      <link>https://techcrunch.com/video/why-is-the-doj-investigating-andreessen-horowitzs-board-seats/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3155423</guid>
-      <pubDate>Fri, 21 Aug 2026 16:53:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Andreessen Horowitz 有兩位合夥人坐在彼此現在相互競爭的公司董事會上：Ben Horowitz 在 Databricks，Martin Casado 在 Fivetran。表面上看起來沒什麼太駭人的，除了司法部據報已就這種安排調查了將近一年，重新動用一部 112 年前、很少用來對付創投的反壟斷法。董事會利益衝突本來就不是什麼新鮮事，而且 a16z 最初投資時，這些公司不一定是直接競爭對手 […]</description>
     </item>
     <item>
       <title>美國政府實驗室正在調查中國 lidar 的安全漏洞</title>
