@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 21 Aug 2026 15:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:52:01 GMT</lastBuildDate>
+    <item>
+      <title>以下是如何在 Pixel 11 上使用手語轉文字翻譯。</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/</guid>
+      <pubDate>Fri, 21 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在聾人社群的合作下開發，手語轉文字可即時將 ASL 轉換成文字。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp" alt=""></p><p>在聾人社群的合作下開發，手語轉文字可即時將 ASL 轉換成文字。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Oura 面臨訴訟，遭指控誤導消費者有關睡眠追蹤準確性</title>
       <link>https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</link>
@@ -621,18 +633,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MagicCapture.max-600x600.format-webp.webp" alt=""></p><p>Pixel 11 的新功能 Magic Capture 會從動態場景中找出最佳照片，讓你在捕捉珍貴時刻時不會錯過它們。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>當你的 Pixel 11 Pro 螢幕朝下時，也能透過 HiLight 接收更新。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/pixel-11-pro-hilight/</guid>
-      <pubDate>Thu, 13 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KW_G_HiLite.max-600x600.format-webp.webp" alt=""></p><p>HiLight 是 Pixel 11 Pro 的新功能，會柔和地發光來通知你即時更新——讓你的手機放著時也能掌握資訊。</p>]]></content:encoded>
     </item>
     <item>
       <title>上課囉：GeForce NOW 為 Linux、Chromebook 等平台升級</title>
