@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 21 Aug 2026 13:35:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 13:50:56 GMT</lastBuildDate>
+    <item>
+      <title>Tesla 因中國全面推動阻止隱藏式門把手而召回 300 萬輛車</title>
+      <link>https://techcrunch.com/2026/08/21/tesla-recalls-3-million-cars-as-part-of-china-wide-push-to-stop-hidden-door-handles/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155389</guid>
+      <pubDate>Fri, 21 Aug 2026 13:48:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tesla 與另外八家車廠將加裝警示標籤，幫助乘員辨識通常不太容易找到的手動車門釋放裝置。</description>
+    </item>
     <item>
       <title>私募股權公司 Apollo 證實遭遇資料外洩，駭客攻擊浪潮鎖定金融巨頭</title>
       <link>https://techcrunch.com/2026/08/21/private-equity-firm-apollo-confirms-data-breach-amid-hacking-wave-targeting-financial-giants/</link>
@@ -167,15 +176,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Mayfield，Singh 將專注於半導體、資安與實體 AI 投資。</description>
-    </item>
-    <item>
-      <title>Ramp 推出自家的 AI 模型路由器，名為 Router</title>
-      <link>https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154851</guid>
-      <pubDate>Thu, 20 Aug 2026 16:46:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ramp 推出自己的 AI 模型路由服務，名為 Router，讓使用者和公司可透過 API 使用並切換各種大型語言模型。</description>
     </item>
     <item>
       <title>踏上美國國家公園的互動旅程</title>
