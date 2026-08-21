@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 21 Aug 2026 22:25:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 22:40:55 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 與資料中心開發商 Cloverleaf 合作</title>
+      <link>https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155585</guid>
+      <pubDate>Fri, 21 Aug 2026 22:37:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nvidia 持續投入資金到資料中心開發——而 AI 資料中心也正為 Nvidia 帶來大量資金。</description>
+    </item>
     <item>
       <title>AI 會計新創 Rillet 如何募得 1 億美元，並在 48 小時內成為獨角獸</title>
       <link>https://techcrunch.com/2026/08/21/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours/</link>
@@ -206,15 +215,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 訓練資料需求激增，正推動這家新創及其競爭對手快速成長。</description>
-    </item>
-    <item>
-      <title>根據新數據，OpenAI 在商業用戶方面正逐步追上 Anthropic</title>
-      <link>https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155215</guid>
-      <pubDate>Thu, 20 Aug 2026 22:36:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著各家實驗室推出新模型，企業願意在不同產品之間來回切換；這種波動性應該會讓兩家公司的投資人重新思考，企業 AI 支出到底有多「黏著」</description>
     </item>
     <item>
       <title>踏上美國國家公園的互動旅程</title>
