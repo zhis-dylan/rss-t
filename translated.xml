@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 22 Aug 2026 21:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:50:40 GMT</lastBuildDate>
+    <item>
+      <title>哈佛的 699 美元新創 bootcamp 提供其講師的 AI 虛擬分身</title>
+      <link>https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155861</guid>
+      <pubDate>Sat, 22 Aug 2026 21:46:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 HBS Foundry 計畫中，AI 虛擬分身會在練習簡報和董事會會議期間提供回饋。</description>
+    </item>
     <item>
       <title>DOJ 對 a16z 的調查會嚇到其他風投嗎？</title>
       <link>https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/</link>
@@ -179,15 +188,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp" alt=""></p><p>在抽獎活動中兌換 Google Play Points，有機會贏得前往紐約動漫展的行程、稀有收藏品、遊戲設備等更多好禮。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>美國政府實驗室正在調查中國 lidar 的安全漏洞</title>
-      <link>https://techcrunch.com/2026/08/21/us-government-lab-is-probing-chinese-lidar-for-security-vulnerabilities/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155072</guid>
-      <pubDate>Fri, 21 Aug 2026 16:01:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項安全審查由愛達荷國家實驗室執行，研究經費來自一家公司——或一組公司——，這些公司來自電動車與自動駕駛車產業。</description>
     </item>
     <item>
       <title>「全端」AI 到底是什麼意思？</title>
