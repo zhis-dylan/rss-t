@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 22 Aug 2026 18:49:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:04:27 GMT</lastBuildDate>
+    <item>
+      <title>由 DeepMind 校友創立的 Inherent 表示，其 AI「隊友」在重現研究方面的表現剛剛超越 Anthropic 和 OpenAI</title>
+      <link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155023</guid>
+      <pubDate>Sat, 22 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由 DeepMind 校友打造的英國 AI 實驗室 Inherent 發布了 Faraday，這是一款能夠重現科學論文的 AI agent，其能力可能成為創新的踏腳石。</description>
+    </item>
     <item>
       <title>OpenAI 表示加州應該強化其 AI 安全法案</title>
       <link>https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/</link>
@@ -203,15 +212,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這起訴訟指控 Oura 智慧戒指無法測量評估睡眠品質或判定睡眠階段所需的任何生理訊號。</description>
-    </item>
-    <item>
-      <title>Walmart 終於開始接受 Apple Pay 和 Google Pay</title>
-      <link>https://techcrunch.com/2026/08/21/walmart-to-finally-start-accepting-apple-pay-and-google-pay/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155422</guid>
-      <pubDate>Fri, 21 Aug 2026 14:30:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>豬會飛了嗎？Walmart 終於在拒絕支援 Apple Pay 和 Google Pay 這件事上讓步了。</description>
     </item>
     <item>
       <title>Google Pay 的輕觸付款即將在 Walmart 上線。</title>
