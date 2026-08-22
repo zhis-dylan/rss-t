@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 22 Aug 2026 20:19:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:35:07 GMT</lastBuildDate>
+    <item>
+      <title>DOJ 對 a16z 的調查會嚇到其他風投嗎？</title>
+      <link>https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155855</guid>
+      <pubDate>Sat, 22 Aug 2026 20:24:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在最新一集的 Equity 中，我們好奇為什麼 DOJ 正在調查新創公司的董事會席位。</description>
+    </item>
     <item>
       <title>由 DeepMind 校友創立的 Inherent 表示，其 AI「隊友」在重現研究方面的表現剛剛超越 Anthropic 和 OpenAI</title>
       <link>https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/</link>
@@ -203,15 +212,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp" alt=""></p><p>在聾人社群的合作下開發，手語轉文字可即時將 ASL 轉換成文字。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Oura 面臨訴訟，遭指控誤導消費者有關睡眠追蹤準確性</title>
-      <link>https://techcrunch.com/2026/08/21/oura-faces-lawsuit-accusing-it-of-misleading-consumers-about-sleep-tracking-accuracy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155420</guid>
-      <pubDate>Fri, 21 Aug 2026 14:39:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這起訴訟指控 Oura 智慧戒指無法測量評估睡眠品質或判定睡眠階段所需的任何生理訊號。</description>
     </item>
     <item>
       <title>Google Pay 的輕觸付款即將在 Walmart 上線。</title>
