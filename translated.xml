@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 22 Aug 2026 16:18:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:33:24 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 表示加州應該強化其 AI 安全法案</title>
+      <link>https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155841</guid>
+      <pubDate>Sat, 22 Aug 2026 16:30:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 呼籲加州強化 SB 53，這是一項該公司先前曾反對的 AI 安全法案。</description>
+    </item>
     <item>
       <title>前沿 AI 實驗室仍不願透露他們將如何控制失控模型</title>
       <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
@@ -215,15 +224,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPay_Walmart_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPay_Walmart_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPay_Walmart_social.max-600x600.format-webp.webp" alt=""></p><p>將你偏好的卡片加入 Google 錢包，即可在 Walmart 門市輕觸付款。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Starcloud 籌得 2.5 億美元，用於軌道資料中心，因發射選項愈來愈少</title>
-      <link>https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155064</guid>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>太空存取權之爭即將白熱化。</description>
     </item>
     <item>
       <title>踏上美國國家公園的互動旅程</title>
