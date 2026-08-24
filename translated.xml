@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:10:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 14:26:04 GMT</lastBuildDate>
+    <item>
+      <title>GM 電動車的煞車問題引發更嚴格的聯邦審查</title>
+      <link>https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155898</guid>
+      <pubDate>Mon, 24 Aug 2026 14:18:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在一起事故中，一名 2024 年款 Blazer EV 的駕駛表示，他們不得不「故意將車輛轉向混凝土路緣」來減速，避免「災難性的路口碰撞」。</description>
+    </item>
     <item>
       <title>Hugging Face 傳出正洽談以 130 億美元被收購</title>
       <link>https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anthropic 禁止其 Claude 模型生成露骨的性內容。不過，TechCrunch 進行的一系列測試發現，要突破這項限制並不需要費多少功夫。</description>
-    </item>
-    <item>
-      <title>Nvidia 與資料中心開發商 Cloverleaf 合作</title>
-      <link>https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155585</guid>
-      <pubDate>Fri, 21 Aug 2026 22:37:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Nvidia 持續投入資金到資料中心開發——而 AI 資料中心也正為 Nvidia 帶來大量資金。</description>
     </item>
     <item>
       <title>參加 Google Play 抽獎，有機會贏得傳奇體驗和收藏品，還能使用你的 Play Points。</title>
