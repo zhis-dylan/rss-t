@@ -5,7 +5,76 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 24 Aug 2026 14:56:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:11:45 GMT</lastBuildDate>
+    <item>
+      <title>XPU 如何成為世界級 AI 工廠</title>
+      <link>https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:54 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>要大規模產生智慧，AI 工廠必須持續運作，而其經濟效益取決於實際輸出：每秒 token 數、每瓦 token 數、每個 token 成本、使用率與運作時間。這需要將 AI 基礎設施設計並建置成完整工廠，而不是一組單獨的加速器。超大規模雲端業者與打造自訂 XPU 的 AI 原生公司必須考慮 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444" alt=""></p><p>要大規模產生智慧，AI 工廠必須持續運作，而其經濟效益取決於實際輸出：每秒 token 數、每瓦 token 數、每個 token 成本、使用率與運作時間。這需要將 AI 基礎設施設計並建置成完整工廠，而不是一組單獨的加速器。超大規模雲端業者與打造自訂 XPU 的 AI 原生公司必須考慮 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>隨著 Groq 3 LPX 全面量產，NVIDIA 將 Vera Rubin 推論延伸至代理系統</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:41 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI 推論的下一個時代，不會由單一突破性的晶片、網路或系統所定義，而會由 AI 工廠的每一層如何協同運作所定義。這就是為什麼 NVIDIA 正在以適用於代理式系統的快速 token 生成，延伸 Vera Rubin NVL72。NVIDIA Vera Rubin 機架級系統 NVIDIA Groq 今日宣布 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3" alt=""></p><p>AI 推論的下一個時代，不會由單一突破性的晶片、網路或系統所定義，而會由 AI 工廠的每一層如何協同運作所定義。這就是為什麼 NVIDIA 正在以適用於代理式系統的快速 token 生成，延伸 Vera Rubin NVL72。NVIDIA Vera Rubin 機架級系統 NVIDIA Groq 今日宣布 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>每瓦最多提升 30 倍工作量：NVIDIA Vera Rubin NVL72 為 AI 代理樹立新的效率標準</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:19 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>根據 OpenRouter 的資料，代理式 AI 工作負載消耗的 token 數量是單純聊天請求的 15 倍。為什麼？想想 AI 代理為了投資決策研究一家公司的情況。代理會查詢財務資料庫、搜尋新聞與申報文件，呼叫子代理執行同業比較與估值模型，然後把一切綜合成一個 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4" alt=""></p><p>根據 OpenRouter 的資料，代理式 AI 工作負載消耗的 token 數量是單純聊天請求的 15 倍。為什麼？想想 AI 代理為了投資決策研究一家公司的情況。代理會查詢財務資料庫、搜尋新聞與申報文件，呼叫子代理執行同業比較與估值模型，然後把一切綜合成一個 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>SpaceXAI 採用 NVIDIA Vera CPU，以在大規模下加速代理式 AI</title>
+      <link>https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布，SpaceXAI 將部署 NVIDIA Vera CPU，加速其下一代代理式 AI 應用，將首款專為 AI 代理打造的 CPU 帶入全球最具雄心的 AI 部署之一。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/65b0fd8afd27d9721e6235c3cd203198/6a8bbea73d63320f3189b09c_nvidia-vera-cpu/nvidia-vera-cpu_thmb.jpg?v=263e9dd8-503b-4fbb-a459-8a61473aa44a" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/65b0fd8afd27d9721e6235c3cd203198/6a8bbea73d63320f3189b09c_nvidia-vera-cpu/nvidia-vera-cpu_thmb.jpg?v=263e9dd8-503b-4fbb-a459-8a61473aa44a"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/65b0fd8afd27d9721e6235c3cd203198/6a8bbea73d63320f3189b09c_nvidia-vera-cpu/nvidia-vera-cpu_thmb.jpg?v=263e9dd8-503b-4fbb-a459-8a61473aa44a" alt=""></p><p>NVIDIA 今日宣布，SpaceXAI 將部署 NVIDIA Vera CPU，加速其下一代代理式 AI 應用，將首款專為 AI 代理打造的 CPU 帶入全球最具雄心的 AI 部署之一。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA Groq 3 LPX 現已全面量產，為代理式 AI 提供世界級速度</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布，互動式 AI 推論加速器 NVIDIA Groq 3 LPX 現已全面量產。作為 NVIDIA Vera Rubin 平台的延伸，Groq 3 LPX 透過讓高度即時反應的代理式系統能夠超高速生成 token，大幅提升 AI 推論效能。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_thmb.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_thmb.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_thmb.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9" alt=""></p><p>NVIDIA 今日宣布，互動式 AI 推論加速器 NVIDIA Groq 3 LPX 現已全面量產。作為 NVIDIA Vera Rubin 平台的延伸，Groq 3 LPX 透過讓高度即時反應的代理式系統能夠超高速生成 token，大幅提升 AI 推論效能。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI 正在打造能做所有事情的 AI agent。每個人都會用嗎？</title>
+      <link>https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155884</guid>
+      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>深入了解這家前沿實驗室如何推動把 AI agent 從軟體工程師帶到普羅大眾。</description>
+    </item>
     <item>
       <title>GM 電動車的煞車問題引發更嚴格的聯邦審查</title>
       <link>https://techcrunch.com/2026/08/24/brake-problems-in-gm-evs-draw-greater-federal-scrutiny/</link>
@@ -176,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>日本太空新創 Letara 正押注其混合式火箭技術，能從小型衛星推進器拓展到更廣泛的太空、國防與安全市場；該公司剛募得 26 億日圓（1,600 萬美元）。</description>
-    </item>
-    <item>
-      <title>Anthropic 的 Opus 4.6 是個色情機器</title>
-      <link>https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155131</guid>
-      <pubDate>Fri, 21 Aug 2026 23:07:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 禁止其 Claude 模型生成露骨的性內容。不過，TechCrunch 進行的一系列測試發現，要突破這項限制並不需要費多少功夫。</description>
     </item>
     <item>
       <title>參加 Google Play 抽獎，有機會贏得傳奇體驗和收藏品，還能使用你的 Play Points。</title>
@@ -1057,30 +1117,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00" alt=""></p><p>NVIDIA 正參與美國國家科學基金會（NSF）的州與區域人工智慧基礎設施中心計畫，這項計畫今天啟動，旨在擴大取得 AI 賦能研究與教育所需的先進運算、資料、軟體與專業知識的管道。</p>]]></content:encoded>
     </item>
     <item>
-      <title>NVIDIA Alpamayo 2 Super，適用於 Robotaxi 與自駕車的前沿開放模型，現已可供商業使用</title>
-      <link>https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/alpamayo-2-super-open-model-now-available/</guid>
-      <pubDate>Tue, 04 Aug 2026 15:00:49 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>對於 robotaxi 和其他自駕車（AV），最棘手的問題不是日常情境，而是那些罕見、複雜、難以預測與訓練的情況。處理這些長尾事件，不只是物件偵測和運動預測就夠了。AV 必須理解情境、推理因果關係、選擇正確行動，並 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/d0e7d6bd0dee6aa94e5bc03d7c727c9f/6a71ff193d633239bd4c69d2_alpamayo-launch-kv-blog-1920x1080-1-842x450/alpamayo-launch-kv-blog-1920x1080-1-842x450_thmb.jpg?v=5fa640ee-1853-40f2-80fd-b7df1011cf89" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/d0e7d6bd0dee6aa94e5bc03d7c727c9f/6a71ff193d633239bd4c69d2_alpamayo-launch-kv-blog-1920x1080-1-842x450/alpamayo-launch-kv-blog-1920x1080-1-842x450_thmb.jpg?v=5fa640ee-1853-40f2-80fd-b7df1011cf89"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/d0e7d6bd0dee6aa94e5bc03d7c727c9f/6a71ff193d633239bd4c69d2_alpamayo-launch-kv-blog-1920x1080-1-842x450/alpamayo-launch-kv-blog-1920x1080-1-842x450_thmb.jpg?v=5fa640ee-1853-40f2-80fd-b7df1011cf89" alt=""></p><p>對於 robotaxi 和其他自駕車（AV），最棘手的問題不是日常情境，而是那些罕見、複雜、難以預測與訓練的情況。處理這些長尾事件，不只是物件偵測和運動預測就夠了。AV 必須理解情境、推理因果關係、選擇正確行動，並 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>隨著 AI 提高對記憶體的需求，儲存也跟著升級</title>
-      <link>https://blogs.nvidia.com/blog/ai-storage-fms/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-storage-fms/</guid>
-      <pubDate>Tue, 04 Aug 2026 15:00:47 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>不斷攀升的 AI 需求，正推動對龐大資料集與上下文視窗的需求，並超出系統記憶體的限制。但需求增加，不能只靠單純擴充儲存容量來滿足。真正需要的是來自 AI factory 的實用、扎實洞見，以及能支援這些洞見的高效、安全儲存架構。在本週的 Future of […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/0972d0df04ffadd4d5a27289905fa318/6a71ff253d633239bd4c69d9_ai-storage-fms-1920x1080-1-842x450/ai-storage-fms-1920x1080-1-842x450_thmb.jpg?v=d4555b57-46dd-4b43-a3ba-04dbb8f66a7d" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/0972d0df04ffadd4d5a27289905fa318/6a71ff253d633239bd4c69d9_ai-storage-fms-1920x1080-1-842x450/ai-storage-fms-1920x1080-1-842x450_thmb.jpg?v=d4555b57-46dd-4b43-a3ba-04dbb8f66a7d"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/0972d0df04ffadd4d5a27289905fa318/6a71ff253d633239bd4c69d9_ai-storage-fms-1920x1080-1-842x450/ai-storage-fms-1920x1080-1-842x450_thmb.jpg?v=d4555b57-46dd-4b43-a3ba-04dbb8f66a7d" alt=""></p><p>不斷攀升的 AI 需求，正推動對龐大資料集與上下文視窗的需求，並超出系統記憶體的限制。但需求增加，不能只靠單純擴充儲存容量來滿足。真正需要的是來自 AI factory 的實用、扎實洞見，以及能支援這些洞見的高效、安全儲存架構。在本週的 Future of […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們正在升級你的 WhatsApp 群組聊天</title>
       <link>https://about.fb.com/news/2026/08/were-upgrading-your-whatsapp-group-chats/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=49815</guid>
@@ -1092,18 +1128,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <media:content url="https://about.fb.com/wp-content/uploads/2026/08/WhatsApp-Group-Chat-Bundle-Blog_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/WhatsApp-Group-Chat-Bundle-Blog_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/WhatsApp-Group-Chat-Bundle-Blog_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在為 WhatsApp 群組聊天推出新更新，讓你更輕鬆地和你關心的群組保持聯繫。<br>We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 領導者提出 SAFE 指南以提升資安透明度</title>
-      <link>https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-secure-ai-alliance-contributions/</guid>
-      <pubDate>Tue, 04 Aug 2026 13:00:47 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Open Secure AI Alliance 的成員——如今已超過 120 個組織——正著手制定新的指南，以加強代理式 AI 的資安防護；年度 Black Hat 大會今天於拉斯維加斯揭幕。Linux Foundation 今天針對 Shared AI Findings Exchange（SAFE）分享了一份徵求意見稿，這是一套擬議中的指南 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/df5d0c57ee12f7535536f4ab57941e91/6a71e2ab3d6332adf2000fb9_agentic-ai-press-osaia-5518050-1280x680-r2-842x450/agentic-ai-press-osaia-5518050-1280x680-r2-842x450_thmb.jpg?v=435c1c6f-8b3e-4167-801d-d5a51184509d" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/df5d0c57ee12f7535536f4ab57941e91/6a71e2ab3d6332adf2000fb9_agentic-ai-press-osaia-5518050-1280x680-r2-842x450/agentic-ai-press-osaia-5518050-1280x680-r2-842x450_thmb.jpg?v=435c1c6f-8b3e-4167-801d-d5a51184509d"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/df5d0c57ee12f7535536f4ab57941e91/6a71e2ab3d6332adf2000fb9_agentic-ai-press-osaia-5518050-1280x680-r2-842x450/agentic-ai-press-osaia-5518050-1280x680-r2-842x450_thmb.jpg?v=435c1c6f-8b3e-4167-801d-d5a51184509d" alt=""></p><p>Open Secure AI Alliance 的成員——如今已超過 120 個組織——正著手制定新的指南，以加強代理式 AI 的資安防護；年度 Black Hat 大會今天於拉斯維加斯揭幕。Linux Foundation 今天針對 Shared AI Findings Exchange（SAFE）分享了一份徵求意見稿，這是一套擬議中的指南 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>使用 ChatGPT Work 和 Codex 學習與教學的新方式</title>
@@ -1205,18 +1229,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <description>Apple 今日公布截至 2026 年 6 月 27 日止的 2026 會計年度第三季財務結果。</description>
     </item>
     <item>
-      <title>同級最佳：用同一台筆電串流 PC 遊戲與讀書，搭配 GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-back-to-school-2026/</guid>
-      <pubDate>Thu, 30 Jul 2026 13:00:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>返校季代表著要同時兼顧作業、截止期限和休息時間。GeForce NOW 讓一切都更輕鬆。透過雲端遊戲，平常上課用的筆電也能變成搭載 GeForce RTX 的遊戲平台。當該從讀書切換到打遊戲時，會員可以直接進入 Halo: Campaign Evolved，因為 GeForce NOW 正帶來一項 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202607/61266e39b7f0c1e247fc0600d6ac293e/6a6b4b293d63323b7d337100_gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450/gfn-thursday-7-30-bts-nv-blog-1280x680-logo-842x450_thmb.jpg?v=8813def2-c00e-4436-8e1b-148b309e8472" alt=""></p><p>返校季代表著要同時兼顧作業、截止期限和休息時間。GeForce NOW 讓一切都更輕鬆。透過雲端遊戲，平常上課用的筆電也能變成搭載 GeForce RTX 的遊戲平台。當該從讀書切換到打遊戲時，會員可以直接進入 Halo: Campaign Evolved，因為 GeForce NOW 正帶來一項 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>以 GPT-5.6 推進價格效能極限</title>
       <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
       <guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
@@ -1233,18 +1245,6 @@ We’re Upgrading Your WhatsApp Group Chats 一文最早出現在 Meta Newsroom�
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>avatarin 使用 OpenAI 的 GPT-Realtime，為山田電機的顧客提供 24/7 多語言支援。在兩週內，有 30,000 人使用了這個代理，且 92% 的問卷回覆為正面。</description>
-    </item>
-    <item>
-      <title>NVIDIA 將召開第二季財報電話會議</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-second-quarter-financial-results-6927195</guid>
-      <pubDate>Wed, 29 Jul 2026 21:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 將於 8 月 26 日星期三下午 2 點（太平洋時間，東部時間下午 5 點）舉行電話會議，討論截至 2026 年 7 月 26 日的 2027 會計年度第二季財報結果。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" alt=""></p><p>NVIDIA 將於 8 月 26 日星期三下午 2 點（太平洋時間，東部時間下午 5 點）舉行電話會議，討論截至 2026 年 7 月 26 日的 2027 會計年度第二季財報結果。</p>]]></content:encoded>
     </item>
     <item>
       <title>啟用兩個設定如何讓我們在 ARC-AGI-3 基準測試的分數翻了三倍</title>
