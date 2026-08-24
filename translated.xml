@@ -5,7 +5,43 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:44:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:59:15 GMT</lastBuildDate>
+    <item>
+      <title>阿拉巴馬州啟動對 OpenAI 入侵 Hugging Face 的調查</title>
+      <link>https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156112</guid>
+      <pubDate>Mon, 24 Aug 2026 19:58:17 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 OpenAI 揭露其一款資安模型失控並駭入 AI 資料集公司 Hugging Face 的數週後，阿拉巴馬州檢察總長宣布對此事件展開調查。</description>
+    </item>
+    <item>
+      <title>Amazon 將硬體價格調漲 60%，歸咎於記憶體短缺</title>
+      <link>https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156059</guid>
+      <pubDate>Mon, 24 Aug 2026 19:54:50 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著記憶體短缺持續為硬體製造商帶來麻煩，Amazon 表示現在被迫把成本轉嫁給消費者。</description>
+    </item>
+    <item>
+      <title>Replit 執行長兼共同創辦人 Amjad Masad 將登上 TechCrunch Disrupt 2026 的 Disrupt 舞台</title>
+      <link>https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156061</guid>
+      <pubDate>Mon, 24 Aug 2026 19:54:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 TechCrunch Disrupt 2026 上，Replit 執行長 Amjad Masad 將分享他對程式設計未來以及 Replit 在其中所扮演角色的看法。</description>
+    </item>
+    <item>
+      <title>立即申請在 TechCrunch Disrupt 2026 主辦 Side Event</title>
+      <link>https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3137144</guid>
+      <pubDate>Mon, 24 Aug 2026 19:44:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>請在 9 月 4 日前申請，透過主辦你自己的 Side Event 成為 Disrupt 社群的一員。</description>
+    </item>
     <item>
       <title>Instinct 強大的 AI 助理引發隱私與資安疑慮</title>
       <link>https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/</link>
@@ -242,42 +278,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>由 DeepMind 校友打造的英國 AI 實驗室 Inherent 發布了 Faraday，這是一款能夠重現科學論文的 AI agent，其能力可能成為創新的踏腳石。</description>
-    </item>
-    <item>
-      <title>OpenAI 表示加州應該強化其 AI 安全法案</title>
-      <link>https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155841</guid>
-      <pubDate>Sat, 22 Aug 2026 16:30:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 呼籲加州強化 SB 53，這是一項該公司先前曾反對的 AI 安全法案。</description>
-    </item>
-    <item>
-      <title>前沿 AI 實驗室仍不願透露他們將如何控制失控模型</title>
-      <link>https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155518</guid>
-      <pubDate>Sat, 22 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一項新研究發現，領先的 AI 實驗室幾乎沒有公開記錄的方案來控制失控模型，這也引發外界對於準備是否充足的疑問，因為 AI 系統正越來越常展現出意料之外且可能危險的行為。</description>
-    </item>
-    <item>
-      <title>美國電池新創在國防領域找到了一線生機</title>
-      <link>https://techcrunch.com/2026/08/22/us-battery-startups-have-found-a-lifeline-in-defense/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155626</guid>
-      <pubDate>Sat, 22 Aug 2026 15:20:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>美國電池新創從能源部獲得了 5 億美元的補助，為在電動車補助被大砍後一度岌岌可危的產業注入了一線生機。</description>
-    </item>
-    <item>
-      <title>Pixel 11 Pro XL 評測：更俐落的相機也掩蓋不了漸進式升級</title>
-      <link>https://techcrunch.com/2026/08/22/pixel-11-pro-xl-review-snappier-cameras-cant-hide-an-iterative-upgrade/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3153752</guid>
-      <pubDate>Sat, 22 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 的 Pixel 11 Pro XL 帶來更俐落的相機和像 Rambler 這類真正實用的 AI 功能，但它漸進式的升級可能還不足以吸引最近才入手 Pixel 的用戶。</description>
     </item>
     <item>
       <title>參加 Google Play 抽獎，有機會贏得傳奇體驗和收藏品，還能使用你的 Play Points。</title>
