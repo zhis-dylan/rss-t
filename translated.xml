@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 24 Aug 2026 18:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:13:52 GMT</lastBuildDate>
     <item>
       <title>Instinct 強大的 AI 助理引發隱私與資安疑慮</title>
       <link>https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/</link>
@@ -26,6 +26,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" alt=""></p><p>國家公園週前夕大家都在搜尋什麼，以及 Google 如何幫你把想旅行的心情變成規劃完善的冒險。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</guid>
+      <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看 Gemma 4 Good Challenge 的得獎作品。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemma 4 Good Challenge 的得獎作品。</p>]]></content:encoded>
     </item>
     <item>
       <title>Valor、Point72 以 60 億美元估值押注 General Intuition，AI 新創持續進軍機器人領域</title>
@@ -131,6 +143,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Berry Street 創辦人 Noah Kotlove 和 Healthify 創辦人 Tushar Vashisht 將擔任新公司共同執行長。</description>
+    </item>
+    <item>
+      <title>在 Kiro 中使用 GPT‑5.6 提升開發者的價格效能</title>
+      <link>https://openai.com/index/gpt-5-6-in-kiro</link>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6-in-kiro</guid>
+      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT‑5.6 現已可在 Kiro 中使用，協助開發者以更好的價格效能來規劃、建置、審查和測試軟體。</description>
     </item>
     <item>
       <title>誰是新「隱身模型」Ox Alpha 的幕後推手？</title>
@@ -518,18 +539,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_HeaderImage_mDyRlj4.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini 和 BTS 正在 Gemini 應用程式中合作推出一系列互動功能。</p>]]></content:encoded>
     </item>
     <item>
-      <title>問科學家：研究人員如何運用 AI 預測洪水？</title>
-      <link>https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/</guid>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Gemini 的模擬測驗讓你的 SAT 準備持續進行。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/</guid>
@@ -540,6 +549,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp" alt=""></p><p>Google 的 Gemini App 免費提供完整長度的 SAT 模擬測驗。以下是你在準備時如何進行這些 SAT 練習測驗。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>問科學家：研究人員如何運用 AI 預測洪水？</title>
+      <link>https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/flood-prediction-ai/</guid>
+      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 宣布歐盟地區 App 的變更</title>
@@ -642,18 +663,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193" alt=""></p><p>NVIDIA 宣布，已透過與 SB Energy 在俄亥俄州派克郡的 PORTS-Pike Technology Campus 合作，取得土地、電力和機殼（LPS）容量，以承載 NVIDIA 運算...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 Gemini 和 Pixel 更貼近賽事</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/</guid>
-      <pubDate>Mon, 17 Aug 2026 08:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Gemini 和 Pixel 與五家全球足球俱樂部合作，透過 AI 和智慧型手機技術提升球迷的比賽日體驗。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini 和 Pixel 與五家全球足球俱樂部合作，透過 AI 和智慧型手機技術提升球迷的比賽日體驗。</p>]]></content:encoded>
     </item>
     <item>
       <title>防守者的窗口</title>
@@ -1909,15 +1918,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今日宣布針對巴西 iOS App 的變更，這些變更反映了近期與巴西競爭監管機構 CADE 達成的協議。</description>
-    </item>
-    <item>
-      <title>在 ChatGPT 中提升健康智能</title>
-      <link>https://openai.com/index/improving-health-intelligence-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/improving-health-intelligence-in-chatgpt</guid>
-      <pubDate>Thu, 18 Jun 2026 11:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 GPT-5.5 Instant 如何透過更強的推理能力、更好的上下文、更清楚的溝通，以及醫師參與的評估，改善 ChatGPT 的健康與保健回應。</description>
     </item>
     <item>
       <title>以 AI 取得成功</title>
