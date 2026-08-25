@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 17:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 17:55:19 GMT</lastBuildDate>
+    <item>
+      <title>Claude Cowork 終於會記住你在聊天中告訴過它的內容</title>
+      <link>https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156630</guid>
+      <pubDate>Tue, 25 Aug 2026 17:50:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 正在讓 Claude 在 chat 和 Cowork 之間共用記憶，讓使用者不必再反覆向 AI 交代專案、偏好和其他背景資訊。</description>
+    </item>
     <item>
       <title>Waymo 無人計程車將進軍慕尼黑</title>
       <link>https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/</link>
@@ -330,13 +339,13 @@
       <description>OpenAI 封鎖了源自俄羅斯的帳號，這些帳號使用 AI 推廣一個虛假的以色列智庫，以及一份讚揚俄羅斯、批評西方的「主權」指數。</description>
     </item>
     <item>
-      <title>Oura 據稱正考慮於 9 月進行 IPO，估值可能超過 160 億美元</title>
-      <link>https://techcrunch.com/2026/08/24/oura-is-reportedly-eyeing-a-september-ipo-that-could-value-it-at-more-than-16b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156218</guid>
-      <pubDate>Mon, 24 Aug 2026 23:05:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>大家都知道這件事遲早會來。不過，預期估值可能會讓人驚訝。</description>
+      <title>介紹 ChatGPT Work 與 Codex 的 Admin 外掛</title>
+      <link>https://openai.com/index/introducing-admin-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-admin-plugin</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 ChatGPT Work 與 Codex 的 Admin 外掛來分析工作區使用情況、管理成員和權限、調整限制，並處理管理員請求。</description>
     </item>
     <item>
       <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
@@ -1927,15 +1936,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出 Patch the Planet，這是 Daybreak 的一項倡議，協助開源維護者透過 AI 與專家審查找出、驗證並修補漏洞。</description>
-    </item>
-    <item>
-      <title>Daybreak：為全球每個組織提供安全防護的工具</title>
-      <link>https://openai.com/index/daybreak-securing-the-world</link>
-      <guid isPermaLink="false">https://openai.com/index/daybreak-securing-the-world</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出新的 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，協助組織大規模找出、驗證並修補漏洞。</description>
     </item>
     <item>
       <title>Apple 宣布在巴西對 iOS 的變更</title>
