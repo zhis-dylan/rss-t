@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 08:50:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:05:15 GMT</lastBuildDate>
     <item>
       <title>推出 Edits 影展，聚焦印度新興創作者人才</title>
       <link>https://about.fb.com/news/2026/08/introducing-the-edits-film-festival-to-spotlight-indias-emerging-creator-talent/</link>
@@ -36,6 +36,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家 AI 對沖基金從「華爾街熱議焦點」到「聯邦傳票調查對象」的速度，比你說出「分散你的投資組合」還快。</description>
+    </item>
+    <item>
+      <title>瓦解來自俄羅斯的新秘密影響力行動</title>
+      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</link>
+      <guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 封鎖了源自俄羅斯的帳號，這些帳號使用 AI 推廣一個虛假的以色列智庫，以及一份讚揚俄羅斯、批評西方的「主權」指數。</description>
     </item>
     <item>
       <title>Oura 據稱正考慮於 9 月進行 IPO，估值可能超過 160 億美元</title>
@@ -1900,15 +1909,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>三星電子將 ChatGPT Enterprise 和 Codex 部署給全球員工，標誌著 OpenAI 其中一項最大的企業 AI 導入。</description>
-    </item>
-    <item>
-      <title>企業版的新用量分析與更新後的支出控管</title>
-      <link>https://openai.com/index/chatgpt-enterprise-spend-controls</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-enterprise-spend-controls</guid>
-      <pubDate>Thu, 18 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 為 ChatGPT Enterprise 推出新的支出控管與用量分析，協助組織管理成本，並更有信心地擴展 AI。</description>
     </item>
     <item>
       <title>Apple 宣布在巴西對 iOS 的變更</title>
