@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:38:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:54:09 GMT</lastBuildDate>
+    <item>
+      <title>以下是在 macOS 版 Gemini 中使用智慧聽寫的方法。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/</guid>
+      <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在 macOS 版 Gemini app 中啟用 Google 全新的智慧聽寫功能，並可自然地對著桌面上的任何視窗說話。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp" alt=""></p><p>在 macOS 版 Gemini app 中啟用 Google 全新的智慧聽寫功能，並可自然地對著桌面上的任何視窗說話。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>那個假的《俠盜獵車手 VI》展示其實只是惡意軟體</title>
+      <link>https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156525</guid>
+      <pubDate>Tue, 25 Aug 2026 15:48:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>《俠盜獵車手》粉絲急於得知這款史上最受期待的電玩遊戲之一的消息，似乎對這起新的網路攻擊格外容易受害。</description>
+    </item>
     <item>
       <title>領先的發行商將重量級 PC 遊戲與技術帶到 NVIDIA RTX Spark</title>
       <link>https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</link>
@@ -209,6 +230,15 @@
       <description>TechCrunch 與 OpenAI 產品主管聊聊 agents、UX，以及向 Greg Brockman 回報工作。</description>
     </item>
     <item>
+      <title>支撐豐沛智慧的完整技術堆疊</title>
+      <link>https://openai.com/index/the-full-stack-behind-abundant-intelligence</link>
+      <guid isPermaLink="false">https://openai.com/index/the-full-stack-behind-abundant-intelligence</guid>
+      <pubDate>Tue, 25 Aug 2026 07:05:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 財務長 Sarah Friar 解釋晶片、算力、模型與產品各方面的進展，如何相互疊加，帶來更有用的智慧，在更大規模下以更低成本實現。</description>
+    </item>
+    <item>
       <title>Jalapeño 的首次成果展現 AI 推論領先業界的速度與效率</title>
       <link>https://openai.com/index/jalapeno-first-results</link>
       <guid isPermaLink="false">https://openai.com/index/jalapeno-first-results</guid>
@@ -283,15 +313,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Zillow 和 Redfin 與 FTC 達成和解，該和解要求 Redfin 重新進入租賃廣告業務。</description>
-    </item>
-    <item>
-      <title>在 TechCrunch Disrupt 2026 展示你的新創公司，趁還有空位時預訂展位桌</title>
-      <link>https://techcrunch.com/2026/08/24/showcase-your-startup-at-techcrunch-disrupt-2026-and-book-an-exhibit-table-while-theres-still-space/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3150489</guid>
-      <pubDate>Mon, 24 Aug 2026 20:16:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>把握 Disrupt 的大量潛在投資人與合作夥伴，於 10 月 13 日至 15 日展出你的新創公司。</description>
     </item>
     <item>
       <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
@@ -534,18 +555,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" alt=""></p><p>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用我們送你的一年 Gemini，開啟新學期</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" alt=""></p><p>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>返校季 2026</title>
       <link>https://blog.google/products-and-platforms/products/education/back-to-school-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/back-to-school-2026/</guid>
@@ -556,6 +565,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 工具在這個返校季如何幫助學生和教育工作者。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用我們送你的一年 Gemini，開啟新學期</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" alt=""></p><p>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</p>]]></content:encoded>
     </item>
     <item>
       <title>Waymo 正將 Gemini 導入其客製化 Ojai 車輛。</title>
@@ -656,18 +677,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flood_Thumbnail_001.max-600x600.format-webp.webp" alt=""></p><p>一位 Google 研究人員說明 Flood Hub 和 Groundsource 等 AI 技術如何預測洪水，並幫助世界各地的人們。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用 Gemini 的模擬測驗讓你的 SAT 準備持續進行。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/how-to-take-practice-sat/</guid>
-      <pubDate>Tue, 18 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 的 Gemini App 免費提供完整長度的 SAT 模擬測驗。以下是你在準備時如何進行這些 SAT 練習測驗。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SAT_tests_in_Gemini_social.max-600x600.format-webp.webp" alt=""></p><p>Google 的 Gemini App 免費提供完整長度的 SAT 模擬測驗。以下是你在準備時如何進行這些 SAT 練習測驗。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 宣布歐盟地區 App 的變更</title>
@@ -1927,15 +1936,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出新的 Daybreak 工具，包括 Codex Security 和 GPT-5.5-Cyber，協助組織大規模找出、驗證並修補漏洞。</description>
-    </item>
-    <item>
-      <title>Codex-maxxing 用於長時間執行的工作</title>
-      <link>https://openai.com/index/codex-maxxing-long-running-work</link>
-      <guid isPermaLink="false">https://openai.com/index/codex-maxxing-long-running-work</guid>
-      <pubDate>Mon, 22 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Jason Liu 如何使用 Codex 來保留上下文、管理複雜專案，並協助工作在單一提示詞之外持續進行。</description>
     </item>
     <item>
       <title>Apple 宣布在巴西對 iOS 的變更</title>
