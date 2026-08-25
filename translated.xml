@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:53:22 GMT</lastBuildDate>
+    <item>
+      <title>Apple 從隱私廢棄堆中救回「隱藏我的電子郵件」功能</title>
+      <link>https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156491</guid>
+      <pubDate>Tue, 25 Aug 2026 14:46:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 表示，將不再放棄使用其 icloud.com 網域來隱藏使用者的電子郵件地址。</description>
+    </item>
     <item>
       <title>OpenAI 的 Jalapeño 晶片是為了大規模快速推論而打造，基準測試顯示</title>
       <link>https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/</link>
@@ -158,6 +167,15 @@
       <description>TechCrunch 與 OpenAI 產品主管聊聊 agents、UX，以及向 Greg Brockman 回報工作。</description>
     </item>
     <item>
+      <title>Jalapeño 的首次成果展現 AI 推論領先業界的速度與效率</title>
+      <link>https://openai.com/index/jalapeno-first-results</link>
+      <guid isPermaLink="false">https://openai.com/index/jalapeno-first-results</guid>
+      <pubDate>Tue, 25 Aug 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Jalapeño 是 OpenAI 自訂的推論晶片，能提供更快、能耗更高效率的 AI 推論，並為現代模型帶來更高的吞吐量與更低的延遲。</description>
+    </item>
+    <item>
       <title>推出 Edits 影展，聚焦印度新興創作者人才</title>
       <link>https://about.fb.com/news/2026/08/introducing-the-edits-film-festival-to-spotlight-indias-emerging-creator-talent/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=50002</guid>
@@ -250,15 +268,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>隨著記憶體短缺持續為硬體製造商帶來麻煩，Amazon 表示現在被迫把成本轉嫁給消費者。</description>
-    </item>
-    <item>
-      <title>Replit 執行長兼共同創辦人 Amjad Masad 將登上 TechCrunch Disrupt 2026 的 Disrupt 舞台</title>
-      <link>https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156061</guid>
-      <pubDate>Mon, 24 Aug 2026 19:54:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 TechCrunch Disrupt 2026 上，Replit 執行長 Amjad Masad 將分享他對程式設計未來以及 Replit 在其中所扮演角色的看法。</description>
     </item>
     <item>
       <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
@@ -1927,15 +1936,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Jason Liu 如何使用 Codex 來保留上下文、管理複雜專案，並協助工作在單一提示詞之外持續進行。</description>
-    </item>
-    <item>
-      <title>Samsung Electronics 將 ChatGPT 和 Codex 帶給員工</title>
-      <link>https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</link>
-      <guid isPermaLink="false">https://openai.com/index/samsung-electronics-chatgpt-codex-deployment</guid>
-      <pubDate>Sun, 21 Jun 2026 23:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>三星電子將 ChatGPT Enterprise 和 Codex 部署給全球員工，標誌著 OpenAI 其中一項最大的企業 AI 導入。</description>
     </item>
     <item>
       <title>Apple 宣布在巴西對 iOS 的變更</title>
