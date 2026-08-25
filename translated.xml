@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:07:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 14:23:00 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的 Jalapeño 晶片是為了大規模快速推論而打造，基準測試顯示</title>
+      <link>https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156453</guid>
+      <pubDate>Tue, 25 Aug 2026 14:22:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 Semianalysis 的 InferenceX 基準測試中，Jalapeño 在每位使用者的 token 數量和每千瓦吞吐量上，都比目前可用的最先進技術表現更高。</description>
+    </item>
+    <item>
+      <title>Apple 推出 M5 Ultra 和 M6，號稱是「有史以來最強大的晶片」</title>
+      <link>https://techcrunch.com/2026/08/25/apple-debuts-its-most-powerful-chip-ever-in-m5-ultra-and-m6/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156404</guid>
+      <pubDate>Tue, 25 Aug 2026 14:10:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 與更新版 Mac mini 和 Mac Studio 一同發表這些新處理器。</description>
+    </item>
+    <item>
+      <title>自駕卡車新創公司 Gatik 在與 PepsiCo 達成合作後募得 2 億美元</title>
+      <link>https://techcrunch.com/2026/08/25/self-driving-truck-startup-gatik-raises-200m-following-pepsico-deal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156254</guid>
+      <pubDate>Tue, 25 Aug 2026 14:10:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆資金是 Gatik 迄今最大一輪，由 Qatar Investment Authority 和 Koch Disruptive Technologies 領投。</description>
+    </item>
     <item>
       <title>Apple 最新的 Mac Mini 搭載新的 M6 晶片，售價從 899 美元起</title>
       <link>https://techcrunch.com/2026/08/25/apples-latest-mac-mini-runs-on-a-new-m6-chip-and-starts-at-899/</link>
@@ -234,24 +261,6 @@
       <description>在 TechCrunch Disrupt 2026 上，Replit 執行長 Amjad Masad 將分享他對程式設計未來以及 Replit 在其中所扮演角色的看法。</description>
     </item>
     <item>
-      <title>立即申請在 TechCrunch Disrupt 2026 主辦 Side Event</title>
-      <link>https://techcrunch.com/2026/08/24/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137144</guid>
-      <pubDate>Mon, 24 Aug 2026 19:44:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>請在 9 月 4 日前申請，透過主辦你自己的 Side Event 成為 Disrupt 社群的一員。</description>
-    </item>
-    <item>
-      <title>Instinct 強大的 AI 助理引發隱私與資安疑慮</title>
-      <link>https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155931</guid>
-      <pubDate>Mon, 24 Aug 2026 18:03:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>早期測試者對 Instinct 的功能讚不絕口，但有人說，這款 AI 助理廣泛的存取權限、寬泛的條款，以及能代替使用者行事的能力，伴隨著令人不安的取捨</description>
-    </item>
-    <item>
       <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</guid>
@@ -274,15 +283,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" alt=""></p><p>國家公園週前夕大家都在搜尋什麼，以及 Google 如何幫你把想旅行的心情變成規劃完善的冒險。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Valor、Point72 以 60 億美元估值押注 General Intuition，AI 新創持續進軍機器人領域</title>
-      <link>https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155937</guid>
-      <pubDate>Mon, 24 Aug 2026 15:24:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>General Intuition 這家新創正在打造一個基礎模型，訓練通用型 AI 智能代理如何在空間與時間中移動，目前正洽談以 60 億美元 pre-money 估值募資，投資人包括 Valor Ventures、Point72 Ventures、Seven Seven Six。</description>
     </item>
     <item>
       <title>XPU 如何成為世界級 AI 工廠</title>
