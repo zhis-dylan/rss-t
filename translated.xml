@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 15:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:38:54 GMT</lastBuildDate>
+    <item>
+      <title>領先的發行商將重量級 PC 遊戲與技術帶到 NVIDIA RTX Spark</title>
+      <link>https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</guid>
+      <pubDate>Tue, 25 Aug 2026 15:30:48 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 正將下一波 RTX 遊戲帶到本週在德國科隆舉行的 Gamescom 會議，並支援新遊戲、反作弊技術，以及更高的視覺品質。Electronic Arts、Embark 和 Ubisoft 是最新一批在 NVIDIA RTX Spark 上線前，將旗下重量級作品帶到該平台的遊戲發行商與開發商之一。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2" alt=""></p><p>NVIDIA 正將下一波 RTX 遊戲帶到本週在德國科隆舉行的 Gamescom 會議，並支援新遊戲、反作弊技術，以及更高的視覺品質。Electronic Arts、Embark 和 Ubisoft 是最新一批在 NVIDIA RTX Spark 上線前，將旗下重量級作品帶到該平台的遊戲發行商與開發商之一。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Pacific Fusion 的下一台核融合機器可能可跨越商業發電的一大難關</title>
+      <link>https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154741</guid>
+      <pubDate>Tue, 25 Aug 2026 15:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>核融合新創 Pacific Fusion 在新墨西哥州動工興建一座示範設施，該公司表示，這座設施將產生足以自給供電的能量。</description>
+    </item>
     <item>
       <title>NVIDIA 宣布 Jetson Orin Nano 2 機器人電腦，重新定義入門級邊緣 AI</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai</link>
@@ -271,15 +292,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>把握 Disrupt 的大量潛在投資人與合作夥伴，於 10 月 13 日至 15 日展出你的新創公司。</description>
-    </item>
-    <item>
-      <title>阿拉巴馬州啟動對 OpenAI 入侵 Hugging Face 的調查</title>
-      <link>https://techcrunch.com/2026/08/24/alabama-launches-investigation-into-openais-hack-of-hugging-face/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156112</guid>
-      <pubDate>Mon, 24 Aug 2026 19:58:17 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 OpenAI 揭露其一款資安模型失控並駭入 AI 資料集公司 Hugging Face 的數週後，阿拉巴馬州檢察總長宣布對此事件展開調查。</description>
     </item>
     <item>
       <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
@@ -1138,18 +1150,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/d6f9b30fdbeb852e4940643c7ce59212/6a7485993d6332ba4196a955_gfn-thursday-8-6-nv-blog-1280x680-logo-842x450/gfn-thursday-8-6-nv-blog-1280x680-logo-842x450_thmb.jpg?v=af6f12c1-0246-45c5-ae86-fffe7dd8fd7e" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/d6f9b30fdbeb852e4940643c7ce59212/6a7485993d6332ba4196a955_gfn-thursday-8-6-nv-blog-1280x680-logo-842x450/gfn-thursday-8-6-nv-blog-1280x680-logo-842x450_thmb.jpg?v=af6f12c1-0246-45c5-ae86-fffe7dd8fd7e"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/d6f9b30fdbeb852e4940643c7ce59212/6a7485993d6332ba4196a955_gfn-thursday-8-6-nv-blog-1280x680-logo-842x450/gfn-thursday-8-6-nv-blog-1280x680-logo-842x450_thmb.jpg?v=af6f12c1-0246-45c5-ae86-fffe7dd8fd7e" alt=""></p><p>8 月來了，為 GeForce NOW 會員帶來 26 款新遊戲。指揮《World of Warships: Legends》中的海上戰局，並從本週新加入的 8 款遊戲開始，探索 GeForce NOW 遊戲庫的下一步。另外，GeForce NOW 本週也在德州 Grapevine 舉行的 QuakeCon 遊戲大會現場，帶來實機體驗 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>進入 Omniverse：開放世界模型如何推進實體 AI 的前沿</title>
-      <link>https://blogs.nvidia.com/blog/open-world-models-physical-ai/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-world-models-physical-ai/</guid>
-      <pubDate>Thu, 06 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>7 月，NVIDIA 與 200 多家企業和組織共同簽署〈Open Weights and American AI Leadership〉，這是一封公開信，主張 AI 領導地位的衡量標準不會是任何單一前沿模型，而是開放生態系能否觸及每個產業。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/8643e8c980bfcf1c3c0437618d1a65d0/6a74859e3d6332ba4196a95c_nv-ov-ito-social-1920x1080-1-842x450/nv-ov-ito-social-1920x1080-1-842x450_thmb.jpg?v=45641c00-9197-4e5e-8c94-14898ced7196" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/8643e8c980bfcf1c3c0437618d1a65d0/6a74859e3d6332ba4196a95c_nv-ov-ito-social-1920x1080-1-842x450/nv-ov-ito-social-1920x1080-1-842x450_thmb.jpg?v=45641c00-9197-4e5e-8c94-14898ced7196"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/8643e8c980bfcf1c3c0437618d1a65d0/6a74859e3d6332ba4196a95c_nv-ov-ito-social-1920x1080-1-842x450/nv-ov-ito-social-1920x1080-1-842x450_thmb.jpg?v=45641c00-9197-4e5e-8c94-14898ced7196" alt=""></p><p>7 月，NVIDIA 與 200 多家企業和組織共同簽署〈Open Weights and American AI Leadership〉，這是一封公開信，主張 AI 領導地位的衡量標準不會是任何單一前沿模型，而是開放生態系能否觸及每個產業。</p>]]></content:encoded>
     </item>
     <item>
       <title>在 ChatGPT 中提升 GPT-5.6 Sol——並擴大免費用戶的使用權限</title>
