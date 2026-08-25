@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:26:51 GMT</lastBuildDate>
+    <item>
+      <title>Pixel 11 手機和 Pixel Watch 5 現在已可正式購買。</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/</guid>
+      <pubDate>Tue, 25 Aug 2026 20:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們全新的 Pixel 11 手機和 Pixel Watch 5 現在已在 Google 商店以及我們的零售合作夥伴通路上架。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp" alt=""></p><p>我們全新的 Pixel 11 手機和 Pixel Watch 5 現在已在 Google 商店以及我們的零售合作夥伴通路上架。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Instagram 的「First Draft」功能旨在讓編輯 Reels 不再那麼麻煩</title>
       <link>https://techcrunch.com/2026/08/25/instagrams-first-draft-feature-aims-to-make-editing-reels-less-tedious/</link>
@@ -348,18 +360,6 @@
       <description>使用 ChatGPT Work 與 Codex 的 Admin 外掛來分析工作區使用情況、管理成員和權限、調整限制，並處理管理員請求。</description>
     </item>
     <item>
-      <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</guid>
-      <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看 Gemma 4 Good Challenge 的得獎作品。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemma 4 Good Challenge 的得獎作品。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Maps、Search 和 Gemini 一起慶祝國家公園 110 週年</title>
       <link>https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/</guid>
@@ -370,6 +370,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" alt=""></p><p>國家公園週前夕大家都在搜尋什麼，以及 Google 如何幫你把想旅行的心情變成規劃完善的冒險。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</guid>
+      <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看 Gemma 4 Good Challenge 的得獎作品。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemma 4 Good Challenge 的得獎作品。</p>]]></content:encoded>
     </item>
     <item>
       <title>XPU 如何成為世界級 AI 工廠</title>
@@ -588,18 +600,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" alt=""></p><p>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</p>]]></content:encoded>
     </item>
     <item>
-      <title>返校季 2026</title>
-      <link>https://blog.google/products-and-platforms/products/education/back-to-school-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/back-to-school-2026/</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 工具在這個返校季如何幫助學生和教育工作者。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 工具在這個返校季如何幫助學生和教育工作者。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用我們送你的一年 Gemini，開啟新學期</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</guid>
@@ -610,6 +610,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" alt=""></p><p>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>返校季 2026</title>
+      <link>https://blog.google/products-and-platforms/products/education/back-to-school-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/back-to-school-2026/</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 工具在這個返校季如何幫助學生和教育工作者。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTSBundleCollection_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 工具在這個返校季如何幫助學生和教育工作者。</p>]]></content:encoded>
     </item>
     <item>
       <title>Waymo 正將 Gemini 導入其客製化 Ojai 車輛。</title>
@@ -674,18 +686,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
-    </item>
-    <item>
-      <title>在 Android 上的 Chrome 中善用 Gemini 的力量。</title>
-      <link>https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/gemini-in-chrome-android-auto-browse/</guid>
-      <pubDate>Tue, 18 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Chrome 中的 Gemini 現已向美國所有 Android 使用者開放。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Chewy_Bowl_Static_1.2.max-600x600.format-webp.webp" alt=""></p><p>Chrome 中的 Gemini 現已向美國所有 Android 使用者開放。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 宣布歐盟地區 App 的變更</title>
