@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:41:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 20:57:08 GMT</lastBuildDate>
+    <item>
+      <title>X 就涉嫌爬取向開源專案 Nitter 發出停止侵權通知</title>
+      <link>https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156746</guid>
+      <pubDate>Tue, 25 Aug 2026 20:44:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>X 已向 Nitter 發出停止侵權通知信，這個開源專案提供隱私友善的 X 前端，X 要求將其實例與程式碼儲存庫下架，理由是涉嫌爬取。</description>
+    </item>
     <item>
       <title>Pixel 11 手機和 Pixel Watch 5 現在已可正式購買。</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/</link>
@@ -282,15 +291,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Keenable 目前結束隱身模式並完成 2600 萬美元種子輪融資，持續打造一個供 AI 代理使用的大型網路搜尋索引。</description>
-    </item>
-    <item>
-      <title>Uber 為青少年帳號推出即時影片串流</title>
-      <link>https://techcrunch.com/2026/08/25/uber-launches-live-video-streaming-for-teen-accounts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156272</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Uber 表示，行程結束後，任何人都無法再存取這段影片。</description>
     </item>
     <item>
       <title>Apple 發表更強大的 Mac mini，搭載全新的 M6 和 M5 Pro</title>
