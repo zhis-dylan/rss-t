@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 25 Aug 2026 14:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 15:08:34 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 宣布 Jetson Orin Nano 2 機器人電腦，重新定義入門級邊緣 AI</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai</guid>
+      <pubDate>Tue, 25 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>新聞摘要：NVIDIA Jetson Orin Nano 2 是一款全新入門級邊緣 AI 機器人電腦，讓全球數百萬開發者能打造機器人、配送與檢測無人機，以及視覺 ...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/af3998246b4b18cf3f7b822995b80d43/6a8dae5f3d6332a25a5efeb6_b57df87f-2cc6-4a5f-a81a-197f726f144/b57df87f-2cc6-4a5f-a81a-197f726f144_thmb.jpg?v=2cab7378-bb76-4060-bbd9-0ff9bc4cce12" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/af3998246b4b18cf3f7b822995b80d43/6a8dae5f3d6332a25a5efeb6_b57df87f-2cc6-4a5f-a81a-197f726f144/b57df87f-2cc6-4a5f-a81a-197f726f144_thmb.jpg?v=2cab7378-bb76-4060-bbd9-0ff9bc4cce12"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/af3998246b4b18cf3f7b822995b80d43/6a8dae5f3d6332a25a5efeb6_b57df87f-2cc6-4a5f-a81a-197f726f144/b57df87f-2cc6-4a5f-a81a-197f726f144_thmb.jpg?v=2cab7378-bb76-4060-bbd9-0ff9bc4cce12" alt=""></p><p>新聞摘要：NVIDIA Jetson Orin Nano 2 是一款全新入門級邊緣 AI 機器人電腦，讓全球數百萬開發者能打造機器人、配送與檢測無人機，以及視覺 ...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gamma 收購由 Accel 支持的設計新創 Lica</title>
+      <link>https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154850</guid>
+      <pubDate>Tue, 25 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Lica 的共同創辦人將加入 Gamma 的新研究團隊工作。</description>
+    </item>
     <item>
       <title>Apple 從隱私廢棄堆中救回「隱藏我的電子郵件」功能</title>
       <link>https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/</link>
@@ -259,15 +280,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 OpenAI 揭露其一款資安模型失控並駭入 AI 資料集公司 Hugging Face 的數週後，阿拉巴馬州檢察總長宣布對此事件展開調查。</description>
-    </item>
-    <item>
-      <title>Amazon 將硬體價格調漲 60%，歸咎於記憶體短缺</title>
-      <link>https://techcrunch.com/2026/08/24/amazon-hikes-hardware-prices-by-60-percent-blaming-memory-shortage/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156059</guid>
-      <pubDate>Mon, 24 Aug 2026 19:54:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著記憶體短缺持續為硬體製造商帶來麻煩，Amazon 表示現在被迫把成本轉嫁給消費者。</description>
     </item>
     <item>
       <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
@@ -1183,18 +1195,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 說明近期第三方資安評估事件，並概述新的保障措施，以強化 AI 模型測試與評估。</description>
-    </item>
-    <item>
-      <title>NVIDIA 加入 NSF 州與區域 AI 中心計畫，擴展美國各地的 AI 研究與教育</title>
-      <link>https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nsf-state-regional-ai-hub-program</guid>
-      <pubDate>Tue, 04 Aug 2026 17:30:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 正參與美國國家科學基金會（NSF）的州與區域人工智慧基礎設施中心計畫，這項計畫今天啟動，旨在擴大取得 AI 賦能研究與教育所需的先進運算、資料、軟體與專業知識的管道。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20267/45e5623ba2ef2917fa5f5cf75a2dd81a/6a7222c43d6332dc7629aea5_regionalhubnsf-842x450/regionalhubnsf-842x450_thmb.jpg?v=94a8f427-9cb6-4c79-a755-db0544268f00" alt=""></p><p>NVIDIA 正參與美國國家科學基金會（NSF）的州與區域人工智慧基礎設施中心計畫，這項計畫今天啟動，旨在擴大取得 AI 賦能研究與教育所需的先進運算、資料、軟體與專業知識的管道。</p>]]></content:encoded>
     </item>
     <item>
       <title>使用 ChatGPT Work 和 Codex 學習與教學的新方式</title>
