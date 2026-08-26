@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:22:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:37:38 GMT</lastBuildDate>
+    <item>
+      <title>Flipboard 收購 Graze，這家致力於為開放社交網路變現的 feed 建立工具公司</title>
+      <link>https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157226</guid>
+      <pubDate>Wed, 26 Aug 2026 18:35:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Flipboard 正在收購 Bluesky 的 feed 建立新創公司 Graze，將其注重隱私的廣告技術和創作者變現工具帶入 Flipboard 持續擴大的開放社交網路生態系統中。</description>
+    </item>
+    <item>
+      <title>醫療器材製造商 Boston Scientific 表示，網路攻擊正對其營運造成「全球性中斷」</title>
+      <link>https://techcrunch.com/2026/08/26/medical-device-maker-boston-scientific-says-a-cyberattack-is-causing-a-global-disruption-to-its-operations/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157313</guid>
+      <pubDate>Wed, 26 Aug 2026 18:23:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司不願說明醫療器材是否受到影響，或是否有任何客戶資料遭到外洩。</description>
+    </item>
     <item>
       <title>美國查封用於駭入 NASA、司法部與參議院的中國殭屍網路網域</title>
       <link>https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/</link>
@@ -240,15 +258,6 @@
       <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
-      <title>Ventures Platform 規模更大，也更廣泛——推出第二支非洲基金</title>
-      <link>https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156817</guid>
-      <pubDate>Wed, 26 Aug 2026 07:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家泛非洲創投公司已募得 8,300 萬美元，並計劃投資奈及利亞以外市場的新創公司。</description>
-    </item>
-    <item>
       <title>Google 在全球智慧財產權論壇</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/</guid>
@@ -259,15 +268,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DZ8_8197.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DZ8_8197.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DZ8_8197.max-600x600.format-webp.webp" alt=""></p><p>閱讀 Google 與 Alphabet 全球事務總裁 Kent Walker 在全球智慧財產權論壇上的致詞。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>印度的 Ringg 獲 Peak XV 支持，持續將語音 AI 推向電話通話之外</title>
-      <link>https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156276</guid>
-      <pubDate>Wed, 26 Aug 2026 03:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ringg 已從 Peak XV 募得 1,000 萬美元，作為其 A 輪延伸募資的一部分。</description>
     </item>
     <item>
       <title>loveholidays 如何運用 Codex 讓每個人都成為開發者</title>
