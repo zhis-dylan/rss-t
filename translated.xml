@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 21:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:24:09 GMT</lastBuildDate>
     <item>
       <title>NVIDIA NVLink Fusion 擴展，加入 NVHBM 客製化高頻寬記憶體</title>
       <link>https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</link>
@@ -17,6 +17,18 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792" alt=""></p><p>新一波 AI 正為基礎設施帶來新的需求。隨著 AI 代理與兆參數工作負載逐漸成為主流，AI 基礎設施的效能不僅取決於運算能力，也取決於運算、記憶體、儲存、網路與軟體如何作為一個整合系統共同設計。為了協助超大規模雲端業者與 AI 創新者打造下一代 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>AWS 和 NVIDIA 將提供 200 萬顆額外 GPU 與下一代基礎設施，以支援代理式 AI 與實體 AI</title>
+      <link>https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai</guid>
+      <pubDate>Wed, 26 Aug 2026 21:05:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Amazon Web Services（AWS），Amazon.com, Inc. 旗下公司（NASDAQ: AMZN），與 NVIDIA（NASDAQ: NVDA）今日宣布大幅擴大雙方的策略合作，以因應全球對 AI 基礎設施持續飆升的需求。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762" alt=""></p><p>Amazon Web Services（AWS），Amazon.com, Inc. 旗下公司（NASDAQ: AMZN），與 NVIDIA（NASDAQ: NVDA）今日宣布大幅擴大雙方的策略合作，以因應全球對 AI 基礎設施持續飆升的需求。</p>]]></content:encoded>
     </item>
     <item>
       <title>在 Workspace 中使用 Gemini 展開開學季的 7 種方式</title>
@@ -1080,18 +1092,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
-    </item>
-    <item>
-      <title>NVIDIA 與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 合作建立 AI 運算基礎設施融資平台，以動員超過 5,000 億美元的第三方資本</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-partners-with-apollo-blackrock-blackstone-brookfield-goldman-sachs-and-kkr-to-establish-ai-compute-infrastructure-financing-platforms-to-mobilize-over-500-billion-of-third-party-capital</guid>
-      <pubDate>Mon, 10 Aug 2026 20:01:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 建立獨立運算融資平台的策略合作，以動員超過 5,000 億美元的第三方資本。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA 今日宣布與 Apollo、BlackRock、Blackstone、Brookfield、Goldman Sachs 及 KKR 建立獨立運算融資平台的策略合作，以動員超過 5,000 億美元的第三方資本。</p>]]></content:encoded>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
