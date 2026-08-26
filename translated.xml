@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 17:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 17:22:01 GMT</lastBuildDate>
     <item>
       <title>美國查封用於駭入 NASA、司法部與參議院的中國殭屍網路網域</title>
       <link>https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>聯邦調查局已查封與一個殭屍網路相關的網域，該殭屍網路讓中國支持的駭客得以入侵數個美國政府部門。</description>
+    </item>
+    <item>
+      <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
     </item>
     <item>
       <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
@@ -660,18 +672,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" alt=""></p><p>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用我們送你的一年 Gemini，開啟新學期</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" alt=""></p><p>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出「Meta Startup School」，加速早期新創公司的成長</title>
