@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 14:20:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 14:35:28 GMT</lastBuildDate>
+    <item>
+      <title>CISA 證實駭客在 7 月期間鎖定超過 100 個美國水務系統</title>
+      <link>https://techcrunch.com/2026/08/26/cisa-confirms-hackers-targeted-over-100-us-water-systems-during-july/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157096</guid>
+      <pubDate>Wed, 26 Aug 2026 14:31:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個聯邦網路安全機構的警告，正值一波疑似由伊朗支持的網路攻擊浪潮之際，這些攻擊鎖定了美國各地關鍵的供水系統。</description>
+    </item>
     <item>
       <title>驚喜：Z.ai 是神祕的 Ox Alpha 模型背後的 AI 實驗室</title>
       <link>https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/</link>
@@ -235,15 +244,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anthropic 正在讓 Claude 在 chat 和 Cowork 之間共用記憶，讓使用者不必再反覆向 AI 交代專案、偏好和其他背景資訊。</description>
-    </item>
-    <item>
-      <title>Waymo 無人計程車將進軍慕尼黑</title>
-      <link>https://techcrunch.com/2026/08/25/waymo-robotaxis-are-headed-to-munich/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156602</guid>
-      <pubDate>Tue, 25 Aug 2026 17:32:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>德國的自駕車法規讓它成為自駕車測試以及未來商業化無人計程車部署的熱門地點。</description>
     </item>
     <item>
       <title>用 Google 搜尋升級居家裝潢的 5 種方法</title>
