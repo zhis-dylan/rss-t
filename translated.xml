@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 04:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 04:30:39 GMT</lastBuildDate>
+    <item>
+      <title>Google 在全球智慧財產權論壇</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/</guid>
+      <pubDate>Wed, 26 Aug 2026 04:15:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>閱讀 Google 與 Alphabet 全球事務總裁 Kent Walker 在全球智慧財產權論壇上的致詞。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp" alt=""></p><p>閱讀 Google 與 Alphabet 全球事務總裁 Kent Walker 在全球智慧財產權論壇上的致詞。</p>]]></content:encoded>
+    </item>
     <item>
       <title>印度的 Ringg 獲 Peak XV 支持，持續將語音 AI 推向電話通話之外</title>
       <link>https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/</link>
@@ -588,18 +600,6 @@
       <description>OpenAI 重申符合資格的 API 客戶可使用零資料保留，並預覽私人安全處理，以在不犧牲資料隱私的情況下提升進階 AI 安全性。</description>
     </item>
     <item>
-      <title>用 Search 提升學習的 5 種新方法</title>
-      <link>https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</guid>
-      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" alt=""></p><p>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用我們送你的一年 Gemini，開啟新學期</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/student-offer-google-ai/</guid>
@@ -610,6 +610,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BTS_gemini_hero_withcopy.max-600x600.format-webp.webp" alt=""></p><p>大學生可免費申請 12 個月的 Google AI Plus，並可享有 Google AI Pro 特別優惠。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Search 提升學習的 5 種新方法</title>
+      <link>https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/</guid>
+      <pubDate>Wed, 19 Aug 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp" alt=""></p><p>以下是你可以如何運用 Google Search 工具來準備課堂和標準化測驗的方法。</p>]]></content:encoded>
     </item>
     <item>
       <title>返校季 2026</title>
@@ -634,18 +646,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Ojai_vehicles_social.max-600x600.format-webp.webp" alt=""></p><p>Waymo 正將 Gemini 導入其客製化打造的 Ojai 車輛，打造更實用且更個人化的乘車體驗。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>3 位創作者用無限存取 Google Flow 做出了什麼</title>
-      <link>https://blog.google/products/ads-commerce/the-small-brief/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/the-small-brief/</guid>
-      <pubDate>Wed, 19 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們請 3 位創作者在 Google Flow 這個 AI 創意工作室裡，為在地商家設計廣告活動。以下是他們做出來的內容。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Hero_Image_NJd7pGd.max-600x600.format-webp.webp" alt=""></p><p>我們請 3 位創作者在 Google Flow 這個 AI 創意工作室裡，為在地商家設計廣告活動。以下是他們做出來的內容。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出「Meta Startup School」，加速早期新創公司的成長</title>
