@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 17:22:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 17:37:12 GMT</lastBuildDate>
     <item>
       <title>美國查封用於駭入 NASA、司法部與參議院的中國殭屍網路網域</title>
       <link>https://techcrunch.com/2026/08/26/us-seizes-domains-of-chinese-botnet-used-to-hack-nasa-justice-department-and-the-senate/</link>
@@ -220,6 +220,24 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Runable 表示，在過去 90 天裡，其超過 1 兆 token 的用量中，有 60% 到 70% 來自付費客戶。</description>
+    </item>
+    <item>
+      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Ventures Platform 規模更大，也更廣泛——推出第二支非洲基金</title>
@@ -1876,15 +1894,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>OpenAI 與 Broadcom 推出 Jalapeño，這是一款專為 LLM 推論打造的客製化 AI 晶片，旨在提升 AI 系統的效能、效率與規模。</description>
     </item>
     <item>
-      <title>GPT-5 如何幫助免疫學家 Derya Unutmaz 解開一個 3 年的謎團</title>
-      <link>https://openai.com/index/gpt-5-immunology-mystery</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-immunology-mystery</guid>
-      <pubDate>Tue, 23 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-5 Pro 幫助解開一個 3 年的免疫學謎團，並提供了對 T 細胞行為的洞見。這項突破可能有助於癌症與自體免疫研究。</description>
-    </item>
-    <item>
       <title>以具代理性的可觀測性重新思考雲端營運</title>
       <link>https://blogs.microsoft.com/blog/2026/06/23/rethinking-cloud-operations-with-agentic-observability/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52562964</guid>
@@ -1905,15 +1914,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 協助建立先進 AI 的共同標準，透過 Appia Foundation 支援評估框架、安全實務與全球合作。</description>
-    </item>
-    <item>
-      <title>Omio 如何打造對話式旅遊的未來</title>
-      <link>https://openai.com/index/omio</link>
-      <guid isPermaLink="false">https://openai.com/index/omio</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Omio 如何運用 OpenAI 來支援對話式旅遊體驗、加速產品開發，並轉型為 AI 原生公司。</description>
     </item>
     <item>
       <title>推動下一波 AI：透過我們在 Pecos 的新資料中心擴充容量</title>
