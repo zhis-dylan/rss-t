@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:19:39 GMT</lastBuildDate>
+    <item>
+      <title>Bluesky 現在讓你上傳 10 分鐘長的影片</title>
+      <link>https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156948</guid>
+      <pubDate>Wed, 26 Aug 2026 13:12:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bluesky 新增的 10 分鐘影片支援也包括更快的上傳速度。</description>
+    </item>
     <item>
       <title>QueryStory 希望你相信 AI 告訴你的內容</title>
       <link>https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/</link>
@@ -257,15 +266,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823" alt=""></p><p>新聞摘要：NVIDIA Jetson Orin Nano 2 是一款全新入門級邊緣 AI 機器人電腦，讓全球數百萬開發者能打造機器人、配送與檢測無人機，以及視覺 ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gamma 收購由 Accel 支持的設計新創 Lica</title>
-      <link>https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154850</guid>
-      <pubDate>Tue, 25 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Lica 的共同創辦人將加入 Gamma 的新研究團隊工作。</description>
     </item>
     <item>
       <title>準備好玩了嗎？體驗 Google Play 有史以來最大規模的 Gamescom 展示活動。</title>
