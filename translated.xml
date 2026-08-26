@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 20:53:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 21:09:00 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA NVLink Fusion 擴展，加入 NVHBM 客製化高頻寬記憶體</title>
+      <link>https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</guid>
+      <pubDate>Wed, 26 Aug 2026 21:05:30 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>新一波 AI 正為基礎設施帶來新的需求。隨著 AI 代理與兆參數工作負載逐漸成為主流，AI 基礎設施的效能不僅取決於運算能力，也取決於運算、記憶體、儲存、網路與軟體如何作為一個整合系統共同設計。為了協助超大規模雲端業者與 AI 創新者打造下一代 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792" alt=""></p><p>新一波 AI 正為基礎設施帶來新的需求。隨著 AI 代理與兆參數工作負載逐漸成為主流，AI 基礎設施的效能不僅取決於運算能力，也取決於運算、記憶體、儲存、網路與軟體如何作為一個整合系統共同設計。為了協助超大規模雲端業者與 AI 創新者打造下一代 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>在 Workspace 中使用 Gemini 展開開學季的 7 種方式</title>
       <link>https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/</link>
@@ -1165,18 +1177,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
-    </item>
-    <item>
-      <title>Firebird 在亞美尼亞推出獨立國家國協地區最大 AI 工廠</title>
-      <link>https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/firebird-ai-factory-armenia-blackwell-rubin-dsx/</guid>
-      <pubDate>Sat, 08 Aug 2026 10:24:54 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>全球 AI 基礎設施的建置今天達到一個新的里程碑——新興的 AI 雲端 Firebird 在亞美尼亞推出了獨立國家國協地區最大 AI 工廠，建立一個由 NVIDIA 加速運算與 Dell Technologies 高效能 AI 基礎設施驅動的新 AI 運算樞紐。亞美尼亞共和國總理 Nikol Pashinyan；Zhaslan Madiyev，副 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ea1fc4efd1faf794fdcb83b47fe91eb8/6a77041d3d633206d053e5b5_5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450/5559253-Firebird-AI-Factory-Armenia-social-1920x1080-1-842x450_thmb.jpg?v=11e6a9e9-ce9f-46a6-8931-fd333d9a9529" alt=""></p><p>全球 AI 基礎設施的建置今天達到一個新的里程碑——新興的 AI 雲端 Firebird 在亞美尼亞推出了獨立國家國協地區最大 AI 工廠，建立一個由 NVIDIA 加速運算與 Dell Technologies 高效能 AI 基礎設施驅動的新 AI 運算樞紐。亞美尼亞共和國總理 Nikol Pashinyan；Zhaslan Madiyev，副 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
