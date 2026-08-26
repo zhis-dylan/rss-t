@@ -5,7 +5,29 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:34:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:50:04 GMT</lastBuildDate>
+    <item>
+      <title>Meta 同意以 18 億美元和解 29 州提起的社群媒體傷害兒童訴訟</title>
+      <link>https://techcrunch.com/2026/08/26/meta-settles-for-18-billion-in-lawsuit-brought-by-29-states-over-social-media-harms-to-children/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157070</guid>
+      <pubDate>Wed, 26 Aug 2026 13:43:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這起訴訟指控 Meta 明知 Instagram 和 Facebook 等平台可能對年輕使用者造成危害，卻仍刻意設計成讓兒童上癮。</description>
+    </item>
+    <item>
+      <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
+      <link>https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50024</guid>
+      <pubDate>Wed, 26 Aug 2026 13:37:57 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>我們宣布已與一個跨黨派的州檢察長團體達成協議，這建立在我們長期致力於賦權家長並支持青少年的努力之上。
+〈致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年〉一文最早刊登於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>我們宣布已與一個跨黨派的州檢察長團體達成協議，這建立在我們長期致力於賦權家長並支持青少年的努力之上。<br>〈致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年〉一文最早刊登於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年</title>
       <link>https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/</link>
@@ -246,15 +268,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp" alt=""></p><p>在 macOS 版 Gemini app 中啟用 Google 全新的智慧聽寫功能，並可自然地對著桌面上的任何視窗說話。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>那個假的《俠盜獵車手 VI》展示其實只是惡意軟體</title>
-      <link>https://techcrunch.com/2026/08/25/that-fake-grand-theft-auto-vi-demo-is-actually-just-malware/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156525</guid>
-      <pubDate>Tue, 25 Aug 2026 15:48:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>《俠盜獵車手》粉絲急於得知這款史上最受期待的電玩遊戲之一的消息，似乎對這起新的網路攻擊格外容易受害。</description>
     </item>
     <item>
       <title>領先的發行商將重量級 PC 遊戲與技術帶到 NVIDIA RTX Spark</title>
@@ -1086,19 +1099,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Model ML 使用 GPT-5.6 Sol，將財務工作從研究與分析一路延伸到可編輯、可追蹤的 PowerPoint 簡報與 Excel 活頁簿。</description>
-    </item>
-    <item>
-      <title>未來屬於每個人</title>
-      <link>https://about.fb.com/news/2026/08/the-future-is-for-everyone/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49866</guid>
-      <pubDate>Mon, 10 Aug 2026 10:01:23 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>祖克柏寫給大家的一封信，談邁向正向 AI 未來的路。
-「未來屬於每個人」這篇貼文最初出現在 Meta 新聞室。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>祖克柏寫給大家的一封信，談邁向正向 AI 未來的路。<br>「未來屬於每個人」這篇貼文最初出現在 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
       <title>隨著網路防禦窗口縮小，擴展 Daybreak</title>
