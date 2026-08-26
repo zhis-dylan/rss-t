@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 19:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:38:09 GMT</lastBuildDate>
+    <item>
+      <title>Google 的 Gemini 有品牌命名問題，AI 其他產品也一樣</title>
+      <link>https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157316</guid>
+      <pubDate>Wed, 26 Aug 2026 19:37:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>消費者 AI 應用程式需要停止讓使用者學習它們的產品架構。</description>
+    </item>
+    <item>
+      <title>我們該如何解釋 OpenAI 的高層出走潮？</title>
+      <link>https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157219</guid>
+      <pubDate>Wed, 26 Aug 2026 19:34:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Greg Brockman 一直以來都是正確的高層人選嗎？</description>
+    </item>
     <item>
       <title>OpenAI 發布其關於 Hugging Face 外洩事件的官方報告</title>
       <link>https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/</link>
@@ -220,24 +238,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家新創公司結束隱身模式，宣布獲得 600 萬美元種子資金，並計畫運用 LLM 與資安專業，讓 AI 查詢更連貫。</description>
-    </item>
-    <item>
-      <title>Arga 正在打造更好的方式來訓練企業 AI 代理</title>
-      <link>https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157018</guid>
-      <pubDate>Wed, 26 Aug 2026 12:55:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Arga 已完成一輪 1,000 萬美元的種子融資，由 General Catalyst 領投，Box Group、Emergence、Gradient 和 SV Angel 參與投資。</description>
-    </item>
-    <item>
-      <title>助聽科技新創 Legato 低調亮相，獲 1,200 萬美元融資，並搶先曝光其 AI 助聽眼鏡</title>
-      <link>https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156546</guid>
-      <pubDate>Wed, 26 Aug 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款名為 Legato Frames 的眼鏡，將公司已取得專利的助聽技術整合進眼鏡框的鏡架中。</description>
     </item>
     <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
