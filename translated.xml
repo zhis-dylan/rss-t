@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:49:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:04:28 GMT</lastBuildDate>
+    <item>
+      <title>QueryStory 希望你相信 AI 告訴你的內容</title>
+      <link>https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156754</guid>
+      <pubDate>Wed, 26 Aug 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司結束隱身模式，宣布獲得 600 萬美元種子資金，並計畫運用 LLM 與資安專業，讓 AI 查詢更連貫。</description>
+    </item>
+    <item>
+      <title>Arga 正在打造更好的方式來訓練企業 AI 代理</title>
+      <link>https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157018</guid>
+      <pubDate>Wed, 26 Aug 2026 12:55:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Arga 已完成一輪 1,000 萬美元的種子融資，由 General Catalyst 領投，Box Group、Emergence、Gradient 和 SV Angel 參與投資。</description>
+    </item>
     <item>
       <title>助聽科技新創 Legato 低調亮相，獲 1,200 萬美元融資，並搶先曝光其 AI 助聽眼鏡</title>
       <link>https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/</link>
@@ -248,24 +266,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Lica 的共同創辦人將加入 Gamma 的新研究團隊工作。</description>
-    </item>
-    <item>
-      <title>Apple 從隱私廢棄堆中救回「隱藏我的電子郵件」功能</title>
-      <link>https://techcrunch.com/2026/08/25/apple-rescues-hide-my-email-feature-from-the-privacy-scrap-heap/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156491</guid>
-      <pubDate>Tue, 25 Aug 2026 14:46:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 表示，將不再放棄使用其 icloud.com 網域來隱藏使用者的電子郵件地址。</description>
-    </item>
-    <item>
-      <title>OpenAI 的 Jalapeño 晶片是為了大規模快速推論而打造，基準測試顯示</title>
-      <link>https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156453</guid>
-      <pubDate>Tue, 25 Aug 2026 14:22:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 Semianalysis 的 InferenceX 基準測試中，Jalapeño 在每位使用者的 token 數量和每千瓦吞吐量上，都比目前可用的最先進技術表現更高。</description>
     </item>
     <item>
       <title>準備好玩了嗎？體驗 Google Play 有史以來最大規模的 Gamescom 展示活動。</title>
