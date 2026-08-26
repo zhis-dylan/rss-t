@@ -5,7 +5,29 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 13:19:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:34:51 GMT</lastBuildDate>
+    <item>
+      <title>我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年</title>
+      <link>https://about.fb.com/news/2026/08/agreement-with-state-attorneys-general-supporting-teens/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50020</guid>
+      <pubDate>Wed, 26 Aug 2026 13:31:53 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>今天，我們宣布與來自美國各州、屬地及哥倫比亞特區的 51 位兩黨檢察總長達成協議，延續我們長期以來賦權家長並支持青少年的努力。
+這篇〈我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年〉最初發表於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>今天，我們宣布與來自美國各州、屬地及哥倫比亞特區的 51 位兩黨檢察總長達成協議，延續我們長期以來賦權家長並支持青少年的努力。<br>這篇〈我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>機器人大腦建造者正走出 GPT-2 時代</title>
+      <link>https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3155979</guid>
+      <pubDate>Wed, 26 Aug 2026 13:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>機器人身體正等待它們的 AI 大腦趕上來。</description>
+    </item>
     <item>
       <title>Bluesky 現在讓你上傳 10 分鐘長的影片</title>
       <link>https://techcrunch.com/2026/08/26/bluesky-now-lets-you-upload-10-minute-long-videos/</link>
@@ -245,15 +267,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2" alt=""></p><p>NVIDIA 正將下一波 RTX 遊戲帶到本週在德國科隆舉行的 Gamescom 會議，並支援新遊戲、反作弊技術，以及更高的視覺品質。Electronic Arts、Embark 和 Ubisoft 是最新一批在 NVIDIA RTX Spark 上線前，將旗下重量級作品帶到該平台的遊戲發行商與開發商之一。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Pacific Fusion 的下一台核融合機器可能可跨越商業發電的一大難關</title>
-      <link>https://techcrunch.com/2026/08/25/pacific-fusion-next-fusion-machine-could-clear-key-hurdle-to-commercial-power/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154741</guid>
-      <pubDate>Tue, 25 Aug 2026 15:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>核融合新創 Pacific Fusion 在新墨西哥州動工興建一座示範設施，該公司表示，這座設施將產生足以自給供電的能量。</description>
     </item>
     <item>
       <title>NVIDIA 宣布 Jetson Orin Nano 2 機器人電腦，重新定義入門級邊緣 AI</title>
@@ -1152,19 +1165,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 HSP GRUPPE 如何使用 ChatGPT Enterprise 提升生產力、改善工作品質，並為稅務諮詢與客戶服務創造更多人力容量。</description>
-    </item>
-    <item>
-      <title>為什麼 Meta 要打造自己的 AI 資料中心</title>
-      <link>https://about.fb.com/news/2026/08/why-meta-builds-its-own-data-centers/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49845</guid>
-      <pubDate>Thu, 06 Aug 2026 15:00:23 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>開發者與創作者 Tom Shaw 與 Meta 的資料中心副總裁 Rachel Peterson 對談，討論 Meta 如何建造世界上最大的一些運算設施。
-這篇〈為什麼 Meta 要打造自己的 AI 資料中心〉最早出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Thumbnail-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Thumbnail-1.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Thumbnail-1.jpg?fit=1920%2C1080" alt=""></p><p>開發者與創作者 Tom Shaw 與 Meta 的資料中心副總裁 Rachel Peterson 對談，討論 Meta 如何建造世界上最大的一些運算設施。<br>這篇〈為什麼 Meta 要打造自己的 AI 資料中心〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>GeForce NOW 在 8 月帶來 26 款新遊戲</title>
