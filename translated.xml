@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 09:47:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 10:03:01 GMT</lastBuildDate>
     <item>
       <title>Ventures Platform 規模更大，也更廣泛——推出第二支非洲基金</title>
       <link>https://techcrunch.com/2026/08/26/ventures-platform-goes-bigger-and-broader-with-its-second-africa-fund/</link>
@@ -53,6 +53,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Malone 離職之前，OpenAI 已經重組其基礎設施部門，將他的匯報線從總裁 Greg Brockman 手中移開，並由副總裁 Sachin Katti 負責該團隊。</description>
+    </item>
+    <item>
+      <title>loveholidays 如何運用 Codex 讓每個人都成為開發者</title>
+      <link>https://openai.com/index/loveholidays</link>
+      <guid isPermaLink="false">https://openai.com/index/loveholidays</guid>
+      <pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 loveholidays 如何運用 OpenAI Codex，讓整個企業都能更容易進行軟體開發，協助團隊更快把點子變成產品。</description>
     </item>
     <item>
       <title>X 就涉嫌爬取向開源專案 Nitter 發出停止侵權通知</title>
@@ -1927,15 +1936,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" alt=""></p><p>今天，Microsoft 宣布其歷史上最大的一次單筆容量擴充之一。我們將在德州 Pecos 建立一座新的資料中心園區，將我們的全球資料中心容量擴充約 2 吉瓦（GW），以滿足各產業與各地區對 AI 和雲端服務強勁且持續的客戶需求。除了技術層面之外，這也是...<br>〈Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos〉一文最先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Patch the Planet：一項支持開源維護者的 Daybreak 倡議</title>
-      <link>https://openai.com/index/patch-the-planet</link>
-      <guid isPermaLink="false">https://openai.com/index/patch-the-planet</guid>
-      <pubDate>Mon, 22 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出 Patch the Planet，這是 Daybreak 的一項倡議，協助開源維護者透過 AI 與專家審查找出、驗證並修補漏洞。</description>
     </item>
     <item>
       <title>Apple 宣布在巴西對 iOS 的變更</title>
