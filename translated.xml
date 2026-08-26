@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 03:30:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:45:15 GMT</lastBuildDate>
+    <item>
+      <title>印度的 Ringg 獲 Peak XV 支持，持續將語音 AI 推向電話通話之外</title>
+      <link>https://techcrunch.com/2026/08/25/indias-ringg-gets-backing-from-peak-xv-as-it-pushes-voice-ai-past-the-phone-call/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156276</guid>
+      <pubDate>Wed, 26 Aug 2026 03:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ringg 已從 Peak XV 募得 1,000 萬美元，作為其 A 輪延伸募資的一部分。</description>
+    </item>
     <item>
       <title>機器人新創 Generalist 估值達 30 億美元，消息人士指出</title>
       <link>https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/</link>
@@ -282,15 +291,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GwG_Institutions_LinkedIn_Delaw.max-600x600.format-webp_N2fitPQ.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GwG_Institutions_LinkedIn_Delaw.max-600x600.format-webp_N2fitPQ.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GwG_Institutions_LinkedIn_Delaw.max-600x600.format-webp_N2fitPQ.webp" alt=""></p><p>Google 與德拉瓦州合作，向全州居民提供免費的職涯證書與 AI 培訓。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Andy Dunn 的新創公司 Pie 變得不只是活動 App，而更像一個社群網路</title>
-      <link>https://techcrunch.com/2026/08/25/andy-dunns-startup-pie-becomes-less-of-an-events-app-and-more-of-a-social-network/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156057</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由 Bonobos 共同創辦人 Andy Dunn 創立的這款社群 App，正從活動功能擴展出去，為群組建立新的數位家園，讓大家能夠連結、組織並安排計畫。</description>
     </item>
     <item>
       <title>Apple 發表更強大的 Mac mini，搭載全新的 M6 和 M5 Pro</title>
