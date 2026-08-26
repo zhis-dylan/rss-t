@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 15:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 15:51:09 GMT</lastBuildDate>
+    <item>
+      <title>Radar 讓 Podcast 可搜尋，也可供 AI 代理使用</title>
+      <link>https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157086</guid>
+      <pubDate>Wed, 26 Aug 2026 15:47:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Particle 的新 podcast 智慧平台會轉錄並分析超過 130,000 個 podcast，讓其中的對話可在網路上搜尋，並可透過 API 和 MCP 供 AI 代理存取。</description>
+    </item>
     <item>
       <title>前 Meta 科學家想把視覺 AI 帶進工廠產線</title>
       <link>https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/</link>
@@ -235,15 +244,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>該公司的新一輪募資總額現已達到 2.32 億美元。</description>
-    </item>
-    <item>
-      <title>SpaceX 將在路易斯安那州打造第二座、造價 1000 億美元的「Starbase」太空港</title>
-      <link>https://techcrunch.com/2026/08/25/spacex-will-build-a-second-100b-starbase-spaceport-in-louisiana/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156663</guid>
-      <pubDate>Tue, 25 Aug 2026 18:26:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司表示，將於 2027 年開始施工，而 Starship 火箭最快可在 2029 年升空。</description>
     </item>
     <item>
       <title>用 Google 搜尋升級居家裝潢的 5 種方法</title>
