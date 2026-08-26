@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 00:28:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:43:57 GMT</lastBuildDate>
+    <item>
+      <title>機器人新創 Generalist 估值達 30 億美元，消息人士指出</title>
+      <link>https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156922</guid>
+      <pubDate>Wed, 26 Aug 2026 00:40:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆 2 億美元的延長融資，距離這家實體 AI 新創達到 20 億美元估值僅過了幾個月。</description>
+    </item>
     <item>
       <title>OpenAI 失去一位頂尖資料中心主管，高層離職潮持續</title>
       <link>https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/</link>
@@ -282,15 +291,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>由 Bonobos 共同創辦人 Andy Dunn 創立的這款社群 App，正從活動功能擴展出去，為群組建立新的數位家園，讓大家能夠連結、組織並安排計畫。</description>
-    </item>
-    <item>
-      <title>WhatsApp 透過更強的兩步驟驗證等功能，強化帳號安全</title>
-      <link>https://techcrunch.com/2026/08/25/whatsapp-tightens-account-security-with-stronger-two-step-verification-and-more/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156081</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>WhatsApp 先前的兩步驟驗證依賴 6 位數 PIN 碼，但現在用戶可以選擇更長、包含字母數字與特殊字元的密碼。</description>
     </item>
     <item>
       <title>Apple 發表更強大的 Mac mini，搭載全新的 M6 和 M5 Pro</title>
