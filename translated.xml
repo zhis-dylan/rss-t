@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 18:52:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 19:07:52 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 發布其關於 Hugging Face 外洩事件的官方報告</title>
+      <link>https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157343</guid>
+      <pubDate>Wed, 26 Aug 2026 19:05:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這份報告涵蓋多起獨立的資安入侵事件，是目前為止對這起事件最完整的說明。</description>
+    </item>
     <item>
       <title>Flipboard 收購 Graze，這家致力於為開放社交網路變現的 feed 建立工具公司</title>
       <link>https://techcrunch.com/2026/08/26/flipboard-acquires-graze-the-feed-builder-working-to-monetize-the-open-social-web/</link>
@@ -229,15 +238,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這款名為 Legato Frames 的眼鏡，將公司已取得專利的助聽技術整合進眼鏡框的鏡架中。</description>
-    </item>
-    <item>
-      <title>Runable 獲得 2100 萬美元，押注 AI 代理能從打造事業走向擴張事業</title>
-      <link>https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156706</guid>
-      <pubDate>Wed, 26 Aug 2026 11:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Runable 表示，在過去 90 天裡，其超過 1 兆 token 的用量中，有 60% 到 70% 來自付費客戶。</description>
     </item>
     <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
