@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 26 Aug 2026 23:40:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 23:55:19 GMT</lastBuildDate>
+    <item>
+      <title>Amazon 因「需求激增」將其 Nvidia 晶片訂單數量直接翻三倍</title>
+      <link>https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157431</guid>
+      <pubDate>Wed, 26 Aug 2026 23:47:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 將在未來兩年內再向其資料中心新增 200 萬顆 Nvidia GPU 晶片。不過，這項延伸合作關係不僅止於購買更多晶片。</description>
+    </item>
     <item>
       <title>Meta 的 180 億美元兒童安全和解案，取決於效果不佳的年齡驗證技術</title>
       <link>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</link>
@@ -277,15 +286,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>今天，我們宣布與來自美國各州、屬地及哥倫比亞特區的 51 位兩黨檢察總長達成協議，延續我們長期以來賦權家長並支持青少年的努力。<br>這篇〈我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>機器人大腦建造者正走出 GPT-2 時代</title>
-      <link>https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3155979</guid>
-      <pubDate>Wed, 26 Aug 2026 13:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>機器人身體正等待它們的 AI 大腦趕上來。</description>
     </item>
     <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
