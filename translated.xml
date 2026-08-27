@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:19:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:35:06 GMT</lastBuildDate>
+    <item>
+      <title>Rivian 的財務長即將離職</title>
+      <link>https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158092</guid>
+      <pubDate>Thu, 27 Aug 2026 20:23:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>公司在週四的一份申報文件中表示，Claire McDonough 將於 10 月 30 日卸任，尋求新的機會。</description>
+    </item>
     <item>
       <title>Bluesky 為不想爆紅的人新增「演算法退出」功能</title>
       <link>https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/</link>
@@ -302,15 +311,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>一項針對超過 1,000 名學生的隨機研究，探討 ChatGPT、批判性思考、原創性，以及學生在真實大學作業中的表現。</description>
-    </item>
-    <item>
-      <title>Nvidia 接近收購 Hugging Face</title>
-      <link>https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157522</guid>
-      <pubDate>Thu, 27 Aug 2026 06:32:51 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報導，Nvidia 已同意以 129 億美元收購熱門的開源 AI 平台 Hugging Face，此舉將讓 Nvidia 同時鞏固其晶片帝國，並重返雲端業務。</description>
     </item>
     <item>
       <title>擴大 OpenAI 在巴西的布局</title>
