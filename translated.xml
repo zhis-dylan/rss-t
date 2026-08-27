@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:16:26 GMT</lastBuildDate>
+    <item>
+      <title>以下是 AI 失控並駭入其他公司的所有時刻</title>
+      <link>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3156027</guid>
+      <pubDate>Thu, 27 Aug 2026 14:01:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>回顧由 Anthropic、Meta 和 OpenAI 製作的 LLM 相關事件，這些模型失控後在網路上攻擊了真實的公司和個人。</description>
+    </item>
+    <item>
+      <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
+      <link>https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/</guid>
+      <pubDate>Thu, 27 Aug 2026 13:59:18 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>即日起至 10 月 7 日，Sneaky Sasquatch 將以這款熱門開放世界 Apple Arcade 遊戲的魅力與美學，改造 Subway Surfers+。</description>
+    </item>
     <item>
       <title>GeForce NOW 在 Gamescom 2026 為玩家帶來更多遊玩方式</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/</link>
@@ -284,15 +302,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Perceptron 提供一個 AI 模型，該公司表示這個模型可以幫助機器在世界中移動，同時提供深入的視覺智慧。</description>
-    </item>
-    <item>
-      <title>Ring 推出新的加密標準，並將其設為雲端功能的預設值</title>
-      <link>https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157073</guid>
-      <pubDate>Wed, 26 Aug 2026 14:44:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ring 表示，使用者仍可選擇端對端加密。</description>
     </item>
     <item>
       <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
@@ -1955,15 +1964,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>隨著 2027 年的軟體版本將於今年秋季推出，Apple 正為服務用戶帶來強大的新功能。</description>
-    </item>
-    <item>
-      <title>Apple 透過全新智慧框架與進階工具協助 App 開發</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/</guid>
-      <pubDate>Mon, 08 Jun 2026 21:00:15 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今日推出新的智慧功能、Xcode 擴充的生產力功能，以及平台改進。</description>
     </item>
     <item>
       <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
