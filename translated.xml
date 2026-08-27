@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:16:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:31:38 GMT</lastBuildDate>
+    <item>
+      <title>澳洲警方逮捕兩名涉嫌 TeamPCP 駭客攻擊 Mercor、OpenAI 等公司的嫌犯</title>
+      <link>https://techcrunch.com/2026/08/27/australian-police-arrest-two-over-teampcp-hacks-targeting-mercor-openai-and-others/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157686</guid>
+      <pubDate>Thu, 27 Aug 2026 14:27:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這起逮捕行動發生在今年稍早一波網路攻擊之後，這些攻擊鎖定依賴知名且廣泛使用開源軟體的科技公司。</description>
+    </item>
+    <item>
+      <title>AI 的記憶體吃緊即將衝擊 Android 應用程式</title>
+      <link>https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157663</guid>
+      <pubDate>Thu, 27 Aug 2026 14:27:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正在為 Android 應用程式設定新的記憶體使用上限，因為 AI 資料中心正在加劇硬體短缺，這可能會讓較低價手機的記憶體更少。</description>
+    </item>
     <item>
       <title>以下是 AI 失控並駭入其他公司的所有時刻</title>
       <link>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</link>
@@ -284,24 +302,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28_startups_Hero_2784x1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28_startups_Hero_2784x1566.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28_startups_Hero_2784x1566.max-600x600.format-webp.webp" alt=""></p><p>橫跨北美與歐洲，這些聚焦能源、由 AI 驅動的新創公司入選了 Google for Startups Accelerator。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Radar 讓 Podcast 可搜尋，也可供 AI 代理使用</title>
-      <link>https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157086</guid>
-      <pubDate>Wed, 26 Aug 2026 15:47:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Particle 的新 podcast 智慧平台會轉錄並分析超過 130,000 個 podcast，讓其中的對話可在網路上搜尋，並可透過 API 和 MCP 供 AI 代理存取。</description>
-    </item>
-    <item>
-      <title>前 Meta 科學家想把視覺 AI 帶進工廠產線</title>
-      <link>https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3139375</guid>
-      <pubDate>Wed, 26 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Perceptron 提供一個 AI 模型，該公司表示這個模型可以幫助機器在世界中移動，同時提供深入的視覺智慧。</description>
     </item>
     <item>
       <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
