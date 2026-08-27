@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 18:03:47 GMT</lastBuildDate>
+    <item>
+      <title>ATF 宣布為「重大事件」，因勒索軟體集團聲稱遭駭</title>
+      <link>https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157923</guid>
+      <pubDate>Thu, 27 Aug 2026 17:54:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>ATF 是近年來最新一家通知國會其資安涉及「重大事件」的聯邦政府機構。</description>
+    </item>
     <item>
       <title>OpenAI、Anthropic、Google 和其他 100 家公司呼籲採取行動以防範失控 AI</title>
       <link>https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/</link>
@@ -335,15 +344,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA（NASDAQ: NVDA）今日公布截至 2026 年 7 月 26 日止第二季營收為 962 億美元，較前一季成長 18%，較去年同期成長 106%。該季度，GAAP ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 的 Gemini 有品牌命名問題，AI 其他產品也一樣</title>
-      <link>https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157316</guid>
-      <pubDate>Wed, 26 Aug 2026 19:37:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>消費者 AI 應用程式需要停止讓使用者學習它們的產品架構。</description>
     </item>
     <item>
       <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
