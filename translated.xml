@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 16:02:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 16:17:49 GMT</lastBuildDate>
     <item>
       <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
       <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
@@ -19,6 +19,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
     </item>
     <item>
+      <title>Gemini Omni 1.1 Flash 讓你能以更多控制來進行建構</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Omni 1.1 Flash 為開發者帶來一套新的創意控制功能與生成式影片能力。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 1.1 Flash 為開發者帶來一套新的創意控制功能與生成式影片能力。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>與 Khan Academy 合作打造教室用 AI 工具</title>
       <link>https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</guid>
@@ -29,6 +41,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Flow 帶來新的創意控制功能，以提升影片編輯。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在 Google I/O，我們在 Google Flow 中推出了 Gemini Omni Flash，為創作者帶來新的影片編輯能力。今天我們正透過 Gemini Omni 1.1 Fl…推出更新。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" alt=""></p><p>在 Google I/O，我們在 Google Flow 中推出了 Gemini Omni Flash，為創作者帶來新的影片編輯能力。今天我們正透過 Gemini Omni 1.1 Fl…推出更新。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 8 月的 Demand Gen Drop，以新方式接觸你的受眾。</title>
@@ -164,6 +188,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 在印度有超過 1 億名每週活躍的 ChatGPT 使用者，其中很大一部分使用的是免費版或較低價的 Go 方案。</description>
+    </item>
+    <item>
+      <title>更好的答案、更廣的思考：學生從 ChatGPT 和批判性思考訓練中獲得什麼</title>
+      <link>https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</link>
+      <guid isPermaLink="false">https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training</guid>
+      <pubDate>Thu, 27 Aug 2026 09:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>一項針對超過 1,000 名學生的隨機研究，探討 ChatGPT、批判性思考、原創性，以及學生在真實大學作業中的表現。</description>
     </item>
     <item>
       <title>Nvidia 接近收購 Hugging Face</title>
@@ -313,18 +346,6 @@
       <description>該公司不願說明醫療器材是否受到影響，或是否有任何客戶資料遭到外洩。</description>
     </item>
     <item>
-      <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
@@ -335,6 +356,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
     </item>
     <item>
       <title>28 家新創運用 AI 轉型能源產業</title>
@@ -711,30 +744,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 工程師將全端開發拆解成五個簡單層次，並說明這如何影響日常使用者。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>以下是如何在 Pixel 11 上使用手語轉文字翻譯。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/american-sign-language-sign-to-text-pixel-11/</guid>
-      <pubDate>Fri, 21 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在聾人社群的合作下開發，手語轉文字可即時將 ASL 轉換成文字。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/American_Sign_Language_Pixel_11.max-600x600.format-webp.webp" alt=""></p><p>在聾人社群的合作下開發，手語轉文字可即時將 ASL 轉換成文字。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Pay 的輕觸付款即將在 Walmart 上線。</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/tap-to-pay-google-pay-walmart/</guid>
-      <pubDate>Fri, 21 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>將你偏好的卡片加入 Google 錢包，即可在 Walmart 門市輕觸付款。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPay_Walmart_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPay_Walmart_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GPay_Walmart_social.max-600x600.format-webp.webp" alt=""></p><p>將你偏好的卡片加入 Google 錢包，即可在 Walmart 門市輕觸付款。</p>]]></content:encoded>
     </item>
     <item>
       <title>燃起熱情：透過支援新 Firefox 瀏覽器在 GeForce NOW 遊玩遊戲</title>
@@ -1897,15 +1906,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>HP Inc. 擴大其 OpenAI Frontier 合作夥伴關係，以在客戶體驗、軟體開發和企業營運中部署 AI。</description>
-    </item>
-    <item>
-      <title>預覽 GPT-5.6 Sol：下一代模型</title>
-      <link>https://openai.com/index/previewing-gpt-5-6-sol</link>
-      <guid isPermaLink="false">https://openai.com/index/previewing-gpt-5-6-sol</guid>
-      <pubDate>Fri, 26 Jun 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 預覽 GPT-5.6 Sol，這是一個在程式設計、科學和資安方面具備更強能力的下一代模型，並搭配其最先進的安全防護堆疊。</description>
     </item>
     <item>
       <title>Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力</title>
