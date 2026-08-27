@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:19:57 GMT</lastBuildDate>
+    <item>
+      <title>Bluesky 為不想爆紅的人新增「演算法退出」功能</title>
+      <link>https://techcrunch.com/2026/08/27/bluesky-adds-an-algorithmic-opt-out-feature-for-those-who-dont-want-to-go-viral/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158061</guid>
+      <pubDate>Thu, 27 Aug 2026 20:15:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bluesky 表示，有時候人們只想發文給自己的追蹤者看。</description>
+    </item>
     <item>
       <title>埋在 Meta 180 億美元和解案裡的是對兒童資料的法律放行</title>
       <link>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</link>
@@ -71,6 +80,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 與 Pokémon 公司合作，推出一款特別版 Fitbit Air，可搭配 Pokémon Sleep App 使用。</description>
+    </item>
+    <item>
+      <title>慶祝美國 250 週年，從它的歷史走向未來</title>
+      <link>https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/</guid>
+      <pubDate>Thu, 27 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 和 YouTube 正在慶祝美國建國 250 週年。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_American250anniaversary_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_American250anniaversary_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_American250anniaversary_.max-600x600.format-webp.webp" alt=""></p><p>Google 和 YouTube 正在慶祝美國建國 250 週年。</p>]]></content:encoded>
     </item>
     <item>
       <title>時尚新創 Atoire 募得 950 萬美元，讓消費者不用加價就能買到奢侈品</title>
@@ -299,15 +320,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
-    </item>
-    <item>
-      <title>爆紅 AI 新創 Instinct 以 25 億美元估值募得 3.5 億美元</title>
-      <link>https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157433</guid>
-      <pubDate>Thu, 27 Aug 2026 00:24:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創才成立一年，但已經製造出大量話題（和資金），同時也引發隱私疑慮。</description>
     </item>
     <item>
       <title>NVIDIA NVLink Fusion 擴展，加入 NVHBM 客製化高頻寬記憶體</title>
@@ -732,18 +744,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑5.6 現已可在 Kiro 中使用，協助開發者以更好的價格效能來規劃、建置、審查和測試軟體。</description>
-    </item>
-    <item>
-      <title>參加 Google Play 抽獎，有機會贏得傳奇體驗和收藏品，還能使用你的 Play Points。</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/google-play-sweepstakes/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/google-play-sweepstakes/</guid>
-      <pubDate>Fri, 21 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在抽獎活動中兌換 Google Play Points，有機會贏得前往紐約動漫展的行程、稀有收藏品、遊戲設備等更多好禮。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp" alt=""></p><p>在抽獎活動中兌換 Google Play Points，有機會贏得前往紐約動漫展的行程、稀有收藏品、遊戲設備等更多好禮。</p>]]></content:encoded>
     </item>
     <item>
       <title>燃起熱情：透過支援新 Firefox 瀏覽器在 GeForce NOW 遊玩遊戲</title>
