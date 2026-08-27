@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:34:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 19:49:34 GMT</lastBuildDate>
+    <item>
+      <title>專家智慧：讓你與值得信賴的內容互動的新方式</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/</guid>
+      <pubDate>Thu, 27 Aug 2026 19:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" alt=""></p><p>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</p>]]></content:encoded>
+    </item>
     <item>
       <title>ATF 宣布為「重大事件」，因勒索軟體集團聲稱遭駭</title>
       <link>https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/</link>
@@ -732,18 +744,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sweepstakes-header.max-600x600.format-webp.webp" alt=""></p><p>在抽獎活動中兌換 Google Play Points，有機會贏得前往紐約動漫展的行程、稀有收藏品、遊戲設備等更多好禮。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>「全端」AI 到底是什麼意思？</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/what-full-stack-development-means/</guid>
-      <pubDate>Fri, 21 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位 Google DeepMind 工程師將全端開發拆解成五個簡單層次，並說明這如何影響日常使用者。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_BfIj9lP.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 工程師將全端開發拆解成五個簡單層次，並說明這如何影響日常使用者。</p>]]></content:encoded>
     </item>
     <item>
       <title>燃起熱情：透過支援新 Firefox 瀏覽器在 GeForce NOW 遊玩遊戲</title>
