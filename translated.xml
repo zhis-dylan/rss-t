@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:46:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:02:01 GMT</lastBuildDate>
+    <item>
+      <title>這位前 PG&amp;E 工程師正在打造「地下版 Google 地圖」</title>
+      <link>https://techcrunch.com/2026/08/27/this-former-pge-engineer-is-building-a-google-maps-for-the-underground/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157371</guid>
+      <pubDate>Thu, 27 Aug 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司剛完成 2,600 萬美元 A 輪募資，將用來擴大客戶群，並協助減少公用事業與營建工作的繁瑣行政程序。</description>
+    </item>
+    <item>
+      <title>Hugging Face 正在販售一隻可愛的 399 美元開源鴨子機器人 Microduck</title>
+      <link>https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157743</guid>
+      <pubDate>Thu, 27 Aug 2026 14:56:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Hugging Face 正在接受 Microduck 的訂單；這是一款 399 美元的迷你開源鴨子機器人，開發者拿回家就能直接訓練。</description>
+    </item>
     <item>
       <title>等等，城裡有個新的 Twitter</title>
       <link>https://techcrunch.com/2026/08/27/hold-up-theres-a-new-twitter-in-the-town/</link>
@@ -281,24 +299,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Capital F 募得 1,700 萬美元首支基金，目標支持「女性經濟」的未來</title>
-      <link>https://techcrunch.com/2026/08/26/capital-f-closes-17m-debut-fund-with-goal-to-back-the-future-of-the-female-economy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157021</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Capital F 是少數由全女性領導的創投公司之一，該公司週三宣布完成首支基金 1,700 萬美元的募資。該公司投資於打造「女性經濟」的公司，也就是女性驅動需求的市場。創辦人之一 Margaret Coblentz 告訴 TechCrunch，這主要分成三大類——女性健康、[…]</description>
-    </item>
-    <item>
-      <title>Apple 將於 9 月 9 日舉行 iPhone 發表會</title>
-      <link>https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157238</guid>
-      <pubDate>Wed, 26 Aug 2026 16:53:07 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>預計這場發表會會相當受矚目，因為外傳 Apple 將揭曉備受期待的摺疊式 iPhone。這也會是 Apple 首場由 John Ternus 以執行長身分出席的發表會，他預定於 9 月 1 日從 Tim Cook 手中接下這家科技巨擘的掌舵權。</description>
     </item>
     <item>
       <title>28 家新創運用 AI 轉型能源產業</title>
