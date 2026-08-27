@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 13:00:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 13:15:51 GMT</lastBuildDate>
+    <item>
+      <title>GeForce NOW 在 Gamescom 2026 為玩家帶來更多遊玩方式</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/</guid>
+      <pubDate>Thu, 27 Aug 2026 13:00:33 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 在 Gamescom 公布的消息揭示了 GeForce NOW 的下一步發展，包括更多遊玩方式、更多支援的裝置與平台，以及更多大型 PC 遊戲將登上雲端。全新的 NVIDIA DLSS 4.5 技術控制讓會員能以更多方式微調遊戲體驗，而對新 Steam 裝置、GOG 單一登入、Firefox 瀏覽器 […] 的擴充支援</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e" alt=""></p><p>NVIDIA 在 Gamescom 公布的消息揭示了 GeForce NOW 的下一步發展，包括更多遊玩方式、更多支援的裝置與平台，以及更多大型 PC 遊戲將登上雲端。全新的 NVIDIA DLSS 4.5 技術控制讓會員能以更多方式微調遊戲體驗，而對新 Steam 裝置、GOG 單一登入、Firefox 瀏覽器 […] 的擴充支援</p>]]></content:encoded>
+    </item>
     <item>
       <title>我們的 Fitbit Air 特別版 Pokémon Sleep 登場了</title>
       <link>https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/</link>
@@ -1080,18 +1092,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb" alt=""></p><p>開源生態系統正讓 AI 愛好者與開發者更容易在本地端建置、自訂並執行日益強大的代理。整個 8 月，NVIDIA 將與推動本地 AI 前進的合作夥伴與開源社群一同慶祝，同時也聚焦生態系統中湧現的模型、應用程式與工具。這其中包括 NVIDIA 最新的開放模型、軟體 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 3.5 Lightning 與 NeMo Switchyard 帶來更快、更聰明、更高效率的 Agentic AI</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/</guid>
-      <pubDate>Tue, 11 Aug 2026 13:00:05 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>隨著 AI 從聊天機器人轉向自主代理，開放模型正滿足市場對於完全掌控 AI 在何處執行、如何部署以及如何演進的需求。今天，NVIDIA 透過 Nemotron 3.5 Lightning 擴充其 Nemotron 3 模型家族，這是同級產品中效率最高的模型，適用於長時間運作的 agentic AI 工作負載。這次發布接續 Nemotron […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/88ad63ecbe845009051bfee4ede87d61/6a7b1cd13d63321a00406cfa_image1-842x450/image1-842x450_thmb.jpg?v=2520df3e-f7d8-4a95-ba91-766e1348b762" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/88ad63ecbe845009051bfee4ede87d61/6a7b1cd13d63321a00406cfa_image1-842x450/image1-842x450_thmb.jpg?v=2520df3e-f7d8-4a95-ba91-766e1348b762"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/88ad63ecbe845009051bfee4ede87d61/6a7b1cd13d63321a00406cfa_image1-842x450/image1-842x450_thmb.jpg?v=2520df3e-f7d8-4a95-ba91-766e1348b762" alt=""></p><p>隨著 AI 從聊天機器人轉向自主代理，開放模型正滿足市場對於完全掌控 AI 在何處執行、如何部署以及如何演進的需求。今天，NVIDIA 透過 Nemotron 3.5 Lightning 擴充其 Nemotron 3 模型家族，這是同級產品中效率最高的模型，適用於長時間運作的 agentic AI 工作負載。這次發布接續 Nemotron […]</p>]]></content:encoded>
     </item>
     <item>
       <title>在 ChatGPT 中測試廣告</title>
