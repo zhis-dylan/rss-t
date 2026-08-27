@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 20:50:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:05:22 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 宣布即將舉行的財經社群活動</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858</guid>
+      <pubDate>Thu, 27 Aug 2026 21:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>美國加州聖塔克拉拉，2026 年 8 月 27 日——NVIDIA 將在以下財經社群活動中發表簡報：Goldman Sachs Communacopia + Technology Conference，9 月 10 日星期四上午 8:50（太平洋時間）...</description>
+    </item>
     <item>
       <title>Rivian 的財務長即將離職</title>
       <link>https://techcrunch.com/2026/08/27/rivians-cfo-is-leaving-the-company/</link>
@@ -1107,18 +1116,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple Arcade 透過 Block Blast+ 和 Art of Fauna: Cozy Puzzles+ 擴充其熱門益智遊戲目錄。</description>
-    </item>
-    <item>
-      <title>NVIDIA 與本地 AI 社群推動開源模型與智慧代理</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron/</guid>
-      <pubDate>Tue, 11 Aug 2026 13:00:25 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>開源生態系統正讓 AI 愛好者與開發者更容易在本地端建置、自訂並執行日益強大的代理。整個 8 月，NVIDIA 將與推動本地 AI 前進的合作夥伴與開源社群一同慶祝，同時也聚焦生態系統中湧現的模型、應用程式與工具。這其中包括 NVIDIA 最新的開放模型、軟體 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/bce87722fd47ff73858264743a435db4/6a7b1d123d63321af71129af_raig-rolling-blog-local-ai-community-open-source-842x450/raig-rolling-blog-local-ai-community-open-source-842x450_thmb.jpg?v=48d6f906-4172-4ebe-b524-0a6aa119fadb" alt=""></p><p>開源生態系統正讓 AI 愛好者與開發者更容易在本地端建置、自訂並執行日益強大的代理。整個 8 月，NVIDIA 將與推動本地 AI 前進的合作夥伴與開源社群一同慶祝，同時也聚焦生態系統中湧現的模型、應用程式與工具。這其中包括 NVIDIA 最新的開放模型、軟體 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>在 ChatGPT 中測試廣告</title>
