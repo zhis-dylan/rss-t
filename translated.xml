@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 06:27:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 06:43:04 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 接近收購 Hugging Face</title>
+      <link>https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157522</guid>
+      <pubDate>Thu, 27 Aug 2026 06:32:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報導，Nvidia 已同意以 129 億美元收購熱門的開源 AI 平台 Hugging Face，此舉將讓 Nvidia 同時鞏固其晶片帝國，並重返雲端業務。</description>
+    </item>
     <item>
       <title>爆紅 AI 新創 Instinct 以 25 億美元估值募得 3.5 億美元</title>
       <link>https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/</link>
@@ -251,15 +260,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這個聯邦網路安全機構的警告，正值一波疑似由伊朗支持的網路攻擊浪潮之際，這些攻擊鎖定了美國各地關鍵的供水系統。</description>
-    </item>
-    <item>
-      <title>驚喜：Z.ai 是神祕的 Ox Alpha 模型背後的 AI 實驗室</title>
-      <link>https://techcrunch.com/2026/08/26/surprise-z-ai-is-the-ai-lab-behind-the-mysterious-ox-alpha-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157083</guid>
-      <pubDate>Wed, 26 Aug 2026 14:19:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Z.ai 證實自己就是 Ox Alpha 背後的團隊。這個神祕的開放 AI 模型在各項基準測試與排行榜上名列前茅，而且它的權重即將釋出。</description>
     </item>
     <item>
       <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
