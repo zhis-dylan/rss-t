@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 19:49:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 20:04:46 GMT</lastBuildDate>
+    <item>
+      <title>埋在 Meta 180 億美元和解案裡的是對兒童資料的法律放行</title>
+      <link>https://techcrunch.com/2026/08/27/buried-in-metas-18b-settlement-is-a-legal-pass-on-kids-data/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157838</guid>
+      <pubDate>Thu, 27 Aug 2026 20:04:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 與 29 個州達成的和解允許其保留 13 歲以下兒童的某些資料，用來訓練和測試年齡偵測模型，凸顯這項協議內建的隱私取捨。</description>
+    </item>
+    <item>
+      <title>YouTube 現在讓創作者標註 Amazon 產品，並從購買中賺取佣金</title>
+      <link>https://techcrunch.com/2026/08/27/youtube-now-lets-creators-tag-amazon-products-and-earn-commissions-from-purchases/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158055</guid>
+      <pubDate>Thu, 27 Aug 2026 19:54:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項更新把產品推薦變成創作者更直接的收入來源；而對 Amazon 來說，這一步也讓其龐大的線上商城進入最受歡迎的影片平台之一。</description>
+    </item>
+    <item>
+      <title>Barret Zoph，從 Thinking Machines 轉投 OpenAI 的共同創辦人，現在在 Google</title>
+      <link>https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158012</guid>
+      <pubDate>Thu, 27 Aug 2026 19:52:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Zoph 與 Mira Murati 一同共同創辦 Thinking Machines Lab，也曾擔任這家新創的 CTO；他在 OpenAI 短暫任職後，現在已加入 Google。</description>
+    </item>
     <item>
       <title>專家智慧：讓你與值得信賴的內容互動的新方式</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/</link>
@@ -281,33 +308,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家新創才成立一年，但已經製造出大量話題（和資金），同時也引發隱私疑慮。</description>
-    </item>
-    <item>
-      <title>Amazon 因「需求激增」將其 Nvidia 晶片訂單數量直接翻三倍</title>
-      <link>https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157431</guid>
-      <pubDate>Wed, 26 Aug 2026 23:47:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 將在未來兩年內再向其資料中心新增 200 萬顆 Nvidia GPU 晶片。不過，這項延伸合作關係不僅止於購買更多晶片。</description>
-    </item>
-    <item>
-      <title>Meta 的 180 億美元兒童安全和解案，取決於效果不佳的年齡驗證技術</title>
-      <link>https://techcrunch.com/2026/08/26/metas-18b-child-safety-deal-hinges-on-age-verification-tech-that-doesnt-work-well/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157338</guid>
-      <pubDate>Wed, 26 Aug 2026 22:47:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項歷史性的和解再次引發外界對年齡驗證技術如何讓隱私面臨風險的持續擔憂。</description>
-    </item>
-    <item>
-      <title>Anthropic 在與 Nscale 簽訂 450 億美元交易後，持續展現吞噬算力的態勢</title>
-      <link>https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157364</guid>
-      <pubDate>Wed, 26 Aug 2026 21:37:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>與這家基礎設施供應商的新交易，是 Anthropic 火熱的算力消耗趨勢的最新例子。</description>
     </item>
     <item>
       <title>NVIDIA NVLink Fusion 擴展，加入 NVHBM 客製化高頻寬記憶體</title>
