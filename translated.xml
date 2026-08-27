@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 21:35:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 21:50:46 GMT</lastBuildDate>
+    <item>
+      <title>封閉式迴路冷卻解析：Meta AI 背後的管路系統</title>
+      <link>https://about.fb.com/news/2026/08/closed-loop-cooling-explained-the-plumbing-behind-metas-ai/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50059</guid>
+      <pubDate>Thu, 27 Aug 2026 21:44:08 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>Tom Shaw 解釋 Meta 如何使用封閉式液冷來更有效地驅動 AI。
+〈封閉式迴路冷卻解析：Meta AI 背後的管路系統〉一文最初發表於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/TOM_LIQUID-COOLING_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/TOM_LIQUID-COOLING_Header.jpg?fit=1920%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/TOM_LIQUID-COOLING_Header.jpg?fit=1920%2C1080" alt=""></p><p>Tom Shaw 解釋 Meta 如何使用封閉式液冷來更有效地驅動 AI。<br>〈封閉式迴路冷卻解析：Meta AI 背後的管路系統〉一文最初發表於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>NVIDIA 宣布即將舉行的財經社群活動</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858</link>
@@ -1164,19 +1177,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 寄給格雷格・艾伯特州長一封信，說明其在德州推動負責任 AI 基礎設施的承諾。這封信支持能讓德州居民受益的可靠、透明成長。</description>
-    </item>
-    <item>
-      <title>Meta 支持德州州長 Greg Abbott 的資料中心標準</title>
-      <link>https://about.fb.com/news/2026/08/meta-upholds-texas-governor-greg-abbotts-data-center-standards/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=49871</guid>
-      <pubDate>Mon, 10 Aug 2026 12:00:28 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>Meta 支持德州州長 Greg Abbott 對負責任的資料中心發展的承諾，而且我們全額支付資料中心的能源與用水成本，不會把這些成本轉嫁給消費者。
-這篇文章 Meta 支持德州州長 Greg Abbott 的資料中心標準 最早出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>Meta 支持德州州長 Greg Abbott 對負責任的資料中心發展的承諾，而且我們全額支付資料中心的能源與用水成本，不會把這些成本轉嫁給消費者。<br>這篇文章 Meta 支持德州州長 Greg Abbott 的資料中心標準 最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>Model ML 使用 GPT-5.6 Sol 更有效率地完成財務工作</title>
