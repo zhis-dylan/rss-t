@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 27 Aug 2026 10:44:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 10:59:44 GMT</lastBuildDate>
     <item>
       <title>Nvidia 接近收購 Hugging Face</title>
       <link>https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/</link>
@@ -14,6 +14,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據報導，Nvidia 已同意以 129 億美元收購熱門的開源 AI 平台 Hugging Face，此舉將讓 Nvidia 同時鞏固其晶片帝國，並重返雲端業務。</description>
+    </item>
+    <item>
+      <title>擴大 OpenAI 在巴西的布局</title>
+      <link>https://openai.com/index/expanding-our-presence-in-brazil</link>
+      <guid isPermaLink="false">https://openai.com/index/expanding-our-presence-in-brazil</guid>
+      <pubDate>Thu, 27 Aug 2026 03:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
       <title>爆紅 AI 新創 Instinct 以 25 億美元估值募得 3.5 億美元</title>
@@ -1879,15 +1888,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 預覽 GPT-5.6 Sol，這是一個在程式設計、科學和資安方面具備更強能力的下一代模型，並搭配其最先進的安全防護堆疊。</description>
-    </item>
-    <item>
-      <title>代理人如何改變工作</title>
-      <link>https://openai.com/index/how-agents-are-transforming-work</link>
-      <guid isPermaLink="false">https://openai.com/index/how-agents-are-transforming-work</guid>
-      <pubDate>Thu, 25 Jun 2026 02:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>一篇新的 OpenAI 研究論文顯示，AI 代理人正如何改變工作，讓更長、更複雜的任務成為可能，並提升各種職務的生產力。</description>
     </item>
     <item>
       <title>Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力</title>
