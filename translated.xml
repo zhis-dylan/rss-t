@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 28 Aug 2026 19:46:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 20:01:37 GMT</lastBuildDate>
     <item>
       <title>Anthropic 研究員剛剛讓我們一窺自我改進的 AI</title>
       <link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
@@ -1205,6 +1205,15 @@
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+    </item>
+    <item>
       <title>ChatGPT Business 即將推出進階席位</title>
       <link>https://openai.com/index/premium-seats-chatgpt-business</link>
       <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
@@ -1221,15 +1230,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
-    </item>
-    <item>
-      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1743,6 +1743,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解 GPT-5.6 如何透過更強的 AI 能力驅動 Microsoft 365 Copilot，涵蓋 Word、Excel、PowerPoint、Chat 和 Cowork，讓工作更快、品質更高。</description>
     </item>
     <item>
+      <title>GPT-5.5 生物漏洞獎勵計畫</title>
+      <link>https://openai.com/index/bio-bug-bounty</link>
+      <guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 生物獎勵計畫的詳細資訊</description>
+    </item>
+    <item>
       <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
       <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
@@ -1759,15 +1768,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>每個 token 都有更多智慧、每美元帶來更強的效能，並在你最棘手的工作上按需提供更多能力。</description>
-    </item>
-    <item>
-      <title>GPT-5.5 生物漏洞獎勵計畫</title>
-      <link>https://openai.com/index/bio-bug-bounty</link>
-      <guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 生物獎勵計畫的詳細資訊</description>
     </item>
     <item>
       <title>Apple 獲得創紀錄的 89 項艾美獎提名</title>
@@ -1880,15 +1880,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
     </item>
     <item>
-      <title>Genebench-Pro 內部</title>
-      <link>https://openai.com/index/genebench-pro/case-studies</link>
-      <guid isPermaLink="false">https://openai.com/index/genebench-pro/case-studies</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description/>
-    </item>
-    <item>
       <title>介紹 GeneBench-Pro</title>
       <link>https://openai.com/index/introducing-genebench-pro</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro</guid>
@@ -1896,6 +1887,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>介紹 GeneBench-Pro，一個新的基準測試，使用複雜的真實世界資料集來測試 AI 在基因組學、生物學和科學研究方面的表現。</description>
+    </item>
+    <item>
+      <title>Genebench-Pro 內部</title>
+      <link>https://openai.com/index/genebench-pro/case-studies</link>
+      <guid isPermaLink="false">https://openai.com/index/genebench-pro/case-studies</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description/>
     </item>
     <item>
       <title>描繪歐洲 AI 勞動力機會</title>
