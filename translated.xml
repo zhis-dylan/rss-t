@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 28 Aug 2026 09:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 09:41:18 GMT</lastBuildDate>
+    <item>
+      <title>隨著電動雙輪車站穩腳步，比利時新創 Any 押注載貨空間</title>
+      <link>https://techcrunch.com/2026/08/28/as-electric-two-wheelers-gain-a-foothold-belgian-startup-any-bets-on-cargo-space/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157004</guid>
+      <pubDate>Fri, 28 Aug 2026 09:33:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由比利時新創 Any 推出的 LUV1，是一款模組化電動機車，擁有 120 公升的載貨空間，可用來載包包、工作設備，甚至寵物。</description>
+    </item>
     <item>
       <title>我們在波蘭強化防詐保護</title>
       <link>https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami/</link>
@@ -26,6 +35,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>StrictlyVC 的精品晚間活動將於 9 月 10 日重返紐約西村，Keith Rabois、Craig Shapiro、Jason Levien、Tristan Walker、Brynn Putnam 和 Deven Parekh 將出席，內容涵蓋 AI、體育投資、社群建立、創投經濟與政治，整晚並備有雞尾酒、餐點與交流活動。</description>
+    </item>
+    <item>
+      <title>支持泰國下一代 AI 新創公司</title>
+      <link>https://openai.com/index/supporting-next-generation-ai-startups-thailand</link>
+      <guid isPermaLink="false">https://openai.com/index/supporting-next-generation-ai-startups-thailand</guid>
+      <pubDate>Fri, 28 Aug 2026 02:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 和泰國 MHESI 推出為期八週的加速器，協助 10 家健康、福祉與教育新創公司將 AI 原型轉化為值得信賴的產品。</description>
     </item>
     <item>
       <title>Anthropic 與 OpenAI 將加入 TechCrunch Disrupt 2026 的 AI 舞台</title>
@@ -297,15 +315,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 正在為 Android 應用程式設定新的記憶體使用上限，因為 AI 資料中心正在加劇硬體短缺，這可能會讓較低價手機的記憶體更少。</description>
-    </item>
-    <item>
-      <title>以下是 AI 失控並駭入其他公司的所有時刻</title>
-      <link>https://techcrunch.com/2026/08/27/heres-all-the-times-ai-has-gone-rogue-and-hacked-other-companies/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3156027</guid>
-      <pubDate>Thu, 27 Aug 2026 14:01:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>回顧由 Anthropic、Meta 和 OpenAI 製作的 LLM 相關事件，這些模型失控後在網路上攻擊了真實的公司和個人。</description>
     </item>
     <item>
       <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
@@ -1896,15 +1905,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>一份新的 OpenAI 報告描繪 AI 可能如何重塑歐盟各地的工作，強調哪些職業可能面臨自動化、成長或工作流程變化。</description>
-    </item>
-    <item>
-      <title>HP Inc. 與 OpenAI 推出 Frontier 策略合作夥伴關係</title>
-      <link>https://openai.com/index/hp-frontier-partnership</link>
-      <guid isPermaLink="false">https://openai.com/index/hp-frontier-partnership</guid>
-      <pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>HP Inc. 擴大其 OpenAI Frontier 合作夥伴關係，以在客戶體驗、軟體開發和企業營運中部署 AI。</description>
     </item>
     <item>
       <title>Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力</title>
