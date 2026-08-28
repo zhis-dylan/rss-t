@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 28 Aug 2026 16:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 17:15:08 GMT</lastBuildDate>
+    <item>
+      <title>瑞典如何打造出歐洲最火熱的新創生態系之一</title>
+      <link>https://techcrunch.com/2026/08/28/how-sweden-built-one-of-europes-hottest-startup-ecosystems/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158398</guid>
+      <pubDate>Fri, 28 Aug 2026 17:09:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Cherry Ventures 創辦人 Sophia Bendz 來到 Equity 節目，解析瑞典科技生態系的最新動態。</description>
+    </item>
+    <item>
+      <title>我們正在為 Gemini Notebook 推出彈性使用限制。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/</guid>
+      <pubDate>Fri, 28 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在為 Gemini Notebook 推出新的彈性、依運算資源而定的使用限制。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_Metering_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_Metering_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_Metering_social.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Notebook 推出新的彈性、依運算資源而定的使用限制。</p>]]></content:encoded>
+    </item>
     <item>
       <title>更多美國人反對警方車牌辨識攝影機，而非支持：調查</title>
       <link>https://techcrunch.com/2026/08/28/more-americans-oppose-police-license-plate-cameras-than-support-them-survey/</link>
@@ -306,15 +327,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 8 月的 Demand Gen Drop，運用新的訊息、旅遊和創意功能來帶動高品質潛在客戶並獲取顧客。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 的 AI 模式現在可以追蹤機票價格、協助訂飯店等</title>
-      <link>https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157691</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這些更新顯示，Google 正在將 AI 模式定位為某種 AI 旅遊代理，因為它已不再只是幫使用者找資訊，而是開始實際處理旅程規劃和訂房流程的一部分。</description>
     </item>
     <item>
       <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
@@ -709,18 +721,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemma 4 Good Challenge 的得獎作品。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用 Maps、Search 和 Gemini 一起慶祝國家公園 110 週年</title>
-      <link>https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/</guid>
-      <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>國家公園週前夕大家都在搜尋什麼，以及 Google 如何幫你把想旅行的心情變成規劃完善的冒險。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" alt=""></p><p>國家公園週前夕大家都在搜尋什麼，以及 Google 如何幫你把想旅行的心情變成規劃完善的冒險。</p>]]></content:encoded>
     </item>
     <item>
       <title>XPU 如何成為世界級 AI 工廠</title>
