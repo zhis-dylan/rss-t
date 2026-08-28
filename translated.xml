@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 28 Aug 2026 22:32:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 22:47:59 GMT</lastBuildDate>
+    <item>
+      <title>戴著一副太陽眼鏡看電影是最好的方式嗎？</title>
+      <link>https://techcrunch.com/2026/08/28/is-the-best-way-to-watch-a-movie-on-a-pair-of-sunglasses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158066</guid>
+      <pubDate>Fri, 28 Aug 2026 22:42:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>XREAL 的智慧眼鏡會是家庭娛樂的未來嗎？</description>
+    </item>
     <item>
       <title>Neocloud Lambda 籌得 10 億美元債務資金以購買更多晶片</title>
       <link>https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/</link>
@@ -246,15 +255,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" alt=""></p><p>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>ATF 宣布為「重大事件」，因勒索軟體集團聲稱遭駭</title>
-      <link>https://techcrunch.com/2026/08/27/atf-declares-major-incident-as-ransomware-gang-claims-hack/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157923</guid>
-      <pubDate>Thu, 27 Aug 2026 17:54:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>ATF 是近年來最新一家通知國會其資安涉及「重大事件」的聯邦政府機構。</description>
     </item>
     <item>
       <title>慶祝美國 250 週年，從它的歷史走向未來</title>
