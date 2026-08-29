@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 29 Aug 2026 18:27:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:42:17 GMT</lastBuildDate>
+    <item>
+      <title>Sony Music、Warner 起訴 Anthropic，指控其進行「公然的」智慧財產盜竊行動</title>
+      <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158639</guid>
+      <pubDate>Sat, 29 Aug 2026 18:41:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這起最新訴訟的範圍特別廣，並聚焦於非法盜版的指控。</description>
+    </item>
     <item>
       <title>在 TechBBQ 上，歐洲的 AI 討論一直回到同一個問題：誰才真正掌控局面？</title>
       <link>https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/</link>
@@ -209,15 +218,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們決定在 Cursor 被 SpaceX 收購後，終止向其提供 OpenAI 模型的合約。</description>
-    </item>
-    <item>
-      <title>AI、運動員與 Keith Rabois：StrictlyVC 將於 9 月 10 日重返紐約</title>
-      <link>https://techcrunch.com/2026/08/27/ai-athletes-and-keith-rabois-strictlyvc-is-back-in-new-york-on-september-10/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158165</guid>
-      <pubDate>Fri, 28 Aug 2026 02:02:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>StrictlyVC 的精品晚間活動將於 9 月 10 日重返紐約西村，Keith Rabois、Craig Shapiro、Jason Levien、Tristan Walker、Brynn Putnam 和 Deven Parekh 將出席，內容涵蓋 AI、體育投資、社群建立、創投經濟與政治，整晚並備有雞尾酒、餐點與交流活動。</description>
     </item>
     <item>
       <title>支持泰國下一代 AI 新創公司</title>
