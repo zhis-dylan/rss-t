@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 29 Aug 2026 17:41:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:56:52 GMT</lastBuildDate>
+    <item>
+      <title>在 TechBBQ 上，歐洲的 AI 討論一直回到同一個問題：誰才真正掌控局面？</title>
+      <link>https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158394</guid>
+      <pubDate>Sat, 29 Aug 2026 17:51:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>來自歐洲各地的投資人、創辦人和營運者齊聚一年一度的北歐 TechBBQ 大會，討論人類要如何對 AI 保有主導權。</description>
+    </item>
     <item>
       <title>「我們一年不做 30 個押注」：Vijay Pande 談在管理 40 億美元之後改走小額押注</title>
       <link>https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/</link>
@@ -218,15 +227,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和泰國 MHESI 推出為期八週的加速器，協助 10 家健康、福祉與教育新創公司將 AI 原型轉化為值得信賴的產品。</description>
-    </item>
-    <item>
-      <title>Anthropic 與 OpenAI 將加入 TechCrunch Disrupt 2026 的 AI 舞台</title>
-      <link>https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3147648</guid>
-      <pubDate>Thu, 27 Aug 2026 23:16:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 TechCrunch Disrupt 2026 上，AI 舞台將再度登場，深入探討過去幾年社群中最熱門的單一話題，由 Google for Startups 贊助呈現。</description>
     </item>
     <item>
       <title>封閉式迴路冷卻解析：Meta AI 背後的管路系統</title>
