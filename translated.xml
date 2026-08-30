@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 30 Aug 2026 04:01:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 04:16:36 GMT</lastBuildDate>
     <item>
       <title>Sony Music、Warner 起訴 Anthropic，指控其進行「公然的」智慧財產盜竊行動</title>
       <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
@@ -59,6 +59,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>新一代資料中心系統正透過更聰明的流量控制來提升效率，而不只是增加更多處理器週期。</description>
+    </item>
+    <item>
+      <title>GNIS 在美國將 Lake Ontario／Lake America 更名後，會如何顯示在 Maps 中</title>
+      <link>https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/</guid>
+      <pubDate>Sat, 29 Aug 2026 04:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>美國地理名稱資訊系統（GNIS）已正式將「Lake Ontario」在美國境內的名稱改為「Lake America」。由於我們會更新 Google Maps …</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp" alt=""></p><p>美國地理名稱資訊系統（GNIS）已正式將「Lake Ontario」在美國境內的名稱改為「Lake America」。由於我們會更新 Google Maps …</p>]]></content:encoded>
     </item>
     <item>
       <title>中國車廠正跟進 Tesla 的押注，認為機器人是下一個獲利大機器</title>
@@ -718,18 +730,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemma 4 Good Challenge 的得獎作品。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>與 Maps、Search 和 Gemini 一起慶祝國家公園 110 週年</title>
-      <link>https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/</guid>
-      <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>國家公園週前夕大家都在搜尋什麼——以及 Google 如何幫助你把想去旅行的心情，變成一趟規劃完善的冒險。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" alt=""></p><p>國家公園週前夕大家都在搜尋什麼——以及 Google 如何幫助你把想去旅行的心情，變成一趟規劃完善的冒險。</p>]]></content:encoded>
     </item>
     <item>
       <title>XPU 如何成為世界級 AI 工廠</title>
