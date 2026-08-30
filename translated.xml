@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 30 Aug 2026 01:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:45:25 GMT</lastBuildDate>
     <item>
       <title>Sony Music、Warner 起訴 Anthropic，指控其進行「公然的」智慧財產盜竊行動</title>
       <link>https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/</link>
@@ -264,18 +264,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" alt=""></p><p>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>慶祝美國 250 週年，從它的歷史走向未來</title>
-      <link>https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/celebrating-250-years-of-america-from-its-history-to-its-future/</guid>
-      <pubDate>Thu, 27 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 和 YouTube 正在慶祝美國建國 250 週年。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_American250anniaversary_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_American250anniaversary_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_American250anniaversary_.max-600x600.format-webp.webp" alt=""></p><p>Google 和 YouTube 正在慶祝美國建國 250 週年。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
@@ -730,6 +718,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemma 4 Good Challenge 的得獎作品。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>與 Maps、Search 和 Gemini 一起慶祝國家公園 110 週年</title>
+      <link>https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/national-parks-week-google-2026/</guid>
+      <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>國家公園週前夕大家都在搜尋什麼——以及 Google 如何幫助你把想去旅行的心情，變成一趟規劃完善的冒險。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/National_Parks_110_years_heroso.max-600x600.format-webp.webp" alt=""></p><p>國家公園週前夕大家都在搜尋什麼——以及 Google 如何幫助你把想去旅行的心情，變成一趟規劃完善的冒險。</p>]]></content:encoded>
     </item>
     <item>
       <title>XPU 如何成為世界級 AI 工廠</title>
