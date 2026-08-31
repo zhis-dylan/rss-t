@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 31 Aug 2026 15:48:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:03:23 GMT</lastBuildDate>
+    <item>
+      <title>Clipto 使用 AI 搜尋數 TB 的影片，現在估值達 2.5 億美元</title>
+      <link>https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158701</guid>
+      <pubDate>Mon, 31 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家成立三年的新創公司表示，在完成最近這筆 1,500 萬美元融資前，已達到 1,500 萬美元的年度經常性收入（ARR）並實現獲利。</description>
+    </item>
     <item>
       <title>AI 可能讓政府更難使用駭客工具</title>
       <link>https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/</link>
@@ -209,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Neocloud Lambda 已透過私人債務籌得 10 億美元，用於購買 Nvidia AI 晶片並租賃給 Microsoft。這是其一連串貸款中的最新一筆，也凸顯了 AI 熱潮的高昂成本。</description>
-    </item>
-    <item>
-      <title>Anthropic 研究員剛剛讓我們一窺自我改進的 AI</title>
-      <link>https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158505</guid>
-      <pubDate>Fri, 28 Aug 2026 19:30:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 10 項針對特定錯位行為的基準測試中，這些自動化系統都能在不降低整體表現的情況下，提升每一項的表現。</description>
     </item>
     <item>
       <title>我們正在為 Gemini Notebook 推出彈性使用限制。</title>
@@ -834,15 +834,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/6456122da2740b9472826cba264217c9/6a86fa953d63320a4ddc7796_GFN_Thursday-Firefox-842x450/GFN_Thursday-Firefox-842x450_thmb.jpg?v=9faec63e-5a29-449d-bfa4-5c0e82aa3feb" alt=""></p><p>這是進入雲端的新方式。GeForce NOW 開放雲端支援 Firefox，讓你又多一種方式，直接從瀏覽器進入高效能 PC 遊戲，從今天開始。不論是在學校筆電還是日常使用的 PC 上，現在都能更輕鬆地遊玩支援的 PC 遊戲，而不必下載專用應用程式。還有，發掘 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>介紹智慧時代</title>
-      <link>https://openai.com/index/introducing-intelligence-age</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-intelligence-age</guid>
-      <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>介紹智慧時代，一個新的 OpenAI 部落格，探討變革性的 AI 如何重塑權力、治理、經濟和個人自由。</description>
-    </item>
-    <item>
       <title>介紹 AI Futures</title>
       <link>https://openai.com/index/introducing-ai-futures</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-ai-futures</guid>
@@ -850,6 +841,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>介紹 AI Futures，一個新的 OpenAI 部落格，探討變革性的 AI 如何重塑權力、治理、經濟，以及個人自由。</description>
+    </item>
+    <item>
+      <title>介紹智慧時代</title>
+      <link>https://openai.com/index/introducing-intelligence-age</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-intelligence-age</guid>
+      <pubDate>Thu, 20 Aug 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>介紹智慧時代，一個新的 OpenAI 部落格，探討變革性的 AI 如何重塑權力、治理、經濟和個人自由。</description>
     </item>
     <item>
       <title>ChatGPT Work 如何協助 Stampli 將想法推向市場</title>
@@ -1160,15 +1160,6 @@
       <description>Apple Arcade 透過 Block Blast+ 和 Art of Fauna: Cozy Puzzles+ 擴充其熱門益智遊戲目錄。</description>
     </item>
     <item>
-      <title>在 ChatGPT 中測試廣告</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
-    </item>
-    <item>
       <title>Daybreak 模型現已在 AWS 上提供</title>
       <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
       <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
@@ -1176,6 +1167,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1223,13 +1223,13 @@
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
       <title>ChatGPT Business 即將推出進階席位</title>
@@ -1241,13 +1241,13 @@
       <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
-      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1707,15 +1707,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解企業如何透過衡量每一美元所帶來的有效工作量、提升效率，以及擴展高價值工作流程，來管理 agentic 時代的 AI 投資。</description>
     </item>
     <item>
-      <title>資料科學團隊如何使用 ChatGPT 工作</title>
-      <link>https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解資料科學團隊如何使用 ChatGPT 工作，從實際工作輸入建立根因簡報、影響摘要、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
-    </item>
-    <item>
       <title>銷售團隊如何使用 ChatGPT 工作</title>
       <link>https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</link>
       <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</guid>
@@ -1723,6 +1714,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解銷售團隊如何使用 ChatGPT 工作，從實際工作輸入建立管線簡報、會議準備資料包、預測檢視、客戶計畫，以及停滯交易診斷。</description>
+    </item>
+    <item>
+      <title>資料科學團隊如何使用 ChatGPT 工作</title>
+      <link>https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</link>
+      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解資料科學團隊如何使用 ChatGPT 工作，從實際工作輸入建立根因簡報、影響摘要、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
@@ -1761,13 +1761,13 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解 GPT-5.6 如何透過更強的 AI 能力驅動 Microsoft 365 Copilot，涵蓋 Word、Excel、PowerPoint、Chat 和 Cowork，讓工作更快、品質更高。</description>
     </item>
     <item>
-      <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
-      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
+      <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
+      <link>https://openai.com/index/gpt-5-6</link>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
       <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Work 是一個 agent，可以跨你的應用程式和檔案採取行動，必要時能持續跟進一個專案數小時，並把一個目標變成完成的成果。</description>
+      <description>每個 token 都有更多智慧、每美元帶來更強的效能，並在你最棘手的工作上按需提供更多能力。</description>
     </item>
     <item>
       <title>GPT-5.5 生物漏洞獎勵計畫</title>
@@ -1779,13 +1779,13 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>OpenAI 生物獎勵計畫的詳細資訊</description>
     </item>
     <item>
-      <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
-      <link>https://openai.com/index/gpt-5-6</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
+      <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
+      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
       <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>每個 token 都有更多智慧、每美元帶來更強的效能，並在你最棘手的工作上按需提供更多能力。</description>
+      <description>ChatGPT Work 是一個 agent，可以跨你的應用程式和檔案採取行動，必要時能持續跟進一個專案數小時，並把一個目標變成完成的成果。</description>
     </item>
     <item>
       <title>Apple 獲得創紀錄的 89 項艾美獎提名</title>
@@ -1889,15 +1889,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <description>新的 OpenAI Signals 資料顯示 ChatGPT 的採用正在全球成長，使用者持續增加使用量、探索更多功能，並帶動各地區與語言的成長。</description>
     </item>
     <item>
-      <title>核心傾印流行病學：修復一個 18 年的舊錯誤</title>
-      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
-      <guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
-    </item>
-    <item>
       <title>介紹 GeneBench-Pro</title>
       <link>https://openai.com/index/introducing-genebench-pro</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-genebench-pro</guid>
@@ -1905,6 +1896,15 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>介紹 GeneBench-Pro，一個新的基準測試，使用複雜的真實世界資料集來測試 AI 在基因組學、生物學和科學研究方面的表現。</description>
+    </item>
+    <item>
+      <title>核心傾印流行病學：修復一個 18 年的舊錯誤</title>
+      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
+      <guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
     </item>
     <item>
       <title>Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力</title>
