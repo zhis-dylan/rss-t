@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 31 Aug 2026 12:31:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:46:24 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms</guid>
+      <pubDate>Mon, 31 Aug 2026 12:30:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 與聯發科技今日宣布，雙方長期合作關係進一步深化，將共同打造下一代 AI 運算平台，涵蓋 AI 基礎設施、本地 AI 運算以及車用領域。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2" alt=""></p><p>NVIDIA 與聯發科技今日宣布，雙方長期合作關係進一步深化，將共同打造下一代 AI 運算平台，涵蓋 AI 基礎設施、本地 AI 運算以及車用領域。</p>]]></content:encoded>
+    </item>
     <item>
       <title>美國正在 drones 和 robots 周圍築起壁壘，但中國有規模優勢可以繞過它們</title>
       <link>https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/</link>
@@ -1128,18 +1140,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 RingCentral 如何運用 ChatGPT 工作與 Codex，加速 AI 產品開發，並將營運智慧集中於工程與營運之間。</description>
-    </item>
-    <item>
-      <title>為什麼擴展 AI 運算效能需要新的電力架構</title>
-      <link>https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/800-vdc-power-architecture-ai-factory/</guid>
-      <pubDate>Tue, 11 Aug 2026 15:00:06 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>每一代新的加速運算都讓底層基礎設施需要承擔更多——更高的運算效能、更高的機櫃密度，以及更有效率、可擴充的配電。瓶頸不只是瓦數，而是電力如何從電網送到 GPU。在傳統供電方式中，電力會以交流電（AC）從電網傳輸 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/dc4adb5e93d27f63890053bc3c14f8d4/6a7b392e3d6332a5b3372d6c_800vdc-842x450/800vdc-842x450_thmb.jpg?v=e29bfc46-2ac2-49b9-b68d-1b5fbdf7c023" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/dc4adb5e93d27f63890053bc3c14f8d4/6a7b392e3d6332a5b3372d6c_800vdc-842x450/800vdc-842x450_thmb.jpg?v=e29bfc46-2ac2-49b9-b68d-1b5fbdf7c023"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/dc4adb5e93d27f63890053bc3c14f8d4/6a7b392e3d6332a5b3372d6c_800vdc-842x450/800vdc-842x450_thmb.jpg?v=e29bfc46-2ac2-49b9-b68d-1b5fbdf7c023" alt=""></p><p>每一代新的加速運算都讓底層基礎設施需要承擔更多——更高的運算效能、更高的機櫃密度，以及更有效率、可擴充的配電。瓶頸不只是瓦數，而是電力如何從電網送到 GPU。在傳統供電方式中，電力會以交流電（AC）從電網傳輸 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Arcade 透過 Block Blast!+ 和 Art of Fauna: Cozy Puzzles+ 再升級</title>
