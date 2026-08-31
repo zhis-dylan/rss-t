@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 31 Aug 2026 22:53:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 23:08:33 GMT</lastBuildDate>
     <item>
       <title>由 Andreessen、Horowitz 和 Brockman 資助的一個團體計劃用資料中心廣告影響期中選舉</title>
       <link>https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Build American AI 計劃花費數百萬美元投放廣告，向特定州的選民遊說資料中心的好處。</description>
+    </item>
+    <item>
+      <title>將 Google Antigravity 與 Gemini 3.7 Flash 配對，可解決值得注意的多代理數學與工程問題。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/antigravity-teamwork-multi-agent/</guid>
+      <pubDate>Mon, 31 Aug 2026 22:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 3.7 Flash 為 Antigravity 中的自主代理團隊提供動力，用來解決開放數學問題、建立 CPU 模擬器，以及最佳化 OSS。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp" alt=""></p><p>Gemini 3.7 Flash 為 Antigravity 中的自主代理團隊提供動力，用來解決開放數學問題、建立 CPU 模擬器，以及最佳化 OSS。</p>]]></content:encoded>
     </item>
     <item>
       <title>FTC 指控 Amazon 在新訴訟中操作「秘密廣告加價方案」</title>
@@ -739,18 +751,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 ChatGPT Work 與 Codex 的 Admin 外掛來分析工作區使用情況、管理成員和權限、調整限制，並處理管理員請求。</description>
-    </item>
-    <item>
-      <title>開發者如何運用 Gemma 4 打造 AI 向善</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/winning-entries-gemma-4-good-challenge/</guid>
-      <pubDate>Mon, 24 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看 Gemma 4 Good Challenge 的得獎作品。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemma4good_blog_header.max-600x600.format-webp.webp" alt=""></p><p>看看 Gemma 4 Good Challenge 的得獎作品。</p>]]></content:encoded>
     </item>
     <item>
       <title>XPU 如何成為世界級 AI 工廠</title>
