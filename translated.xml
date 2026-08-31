@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 31 Aug 2026 20:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 20:22:11 GMT</lastBuildDate>
+    <item>
+      <title>FTC 指控 Amazon 在新訴訟中操作「秘密廣告加價方案」</title>
+      <link>https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159372</guid>
+      <pubDate>Mon, 31 Aug 2026 20:20:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 正面臨 FTC 和 22 個州提起的新訴訟，指控其涉嫌偷偷向企業收取更高的廣告費用。</description>
+    </item>
+    <item>
+      <title>五角大廈現在有了自己的 ChatGPT 和 Grok 版本</title>
+      <link>https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158932</guid>
+      <pubDate>Mon, 31 Aug 2026 20:13:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 的 ChatGPT 和 SpaceXAI 的 Grok 版本，將與 Google 的 Gemini 一起加入五角大廈中央 AI 工具入口。</description>
+    </item>
     <item>
       <title>立即申請，在 TechCrunch Disrupt 2026 舉辦 Side Event</title>
       <link>https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/</link>
@@ -188,24 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Liux Big microcar 於西班牙製造。這家新創公司認為，它這款以永續性為核心打造的迷你電動車，能在競爭激烈的市場中一較高下。</description>
-    </item>
-    <item>
-      <title>馬斯克通往更多燃氣渦輪機的更快途徑，伴隨著污染問題</title>
-      <link>https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158648</guid>
-      <pubDate>Sun, 30 Aug 2026 16:54:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>伊隆・馬斯克表示，一座神祕的新 SpaceX 鑄造廠將讓他能自行鑄造渦輪葉片，並讓燃氣發電上線時間比其他任何人快 18 個月——但這是對一種燃料來源的押注，而這種燃料來源在他（以及其他人）的渦輪機所到之處，早已引發訴訟和健康研究。</description>
-    </item>
-    <item>
-      <title>TechCrunch Mobility：robotaxi 背後隱藏的人力成本</title>
-      <link>https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158566</guid>
-      <pubDate>Sun, 30 Aug 2026 16:03:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歡迎回到 TechCrunch Mobility，這裡是你掌握交通運輸未來的樞紐，也是在這個時代更能看見 AI 在其中扮演角色的地方。</description>
     </item>
     <item>
       <title>GNIS 在美國將 Lake Ontario／Lake America 更名後，會如何顯示在 Maps 中</title>
