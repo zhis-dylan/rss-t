@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 31 Aug 2026 17:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 17:19:50 GMT</lastBuildDate>
+    <item>
+      <title>Ryan Breslow 正在募資最多 2700 萬美元的 pay-to-play 橋接融資，試圖拯救 Bolt</title>
+      <link>https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158611</guid>
+      <pubDate>Mon, 31 Aug 2026 17:14:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家 checkout 新創的爭議性創辦人，這家公司曾經估值 110 億美元，正在投入他自己的 500 萬美元。</description>
+    </item>
     <item>
       <title>Tim Cook 的告別訊息：Apple 交到了一位產品打造者手中</title>
       <link>https://techcrunch.com/2026/08/31/tim-cooks-parting-message-apple-is-in-the-hands-of-a-product-builder/</link>
@@ -209,15 +218,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp" alt=""></p><p>美國地理名稱資訊系統（GNIS）已正式將「Lake Ontario」在美國境內的名稱改為「Lake America」。由於我們會更新 Google Maps …</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>中國車廠正跟進 Tesla 的押注，認為機器人是下一個獲利大機器</title>
-      <link>https://techcrunch.com/2026/08/28/chinese-automakers-are-following-teslas-bet-that-robots-are-the-next-big-profit-machine/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157765</guid>
-      <pubDate>Fri, 28 Aug 2026 23:24:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>技術進展促使一批新公司投入人形機器人帶來獲利的前景。而且它們全都是中國車廠。</description>
     </item>
     <item>
       <title>我們正在為 Gemini Notebook 推出彈性使用限制。</title>
