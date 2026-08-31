@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 31 Aug 2026 16:03:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:18:33 GMT</lastBuildDate>
+    <item>
+      <title>VLC 下載次數突破 70 億</title>
+      <link>https://techcrunch.com/2026/08/31/vlc-crosses-7-billion-downloads/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158698</guid>
+      <pubDate>Mon, 31 Aug 2026 16:07:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在這個串流平台都很昂貴的世界裡，這款完全免費且可離線使用的 VLC 媒體播放器，下載次數已突破 70 億。</description>
+    </item>
     <item>
       <title>Clipto 使用 AI 搜尋數 TB 的影片，現在估值達 2.5 億美元</title>
       <link>https://techcrunch.com/2026/08/31/three-year-old-ai-media-search-startup-clipto-hits-a-250m-valuation/</link>
@@ -209,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>XREAL 的智慧眼鏡會是家庭娛樂的未來嗎？</description>
-    </item>
-    <item>
-      <title>Neocloud Lambda 籌得 10 億美元債務資金以購買更多晶片</title>
-      <link>https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158531</guid>
-      <pubDate>Fri, 28 Aug 2026 20:24:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Neocloud Lambda 已透過私人債務籌得 10 億美元，用於購買 Nvidia AI 晶片並租賃給 Microsoft。這是其一連串貸款中的最新一筆，也凸顯了 AI 熱潮的高昂成本。</description>
     </item>
     <item>
       <title>我們正在為 Gemini Notebook 推出彈性使用限制。</title>
