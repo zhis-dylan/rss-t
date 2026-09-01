@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 05:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 05:26:43 GMT</lastBuildDate>
     <item>
       <title>Magna 以 3,500 萬美元加碼印度換電業務，投資 Yuma</title>
       <link>https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/</link>
@@ -209,6 +209,15 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2" alt=""></p><p>NVIDIA 與聯發科技今日宣布，雙方長期合作關係進一步深化，將共同打造下一代 AI 運算平台，涵蓋 AI 基礎設施、本地 AI 運算以及車用領域。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI 支持加州推動青少年 AI 安全的法案</title>
+      <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
+      <guid isPermaLink="false">https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
+      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 支持加州 SB 1119，推動強而有力、符合年齡的 AI 安全防護，保護青少年，同時保留學習、創作與探索的機會。</description>
     </item>
     <item>
       <title>Polimill 打造日本下一代公共 AI 基礎設施</title>
@@ -541,15 +550,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>今天，我們宣布與來自美國各州、屬地及哥倫比亞特區的 51 位兩黨檢察總長達成協議，延續我們長期以來賦權家長並支持青少年的努力。<br>這篇〈我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -557,6 +557,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Google 在全球智慧財產權論壇</title>
@@ -1160,15 +1169,6 @@
       <description>Apple Arcade 透過 Block Blast+ 和 Art of Fauna: Cozy Puzzles+ 擴充其熱門益智遊戲目錄。</description>
     </item>
     <item>
-      <title>在 ChatGPT 中測試廣告</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
-    </item>
-    <item>
       <title>Daybreak 模型現已在 AWS 上提供</title>
       <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
       <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
@@ -1176,6 +1176,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1223,13 +1232,13 @@
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
+      <title>ChatGPT Business 即將推出進階席位</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
       <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
@@ -1241,13 +1250,13 @@
       <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
-      <title>ChatGPT Business 即將推出進階席位</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
+      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1761,13 +1770,13 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解 GPT-5.6 如何透過更強的 AI 能力驅動 Microsoft 365 Copilot，涵蓋 Word、Excel、PowerPoint、Chat 和 Cowork，讓工作更快、品質更高。</description>
     </item>
     <item>
-      <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
-      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
+      <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
+      <link>https://openai.com/index/gpt-5-6</link>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
       <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Work 是一個 agent，可以跨你的應用程式和檔案採取行動，必要時能持續跟進一個專案數小時，並把一個目標變成完成的成果。</description>
+      <description>每個 token 都有更多智慧、每美元帶來更強的效能，並在你最棘手的工作上按需提供更多能力。</description>
     </item>
     <item>
       <title>GPT-5.5 生物漏洞獎勵計畫</title>
@@ -1779,13 +1788,13 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>OpenAI 生物獎勵計畫的詳細資訊</description>
     </item>
     <item>
-      <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
-      <link>https://openai.com/index/gpt-5-6</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
+      <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
+      <link>https://openai.com/index/chatgpt-for-your-most-ambitious-work</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-for-your-most-ambitious-work</guid>
       <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>每個 token 都有更多智慧、每美元帶來更強的效能，並在你最棘手的工作上按需提供更多能力。</description>
+      <description>ChatGPT Work 是一個 agent，可以跨你的應用程式和檔案採取行動，必要時能持續跟進一個專案數小時，並把一個目標變成完成的成果。</description>
     </item>
     <item>
       <title>Apple 獲得創紀錄的 89 項艾美獎提名</title>
@@ -1887,15 +1896,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的 OpenAI Signals 資料顯示 ChatGPT 的採用正在全球成長，使用者持續增加使用量、探索更多功能，並帶動各地區與語言的成長。</description>
-    </item>
-    <item>
-      <title>核心傾印流行病學：修復一個 18 年的舊錯誤</title>
-      <link>https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</link>
-      <guid isPermaLink="false">https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 工程師使用大規模核心傾印分析來除錯罕見的基礎架構當機，找出一個硬體故障與一個長期存在的軟體錯誤。</description>
     </item>
     <item>
       <title>介紹 GeneBench-Pro</title>
