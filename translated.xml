@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:33:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:48:31 GMT</lastBuildDate>
+    <item>
+      <title>Google 對 Canva 的回應是一個 AI 工具，你用提示詞而不是設計</title>
+      <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159727</guid>
+      <pubDate>Tue, 01 Sep 2026 17:35:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>透過 Google Pics，Google 正更深入進入由 Canva 和 Adobe 主導的創意軟體市場，但採用的是截然不同的 AI 優先方式。</description>
+    </item>
     <item>
       <title>AI 原生公司如何將工作流程轉化為營運能力</title>
       <link>https://openai.com/index/ai-native-company-workflows</link>
@@ -218,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Andreessen Horowitz 張開手，又帶著數十億美元的新基金回來投資新創公司。</description>
-    </item>
-    <item>
-      <title>由 Andreessen、Horowitz 和 Brockman 資助的一個團體計劃用資料中心廣告影響期中選舉</title>
-      <link>https://techcrunch.com/2026/08/31/a-group-funded-by-andreessen-horowitz-and-brockman-plan-data-center-ads-to-sway-midterms/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159355</guid>
-      <pubDate>Mon, 31 Aug 2026 22:14:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Build American AI 計劃花費數百萬美元投放廣告，向特定州的選民遊說資料中心的好處。</description>
     </item>
     <item>
       <title>將 Google Antigravity 與 Gemini 3.7 Flash 配對，可解決值得注意的多代理數學與工程問題。</title>
