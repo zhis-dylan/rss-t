@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 19:34:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:49:47 GMT</lastBuildDate>
+    <item>
+      <title>John Ternus 在首次以 Apple 執行長身分發出的備忘錄中大肆宣傳「下週的大型發表」</title>
+      <link>https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159848</guid>
+      <pubDate>Tue, 01 Sep 2026 19:45:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 將在下週舉辦 iPhone 發表活動，據傳將首次推出可摺疊 iPhone。</description>
+    </item>
+    <item>
+      <title>Anthropic 的新 Fable 版本更便宜、限制更少</title>
+      <link>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159842</guid>
+      <pubDate>Tue, 01 Sep 2026 19:39:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Fable 5.1 包含一些變更，旨在降低 token 成本，並減少模型安全防護機制的誤判限制。</description>
+    </item>
     <item>
       <title>Thrive 的 Kushner 為涉入 FIFA 亂局辯護，聘請 Elon 的御用律師</title>
       <link>https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/</link>
@@ -233,24 +251,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>隨著這家加拿大汽車供應商提高在這家印度換電公司的多數股權，Magna 對 Yuma Energy 的投資已達 8,700 萬美元。</description>
-    </item>
-    <item>
-      <title>Lachy Groom 支持印度新創，目標讓飛機在空中停留一年</title>
-      <link>https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158726</guid>
-      <pubDate>Tue, 01 Sep 2026 00:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由一名 20 歲創立的 Alteon 正在開發自主飛機，希望透過收集風能，讓飛機在空中停留數個月。</description>
-    </item>
-    <item>
-      <title>Apple 分享指控前員工為 OpenAI 竊取公司資料的「震驚證據」</title>
-      <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159449</guid>
-      <pubDate>Tue, 01 Sep 2026 00:13:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 表示，有證據顯示一名前員工在得知自己正接受調查後，銷毀了資料竊取的證據。</description>
     </item>
     <item>
       <title>將 Google Antigravity 與 Gemini 3.7 Flash 配對，可解決值得注意的多代理數學與工程問題。</title>
