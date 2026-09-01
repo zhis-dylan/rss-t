@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:04:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:20:04 GMT</lastBuildDate>
     <item>
       <title>John Ternus 在首次以 Apple 執行長身分發出的備忘錄中大肆宣傳「下週的大型發表」</title>
       <link>https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/</link>
@@ -224,6 +224,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>「我們是在高峰時募資，但最後卻只用當時估值的一小部分賣掉，」Unacademy 共同創辦人兼執行長 Gaurav Munjal 寫道。「我不會粉飾這些事實。」</description>
+    </item>
+    <item>
+      <title>Astra 之路：關鍵能力與前沿防護措施</title>
+      <link>https://openai.com/index/path-to-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/path-to-astra</guid>
+      <pubDate>Tue, 01 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Astra 是第一個符合準備框架下關鍵網路安全能力門檻的 OpenAI 模型，並在發布時具備更強的防護措施。</description>
     </item>
     <item>
       <title>醫療機構現在可以將電子病歷（EHR）和其他產業資料連接到 ChatGPT</title>
@@ -1187,15 +1196,6 @@
       <description>Apple Arcade 透過 Block Blast+ 和 Art of Fauna: Cozy Puzzles+ 擴充其熱門益智遊戲目錄。</description>
     </item>
     <item>
-      <title>Daybreak 模型現已在 AWS 上提供</title>
-      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
-      <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
-    </item>
-    <item>
       <title>在 ChatGPT 中測試廣告</title>
       <link>https://openai.com/index/testing-ads-in-chatgpt</link>
       <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
@@ -1203,6 +1203,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
+    </item>
+    <item>
+      <title>Daybreak 模型現已在 AWS 上提供</title>
+      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+      <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1250,15 +1259,6 @@
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
-    </item>
-    <item>
       <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
       <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
       <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
@@ -1266,6 +1266,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+    </item>
+    <item>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
       <title>ChatGPT Business 即將推出進階席位</title>
@@ -1734,15 +1743,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解企業如何透過衡量每一美元所帶來的有效工作量、提升效率，以及擴展高價值工作流程，來管理 agentic 時代的 AI 投資。</description>
     </item>
     <item>
-      <title>銷售團隊如何使用 ChatGPT 工作</title>
-      <link>https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解銷售團隊如何使用 ChatGPT 工作，從實際工作輸入建立管線簡報、會議準備資料包、預測檢視、客戶計畫，以及停滯交易診斷。</description>
-    </item>
-    <item>
       <title>資料科學團隊如何使用 ChatGPT 工作</title>
       <link>https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</link>
       <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</guid>
@@ -1750,6 +1750,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解資料科學團隊如何使用 ChatGPT 工作，從實際工作輸入建立根因簡報、影響摘要、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
+    </item>
+    <item>
+      <title>銷售團隊如何使用 ChatGPT 工作</title>
+      <link>https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</link>
+      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解銷售團隊如何使用 ChatGPT 工作，從實際工作輸入建立管線簡報、會議準備資料包、預測檢視、客戶計畫，以及停滯交易診斷。</description>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
@@ -1797,15 +1806,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>ChatGPT Work 是一個 agent，可以跨你的應用程式和檔案採取行動，必要時能持續跟進一個專案數小時，並把一個目標變成完成的成果。</description>
     </item>
     <item>
-      <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
-      <link>https://openai.com/index/gpt-5-6</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>每個 token 都有更多智慧、每美元帶來更強的效能，並在你最棘手的工作上按需提供更多能力。</description>
-    </item>
-    <item>
       <title>GPT-5.5 生物漏洞獎勵計畫</title>
       <link>https://openai.com/index/bio-bug-bounty</link>
       <guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
@@ -1813,6 +1813,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 生物獎勵計畫的詳細資訊</description>
+    </item>
+    <item>
+      <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
+      <link>https://openai.com/index/gpt-5-6</link>
+      <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>每個 token 都有更多智慧、每美元帶來更強的效能，並在你最棘手的工作上按需提供更多能力。</description>
     </item>
     <item>
       <title>Apple 獲得創紀錄的 89 項艾美獎提名</title>
@@ -1867,15 +1876,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新一代語音模型，實現自然的人機互動，現在為 ChatGPT Voice 提供支援。</description>
-    </item>
-    <item>
-      <title>Australian Payments Plus 透過 ChatGPT 和 Codex 加快腳步</title>
-      <link>https://openai.com/index/australian-payments-plus</link>
-      <guid isPermaLink="false">https://openai.com/index/australian-payments-plus</guid>
-      <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>看看 Australian Payments Plus 如何運用 ChatGPT Enterprise 和 Codex，更快因應支付領域的複雜性。AP+ 節省時間、提升品質，並讓人類判斷始終居於核心。</description>
     </item>
     <item>
       <title>我們公司轉型的最新進展</title>
