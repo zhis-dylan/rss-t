@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 00:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 00:39:29 GMT</lastBuildDate>
+    <item>
+      <title>Lachy Groom 支持印度新創，目標讓飛機在空中停留一年</title>
+      <link>https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158726</guid>
+      <pubDate>Tue, 01 Sep 2026 00:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由一名 20 歲創立的 Alteon 正在開發自主飛機，希望透過收集風能，讓飛機在空中停留數個月。</description>
+    </item>
     <item>
       <title>Apple 分享指控前員工為 OpenAI 竊取公司資料的「震驚證據」</title>
       <link>https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Nvidia 向台灣晶片製造商 MediaTek 投資 35 億美元。這筆交易顯示，隨著大型科技公司開始打造自己的 AI 晶片，Nvidia 打算如何維持自己在 AI 基礎設施中的關鍵地位。</description>
-    </item>
-    <item>
-      <title>MapQuest 的 app 在拒絕將安大略湖改名後，衝上導航類第 1 名</title>
-      <link>https://techcrunch.com/2026/08/31/mapquests-app-surges-to-no-1-in-navigation-after-refusing-to-rename-lake-ontario/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158716</guid>
-      <pubDate>Mon, 31 Aug 2026 14:51:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>MapQuest 因為拒絕配合川普總統將安大略湖改名的決定，意外獲得一波成長。</description>
     </item>
     <item>
       <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
