@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:31:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:47:04 GMT</lastBuildDate>
+    <item>
+      <title>AIR 募得 5000 萬美元，協助公司審核 AI 代理使用的技能與附加功能</title>
+      <link>https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159543</guid>
+      <pubDate>Tue, 01 Sep 2026 15:45:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AIR 的平台可以偵測公司內正在運行的代理，持續審核它們使用的任何技能與附加功能，並阻擋任何不受歡迎的行為。</description>
+    </item>
     <item>
       <title>Microsoft 365 當機持續延燒，但情況正在改善</title>
       <link>https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這位資深主管目前還不會離開 Apple，但公司員工表示，這代表他離退休又更近一步了。</description>
-    </item>
-    <item>
-      <title>Microsoft 測試最新數小時 Outlook 當機的修復方案</title>
-      <link>https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158924</guid>
-      <pubDate>Mon, 31 Aug 2026 18:56:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 表示，正在測試修復方案，以解決大規模的 Outlook 問題，這些問題已導致電子郵件延遲和寄送失敗。</description>
     </item>
     <item>
       <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
