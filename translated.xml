@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:16:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:31:44 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 365 當機持續延燒，但情況正在改善</title>
+      <link>https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159615</guid>
+      <pubDate>Tue, 01 Sep 2026 15:23:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 365 和 Outlook 在週二仍出現服務降級，該公司狀態頁面顯示。</description>
+    </item>
     <item>
       <title>Fambot 推出給家庭使用的「AI幕僚長」</title>
       <link>https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Microsoft 表示，正在測試修復方案，以解決大規模的 Outlook 問題，這些問題已導致電子郵件延遲和寄送失敗。</description>
-    </item>
-    <item>
-      <title>Kalshi 因國情咨文押注案終身禁止 George Santos 使用</title>
-      <link>https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158848</guid>
-      <pubDate>Mon, 31 Aug 2026 18:53:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項紀律處分發生在商品期貨交易委員會與 Santos 達成和解、處理相關指控兩個月後。</description>
     </item>
     <item>
       <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
