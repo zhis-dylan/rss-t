@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 15:47:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 16:02:22 GMT</lastBuildDate>
+    <item>
+      <title>試試 Google Pics：在 Google Workspace 中輕鬆建立與編輯圖片</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-pics/</guid>
+      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>GoPro 將以 2.85 億美元被收購，將保持上市公司身分</title>
+      <link>https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159626</guid>
+      <pubDate>Tue, 01 Sep 2026 15:57:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>GoPro 正與一家打造 AI 基礎設施的公司合併，並將持續支援現有的消費性產品。</description>
+    </item>
+    <item>
+      <title>Amazon Alexa 現在可以在有新東西可能吸引你購物時提醒你</title>
+      <link>https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159627</guid>
+      <pubDate>Tue, 01 Sep 2026 15:51:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 正在加入一項由 Alexa 驅動的新功能，名為「Update Me When」，可針對產品發表、巡演、書籍、節目及其他可能引發購買的活動，傳送個人化提醒。</description>
+    </item>
     <item>
       <title>AIR 募得 5000 萬美元，協助公司審核 AI 代理使用的技能與附加功能</title>
       <link>https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/</link>
@@ -179,24 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>請在 9 月 4 日前申請，透過舉辦自己的 Side Event 成為 TechCrunch Disrupt 社群的一份子。</description>
-    </item>
-    <item>
-      <title>Instagram 對未揭露的 AI 個人檔案設定新限制</title>
-      <link>https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158959</guid>
-      <pubDate>Mon, 31 Aug 2026 19:16:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著人們對 AI 網紅的反感日益增加，Instagram 正在限制未揭露的 AI 個人檔案的觸及範圍。</description>
-    </item>
-    <item>
-      <title>Apple 的 App Store 最高主管 Phil Schiller 隨著執行長 Tim Cook 辭職而加入離職潮</title>
-      <link>https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158834</guid>
-      <pubDate>Mon, 31 Aug 2026 19:02:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這位資深主管目前還不會離開 Apple，但公司員工表示，這代表他離退休又更近一步了。</description>
     </item>
     <item>
       <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
@@ -488,18 +500,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA（NASDAQ: NVDA）今日公布截至 2026 年 7 月 26 日止第二季營收為 962 億美元，較前一季成長 18%，較去年同期成長 106%。該季度，GAAP ...</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
@@ -510,6 +510,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
     </item>
     <item>
       <title>28 家新創運用 AI 轉型能源產業</title>
@@ -690,18 +702,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 宣布推出全新 Mac Studio，搭載 M5 Max 與全新的 M5 Ultra，在 AI 效能上帶來巨大飛躍，圖形處理速度也更快。</description>
-    </item>
-    <item>
-      <title>我們正與德拉瓦州合作，提供免費的 AI 和職涯培訓。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-delaware/</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 與德拉瓦州合作，向全州居民提供免費的職涯證書與 AI 培訓。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GwG_Institutions_LinkedIn_Delaw.max-600x600.format-webp_N2fitPQ.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GwG_Institutions_LinkedIn_Delaw.max-600x600.format-webp_N2fitPQ.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GwG_Institutions_LinkedIn_Delaw.max-600x600.format-webp_N2fitPQ.webp" alt=""></p><p>Google 與德拉瓦州合作，向全州居民提供免費的職涯證書與 AI 培訓。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 發表更強大的 Mac mini，搭載全新的 M6 和 M5 Pro</title>
