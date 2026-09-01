@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:50:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:05:36 GMT</lastBuildDate>
+    <item>
+      <title>Google 的 Android 更新著手改善暈車、無障礙功能等</title>
+      <link>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159905</guid>
+      <pubDate>Tue, 01 Sep 2026 20:53:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>即將推出的 Android 新功能旨在減少暈車、協助視障使用者探索周遭環境，還有更多。</description>
+    </item>
     <item>
       <title>X 表示在推出 X Money 後，攻擊者正鎖定使用者帳號</title>
       <link>https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/</link>
@@ -14,6 +23,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>X 正在調查一波未經要求的密碼重設電子郵件，該公司認為這些郵件可能與其新支付服務的上線有關。</description>
+    </item>
+    <item>
+      <title>我們在 2026 年 8 月宣布的最新 AI 新聞</title>
+      <link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</guid>
+      <pubDate>Tue, 01 Sep 2026 20:45:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>以下是 Google 在 2026 年 8 月的最新 AI 更新</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 在 2026 年 8 月的最新 AI 更新</p>]]></content:encoded>
     </item>
     <item>
       <title>深入 Meta 的基礎設施實驗室</title>
@@ -134,18 +155,6 @@
       <description>這家新創想為 IT 基礎設施做出像 Cursor 為軟體工程所做的事。</description>
     </item>
     <item>
-      <title>試試 Google Pics：在 Google Workspace 中輕鬆建立與編輯圖片</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-pics/</guid>
-      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>問科學家：研究人員如何使用 AI 預測氣旋？</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</guid>
@@ -156,6 +165,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>試試 Google Pics：在 Google Workspace 中輕鬆建立與編輯圖片</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-pics/</guid>
+      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</p>]]></content:encoded>
     </item>
     <item>
       <title>GoPro 將以 2.85 億美元被收購，將保持上市公司身分</title>
@@ -264,15 +285,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT 現在可以連接到可信的醫療保健資料，幫助臨床人員安全地存取病患背景資訊、醫學研究等內容。</description>
-    </item>
-    <item>
-      <title>如果太空資料中心聽起來很不切實際，那為什麼不考慮星際旅行？</title>
-      <link>https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159412</guid>
-      <pubDate>Tue, 01 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>打造 Starcloud 軌道資料中心的團隊有一個新的高風險太空計畫：將探測器送往半人馬座阿爾法星。</description>
     </item>
     <item>
       <title>將 Google Antigravity 與 Gemini 3.7 Flash 配對，可解決值得注意的多代理數學與工程問題。</title>
@@ -417,6 +429,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" alt=""></p><p>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</p>]]></content:encoded>
     </item>
     <item>
+      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Gemini Omni 1.1 Flash 讓你能以更多控制來進行建構</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</guid>
@@ -451,18 +475,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" alt=""></p><p>在 Google I/O，我們在 Google Flow 中推出了 Gemini Omni Flash，為創作者帶來新的影片編輯能力。今天我們正透過 Gemini Omni 1.1 Fl…推出更新。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 8 月的 Demand Gen Drop，以新方式接觸你的受眾。</title>
@@ -576,18 +588,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA（NASDAQ: NVDA）今日公布截至 2026 年 7 月 26 日止第二季營收為 962 億美元，較前一季成長 18%，較去年同期成長 106%。該季度，GAAP ...</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
@@ -598,6 +598,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
     </item>
     <item>
       <title>28 家新創運用 AI 轉型能源產業</title>
@@ -684,18 +696,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 loveholidays 如何運用 OpenAI Codex，讓整個企業都能更容易進行軟體開發，協助團隊更快把點子變成產品。</description>
-    </item>
-    <item>
-      <title>Pixel 11 手機和 Pixel Watch 5 現在已可正式購買。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/buy-pixel-11-phones-pixel-5-watch/</guid>
-      <pubDate>Tue, 25 Aug 2026 20:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們全新的 Pixel 11 手機和 Pixel Watch 5 現在已在 Google 商店以及我們的零售合作夥伴通路上架。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp" alt=""></p><p>我們全新的 Pixel 11 手機和 Pixel Watch 5 現在已在 Google 商店以及我們的零售合作夥伴通路上架。</p>]]></content:encoded>
     </item>
     <item>
       <title>領先的發行商將重量級 PC 遊戲與技術帶到 NVIDIA RTX Spark</title>
