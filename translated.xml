@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 20:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 20:50:24 GMT</lastBuildDate>
+    <item>
+      <title>X 表示在推出 X Money 後，攻擊者正鎖定使用者帳號</title>
+      <link>https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159893</guid>
+      <pubDate>Tue, 01 Sep 2026 20:48:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>X 正在調查一波未經要求的密碼重設電子郵件，該公司認為這些郵件可能與其新支付服務的上線有關。</description>
+    </item>
     <item>
       <title>深入 Meta 的基礎設施實驗室</title>
       <link>https://about.fb.com/news/2026/09/inside-metas-infrastructure-lab/</link>
@@ -264,15 +273,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>打造 Starcloud 軌道資料中心的團隊有一個新的高風險太空計畫：將探測器送往半人馬座阿爾法星。</description>
-    </item>
-    <item>
-      <title>Magna 以 3,500 萬美元加碼印度換電業務，投資 Yuma</title>
-      <link>https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158855</guid>
-      <pubDate>Tue, 01 Sep 2026 05:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著這家加拿大汽車供應商提高在這家印度換電公司的多數股權，Magna 對 Yuma Energy 的投資已達 8,700 萬美元。</description>
     </item>
     <item>
       <title>將 Google Antigravity 與 Gemini 3.7 Flash 配對，可解決值得注意的多代理數學與工程問題。</title>
