@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 16:47:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 17:03:02 GMT</lastBuildDate>
+    <item>
+      <title>推出 Gemini 的代理式影片理解</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/</guid>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在最新的 Gemini 模型中推出代理式影片理解，以提升準確度並降低成本與 token 使用量。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" alt=""></p><p>我們正在最新的 Gemini 模型中推出代理式影片理解，以提升準確度並降低成本與 token 使用量。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>ChatGPT Health 新增 Epic 整合，供臨床醫師匯入病患資料</title>
+      <link>https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159529</guid>
+      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 表示，這項整合為臨床醫師提供健康紀錄的唯讀存取權限。</description>
+    </item>
+    <item>
+      <title>Waymo 在 Tesla 的 Cybercab 發表前先行出擊</title>
+      <link>https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3157658</guid>
+      <pubDate>Tue, 01 Sep 2026 16:49:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Waymo 主張，若不使用多種感測器，就不可能實現全自動駕駛車輛，並警告純端到端 AI 系統還不夠安全。</description>
+    </item>
     <item>
       <title>Sequoia 孵化的 Empirik 募得 2100 萬美元，預測故障在發生前就先知道</title>
       <link>https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</link>
@@ -191,24 +221,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teamwork_social.max-600x600.format-webp.webp" alt=""></p><p>Gemini 3.7 Flash 為 Antigravity 中的自主代理團隊提供動力，用來解決開放數學問題、建立 CPU 模擬器，以及最佳化 OSS。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>FTC 指控 Amazon 在新訴訟中操作「秘密廣告加價方案」</title>
-      <link>https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159372</guid>
-      <pubDate>Mon, 31 Aug 2026 20:20:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 正面臨 FTC 和 22 個州提起的新訴訟，指控其涉嫌偷偷向企業收取更高的廣告費用。</description>
-    </item>
-    <item>
-      <title>五角大廈現在有了自己的 ChatGPT 和 Grok 版本</title>
-      <link>https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158932</guid>
-      <pubDate>Mon, 31 Aug 2026 20:13:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 的 ChatGPT 和 SpaceXAI 的 Grok 版本，將與 Google 的 Gemini 一起加入五角大廈中央 AI 工具入口。</description>
     </item>
     <item>
       <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
@@ -500,18 +512,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA（NASDAQ: NVDA）今日公布截至 2026 年 7 月 26 日止第二季營收為 962 億美元，較前一季成長 18%，較去年同期成長 106%。該季度，GAAP ...</p>]]></content:encoded>
     </item>
     <item>
-      <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
@@ -522,6 +522,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
     </item>
     <item>
       <title>28 家新創運用 AI 轉型能源產業</title>
@@ -668,18 +680,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823" alt=""></p><p>新聞摘要：NVIDIA Jetson Orin Nano 2 是一款全新入門級邊緣 AI 機器人電腦，讓全球數百萬開發者能打造機器人、配送與檢測無人機，以及視覺 ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>準備好玩了嗎？體驗 Google Play 有史以來最大規模的 Gamescom 展示活動。</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/google-play-gamescom-takeover-rewards/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/google-play-gamescom-takeover-rewards/</guid>
-      <pubDate>Tue, 25 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Play 透過互動挑戰和獨家獎勵，在 Gamescom 將數位忠誠回饋轉化為實體獎品。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gamescom_DAY_0_Requests_Blogpos.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gamescom_DAY_0_Requests_Blogpos.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gamescom_DAY_0_Requests_Blogpos.max-600x600.format-webp.webp" alt=""></p><p>Google Play 透過互動挑戰和獨家獎勵，在 Gamescom 將數位忠誠回饋轉化為實體獎品。</p>]]></content:encoded>
     </item>
     <item>
       <title>WhatsApp 全新帳號安全功能</title>
