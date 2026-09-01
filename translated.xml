@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 18:49:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 19:04:19 GMT</lastBuildDate>
     <item>
       <title>約翰・特努斯是誰，蘋果新任執行長？</title>
       <link>https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/</link>
@@ -95,6 +95,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>問科學家：研究人員如何使用 AI 預測氣旋？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</guid>
+      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</p>]]></content:encoded>
     </item>
     <item>
       <title>GoPro 將以 2.85 億美元被收購，將保持上市公司身分</title>
@@ -662,18 +674,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/buy_the_Pixel_11_phones_and_Pix.max-600x600.format-webp.webp" alt=""></p><p>我們全新的 Pixel 11 手機和 Pixel Watch 5 現在已在 Google 商店以及我們的零售合作夥伴通路上架。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用 Google 搜尋升級居家裝潢的 5 種方法</title>
-      <link>https://blog.google/products-and-platforms/products/search/home-decor-tips/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/home-decor-tips/</guid>
-      <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解如何使用 Google 搜尋工具尋找居家裝潢靈感、購買家具，以及進行 DIY 專案。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp" alt=""></p><p>了解如何使用 Google 搜尋工具尋找居家裝潢靈感、購買家具，以及進行 DIY 專案。</p>]]></content:encoded>
     </item>
     <item>
       <title>領先的發行商將重量級 PC 遊戲與技術帶到 NVIDIA RTX Spark</title>
