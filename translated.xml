@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 09:58:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 10:13:50 GMT</lastBuildDate>
+    <item>
+      <title>如果太空資料中心聽起來很不切實際，那為什麼不考慮星際旅行？</title>
+      <link>https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159412</guid>
+      <pubDate>Tue, 01 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>打造 Starcloud 軌道資料中心的團隊有一個新的高風險太空計畫：將探測器送往半人馬座阿爾法星。</description>
+    </item>
     <item>
       <title>Magna 以 3,500 萬美元加碼印度換電業務，投資 Yuma</title>
       <link>https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家成立三年的新創公司表示，在完成最近這筆 1,500 萬美元融資前，已達到 1,500 萬美元的年度經常性收入（ARR）並實現獲利。</description>
-    </item>
-    <item>
-      <title>AI 可能讓政府更難使用駭客工具</title>
-      <link>https://techcrunch.com/2026/08/31/how-ai-could-make-it-harder-for-governments-to-use-hacking-tools/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158752</guid>
-      <pubDate>Mon, 31 Aug 2026 15:19:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 已被證明在尋找和利用漏洞方面很有效。有些人表示，這會讓政府更難使用駭客工具和間諜軟體，並可能重新引發要求在裝置中留後門的呼聲。</description>
     </item>
     <item>
       <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
