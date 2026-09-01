@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 17:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 18:03:41 GMT</lastBuildDate>
+    <item>
+      <title>9 月 Android 更新：記得你把東西放哪裡、減輕暈車感受，還有更多功能</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/</guid>
+      <pubDate>Tue, 01 Sep 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>幫你掌握重要物品的位置、在搭車時減輕暈車感受、直接從聊天中建立和編輯筆記，還有更多功能。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp" alt=""></p><p>幫你掌握重要物品的位置、在搭車時減輕暈車感受、直接從聊天中建立和編輯筆記，還有更多功能。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Google 對 Canva 的回應是一個 AI 工具，你用提示詞而不是設計</title>
       <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
@@ -371,18 +383,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" alt=""></p><p>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</p>]]></content:encoded>
     </item>
     <item>
-      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini Omni 1.1 Flash 讓你能以更多控制來進行建構</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</guid>
@@ -417,6 +417,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" alt=""></p><p>在 Google I/O，我們在 Google Flow 中推出了 Gemini Omni Flash，為創作者帶來新的影片編輯能力。今天我們正透過 Gemini Omni 1.1 Fl…推出更新。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 8 月的 Demand Gen Drop，以新方式接觸你的受眾。</title>
@@ -662,18 +674,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Home_Decor.max-600x600.format-webp.webp" alt=""></p><p>了解如何使用 Google 搜尋工具尋找居家裝潢靈感、購買家具，以及進行 DIY 專案。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>以下是在 macOS 版 Gemini 中使用智慧聽寫的方法。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/enable-intelligent-dictation-macos/</guid>
-      <pubDate>Tue, 25 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在 macOS 版 Gemini app 中啟用 Google 全新的智慧聽寫功能，並可自然地對著桌面上的任何視窗說話。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_macOS.max-600x600.format-webp.webp" alt=""></p><p>在 macOS 版 Gemini app 中啟用 Google 全新的智慧聽寫功能，並可自然地對著桌面上的任何視窗說話。</p>]]></content:encoded>
     </item>
     <item>
       <title>領先的發行商將重量級 PC 遊戲與技術帶到 NVIDIA RTX Spark</title>
