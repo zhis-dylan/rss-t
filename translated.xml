@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 21:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 21:20:46 GMT</lastBuildDate>
+    <item>
+      <title>Open AI 的 Astra 模型即將推出，而且很擅長入侵電腦系統</title>
+      <link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159895</guid>
+      <pubDate>Tue, 01 Sep 2026 21:06:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 預覽了其在準備推出 Astra 時所採取的防範措施；Astra 是它最新、對資安至關重要的 LLM。</description>
+    </item>
     <item>
       <title>Google 的 Android 更新著手改善暈車、無障礙功能等</title>
       <link>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/</link>
@@ -258,15 +267,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TechCrunch Disrupt 就是那些時刻發生的地方。而且沒有像你這樣的志工，我們無法完成它。</description>
-    </item>
-    <item>
-      <title>印度的 Unacademy 以 2.06 億美元賣給競爭對手 upGrad，約比巔峰估值低 94%</title>
-      <link>https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159537</guid>
-      <pubDate>Tue, 01 Sep 2026 13:58:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「我們是在高峰時募資，但最後卻只用當時估值的一小部分賣掉，」Unacademy 共同創辦人兼執行長 Gaurav Munjal 寫道。「我不會粉飾這些事實。」</description>
     </item>
     <item>
       <title>Astra 之路：關鍵能力與前沿防護措施</title>
