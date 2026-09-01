@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 01 Sep 2026 14:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:01:20 GMT</lastBuildDate>
+    <item>
+      <title>佛羅里達州和德州因隱私疑慮而採取行動阻止 Flock 攝影機</title>
+      <link>https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159618</guid>
+      <pubDate>Tue, 01 Sep 2026 15:00:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Flock 在美國各地擁有可搜尋的 13 萬個車牌攝影機網路，引發了兩黨對隱私和公民自由的疑慮。</description>
+    </item>
+    <item>
+      <title>這家新創公司正為貨櫃船注入氫氣，以提升效率</title>
+      <link>https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3158794</guid>
+      <pubDate>Tue, 01 Sep 2026 14:52:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Newlight 已募得 900 萬美元種子輪資金，並完成從新加坡到迦納、航程 8,500 海里的測試航行。</description>
+    </item>
     <item>
       <title>Waymo 加速無人計程車擴張，將在丹佛、聖地牙哥和坦帕啟動服務</title>
       <link>https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/</link>
@@ -179,24 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這款為警員提供即時法律與政策指引的應用程式，其種子輪融資由 SignalFire 和 Las Olas VC 領投。</description>
-    </item>
-    <item>
-      <title>駭客聲稱在醫療巨頭 McKesson 的資料外洩事件中竊取了數百萬筆病患紀錄</title>
-      <link>https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158867</guid>
-      <pubDate>Mon, 31 Aug 2026 18:10:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家公司替美國各地的醫院和醫療機構配送藥品與醫療器材，表示遭到駭入，並預期服務會間歇性降級。</description>
-    </item>
-    <item>
-      <title>Ryan Breslow 正在募資最多 2700 萬美元的 pay-to-play 橋接融資，試圖拯救 Bolt</title>
-      <link>https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3158611</guid>
-      <pubDate>Mon, 31 Aug 2026 17:14:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家 checkout 新創的爭議性創辦人，這家公司曾經估值 110 億美元，正在投入他自己的 500 萬美元。</description>
     </item>
     <item>
       <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
