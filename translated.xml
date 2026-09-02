@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:52:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 01:07:44 GMT</lastBuildDate>
     <item>
       <title>Larry Page 的飛行車公司 Pivotal 失去 CEO</title>
       <link>https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/</link>
@@ -297,6 +297,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT 現在可以連接到可信的醫療保健資料，幫助臨床人員安全地存取病患背景資訊、醫學研究等內容。</description>
+    </item>
+    <item>
+      <title>律師事務所 Gilbert + Tobin 如何透過 OpenAI 管理並擴展 AI</title>
+      <link>https://openai.com/index/gilbert-tobin</link>
+      <guid isPermaLink="false">https://openai.com/index/gilbert-tobin</guid>
+      <pubDate>Tue, 01 Sep 2026 01:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Gilbert + Tobin 如何結合 CEO 主導的承諾、嚴謹的治理，以及人類問責機制，在整個事務所擴展 ChatGPT Enterprise 和 Codex。</description>
     </item>
     <item>
       <title>將 Google Antigravity 與 Gemini 3.7 Flash 配對，可解決值得注意的多代理數學與工程問題。</title>
@@ -662,15 +671,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>今天，我們宣布與來自美國各州、屬地及哥倫比亞特區的 51 位兩黨檢察總長達成協議，延續我們長期以來賦權家長並支持青少年的努力。<br>這篇〈我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
-    </item>
-    <item>
       <title>學習永不停止：AI 如何讓學習持續進行</title>
       <link>https://openai.com/index/learning-never-stops</link>
       <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
@@ -678,6 +678,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
+    </item>
+    <item>
+      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
     </item>
     <item>
       <title>Google 在全球智慧財產權論壇</title>
@@ -1196,15 +1205,6 @@
       <description>Apple Arcade 透過 Block Blast+ 和 Art of Fauna: Cozy Puzzles+ 擴充其熱門益智遊戲目錄。</description>
     </item>
     <item>
-      <title>在 ChatGPT 中測試廣告</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
-    </item>
-    <item>
       <title>Daybreak 模型現已在 AWS 上提供</title>
       <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
       <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
@@ -1212,6 +1212,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1259,15 +1268,6 @@
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
-    </item>
-    <item>
       <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
       <link>https://openai.com/index/zapier</link>
       <guid isPermaLink="false">https://openai.com/index/zapier</guid>
@@ -1284,6 +1284,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
+    </item>
+    <item>
+      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1972,15 +1981,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>隨著 2027 年的軟體版本將於今年秋季推出，Apple 正為服務用戶帶來強大的新功能。</description>
-    </item>
-    <item>
-      <title>MUFG 目標成為 AI 原生組織，攜手 OpenAI</title>
-      <link>https://openai.com/index/mufg</link>
-      <guid isPermaLink="false">https://openai.com/index/mufg</guid>
-      <pubDate>Thu, 28 May 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>MUFG 使用 ChatGPT Enterprise 打造 AI 原生組織，改善工作流程，並大規模提供新的 AI 驅動金融服務。</description>
     </item>
   </channel>
 </rss>
