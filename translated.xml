@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:31:31 GMT</lastBuildDate>
+    <item>
+      <title>Pangram 的 Max Spero 談為什麼 AI 偵測比「真或假」更難</title>
+      <link>https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3160054</guid>
+      <pubDate>Wed, 02 Sep 2026 17:18:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>網路有信任問題，而且不只是因為社群媒體動態裡充斥著 AI 垃圾內容。AI 生成的文字和圖片現在正進入求職申請、產品評論，甚至保險理賠，讓平台和使用者都在想辦法分辨什麼才是真的。過去幾年裡，已有少數新創公司冒出頭來，想解決這個問題。</description>
+    </item>
     <item>
       <title>X 將美國創作者款項發放從 Stripe 轉到 X Money</title>
       <link>https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/</link>
@@ -310,15 +319,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Inside-Metas-Infrastructure-Lab_Thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Inside-Metas-Infrastructure-Lab_Thumbnail.jpg?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Inside-Metas-Infrastructure-Lab_Thumbnail.jpg?fit=890%2C501" alt=""></p><p>跟 Tom Shaw 一起走進 Meta 的基礎設施實驗室，探索正在開發、用來驅動下一代 AI 的硬體。<br>〈深入 Meta 的基礎設施實驗室〉一文最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>John Ternus 在首次以 Apple 執行長身分發出的備忘錄中大肆宣傳「下週的大型發表」</title>
-      <link>https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159848</guid>
-      <pubDate>Tue, 01 Sep 2026 19:45:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 將在下週舉辦 iPhone 發表活動，據傳將首次推出可摺疊 iPhone。</description>
     </item>
     <item>
       <title>9 月 Android 更新：記得你把東西放哪裡、減輕暈車感受，還有更多功能</title>
