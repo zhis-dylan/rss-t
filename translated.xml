@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 11:57:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:12:54 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 面臨另外 30 起與 Tumbler Ridge 槍擊案相關的訴訟</title>
+      <link>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3159950</guid>
+      <pubDate>Wed, 02 Sep 2026 12:09:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Edelson PC 正針對 Tumbler Ridge 槍擊案對 OpenAI 提出 30 起新訴訟，將指控升級為教唆與協助犯案，並點名 Chris Lehane，不過相關證據仍未獲證實。</description>
+    </item>
+    <item>
+      <title>我們的新合作夥伴關係將長時儲能帶到西維吉尼亞州。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-virginia-long-duration-energy-storage/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/west-virginia-long-duration-energy-storage/</guid>
+      <pubDate>Wed, 02 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 正與 MN8 Energy 和 Eos Energy Enterprises 合作，在 PJM 電網上推動一項新的潔淨能源專案。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bringing_Long-Duration_Energy_s.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bringing_Long-Duration_Energy_s.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bringing_Long-Duration_Energy_s.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 MN8 Energy 和 Eos Energy Enterprises 合作，在 PJM 電網上推動一項新的潔淨能源專案。</p>]]></content:encoded>
+    </item>
     <item>
       <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
       <link>https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/</link>
@@ -225,18 +246,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>這家新創想為 IT 基礎設施做出像 Cursor 為軟體工程所做的事。</description>
     </item>
     <item>
-      <title>問科學家：研究人員如何使用 AI 預測氣旋？</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</guid>
-      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>試試 Google Pics：在 Google Workspace 中輕鬆建立與編輯圖片</title>
       <link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-pics/</guid>
@@ -247,6 +256,18 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>問科學家：研究人員如何使用 AI 預測氣旋？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</guid>
+      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</p>]]></content:encoded>
     </item>
     <item>
       <title>GoPro 將以 2.85 億美元被收購，將保持上市公司身分</title>
@@ -283,15 +304,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Microsoft 365 和 Outlook 在週二仍出現服務降級，該公司狀態頁面顯示。</description>
-    </item>
-    <item>
-      <title>Fambot 推出給家庭使用的「AI幕僚長」</title>
-      <link>https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159557</guid>
-      <pubDate>Tue, 01 Sep 2026 15:10:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Fambot 正在打造一個 AI「幕僚長」，協助家庭管理電子郵件、行事曆、學校更新、運動時程，以及養育孩子的其他庶務。</description>
     </item>
     <item>
       <title>Astra 之路：關鍵能力與前沿防護措施</title>
@@ -463,18 +475,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" alt=""></p><p>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</p>]]></content:encoded>
     </item>
     <item>
-      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini Omni 1.1 Flash 讓你能以更多控制來進行建構</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</guid>
@@ -521,6 +521,18 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 8 月的 Demand Gen Drop，運用新的訊息、旅遊和創意功能來帶動高品質潛在客戶並獲取顧客。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
     </item>
     <item>
       <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
@@ -700,18 +712,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
-    </item>
-    <item>
-      <title>Google 在全球智慧財產權論壇</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/public-policy/ai-intellectual-property-future-innovation/</guid>
-      <pubDate>Wed, 26 Aug 2026 04:15:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>閱讀 Google 與 Alphabet 全球事務總裁 Kent Walker 在全球智慧財產權論壇上的致詞。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DZ8_8197.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DZ8_8197.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DZ8_8197.max-600x600.format-webp.webp" alt=""></p><p>閱讀 Google 與 Alphabet 全球事務總裁 Kent Walker 在全球智慧財產權論壇上的致詞。</p>]]></content:encoded>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
