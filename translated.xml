@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:15:00 GMT</lastBuildDate>
+    <item>
+      <title>HiddenLayer 在企業急於保護其 AI 部署之際募得 1 億美元</title>
+      <link>https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160035</guid>
+      <pubDate>Wed, 02 Sep 2026 15:01:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>HiddenLayer 已從 Delta-v Capital、Ten Eleven Ventures、Morgan Stanley、Microsoft 的 M12、Booz Allen Hamilton 等投資方募得 1 億美元的 B 輪融資。</description>
+    </item>
     <item>
       <title>提醒：亞馬遜的購物 AI 現在可以告訴你那則訊息是不是詐騙</title>
       <link>https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/</link>
@@ -283,15 +292,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 表示，這項整合為臨床醫師提供健康紀錄的唯讀存取權限。</description>
-    </item>
-    <item>
-      <title>Waymo 在 Tesla 的 Cybercab 發表前先行出擊</title>
-      <link>https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157658</guid>
-      <pubDate>Tue, 01 Sep 2026 16:49:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Waymo 主張，若不使用多種感測器，就不可能實現全自動駕駛車輛，並警告純端到端 AI 系統還不夠安全。</description>
     </item>
     <item>
       <title>試試 Google Pics：在 Google Workspace 中輕鬆建立與編輯圖片</title>
