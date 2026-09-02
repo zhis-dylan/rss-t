@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 20:02:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 20:17:59 GMT</lastBuildDate>
+    <item>
+      <title>MapQuest 現在是美國排名第一的 app，因為它拒絕配合川普將「Lake America」更名</title>
+      <link>https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160208</guid>
+      <pubDate>Wed, 02 Sep 2026 20:12:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這款曾經稱霸的地圖 app 在拒絕採用川普的「Lake America」名稱後，衝上 Apple 美國 App Store 榜首，短短六天就拿下了 2026 年美國下載量的一半以上。</description>
+    </item>
     <item>
       <title>看起來駭客確實入侵了一家大型身分證件驗證服務</title>
       <link>https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/</link>
@@ -276,15 +285,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7" alt=""></p><p>「我們正處於網路安全的一個轉折點，」Jensen Huang 週二在拉斯維加斯 CrowdStrike 的 Fal.Con 2026 向座無虛席的觀眾表示。攻擊現在已經自動化，防禦也必須如此。NVIDIA 創辦人暨執行長與 CrowdStrike 執行長暨創辦人 George Kurtz 一同宣布 CrowdStrike SafeMind，這是由 CrowdStrike Cyber […] 開發的代理式資安系統。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Open AI 的 Astra 模型即將推出，而且很擅長入侵電腦系統</title>
-      <link>https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159895</guid>
-      <pubDate>Tue, 01 Sep 2026 21:06:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 預覽了其在準備推出 Astra 時所採取的防範措施；Astra 是它最新、對資安至關重要的 LLM。</description>
     </item>
     <item>
       <title>我們在 2026 年 8 月宣布的最新 AI 新聞</title>
