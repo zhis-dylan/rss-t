@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 19:32:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:47:42 GMT</lastBuildDate>
+    <item>
+      <title>看起來駭客確實入侵了一家大型身分證件驗證服務</title>
+      <link>https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160216</guid>
+      <pubDate>Wed, 02 Sep 2026 19:35:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一個身分盜用搜尋網站聲稱，從一個身分驗證服務竊取了超過 1.5 億張駕照照片。這個犯罪網站現在已關閉。</description>
+    </item>
     <item>
       <title>Delivery Hero 董事會支持 Uber 的 150 億美元收購出價</title>
       <link>https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/</link>
@@ -276,15 +285,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 預覽了其在準備推出 Astra 時所採取的防範措施；Astra 是它最新、對資安至關重要的 LLM。</description>
-    </item>
-    <item>
-      <title>Google 的 Android 更新著手改善暈車、無障礙功能等</title>
-      <link>https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159905</guid>
-      <pubDate>Tue, 01 Sep 2026 20:53:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>即將推出的 Android 新功能旨在減少暈車、協助視障使用者探索周遭環境，還有更多。</description>
     </item>
     <item>
       <title>我們在 2026 年 8 月宣布的最新 AI 新聞</title>
