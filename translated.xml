@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 17:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:16:20 GMT</lastBuildDate>
+    <item>
+      <title>X 將美國創作者款項發放從 Stripe 轉到 X Money</title>
+      <link>https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160122</guid>
+      <pubDate>Wed, 02 Sep 2026 17:12:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>X 表示，美國創作者的款項現在將透過其 X Money 支付服務處理，這項變動似乎取代了先前由 Stripe 支援的發放系統。</description>
+    </item>
+    <item>
+      <title>美國政府在是否可用受版權保護素材訓練 LLM 一事上支持 OpenAI</title>
+      <link>https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160050</guid>
+      <pubDate>Wed, 02 Sep 2026 17:09:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「美國有強烈利益持續發展一個強健且具競爭力的人工智慧產業，為全球 AI 的使用標準與實務程序立下標準，」該簡報寫道。</description>
+    </item>
     <item>
       <title>建立一個你可以信賴的衡量架構，來引導你的行銷活動。</title>
       <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/</link>
@@ -301,24 +319,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 將在下週舉辦 iPhone 發表活動，據傳將首次推出可摺疊 iPhone。</description>
-    </item>
-    <item>
-      <title>Anthropic 的新 Fable 版本更便宜、限制更少</title>
-      <link>https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159842</guid>
-      <pubDate>Tue, 01 Sep 2026 19:39:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Fable 5.1 包含一些變更，旨在降低 token 成本，並減少模型安全防護機制的誤判限制。</description>
-    </item>
-    <item>
-      <title>Thrive 的 Kushner 為涉入 FIFA 亂局辯護，聘請 Elon 的御用律師</title>
-      <link>https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159665</guid>
-      <pubDate>Tue, 01 Sep 2026 19:30:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>紐約這家聲名卓著卻又神祕低調的創投公司 Thrive Capital，終於對其捲入顛覆國際足球的混亂風波一事發聲。</description>
     </item>
     <item>
       <title>9 月 Android 更新：記得你把東西放哪裡、減輕暈車感受，還有更多功能</title>
