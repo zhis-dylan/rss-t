@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 14:44:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 14:59:51 GMT</lastBuildDate>
+    <item>
+      <title>提醒：亞馬遜的購物 AI 現在可以告訴你那則訊息是不是詐騙</title>
+      <link>https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160055</guid>
+      <pubDate>Wed, 02 Sep 2026 14:56:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>亞馬遜正在為 Alexa for Shopping 新增詐騙偵測功能，可驗證可疑的電子郵件、簡訊和其他訊息是否真的來自這家零售商。</description>
+    </item>
     <item>
       <title>Adobe 收購印度市場情報新創公司 Rilo</title>
       <link>https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/</link>
@@ -283,15 +292,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Waymo 主張，若不使用多種感測器，就不可能實現全自動駕駛車輛，並警告純端到端 AI 系統還不夠安全。</description>
-    </item>
-    <item>
-      <title>Sequoia 孵化的 Empirik 募得 2100 萬美元，預測故障在發生前就先知道</title>
-      <link>https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159706</guid>
-      <pubDate>Tue, 01 Sep 2026 16:31:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創想為 IT 基礎設施做出像 Cursor 為軟體工程所做的事。</description>
     </item>
     <item>
       <title>試試 Google Pics：在 Google Workspace 中輕鬆建立與編輯圖片</title>
