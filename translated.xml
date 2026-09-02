@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 21:33:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 21:48:46 GMT</lastBuildDate>
+    <item>
+      <title>Google 免於廣告業務拆分，但法官下令調整其營運方式</title>
+      <link>https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160198</guid>
+      <pubDate>Wed, 02 Sep 2026 21:38:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 避開了拆分其廣告業務的 प्रयास，不過一名法官週三表示，該公司需要調整其業務，以讓競爭對手受益。</description>
+    </item>
     <item>
       <title>OpenAI 的新推理技術讓 AI 安全專家感到警惕</title>
       <link>https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/</link>
@@ -264,15 +273,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>JioHotstar 在英國、加拿大和新加坡上線時，將只提供娛樂內容。</description>
-    </item>
-    <item>
-      <title>Apple 跟進 Google 採用川普的「Lake America」名稱</title>
-      <link>https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159931</guid>
-      <pubDate>Tue, 01 Sep 2026 22:13:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple Maps 正跟進總統川普的行政命令，將安大略湖的名稱改為 Lake America。</description>
     </item>
     <item>
       <title>NVIDIA 與 CrowdStrike 強化代理式資安前線</title>
