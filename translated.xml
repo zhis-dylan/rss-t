@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:15:42 GMT</lastBuildDate>
+    <item>
+      <title>Wonderful 在不到 6 個月內估值翻倍以上，達到 50 億美元</title>
+      <link>https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160084</guid>
+      <pubDate>Wed, 02 Sep 2026 16:04:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Wonderful 的 5.5 億美元 C 輪融資由 Insight Partners 領投，Salesforce、Index Ventures、IVP、Vine Ventures、9Yards 和 Bessemer 參與投資。</description>
+    </item>
+    <item>
+      <title>印度首富現在想把老舊電腦變成可支援 AI 的 PC</title>
+      <link>https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160089</guid>
+      <pubDate>Wed, 02 Sep 2026 16:01:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Jio 正在押注，它能把一台老舊電腦變成一台可支援 AI 的 PC，兩個月只要大約 11 美元。</description>
+    </item>
     <item>
       <title>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，並已在 iOS app 上提供。</title>
       <link>https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</link>
@@ -291,15 +309,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp" alt=""></p><p>幫你掌握重要物品的位置、在搭車時減輕暈車感受、直接從聊天中建立和編輯筆記，還有更多功能。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Google 對 Canva 的回應是一個 AI 工具，你用提示詞而不是設計</title>
-      <link>https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159727</guid>
-      <pubDate>Tue, 01 Sep 2026 17:35:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>透過 Google Pics，Google 正更深入進入由 Canva 和 Adobe 主導的創意軟體市場，但採用的是截然不同的 AI 優先方式。</description>
-    </item>
-    <item>
       <title>AI 原生公司如何將工作流程轉化為營運能力</title>
       <link>https://openai.com/index/ai-native-company-workflows</link>
       <guid isPermaLink="false">https://openai.com/index/ai-native-company-workflows</guid>
@@ -319,15 +328,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" alt=""></p><p>我們正在最新的 Gemini 模型中推出代理式影片理解，以提升準確度並降低成本與 token 使用量。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>ChatGPT Health 新增 Epic 整合，供臨床醫師匯入病患資料</title>
-      <link>https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159529</guid>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 表示，這項整合為臨床醫師提供健康紀錄的唯讀存取權限。</description>
     </item>
     <item>
       <title>試試 Google Pics：在 Google Workspace 中輕鬆建立與編輯圖片</title>
