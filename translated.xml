@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:45:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 16:00:31 GMT</lastBuildDate>
+    <item>
+      <title>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，並已在 iOS app 上提供。</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" alt=""></p><p>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</p>]]></content:encoded>
+    </item>
     <item>
       <title>政府與企業的主動式網路防禦</title>
       <link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
@@ -523,16 +535,16 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 1.1 Flash 為開發者帶來一套新的創意控制功能與生成式影片能力。</p>]]></content:encoded>
     </item>
     <item>
-      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
+      <title>與 Khan Academy 合作打造教室用 AI 工具</title>
+      <link>https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</guid>
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
+      <description>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google Flow 帶來新的創意控制功能，以提升影片編輯。</title>
@@ -547,16 +559,16 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" alt=""></p><p>在 Google I/O，我們在 Google Flow 中推出了 Gemini Omni Flash，為創作者帶來新的影片編輯能力。今天我們正透過 Gemini Omni 1.1 Fl…推出更新。</p>]]></content:encoded>
     </item>
     <item>
-      <title>與 Khan Academy 合作打造教室用 AI 工具</title>
-      <link>https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</guid>
+      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
       <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</p>]]></content:encoded>
+      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 8 月的 Demand Gen Drop，以新方式接觸你的受眾。</title>
@@ -644,18 +656,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762" alt=""></p><p>Amazon Web Services（AWS），Amazon.com, Inc. 旗下公司（NASDAQ: AMZN），與 NVIDIA（NASDAQ: NVDA）今日宣布大幅擴大雙方的策略合作，以因應全球對 AI 基礎設施持續飆升的需求。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在 Workspace 中使用 Gemini 展開開學季的 7 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/gemini-google-workspace-back-to-school/</guid>
-      <pubDate>Wed, 26 Aug 2026 20:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過在 Google Workspace 中使用 Gemini 來整理筆記、追蹤截止日期、準備專題，還有更多功能，搶先為這學期做好準備。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Student-blog-header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Student-blog-header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Student-blog-header.max-600x600.format-webp.webp" alt=""></p><p>透過在 Google Workspace 中使用 Gemini 來整理筆記、追蹤截止日期、準備專題，還有更多功能，搶先為這學期做好準備。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 公布 2027 會計年度第二季財務結果</title>
