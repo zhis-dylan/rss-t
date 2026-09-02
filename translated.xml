@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 12:28:03 GMT</lastBuildDate>
+    <item>
+      <title>Uber 將裁員 10%，約 3,300 人</title>
+      <link>https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160019</guid>
+      <pubDate>Wed, 02 Sep 2026 12:14:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Uber 將裁員約 3,300 人，也就是其全球員工總數的約 10%，以縮減管理層級，並加碼投資其叫車、外送和 robotaxi 部門。</description>
+    </item>
     <item>
       <title>OpenAI 面臨另外 30 起與 Tumbler Ridge 槍擊案相關的訴訟</title>
       <link>https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/</link>
@@ -295,15 +304,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AIR 的平台可以偵測公司內正在運行的代理，持續審核它們使用的任何技能與附加功能，並阻擋任何不受歡迎的行為。</description>
-    </item>
-    <item>
-      <title>Microsoft 365 當機持續延燒，但情況正在改善</title>
-      <link>https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159615</guid>
-      <pubDate>Tue, 01 Sep 2026 15:23:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 365 和 Outlook 在週二仍出現服務降級，該公司狀態頁面顯示。</description>
     </item>
     <item>
       <title>Astra 之路：關鍵能力與前沿防護措施</title>
