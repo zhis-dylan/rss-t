@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 22:34:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 22:49:20 GMT</lastBuildDate>
+    <item>
+      <title>Palo Alto Networks 以 5 億美元收購 Thrive 支持的 Console，消息人士稱</title>
+      <link>https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160290</guid>
+      <pubDate>Wed, 02 Sep 2026 22:44:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項收購也讓 Sequoia 支持的 Serval 成為業界觀察者認為的 AI IT 服務自動化事實上領頭新創。</description>
+    </item>
     <item>
       <title>TechCrunch Disrupt 2026 新增的 Real World AI 舞台，聚焦 Nvidia、機器人和已滅絕的動物</title>
       <link>https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/</link>
@@ -264,15 +273,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg" alt=""></p><p>當我們進入下一個時代時，衡量我們進步的決定性指標會是什麼？每個產業都有一個塑造其思考方式的詞。對飛行員來說，是安全。對保險公司來說，是風險。對半導體產業來說，是良率。良率不會問解決方案有多優雅、花了多少年，或是……<br>The post The yield imperative: Turning AI infrastructure into useful intelligence appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Larry Page 的飛行車公司 Pivotal 失去 CEO</title>
-      <link>https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159987</guid>
-      <pubDate>Tue, 01 Sep 2026 23:59:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司告訴 TechCrunch，他正在「追求新的事業發展」。</description>
     </item>
     <item>
       <title>NVIDIA 與 CrowdStrike 強化代理式資安前線</title>
