@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 16:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 17:01:09 GMT</lastBuildDate>
+    <item>
+      <title>建立一個你可以信賴的衡量架構，來引導你的行銷活動。</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/</guid>
+      <pubDate>Wed, 02 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在這一集《Ads Decoded》中，我們討論如何透過歸因、增量測試和媒體組合模型來評估行銷活動。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這一集《Ads Decoded》中，我們討論如何透過歸因、增量測試和媒體組合模型來評估行銷活動。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>強化地熱再下一城，Google 向 Fervo 購買 400 兆瓦電力</title>
+      <link>https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160133</guid>
+      <pubDate>Wed, 02 Sep 2026 16:54:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Fervo 與 Google 的協議可能擴大到 1 吉瓦的地熱發電量，足以供應猶他州一座非常大型的 AI 資料中心。</description>
+    </item>
     <item>
       <title>Wonderful 在不到 6 個月內估值翻倍以上，達到 50 億美元</title>
       <link>https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/</link>
@@ -35,6 +56,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" alt=""></p><p>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們最新捐贈給 Linux Foundation Europe 的專案，將打造一個更注重隱私的數位世界。</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" alt=""></p><p>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</p>]]></content:encoded>
     </item>
     <item>
       <title>政府與企業的主動式網路防禦</title>
@@ -288,15 +321,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>紐約這家聲名卓著卻又神祕低調的創投公司 Thrive Capital，終於對其捲入顛覆國際足球的混亂風波一事發聲。</description>
     </item>
     <item>
-      <title>約翰・特努斯是誰，蘋果新任執行長？</title>
-      <link>https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3114475</guid>
-      <pubDate>Tue, 01 Sep 2026 18:02:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從 9 月 1 日起，Ternus 將帶領全球最有價值的公司之一，但如果你不是忠實的 Apple 愛好者，你大概從來沒聽過這個人；他直到現在都大致保持低調，鮮少曝光。</description>
-    </item>
-    <item>
       <title>9 月 Android 更新：記得你把東西放哪裡、減輕暈車感受，還有更多功能</title>
       <link>https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/</guid>
@@ -535,6 +559,18 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 1.1 Flash 為開發者帶來一套新的創意控制功能與生成式影片能力。</p>]]></content:encoded>
     </item>
     <item>
+      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>與 Khan Academy 合作打造教室用 AI 工具</title>
       <link>https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</guid>
@@ -559,30 +595,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" alt=""></p><p>在 Google I/O，我們在 Google Flow 中推出了 Gemini Omni Flash，為創作者帶來新的影片編輯能力。今天我們正透過 Gemini Omni 1.1 Fl…推出更新。</p>]]></content:encoded>
     </item>
     <item>
-      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 8 月的 Demand Gen Drop，以新方式接觸你的受眾。</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/demand-gen-drop-august-2026/</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 YouTube 8 月的 Demand Gen Drop，運用新的訊息、旅遊和創意功能來帶動高品質潛在客戶並獲取顧客。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 8 月的 Demand Gen Drop，運用新的訊息、旅遊和創意功能來帶動高品質潛在客戶並獲取顧客。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
       <link>https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/</guid>
@@ -602,18 +614,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e" alt=""></p><p>NVIDIA 在 Gamescom 公布的消息揭示了 GeForce NOW 的下一步發展，包括更多遊玩方式、更多支援的裝置與平台，以及更多大型 PC 遊戲將登上雲端。全新的 NVIDIA DLSS 4.5 技術控制讓會員能以更多方式微調遊戲體驗，而對新 Steam 裝置、GOG 單一登入、Firefox 瀏覽器 […] 的擴充支援</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們的 Fitbit Air 特別版 Pokémon Sleep 登場了</title>
-      <link>https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/fitbit/fitbit-air-special-edition-pokemon-sleep/</guid>
-      <pubDate>Thu, 27 Aug 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 Fitbit Air 特別版 Pokémon Sleep，提升你的睡眠習慣，讓追蹤睡眠變得更有趣。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pokemon_fitbit_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pokemon_fitbit_herosocial.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pokemon_fitbit_herosocial.max-600x600.format-webp.webp" alt=""></p><p>透過 Fitbit Air 特別版 Pokémon Sleep，提升你的睡眠習慣，讓追蹤睡眠變得更有趣。</p>]]></content:encoded>
     </item>
     <item>
       <title>更好的答案、更廣的思考：學生從 ChatGPT 和批判性思考訓練中獲得什麼</title>
