@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 12:58:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:13:47 GMT</lastBuildDate>
+    <item>
+      <title>挪威考慮禁止具備相機功能的可穿戴「變態眼鏡」</title>
+      <link>https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160036</guid>
+      <pubDate>Wed, 02 Sep 2026 13:11:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個北歐國家表示，考量到隱私風險，可穿戴相機頭戴裝置需要受到規範。</description>
+    </item>
+    <item>
+      <title>Adobe 正將其工具提供到 Slack 中</title>
+      <link>https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160017</guid>
+      <pubDate>Wed, 02 Sep 2026 13:09:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>使用者將能在 Slack 中存取 Express、Premiere 和 Acrobat。</description>
+    </item>
+    <item>
+      <title>MrBeast 與 Gemini 合作，把看似不可能的龐大點子變成現實</title>
+      <link>https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/</guid>
+      <pubDate>Wed, 02 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 正與以 MrBeast 更為人知的 Jimmy Donaldson 展開一項為期多年的合作，涵蓋 Gemini 和 Google Health。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MR.BEAST_Resize_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MR.BEAST_Resize_16x9.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MR.BEAST_Resize_16x9.max-600x600.format-webp.webp" alt=""></p><p>Google 正與以 MrBeast 更為人知的 Jimmy Donaldson 展開一項為期多年的合作，涵蓋 Gemini 和 Google Health。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Uber 將裁員 10%，約 3,300 人</title>
       <link>https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/</link>
@@ -288,24 +318,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>GoPro 正與一家打造 AI 基礎設施的公司合併，並將持續支援現有的消費性產品。</description>
     </item>
     <item>
-      <title>Amazon Alexa 現在可以在有新東西可能吸引你購物時提醒你</title>
-      <link>https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159627</guid>
-      <pubDate>Tue, 01 Sep 2026 15:51:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 正在加入一項由 Alexa 驅動的新功能，名為「Update Me When」，可針對產品發表、巡演、書籍、節目及其他可能引發購買的活動，傳送個人化提醒。</description>
-    </item>
-    <item>
-      <title>AIR 募得 5000 萬美元，協助公司審核 AI 代理使用的技能與附加功能</title>
-      <link>https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3159543</guid>
-      <pubDate>Tue, 01 Sep 2026 15:45:51 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AIR 的平台可以偵測公司內正在運行的代理，持續審核它們使用的任何技能與附加功能，並阻擋任何不受歡迎的行為。</description>
-    </item>
-    <item>
       <title>Astra 之路：關鍵能力與前沿防護措施</title>
       <link>https://openai.com/index/path-to-astra</link>
       <guid isPermaLink="false">https://openai.com/index/path-to-astra</guid>
@@ -499,6 +511,18 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</p>]]></content:encoded>
     </item>
     <item>
+      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Google Flow 帶來新的創意控制功能，以提升影片編輯。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/new-creative-controls-google-flow/</guid>
@@ -521,18 +545,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_Demand_Gen_Drop.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 8 月的 Demand Gen Drop，運用新的訊息、旅遊和創意功能來帶動高品質潛在客戶並獲取顧客。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Travel_Blog_Hero_8.27.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Search 的 AI 模式預訂飯店並追蹤機票價格，還可查看哩程和獎勵。</p>]]></content:encoded>
     </item>
     <item>
       <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
@@ -634,18 +646,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA（NASDAQ: NVDA）今日公布截至 2026 年 7 月 26 日止第二季營收為 962 億美元，較前一季成長 18%，較去年同期成長 106%。該季度，GAAP ...</p>]]></content:encoded>
     </item>
     <item>
-      <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
@@ -658,16 +658,16 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
     </item>
     <item>
-      <title>28 家新創運用 AI 轉型能源產業</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-for-startups-accelerator-energy-ai/</guid>
-      <pubDate>Wed, 26 Aug 2026 16:00:00 GMT</pubDate>
+      <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>橫跨北美與歐洲，這些聚焦能源、由 AI 驅動的新創公司入選了 Google for Startups Accelerator。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28_startups_Hero_2784x1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28_startups_Hero_2784x1566.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28_startups_Hero_2784x1566.max-600x600.format-webp.webp" alt=""></p><p>橫跨北美與歐洲，這些聚焦能源、由 AI 驅動的新創公司入選了 Google for Startups Accelerator。</p>]]></content:encoded>
+      <description>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
     </item>
     <item>
       <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
