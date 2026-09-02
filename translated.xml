@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 02 Sep 2026 15:30:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 15:45:19 GMT</lastBuildDate>
+    <item>
+      <title>政府與企業的主動式網路防禦</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:40:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Fairwind 計畫是一個僅限受邀存取的計畫，供政府與可信任夥伴使用我們的網路防禦工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp" alt=""></p><p>Fairwind 計畫是一個僅限受邀存取的計畫，供政府與可信任夥伴使用我們的網路防禦工具。</p>]]></content:encoded>
+    </item>
     <item>
       <title>HiddenLayer 在企業急於保護其 AI 部署之際募得 1 億美元</title>
       <link>https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/</link>
@@ -14,6 +26,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>HiddenLayer 已從 Delta-v Capital、Ten Eleven Ventures、Morgan Stanley、Microsoft 的 M12、Booz Allen Hamilton 等投資方募得 1 億美元的 B 輪融資。</description>
+    </item>
+    <item>
+      <title>推出 Gemini 3.8 Flash 與 3.8 Flash Cyber</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</guid>
+      <pubDate>Wed, 02 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 3.8 Flash 和 3.8 Flash Cyber 為 agentic 工作流程與網路安全提供次世代智慧。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp" alt=""></p><p>Gemini 3.8 Flash 和 3.8 Flash Cyber 為 agentic 工作流程與網路安全提供次世代智慧。</p>]]></content:encoded>
     </item>
     <item>
       <title>提醒：亞馬遜的購物 AI 現在可以告訴你那則訊息是不是詐騙</title>
@@ -499,18 +523,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 1.1 Flash 為開發者帶來一套新的創意控制功能與生成式影片能力。</p>]]></content:encoded>
     </item>
     <item>
-      <title>與 Khan Academy 合作打造教室用 AI 工具</title>
-      <link>https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>透過 Search 規劃並預訂旅遊的 3 種新方式</title>
       <link>https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/</guid>
@@ -533,6 +545,18 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FlowOmni_social.max-600x600.format-webp.webp" alt=""></p><p>在 Google I/O，我們在 Google Flow 中推出了 Gemini Omni Flash，為創作者帶來新的影片編輯能力。今天我們正透過 Gemini Omni 1.1 Fl…推出更新。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>與 Khan Academy 合作打造教室用 AI 工具</title>
+      <link>https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/khan-academy-back-to-school/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Khan_Academy_hero.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 打造的互動式視覺輔助工具和由老師控制的練習教材，即將在新學年推出。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 8 月的 Demand Gen Drop，以新方式接觸你的受眾。</title>
@@ -644,30 +668,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA（NASDAQ: NVDA）今日公布截至 2026 年 7 月 26 日止第二季營收為 962 億美元，較前一季成長 18%，較去年同期成長 106%。該季度，GAAP ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用 Gemini Live 的全新生產力功能，讓你的聲音化為行動</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/productivity-features-gemini-live/</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/STATIC_HEADER_V2.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Live 推出重大生產力升級，讓你可以用聲音交辦待辦事項，不錯過任何節奏。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>使用 Gemini 3.5 Transcribe 的智慧轉錄</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/</guid>
-      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-5_transcribe.max-600x600.format-webp.webp" alt=""></p><p>現在你可以使用 Gemini 3.5 Transcribe，獲得更智慧的語音轉文字轉錄。</p>]]></content:encoded>
     </item>
     <item>
       <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
