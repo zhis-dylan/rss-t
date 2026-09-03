@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 03 Sep 2026 20:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 21:00:59 GMT</lastBuildDate>
+    <item>
+      <title>新研究顯示，新創公司的年經常性收入比以往任何時候都更不穩固</title>
+      <link>https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160602</guid>
+      <pubDate>Thu, 03 Sep 2026 20:59:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 時代已徹底打亂企業採購模式，而新創公司還沒搞清楚該如何應對。</description>
+    </item>
     <item>
       <title>Cybercab 是特斯拉的「十字路口」時刻</title>
       <link>https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/</link>
@@ -309,15 +318,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 避開了拆分其廣告業務的 प्रयास，不過一名法官週三表示，該公司需要調整其業務，以讓競爭對手受益。</description>
-    </item>
-    <item>
-      <title>OpenAI 的新推理技術讓 AI 安全專家感到警惕</title>
-      <link>https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160225</guid>
-      <pubDate>Wed, 02 Sep 2026 20:19:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 的新 Astra 模型將使用「recurrent depth」這項技術，讓模型能在大多數推理模型所具備的序列式思考之外運作。</description>
     </item>
     <item>
       <title>建立一個你可以信賴的衡量架構，來引導你的行銷活動。</title>
