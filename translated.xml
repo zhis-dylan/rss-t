@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 03 Sep 2026 17:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:14:15 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出 Astra，其強大（且具爭議）的新模型</title>
+      <link>https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160480</guid>
+      <pubDate>Thu, 03 Sep 2026 18:01:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 宣稱 Astra 代表著「電腦和瀏覽器使用的新前沿」，並且它以無可匹敵的「速度、準確性和安全性」處理各種任務。</description>
+    </item>
     <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
       <link>https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/</link>
@@ -264,15 +273,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>X 表示，美國創作者的款項現在將透過其 X Money 支付服務處理，這項變動似乎取代了先前由 Stripe 支援的發放系統。</description>
-    </item>
-    <item>
-      <title>美國政府在是否可用受版權保護素材訓練 LLM 一事上支持 OpenAI</title>
-      <link>https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160050</guid>
-      <pubDate>Wed, 02 Sep 2026 17:09:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「美國有強烈利益持續發展一個強健且具競爭力的人工智慧產業，為全球 AI 的使用標準與實務程序立下標準，」該簡報寫道。</description>
     </item>
     <item>
       <title>建立一個你可以信賴的衡量架構，來引導你的行銷活動。</title>
