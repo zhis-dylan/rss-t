@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 03 Sep 2026 18:29:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 18:44:42 GMT</lastBuildDate>
+    <item>
+      <title>Abliteration.ai 正在把移除 AI 安全護欄變成一門生意</title>
+      <link>https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160448</guid>
+      <pubDate>Thu, 03 Sep 2026 18:37:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Abliteration.AI 讓沒有安全護欄的強大 AI 模型更容易取得，主張讓防守方和壞人使用同樣的工具，最終可能有助於提升資安。</description>
+    </item>
     <item>
       <title>Meta 付費查看你如何使用他們最新的 AI 模型</title>
       <link>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</link>
@@ -189,24 +198,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Zoox 在開始對 robotaxi 乘車收費幾週後，將服務擴展到這個重要的叫車目的地。</description>
-    </item>
-    <item>
-      <title>Playco 使用 GPT-6 Astra 打造遊戲原型時，人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造出三個主題遊戲原型，並回報人工修正比前一個模型少了 50%。</description>
-    </item>
-    <item>
-      <title>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部四個植入的錯誤，並在這個財務審閱工作流程中將表現提升將近 40%。</description>
     </item>
     <item>
       <title>NVIDIA 將收購 Hugging Face</title>
@@ -1787,15 +1778,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解企業如何透過衡量每一美元所帶來的有效工作量、提升效率，以及擴展高價值工作流程，來管理 agentic 時代的 AI 投資。</description>
     </item>
     <item>
-      <title>資料科學團隊如何使用 ChatGPT 工作</title>
-      <link>https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解資料科學團隊如何使用 ChatGPT 工作，從實際工作輸入建立根因簡報、影響摘要、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
-    </item>
-    <item>
       <title>銷售團隊如何使用 ChatGPT 工作</title>
       <link>https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</link>
       <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</guid>
@@ -1803,6 +1785,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解銷售團隊如何使用 ChatGPT 工作，從實際工作輸入建立管線簡報、會議準備資料包、預測檢視、客戶計畫，以及停滯交易診斷。</description>
+    </item>
+    <item>
+      <title>資料科學團隊如何使用 ChatGPT 工作</title>
+      <link>https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</link>
+      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解資料科學團隊如何使用 ChatGPT 工作，從實際工作輸入建立根因簡報、影響摘要、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
     </item>
     <item>
       <title>德國電信如何以 AI 重塑電信業</title>
@@ -1841,15 +1832,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解 GPT-5.6 如何透過更強的 AI 能力驅動 Microsoft 365 Copilot，涵蓋 Word、Excel、PowerPoint、Chat 和 Cowork，讓工作更快、品質更高。</description>
     </item>
     <item>
-      <title>GPT-5.5 生物漏洞獎勵計畫</title>
-      <link>https://openai.com/index/bio-bug-bounty</link>
-      <guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
-      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 生物獎勵計畫的詳細資訊</description>
-    </item>
-    <item>
       <title>GPT-5.6：可隨你的雄心擴展的前沿智慧</title>
       <link>https://openai.com/index/gpt-5-6</link>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-6</guid>
@@ -1857,6 +1839,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>每個 token 都有更多智慧、每美元帶來更強的效能，並在你最棘手的工作上按需提供更多能力。</description>
+    </item>
+    <item>
+      <title>GPT-5.5 生物漏洞獎勵計畫</title>
+      <link>https://openai.com/index/bio-bug-bounty</link>
+      <guid isPermaLink="false">https://openai.com/index/bio-bug-bounty</guid>
+      <pubDate>Thu, 09 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 生物獎勵計畫的詳細資訊</description>
     </item>
     <item>
       <title>ChatGPT 現在是你最有雄心工作上的夥伴</title>
@@ -1886,6 +1877,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解 OpenAI 如何處理政府與國家安全合作夥伴關係，包含負責任 AI 使用、民主問責與公共安全的原則。</description>
     </item>
     <item>
+      <title>在程式設計評測中區分訊號與雜訊</title>
+      <link>https://openai.com/index/separating-signal-from-noise-coding-evaluations</link>
+      <guid isPermaLink="false">https://openai.com/index/separating-signal-from-noise-coding-evaluations</guid>
+      <pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的一項新分析揭示了熱門程式設計基準 SWE-Bench Pro 的問題，引發了對於用來評估 AI 模型的可靠性與準確性的疑慮。</description>
+    </item>
+    <item>
       <title>Apple 將增加對 Broadcom 的支出，以生產數十億顆更多美國晶片</title>
       <link>https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/</guid>
@@ -1893,6 +1893,15 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 宣布與 Broadcom 達成一項新的六年承諾，將共同設計與生產客製化矽晶片元件，以及先進的無線連線技術。</description>
+    </item>
+    <item>
+      <title>協助 K–12 教育工作者培養實用的 AI 技能</title>
+      <link>https://openai.com/index/k-12-educators-practical-skills</link>
+      <guid isPermaLink="false">https://openai.com/index/k-12-educators-practical-skills</guid>
+      <pubDate>Wed, 08 Jul 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI Academy 與 Walton Family Foundation 正在推出實作型 AI Skills Jams，協助 K–12 教育工作者為課堂培養實用的 AI 技能。</description>
     </item>
     <item>
       <title>我們公司轉型的最新進展</title>
