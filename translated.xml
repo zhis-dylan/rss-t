@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 03 Sep 2026 16:58:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 17:13:45 GMT</lastBuildDate>
+    <item>
+      <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
+      <link>https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/</guid>
+      <pubDate>Thu, 03 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google AI Educator Series（GES）即將舉辦的訓練課程概覽，以及教師如何將這些工具運用在教學中。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp.webp" alt=""></p><p>Google AI Educator Series（GES）即將舉辦的訓練課程概覽，以及教師如何將這些工具運用在教學中。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>高通在一輪 7,000 萬美元融資中支持 Ultrahuman，押注將智慧戒指變成電腦</title>
+      <link>https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160409</guid>
+      <pubDate>Thu, 03 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ultrahuman 目標在 2027 年 1 月前達到 2 億美元的年營收運行率，同時打造一款由高通驅動的新智慧戒指。</description>
+    </item>
     <item>
       <title>Circular 發表 Ring 3 系列，具備感應式支付與指尖震動提醒</title>
       <link>https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/</link>
@@ -264,15 +285,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這一集《Ads Decoded》中，我們討論如何透過歸因、增量測試和媒體組合模型來評估行銷活動。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>強化地熱再下一城，Google 向 Fervo 購買 400 兆瓦電力</title>
-      <link>https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160133</guid>
-      <pubDate>Wed, 02 Sep 2026 16:54:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Fervo 與 Google 的協議可能擴大到 1 吉瓦的地熱發電量，足以供應猶他州一座非常大型的 AI 資料中心。</description>
     </item>
     <item>
       <title>我們最新捐贈給 Linux Foundation Europe 的專案，將打造一個更注重隱私的數位世界。</title>
@@ -630,18 +642,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" alt=""></p><p>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini Omni 1.1 Flash 讓你能以更多控制來進行建構</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/</guid>
-      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Omni 1.1 Flash 為開發者帶來一套新的創意控制功能與生成式影片能力。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 1.1 Flash 為開發者帶來一套新的創意控制功能與生成式影片能力。</p>]]></content:encoded>
     </item>
     <item>
       <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
