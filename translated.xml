@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 03 Sep 2026 19:30:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:45:17 GMT</lastBuildDate>
+    <item>
+      <title>Cybercab 是特斯拉的「十字路口」時刻</title>
+      <link>https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160634</guid>
+      <pubDate>Thu, 03 Sep 2026 19:42:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家公司即將正式推出這款金色雙座車，沒有方向盤或踏板——這個舉動可能永遠改變特斯拉。</description>
+    </item>
+    <item>
+      <title>據報 Accel 正洽談領投 Thinking Machines 10 億美元融資，估值 400 億美元</title>
+      <link>https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160633</guid>
+      <pubDate>Thu, 03 Sep 2026 19:36:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家備受矚目的新創公司年營收運行率已超過 1 億美元。</description>
+    </item>
     <item>
       <title>公用事業正競相與核融合新創公司建立合作，Realta Fusion 是最新受惠者</title>
       <link>https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/</link>
@@ -264,24 +282,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 的新 Astra 模型將使用「recurrent depth」這項技術，讓模型能在大多數推理模型所具備的序列式思考之外運作。</description>
-    </item>
-    <item>
-      <title>MapQuest 現在是美國排名第一的 app，因為它拒絕配合川普將「Lake America」更名</title>
-      <link>https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160208</guid>
-      <pubDate>Wed, 02 Sep 2026 20:12:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款曾經稱霸的地圖 app 在拒絕採用川普的「Lake America」名稱後，衝上 Apple 美國 App Store 榜首，短短六天就拿下了 2026 年美國下載量的一半以上。</description>
-    </item>
-    <item>
-      <title>看起來駭客確實入侵了一家大型身分證件驗證服務</title>
-      <link>https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160216</guid>
-      <pubDate>Wed, 02 Sep 2026 19:35:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一個身分盜用搜尋網站聲稱，從一個身分驗證服務竊取了超過 1.5 億張駕照照片。這個犯罪網站現在已關閉。</description>
     </item>
     <item>
       <title>建立一個你可以信賴的衡量架構，來引導你的行銷活動。</title>
