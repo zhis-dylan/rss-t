@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 03 Sep 2026 11:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:10:29 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 將收購 Hugging Face</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/</guid>
+      <pubDate>Thu, 03 Sep 2026 11:59:49 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>我很高興宣布，NVIDIA 已同意以 12,930,300,000 美元收購 Hugging Face。我們將攜手擴大 Hugging Face 的平台，強化其基礎架構，並讓全球開發者和機構更容易取得 AI。過去十年來，Clem、Julien、Thomas 以及 Hugging Face 團隊打造了令人驚豔的成果：一個充滿活力的家園，讓人們可以 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/c7220e9c4241f777ae4f7172c60a6f41/6a9961443d63329ca6f0f645_hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450_thmb.jpg?v=bbdb768a-6281-40b7-a3c6-3e314400f61a" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c7220e9c4241f777ae4f7172c60a6f41/6a9961443d63329ca6f0f645_hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450_thmb.jpg?v=bbdb768a-6281-40b7-a3c6-3e314400f61a"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c7220e9c4241f777ae4f7172c60a6f41/6a9961443d63329ca6f0f645_hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-842x450_thmb.jpg?v=bbdb768a-6281-40b7-a3c6-3e314400f61a" alt=""></p><p>我很高興宣布，NVIDIA 已同意以 12,930,300,000 美元收購 Hugging Face。我們將攜手擴大 Hugging Face 的平台，強化其基礎架構，並讓全球開發者和機構更容易取得 AI。過去十年來，Clem、Julien、Thomas 以及 Hugging Face 團隊打造了令人驚豔的成果：一個充滿活力的家園，讓人們可以 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Builders Stage 將把新創公司擴張的實用策略帶到 TechCrunch Disrupt 2026</title>
       <link>https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/</link>
@@ -1177,18 +1189,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://about.fb.com/feed/">About Facebook</source>
       <dc:creator>About Facebook</dc:creator>
       <description>「我最喜歡這些眼鏡的地方，是我能拿到所需資訊的速度——不用等別人讀信給我聽，也不用等別人告訴我冰箱裡有什麼，我就能直接自己看。現在我可以自己獨立做事，這些事以前我可能不會去做。」——Brian Manning，Vision Ireland Meta 正在捐贈 15,000 副 Ray-Ban Meta 眼鏡給 Vision Ireland，愛爾蘭的國家失明關懷慈善機構。這足以提供給該機構所支持的每一位失明與視覺障礙成人——因為我們相信未來屬於每一個人。 Ray-Ban Meta 眼鏡是與歐洲的 EssilorLuxottica 合作打造，是成長最快的消費性產品之一，而我們正在確保它是為所有人打造。人們使用我們的眼鏡，是因為它真的很有幫助——從聽音樂、即時翻譯到免手持通話——而且它們也能為失明或低視力者帶來改變人生的影響。 這些眼鏡將讓愛爾蘭的失明或低視力者接觸到可帶來變革的 AI 技術，幫助處理日常任務，例如閱讀文字、辨識物件，以及取得周遭世界的資訊。Vision Ireland 是愛爾蘭的國家失明關懷慈善機構，今年稍早與 Meta Ireland 總部共同主辦了一場 AI 眼鏡 Demo Day。Vision Ireland 的團隊成員以及來自失明與低視力社群各界的倡議者，獲得了 Meta AI 眼鏡的實作教學，並參與座談討論，示範參與者分享了他們使用眼鏡的經驗回饋。 眼鏡將如何發放 符合資格的失明或低視力者可透過 meta.vi.ie 線上登記意願，或撥打專用電話 +353 1 882 1910。之後，Vision Ireland 將負責分階段推動流程，從申請、評估、資格認定與篩選，一直到現場訓練與支援。 訓練與支援 每副眼鏡都將包含由 Meta 贊助的訓練資源，旨在協助使用者有效使用。訓練內容將涵蓋眼鏡如何辨識物件、閱讀文字，以及僅透過語音管理日常任務——為日常獨立生活帶來重大改變。 現場活動：Vision Ireland 將在全國各地舉辦活動，讓民眾領取眼鏡、獲得受過訓練的工作人員親自指導，並與計畫中的其他參與者交流。 服務台支援：Vision Ireland 服務台將可在訓練後提供後續問題支援。 愛爾蘭是 Meta 國際總部的所在地，也是 Meta 在美國以外最大的據點之一。自 2009 年以來，我們在愛爾蘭就有相當大的業務布局，目前在全國各地設有多個據點，其中包括我們位於 Cork 的 Reality Labs 設施——該設施在為 Meta 的 AI 與 AR 穿戴裝置開發新世代顯示解決方案方面，扮演了關鍵角色，而這些裝置正是下一代運算。位於 Meath 的 Clonee Data Center 也屬於 Meta 的全球基礎設施之一，讓我們的技術與服務得以實現。 Anne O’Leary，Meta Ireland 副總裁暨負責人表示：「我對今天這項具有里程碑意義的 15,000 副 Ray-Ban Meta 眼鏡捐贈給 Vision Ireland 感到無比自豪，Vision Ireland 是我們國家失明關懷慈善機構。我們已經看到這些眼鏡如何改變失明者的日常生活，而這項合作代表這項改變遊戲規則的技術，將持續對失明或視覺障礙者產生深遠影響。」 Dina Powell-McCormick，Meta 總裁暨副董事長表示：「透過與 Vision Ireland 的合作，我們正將 Ray-Ban Meta 眼鏡帶給全國成千上萬的失明者。我親眼見證過這項技術對美國失明退伍軍人有多麼重要，我們致力於讓它在全球都能被使用。我們相信未來屬於每一個人，而這次合作就是這份承諾的有力例證。」 Vision Ireland 執行長 Chris White 表示：「這份贈予失明與視力受損社群的 15,000 副 Ray-Ban Meta 眼鏡，將為成千上萬的人在日常生活中帶來更大的獨立性、自信與選擇。身為愛爾蘭的國家失明關懷慈善機構，Vision Ireland 對於主導全國推廣，並協助確保這項創新技術帶來有意義且長久的影響，感到無比自豪。」 The post 未來屬於每一個人：為 Vision Ireland 支持的每位失明與視覺障礙成人提供免費 AI 眼鏡 appeared first on Meta Newsroom.</description>
-    </item>
-    <item>
-      <title>NVIDIA 執行長榮登 Glassdoor 2026 年最佳執行長榜首</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-glassdoor-best-ceo-2026/</guid>
-      <pubDate>Wed, 12 Aug 2026 14:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 創辦人暨執行長 Jensen Huang 在 Glassdoor 2026 年最佳執行長榜單中排名第 1。這份剛公布的排名，是直接由最了解其領導表現的人——員工——所認可。Huang 名列榜首，99% 的員工認可他所做的工作。「隨著 AI 與不斷變動的期待 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/cb521c3bbcbc0dc5253269936efb18e2/6a7c7e453d6332e2748124b3_GlassdoorBestCEOs2026_16x9-842x450/GlassdoorBestCEOs2026_16x9-842x450_thmb.jpg?v=4289c1f3-cd49-41eb-8a38-6f228204c555" alt=""></p><p>NVIDIA 創辦人暨執行長 Jensen Huang 在 Glassdoor 2026 年最佳執行長榜單中排名第 1。這份剛公布的排名，是直接由最了解其領導表現的人——員工——所認可。Huang 名列榜首，99% 的員工認可他所做的工作。「隨著 AI 與不斷變動的期待 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>從輔助到執行：企業如何運用 AI 工作</title>
