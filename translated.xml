@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 03 Sep 2026 12:40:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 12:55:58 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 確認將以 129 億美元收購 Hugging Face</title>
+      <link>https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160347</guid>
+      <pubDate>Thu, 03 Sep 2026 12:42:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nvidia 表示，Hugging Face 託管超過 300 萬個模型，並被超過 1800 萬名開發者使用。</description>
+    </item>
     <item>
       <title>在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單</title>
       <link>https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/</link>
@@ -252,15 +261,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這個北歐國家表示，考量到隱私風險，可穿戴相機頭戴裝置需要受到規範。</description>
-    </item>
-    <item>
-      <title>Adobe 正將其工具提供到 Slack 中</title>
-      <link>https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160017</guid>
-      <pubDate>Wed, 02 Sep 2026 13:09:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>使用者將能在 Slack 中存取 Express、Premiere 和 Acrobat。</description>
     </item>
     <item>
       <title>MrBeast 與 Gemini 合作，把看似不可能的龐大點子變成現實</title>
