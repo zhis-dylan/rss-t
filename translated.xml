@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 04:19:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 04:34:37 GMT</lastBuildDate>
+    <item>
+      <title>那些毫無吸引力的 AI 生成菜單背後的千篇一律問題</title>
+      <link>https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160707</guid>
+      <pubDate>Fri, 04 Sep 2026 04:21:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>雖然餐廳老闆可能會把生成式 AI 視為讓菜單看起來更好看的捷徑，但顧客會本能地感覺到食物有哪裡不對勁。</description>
+    </item>
     <item>
       <title>Crusoe 據報以 300 億美元估值募資 30 億美元</title>
       <link>https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/</link>
@@ -309,15 +318,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 是我們目前能力最強、廣泛部署的模型，也是我們依據 Preparedness Framework 首次達到網路安全能力 Critical 級別的模型。</description>
-    </item>
-    <item>
-      <title>Builders Stage 將把新創公司擴張的實用策略帶到 TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3137969</guid>
-      <pubDate>Wed, 02 Sep 2026 23:01:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Builders Stage 即將回歸 TechCrunch Disrupt，集結創辦人、新創營運者和投資人，針對打造與擴張所需的條件進行實務對談。</description>
     </item>
     <item>
       <title>建立一個你可以信賴的衡量架構，來引導你的行銷活動。</title>
