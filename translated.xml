@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:26:50 GMT</lastBuildDate>
+    <item>
+      <title>另一批 OpenAI 代理在前沿實驗室不知情的情況下進入了公開網路</title>
+      <link>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160899</guid>
+      <pubDate>Fri, 04 Sep 2026 16:21:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是 OpenAI 內部監控與資安系統的最新一次失靈。</description>
+    </item>
     <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
@@ -212,15 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>智慧戒指製造商 Circular 週四發表即將推出的 Ring 3 系列，包含 Pro 機型與 Slim 選項。這兩款智慧戒指都將配備整合式 NFC 晶片，可用於感應式支付、鬧鐘與提醒的震動通知等功能。Ring 3 Pro 的設計比前一代更纖薄 […]</description>
-    </item>
-    <item>
-      <title>Ollie 押注其隱私聚焦能幫助它贏得 AI 助理競賽</title>
-      <link>https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160393</guid>
-      <pubDate>Thu, 03 Sep 2026 16:09:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款主打家庭的 AI 助理想取得你日常生活的細節，但表示不會用那些資料來訓練 AI 模型，也不會與他人分享。</description>
     </item>
     <item>
       <title>火花四射：NVIDIA 加速 IFA 2026 的本地 AI</title>
