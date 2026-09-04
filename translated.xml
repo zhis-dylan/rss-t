@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 12:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 12:24:36 GMT</lastBuildDate>
+    <item>
+      <title>聯邦政府對 Tesla 的 Cybercab 部署展開調查</title>
+      <link>https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160851</guid>
+      <pubDate>Fri, 04 Sep 2026 12:01:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項調查是在 Tesla 於奧斯汀把首批量產 Cybercab 開上道路後幾個小時才啟動的。</description>
+    </item>
     <item>
       <title>那些毫無吸引力的 AI 生成菜單背後的千篇一律問題</title>
       <link>https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/</link>
@@ -106,15 +115,6 @@
       <description>OpenAI 宣稱 Astra 代表著「電腦和瀏覽器使用的新前沿」，並且它以無可匹敵的「速度、準確性和安全性」處理各種任務。</description>
     </item>
     <item>
-      <title>高通在一輪 7,000 萬美元融資中支持 Ultrahuman，押注將智慧戒指變成電腦</title>
-      <link>https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160409</guid>
-      <pubDate>Thu, 03 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ultrahuman 目標在 2027 年 1 月前達到 2 億美元的年營收運行率，同時打造一款由高通驅動的新智慧戒指。</description>
-    </item>
-    <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
       <link>https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/</guid>
@@ -125,6 +125,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp" alt=""></p><p>Google AI Educator Series（GES）即將舉辦的訓練課程概覽，以及教師如何將這些工具運用在教學中。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>高通在一輪 7,000 萬美元融資中支持 Ultrahuman，押注將智慧戒指變成電腦</title>
+      <link>https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160409</guid>
+      <pubDate>Thu, 03 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ultrahuman 目標在 2027 年 1 月前達到 2 億美元的年營收運行率，同時打造一款由高通驅動的新智慧戒指。</description>
     </item>
     <item>
       <title>Circular 發表 Ring 3 系列，具備感應式支付與指尖震動提醒</title>
@@ -157,15 +166,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" alt=""></p><p>前沿智慧正走向本地化。在 IFA 2026，NVIDIA、Microsoft 及其合作夥伴正攜手提供更快的推論，以及讓代理更容易在 NVIDIA 硬體上設定與執行的新工具。全新精巧的 NVIDIA RTX Spark Windows PC 也將於 10 月登場，提供 AI 愛好者、開發者和創作者 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>Google 在 Gmail、Docs 和 Keep 推出 AI 語音功能</title>
-      <link>https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160341</guid>
-      <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>使用者可以透過這項新的對話式功能搜尋電子郵件或起草文件。</description>
-    </item>
-    <item>
       <title>用你的聲音在 Gmail、Docs 和 Keep 完成更多事情</title>
       <link>https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/</guid>
@@ -176,6 +176,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp" alt=""></p><p>三項全新的語音啟用功能將改變你使用 Google Workspace 產品的方式。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 在 Gmail、Docs 和 Keep 推出 AI 語音功能</title>
+      <link>https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160341</guid>
+      <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>使用者可以透過這項新的對話式功能搜尋電子郵件或起草文件。</description>
     </item>
     <item>
       <title>5 張驚人的視覺圖像展示雄性果蠅的大腦圖譜如何推進神經科學</title>
@@ -190,15 +199,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Male_Fruit_Fly_Hero.max-600x600.format-webp.webp" alt=""></p><p>HHMI Janelia、Google 及合作夥伴已繪製出一隻雄性果蠅的大腦與中樞神經系統，這是科學中的一個關鍵模式生物。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Google 最新的 AI 天氣模型讓你沒有藉口忘記帶傘</title>
-      <link>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160336</guid>
-      <pubDate>Thu, 03 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google DeepMind 和 Google Research 的科學家今天推出了一個新的人工智慧天氣預報模型，能更清楚地觀測我們正在變化的大氣，並更頻繁地預測其行為。WeatherNext 3 是由深度學習技術帶來氣象學重大變革的最新一波，Google 表示它將開始餵入 […]</description>
-    </item>
-    <item>
       <title>介紹 WeatherNext 3，我們最先進、最準確的全球天氣 AI 模型</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/</guid>
@@ -209,6 +209,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WeatherNext3_Title.max-600x600.format-webp.webp" alt=""></p><p>WeatherNext 3 是我們最先進的全球天氣 AI 模型，現在已可在 Search、Gemini、Maps、Google Maps Platform 和 Cloud 中使用。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 最新的 AI 天氣模型讓你沒有藉口忘記帶傘</title>
+      <link>https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160336</guid>
+      <pubDate>Thu, 03 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google DeepMind 和 Google Research 的科學家今天推出了一個新的人工智慧天氣預報模型，能更清楚地觀測我們正在變化的大氣，並更頻繁地預測其行為。WeatherNext 3 是由深度學習技術帶來氣象學重大變革的最新一波，Google 表示它將開始餵入 […]</description>
     </item>
     <item>
       <title>為前線守護者點亮曙光：投入 10 億美元保護關鍵服務</title>
@@ -270,15 +279,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" medium="image" type="image/png"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Amazon 的 Zoox 將其 robotaxi 服務擴展至拉斯維加斯機場</title>
-      <link>https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160334</guid>
-      <pubDate>Thu, 03 Sep 2026 12:12:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Zoox 在開始對 robotaxi 乘車收費幾週後，將服務擴展到這個重要的叫車目的地。</description>
     </item>
     <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
