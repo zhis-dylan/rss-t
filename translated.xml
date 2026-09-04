@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 17:42:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:57:42 GMT</lastBuildDate>
+    <item>
+      <title>法官阻止 X 競爭對手使用 Twitter 名稱，但暫時允許使用「Tweet」</title>
+      <link>https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160903</guid>
+      <pubDate>Fri, 04 Sep 2026 17:52:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一名聯邦法官暫時禁止一個 X 競爭對手使用 Twitter 這個名稱，但認定 X 很可能已經放棄「Tweet」商標和鳥類標誌。這家新創公司之後已重新以 Tweet.app 之名上線。</description>
+    </item>
     <item>
       <title>不准小孩搭乘，以及關於 Tesla Cybercab 的其他新資訊</title>
       <link>https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/</link>
@@ -191,15 +200,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>大多數 AI 工具都允許你選擇退出與模型供應商分享你的使用情況，以改善未來版本。Meta 把這個概念加上了價格標籤。針對其新的 Muse Spark 模型，這款模型是用來驅動程式碼及其他代理程式的，它提供了一個明確的折扣，平均約為 95% […]</description>
-    </item>
-    <item>
-      <title>OpenAI 推出 Astra，其強大（且具爭議）的新模型</title>
-      <link>https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160480</guid>
-      <pubDate>Thu, 03 Sep 2026 18:01:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 宣稱 Astra 代表著「電腦和瀏覽器使用的新前沿」，並且它以無可匹敵的「速度、準確性和安全性」處理各種任務。</description>
     </item>
     <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
