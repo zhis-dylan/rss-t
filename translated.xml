@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 15:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:11:39 GMT</lastBuildDate>
+    <item>
+      <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame.max-600x600.format-webp.webp" alt=""></p><p>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 翻譯推出適用於 iOS 和 Android 的新升級。</title>
+      <link>https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在為 iOS 帶來聆聽模式，而在 Android 上，當你使用其他應用程式或螢幕鎖定時，也能持續進行即時翻譯。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 iOS 帶來聆聽模式，而在 Android 上，當你使用其他應用程式或螢幕鎖定時，也能持續進行即時翻譯。</p>]]></content:encoded>
+    </item>
     <item>
       <title>在復古科技熱潮中，CD 銷售意外回春</title>
       <link>https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/</link>
@@ -332,18 +356,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這一集《Ads Decoded》中，我們討論如何透過歸因、增量測試和媒體組合模型來評估行銷活動。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們最新捐贈給 Linux Foundation Europe 的專案，將打造一個更注重隱私的數位世界。</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" alt=""></p><p>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，並已在 iOS app 上提供。</title>
       <link>https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</guid>
@@ -354,6 +366,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" alt=""></p><p>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們最新捐贈給 Linux Foundation Europe 的專案，將打造一個更注重隱私的數位世界。</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" alt=""></p><p>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</p>]]></content:encoded>
     </item>
     <item>
       <title>政府與企業的主動式網路防禦</title>
@@ -610,18 +634,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp" alt=""></p><p>美國地理名稱資訊系統（GNIS）已正式將「Lake Ontario」在美國境內的名稱改為「Lake America」。由於我們會更新 Google Maps …</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們正在為 Gemini Notebook 推出彈性使用限制。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-flexible-usage-limits/</guid>
-      <pubDate>Fri, 28 Aug 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在為 Gemini Notebook 推出新的彈性、依運算資源而定的使用限制。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_Metering_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_Metering_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_Metering_social.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 Gemini Notebook 推出新的彈性、依運算資源而定的使用限制。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們在波蘭強化防詐保護</title>
       <link>https://about.fb.com/news/2026/08/wzmacniamy-w-polsce-ochrone-przed-oszustwami/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=50072</guid>
@@ -675,18 +687,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" alt=""></p><p>美國加州聖塔克拉拉，2026 年 8 月 27 日——NVIDIA 將在以下財經社群活動中發表簡報：Goldman Sachs Communacopia + Technology Conference，9 月 10 日星期四上午 8:50（太平洋時間）...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>專家智慧：讓你與值得信賴的內容互動的新方式</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/expert-intelligence-leading-sources/</guid>
-      <pubDate>Thu, 27 Aug 2026 19:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Expert_Intelligence_Hero.max-600x600.format-webp.webp" alt=""></p><p>專家智慧讓你可以直接將像是你從 Google Play 圖書購買的電子書加入 Gemini Notebook。</p>]]></content:encoded>
     </item>
     <item>
       <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
