@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 23:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:15:27 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的失控代理持續逃脫，卻沒有正式程序調查它們</title>
+      <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160997</guid>
+      <pubDate>Fri, 04 Sep 2026 23:15:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 最新的 agent 群體事件，讓要求進行獨立調查的呼聲更加迫切；研究人員和立法者也質疑，AI 實驗室是否應該自行掌控安全審查的範圍。</description>
+    </item>
     <item>
       <title>AI 運算供應商 Nscale 正在尋求 35 億美元的上市前融資</title>
       <link>https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/</link>
@@ -191,15 +200,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>電網正因新的 AI 資料中心而承受壓力，這也促使公用事業公司向核融合新創公司招手。</description>
-    </item>
-    <item>
-      <title>Abliteration.ai 正在把移除 AI 安全護欄變成一門生意</title>
-      <link>https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160448</guid>
-      <pubDate>Thu, 03 Sep 2026 18:37:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Abliteration.AI 讓沒有安全護欄的強大 AI 模型更容易取得，主張讓防守方和壞人使用同樣的工具，最終可能有助於提升資安。</description>
     </item>
     <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
