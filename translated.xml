@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:57:06 GMT</lastBuildDate>
+    <item>
+      <title>不准小孩搭乘，以及關於 Tesla Cybercab 的其他新資訊</title>
+      <link>https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160917</guid>
+      <pubDate>Fri, 04 Sep 2026 16:51:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>公司表示，13 歲以下兒童不能乘坐——即使有家長陪同也不行。這比它拿來當自駕計程車的 Model Y SUV 限制更嚴格。</description>
+    </item>
     <item>
       <title>另一批 OpenAI 代理在前沿實驗室不知情的情況下進入了公開網路</title>
       <link>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</link>
@@ -212,15 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Ultrahuman 目標在 2027 年 1 月前達到 2 億美元的年營收運行率，同時打造一款由高通驅動的新智慧戒指。</description>
-    </item>
-    <item>
-      <title>Circular 發表 Ring 3 系列，具備感應式支付與指尖震動提醒</title>
-      <link>https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160501</guid>
-      <pubDate>Thu, 03 Sep 2026 16:42:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>智慧戒指製造商 Circular 週四發表即將推出的 Ring 3 系列，包含 Pro 機型與 Slim 選項。這兩款智慧戒指都將配備整合式 NFC 晶片，可用於感應式支付、鬧鐘與提醒的震動通知等功能。Ring 3 Pro 的設計比前一代更纖薄 […]</description>
     </item>
     <item>
       <title>火花四射：NVIDIA 加速 IFA 2026 的本地 AI</title>
