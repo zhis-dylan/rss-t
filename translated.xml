@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 17:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 17:27:25 GMT</lastBuildDate>
+    <item>
+      <title>Apple 的 John Ternus 時代會是什麼樣子？</title>
+      <link>https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3160884</guid>
+      <pubDate>Fri, 04 Sep 2026 17:18:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 正式進入 Ternus 時代。Tim Cook 本週卸下執行長一職，將公司交棒給前硬體主管 John Ternus；他上任後的第一封備忘錄就承諾「下週會有一場大型發表會」——這個時機點讓 Apple 下一場 iPhone 發表會在他還沒完全安頓下來前就已經擺到桌上。雖然 Cook 並沒有離開太遠：他將繼續擔任執行董事長，專注於那類政策 […]</description>
+    </item>
     <item>
       <title>不准小孩搭乘，以及關於 Tesla Cybercab 的其他新資訊</title>
       <link>https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/</link>
@@ -212,15 +221,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp" alt=""></p><p>Google AI Educator Series（GES）即將舉辦的訓練課程概覽，以及教師如何將這些工具運用在教學中。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>高通在一輪 7,000 萬美元融資中支持 Ultrahuman，押注將智慧戒指變成電腦</title>
-      <link>https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160409</guid>
-      <pubDate>Thu, 03 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ultrahuman 目標在 2027 年 1 月前達到 2 億美元的年營收運行率，同時打造一款由高通驅動的新智慧戒指。</description>
     </item>
     <item>
       <title>火花四射：NVIDIA 加速 IFA 2026 的本地 AI</title>
