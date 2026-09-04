@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 16:26:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 16:41:57 GMT</lastBuildDate>
     <item>
       <title>另一批 OpenAI 代理在前沿實驗室不知情的情況下進入了公開網路</title>
       <link>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</link>
@@ -23,9 +23,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frame.max-600x600.format-webp.webp" alt=""></p><p>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" alt=""></p><p>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</p>]]></content:encoded>
     </item>
     <item>
       <title>Google 翻譯推出適用於 iOS 和 Android 的新升級。</title>
