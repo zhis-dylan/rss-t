@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 13:09:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 13:25:06 GMT</lastBuildDate>
+    <item>
+      <title>美軍在有報導指出遭到精準攻擊後，停用了部隊裝置上的廣告追蹤</title>
+      <link>https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160863</guid>
+      <pubDate>Fri, 04 Sep 2026 13:21:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一封參議員的信件證實，美軍在外國敵手利用位置資料鎖定部隊後，已採取行動防止追蹤。</description>
+    </item>
     <item>
       <title>聯邦政府對 Tesla 的 Cybercab 部署展開調查</title>
       <link>https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/</link>
@@ -257,15 +266,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TikTok 的留言區正在升級。這個社群網路週四宣布，將為留言區推出新功能，包括語音留言、留言投票、照片輪播留言，以及 Live Photo 留言。隨著這些功能加入，這款 App 正在借鑑通訊軟體的功能，試圖加深使用者在平台上的互動。 […]</description>
-    </item>
-    <item>
-      <title>Nvidia 確認將以 129 億美元收購 Hugging Face</title>
-      <link>https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160347</guid>
-      <pubDate>Thu, 03 Sep 2026 12:42:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Nvidia 表示，Hugging Face 託管超過 300 萬個模型，並被超過 1800 萬名開發者使用。</description>
     </item>
     <item>
       <title>在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單</title>
