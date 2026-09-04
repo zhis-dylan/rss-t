@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 04 Sep 2026 20:59:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 21:14:23 GMT</lastBuildDate>
+    <item>
+      <title>AI 運算供應商 Nscale 正在尋求 35 億美元的上市前融資</title>
+      <link>https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160981</guid>
+      <pubDate>Fri, 04 Sep 2026 21:12:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nscale 最近與 Anthropic 簽訂了一筆 450 億美元的交易，目前正洽談在即將到來的 IPO 前再募資。</description>
+    </item>
     <item>
       <title>法官阻止 X 競爭對手使用 Twitter 名稱，但暫時允許使用「Tweet」</title>
       <link>https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/</link>
@@ -191,15 +200,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Abliteration.AI 讓沒有安全護欄的強大 AI 模型更容易取得，主張讓防守方和壞人使用同樣的工具，最終可能有助於提升資安。</description>
-    </item>
-    <item>
-      <title>Meta 付費查看你如何使用他們最新的 AI 模型</title>
-      <link>https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160462</guid>
-      <pubDate>Thu, 03 Sep 2026 18:19:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>大多數 AI 工具都允許你選擇退出與模型供應商分享你的使用情況，以改善未來版本。Meta 把這個概念加上了價格標籤。針對其新的 Muse Spark 模型，這款模型是用來驅動程式碼及其他代理程式的，它提供了一個明確的折扣，平均約為 95% […]</description>
     </item>
     <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
