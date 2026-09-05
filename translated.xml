@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 05 Sep 2026 22:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 22:56:24 GMT</lastBuildDate>
+    <item>
+      <title>Seattle Times 和 Newsday 是最新對 OpenAI 和 Microsoft 提起訴訟的出版品</title>
+      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161049</guid>
+      <pubDate>Sat, 05 Sep 2026 22:49:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>又有兩家新聞機構因 OpenAI 和 Microsoft 據稱使用其新聞報導來訓練 AI 而提起訴訟。</description>
+    </item>
     <item>
       <title>登山健行者在使用 Google Gemini 規劃後獲救</title>
       <link>https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/</link>
@@ -191,15 +200,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在這輪融資完成前，這家資料中心開發商據報已與 Jane Street 簽下 130 億美元合約。</description>
-    </item>
-    <item>
-      <title>Oura 申請上市</title>
-      <link>https://techcrunch.com/2026/09/03/oura-files-to-go-public/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160717</guid>
-      <pubDate>Thu, 03 Sep 2026 22:35:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家戒指製造商表示，其業務在過去一年出現了顯著的營收成長。</description>
     </item>
     <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
