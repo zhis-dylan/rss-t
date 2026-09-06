@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 06 Sep 2026 16:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 17:08:25 GMT</lastBuildDate>
     <item>
       <title>Travis Kalanick 的 Atoms 可能要進軍 robotaxi 業務</title>
       <link>https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</link>
@@ -23,6 +23,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>歡迎回到 TechCrunch Mobility，你的未來交通樞紐，而且比以往任何時候都更能看見 AI 在其中扮演的角色。</description>
+    </item>
+    <item>
+      <title>一個外星心智</title>
+      <link>https://openai.com/index/an-alien-mind</link>
+      <guid isPermaLink="false">https://openai.com/index/an-alien-mind</guid>
+      <pubDate>Sun, 06 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Jakub Pachocki 回顧了日益強大的 AI，以及讓它保持對齊所面臨的挑戰。他呼籲加強防護措施與國際協調。</description>
     </item>
     <item>
       <title>研究加速：OpenAI 內部視角</title>
@@ -305,15 +314,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
@@ -321,6 +321,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
+    </item>
+    <item>
+      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
     </item>
     <item>
       <title>NVIDIA 將收購 Hugging Face</title>
@@ -1276,15 +1285,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>Apple Arcade 透過 Block Blast+ 和 Art of Fauna: Cozy Puzzles+ 擴充其熱門益智遊戲目錄。</description>
     </item>
     <item>
-      <title>在 ChatGPT 中測試廣告</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
-    </item>
-    <item>
       <title>Daybreak 模型現已在 AWS 上提供</title>
       <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
       <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
@@ -1292,6 +1292,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1339,15 +1348,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>ChatGPT Business 即將推出進階席位</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
-    </item>
-    <item>
       <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
       <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
       <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
@@ -1355,6 +1355,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+    </item>
+    <item>
+      <title>ChatGPT Business 即將推出進階席位</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
       <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
@@ -1866,15 +1875,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 和美國職棒大聯盟公布了「Friday Night Baseball」8 月賽程，這項每週雙重賽將於每週五在 Apple TV 上串流播放。</description>
-    </item>
-    <item>
-      <title>GPT-5.6 現已成為 Microsoft 365 Copilot 的預設模型</title>
-      <link>https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot</guid>
-      <pubDate>Thu, 09 Jul 2026 13:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 GPT-5.6 如何透過更強的 AI 能力驅動 Microsoft 365 Copilot，涵蓋 Word、Excel、PowerPoint、Chat 和 Cowork，讓工作更快、品質更高。</description>
     </item>
     <item>
       <title>Apple 獲得創紀錄的 89 項艾美獎提名</title>
