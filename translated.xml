@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 06 Sep 2026 20:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 20:55:14 GMT</lastBuildDate>
+    <item>
+      <title>作者反擊，因出版社與經紀人尋求 Anthropic 和解金分成</title>
+      <link>https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161058</guid>
+      <pubDate>Sun, 06 Sep 2026 20:47:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>作者表示，出版社似乎主張了超出其應得比例的和解金付款。</description>
+    </item>
     <item>
       <title>Travis Kalanick 的 Atoms 可能要進軍 robotaxi 業務</title>
       <link>https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</link>
@@ -209,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一封參議員的信件證實，美軍在外國敵手利用位置資料鎖定部隊後，已採取行動防止追蹤。</description>
-    </item>
-    <item>
-      <title>聯邦政府對 Tesla 的 Cybercab 部署展開調查</title>
-      <link>https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160851</guid>
-      <pubDate>Fri, 04 Sep 2026 12:01:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項調查是在 Tesla 於奧斯汀把首批量產 Cybercab 開上道路後幾個小時才啟動的。</description>
     </item>
     <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
