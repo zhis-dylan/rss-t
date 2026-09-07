@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 07 Sep 2026 00:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 01:12:16 GMT</lastBuildDate>
+    <item>
+      <title>支持亞太地區 16 個綠色 AI 專案</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/ai-planet-accelerator-apac/</guid>
+      <pubDate>Mon, 07 Sep 2026 01:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在支持亞太地區 16 個組織，運用前沿 AI 應對氣候、農業和生物多樣性方面的挑戰。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GDM_Accelerator_hero_placeholde.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GDM_Accelerator_hero_placeholde.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GDM_Accelerator_hero_placeholde.max-600x600.format-webp.webp" alt=""></p><p>我們正在支持亞太地區 16 個組織，運用前沿 AI 應對氣候、農業和生物多樣性方面的挑戰。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Phil Schiller 離開 App Store 據傳是因為對未來計畫心存顧慮</title>
       <link>https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/</link>
@@ -374,18 +386,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這一集《Ads Decoded》中，我們討論如何透過歸因、增量測試和媒體組合模型來評估行銷活動。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，並已在 iOS app 上提供。</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" alt=""></p><p>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們最新捐贈給 Linux Foundation Europe 的專案，將打造一個更注重隱私的數位世界。</title>
       <link>https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</guid>
@@ -396,6 +396,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" alt=""></p><p>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，並已在 iOS app 上提供。</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" alt=""></p><p>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</p>]]></content:encoded>
     </item>
     <item>
       <title>政府與企業的主動式網路防禦</title>
@@ -638,18 +650,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT Ads 年化營收運行率達到 10 億美元，並擴展至全球，透過免費與平價選項支持更廣泛的 AI 存取。</description>
-    </item>
-    <item>
-      <title>GNIS 在美國將 Lake Ontario／Lake America 更名後，會如何顯示在 Maps 中</title>
-      <link>https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/gnis-lake-ontario-lake-america-name-change/</guid>
-      <pubDate>Sat, 29 Aug 2026 04:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>美國地理名稱資訊系統（GNIS）已正式將「Lake Ontario」在美國境內的名稱改為「Lake America」。由於我們會更新 Google Maps …</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Maps_SocialShare.max-600x600.format-webp.webp" alt=""></p><p>美國地理名稱資訊系統（GNIS）已正式將「Lake Ontario」在美國境內的名稱改為「Lake America」。由於我們會更新 Google Maps …</p>]]></content:encoded>
     </item>
     <item>
       <title>我們在波蘭強化防詐保護</title>
