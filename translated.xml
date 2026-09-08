@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 21:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 21:18:47 GMT</lastBuildDate>
+    <item>
+      <title>駭客正在竊取訂閱者的 Claude token</title>
+      <link>https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161463</guid>
+      <pubDate>Tue, 08 Sep 2026 21:10:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>上個月，一位 Claude 使用者注意到，儘管自己沒有在工作，他的帳戶卻一直在消耗 token。Anthropic 自此已警告使用者注意駭客。</description>
+    </item>
+    <item>
+      <title>Cognition 估值達 480 億美元，顯示投資人認為 AI 寫程式市場離贏者全拿還很遠</title>
+      <link>https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161658</guid>
+      <pubDate>Tue, 08 Sep 2026 21:04:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Cognition 的估值倍數，比 Cursor 在賣給 SpaceX 之前還要高。</description>
+    </item>
     <item>
       <title>The Exploration Company 籌得 4.5 億美元，挑戰 SpaceX</title>
       <link>https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/</link>
@@ -333,24 +351,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>作者表示，出版社似乎主張了超出其應得比例的和解金付款。</description>
-    </item>
-    <item>
-      <title>Travis Kalanick 的 Atoms 可能要進軍 robotaxi 業務</title>
-      <link>https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161054</guid>
-      <pubDate>Sun, 06 Sep 2026 16:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Uber 創辦人表示，Atoms 將讓他完成「未竟之事」。</description>
-    </item>
-    <item>
-      <title>TechCrunch Mobility：Tesla Cybercab 上路了——但也遇到了一個小問題</title>
-      <link>https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160993</guid>
-      <pubDate>Sun, 06 Sep 2026 16:08:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歡迎回到 TechCrunch Mobility，你的未來交通樞紐，而且比以往任何時候都更能看見 AI 在其中扮演的角色。</description>
     </item>
     <item>
       <title>一個外星心智</title>
