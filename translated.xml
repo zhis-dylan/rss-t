@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 12:58:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:13:47 GMT</lastBuildDate>
+    <item>
+      <title>可完成的工作已近在咫尺</title>
+      <link>https://openai.com/index/the-work-now-within-reach</link>
+      <guid isPermaLink="false">https://openai.com/index/the-work-now-within-reach</guid>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索更強大、更實惠的 AI 如何擴大人們和企業能夠完成的工作，並讓成長更具經濟效益。</description>
+    </item>
+    <item>
+      <title>協助小型企業以 AI 取得成功</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/</guid>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們前往 66 號公路，幫助 Main Street 的創業者建立使用 AI 的信心。前往 Grow.Google/SMB 探索免費工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helping_Small_Businesses_Win_wi.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helping_Small_Businesses_Win_wi.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helping_Small_Businesses_Win_wi.max-600x600.format-webp.webp" alt=""></p><p>我們前往 66 號公路，幫助 Main Street 的創業者建立使用 AI 的信心。前往 Grow.Google/SMB 探索免費工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Poseidon Aerospace 在首次無人測試飛行前募得 6000 萬美元</title>
+      <link>https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161095</guid>
+      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司正試圖透過完全移除飛行員，重新思考貨運飛機的經濟模式。</description>
+    </item>
     <item>
       <title>Stoke Space 再募得 10 億美元，挑戰 SpaceX 的火箭再飛行</title>
       <link>https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/</link>
@@ -218,15 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一名聯邦法官暫時禁止一個 X 競爭對手使用 Twitter 這個名稱，但認定 X 很可能已經放棄「Tweet」商標和鳥類標誌。這家新創公司之後已重新以 Tweet.app 之名上線。</description>
-    </item>
-    <item>
-      <title>不准小孩搭乘，以及關於 Tesla Cybercab 的其他新資訊</title>
-      <link>https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160917</guid>
-      <pubDate>Fri, 04 Sep 2026 16:51:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>公司表示，13 歲以下兒童不能乘坐——即使有家長陪同也不行。這比它拿來當自駕計程車的 Model Y SUV 限制更嚴格。</description>
     </item>
     <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
@@ -571,18 +592,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" alt=""></p><p>我們正在最新的 Gemini 模型中推出代理式影片理解，以提升準確度並降低成本與 token 使用量。</p>]]></content:encoded>
     </item>
     <item>
-      <title>試試 Google Pics：在 Google Workspace 中輕鬆建立與編輯圖片</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/google-pics/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-pics/</guid>
-      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePics_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google Pics 是我們的圖片建立與編輯工具，現已推出，並採用我們最新的 Nano Banana 模型打造。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>問科學家：研究人員如何使用 AI 預測氣旋？</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</guid>
@@ -817,15 +826,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>今天，我們宣布與來自美國各州、屬地及哥倫比亞特區的 51 位兩黨檢察總長達成協議，延續我們長期以來賦權家長並支持青少年的努力。<br>這篇〈我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -833,6 +833,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1294,15 +1303,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>Apple Arcade 透過 Block Blast+ 和 Art of Fauna: Cozy Puzzles+ 擴充其熱門益智遊戲目錄。</description>
     </item>
     <item>
-      <title>Daybreak 模型現已在 AWS 上提供</title>
-      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
-      <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
-    </item>
-    <item>
       <title>在 ChatGPT 中測試廣告</title>
       <link>https://openai.com/index/testing-ads-in-chatgpt</link>
       <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
@@ -1310,6 +1310,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
+    </item>
+    <item>
+      <title>Daybreak 模型現已在 AWS 上提供</title>
+      <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
+      <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1357,15 +1366,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>ChatGPT Business 即將推出進階席位</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
-    </item>
-    <item>
       <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
       <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
       <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
@@ -1373,6 +1373,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+    </item>
+    <item>
+      <title>ChatGPT Business 即將推出進階席位</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
       <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
@@ -1841,15 +1850,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解企業如何透過衡量每一美元所帶來的有效工作量、提升效率，以及擴展高價值工作流程，來管理 agentic 時代的 AI 投資。</description>
     </item>
     <item>
-      <title>銷售團隊如何使用 ChatGPT 工作</title>
-      <link>https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解銷售團隊如何使用 ChatGPT 工作，從實際工作輸入建立管線簡報、會議準備資料包、預測檢視、客戶計畫，以及停滯交易診斷。</description>
-    </item>
-    <item>
       <title>資料科學團隊如何使用 ChatGPT 工作</title>
       <link>https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</link>
       <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-data-science-teams-use-codex</guid>
@@ -1859,13 +1859,13 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解資料科學團隊如何使用 ChatGPT 工作，從實際工作輸入建立根因簡報、影響摘要、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
     </item>
     <item>
-      <title>德國電信如何以 AI 重塑電信業</title>
-      <link>https://openai.com/index/deutsche-telekom</link>
-      <guid isPermaLink="false">https://openai.com/index/deutsche-telekom</guid>
-      <pubDate>Fri, 10 Jul 2026 07:00:00 GMT</pubDate>
+      <title>銷售團隊如何使用 ChatGPT 工作</title>
+      <link>https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</link>
+      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>德國電信如何透過 OpenAI 轉型客服、員工工作流程、網路營運，以及語音的未來，成為 AI 原生電信業者。</description>
+      <description>了解銷售團隊如何使用 ChatGPT 工作，從實際工作輸入建立管線簡報、會議準備資料包、預測檢視、客戶計畫，以及停滯交易診斷。</description>
     </item>
     <item>
       <title>Apple 與美國職棒大聯盟公布 8 月「Friday Night Baseball」賽程</title>
