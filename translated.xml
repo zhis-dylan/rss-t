@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:29:37 GMT</lastBuildDate>
+    <item>
+      <title>Mistral 在主權 AI 成為大生意之際募得 30 億歐元</title>
+      <link>https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161251</guid>
+      <pubDate>Tue, 08 Sep 2026 14:17:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家法國 AI 實驗室在由 Samsung、Scaleup Europe 和 PSG Equity 領投的 D 輪募資中，以 210 億歐元估值募得 30 億歐元。</description>
+    </item>
     <item>
       <title>駭客竊取了 3.4 億美元的加密貨幣，之後又歸還了大部分</title>
       <link>https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/</link>
@@ -278,15 +287,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 最新的 agent 群體事件，讓要求進行獨立調查的呼聲更加迫切；研究人員和立法者也質疑，AI 實驗室是否應該自行掌控安全審查的範圍。</description>
-    </item>
-    <item>
-      <title>AI 運算供應商 Nscale 正在尋求 35 億美元的上市前融資</title>
-      <link>https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160981</guid>
-      <pubDate>Fri, 04 Sep 2026 21:12:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Nscale 最近與 Anthropic 簽訂了一筆 450 億美元的交易，目前正洽談在即將到來的 IPO 前再募資。</description>
     </item>
     <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
