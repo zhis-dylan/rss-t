@@ -5,7 +5,40 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 14:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:15:05 GMT</lastBuildDate>
+    <item>
+      <title>密蘇里州與 Google 合作推動 AI 與職涯培訓</title>
+      <link>https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/missouri-state-education-partnership/</guid>
+      <pubDate>Tue, 08 Sep 2026 15:05:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 正與密蘇里州合作，為 110 萬名學生提供免費使用 Gemini for Education 和職涯證書的機會。了解如何開始使用。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 正與密蘇里州合作，為 110 萬名學生提供免費使用 Gemini for Education 和職涯證書的機會。了解如何開始使用。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Chrome 現在改為每 2 週推出更新，因為 AI 正在改變資安環境</title>
+      <link>https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161321</guid>
+      <pubDate>Tue, 08 Sep 2026 15:04:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正在加快 Chrome 的發行時程，以更快推出安全修補與新功能。</description>
+    </item>
+    <item>
+      <title>我們正在協助 25 輛新的電動半掛卡車上路，駛上德州道路。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/</guid>
+      <pubDate>Tue, 08 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_inline.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_inline.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_inline.max-600x600.format-webp.webp" alt=""></p><p>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Mistral 在主權 AI 成為大生意之際募得 30 億歐元</title>
       <link>https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/</link>
@@ -280,15 +313,6 @@
       <description>這輪融資是在這家機器人資料新創公司結束隱身狀態幾個月後才啟動的。</description>
     </item>
     <item>
-      <title>OpenAI 的失控代理持續逃脫，卻沒有正式程序調查它們</title>
-      <link>https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160997</guid>
-      <pubDate>Fri, 04 Sep 2026 23:15:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 最新的 agent 群體事件，讓要求進行獨立調查的呼聲更加迫切；研究人員和立法者也質疑，AI 實驗室是否應該自行掌控安全審查的範圍。</description>
-    </item>
-    <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
@@ -467,18 +491,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這一集《Ads Decoded》中，我們討論如何透過歸因、增量測試和媒體組合模型來評估行銷活動。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們最新捐贈給 Linux Foundation Europe 的專案，將打造一個更注重隱私的數位世界。</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" alt=""></p><p>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，並已在 iOS app 上提供。</title>
       <link>https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</guid>
@@ -489,6 +501,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" alt=""></p><p>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們最新捐贈給 Linux Foundation Europe 的專案，將打造一個更注重隱私的數位世界。</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/zero-knowledge-proof-library-linux-foundation/</guid>
+      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" alt=""></p><p>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</p>]]></content:encoded>
     </item>
     <item>
       <title>政府與企業的主動式網路防禦</title>
@@ -598,18 +622,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Inside-Metas-Infrastructure-Lab_Thumbnail.jpg?fit=890%2C501" alt=""></p><p>跟 Tom Shaw 一起走進 Meta 的基礎設施實驗室，探索正在開發、用來驅動下一代 AI 的硬體。<br>〈深入 Meta 的基礎設施實驗室〉一文最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>9 月 Android 更新：記得你把東西放哪裡、減輕暈車感受，還有更多功能</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/android-drop-september-2026/</guid>
-      <pubDate>Tue, 01 Sep 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>幫你掌握重要物品的位置、在搭車時減輕暈車感受、直接從聊天中建立和編輯筆記，還有更多功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Android_Drop_Header_Still.max-600x600.format-webp.webp" alt=""></p><p>幫你掌握重要物品的位置、在搭車時減輕暈車感受、直接從聊天中建立和編輯筆記，還有更多功能。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>AI 原生公司如何將工作流程轉化為營運能力</title>
       <link>https://openai.com/index/ai-native-company-workflows</link>
       <guid isPermaLink="false">https://openai.com/index/ai-native-company-workflows</guid>
@@ -617,18 +629,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Basis、Clay 和 Exa Labs 使用 AI 代理來改善入職流程、帳戶管理和開發者整合。看看企業領導者可以採取哪些做法。</description>
-    </item>
-    <item>
-      <title>推出 Gemini 的代理式影片理解</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/</guid>
-      <pubDate>Tue, 01 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在最新的 Gemini 模型中推出代理式影片理解，以提升準確度並降低成本與 token 使用量。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" alt=""></p><p>我們正在最新的 Gemini 模型中推出代理式影片理解，以提升準確度並降低成本與 token 使用量。</p>]]></content:encoded>
     </item>
     <item>
       <title>Astra 之路：關鍵能力與前沿防護措施</title>
