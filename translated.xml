@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:33:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:48:29 GMT</lastBuildDate>
+    <item>
+      <title>The Exploration Company 籌得 4.5 億美元，挑戰 SpaceX</title>
+      <link>https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161299</guid>
+      <pubDate>Tue, 08 Sep 2026 20:47:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>The Exploration Company（TEC）已募得 4.5 億美元，用於打造可重複使用的太空船，並稱這是「歐洲太空公司有史以來最大規模的 C 輪融資」。</description>
+    </item>
     <item>
       <title>介紹 Muse：全球首款專為所有人打造的個人 AI 代理</title>
       <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
@@ -360,15 +369,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>在 OpenAI 內部，程式設計代理正在重塑 AI 研究。探索關於代理使用、實驗速度、任務複雜度與研究加速的早期資料。</description>
-    </item>
-    <item>
-      <title>Seattle Times 和 Newsday 是最新對 OpenAI 和 Microsoft 提起訴訟的出版品</title>
-      <link>https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161049</guid>
-      <pubDate>Sat, 05 Sep 2026 22:49:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>又有兩家新聞機構因 OpenAI 和 Microsoft 據稱使用其新聞報導來訓練 AI 而提起訴訟。</description>
     </item>
     <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
