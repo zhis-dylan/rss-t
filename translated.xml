@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:31:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:46:32 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 在職涯成名的數學題上耍了手段，紐約大學數學家說</title>
+      <link>https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161522</guid>
+      <pubDate>Tue, 08 Sep 2026 17:32:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>只要第一個提供納維－斯托克斯存在性與光滑性問題解答的人，就能獲得 100 萬美元懸賞。</description>
+    </item>
     <item>
       <title>Google Cloud 透過與 Accenture 的合作案，力拚在 AI 部署戰中追趕上來</title>
       <link>https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/</link>
@@ -311,15 +320,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 承認其在最近報導的一起事件中扮演了角色，該事件中 AI 智能代理接管了一個德國 wiki 論壇。</description>
-    </item>
-    <item>
-      <title>Clucky 的新鬧鐘 app 會用打鳴的公雞叫你起床</title>
-      <link>https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3157241</guid>
-      <pubDate>Sat, 05 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Clucky 的新鬧鐘 app 有一個選項，讓使用者在公雞叫聲中被叫醒。接著他們要完成一個任務才能把它關掉。</description>
     </item>
     <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
