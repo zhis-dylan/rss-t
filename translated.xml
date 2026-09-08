@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 17:46:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 18:01:43 GMT</lastBuildDate>
+    <item>
+      <title>如何觀看 Apple 可摺疊 iPhone 發表會</title>
+      <link>https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160897</guid>
+      <pubDate>Tue, 08 Sep 2026 17:46:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 的年度 iPhone 發表會將於 9 月 9 日上午 10 點 PDT 直播，我們預期會有重大消息。</description>
+    </item>
     <item>
       <title>OpenAI 在職涯成名的數學題上耍了手段，紐約大學數學家說</title>
       <link>https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/</link>
@@ -62,9 +71,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_inline.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_inline.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_inline.max-600x600.format-webp.webp" alt=""></p><p>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp" alt=""></p><p>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</p>]]></content:encoded>
     </item>
     <item>
       <title>Mistral 在主權 AI 成為大生意之際募得 30 億歐元</title>
@@ -311,15 +320,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>警長辦公室表示，這些登山健行者「被 Gemini 建議攜帶的食物和水，遠少於他們一行人所需的量。」</description>
-    </item>
-    <item>
-      <title>OpenAI 確認「wiki 事件」，表示正在「制定一個框架」以進一步揭露資訊</title>
-      <link>https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161042</guid>
-      <pubDate>Sat, 05 Sep 2026 18:05:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 承認其在最近報導的一起事件中扮演了角色，該事件中 AI 智能代理接管了一個德國 wiki 論壇。</description>
     </item>
     <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
