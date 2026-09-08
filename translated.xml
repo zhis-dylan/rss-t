@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:32:45 GMT</lastBuildDate>
     <item>
       <title>介紹 Muse：全球首款專為所有人打造的個人 AI 代理</title>
       <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
@@ -588,6 +588,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp" alt=""></p><p>Gemini 3.8 Flash 和 3.8 Flash Cyber 為 agentic 工作流程與網路安全提供次世代智慧。</p>]]></content:encoded>
     </item>
     <item>
+      <title>在 Waze 上與 Carín León 一起開車</title>
+      <link>https://blog.google/waze/waze-carin-leon/</link>
+      <guid isPermaLink="false">https://blog.google/waze/waze-carin-leon/</guid>
+      <pubDate>Wed, 02 Sep 2026 14:54:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>以其獨特的嗓音、悠閒的個性和索諾拉根源聞名，Carín León 加入 Waze 成為你的新駕駛夥伴，將北墨西哥的精神帶上路……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarinLeon-KeyVisual_Blog2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarinLeon-KeyVisual_Blog2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarinLeon-KeyVisual_Blog2.max-600x600.format-webp.webp" alt=""></p><p>以其獨特的嗓音、悠閒的個性和索諾拉根源聞名，Carín León 加入 Waze 成為你的新駕駛夥伴，將北墨西哥的精神帶上路……</p>]]></content:encoded>
+    </item>
+    <item>
       <title>MrBeast 與 Gemini 合作，把看似不可能的龐大點子變成現實</title>
       <link>https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/</link>
       <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/mrbeast-gemini-google-health/</guid>
@@ -644,18 +656,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7" alt=""></p><p>「我們正處於網路安全的一個轉折點，」Jensen Huang 週二在拉斯維加斯 CrowdStrike 的 Fal.Con 2026 向座無虛席的觀眾表示。攻擊現在已經自動化，防禦也必須如此。NVIDIA 創辦人暨執行長與 CrowdStrike 執行長暨創辦人 George Kurtz 一同宣布 CrowdStrike SafeMind，這是由 CrowdStrike Cyber […] 開發的代理式資安系統。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們在 2026 年 8 月宣布的最新 AI 新聞</title>
-      <link>https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/</guid>
-      <pubDate>Tue, 01 Sep 2026 20:45:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Google 在 2026 年 8 月的最新 AI 更新</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 在 2026 年 8 月的最新 AI 更新</p>]]></content:encoded>
     </item>
     <item>
       <title>深入 Meta 的基礎設施實驗室</title>
