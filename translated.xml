@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:57:36 GMT</lastBuildDate>
+    <item>
+      <title>Stoke Space 再募得 10 億美元，挑戰 SpaceX 的火箭再飛行</title>
+      <link>https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3160935</guid>
+      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Stoke 已「完成首輪交割」，這是一輪 10 億美元的 E 輪融資，目的是幫助它進入軌道，並為營運準備一款新的、更大的火箭。</description>
+    </item>
     <item>
       <title>Eric Wu 的最新公司自 5 月起已不再低調，正瞄準建築業的人力短缺</title>
       <link>https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/</link>
@@ -218,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>公司表示，13 歲以下兒童不能乘坐——即使有家長陪同也不行。這比它拿來當自駕計程車的 Model Y SUV 限制更嚴格。</description>
-    </item>
-    <item>
-      <title>另一批 OpenAI 代理在前沿實驗室不知情的情況下進入了公開網路</title>
-      <link>https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160899</guid>
-      <pubDate>Fri, 04 Sep 2026 16:21:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是 OpenAI 內部監控與資安系統的最新一次失靈。</description>
     </item>
     <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
