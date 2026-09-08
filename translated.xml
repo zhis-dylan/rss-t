@@ -5,7 +5,46 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 13:59:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 14:14:28 GMT</lastBuildDate>
+    <item>
+      <title>駭客竊取了 3.4 億美元的加密貨幣，之後又歸還了大部分</title>
+      <link>https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161313</guid>
+      <pubDate>Tue, 08 Sep 2026 14:11:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這起最新的竊案是迄今最大規模的加密貨幣失竊案之一。</description>
+    </item>
+    <item>
+      <title>核能新創公司 Bluecore Energy 在成立僅兩個月後就募得 5000 萬美元種子輪</title>
+      <link>https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161300</guid>
+      <pubDate>Tue, 08 Sep 2026 14:10:17 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bluecore Energy 週二宣布完成超額認購的 5000 萬美元種子輪募資——距離它剛募得 1000 萬美元 pre-seed 輪，並正式脫離隱身狀態，只過了幾個月。</description>
+    </item>
+    <item>
+      <title>AlphaGenome Atlas：人類 DNA 的高解析度地圖</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/</guid>
+      <pubDate>Tue, 08 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們推出 AlphaGenome Atlas，這是一個可預測人類基因組中每一種可能單核苷酸變異影響的資料庫。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.max-600x600.format-webp.webp" alt=""></p><p>我們推出 AlphaGenome Atlas，這是一個可預測人類基因組中每一種可能單核苷酸變異影響的資料庫。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>網路上最受歡迎的貓咪帶著 Pusheen’s Place 登上 Apple Arcade</title>
+      <link>https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-internets-favorite-cat-comes-to-apple-arcade-with-pusheens-place/</guid>
+      <pubDate>Tue, 08 Sep 2026 13:59:40 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>10 月 1 日起，Apple Arcade 將推出一系列有趣的新遊戲，從溫馨的貓咪收集，到殭屍射擊的混亂場面，再到深受喜愛的 App Store 熱門作品。</description>
+    </item>
     <item>
       <title>可完成的工作已近在咫尺</title>
       <link>https://openai.com/index/the-work-now-within-reach</link>
@@ -53,6 +92,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Eric Wu 在 2022 年退出前打造並經營了 Opendoor，如今他的新公司 NavigateAI 自 5 月起已不再低調——正在打造 AI 副駕，透過智慧型手機和 Meta 的 AI 眼鏡，為建築工人提供即時、免手操作的指引；該公司獲得 Elad Gil、Khosla Ventures 和 Lennar 投資的 2500 萬美元，目標是解決嚴重到連資料中心專案本身現在每個都需要 4000 到 5000 名工人的人力短缺問題。</description>
+    </item>
+    <item>
+      <title>OpenAI 擴大支持新聞業的計畫，從教室到新聞編輯室</title>
+      <link>https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</link>
+      <guid isPermaLink="false">https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正透過工具、訓練和合作夥伴關係，擴大對學生、教育工作者、記者和新聞機構的新聞業支持。</description>
     </item>
     <item>
       <title>Opaque recurrence，以及其他你可能應該知道的 AI 術語</title>
@@ -241,15 +289,6 @@
       <description>Nscale 最近與 Anthropic 簽訂了一筆 450 億美元的交易，目前正洽談在即將到來的 IPO 前再募資。</description>
     </item>
     <item>
-      <title>法官阻止 X 競爭對手使用 Twitter 名稱，但暫時允許使用「Tweet」</title>
-      <link>https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160903</guid>
-      <pubDate>Fri, 04 Sep 2026 17:52:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一名聯邦法官暫時禁止一個 X 競爭對手使用 Twitter 這個名稱，但認定 X 很可能已經放棄「Tweet」商標和鳥類標誌。這家新創公司之後已重新以 Tweet.app 之名上線。</description>
-    </item>
-    <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
@@ -368,15 +407,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
-    </item>
-    <item>
       <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
       <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
@@ -384,6 +414,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
+    </item>
+    <item>
+      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
     </item>
     <item>
       <title>NVIDIA 將收購 Hugging Face</title>
@@ -590,18 +629,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/agentic-video___keyword__blog-h.max-600x600.format-webp.webp" alt=""></p><p>我們正在最新的 Gemini 模型中推出代理式影片理解，以提升準確度並降低成本與 token 使用量。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>問科學家：研究人員如何使用 AI 預測氣旋？</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/weathernext-extreme-weather-cyclone-predictions/</guid>
-      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Cyclone.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 科學家說明 AI 天氣預測如何運作，以及它如何幫助社區比以往更早收到警示。</p>]]></content:encoded>
     </item>
     <item>
       <title>Astra 之路：關鍵能力與前沿防護措施</title>
@@ -1375,15 +1402,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
-      <title>ChatGPT Business 即將推出進階席位</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
-    </item>
-    <item>
       <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
       <link>https://openai.com/index/zapier</link>
       <guid isPermaLink="false">https://openai.com/index/zapier</guid>
@@ -1391,6 +1409,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+    </item>
+    <item>
+      <title>ChatGPT Business 即將推出進階席位</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1859,15 +1886,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解資料科學團隊如何使用 ChatGPT 工作，從實際工作輸入建立根因簡報、影響摘要、KPI 備忘錄、範圍明確的分析，以及儀表板規格。</description>
     </item>
     <item>
-      <title>銷售團隊如何使用 ChatGPT 工作</title>
-      <link>https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</link>
-      <guid isPermaLink="false">https://openai.com/academy/chatgpt-work/how-sales-teams-use-codex</guid>
-      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解銷售團隊如何使用 ChatGPT 工作，從實際工作輸入建立管線簡報、會議準備資料包、預測檢視、客戶計畫，以及停滯交易診斷。</description>
-    </item>
-    <item>
       <title>Apple 與美國職棒大聯盟公布 8 月「Friday Night Baseball」賽程</title>
       <link>https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-and-major-league-baseball-announce-august-friday-night-baseball-schedule/</guid>
@@ -1970,15 +1988,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今日宣布針對巴西 iOS App 的變更，這些變更反映了近期與巴西競爭監管機構 CADE 達成的協議。</description>
-    </item>
-    <item>
-      <title>Apple 推出跨服務的創新功能與智慧體驗</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/apple-unveils-innovative-features-and-intelligence-experiences-across-services/</guid>
-      <pubDate>Tue, 09 Jun 2026 13:00:15 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>隨著 2027 年的軟體版本將於今年秋季推出，Apple 正為服務用戶帶來強大的新功能。</description>
     </item>
   </channel>
 </rss>
