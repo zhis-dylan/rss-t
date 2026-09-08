@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 20:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 20:18:10 GMT</lastBuildDate>
     <item>
       <title>介紹 Muse：全球首款專為所有人打造的個人 AI 代理</title>
       <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
@@ -45,6 +45,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>只要第一個提供納維－斯托克斯存在性與光滑性問題解答的人，就能獲得 100 萬美元懸賞。</description>
+    </item>
+    <item>
+      <title>GPT-5.6 Sol 如何協助執行量子運算實驗</title>
+      <link>https://openai.com/index/codex-quantum-computing-experiments</link>
+      <guid isPermaLink="false">https://openai.com/index/codex-quantum-computing-experiments</guid>
+      <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解一位 MIT 研究人員如何將 GPT-5.6 Sol 與 Codex 搭配，自主執行量子運算實驗、分析結果並校準量子位元。</description>
     </item>
     <item>
       <title>Google Cloud 透過與 Accenture 的合作案，力拚在 AI 部署戰中追趕上來</title>
@@ -1430,15 +1439,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
-    </item>
-    <item>
       <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
       <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
       <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
@@ -1446,6 +1446,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+    </item>
+    <item>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
       <title>ChatGPT Business 即將推出進階席位</title>
@@ -1858,15 +1867,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的創意團隊如何運用 Codex 來打造客製化創意工具、加速發想，並透過具備上下文感知的 AI 更快完成原型開發。</description>
-    </item>
-    <item>
-      <title>Cars24 如何擴大對話規模並以 OpenAI 更快打造產品</title>
-      <link>https://openai.com/index/cars24</link>
-      <guid isPermaLink="false">https://openai.com/index/cars24</guid>
-      <pubDate>Thu, 16 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Cars24 使用由 OpenAI 驅動的語音與聊天代理，每月處理超過 100 萬分鐘的對話，挽回 12% 流失的潛在客戶，並將代理式工作流程帶給公司各團隊。</description>
     </item>
     <item>
       <title>美國職業足球大聯盟明天重返 Apple TV</title>
