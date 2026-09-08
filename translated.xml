@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 08 Sep 2026 19:02:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:17:35 GMT</lastBuildDate>
     <item>
       <title>介紹 Muse：全球首款專為所有人打造的個人 AI 代理</title>
       <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
@@ -228,6 +228,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正透過工具、訓練和合作夥伴關係，擴大對學生、教育工作者、記者和新聞機構的新聞業支持。</description>
+    </item>
+    <item>
+      <title>1Password 透過 Codex 將工程生產力提升 21%</title>
+      <link>https://openai.com/index/1password</link>
+      <guid isPermaLink="false">https://openai.com/index/1password</guid>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>1Password 的工程師使用 Codex 快速打造新功能與內部工具，在維持嚴謹安全政策的同時達到可上線的成熟度。</description>
     </item>
     <item>
       <title>Opaque recurrence，以及其他你可能應該知道的 AI 術語</title>
@@ -1421,15 +1430,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
-    </item>
-    <item>
       <title>ChatGPT Business 即將推出進階席位</title>
       <link>https://openai.com/index/premium-seats-chatgpt-business</link>
       <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
@@ -1437,6 +1437,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
+    </item>
+    <item>
+      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
       <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
@@ -1867,15 +1876,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>在 FIFA 世界盃中斷一個月後，美國職業足球大聯盟將於明天 7 月 16 日重返 Apple TV。</description>
-    </item>
-    <item>
-      <title>美國正透過州與聯邦行動推進 AI 安全</title>
-      <link>https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-ai-safety-through-state-and-federal-action</guid>
-      <pubDate>Wed, 15 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 提出一種用於 AI 治理的「逆向聯邦主義」做法，也就是由州法協助建立安全、民主的 AI 國家框架。</description>
     </item>
     <item>
       <title>Madden NFL 27 Arcade Edition 將於 8 月 6 日為 Apple Arcade 帶來美式足球賽場動作</title>
