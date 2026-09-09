@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 17:29:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 17:44:25 GMT</lastBuildDate>
+    <item>
+      <title>Apple 執行長 John Ternus 表示，最佳的 AI 裝置仍然是 iPhone</title>
+      <link>https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162083</guid>
+      <pubDate>Wed, 09 Sep 2026 17:36:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司也主張，其裝置端模型能為消費者提供更多隱私。</description>
+    </item>
+    <item>
+      <title>Apple 推出 AirPods 5，具備同級最佳開放式主動式降噪</title>
+      <link>https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/</guid>
+      <pubDate>Wed, 09 Sep 2026 17:34:55 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今天宣布推出 AirPods 5，在開放式設計中帶來業界最佳的主動式降噪，音質也更加出色。</description>
+    </item>
+    <item>
+      <title>Apple 發表 iPhone 18 Pro 與 iPhone 18 Pro Max</title>
+      <link>https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/</guid>
+      <pubDate>Wed, 09 Sep 2026 17:30:06 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 宣布推出 iPhone 18 Pro 與 iPhone 18 Pro Max，帶來進階的專業相機系統，以及更好的電池續航力與效能。</description>
+    </item>
     <item>
       <title>Apple 推出配備升級相機的 iPhone 18 Pro</title>
       <link>https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/</link>
@@ -14,6 +41,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 的新款 iPhone 18 Pro 系列升級了相機，並推出酒紅色款式。</description>
+    </item>
+    <item>
+      <title>Paul Christiano 加入 OpenAI Foundation 董事會</title>
+      <link>https://openai.com/index/paul-christiano-joins-openai-foundation-board</link>
+      <guid isPermaLink="false">https://openai.com/index/paul-christiano-joins-openai-foundation-board</guid>
+      <pubDate>Wed, 09 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Paul Christiano 加入 OpenAI Foundation 董事會及其安全與保安委員會，帶來在 AI 對齊、安全與標準方面的經驗。</description>
     </item>
     <item>
       <title>用我們的 Google AI 方案新功能來處理你的待辦清單。</title>
@@ -263,15 +299,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>上個月，一位 Claude 使用者注意到，儘管自己沒有在工作，他的帳戶卻一直在消耗 token。Anthropic 自此已警告使用者注意駭客。</description>
-    </item>
-    <item>
-      <title>Cognition 估值達 480 億美元，顯示投資人認為 AI 寫程式市場離贏者全拿還很遠</title>
-      <link>https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161658</guid>
-      <pubDate>Tue, 08 Sep 2026 21:04:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cognition 的估值倍數，比 Cursor 在賣給 SpaceX 之前還要高。</description>
     </item>
     <item>
       <title>介紹 Muse：全球首款專為所有人打造的個人 AI 代理</title>
@@ -1430,6 +1457,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+    </item>
+    <item>
       <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
       <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
       <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
@@ -1446,15 +1482,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
-    </item>
-    <item>
-      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1851,15 +1878,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <description>了解 OpenAI 如何透過符合年齡的保護措施、學習工具、家長監護控制，以及專家合作夥伴關係，讓 ChatGPT 對青少年更安全。</description>
     </item>
     <item>
-      <title>Codex 如何成為 OpenAI 創意團隊的協作者</title>
-      <link>https://openai.com/index/codex-collaborator-creative-team</link>
-      <guid isPermaLink="false">https://openai.com/index/codex-collaborator-creative-team</guid>
-      <pubDate>Thu, 16 Jul 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的創意團隊如何運用 Codex 來打造客製化創意工具、加速發想，並透過具備上下文感知的 AI 更快完成原型開發。</description>
-    </item>
-    <item>
       <title>美國職業足球大聯盟明天重返 Apple TV</title>
       <link>https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</guid>
@@ -1925,15 +1943,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
 The post Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence appeared first on The Official Microsoft Blog.</description>
     </item>
     <item>
-      <title>Apple Creator Studio 變得更聰明、更快、更連結</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/apple-creator-studio-gets-smarter-faster-and-more-connected/</guid>
-      <pubDate>Tue, 30 Jun 2026 16:59:24 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天推出了 Apple Creator Studio 的強大更新，這是一套開創性的創意 app 集合。</description>
-    </item>
-    <item>
       <title>Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力</title>
       <link>https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563006</guid>
@@ -1971,15 +1980,6 @@ The post Microsoft Frontier Company: AI engineering that amplifies and protects 
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-6_22-Image-1.png" alt=""></p><p>今天，Microsoft 宣布其歷史上最大的一次單筆容量擴充之一。我們將在德州 Pecos 建立一座新的資料中心園區，將我們的全球資料中心容量擴充約 2 吉瓦（GW），以滿足各產業與各地區對 AI 和雲端服務強勁且持續的客戶需求。除了技術層面之外，這也是...<br>〈Powering the next wave of AI: Expanding capacity with our new datacenter in Pecos〉一文最先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple 宣布在巴西對 iOS 的變更</title>
-      <link>https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/06/apple-announces-changes-to-ios-in-brazil/</guid>
-      <pubDate>Thu, 18 Jun 2026 14:59:41 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今日宣布針對巴西 iOS App 的變更，這些變更反映了近期與巴西競爭監管機構 CADE 達成的協議。</description>
     </item>
   </channel>
 </rss>
