@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:43:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:58:45 GMT</lastBuildDate>
+    <item>
+      <title>司法部希望就 Fox 220 億美元的 Roku 交易獲得更多說明</title>
+      <link>https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162063</guid>
+      <pubDate>Wed, 09 Sep 2026 16:44:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Fox 以 220 億美元收購 Roku 的計畫遇到新阻礙。司法部週二向 Fox 和 Roku 發出所謂的「第二次請求」，要求兩家公司交出更多資料和文件，因為該部門正更仔細地審視這筆交易。這是重大反壟斷案中相當標準的一步 […]</description>
+    </item>
     <item>
       <title>NVIDIA 將即時 AI 帶入廣播、體育與全球串流，亮相 IBC</title>
       <link>https://blogs.nvidia.com/blog/ibc-news-2026/</link>
@@ -264,15 +273,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_Thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_Thumbnail.jpg?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_Thumbnail.jpg?fit=890%2C501" alt=""></p><p>Muse 是一款安全、私密的個人 AI 代理，能主動幫助人們達成目標並提出想法。<br>〈介紹 Muse：全球首款專為所有人打造的個人 AI 代理〉一文首先出現在 Meta 新聞編輯室。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 推出其 Muse AI 助理。消費者會信任它嗎？</title>
-      <link>https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161372</guid>
-      <pubDate>Tue, 08 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 新推出的個人 AI 助理 Muse 想要存取使用者的電子郵件、行事曆、付款、健康服務等資料——這讓這家公司迄今最大的消費者 AI 賭注，成為一場重大考驗：人們是否還信任 Meta 取得他們的資料。</description>
     </item>
     <item>
       <title>GPT-5.6 Sol 如何協助執行量子運算實驗</title>
