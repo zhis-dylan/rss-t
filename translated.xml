@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:42:10 GMT</lastBuildDate>
+    <item>
+      <title>Uber 以 1,000 萬美元投資印度車隊營運商 Carrum，估值達 1.68 億美元</title>
+      <link>https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161888</guid>
+      <pubDate>Wed, 09 Sep 2026 14:38:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Carrum Mobility 在印度營運約 5,100 輛車，並且是 Uber 在該國高端 Uber Black 服務的最大車隊合作夥伴。</description>
+    </item>
     <item>
       <title>8 月頂尖公司每位員工的 AI 支出下滑——是夏季淡季，還是警訊？</title>
       <link>https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/</link>
@@ -246,15 +255,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp" alt=""></p><p>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Mistral 在主權 AI 成為大生意之際募得 30 億歐元</title>
-      <link>https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161251</guid>
-      <pubDate>Tue, 08 Sep 2026 14:17:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家法國 AI 實驗室在由 Samsung、Scaleup Europe 和 PSG Equity 領投的 D 輪募資中，以 210 億歐元估值募得 30 億歐元。</description>
     </item>
     <item>
       <title>AlphaGenome Atlas：人類 DNA 的高解析度地圖</title>
