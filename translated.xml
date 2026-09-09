@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:27:00 GMT</lastBuildDate>
+    <item>
+      <title>8 月頂尖公司每位員工的 AI 支出下滑——是夏季淡季，還是警訊？</title>
+      <link>https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161886</guid>
+      <pubDate>Wed, 09 Sep 2026 14:18:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Token 成本下降、更便宜的模型，以及每位員工支出減少——AI 採用的走勢並沒有照 hyperscalers 原本希望的那樣發展。</description>
+    </item>
     <item>
       <title>跨黨派一群國會議員要求美國政府禁止數家雇用駭客代工的公司</title>
       <link>https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/</link>
@@ -246,15 +255,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家法國 AI 實驗室在由 Samsung、Scaleup Europe 和 PSG Equity 領投的 D 輪募資中，以 210 億歐元估值募得 30 億歐元。</description>
-    </item>
-    <item>
-      <title>駭客竊取了 3.4 億美元的加密貨幣，之後又歸還了大部分</title>
-      <link>https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161313</guid>
-      <pubDate>Tue, 08 Sep 2026 14:11:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這起最新的竊案是迄今最大規模的加密貨幣失竊案之一。</description>
     </item>
     <item>
       <title>AlphaGenome Atlas：人類 DNA 的高解析度地圖</title>
