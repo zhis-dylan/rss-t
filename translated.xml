@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:42:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 14:57:20 GMT</lastBuildDate>
+    <item>
+      <title>Shipt 成為最新加入 AI 購物助理的外送 app</title>
+      <link>https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161903</guid>
+      <pubDate>Wed, 09 Sep 2026 14:51:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>使用者可以請助理幫忙做像是「為我星期六的尾牙派對建立一個購物車，供 25 人使用，並包含一些早午餐品項」，或「建立一個適合簡單學校午餐和放學點心的購物車」，Shipt 表示。</description>
+    </item>
     <item>
       <title>Uber 以 1,000 萬美元投資印度車隊營運商 Carrum，估值達 1.68 億美元</title>
       <link>https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/</link>
@@ -234,15 +243,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 正與密蘇里州合作，為 110 萬名學生提供免費使用 Gemini for Education 和職涯證書的機會。了解如何開始使用。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Chrome 現在改為每 2 週推出更新，因為 AI 正在改變資安環境</title>
-      <link>https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161321</guid>
-      <pubDate>Tue, 08 Sep 2026 15:04:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 正在加快 Chrome 的發行時程，以更快推出安全修補與新功能。</description>
     </item>
     <item>
       <title>我們正在協助 25 輛新的電動半掛卡車上路，駛上德州道路。</title>
