@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 18:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 18:30:07 GMT</lastBuildDate>
+    <item>
+      <title>Apple 全新改版的 Health app 將計算你的「健康年齡」和準備度分數</title>
+      <link>https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162124</guid>
+      <pubDate>Wed, 09 Sep 2026 18:16:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這次更新使用 Apple Intelligence 來更好地理解你的健康資料。</description>
+    </item>
+    <item>
+      <title>Apple 發表 iPhone Duo</title>
+      <link>https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/</guid>
+      <pubDate>Wed, 09 Sep 2026 18:15:40 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今天推出 iPhone Duo，這是首款可摺疊 iPhone。</description>
+    </item>
+    <item>
+      <title>一個新的深度學習模型可從太空繪製全球甲烷排放地圖。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/</guid>
+      <pubDate>Wed, 09 Sep 2026 18:15:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 和 NASA JPL 開發了一個 AI 模型，使用 EMIT 從太空繪製並量化全球甲烷排放。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp" alt=""></p><p>Google 和 NASA JPL 開發了一個 AI 模型，使用 EMIT 從太空繪製並量化全球甲烷排放。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Apple 發表 Watch Series 12 和 Watch Ultra 4，搭載可幫你回顧一天的 AI 升級</title>
       <link>https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/</link>
@@ -293,15 +323,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>如果你想在太空中製造產品，並且把產品再帶回來，選擇非常有限：等著前往國際太空站，或是與少數幾家發射太空船、在軌道上停留一段時間後再返回地球的新創公司合作。但那種能前往太空又回來的載具，卻成了 […]</description>
-    </item>
-    <item>
-      <title>Suno 以一個以授權音樂訓練的新模型取代其 AI 模型，隨著著作權訴訟累積</title>
-      <link>https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161803</guid>
-      <pubDate>Wed, 09 Sep 2026 12:05:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在面對一連串訴訟之際，Suno 表示其新模型 Suno v6 並未使用先前版本 AI 模型用來訓練的音樂進行訓練。</description>
     </item>
     <item>
       <title>Google 以 130 億歐元投資 AI 基礎設施，深化對芬蘭的承諾</title>
@@ -676,18 +697,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 是我們目前能力最強、廣泛部署的模型，也是我們依據 Preparedness Framework 首次達到網路安全能力 Critical 級別的模型。</description>
-    </item>
-    <item>
-      <title>建立一個你可以信賴的衡量架構，來引導你的行銷活動。</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-podcast-measurement-stack/</guid>
-      <pubDate>Wed, 02 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在這一集《Ads Decoded》中，我們討論如何透過歸因、增量測試和媒體組合模型來評估行銷活動。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E2_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這一集《Ads Decoded》中，我們討論如何透過歸因、增量測試和媒體組合模型來評估行銷活動。</p>]]></content:encoded>
     </item>
     <item>
       <title>ATV Big Air Tour 讓 3 天的工作變成 3 小時，靠的是 ChatGPT</title>
@@ -1912,15 +1921,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>在 FIFA 世界盃中斷一個月後，美國職業足球大聯盟將於明天 7 月 16 日重返 Apple TV。</description>
-    </item>
-    <item>
-      <title>Madden NFL 27 Arcade Edition 將於 8 月 6 日為 Apple Arcade 帶來美式足球賽場動作</title>
-      <link>https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/madden-nfl-27-arcade-edition-brings-gridiron-action-to-apple-arcade-on-august-6/</guid>
-      <pubDate>Tue, 14 Jul 2026 13:59:25 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple Arcade 透過加入 EA SPORTS Madden NFL 27 等遊戲，擴充其熱門運動遊戲陣容，更多內容將於 8 月登場。</description>
     </item>
     <item>
       <title>我們公司轉型的最新進展</title>
