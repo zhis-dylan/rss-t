@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 22:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:32:39 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 新增一位知名 AI 末日論者加入董事會</title>
+      <link>https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162350</guid>
+      <pubDate>Wed, 09 Sep 2026 22:25:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>專注於對齊的具影響力 AI 研究員 Paul Christiano，將以董事會成員身分加入 OpenAI Foundation。</description>
+    </item>
     <item>
       <title>麻薩諸塞州對資料中心實施新的潔淨能源規則</title>
       <link>https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/</link>
@@ -314,15 +323,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>inDrive 的廣告業務於 2025 年 7 月首次試辦，已展示超過 20 億次曝光，並吸引每月超過 2,000 名付費廣告主。</description>
-    </item>
-    <item>
-      <title>「拿我們的生命在賭」：Anthropic 研究員離職，警告不要發展可自我改進的 AI</title>
-      <link>https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161915</guid>
-      <pubDate>Wed, 09 Sep 2026 15:02:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 研究員 Jacob Coxon 因擔心 AI 末日風險而辭職，並呼籲各實驗室之間達成節奏協議。</description>
     </item>
     <item>
       <title>GPT-6 Astra：工作智慧的下一代</title>
