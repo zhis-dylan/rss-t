@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 14:57:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:12:31 GMT</lastBuildDate>
+    <item>
+      <title>Uber 競爭對手 inDrive 擴展至叫車服務以外，搶攻更多消費者支出</title>
+      <link>https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161973</guid>
+      <pubDate>Wed, 09 Sep 2026 15:10:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>inDrive 的廣告業務於 2025 年 7 月首次試辦，已展示超過 20 億次曝光，並吸引每月超過 2,000 名付費廣告主。</description>
+    </item>
+    <item>
+      <title>「拿我們的生命在賭」：Anthropic 研究員離職，警告不要發展可自我改進的 AI</title>
+      <link>https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161915</guid>
+      <pubDate>Wed, 09 Sep 2026 15:02:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 研究員 Jacob Coxon 因擔心 AI 末日風險而辭職，並呼籲各實驗室之間達成節奏協議。</description>
+    </item>
     <item>
       <title>Shipt 成為最新加入 AI 購物助理的外送 app</title>
       <link>https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/</link>
@@ -213,24 +231,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解一位 MIT 研究人員如何將 GPT-5.6 Sol 與 Codex 搭配，自主執行量子運算實驗、分析結果並校準量子位元。</description>
-    </item>
-    <item>
-      <title>Google Cloud 透過與 Accenture 的合作案，力拚在 AI 部署戰中追趕上來</title>
-      <link>https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161424</guid>
-      <pubDate>Tue, 08 Sep 2026 16:20:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google Cloud 與 Accenture 擴大其企業 AI 推進，押注前線部署工程師來帶動採用並克服部署瓶頸。</description>
-    </item>
-    <item>
-      <title>Google 重新啟用的核電廠獲得美國政府 19 億美元貸款</title>
-      <link>https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161375</guid>
-      <pubDate>Tue, 08 Sep 2026 15:25:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 表示將讓愛荷華州的一座核電廠起死回生。現在，該電廠的擁有者正獲得美國能源部提供的 19 億美元貸款。</description>
     </item>
     <item>
       <title>密蘇里州與 Google 合作推動 AI 與職涯培訓</title>
