@@ -5,7 +5,76 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 09 Sep 2026 15:57:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 16:13:19 GMT</lastBuildDate>
+    <item>
+      <title>超級智慧即將到來。我們該讓它發生嗎？</title>
+      <link>https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3162044</guid>
+      <pubDate>Wed, 09 Sep 2026 16:05:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 公司一直在談論超級智慧 AI，好像這是不可避免的，但最近的安全事件，例如 OpenAI 的 Hugging Face 外洩事件，正顯示出部署比人類更有能力的 AI 系統所潛藏的危險。那麼，當我們無法可靠地控制這些系統會做什麼時，會發生什麼事？在這一集 TechCrunch 的 Equity podcast 中，Rebecca Bellan 邀請到 Connor Leahy，一位 AI 研究員、創業家，現在也是美國執行董事長 […]</description>
+    </item>
+    <item>
+      <title>NVIDIA 將即時 AI 帶入廣播、體育與全球串流，亮相 IBC</title>
+      <link>https://blogs.nvidia.com/blog/ibc-news-2026/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ibc-news-2026/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:42 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" alt=""></p><p>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Search 的全新足球功能為賽事做好準備</title>
+      <link>https://blog.google/products-and-platforms/products/search/football-features-google-search/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/football-features-google-search/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" alt=""></p><p>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>逐格重現一段 70 年的愛情故事</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" alt=""></p><p>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 讓行政雜務快速又輕鬆的 4 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" alt=""></p><p>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</p>]]></content:encoded>
+    </item>
     <item>
       <title>爆紅 AI 助理 Instinct 現在有自己的電子郵件地址</title>
       <link>https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/</link>
@@ -215,15 +284,6 @@
       <description>Meta 新推出的個人 AI 助理 Muse 想要存取使用者的電子郵件、行事曆、付款、健康服務等資料——這讓這家公司迄今最大的消費者 AI 賭注，成為一場重大考驗：人們是否還信任 Meta 取得他們的資料。</description>
     </item>
     <item>
-      <title>如何觀看 Apple 可摺疊 iPhone 發表會</title>
-      <link>https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3160897</guid>
-      <pubDate>Tue, 08 Sep 2026 17:46:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 的年度 iPhone 發表會將於 9 月 9 日上午 10 點 PDT 直播，我們預期會有重大消息。</description>
-    </item>
-    <item>
       <title>GPT-5.6 Sol 如何協助執行量子運算實驗</title>
       <link>https://openai.com/index/codex-quantum-computing-experiments</link>
       <guid isPermaLink="false">https://openai.com/index/codex-quantum-computing-experiments</guid>
@@ -395,18 +455,6 @@
       <description>在 OpenAI 內部，程式設計代理正在重塑 AI 研究。探索關於代理使用、實驗速度、任務複雜度與研究加速的早期資料。</description>
     </item>
     <item>
-      <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
-      <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" alt=""></p><p>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google 翻譯推出適用於 iOS 和 Android 的新升級。</title>
       <link>https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</guid>
@@ -417,6 +465,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 iOS 帶來聆聽模式，而在 Android 上，當你使用其他應用程式或螢幕鎖定時，也能持續進行即時翻譯。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" alt=""></p><p>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
@@ -583,54 +643,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ZKP_Donation_social.max-600x600.format-webp.webp" alt=""></p><p>我們將把開源的 Longfellow 零知識證明程式庫捐贈給 Linux Foundation。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，並已在 iOS app 上提供。</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/book-insights-ios-million-ebooks/</guid>
-      <pubDate>Wed, 02 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Book_insights_social_share_imag.max-600x600.format-webp.webp" alt=""></p><p>Google Play 圖書中的「書籍洞察」現已支援超過百萬本電子書，包括暢銷榜前段作品，並可在 iOS app 上使用。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>政府與企業的主動式網路防禦</title>
-      <link>https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:40:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Fairwind 計畫是一個僅限受邀存取的計畫，供政府與可信任夥伴使用我們的網路防禦工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp" alt=""></p><p>Fairwind 計畫是一個僅限受邀存取的計畫，供政府與可信任夥伴使用我們的網路防禦工具。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>推出 Gemini 3.8 Flash 與 3.8 Flash Cyber</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/</guid>
-      <pubDate>Wed, 02 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 3.8 Flash 和 3.8 Flash Cyber 為 agentic 工作流程與網路安全提供次世代智慧。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header_.max-600x600.format-webp.webp" alt=""></p><p>Gemini 3.8 Flash 和 3.8 Flash Cyber 為 agentic 工作流程與網路安全提供次世代智慧。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在 Waze 上與 Carín León 一起開車</title>
-      <link>https://blog.google/waze/waze-carin-leon/</link>
-      <guid isPermaLink="false">https://blog.google/waze/waze-carin-leon/</guid>
-      <pubDate>Wed, 02 Sep 2026 14:54:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以其獨特的嗓音、悠閒的個性和索諾拉根源聞名，Carín León 加入 Waze 成為你的新駕駛夥伴，將北墨西哥的精神帶上路……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarinLeon-KeyVisual_Blog2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarinLeon-KeyVisual_Blog2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarinLeon-KeyVisual_Blog2.max-600x600.format-webp.webp" alt=""></p><p>以其獨特的嗓音、悠閒的個性和索諾拉根源聞名，Carín León 加入 Waze 成為你的新駕駛夥伴，將北墨西哥的精神帶上路……</p>]]></content:encoded>
     </item>
     <item>
       <title>ATV Big Air Tour 讓 3 天的工作變成 3 小時，靠的是 ChatGPT</title>
@@ -1272,18 +1284,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1" alt=""></p><p>AI 工廠是 AI 時代的關鍵基礎設施——在這裡，運算將能源與資料轉化為智慧，驅動每一家企業、每個產業和每個國家。在 AI 經濟中，運算就是營收。AI 工廠需要完整堆疊的關鍵資源：先進晶片、封裝、記憶體和網路，以及土地、電力和機殼。僅此而已 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 保證 SB Energy 位於俄亥俄州的 PORTS-Pike Technology Campus 將專門承載 NVIDIA AI 運算</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-guarantees-sb-energy-s-ports-pike-technology-campus-in-ohio-to-exclusively-host-nvidia-ai-compute</guid>
-      <pubDate>Mon, 17 Aug 2026 12:33:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 宣布，已透過與 SB Energy 在俄亥俄州派克郡的 PORTS-Pike Technology Campus 合作，取得土地、電力和機殼（LPS）容量，以承載 NVIDIA 運算...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/091eea2d2fde579be40f8220fdb42526/6a829bf63d633298f4b3f8cd_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1_thmb.png?v=4485e282-071f-4027-a12f-440e901bb193" alt=""></p><p>NVIDIA 宣布，已透過與 SB Energy 在俄亥俄州派克郡的 PORTS-Pike Technology Campus 合作，取得土地、電力和機殼（LPS）容量，以承載 NVIDIA 運算...</p>]]></content:encoded>
     </item>
     <item>
       <title>防守者的窗口</title>
