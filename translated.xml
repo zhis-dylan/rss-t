@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 19:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:14:21 GMT</lastBuildDate>
     <item>
       <title>Meta 的 AI 代理人 Muse 現在是美國第 2 名的應用程式</title>
       <link>https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/</link>
@@ -344,6 +344,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
+    </item>
+    <item>
+      <title>Agents API 介紹</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
     </item>
     <item>
       <title>NVIDIA 與澳洲資料中心生態系合作，擴大 AI 基礎設施容量</title>
@@ -795,15 +804,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
@@ -811,6 +811,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
+    </item>
+    <item>
+      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
     </item>
     <item>
       <title>NVIDIA 將收購 Hugging Face</title>
@@ -1121,15 +1130,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>今天，我們宣布與來自美國各州、屬地及哥倫比亞特區的 51 位兩黨檢察總長達成協議，延續我們長期以來賦權家長並支持青少年的努力。<br>這篇〈我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -1137,6 +1137,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1502,15 +1511,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>Apple Arcade 透過 Block Blast+ 和 Art of Fauna: Cozy Puzzles+ 擴充其熱門益智遊戲目錄。</description>
     </item>
     <item>
-      <title>在 ChatGPT 中測試廣告</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
-    </item>
-    <item>
       <title>Daybreak 模型現已在 AWS 上提供</title>
       <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
       <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
@@ -1518,6 +1518,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1902,15 +1911,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 概述了與美國能源部和國家實驗室合作，運用前沿 AI 加速發現，以推動美國科學發展的承諾。</description>
-    </item>
-    <item>
-      <title>介紹 OpenAI Presence</title>
-      <link>https://openai.com/index/introducing-openai-presence</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-openai-presence</guid>
-      <pubDate>Wed, 22 Jul 2026 05:30:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>推出 OpenAI Presence，一個經過驗證的企業 AI 智慧代理平台，協助組織為客戶和內部工作流程部署值得信賴的語音與聊天代理。</description>
     </item>
     <item>
       <title>Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構</title>
