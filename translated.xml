@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 17:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 17:27:42 GMT</lastBuildDate>
     <item>
       <title>Instagram 的最新功能讓你可以把標註的貼文加入個人檔案格狀頁面</title>
       <link>https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/</link>
@@ -26,6 +26,18 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134" alt=""></p><p>製造工廠、倉庫和生產線很少維持不變——任務會改變、配置會調整，新的產品也會到來，而大多數機器人若沒有大幅重新編程，根本跟不上。Skild AI 最新的 S1 機器人基礎模型有助於解決這個問題，專為從單一影片示範中學習先前未見過的長程任務而設計。這個模型上週推出，使用 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>實體 AI 掌舵：全球 Robotaxi 領導者如何運用 NVIDIA 技術打造</title>
+      <link>https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/robotaxi-leaders-full-stack-open-platform/</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:04 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>全球 robotaxi 市場——實體 AI 的第一個商業突破——預計到 2035 年將達 4,000 億美元，屆時將有超過 600 萬輛商用車投入運營，因為無人駕駛車隊已經在全球一些最繁忙、最複雜的街道上載運乘客。部署一輛無人駕駛車是一項挑戰。擴大車隊規模則是 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/ca837387e40cd66776e91dd957020a50/6aa2e5d43d63328b3262219a_auto-robotaxi-hero-kv-blog-r7-1920x1080-1-842x450/auto-robotaxi-hero-kv-blog-r7-1920x1080-1-842x450_thmb.jpg?v=e1fe8a57-6505-4c1a-b812-01e6f6974bbd" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/ca837387e40cd66776e91dd957020a50/6aa2e5d43d63328b3262219a_auto-robotaxi-hero-kv-blog-r7-1920x1080-1-842x450/auto-robotaxi-hero-kv-blog-r7-1920x1080-1-842x450_thmb.jpg?v=e1fe8a57-6505-4c1a-b812-01e6f6974bbd"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/ca837387e40cd66776e91dd957020a50/6aa2e5d43d63328b3262219a_auto-robotaxi-hero-kv-blog-r7-1920x1080-1-842x450/auto-robotaxi-hero-kv-blog-r7-1920x1080-1-842x450_thmb.jpg?v=e1fe8a57-6505-4c1a-b812-01e6f6974bbd" alt=""></p><p>全球 robotaxi 市場——實體 AI 的第一個商業突破——預計到 2035 年將達 4,000 億美元，屆時將有超過 600 萬輛商用車投入運營，因為無人駕駛車隊已經在全球一些最繁忙、最複雜的街道上載運乘客。部署一輛無人駕駛車是一項挑戰。擴大車隊規模則是 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>研究人員如何運用 Codex 和 ChatGPT 搜尋新的抗菌分子</title>
@@ -257,6 +269,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>消息人士表示，Listen Labs 放棄了由 Menlo Ventures 簽署的 C 輪條款表。</description>
+    </item>
+    <item>
+      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
     </item>
     <item>
       <title>NVIDIA 與澳洲資料中心生態系合作，擴大 AI 基礎設施容量</title>
@@ -765,15 +786,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
@@ -781,6 +793,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
+    </item>
+    <item>
+      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
     </item>
     <item>
       <title>NVIDIA 將收購 Hugging Face</title>
@@ -1252,18 +1273,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444" alt=""></p><p>要大規模產生智慧，AI 工廠必須持續運作，而其經濟效益取決於實際輸出：每秒 token 數、每瓦 token 數、每個 token 成本、使用率與運作時間。這需要將 AI 基礎設施設計並建置成完整工廠，而不是一組單獨的加速器。超大規模雲端業者與打造自訂 XPU 的 AI 原生公司必須考慮 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>隨著 Groq 3 LPX 全面量產，NVIDIA 將 Vera Rubin 推論延伸至代理系統</title>
-      <link>https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-rubin-lpx-spectrum-x-nvlink-fusion/</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:41 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI 推論的下一個時代，不會由單一突破性的晶片、網路或系統所定義，而會由 AI 工廠的每一層如何協同運作所定義。這就是為什麼 NVIDIA 正在以適用於代理式系統的快速 token 生成，延伸 Vera Rubin NVL72。NVIDIA Vera Rubin 機架級系統 NVIDIA Groq 今日宣布 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3" alt=""></p><p>AI 推論的下一個時代，不會由單一突破性的晶片、網路或系統所定義，而會由 AI 工廠的每一層如何協同運作所定義。這就是為什麼 NVIDIA 正在以適用於代理式系統的快速 token 生成，延伸 Vera Rubin NVL72。NVIDIA Vera Rubin 機架級系統 NVIDIA Groq 今日宣布 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>在 Kiro 中使用 GPT‑5.6 提升開發者的價格效能</title>
       <link>https://openai.com/index/gpt-5-6-in-kiro</link>
       <guid isPermaLink="false">https://openai.com/index/gpt-5-6-in-kiro</guid>
@@ -1547,13 +1556,13 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
       <title>ChatGPT Business 即將推出進階席位</title>
@@ -1565,13 +1574,13 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
-      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1902,15 +1911,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>NTT DATA Group 使用 ChatGPT Enterprise 和 Codex，協助 9,000 名員工自動化工作、將事件分析縮短至 30 分鐘，並擴大安全的 AI 採用。</description>
-    </item>
-    <item>
-      <title>推出 ChatGPT 小型企業方案</title>
-      <link>https://openai.com/index/introducing-chatgpt-small-business-program</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-small-business-program</guid>
-      <pubDate>Tue, 21 Jul 2026 17:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出 ChatGPT 小型企業方案，協助創業者培養 AI 技能、自動化工作，並透過 ChatGPT Work 成長茁壯。</description>
     </item>
     <item>
       <title>Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構</title>
