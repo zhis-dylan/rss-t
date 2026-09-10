@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:25:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:40:48 GMT</lastBuildDate>
+    <item>
+      <title>Bending Spoons 將以 13.6 億美元收購協作工具製造商 Miro，價格比其 2022 年估值低 90%</title>
+      <link>https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162593</guid>
+      <pubDate>Thu, 10 Sep 2026 14:34:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bending Spoons 正以 13.6 億美元收購 Miro，這對這家職場協作新創公司的估值來說大幅下滑；它在 2021 年底的估值為 175 億美元。</description>
+    </item>
     <item>
       <title>Maven Robotics 想搶走你的機器人部署案</title>
       <link>https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/</link>
@@ -269,15 +278,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp" alt=""></p><p>Google 和 NASA JPL 開發了一個 AI 模型，使用 EMIT 從太空繪製並量化全球甲烷排放。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple 發表 Watch Series 12 和 Watch Ultra 4，搭載可幫你回顧一天的 AI 升級</title>
-      <link>https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162028</guid>
-      <pubDate>Wed, 09 Sep 2026 18:08:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>最值得注意的是，Apple 正在以新的「Audio Intelligence」功能迎戰日益成長的 AI 穿戴裝置浪潮，這些功能可讓你倒回片段並記住日常對話中的細節。</description>
     </item>
     <item>
       <title>Apple 使用 Apple Intelligence 推進健康與健身功能</title>
