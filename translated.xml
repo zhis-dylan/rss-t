@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 16:27:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:42:15 GMT</lastBuildDate>
+    <item>
+      <title>Instagram 的最新功能讓你可以把標註的貼文加入個人檔案格狀頁面</title>
+      <link>https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162710</guid>
+      <pubDate>Thu, 10 Sep 2026 16:31:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Instagram 最新的功能讓使用者可以把「標註」分頁中的貼文移到主要的個人檔案格狀頁面上。</description>
+    </item>
+    <item>
+      <title>Skild AI 運用 NVIDIA 實體 AI，讓機器人從單一影片學會新任務</title>
+      <link>https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/</guid>
+      <pubDate>Thu, 10 Sep 2026 16:30:35 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>製造工廠、倉庫和生產線很少維持不變——任務會改變、配置會調整，新的產品也會到來，而大多數機器人若沒有大幅重新編程，根本跟不上。Skild AI 最新的 S1 機器人基礎模型有助於解決這個問題，專為從單一影片示範中學習先前未見過的長程任務而設計。這個模型上週推出，使用 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134" alt=""></p><p>製造工廠、倉庫和生產線很少維持不變——任務會改變、配置會調整，新的產品也會到來，而大多數機器人若沒有大幅重新編程，根本跟不上。Skild AI 最新的 S1 機器人基礎模型有助於解決這個問題，專為從單一影片示範中學習先前未見過的長程任務而設計。這個模型上週推出，使用 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>研究人員如何運用 Codex 和 ChatGPT 搜尋新的抗菌分子</title>
       <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
@@ -311,15 +332,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 正在將現有 iPhone 機型的價格調漲 100 美元，包括 iPhone 16、iPhone 17 和 iPhone Air。</description>
-    </item>
-    <item>
-      <title>Apple 新款摺疊手機的轉軸是用 AI 打造的</title>
-      <link>https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162168</guid>
-      <pubDate>Wed, 09 Sep 2026 19:21:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 表示，它在這款備受期待的摺疊手機製造過程中使用了 AI 和 3D 列印。</description>
     </item>
     <item>
       <title>Apple 發表 iPhone Duo</title>
@@ -1250,18 +1262,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ae000d071337f11f4c972a05ab29cd98/6a8c5cc93d63322b0421b25c_HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450/HotChips_2026_MKT_KV_Rubin_Rack_Family_Front_comp_4k_V004-2-1-842x450_thmb.jpg?v=96fb9ec7-aeb4-4317-adfa-1d13d00f3af3" alt=""></p><p>AI 推論的下一個時代，不會由單一突破性的晶片、網路或系統所定義，而會由 AI 工廠的每一層如何協同運作所定義。這就是為什麼 NVIDIA 正在以適用於代理式系統的快速 token 生成，延伸 Vera Rubin NVL72。NVIDIA Vera Rubin 機架級系統 NVIDIA Groq 今日宣布 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>每瓦最多提升 30 倍工作量：NVIDIA Vera Rubin NVL72 為 AI 代理樹立新的效率標準</title>
-      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-rubin-nvl72-efficiency-ai-agents/</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:19 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>根據 OpenRouter 的資料，代理式 AI 工作負載消耗的 token 數量是單純聊天請求的 15 倍。為什麼？想想 AI 代理為了投資決策研究一家公司的情況。代理會查詢財務資料庫、搜尋新聞與申報文件，呼叫子代理執行同業比較與估值模型，然後把一切綜合成一個 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4" alt=""></p><p>根據 OpenRouter 的資料，代理式 AI 工作負載消耗的 token 數量是單純聊天請求的 15 倍。為什麼？想想 AI 代理為了投資決策研究一家公司的情況。代理會查詢財務資料庫、搜尋新聞與申報文件，呼叫子代理執行同業比較與估值模型，然後把一切綜合成一個 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>在 Kiro 中使用 GPT‑5.6 提升開發者的價格效能</title>
