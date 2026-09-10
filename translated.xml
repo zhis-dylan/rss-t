@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:59:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 21:14:57 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 因 Astra 需求而暫停 Pro 訂閱</title>
+      <link>https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162967</guid>
+      <pubDate>Thu, 10 Sep 2026 20:59:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司表示，Pro 訂閱對其系統造成最大的負擔，因此在增加更多容量的同時，暫停新用戶註冊。</description>
+    </item>
     <item>
       <title>Anthropic 詳述來自 Alibaba、Moonshot AI 與 DeepSeek 的蒸餾活動</title>
       <link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/</link>
@@ -344,15 +353,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
-    </item>
-    <item>
-      <title>AI 研究新創 Listen Labs 因 Salesforce 談判而取消了一輪 15 億美元募資</title>
-      <link>https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162445</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>消息人士表示，Listen Labs 放棄了由 Menlo Ventures 簽署的 C 輪條款表。</description>
     </item>
     <item>
       <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
