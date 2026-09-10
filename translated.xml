@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:25:04 GMT</lastBuildDate>
+    <item>
+      <title>身分驗證巨頭 IDScan 證實資料外洩，超過 1.5 億張駕照遭竊</title>
+      <link>https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162597</guid>
+      <pubDate>Thu, 10 Sep 2026 13:21:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家身分查驗公司表示，這起資料外洩事件包含了民眾的全名、駕照，以及其他政府核發的身分證件。</description>
+    </item>
     <item>
       <title>d-Matrix 採用 NVIDIA NVLink Fusion 進行機架級 XPU 部署</title>
       <link>https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/</link>
@@ -269,15 +278,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AirPods 5 支援更好的降噪、Siri AI，並在耳機柄上提供音量控制。</description>
-    </item>
-    <item>
-      <title>Apple 發表首款摺疊機 iPhone Duo</title>
-      <link>https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161807</guid>
-      <pubDate>Wed, 09 Sep 2026 17:58:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 今天在庫比蒂諾舉行的「Surprise and Shine」iPhone 發表會上，推出了旗下第一款摺疊裝置，名為 iPhone Duo。這款手機是公司新任執行長 John Ternus 上任後推出的第一款主力產品。公司表示，這款新裝置「靈感來自 iPad 的多功能性」，並也展示了人們如何 […]</description>
     </item>
     <item>
       <title>Apple 使用 Apple Intelligence 推進健康與健身功能</title>
