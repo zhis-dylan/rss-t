@@ -5,7 +5,61 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:09:54 GMT</lastBuildDate>
+    <item>
+      <title>d-Matrix 採用 NVIDIA NVLink Fusion 進行機架級 XPU 部署</title>
+      <link>https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/</guid>
+      <pubDate>Thu, 10 Sep 2026 13:00:21 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI 推論晶片製造商 d-Matrix 今天宣布，將使用 NVIDIA NVLink Fusion，將其下一代 Raptor XPUs 連接至 NVIDIA 的 AI 基礎架構平台——並加入持續擴大的生態系合作夥伴陣容。透過將 Raptor 連接到 NVIDIA NVLink scale-up 與 Spectrum-X scale-out 網路、NVIDIA MGX 機架架構以及更廣泛的 NVIDIA AI 平台，NVLink Fusion […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154" alt=""></p><p>AI 推論晶片製造商 d-Matrix 今天宣布，將使用 NVIDIA NVLink Fusion，將其下一代 Raptor XPUs 連接至 NVIDIA 的 AI 基礎架構平台——並加入持續擴大的生態系合作夥伴陣容。透過將 Raptor 連接到 NVIDIA NVLink scale-up 與 Spectrum-X scale-out 網路、NVIDIA MGX 機架架構以及更廣泛的 NVIDIA AI 平台，NVLink Fusion […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>踏上戰場：《WARDOGS》在 GeForce NOW 搶先體驗上市時火力全開</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/</guid>
+      <pubDate>Thu, 10 Sep 2026 13:00:18 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>整裝上陣：本週 GeForce NOW 已準備好讓你遊玩最新的 PC 遊戲與重大更新。WARDOGS 在搶先體驗上市時登上雲端，並同步推出 Valheim 1.0 Deep North 更新與 Bus Simulator 27——這是加入雲端的九款新作之一。最新的 PC 版本可能會需要大量硬體、儲存空間 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/5c8236191d88099da65187701b2adab0/6aa2aa023d633259e2f7c530_GFN_Thursday_September_10-842x450/GFN_Thursday_September_10-842x450_thmb.jpg?v=b3760d38-eed0-4c64-9771-f9be437c9346" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/5c8236191d88099da65187701b2adab0/6aa2aa023d633259e2f7c530_GFN_Thursday_September_10-842x450/GFN_Thursday_September_10-842x450_thmb.jpg?v=b3760d38-eed0-4c64-9771-f9be437c9346"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/5c8236191d88099da65187701b2adab0/6aa2aa023d633259e2f7c530_GFN_Thursday_September_10-842x450/GFN_Thursday_September_10-842x450_thmb.jpg?v=b3760d38-eed0-4c64-9771-f9be437c9346" alt=""></p><p>整裝上陣：本週 GeForce NOW 已準備好讓你遊玩最新的 PC 遊戲與重大更新。WARDOGS 在搶先體驗上市時登上雲端，並同步推出 Valheim 1.0 Deep North 更新與 Bus Simulator 27——這是加入雲端的九款新作之一。最新的 PC 版本可能會需要大量硬體、儲存空間 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>透過新的資料與衡量工具推動獲利成長</title>
+      <link>https://blog.google/products/ads-commerce/data-strength-updates/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/data-strength-updates/</guid>
+      <pubDate>Thu, 10 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們衡量工具組中的新功能可協助您做出更好、更快速的決策，帶動業務成長。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp" alt=""></p><p>我們衡量工具組中的新功能可協助您做出更好、更快速的決策，帶動業務成長。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Snapchat 以新的活動規劃功能瞄準 Partiful</title>
+      <link>https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3161586</guid>
+      <pubDate>Thu, 10 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Snapchat 表示，這些新功能可用來組織從生日慶祝、體育賽事到讀書會和週末聚會等各種活動。</description>
+    </item>
+    <item>
+      <title>國防科技公司 Mach Industries 在 3 個月內估值翻倍至 37 億美元</title>
+      <link>https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162185</guid>
+      <pubDate>Thu, 10 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家備受關注的新創公司在 C 輪募資中籌得 6 億美元。</description>
+    </item>
     <item>
       <title>歐洲創辦人與風投敦促立法者「把 EU Inc 做對」</title>
       <link>https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/</link>
@@ -253,15 +307,6 @@
       <description>Apple 今日推出 Apple Watch Series 12，專為提供穿戴裝置中最精準的心率感測而打造。</description>
     </item>
     <item>
-      <title>Apple 執行長 John Ternus 表示，最佳的 AI 裝置仍然是 iPhone</title>
-      <link>https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162083</guid>
-      <pubDate>Wed, 09 Sep 2026 17:36:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司也主張，其裝置端模型能為消費者提供更多隱私。</description>
-    </item>
-    <item>
       <title>Apple 推出 AirPods 5，具備同級最佳開放式主動式降噪</title>
       <link>https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/</guid>
@@ -278,15 +323,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 宣布推出 iPhone 18 Pro 與 iPhone 18 Pro Max，帶來進階的專業相機系統，以及更好的電池續航力與效能。</description>
-    </item>
-    <item>
-      <title>Apple 推出配備升級相機的 iPhone 18 Pro</title>
-      <link>https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161968</guid>
-      <pubDate>Wed, 09 Sep 2026 17:26:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 的新款 iPhone 18 Pro 系列升級了相機，並推出酒紅色款式。</description>
     </item>
     <item>
       <title>Paul Christiano 加入 OpenAI Foundation 董事會</title>
@@ -334,18 +370,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" alt=""></p><p>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</p>]]></content:encoded>
     </item>
     <item>
-      <title>逐格重現一段 70 年的愛情故事</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" alt=""></p><p>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini 讓行政雜務快速又輕鬆的 4 種方式</title>
       <link>https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</guid>
@@ -356,6 +380,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" alt=""></p><p>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>逐格重現一段 70 年的愛情故事</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" alt=""></p><p>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
@@ -596,18 +632,6 @@
       <description>在 OpenAI 內部，程式設計代理正在重塑 AI 研究。探索關於代理使用、實驗速度、任務複雜度與研究加速的早期資料。</description>
     </item>
     <item>
-      <title>Google 翻譯推出適用於 iOS 和 Android 的新升級。</title>
-      <link>https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</guid>
-      <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在為 iOS 帶來聆聽模式，而在 Android 上，當你使用其他應用程式或螢幕鎖定時，也能持續進行即時翻譯。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 iOS 帶來聆聽模式，而在 Android 上，當你使用其他應用程式或螢幕鎖定時，也能持續進行即時翻譯。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
@@ -618,6 +642,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" alt=""></p><p>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 翻譯推出適用於 iOS 和 Android 的新升級。</title>
+      <link>https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</guid>
+      <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在為 iOS 帶來聆聽模式，而在 Android 上，當你使用其他應用程式或螢幕鎖定時，也能持續進行即時翻譯。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 iOS 帶來聆聽模式，而在 Android 上，當你使用其他應用程式或螢幕鎖定時，也能持續進行即時翻譯。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
@@ -654,18 +690,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp" alt=""></p><p>三項全新的語音啟用功能將改變你使用 Google Workspace 產品的方式。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>5 張驚人的視覺圖像展示雄性果蠅的大腦圖譜如何推進神經科學</title>
-      <link>https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/male-fruit-fly-brain-map/</guid>
-      <pubDate>Thu, 03 Sep 2026 15:05:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>HHMI Janelia、Google 及合作夥伴已繪製出一隻雄性果蠅的大腦與中樞神經系統，這是科學中的一個關鍵模式生物。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Male_Fruit_Fly_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Male_Fruit_Fly_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Male_Fruit_Fly_Hero.max-600x600.format-webp.webp" alt=""></p><p>HHMI Janelia、Google 及合作夥伴已繪製出一隻雄性果蠅的大腦與中樞神經系統，這是科學中的一個關鍵模式生物。</p>]]></content:encoded>
     </item>
     <item>
       <title>為前線守護者點亮曙光：投入 10 億美元保護關鍵服務</title>
@@ -1211,30 +1235,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c012995b317864304459f889595fdadb/6a8c5cd03d63322b0421b263_end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450/end-to-end-tech-blog-agentic-perf-kv-1920x1080-5555700-842x450_thmb.jpg?v=242d4884-f62a-46eb-96d0-18a6298ff2b4" alt=""></p><p>根據 OpenRouter 的資料，代理式 AI 工作負載消耗的 token 數量是單純聊天請求的 15 倍。為什麼？想想 AI 代理為了投資決策研究一家公司的情況。代理會查詢財務資料庫、搜尋新聞與申報文件，呼叫子代理執行同業比較與估值模型，然後把一切綜合成一個 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>SpaceXAI 採用 NVIDIA Vera CPU，以在大規模下加速代理式 AI</title>
-      <link>https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/spacexai-adopts-nvidia-vera-cpu-to-accelerate-agentic-ai-at-massive-scale</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布，SpaceXAI 將部署 NVIDIA Vera CPU，加速其下一代代理式 AI 應用，將首款專為 AI 代理打造的 CPU 帶入全球最具雄心的 AI 部署之一。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/65b0fd8afd27d9721e6235c3cd203198/6a8bbea73d63320f3189b09c_nvidia-vera-cpu/nvidia-vera-cpu_thmb.jpg?v=263e9dd8-503b-4fbb-a459-8a61473aa44a" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/65b0fd8afd27d9721e6235c3cd203198/6a8bbea73d63320f3189b09c_nvidia-vera-cpu/nvidia-vera-cpu_thmb.jpg?v=263e9dd8-503b-4fbb-a459-8a61473aa44a"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/65b0fd8afd27d9721e6235c3cd203198/6a8bbea73d63320f3189b09c_nvidia-vera-cpu/nvidia-vera-cpu_thmb.jpg?v=263e9dd8-503b-4fbb-a459-8a61473aa44a" alt=""></p><p>NVIDIA 今日宣布，SpaceXAI 將部署 NVIDIA Vera CPU，加速其下一代代理式 AI 應用，將首款專為 AI 代理打造的 CPU 帶入全球最具雄心的 AI 部署之一。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA Groq 3 LPX 現已全面量產，為代理式 AI 提供世界級速度</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布，互動式 AI 推論加速器 NVIDIA Groq 3 LPX 現已全面量產。作為 NVIDIA Vera Rubin 平台的延伸，Groq 3 LPX 透過讓高度即時反應的代理式系統能夠超高速生成 token，大幅提升 AI 推論效能。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_thmb.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_thmb.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/d61fba36e887bdc54b45bd9d3bb74a2e/6a8b9f313d6332894389b07d_nvidia-groq-3-lpx-rack/nvidia-groq-3-lpx-rack_thmb.png?v=371bafaf-61ba-429f-b95b-fc5eb12cfff9" alt=""></p><p>NVIDIA 今日宣布，互動式 AI 推論加速器 NVIDIA Groq 3 LPX 現已全面量產。作為 NVIDIA Vera Rubin 平台的延伸，Groq 3 LPX 透過讓高度即時反應的代理式系統能夠超高速生成 token，大幅提升 AI 推論效能。</p>]]></content:encoded>
     </item>
     <item>
       <title>在 Kiro 中使用 GPT‑5.6 提升開發者的價格效能</title>
