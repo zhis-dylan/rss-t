@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 12:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 12:39:30 GMT</lastBuildDate>
+    <item>
+      <title>歐洲創辦人與風投敦促立法者「把 EU Inc 做對」</title>
+      <link>https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162296</guid>
+      <pubDate>Thu, 10 Sep 2026 12:25:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在就新的全歐盟公司地位進行談判之際，一封由獨角獸創辦人和投資人簽署的公開信警告，'EU Inc' 不應被稀釋。</description>
+    </item>
     <item>
       <title>美國陸軍押注 1,100 萬美元於奧斯汀的 GPS 替代方案 Tern</title>
       <link>https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/</link>
@@ -299,15 +308,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Plans_Recap_Blog.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Plans_Recap_Blog.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Plans_Recap_Blog.max-600x600.format-webp.webp" alt=""></p><p>訂閱者可以試用 Google Pics 和 Sheets canvas，另外，Gmail、Docs 和 Keep 也有新的語音功能。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>司法部希望就 Fox 220 億美元的 Roku 交易獲得更多說明</title>
-      <link>https://techcrunch.com/2026/09/09/doj-wants-more-answers-on-foxs-22b-roku-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162063</guid>
-      <pubDate>Wed, 09 Sep 2026 16:44:21 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Fox 以 220 億美元收購 Roku 的計畫遇到新阻礙。司法部週二向 Fox 和 Roku 發出所謂的「第二次請求」，要求兩家公司交出更多資料和文件，因為該部門正更仔細地審視這筆交易。這是重大反壟斷案中相當標準的一步 […]</description>
     </item>
     <item>
       <title>NVIDIA 將即時 AI 帶入廣播、體育與全球串流，亮相 IBC</title>
