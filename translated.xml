@@ -5,7 +5,61 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 15:56:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 16:11:54 GMT</lastBuildDate>
+    <item>
+      <title>研究人員如何運用 Codex 和 ChatGPT 搜尋新的抗菌分子</title>
+      <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
+      <guid isPermaLink="false">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>César de la Fuente 的實驗室運用 Codex 和 ChatGPT 搜尋現存與已滅絕的基因組，找出可對抗抗藥性感染的抗菌候選分子。</description>
+    </item>
+    <item>
+      <title>用 Search 為你的下一場重要賽事做準備的 3 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/running-race-training-tips/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/running-race-training-tips/</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Search 可以透過報名提醒、量身打造的訓練計畫等，幫助跑者為比賽日做好準備。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp" alt=""></p><p>Search 可以透過報名提醒、量身打造的訓練計畫等，幫助跑者為比賽日做好準備。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 應用程式現在可在 Windows 上使用</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出適用於 Windows 的 Gemini 應用程式，這款全新桌面應用程式可與你喜愛的工具和日常應用程式並行使用。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出適用於 Windows 的 Gemini 應用程式，這款全新桌面應用程式可與你喜愛的工具和日常應用程式並行使用。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>在 Android 上更換密碼管理工具既簡單又安全</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/switch-password-managers/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/switch-password-managers/</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>新的 Android 功能可讓你在不同密碼管理工具之間安全地轉移密碼和通行密鑰。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp" alt=""></p><p>新的 Android 功能可讓你在不同密碼管理工具之間安全地轉移密碼和通行密鑰。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 讓你在 Android 上更容易切換密碼管理器</title>
+      <link>https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162536</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 的新功能也會一併轉移你的通行密鑰</description>
+    </item>
     <item>
       <title>The Boring Company 透過由阿聯酋領投的輪次募得 30 億美元</title>
       <link>https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/</link>
@@ -268,15 +322,6 @@
       <description>Apple 表示，它在這款備受期待的摺疊手機製造過程中使用了 AI 和 3D 列印。</description>
     </item>
     <item>
-      <title>Apple Watch 的新功能會聆聽你的聊天內容並為你做摘要</title>
-      <link>https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162123</guid>
-      <pubDate>Wed, 09 Sep 2026 19:08:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Siri Recap 功能類似 Granola 這類其他筆記應用程式。</description>
-    </item>
-    <item>
       <title>Apple 發表 iPhone Duo</title>
       <link>https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-unveils-iphone-duo/</guid>
@@ -376,6 +421,30 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" alt=""></p><p>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</p>]]></content:encoded>
     </item>
     <item>
+      <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>逐格重現一段 70 年的愛情故事</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" alt=""></p><p>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>用 Search 的全新足球功能為賽事做好準備</title>
       <link>https://blog.google/products-and-platforms/products/search/football-features-google-search/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/football-features-google-search/</guid>
@@ -398,30 +467,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" alt=""></p><p>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>逐格重現一段 70 年的愛情故事</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" alt=""></p><p>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 政策的窗口已經打開。我們需要採取行動。</title>
@@ -650,18 +695,6 @@
       <description>在 OpenAI 內部，程式設計代理正在重塑 AI 研究。探索關於代理使用、實驗速度、任務複雜度與研究加速的早期資料。</description>
     </item>
     <item>
-      <title>用 Gemini 中的 Lyria 3.5 打造你最棒的曲目。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/better-tracks-lyria-gemini/</guid>
-      <pubDate>Fri, 04 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Lyria_social.max-600x600.format-webp.webp" alt=""></p><p>Lyria 3.5 是我們音效最出色的音樂生成模型，現已可在 Gemini 應用程式和 Gemini API 中使用。Lyria 3.5 帶來更具表現力的人聲與更豐富的音樂...</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google 翻譯推出適用於 iOS 和 Android 的新升級。</title>
       <link>https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/translate/google-translate-ios-android-upgrades/</guid>
@@ -674,18 +707,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_Blog_Asset_1.max-600x600.format-webp.webp" alt=""></p><p>我們正在為 iOS 帶來聆聽模式，而在 Android 上，當你使用其他應用程式或螢幕鎖定時，也能持續進行即時翻譯。</p>]]></content:encoded>
     </item>
     <item>
-      <title>透過 Google AI Educator Series 迎接 AI 新學年</title>
-      <link>https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/new-ai-educator-trainings-september-2026/</guid>
-      <pubDate>Thu, 03 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google AI Educator Series（GES）即將舉辦的訓練課程概覽，以及教師如何將這些工具運用在教學中。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GES_Badgeathon_ArticleHero_2784.max-600x600.format-webp_fiay1SU.webp" alt=""></p><p>Google AI Educator Series（GES）即將舉辦的訓練課程概覽，以及教師如何將這些工具運用在教學中。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>火花四射：NVIDIA 加速 IFA 2026 的本地 AI</title>
       <link>https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/</guid>
@@ -696,18 +717,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" alt=""></p><p>前沿智慧正走向本地化。在 IFA 2026，NVIDIA、Microsoft 及其合作夥伴正攜手提供更快的推論，以及讓代理更容易在 NVIDIA 硬體上設定與執行的新工具。全新精巧的 NVIDIA RTX Spark Windows PC 也將於 10 月登場，提供 AI 愛好者、開發者和創作者 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用你的聲音在 Gmail、Docs 和 Keep 完成更多事情</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/voice-features-gmail-docs-keep/</guid>
-      <pubDate>Thu, 03 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>三項全新的語音啟用功能將改變你使用 Google Workspace 產品的方式。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/voice_in_Gmail_Docs_and_Keep_he.max-600x600.format-webp.webp" alt=""></p><p>三項全新的語音啟用功能將改變你使用 Google Workspace 產品的方式。</p>]]></content:encoded>
     </item>
     <item>
       <title>為前線守護者點亮曙光：投入 10 億美元保護關鍵服務</title>
@@ -744,15 +753,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
-    </item>
-    <item>
       <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
       <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
@@ -760,6 +760,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
+    </item>
+    <item>
+      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
     </item>
     <item>
       <title>NVIDIA 將收購 Hugging Face</title>
@@ -1070,15 +1079,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>今天，我們宣布與來自美國各州、屬地及哥倫比亞特區的 51 位兩黨檢察總長達成協議，延續我們長期以來賦權家長並支持青少年的努力。<br>這篇〈我們與兩黨檢察總長達成協議：呼籲 TikTok 和 YouTube 加入我們，一起支持青少年〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -1086,6 +1086,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1538,15 +1547,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>ChatGPT Business 即將推出進階席位</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
-    </item>
-    <item>
       <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
       <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
       <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
@@ -1554,6 +1554,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+    </item>
+    <item>
+      <title>ChatGPT Business 即將推出進階席位</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
       <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
@@ -1902,15 +1911,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出 ChatGPT 小型企業方案，協助創業者培養 AI 技能、自動化工作，並透過 ChatGPT Work 成長茁壯。</description>
-    </item>
-    <item>
-      <title>OpenAI 與 Hugging Face 合作因應模型評估期間的資安事件</title>
-      <link>https://openai.com/index/hugging-face-model-evaluation-security-incident</link>
-      <guid isPermaLink="false">https://openai.com/index/hugging-face-model-evaluation-security-incident</guid>
-      <pubDate>Tue, 21 Jul 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 與 Hugging Face 分享 AI 模型評估期間資安事件的初步發現，凸顯進階網路攻擊能力，以及對防禦者的啟示。</description>
     </item>
     <item>
       <title>Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構</title>
