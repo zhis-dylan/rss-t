@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 08:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 09:07:39 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與 Palantir 將主權智慧帶入關鍵供應鏈</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains-6928068</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains-6928068</guid>
+      <pubDate>Thu, 10 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Palantir Technologies Inc.（NASDAQ: PLTR）與 NVIDIA（NASDAQ: NVDA）今日宣布合作，將主權 AI 導入關鍵供應鏈，並從 NVIDIA 自身的營運開始。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/38876c048ca50c779d310d7d819f27bd/6aa210be3d63325a96e97259_palantir-nvidia/palantir-nvidia_thmb.jpg?v=f0195c71-b6c0-4659-b603-2f73ebdc1de8" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/38876c048ca50c779d310d7d819f27bd/6aa210be3d63325a96e97259_palantir-nvidia/palantir-nvidia_thmb.jpg?v=f0195c71-b6c0-4659-b603-2f73ebdc1de8"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/38876c048ca50c779d310d7d819f27bd/6aa210be3d63325a96e97259_palantir-nvidia/palantir-nvidia_thmb.jpg?v=f0195c71-b6c0-4659-b603-2f73ebdc1de8" alt=""></p><p>Palantir Technologies Inc.（NASDAQ: PLTR）與 NVIDIA（NASDAQ: NVDA）今日宣布合作，將主權 AI 導入關鍵供應鏈，並從 NVIDIA 自身的營運開始。</p>]]></content:encoded>
+    </item>
     <item>
       <title>AI 研究新創 Listen Labs 因 Salesforce 談判而取消了一輪 15 億美元募資</title>
       <link>https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/</link>
@@ -1223,18 +1235,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑5.6 現已可在 Kiro 中使用，協助開發者以更好的價格效能來規劃、建置、審查和測試軟體。</description>
-    </item>
-    <item>
-      <title>燃起熱情：透過支援新 Firefox 瀏覽器在 GeForce NOW 遊玩遊戲</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-firefox/</guid>
-      <pubDate>Thu, 20 Aug 2026 13:00:24 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>這是進入雲端的新方式。GeForce NOW 開放雲端支援 Firefox，讓你又多一種方式，直接從瀏覽器進入高效能 PC 遊戲，從今天開始。不論是在學校筆電還是日常使用的 PC 上，現在都能更輕鬆地遊玩支援的 PC 遊戲，而不必下載專用應用程式。還有，發掘 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/6456122da2740b9472826cba264217c9/6a86fa953d63320a4ddc7796_GFN_Thursday-Firefox-842x450/GFN_Thursday-Firefox-842x450_thmb.jpg?v=9faec63e-5a29-449d-bfa4-5c0e82aa3feb" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/6456122da2740b9472826cba264217c9/6a86fa953d63320a4ddc7796_GFN_Thursday-Firefox-842x450/GFN_Thursday-Firefox-842x450_thmb.jpg?v=9faec63e-5a29-449d-bfa4-5c0e82aa3feb"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/6456122da2740b9472826cba264217c9/6a86fa953d63320a4ddc7796_GFN_Thursday-Firefox-842x450/GFN_Thursday-Firefox-842x450_thmb.jpg?v=9faec63e-5a29-449d-bfa4-5c0e82aa3feb" alt=""></p><p>這是進入雲端的新方式。GeForce NOW 開放雲端支援 Firefox，讓你又多一種方式，直接從瀏覽器進入高效能 PC 遊戲，從今天開始。不論是在學校筆電還是日常使用的 PC 上，現在都能更輕鬆地遊玩支援的 PC 遊戲，而不必下載專用應用程式。還有，發掘 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹智慧時代</title>
