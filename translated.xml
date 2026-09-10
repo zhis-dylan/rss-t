@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:03:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:18:40 GMT</lastBuildDate>
     <item>
       <title>AI 研究新創 Listen Labs 因 Salesforce 談判而取消了一輪 15 億美元募資</title>
       <link>https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>消息人士表示，Listen Labs 放棄了由 Menlo Ventures 簽署的 C 輪條款表。</description>
+    </item>
+    <item>
+      <title>NVIDIA 與澳洲資料中心生態系合作，擴大 AI 基礎設施容量</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布，正與日益成長的澳洲 NVIDIA 雲端合作夥伴（NCP）與 AI 基礎設施合作夥伴生態系合作，擴大土地、電力與機房外殼容量，以支援多代 NVIDIA DSX™ AI 工廠的建置，滿足該國對 AI 運算日益成長的需求——至 2027 年最高可達 2 GW 的建置規模。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" alt=""></p><p>NVIDIA 今日宣布，正與日益成長的澳洲 NVIDIA 雲端合作夥伴（NCP）與 AI 基礎設施合作夥伴生態系合作，擴大土地、電力與機房外殼容量，以支援多代 NVIDIA DSX™ AI 工廠的建置，滿足該國對 AI 運算日益成長的需求——至 2027 年最高可達 2 GW 的建置規模。</p>]]></content:encoded>
     </item>
     <item>
       <title>Automattic 董事會強制執行長 Matt Mullenweg 休假</title>
@@ -1344,18 +1356,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>NVIDIA 團隊使用 ChatGPT Work 來減少手動工作、連結快速變動的訊號，並在全球擴展成功的工作流程。</description>
-    </item>
-    <item>
-      <title>鞏固智慧基礎設施</title>
-      <link>https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/securing-the-infrastructure-of-intelligence/</guid>
-      <pubDate>Mon, 17 Aug 2026 12:34:51 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI 工廠是 AI 時代的關鍵基礎設施——在這裡，運算將能源與資料轉化為智慧，驅動每一家企業、每個產業和每個國家。在 AI 經濟中，運算就是營收。AI 工廠需要完整堆疊的關鍵資源：先進晶片、封裝、記憶體和網路，以及土地、電力和機殼。僅此而已 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/ab56d354167f3005953b566c6c523933/6a83000f3d63327d55a37982_partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450/partner-promo-pack-logo-lockup-openai-sbenergy-5590550_-press-1920x1080-1-842x450_thmb.jpg?v=2ce8fe92-872c-4062-aa13-2ea0f10008b1" alt=""></p><p>AI 工廠是 AI 時代的關鍵基礎設施——在這裡，運算將能源與資料轉化為智慧，驅動每一家企業、每個產業和每個國家。在 AI 經濟中，運算就是營收。AI 工廠需要完整堆疊的關鍵資源：先進晶片、封裝、記憶體和網路，以及土地、電力和機殼。僅此而已 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>防守者的窗口</title>
