@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 13:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:40:14 GMT</lastBuildDate>
+    <item>
+      <title>Google 與印度新創 Mitti Labs 簽下規模最大的稻米甲烷碳權交易</title>
+      <link>https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162581</guid>
+      <pubDate>Thu, 10 Sep 2026 13:34:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這份為期四年的協議將涵蓋印度三個州的稻田，在最高交付量時達到約 10 萬公頃。</description>
+    </item>
     <item>
       <title>身分驗證巨頭 IDScan 證實資料外洩，超過 1.5 億張駕照遭竊</title>
       <link>https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/</link>
@@ -269,15 +278,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 推出 Apple Reference Image，協助使用者判斷照片是否經過編輯，包括 AI 所做的修改。</description>
-    </item>
-    <item>
-      <title>Apple 展示 AirPods 5，主動降噪功能更進一步</title>
-      <link>https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162126</guid>
-      <pubDate>Wed, 09 Sep 2026 18:06:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AirPods 5 支援更好的降噪、Siri AI，並在耳機柄上提供音量控制。</description>
     </item>
     <item>
       <title>Apple 使用 Apple Intelligence 推進健康與健身功能</title>
