@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 20:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 20:59:47 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 詳述來自 Alibaba、Moonshot AI 與 DeepSeek 的蒸餾活動</title>
+      <link>https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162919</guid>
+      <pubDate>Thu, 10 Sep 2026 20:57:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 週四發布的一份新報告指控，來自中國的 AI 公司持續發動蒸餾攻擊；隨著這個領域的競爭加劇，這類攻擊近幾個月來也愈演愈烈。</description>
+    </item>
+    <item>
+      <title>Furo 的創辦人離開了矽谷——而且這正在帶來回報</title>
+      <link>https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162822</guid>
+      <pubDate>Thu, 10 Sep 2026 20:48:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家能源新創公司 Furo 的三位 28 歲創辦人從矽谷搬回德國，卻仍從大多數來自美國的投資人手中募得 400 萬美元資金。</description>
+    </item>
     <item>
       <title>Meta 的 AI 代理人 Muse 現在是美國第 2 名的應用程式</title>
       <link>https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/</link>
@@ -365,24 +383,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" alt=""></p><p>NVIDIA 今日宣布，正與日益成長的澳洲 NVIDIA 雲端合作夥伴（NCP）與 AI 基礎設施合作夥伴生態系合作，擴大土地、電力與機房外殼容量，以支援多代 NVIDIA DSX™ AI 工廠的建置，滿足該國對 AI 運算日益成長的需求——至 2027 年最高可達 2 GW 的建置規模。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Automattic 董事會強制執行長 Matt Mullenweg 休假</title>
-      <link>https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162370</guid>
-      <pubDate>Wed, 09 Sep 2026 23:14:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 TechCrunch 看到的一則 Slack 訊息，Automattic 的創辦人兼執行長 Matt Mullenweg，也就是 WordPress.com 母公司最廣為人知的那家公司，已被董事會在他不情願的情況下安排休假。週三較早時，Mullenweg 在一個所有員工都看得到的 Slack 頻道發文，表示公司的財務長 […]</description>
-    </item>
-    <item>
-      <title>OpenAI 新增一位知名 AI 末日論者加入董事會</title>
-      <link>https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162350</guid>
-      <pubDate>Wed, 09 Sep 2026 22:25:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>專注於對齊的具影響力 AI 研究員 Paul Christiano，將以董事會成員身分加入 OpenAI Foundation。</description>
     </item>
     <item>
       <title>Apple 發表 iPhone Duo</title>
