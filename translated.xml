@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 10 Sep 2026 14:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:25:38 GMT</lastBuildDate>
+    <item>
+      <title>Maven Robotics 想搶走你的機器人部署案</title>
+      <link>https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162108</guid>
+      <pubDate>Thu, 10 Sep 2026 14:17:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Maven Robotics 今天結束隱身狀態，獲得 1 億美元 A 輪融資，並且已在實際部署中。</description>
+    </item>
     <item>
       <title>Google 與印度新創 Mitti Labs 簽下規模最大的稻米甲烷碳權交易</title>
       <link>https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/</link>
@@ -269,15 +278,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>最值得注意的是，Apple 正在以新的「Audio Intelligence」功能迎戰日益成長的 AI 穿戴裝置浪潮，這些功能可讓你倒回片段並記住日常對話中的細節。</description>
-    </item>
-    <item>
-      <title>Apple 有了新方法證明你的 iPhone 照片不是 AI 垃圾內容</title>
-      <link>https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162127</guid>
-      <pubDate>Wed, 09 Sep 2026 18:08:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 推出 Apple Reference Image，協助使用者判斷照片是否經過編輯，包括 AI 所做的修改。</description>
     </item>
     <item>
       <title>Apple 使用 Apple Intelligence 推進健康與健身功能</title>
