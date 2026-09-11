@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:54:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:09:41 GMT</lastBuildDate>
+    <item>
+      <title>準備好體驗 iPhone 18 Pro、全新的 Apple Watch 系列和 AirPods 5</title>
+      <link>https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/</guid>
+      <pubDate>Fri, 11 Sep 2026 16:00:08 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>從 9 月 12 日星期六開始，顧客可預購 iPhone 18 Pro 和 iPhone 18 Pro Max。</description>
+    </item>
+    <item>
+      <title>Roblox 正在讓用 AI 製作遊戲更容易——而且還能在 Roblox 之外遊玩</title>
+      <link>https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163043</guid>
+      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Roblox 將允許創作者把他們的遊戲以獨立應用程式形式部署到 PC、主機和行動裝置上</description>
+    </item>
     <item>
       <title>Matt Mullenweg 在 Slack 告訴 Automattic 員工，在 CEO 被罷免後他已重新掌握控制權</title>
       <link>https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</link>
@@ -278,15 +296,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Maven Robotics 今天結束隱身狀態，獲得 1 億美元 A 輪融資，並且已在實際部署中。</description>
-    </item>
-    <item>
-      <title>Google 與印度新創 Mitti Labs 簽下規模最大的稻米甲烷碳權交易</title>
-      <link>https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162581</guid>
-      <pubDate>Thu, 10 Sep 2026 13:34:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這份為期四年的協議將涵蓋印度三個州的稻田，在最高交付量時達到約 10 萬公頃。</description>
     </item>
     <item>
       <title>d-Matrix 採用 NVIDIA NVLink Fusion 進行機架級 XPU 部署</title>
@@ -1921,15 +1930,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>AI 工作負載的擴展速度比任何單一基礎架構方案所能支援的都還要快——隨著更多模型、新的代理驅動工作負載，以及激增的運算需求，推動整個技術堆疊對更高專業化的需求。為了滿足這項需求，Microsoft 持續演進 Azure 的基礎架構，包括以 AMD 最先進的 AI 與高效能運算...
 〈Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構〉一文最初刊載於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>美國職業足球大聯盟明天重返 Apple TV</title>
-      <link>https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/major-league-soccer-returns-to-apple-tv-tomorrow/</guid>
-      <pubDate>Wed, 15 Jul 2026 14:59:11 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>在 FIFA 世界盃中斷一個月後，美國職業足球大聯盟將於明天 7 月 16 日重返 Apple TV。</description>
     </item>
     <item>
       <title>我們公司轉型的最新進展</title>
