@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:39:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 16:55:09 GMT</lastBuildDate>
+    <item>
+      <title>Nscale 任命前 OpenAI 高層 Fidji Simo 加入董事會，為潛在 IPO 做準備</title>
+      <link>https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163102</guid>
+      <pubDate>Fri, 11 Sep 2026 16:46:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 的二號主管也曾帶領 Instacart 於 2023 年完成 IPO。</description>
+    </item>
     <item>
       <title>準備好體驗 iPhone 18 Pro、全新的 Apple Watch 系列和 AirPods 5</title>
       <link>https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/</link>
@@ -287,15 +296,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Maven Robotics 今天結束隱身狀態，獲得 1 億美元 A 輪融資，並且已在實際部署中。</description>
-    </item>
-    <item>
-      <title>Google 與印度新創 Mitti Labs 簽下最大規模的稻米甲烷碳權協議</title>
-      <link>https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162581</guid>
-      <pubDate>Thu, 10 Sep 2026 13:34:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項為期四年的協議將涵蓋印度三個邦的稻田，交付高峰時約可覆蓋 10 萬公頃。</description>
     </item>
     <item>
       <title>d-Matrix 採用 NVIDIA NVLink Fusion 進行機架級 XPU 部署</title>
