@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:24:15 GMT</lastBuildDate>
+    <item>
+      <title>Matt Mullenweg 在 Slack 告訴 Automattic 員工，在 CEO 被罷免後他已重新掌握控制權</title>
+      <link>https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163072</guid>
+      <pubDate>Fri, 11 Sep 2026 15:19:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch 看到的一則 Slack 訊息顯示，Matt Mullenweg 告訴 Automattic 員工，他已重新掌控公司；幾天前，該公司董事會才讓他休假。Automattic 目前尚未證實這項看似逆轉的決定。</description>
+    </item>
     <item>
       <title>詐騙者在 Trezor 證實電子郵件供應商資料外洩後，鎖定數十萬加密貨幣持有者</title>
       <link>https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/</link>
@@ -278,15 +287,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這份為期四年的協議將涵蓋印度三個州的稻田，在最高交付量時達到約 10 萬公頃。</description>
-    </item>
-    <item>
-      <title>身分驗證巨頭 IDScan 證實資料外洩，超過 1.5 億張駕照遭竊</title>
-      <link>https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162597</guid>
-      <pubDate>Thu, 10 Sep 2026 13:21:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家身分查驗公司表示，這起資料外洩事件包含了民眾的全名、駕照，以及其他政府核發的身分證件。</description>
     </item>
     <item>
       <title>d-Matrix 採用 NVIDIA NVLink Fusion 進行機架級 XPU 部署</title>
