@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 19:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:41:40 GMT</lastBuildDate>
+    <item>
+      <title>Kimi 開發商 Moonshot AI 目標年營收 20 億美元</title>
+      <link>https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163189</guid>
+      <pubDate>Fri, 11 Sep 2026 19:35:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>雖然 K3 的使用量數據在最近幾個月略有下降，但 OpenRouter 的資料目前顯示，系統上每天最多有 3000 億個 token 由 K3 模型生成。</description>
+    </item>
     <item>
       <title>Roblox 正讓使用 AI 建立遊戲更容易——而且也能在 Roblox 之外遊玩</title>
       <link>https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/</link>
@@ -296,15 +305,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>在 ChatGPT Work 中認識 Data agent。連接公司資料、挖掘洞察，並用 AI 以自然語言建立互動式儀表板。</description>
-    </item>
-    <item>
-      <title>AI 代理人正以新的請求湧入公共服務</title>
-      <link>https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162667</guid>
-      <pubDate>Thu, 10 Sep 2026 14:53:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「我們發現的絕大多數案例都是，原本有資格申請某項補助的人，去申請了那項補助，」這位研究人員告訴 TechCrunch。</description>
     </item>
     <item>
       <title>d-Matrix 採用 NVIDIA NVLink Fusion 進行機架級 XPU 部署</title>
