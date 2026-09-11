@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 20:57:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:12:34 GMT</lastBuildDate>
+    <item>
+      <title>Y Combinator 的 Garry Tan 希望美國開放權重 AI 實驗室也能「蒸餾」前沿模型</title>
+      <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163179</guid>
+      <pubDate>Fri, 11 Sep 2026 20:59:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tan 認為，前沿模型本身也是在公共的人類知識上訓練出來的，所以讓大家能使用有能力的 AI 應該「是一種公共財」。</description>
+    </item>
+    <item>
+      <title>OpenAI 與數學家之間的爭端只是在升溫</title>
+      <link>https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163181</guid>
+      <pubDate>Fri, 11 Sep 2026 20:57:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>25 位頂尖數學家聯名簽署了一封公開信，主張 AI 實驗室正在威脅他們的智識工作。</description>
+    </item>
     <item>
       <title>距離預訂 TechCrunch Disrupt 2026 展位桌只剩一週</title>
       <link>https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/</link>
@@ -209,24 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>走進一個試圖說服網路自己是人類的機器人的腦中。</description>
-    </item>
-    <item>
-      <title>印度的 Pocket FM 在 AI 驅動 93% 音訊內容下，營收年化速度翻倍至 5 億美元</title>
-      <link>https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162605</guid>
-      <pubDate>Thu, 10 Sep 2026 17:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Pocket FM 使用 AI  تولید 其 99% 的新內容，幫助讓內容製作成本便宜約 80 倍。</description>
-    </item>
-    <item>
-      <title>Instagram 的最新功能讓你可以把標註的貼文加入個人檔案格狀頁面</title>
-      <link>https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162710</guid>
-      <pubDate>Thu, 10 Sep 2026 16:31:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Instagram 最新的功能讓使用者可以把「標註」分頁中的貼文移到主要的個人檔案格狀頁面上。</description>
     </item>
     <item>
       <title>Skild AI 運用 NVIDIA 實體 AI，讓機器人從單一影片學會新任務</title>
