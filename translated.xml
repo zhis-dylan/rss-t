@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:38:18 GMT</lastBuildDate>
+    <item>
+      <title>詐騙者在 Trezor 證實電子郵件供應商資料外洩後，鎖定數十萬加密貨幣持有者</title>
+      <link>https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163066</guid>
+      <pubDate>Fri, 11 Sep 2026 13:32:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是影響硬體加密貨幣錢包製造商 Trezor 所仰賴的一家公司的第二起資料外洩事件。</description>
+    </item>
     <item>
       <title>三個獲 Google 支持的專案於第 83 屆威尼斯國際影展首映。</title>
       <link>https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/</link>
@@ -314,15 +323,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp" alt=""></p><p>我們衡量工具組中的新功能可協助您做出更好、更快速的決策，帶動業務成長。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Snapchat 以新的活動規劃功能瞄準 Partiful</title>
-      <link>https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161586</guid>
-      <pubDate>Thu, 10 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Snapchat 表示，這些新功能可用來組織從生日慶祝、體育賽事到讀書會和週末聚會等各種活動。</description>
     </item>
     <item>
       <title>與倫敦 Southbank Centre 探索創意智慧</title>
