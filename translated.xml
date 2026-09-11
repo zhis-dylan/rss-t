@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 16:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 17:10:19 GMT</lastBuildDate>
     <item>
       <title>Nscale 任命前 OpenAI 高層 Fidji Simo 加入董事會，為潛在 IPO 做準備</title>
       <link>https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</link>
@@ -53,6 +53,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp" alt=""></p><p>Google 分享三個利用科技突破人類創意界限的專案細節，這些專案於第 83 屆威尼斯影展首映。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>快速擴充線上儲存服務，支援超過 10 億名 ChatGPT 使用者</title>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
+      <guid isPermaLink="false">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
+      <pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 OpenAI 如何將 Habitat 從 Python 函式庫發展成全球分散式儲存平台，為 10 億名 ChatGPT 使用者與每秒 2200 萬次請求提供服務。</description>
     </item>
     <item>
       <title>Thrive Capital 帶領創投進軍職業體育持股；Collaborative Fund 則剛把這招再往上升級</title>
@@ -1911,15 +1920,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>今天，我們很高興分享對能源部（DOE）Genesis Mission 的長期承諾，並由 6,000 萬美元投資支持，旨在加速科學 AI 及其能為國家帶來的突破。這項更深化的承諾包括 Microsoft 新成立的 Scientific Partnership Advancing Research &amp; Knowledge 協調中心與辦公室，另外……
 這篇文章〈驅動美國的 Genesis Mission：Microsoft 對科學發現的承諾〉最早出現在 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>推進國家科學的下一個時代</title>
-      <link>https://openai.com/index/advancing-the-next-era-of-national-science</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-the-next-era-of-national-science</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 概述了與美國能源部和國家實驗室合作，運用前沿 AI 加速發現，以推動美國科學發展的承諾。</description>
     </item>
     <item>
       <title>Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構</title>
