@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 18:56:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 19:11:21 GMT</lastBuildDate>
+    <item>
+      <title>Roblox 正讓使用 AI 建立遊戲更容易——而且也能在 Roblox 之外遊玩</title>
+      <link>https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163043</guid>
+      <pubDate>Fri, 11 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在其年度 Roblox 開發者大會（RDC）上，該公司宣布了多項新功能，包括新的遊戲創作工具、擴充的 NPC 功能，以及讓遊戲可跨平台提供的能力，包括網路。</description>
+    </item>
+    <item>
+      <title>中亞地區公布其 2026 年 Road to Battlefield 獲勝者：Cerberus、WeGlobal AI 和 LOOQ</title>
+      <link>https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163117</guid>
+      <pubDate>Fri, 11 Sep 2026 18:58:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Cerberus、WeGlobal AI 和 LOOQ 在 Road to TechCrunch Startup Battlefield 2026 區域決賽中拿下前三名，並將代表中亞地區參加今年 10 月在舊金山舉行的 TechCrunch Disrupt 的 Startup Battlefield 200。</description>
+    </item>
     <item>
       <title>Nscale 任命前 OpenAI 高層 Fidji Simo 加入董事會，為潛在 IPO 做準備</title>
       <link>https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/</link>
@@ -287,24 +305,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>「我們發現的絕大多數案例都是，原本有資格申請某項補助的人，去申請了那項補助，」這位研究人員告訴 TechCrunch。</description>
-    </item>
-    <item>
-      <title>Bending Spoons 將以 13.6 億美元收購協作工具製造商 Miro，價格比其 2022 年估值低 90%</title>
-      <link>https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162593</guid>
-      <pubDate>Thu, 10 Sep 2026 14:34:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Bending Spoons 正以 13.6 億美元收購 Miro，這對這家職場協作新創公司的估值來說大幅下滑；它在 2021 年底的估值為 175 億美元。</description>
-    </item>
-    <item>
-      <title>Maven Robotics 想搶走你的機器人部署案</title>
-      <link>https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162108</guid>
-      <pubDate>Thu, 10 Sep 2026 14:17:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Maven Robotics 今天結束隱身狀態，獲得 1 億美元 A 輪融資，並且已在實際部署中。</description>
     </item>
     <item>
       <title>d-Matrix 採用 NVIDIA NVLink Fusion 進行機架級 XPU 部署</title>
