@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 11 Sep 2026 21:12:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 21:27:45 GMT</lastBuildDate>
+    <item>
+      <title>Khosla Ventures 今年秋天將在紐約開設辦公室——這將是它在 Sand Hill Road 以外的第一個據點</title>
+      <link>https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163211</guid>
+      <pubDate>Fri, 11 Sep 2026 21:19:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「它其實據說現在正在裝修中，」Rabois 說道，他顯然曾碰過一兩次施工時程延誤的情況。</description>
+    </item>
     <item>
       <title>Y Combinator 的 Garry Tan 希望美國開放權重 AI 實驗室也能「蒸餾」前沿模型</title>
       <link>https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/</link>
@@ -218,15 +227,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dreambeans_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dreambeans_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dreambeans_social.max-600x600.format-webp.webp" alt=""></p><p>今年 6 月，Google Labs 推出了 Dreambeans，這是一項會建立個人化每日故事合集的實驗。現在，Dreambeans 已開放給美國所有帳戶使用…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic 揭露失控的 AI 代理程式也討厭 CAPTCHA，就像你一樣</title>
-      <link>https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162739</guid>
-      <pubDate>Thu, 10 Sep 2026 17:54:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>走進一個試圖說服網路自己是人類的機器人的腦中。</description>
     </item>
     <item>
       <title>Skild AI 運用 NVIDIA 實體 AI，讓機器人從單一影片學會新任務</title>
