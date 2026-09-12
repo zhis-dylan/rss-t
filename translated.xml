@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 19:22:53 GMT</lastBuildDate>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Perplexity 使用 Astra 撰寫溝通內容、變更軟體並監控生產系統，而且查核頻率比先前的模型低得多。</description>
+    </item>
+    <item>
+      <title>Tesla 表示將於 10 月 1 日終於揭曉第二代 Roadster</title>
+      <link>https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163377</guid>
+      <pubDate>Sat, 12 Sep 2026 19:21:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tesla 的旗艦跑車最早於 2017 年 11 月宣布。</description>
     </item>
     <item>
       <title>Anthropic 執行長概述「跟上前沿」的計畫</title>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anthropic 週四發布的一份新報告指控，來自中國的 AI 公司持續發動蒸餾攻擊；隨著這個領域的競爭加劇，這類攻擊近幾個月來也愈演愈烈。</description>
-    </item>
-    <item>
-      <title>Furo 的創辦人離開了矽谷——而且這正在帶來回報</title>
-      <link>https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162822</guid>
-      <pubDate>Thu, 10 Sep 2026 20:48:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家能源新創公司 Furo 的三位 28 歲創辦人從矽谷搬回德國，卻仍從大多數來自美國的投資人手中募得 400 萬美元資金。</description>
     </item>
     <item>
       <title>Dreambeans：每日故事，專為你精心製作，現已開放給美國所有帳戶使用。</title>
