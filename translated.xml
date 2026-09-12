@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 12 Sep 2026 14:35:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 14:50:41 GMT</lastBuildDate>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Perplexity 使用 Astra 撰寫溝通內容、變更軟體並監控生產系統，而且查核頻率比先前的模型低得多。</description>
+    </item>
+    <item>
+      <title>Revolut 證實透過假冒政府請求發生客戶資料外洩</title>
+      <link>https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163369</guid>
+      <pubDate>Sat, 12 Sep 2026 14:40:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Revolut 表示已通知受影響的客戶，並已通報相關政府機關、執法單位與金融監管機構。</description>
     </item>
     <item>
       <title>Mecka AI 在 Sequoia 領投的交易中估值逼近 5 億美元，機器人訓練資料需求激增</title>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta 最新的 app Muse 起步比公司的其他 app，像是 Meta AI 或 Threads，還要慢一些。</description>
-    </item>
-    <item>
-      <title>Proxima Fusion 在一項由亞洲供應商主導的關鍵核融合材料上押注 1.4 億歐元</title>
-      <link>https://techcrunch.com/2026/09/10/proxima-fusion-bets-e140m-on-a-critical-fusion-ingredient-dominated-by-asian-suppliers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162828</guid>
-      <pubDate>Thu, 10 Sep 2026 18:38:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Proxima Fusion 的新高溫超導磁體工廠將有助於供應其商業發電廠。</description>
     </item>
     <item>
       <title>Dreambeans：每日故事，專為你精心製作，現已開放給美國所有帳戶使用。</title>
