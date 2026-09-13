@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 13 Sep 2026 21:26:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 21:41:34 GMT</lastBuildDate>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Perplexity 使用 Astra 撰寫溝通內容、變更軟體並監控生產系統，而且查核頻率比先前的模型低得多。</description>
+    </item>
+    <item>
+      <title>Insight Partners 的 Devin Parekh 談為什麼在其他人都把賭注全押在 OpenAI 和 Anthropic 上時，該公司仍在分散布局</title>
+      <link>https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163457</guid>
+      <pubDate>Sun, 13 Sep 2026 21:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Insight Partners 的 Devin Parekh  खुल खुल談起失去 Legora 給 General Catalyst 的原因、為什麼他不介意持有競爭 AI 實驗室的股份，以及為什麼——即使其他人都紛紛湧入 OpenAI 和 Anthropic——他那家規模 900 億美元的公司仍刻意維持分散布局。</description>
     </item>
     <item>
       <title>Larry Ellison 取消出售價值 75 億美元的 Oracle 股票</title>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在其年度 Roblox 開發者大會（RDC）上，該公司宣布了多項新功能，包括新的遊戲創作工具、擴充的 NPC 功能，以及讓遊戲可跨平台提供的能力，包括網路。</description>
-    </item>
-    <item>
-      <title>中亞地區公布其 2026 年 Road to Battlefield 獲勝者：Cerberus、WeGlobal AI 和 LOOQ</title>
-      <link>https://techcrunch.com/2026/09/11/central-eurasia-names-its-2026-road-to-battlefield-winners-cerberus-weglobal-ai-and-looq/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163117</guid>
-      <pubDate>Fri, 11 Sep 2026 18:58:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cerberus、WeGlobal AI 和 LOOQ 在 Road to TechCrunch Startup Battlefield 2026 區域決賽中拿下前三名，並將代表中亞地區參加今年 10 月在舊金山舉行的 TechCrunch Disrupt 的 Startup Battlefield 200。</description>
     </item>
     <item>
       <title>準備好體驗 iPhone 18 Pro、全新的 Apple Watch 系列和 AirPods 5</title>
