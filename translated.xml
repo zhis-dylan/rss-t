@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 13 Sep 2026 16:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:38:47 GMT</lastBuildDate>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Perplexity 使用 Astra 撰寫溝通內容、變更軟體並監控生產系統，而且查核頻率比先前的模型低得多。</description>
+    </item>
+    <item>
+      <title>歐巴馬敦促民主黨為 AI 安全防護制定「明確計畫」</title>
+      <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163436</guid>
+      <pubDate>Sun, 13 Sep 2026 16:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>歐巴馬近日表示，民主黨需要把人工智慧列為他們的「核心議程」之一，並且「有一個非常明確的計畫」，來因應外界對這項技術在經濟影響與安全性方面的疑慮。</description>
     </item>
     <item>
       <title>TechCrunch Mobility：Lyft 已加入 robotaxi 的討論</title>
@@ -224,15 +233,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 如何將 Habitat 從 Python 函式庫發展成全球分散式儲存平台，為 10 億名 ChatGPT 使用者與每秒 2200 萬次請求提供服務。</description>
-    </item>
-    <item>
-      <title>Thrive Capital 帶領創投進軍職業體育持股；Collaborative Fund 則剛把這招再往上升級</title>
-      <link>https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162788</guid>
-      <pubDate>Thu, 10 Sep 2026 22:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Collaborative Fund 剛買下了 D.C. United 及其球場，創辦人 Craig Shapiro 將此描述為一種展示旗下新創公司的方式。</description>
     </item>
     <item>
       <title>Dreambeans：每日故事，專為你精心製作，現已開放給美國所有帳戶使用。</title>
