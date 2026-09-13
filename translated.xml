@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 13 Sep 2026 15:53:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:08:27 GMT</lastBuildDate>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Perplexity 使用 Astra 撰寫溝通內容、變更軟體並監控生產系統，而且查核頻率比先前的模型低得多。</description>
+    </item>
+    <item>
+      <title>TechCrunch Mobility：Lyft 已加入 robotaxi 的討論</title>
+      <link>https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163281</guid>
+      <pubDate>Sun, 13 Sep 2026 16:04:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>歡迎回到 TechCrunch Mobility，這裡是你掌握未來交通的中心，而如今，比以往任何時候都更能看到 AI 在其中扮演的角色。</description>
     </item>
     <item>
       <title>核融合電力新創在國防界找到新夥伴</title>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Collaborative Fund 剛買下了 D.C. United 及其球場，創辦人 Craig Shapiro 將此描述為一種展示旗下新創公司的方式。</description>
-    </item>
-    <item>
-      <title>Jensen Huang 解釋為什麼 Nvidia 明年將成長驚人的 70%</title>
-      <link>https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162873</guid>
-      <pubDate>Thu, 10 Sep 2026 21:51:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Jensen Huang 表示，Nvidia 在各個領域都插了一腳，並且看見未來一年依然豐收。不過，他堅稱，公司的交易並不是循環交易。</description>
     </item>
     <item>
       <title>Dreambeans：每日故事，專為你精心製作，現已開放給美國所有帳戶使用。</title>
