@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 13 Sep 2026 20:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 20:41:02 GMT</lastBuildDate>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Perplexity 使用 Astra 撰寫溝通內容、變更軟體並監控生產系統，而且查核頻率比先前的模型低得多。</description>
+    </item>
+    <item>
+      <title>根據風投，Y Combinator 最新 Demo Day 最受矚目的 9 家新創</title>
+      <link>https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163451</guid>
+      <pubDate>Sun, 13 Sep 2026 20:28:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從浮動式反應器到腦晶片：風投挑選了他們最喜歡的 YC 夏季梯新創。</description>
     </item>
     <item>
       <title>AI 產業最新末日警告背後是什麼？</title>
@@ -203,15 +212,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑6 Astra 提升 Devin 測試軟體並證明其可運作的能力，目標是幫助工程師審查更少程式碼並更快發布。</description>
-    </item>
-    <item>
-      <title>Matt Mullenweg 在 Slack 告訴 Automattic 員工，在 CEO 被罷免後他已重新掌握控制權</title>
-      <link>https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163072</guid>
-      <pubDate>Fri, 11 Sep 2026 15:19:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch 看到的一則 Slack 訊息顯示，Matt Mullenweg 告訴 Automattic 員工，他已重新掌控公司；幾天前，該公司董事會才讓他休假。Automattic 目前尚未證實這項看似逆轉的決定。</description>
     </item>
     <item>
       <title>三個獲 Google 支持的專案於第 83 屆威尼斯國際影展首映。</title>
