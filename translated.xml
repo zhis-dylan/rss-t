@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 14 Sep 2026 15:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:19:52 GMT</lastBuildDate>
+    <item>
+      <title>Perplexity Portable Computer 現已可在 Windows 上使用，由 NVIDIA RTX 驅動</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/</guid>
+      <pubDate>Mon, 14 Sep 2026 15:00:52 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>隨著本地模型變得越來越強大，AI 智能代理可以直接在 PC 上處理更多工作，同時將敏感資訊保留在裝置上。Portable Computer 是 Perplexity Computer 的本地版本，可規劃並執行多步驟任務。透過 NVIDIA GPU 加速，它使用本地模型來分析資料、整合資訊 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad" alt=""></p><p>隨著本地模型變得越來越強大，AI 智能代理可以直接在 PC 上處理更多工作，同時將敏感資訊保留在裝置上。Portable Computer 是 Perplexity Computer 的本地版本，可規劃並執行多步驟任務。透過 NVIDIA GPU 加速，它使用本地模型來分析資料、整合資訊 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>只有在 TechCrunch Disrupt 2026：當 OpenAI 推出你的產品藍圖時，會發生什麼事？</title>
       <link>https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/</link>
@@ -1224,18 +1236,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2" alt=""></p><p>NVIDIA 正將下一波 RTX 遊戲帶到本週在德國科隆舉行的 Gamescom 會議，並支援新遊戲、反作弊技術，以及更高的視覺品質。Electronic Arts、Embark 和 Ubisoft 是最新一批在 NVIDIA RTX Spark 上線前，將旗下重量級作品帶到該平台的遊戲發行商與開發商之一。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 宣布 Jetson Orin Nano 2 機器人電腦，重新定義入門級邊緣 AI</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai</guid>
-      <pubDate>Tue, 25 Aug 2026 15:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>新聞摘要：NVIDIA Jetson Orin Nano 2 是一款全新入門級邊緣 AI 機器人電腦，讓全球數百萬開發者能打造機器人、配送與檢測無人機，以及視覺 ...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_thmb.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823" alt=""></p><p>新聞摘要：NVIDIA Jetson Orin Nano 2 是一款全新入門級邊緣 AI 機器人電腦，讓全球數百萬開發者能打造機器人、配送與檢測無人機，以及視覺 ...</p>]]></content:encoded>
     </item>
     <item>
       <title>WhatsApp 全新帳號安全功能</title>
