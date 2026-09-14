@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 14:03:57 GMT</lastBuildDate>
+    <item>
+      <title>我們正在評估在新墨西哥州利亞郡設立資料中心的可能性。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/</guid>
+      <pubDate>Mon, 14 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 正在探索在新墨西哥州利亞郡的一項新的資料中心專案。雖然討論仍在進行中，我們也理解居民有許多關於資料中心開發的問題……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp" alt=""></p><p>Google 正在探索在新墨西哥州利亞郡的一項新的資料中心專案。雖然討論仍在進行中，我們也理解居民有許多關於資料中心開發的問題……</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>澀谷的一間黑膠酒吧是一家新創公司，提供沒有任何 AI 提示的有趣音樂 app</title>
+      <link>https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151802</guid>
+      <pubDate>Mon, 14 Sep 2026 13:55:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>前 Spotify 高階主管的公司推出實驗性的「singles」，讓使用者參與音樂製作。</description>
+    </item>
     <item>
       <title>NVIDIA 擴展開源 CUDA-Q 平台以支援容錯量子運算</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing</link>
@@ -197,15 +218,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>雖然 K3 的使用量數據在最近幾個月略有下降，但 OpenRouter 的資料目前顯示，系統上每天最多有 3000 億個 token 由 K3 模型生成。</description>
-    </item>
-    <item>
-      <title>Roblox 正讓使用 AI 建立遊戲更容易——而且也能在 Roblox 之外遊玩</title>
-      <link>https://techcrunch.com/2026/09/11/roblox-is-making-it-easier-to-build-games-with-ai-and-play-them-outside-roblox/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163043</guid>
-      <pubDate>Fri, 11 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在其年度 Roblox 開發者大會（RDC）上，該公司宣布了多項新功能，包括新的遊戲創作工具、擴充的 NPC 功能，以及讓遊戲可跨平台提供的能力，包括網路。</description>
     </item>
     <item>
       <title>準備好體驗 iPhone 18 Pro、全新的 Apple Watch 系列和 AirPods 5</title>
@@ -544,18 +556,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" alt=""></p><p>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 讓行政雜務快速又輕鬆的 4 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" alt=""></p><p>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>逐格重現一段 70 年的愛情故事</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</guid>
@@ -590,6 +590,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 讓行政雜務快速又輕鬆的 4 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" alt=""></p><p>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 政策的窗口已經打開。我們需要採取行動。</title>
@@ -765,18 +777,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>1Password 的工程師使用 Codex 快速打造新功能與內部工具，在維持嚴謹安全政策的同時達到可上線的成熟度。</description>
-    </item>
-    <item>
-      <title>我們在亞太地區的新航跡雲避免試驗</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/contrail-avoidance-ultra-long-haul-flights/</guid>
-      <pubDate>Mon, 07 Sep 2026 08:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正與國泰航空合作，在超長程航班上測試我們由 AI 驅動的航跡雲減緩技術。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Contrails_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Contrails_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Contrails_Hero.max-600x600.format-webp.webp" alt=""></p><p>我們正與國泰航空合作，在超長程航班上測試我們由 AI 驅動的航跡雲減緩技術。</p>]]></content:encoded>
     </item>
     <item>
       <title>支持烏克蘭的獨立新聞業</title>
