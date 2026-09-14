@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:20:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:35:43 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 的新 AI「行為準則」要求模型不要駭入系統或欺騙人類</title>
+      <link>https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163598</guid>
+      <pubDate>Mon, 14 Sep 2026 16:27:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這份行為準則列出 Microsoft AI 模型應遵循的一般原則——例如支援人類而非取代人類，以及促進人類蓬勃發展——以及用來落實這些原則的具體安全限制。</description>
+    </item>
     <item>
       <title>Waymo 在拉斯維加斯開放 robotaxi 服務</title>
       <link>https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/</link>
@@ -233,15 +242,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Revolut 表示已通知受影響的客戶，並已通報相關政府機關、執法單位與金融監管機構。</description>
-    </item>
-    <item>
-      <title>Mecka AI 在 Sequoia 領投的交易中估值逼近 5 億美元，機器人訓練資料需求激增</title>
-      <link>https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163323</guid>
-      <pubDate>Fri, 11 Sep 2026 22:58:17 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家成立兩年的新創公司在宣布 A 輪融資數個月後，這一輪融資正逐步成形。</description>
     </item>
     <item>
       <title>準備好體驗 iPhone 18 Pro、全新的 Apple Watch 系列和 AirPods 5</title>
