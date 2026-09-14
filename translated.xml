@@ -5,7 +5,52 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 14 Sep 2026 17:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:21:17 GMT</lastBuildDate>
+    <item>
+      <title>有了 iOS 27，我真的又開始使用 Siri 了</title>
+      <link>https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163062</guid>
+      <pubDate>Mon, 14 Sep 2026 17:10:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>蘋果遲來已久的 Siri 大改版終於隨著 iOS 27 登場，而這也改變了這個助理在日常使用中有多實用</description>
+    </item>
+    <item>
+      <title>Apple 軟體平台的重大更新現已推出</title>
+      <link>https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</guid>
+      <pubDate>Mon, 14 Sep 2026 17:10:12 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 最新的軟體更新導入 Siri AI，並帶來實用的新 Apple Intelligence 功能。</description>
+    </item>
+    <item>
+      <title>macOS 27：新版 Siri 挑戰 AI 生產力應用程式</title>
+      <link>https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163538</guid>
+      <pubDate>Mon, 14 Sep 2026 17:10:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>macOS 27 Goldgen Gate 帶來整合 Siri 的全新 Spotlight 搜尋</description>
+    </item>
+    <item>
+      <title>Siri AI，能力大幅提升且更個人化的助理，現已登場</title>
+      <link>https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/</guid>
+      <pubDate>Mon, 14 Sep 2026 17:09:41 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日推出下一代 Apple Intelligence。</description>
+    </item>
+    <item>
+      <title>Apple 的新兒童安全功能現已推出</title>
+      <link>https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apples-new-child-safety-features-now-available/</guid>
+      <pubDate>Mon, 14 Sep 2026 17:08:48 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 全新工具組合可協助家長為孩子打造更安全的數位體驗，現已可在 iPhone、iPad、Mac 等裝置上使用。</description>
+    </item>
     <item>
       <title>時尚應用程式 Daydream 運用 Apple Intelligence，幫你購買相簿裡的穿搭</title>
       <link>https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/</link>
@@ -224,24 +269,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>雖然 OpenAI 已秘密提交 IPO 申請，但執行長 Sam Altman 表示，公司今年不會上市。</description>
-    </item>
-    <item>
-      <title>Tesla 表示將於 10 月 1 日終於揭曉第二代 Roadster</title>
-      <link>https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163377</guid>
-      <pubDate>Sat, 12 Sep 2026 19:21:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Tesla 的旗艦跑車最早於 2017 年 11 月宣布。</description>
-    </item>
-    <item>
-      <title>Anthropic 執行長概述「跟上前沿」的計畫</title>
-      <link>https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163373</guid>
-      <pubDate>Sat, 12 Sep 2026 15:52:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>實際上要怎麼做才算是「跟上前沿」？</description>
     </item>
     <item>
       <title>準備好體驗 iPhone 18 Pro、全新的 Apple Watch 系列和 AirPods 5</title>
@@ -1799,15 +1826,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>了解 Univé 如何透過 ChatGPT Enterprise 建立可因應 AI 的員工團隊，結合領導力、負責任的治理與由員工主導的創新，大規模改變工作方式。</description>
     </item>
     <item>
-      <title>Apple 公布第三季財報</title>
-      <link>https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-reports-third-quarter-results/</guid>
-      <pubDate>Thu, 30 Jul 2026 20:30:21 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今日公布截至 2026 年 6 月 27 日止的 2026 會計年度第三季財務結果。</description>
-    </item>
-    <item>
       <title>以 GPT-5.6 推進價格效能極限</title>
       <link>https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</link>
       <guid isPermaLink="false">https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6</guid>
@@ -1872,15 +1890,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
 The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on The Official Microsoft Blog.</description>
     </item>
     <item>
-      <title>Apple Upgrade 在美國推出</title>
-      <link>https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/</guid>
-      <pubDate>Tue, 28 Jul 2026 12:20:23 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple Upgrade——一項新的硬體租賃方案——現已可在美國的 Apple Store 線上商店、Apple Store app，以及 Apple Store 門市使用。</description>
-    </item>
-    <item>
       <title>重新思考 AI 時代的安全性</title>
       <link>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563065</guid>
@@ -1901,15 +1910,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的 OpenAI 研究顯示，AI 正在擴展勞工所做的事情，ChatGPT 使用者承擔跨職務的任務，並重塑工作界線。</description>
-    </item>
-    <item>
-      <title>Apple Maps 將為 Ford UEV Platform 提供導航體驗</title>
-      <link>https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/07/apple-maps-to-power-navigation-experience-for-ford-uev-platform/</guid>
-      <pubDate>Thu, 23 Jul 2026 13:00:06 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 與 Ford 宣布，Apple Maps 將透過 MapKit for Automotive SDK 直接整合進 Ford 的 UEV Platform。</description>
     </item>
     <item>
       <title>驅動美國的 Genesis Mission：Microsoft 對科學發現的承諾</title>
