@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 14 Sep 2026 13:03:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 13:18:32 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 擴展開源 CUDA-Q 平台以支援容錯量子運算</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing</guid>
+      <pubDate>Mon, 14 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布擴充 NVIDIA CUDA-Q™ 開源平台，加入 CUDA-Q Logical，這是一個編排層，提供可程式化、可驗證的方法，用於為容錯量子電腦開發實用應用程式。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/8f5f4e6e5f17070f1bcf2fd75581d07e/6aa46b373d6332e22de500bb_nvidia-cuda-q-quantum-computing/nvidia-cuda-q-quantum-computing_thmb.jpg?v=62fa9332-597d-41db-af52-fce2ff0d404a" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/8f5f4e6e5f17070f1bcf2fd75581d07e/6aa46b373d6332e22de500bb_nvidia-cuda-q-quantum-computing/nvidia-cuda-q-quantum-computing_thmb.jpg?v=62fa9332-597d-41db-af52-fce2ff0d404a"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/8f5f4e6e5f17070f1bcf2fd75581d07e/6aa46b373d6332e22de500bb_nvidia-cuda-q-quantum-computing/nvidia-cuda-q-quantum-computing_thmb.jpg?v=62fa9332-597d-41db-af52-fce2ff0d404a" alt=""></p><p>NVIDIA 今日宣布擴充 NVIDIA CUDA-Q™ 開源平台，加入 CUDA-Q Logical，這是一個編排層，提供可程式化、可驗證的方法，用於為容錯量子電腦開發實用應用程式。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
       <link>https://openai.com/index/perplexity-improving-accuracy-with-astra</link>
@@ -1313,18 +1325,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 ChatGPT Work 與 Codex 的 Admin 外掛來分析工作區使用情況、管理成員和權限、調整限制，並處理管理員請求。</description>
-    </item>
-    <item>
-      <title>XPU 如何成為世界級 AI 工廠</title>
-      <link>https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvlink-fusion-xpu-ai-factory/</guid>
-      <pubDate>Mon, 24 Aug 2026 15:00:54 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>要大規模產生智慧，AI 工廠必須持續運作，而其經濟效益取決於實際輸出：每秒 token 數、每瓦 token 數、每個 token 成本、使用率與運作時間。這需要將 AI 基礎設施設計並建置成完整工廠，而不是一組單獨的加速器。超大規模雲端業者與打造自訂 XPU 的 AI 原生公司必須考慮 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/a1ce72fadebf1335ec82522dfff48fa7/6a8c5cc43d63322b0421b255_nvidia-dsx-maxlps-fg-i4of6-d-842x450/nvidia-dsx-maxlps-fg-i4of6-d-842x450_thmb.jpg?v=825aef88-6d9b-4df1-a570-b9a32e041444" alt=""></p><p>要大規模產生智慧，AI 工廠必須持續運作，而其經濟效益取決於實際輸出：每秒 token 數、每瓦 token 數、每個 token 成本、使用率與運作時間。這需要將 AI 基礎設施設計並建置成完整工廠，而不是一組單獨的加速器。超大規模雲端業者與打造自訂 XPU 的 AI 原生公司必須考慮 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>在 Kiro 中使用 GPT‑5.6 提升開發者的價格效能</title>
