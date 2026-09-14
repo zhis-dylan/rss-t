@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 14 Sep 2026 20:37:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 20:53:12 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 以 3 億美元收購智慧型手機相機製造商 Glass Imaging，報導稱</title>
+      <link>https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163844</guid>
+      <pubDate>Mon, 14 Sep 2026 20:44:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Glass Imaging 由兩名前 Apple 工程師創立，他們先前曾帶領開發 Apple 人像模式的團隊。</description>
+    </item>
     <item>
       <title>AI 基礎設施公司 Cornelis 募得 2.05 億美元，以削弱 Nvidia 的主導地位</title>
       <link>https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/</link>
@@ -14,6 +23,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Cornelis 是一家打造網路技術、協助 AI 晶片更有效溝通的公司，週一宣布已募得 2.05 億美元。</description>
+    </item>
+    <item>
+      <title>觀看太空人 Christina Koch 與 Google 的 James Manyika 談論太空、科技與探索。</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/</guid>
+      <pubDate>Mon, 14 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Christina Koch 與 Google 研究、實驗室、科技與社會資深副總裁 James Manyika 對談。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp" alt=""></p><p>Christina Koch 與 Google 研究、實驗室、科技與社會資深副總裁 James Manyika 對談。</p>]]></content:encoded>
     </item>
     <item>
       <title>Amazon Prime Video 以短影音新聞片段挑戰 TikTok</title>
@@ -260,15 +281,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 產業似乎正在就其技術是否對人類構成生存威脅展開迄今最激烈的辯論。這場討論始於 AI 研究員 Jacob Coxon 表示，他已從 Anthropic 辭職，因為他擔心領先的 AI 公司正在「拿我們的生命豪賭」。接著，Anthropic 的 alignment leaned chimed in […]</description>
-    </item>
-    <item>
-      <title>歐巴馬敦促民主黨為 AI 安全防護制定「明確計畫」</title>
-      <link>https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163436</guid>
-      <pubDate>Sun, 13 Sep 2026 16:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歐巴馬近日表示，民主黨需要把人工智慧列為他們的「核心議程」之一，並且「有一個非常明確的計畫」，來因應外界對這項技術在經濟影響與安全性方面的疑慮。</description>
     </item>
     <item>
       <title>準備好體驗 iPhone 18 Pro、全新的 Apple Watch 系列和 AirPods 5</title>
@@ -607,18 +619,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" alt=""></p><p>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>逐格重現一段 70 年的愛情故事</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</guid>
@@ -641,6 +641,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" alt=""></p><p>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini 讓行政雜務快速又輕鬆的 4 種方式</title>
@@ -741,18 +753,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp" alt=""></p><p>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AlphaGenome Atlas：人類 DNA 的高解析度地圖</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/</guid>
-      <pubDate>Tue, 08 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們推出 AlphaGenome Atlas，這是一個可預測人類基因組中每一種可能單核苷酸變異影響的資料庫。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.max-600x600.format-webp.webp" alt=""></p><p>我們推出 AlphaGenome Atlas，這是一個可預測人類基因組中每一種可能單核苷酸變異影響的資料庫。</p>]]></content:encoded>
     </item>
     <item>
       <title>網路上最受歡迎的貓咪帶著 Pusheen’s Place 登上 Apple Arcade</title>
