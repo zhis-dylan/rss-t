@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 14 Sep 2026 16:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:20:32 GMT</lastBuildDate>
     <item>
       <title>Waymo 在拉斯維加斯開放 robotaxi 服務</title>
       <link>https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>拉斯維加斯將成為 Waymo 的第 15 個商業 robotaxi 市場。</description>
+    </item>
+    <item>
+      <title>DevFest 回來了</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/</guid>
+      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>DevFest 2026 回來了，以下是你可以如何參與超過 800 場全球活動之一，在代理式 AI 時代打造、保護並擴展。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp" alt=""></p><p>DevFest 2026 回來了，以下是你可以如何參與超過 800 場全球活動之一，在代理式 AI 時代打造、保護並擴展。</p>]]></content:encoded>
     </item>
     <item>
       <title>消息人士表示，Automattic 董事會在罷免執行長 Matt Mullenweg 失敗後離開了</title>
@@ -568,6 +580,18 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" alt=""></p><p>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</p>]]></content:encoded>
     </item>
     <item>
+      <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>逐格重現一段 70 年的愛情故事</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/</guid>
@@ -590,18 +614,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" alt=""></p><p>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini 讓行政雜務快速又輕鬆的 4 種方式</title>
@@ -732,18 +744,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索更強大、更實惠的 AI 如何擴大人們和企業能夠完成的工作，並讓成長更具經濟效益。</description>
-    </item>
-    <item>
-      <title>協助小型企業以 AI 取得成功</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/route-66-small-businesses/</guid>
-      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們前往 66 號公路，幫助 Main Street 的創業者建立使用 AI 的信心。前往 Grow.Google/SMB 探索免費工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helping_Small_Businesses_Win_wi.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helping_Small_Businesses_Win_wi.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Helping_Small_Businesses_Win_wi.max-600x600.format-webp.webp" alt=""></p><p>我們前往 66 號公路，幫助 Main Street 的創業者建立使用 AI 的信心。前往 Grow.Google/SMB 探索免費工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 ChatGPT Images 2.5</title>
