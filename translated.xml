@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 22:22:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 22:37:13 GMT</lastBuildDate>
+    <item>
+      <title>「現在我們可以知曉一切並做到任何事，」Jensen Huang 在 Dreamforce 表示</title>
+      <link>https://blogs.nvidia.com/blog/jensen-huang-dreamforce/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/jensen-huang-dreamforce/</guid>
+      <pubDate>Tue, 15 Sep 2026 22:24:34 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>知曉一切。做到任何事。這就是 NVIDIA 創辦人暨執行長 Jensen Huang 週二帶到 Salesforce Dreamforce 的訊息；他與執行長 Marc Benioff 同台亮相，這場登場也與 Salesforce 宣布 Koa 同步進行——Koa 是 Salesforce 的首個 CRM 推理模型，建構於 NVIDIA Nemotron 3 Super 之上。Huang 不只是登上舞台。他走進了 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77" alt=""></p><p>知曉一切。做到任何事。這就是 NVIDIA 創辦人暨執行長 Jensen Huang 週二帶到 Salesforce Dreamforce 的訊息；他與執行長 Marc Benioff 同台亮相，這場登場也與 Salesforce 宣布 Koa 同步進行——Koa 是 Salesforce 的首個 CRM 推理模型，建構於 NVIDIA Nemotron 3 Super 之上。Huang 不只是登上舞台。他走進了 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>AI 資料中心熱潮正與受大型工業創傷的城市發生衝突</title>
       <link>https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/</link>
@@ -1221,18 +1233,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
-    </item>
-    <item>
-      <title>NVIDIA NVLink Fusion 擴展，加入 NVHBM 客製化高頻寬記憶體</title>
-      <link>https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/</guid>
-      <pubDate>Wed, 26 Aug 2026 21:05:30 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>新一波 AI 正為基礎設施帶來新的需求。隨著 AI 代理與兆參數工作負載逐漸成為主流，AI 基礎設施的效能不僅取決於運算能力，也取決於運算、記憶體、儲存、網路與軟體如何作為一個整合系統共同設計。為了協助超大規模雲端業者與 AI 創新者打造下一代 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792" alt=""></p><p>新一波 AI 正為基礎設施帶來新的需求。隨著 AI 代理與兆參數工作負載逐漸成為主流，AI 基礎設施的效能不僅取決於運算能力，也取決於運算、記憶體、儲存、網路與軟體如何作為一個整合系統共同設計。為了協助超大規模雲端業者與 AI 創新者打造下一代 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
