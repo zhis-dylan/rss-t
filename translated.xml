@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 09:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 10:14:17 GMT</lastBuildDate>
+    <item>
+      <title>Widow’s Bay 成為艾美獎史上獲獎最多的新生代喜劇</title>
+      <link>https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/widows-bay-triumphs-as-most-decorated-freshman-comedy-in-emmy-history/</guid>
+      <pubDate>Tue, 15 Sep 2026 10:02:42 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>在今晚舉行的第 78 屆黃金時段艾美獎上，Apple TV 打破紀錄，成為今年獲獎最多的電視網，總共拿下 29 座獎項。</description>
+    </item>
     <item>
       <title>關鍵所在：一家大型兒童醫院如何運用開源 NVIDIA AI 進行心臟照護</title>
       <link>https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/</link>
@@ -1758,15 +1767,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 回應 Apple 毫無根據的訴訟，澄清關於其員工的說法，並分享記錄事件經過的訊息。</description>
-    </item>
-    <item>
-      <title>Leagues Cup 將於明天 8 月 4 日在 Apple TV 登場</title>
-      <link>https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/leagues-cup-kicks-off-tomorrow-august-4-on-apple-tv/</guid>
-      <pubDate>Mon, 03 Aug 2026 14:59:10 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>由 Concacaf 核准、集結美國職業足球大聯盟 18 支球隊與 Liga MX 18 支球隊的賽事，將於明天 8 月 4 日在 Apple TV 登場。</description>
     </item>
     <item>
       <title>我們如何在六個月內打造出一套可即時回應的語音 AI 系統</title>
