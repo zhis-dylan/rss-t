@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:31:42 GMT</lastBuildDate>
+    <item>
+      <title>在 TechCrunch Disrupt 2026 了解如何將你的新創公司從原型推進到量產</title>
+      <link>https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163504</guid>
+      <pubDate>Tue, 15 Sep 2026 14:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 TechCrunch Disrupt 2026，與擴張領導者 Adrian Macneil（Foxglove）、John Mackey（MBRYONICS）和 Boris Sofman（Bedrock Robotics）一起，了解如何將你的新創突破從原型擴展到量產。9 月 25 日前報名，最多可省下 200 美元的票價。</description>
+    </item>
+    <item>
+      <title>印度結束其無所不在的數位支付網路上大型交易的免費時代</title>
+      <link>https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164158</guid>
+      <pubDate>Tue, 15 Sep 2026 14:22:49 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>印度將從 10 月 15 日起，對透過 UPI 進行的某些支付收取 0.4% 的商家手續費。</description>
+    </item>
     <item>
       <title>Evvy 募得 4000 萬美元，藉由陰道微生物群資料推進女性健康研究</title>
       <link>https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/</link>
@@ -250,15 +268,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp" alt=""></p><p>DevFest 2026 回來了，以下是你可以如何參與超過 800 場全球活動之一，在代理式 AI 時代打造、保護並擴展。</p>]]></content:encoded>
     </item>
     <item>
-      <title>消息人士表示，Automattic 董事會在罷免執行長 Matt Mullenweg 失敗後離開了</title>
-      <link>https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163569</guid>
-      <pubDate>Mon, 14 Sep 2026 15:34:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據消息人士告訴 TechCrunch，Automattic 董事會已離開，數天前其成員投票決定讓執行長 Matt Mullenweg 停職。</description>
-    </item>
-    <item>
       <title>Perplexity Portable Computer 現已可在 Windows 上使用，由 NVIDIA RTX 驅動</title>
       <link>https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-perplexity-windows-pcs/</guid>
@@ -269,15 +278,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad" alt=""></p><p>隨著本地模型變得越來越強大，AI 智能代理可以直接在 PC 上處理更多工作，同時將敏感資訊保留在裝置上。Portable Computer 是 Perplexity Computer 的本地版本，可規劃並執行多步驟任務。透過 NVIDIA GPU 加速，它使用本地模型來分析資料、整合資訊 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>只有在 TechCrunch Disrupt 2026：當 OpenAI 推出你的產品藍圖時，會發生什麼事？</title>
-      <link>https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163478</guid>
-      <pubDate>Mon, 14 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果你正在打造 AI 公司，問題不在於基礎模型是否會持續演進，而在於它們演進時，你的公司是否還能持續創造價值。最大的風險不是做出一個薄弱的產品，而是做出一個強大的產品，最後成了別人的功能。你不想錯過 TechCrunch Disrupt 2026 的 Builders Stage 上這場互動式座談。9 月 25 日前報名，最高可省 200 美元。</description>
     </item>
     <item>
       <title>我們正在評估在新墨西哥州利亞郡設立資料中心的可能性。</title>
