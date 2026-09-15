@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 08:58:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 09:13:46 GMT</lastBuildDate>
+    <item>
+      <title>關鍵所在：一家大型兒童醫院如何運用開源 NVIDIA AI 進行心臟照護</title>
+      <link>https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/</guid>
+      <pubDate>Tue, 15 Sep 2026 09:00:42 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description/>
+    </item>
     <item>
       <title>Jensen Huang 接了 Trump 的電話，還展示了另一樣東西</title>
       <link>https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/</link>
@@ -1251,18 +1260,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 loveholidays 如何運用 OpenAI Codex，讓整個企業都能更容易進行軟體開發，協助團隊更快把點子變成產品。</description>
-    </item>
-    <item>
-      <title>領先的發行商將重量級 PC 遊戲與技術帶到 NVIDIA RTX Spark</title>
-      <link>https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/gamescom-rtx-spark-pc-games-technology/</guid>
-      <pubDate>Tue, 25 Aug 2026 15:30:48 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 正將下一波 RTX 遊戲帶到本週在德國科隆舉行的 Gamescom 會議，並支援新遊戲、反作弊技術，以及更高的視覺品質。Electronic Arts、Embark 和 Ubisoft 是最新一批在 NVIDIA RTX Spark 上線前，將旗下重量級作品帶到該平台的遊戲發行商與開發商之一。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c081a074467af71002057420f259954b/6a8db53b3d6332c6bb7b1732_Gamescom-RTX-Spark-Key-Visual-842x450/Gamescom-RTX-Spark-Key-Visual-842x450_thmb.jpg?v=1f5e058e-c126-467e-85bf-007cfdbaa2e2" alt=""></p><p>NVIDIA 正將下一波 RTX 遊戲帶到本週在德國科隆舉行的 Gamescom 會議，並支援新遊戲、反作弊技術，以及更高的視覺品質。Electronic Arts、Embark 和 Ubisoft 是最新一批在 NVIDIA RTX Spark 上線前，將旗下重量級作品帶到該平台的遊戲發行商與開發商之一。</p>]]></content:encoded>
     </item>
     <item>
       <title>WhatsApp 全新帳號安全功能</title>
