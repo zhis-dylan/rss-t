@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 12:45:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 13:00:43 GMT</lastBuildDate>
+    <item>
+      <title>來自 Google AI 與經濟 ATLAS 的新洞察</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/</guid>
+      <pubDate>Tue, 15 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們已將 ATLAS 的數百萬全球資料點轉化為可互動、開放存取的體驗。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp" alt=""></p><p>我們已將 ATLAS 的數百萬全球資料點轉化為可互動、開放存取的體驗。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Spotify 終於讓家長可以把小孩的音樂排除在 Wrapped 和推薦之外</title>
+      <link>https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163773</guid>
+      <pubDate>Tue, 15 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>家長終於可以把小孩的音樂從 Spotify Wrapped 和其他個人化播放清單中移除。</description>
+    </item>
     <item>
       <title>義大利新獨角獸 Exein 搭上實體 AI 熱潮</title>
       <link>https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/</link>
@@ -269,15 +290,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>申請在 9 月 18 日於 TechCrunch Disrupt 2026 設置展位桌的最後一天。只剩 5 天。立即搶下你在 Expo Hall 展區的席位，讓你的業務直接曝光在 10,000 多位創辦人、投資人與科技領袖面前。</description>
-    </item>
-    <item>
-      <title>澀谷的一間黑膠酒吧是一家新創公司，提供沒有任何 AI 提示的有趣音樂 app</title>
-      <link>https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3151802</guid>
-      <pubDate>Mon, 14 Sep 2026 13:55:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>前 Spotify 高階主管的公司推出實驗性的「singles」，讓使用者參與音樂製作。</description>
     </item>
     <item>
       <title>NVIDIA 擴展開源 CUDA-Q 平台以支援容錯量子運算</title>
@@ -649,18 +661,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LOVE_RENDERED_HERO_BLOG_SANS_LO.max-600x600.format-webp.webp" alt=""></p><p>了解電影製作人和 Google DeepMind 如何運用 AI，在短片《Love, Rendered》中重現一對夫妻未曾被記錄下來的過去。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Search 的全新足球功能為賽事做好準備</title>
-      <link>https://blog.google/products-and-platforms/products/search/football-features-google-search/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/football-features-google-search/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" alt=""></p><p>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google Accelerators 在過去十年一直致力於協助全球新創成功。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/google-accelerators-10-years/</guid>
@@ -671,6 +671,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Post_Accelerator_hero.max-600x600.format-webp.webp" alt=""></p><p>自 2016 年以來，我們已支持 92 個國家的 2,115 家新創公司、開發者、研究機構和 NGO。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Search 的全新足球功能為賽事做好準備</title>
+      <link>https://blog.google/products-and-platforms/products/search/football-features-google-search/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/football-features-google-search/</guid>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Football_on_Search_blog_header.max-600x600.format-webp.webp" alt=""></p><p>在本球季直接於 Search 追蹤即時比賽動態、探索詳細數據，並取得客製化的 fantasy 推薦。</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini 讓行政雜務快速又輕鬆的 4 種方式</title>
@@ -703,18 +715,6 @@
       <description>認識 GPT-6 Astra，OpenAI 最強大的商務模型，具備進階推理、電腦使用能力，以及更強的寫作與設計判斷力。</description>
     </item>
     <item>
-      <title>Google 以 130 億歐元投資 AI 基礎設施，深化對芬蘭的承諾</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/</guid>
-      <pubDate>Wed, 09 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 在芬蘭投資 130 億歐元，以強化數位基礎設施、潔淨能源、創造就業機會，並支持當地環境倡議。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp" alt=""></p><p>Google 在芬蘭投資 130 億歐元，以強化數位基礎設施、潔淨能源、創造就業機會，並支持當地環境倡議。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們在芬蘭負責任潔淨能源成長的藍圖</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/clean-energy-finland/</guid>
@@ -725,6 +725,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-09-08_5.59.23_P.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-09-08_5.59.23_P.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Screenshot_2026-09-08_5.59.23_P.max-600x600.format-webp.webp" alt=""></p><p>今天，Google 宣布新的當地能源合作夥伴關係——其中包括我們首度達成的核電廠延役與增容協議——以促進具韌性的、可持續的……</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 以 130 億歐元投資 AI 基礎設施，深化對芬蘭的承諾</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-ai-commitment-to-finland/</guid>
+      <pubDate>Wed, 09 Sep 2026 07:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 在芬蘭投資 130 億歐元，以強化數位基礎設施、潔淨能源、創造就業機會，並支持當地環境倡議。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_FI_Announcement_Helsinki.max-600x600.format-webp.webp" alt=""></p><p>Google 在芬蘭投資 130 億歐元，以強化數位基礎設施、潔淨能源、創造就業機會，並支持當地環境倡議。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Muse：全球首款專為所有人打造的個人 AI 代理</title>
@@ -759,18 +771,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Missouri_Google_AI__herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 正與密蘇里州合作，為 110 萬名學生提供免費使用 Gemini for Education 和職涯證書的機會。了解如何開始使用。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們正在協助 25 輛新的電動半掛卡車上路，駛上德州道路。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/electric-semi-trucks-texas/</guid>
-      <pubDate>Tue, 08 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/nevoya_etruck_herosocial.max-600x600.format-webp.webp" alt=""></p><p>我們正與 Nevoya 以及綠色市場啟動中心（GMA）合作，部署 25 輛電動半掛卡車。</p>]]></content:encoded>
     </item>
     <item>
       <title>網路上最受歡迎的貓咪帶著 Pusheen’s Place 登上 Apple Arcade</title>
