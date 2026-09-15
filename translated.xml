@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 14:31:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 14:46:54 GMT</lastBuildDate>
+    <item>
+      <title>前 TikTok 高層打造了一款使用 AI 教你如何擺姿勢拍照的 App</title>
+      <link>https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163539</guid>
+      <pubDate>Tue, 15 Sep 2026 14:42:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Essentially 是一款相機 App，Superpose 會分析自拍或照片，並使用 AI 生成四種可能的姿勢。</description>
+    </item>
     <item>
       <title>在 TechCrunch Disrupt 2026 了解如何將你的新創公司從原型推進到量產</title>
       <link>https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/</link>
@@ -245,15 +254,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這份行為準則列出 Microsoft AI 模型應遵循的一般原則——例如支援人類而非取代人類，以及促進人類蓬勃發展——以及用來落實這些原則的具體安全限制。</description>
-    </item>
-    <item>
-      <title>Waymo 在拉斯維加斯開放 robotaxi 服務</title>
-      <link>https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163589</guid>
-      <pubDate>Mon, 14 Sep 2026 16:04:16 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>拉斯維加斯將成為 Waymo 的第 15 個商業 robotaxi 市場。</description>
     </item>
     <item>
       <title>DevFest 回來了</title>
