@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 17:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:19:19 GMT</lastBuildDate>
+    <item>
+      <title>美國軍方證實已將太空武器發射進入地球軌道</title>
+      <link>https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164342</guid>
+      <pubDate>Tue, 15 Sep 2026 17:09:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是美國軍方首次公開承認，將太空武器放入地球軌道。</description>
+    </item>
+    <item>
+      <title>Meta 擴大訂閱推動，推出新的 AI 導向方案</title>
+      <link>https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164295</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta One 將公司 AI 工具的擴大使用權，與 Facebook、Instagram 和 WhatsApp 上的進階功能打包。</description>
+    </item>
     <item>
       <title>健康福利平台 Thatch 在醫療成本飆升之際達到 10 億美元估值</title>
       <link>https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/</link>
@@ -369,15 +387,6 @@
       <description>Glass Imaging 由兩名前 Apple 工程師創立，他們先前曾帶領開發 Apple 人像模式的團隊。</description>
     </item>
     <item>
-      <title>AI 基礎設施公司 Cornelis 募得 2.05 億美元，以削弱 Nvidia 的主導地位</title>
-      <link>https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163813</guid>
-      <pubDate>Mon, 14 Sep 2026 20:07:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cornelis 是一家打造網路技術、協助 AI 晶片更有效溝通的公司，週一宣布已募得 2.05 億美元。</description>
-    </item>
-    <item>
       <title>觀看太空人 Christina Koch 與 Google 的 James Manyika 談論太空、科技與探索。</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/</guid>
@@ -388,15 +397,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp" alt=""></p><p>Christina Koch 與 Google 研究、實驗室、科技與社會資深副總裁 James Manyika 對談。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Amazon Prime Video 以短影音新聞片段挑戰 TikTok</title>
-      <link>https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163695</guid>
-      <pubDate>Mon, 14 Sep 2026 18:14:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Prime Video 正在加入可隨選的地方與全國新聞片段，隨著 Amazon 與其他串流平台一起嘗試短影音來吸引年輕觀眾。</description>
     </item>
     <item>
       <title>Apple 軟體平台的重大更新現已推出</title>
