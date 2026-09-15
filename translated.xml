@@ -5,7 +5,64 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:48:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:04:07 GMT</lastBuildDate>
+    <item>
+      <title>健康福利平台 Thatch 在醫療成本飆升之際達到 10 億美元估值</title>
+      <link>https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164314</guid>
+      <pubDate>Tue, 15 Sep 2026 17:02:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家成立五年的新創公司從 The General Partnership、Index Ventures、General Catalyst 和 Andreessen Horowitz 籌得 1.08 億美元。</description>
+    </item>
+    <item>
+      <title>使用 Gemini 3.8 Live 與 3.5 Transcribe 建立即時語音應用程式</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解開發者如何運用我們最新的音訊模型 Gemini 3.8 Live、3.8 Live Extended Thinking 和 3.5 Transcribe 進行開發。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp" alt=""></p><p>了解開發者如何運用我們最新的音訊模型 Gemini 3.8 Live、3.8 Live Extended Thinking 和 3.5 Transcribe 進行開發。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>介紹 Gemini 3.8 Live 與 3.8 Live Extended Thinking</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking 是我們迄今最先進的即時對話模型，為自然對話而打造。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp" alt=""></p><p>Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking 是我們迄今最先進的即時對話模型，為自然對話而打造。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>從百萬瓦到 Token：NVIDIA 如何最大化 AI 工廠產能</title>
+      <link>https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:55:59 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在矽谷一個酷熱的 8 月夜晚，當太陽下山、空調負載飆升時，Silicon Valley Power 向一座 AI 工廠發出訊號，要求調整其用電量。Varun Sivaram 當時正透過 Zoom 與另外大約四十人一起觀看——他在舊金山會議室裡的 Emerald AI 團隊、工程師 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575" alt=""></p><p>在矽谷一個酷熱的 8 月夜晚，當太陽下山、空調負載飆升時，Silicon Valley Power 向一座 AI 工廠發出訊號，要求調整其用電量。Varun Sivaram 當時正透過 Zoom 與另外大約四十人一起觀看——他在舊金山會議室裡的 Emerald AI 團隊、工程師 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>AI Infra 峰會：NVIDIA Vera Rubin 與 DSX 平台進展展示 AI 工廠以每瓦 Token 數最佳化的能源效率</title>
+      <link>https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:55:40 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 超大規模與高效能運算副總裁 Ian Buck 週二在 AI Infra 峰會上談到 AI 工廠效率；這場在聖塔克拉拉會議中心舉行的活動已演變成基礎設施科技界的 Coachella。面對滿座的觀眾——今年有超過 8,000 名與會者，高於去年的 3,500 名——[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36" alt=""></p><p>NVIDIA 超大規模與高效能運算副總裁 Ian Buck 週二在 AI Infra 峰會上談到 AI 工廠效率；這場在聖塔克拉拉會議中心舉行的活動已演變成基礎設施科技界的 Coachella。面對滿座的觀眾——今年有超過 8,000 名與會者，高於去年的 3,500 名——[…]</p>]]></content:encoded>
+    </item>
     <item>
       <title>15 個運用 AI 改變公共服務的組織</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/</link>
@@ -342,15 +399,6 @@
       <description>Prime Video 正在加入可隨選的地方與全國新聞片段，隨著 Amazon 與其他串流平台一起嘗試短影音來吸引年輕觀眾。</description>
     </item>
     <item>
-      <title>ClickFix 攻擊誘騙 Mac 和 Windows 使用者自己駭入自己</title>
-      <link>https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163741</guid>
-      <pubDate>Mon, 14 Sep 2026 18:08:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果你上週在 Reddit 點了假的 HBO Max 廣告，你可能已經成了日益升高的「ClickFix」資安威脅的受害者。</description>
-    </item>
-    <item>
       <title>Apple 軟體平台的重大更新現已推出</title>
       <link>https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</guid>
@@ -600,18 +648,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_EnnLoZX.max-600x600.format-webp.webp" alt=""></p><p>我們衡量工具組中的新功能可協助您做出更好、更快速的決策，帶動業務成長。</p>]]></content:encoded>
     </item>
     <item>
-      <title>與倫敦 Southbank Centre 探索創意智慧</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/exploring-creative-intelligence-with-londons-southbank-centre/</guid>
-      <pubDate>Thu, 10 Sep 2026 11:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一個全新的週末活動探索藝術家、數位創新與 AI 如何重塑我們所處的世界。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Landscape.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Landscape.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Landscape.max-600x600.format-webp.webp" alt=""></p><p>一個全新的週末活動探索藝術家、數位創新與 AI 如何重塑我們所處的世界。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>NVIDIA 與 Palantir 將主權智慧導入關鍵供應鏈</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains</link>
       <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains</guid>
@@ -679,18 +715,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今天推出 iPhone Duo，這是首款可摺疊 iPhone。</description>
-    </item>
-    <item>
-      <title>一個新的深度學習模型可從太空繪製全球甲烷排放地圖。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/mapping-global-methane-emissions-from-space/</guid>
-      <pubDate>Wed, 09 Sep 2026 18:15:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 和 NASA JPL 開發了一個 AI 模型，使用 EMIT 從太空繪製並量化全球甲烷排放。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Map_Global_Methane_social.max-600x600.format-webp.webp" alt=""></p><p>Google 和 NASA JPL 開發了一個 AI 模型，使用 EMIT 從太空繪製並量化全球甲烷排放。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 使用 Apple Intelligence 推進健康與健身功能</title>
@@ -1209,30 +1233,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/1af7f47de00e8889e5953ae330bce777/6a8f552f3d6332e7002f32be_gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450/gpu-architecture-corp-blog-nvhbm-1280x680-5547600-842x450_thmb.jpg?v=58969f3e-5d6b-459a-a34b-663e85b50792" alt=""></p><p>新一波 AI 正為基礎設施帶來新的需求。隨著 AI 代理與兆參數工作負載逐漸成為主流，AI 基礎設施的效能不僅取決於運算能力，也取決於運算、記憶體、儲存、網路與軟體如何作為一個整合系統共同設計。為了協助超大規模雲端業者與 AI 創新者打造下一代 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AWS 和 NVIDIA 將提供 200 萬顆額外 GPU 與下一代基礎設施，以支援代理式 AI 與實體 AI</title>
-      <link>https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai</guid>
-      <pubDate>Wed, 26 Aug 2026 21:05:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Amazon Web Services（AWS），Amazon.com, Inc. 旗下公司（NASDAQ: AMZN），與 NVIDIA（NASDAQ: NVDA）今日宣布大幅擴大雙方的策略合作，以因應全球對 AI 基礎設施持續飆升的需求。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/b215feb0f0d6c81e22ff4307cc071a1f/6a8e37a23d633249b789b083_aws-nvidia/aws-nvidia_thmb.jpg?v=d9d852ce-307b-4e74-9c08-6182462f9762" alt=""></p><p>Amazon Web Services（AWS），Amazon.com, Inc. 旗下公司（NASDAQ: AMZN），與 NVIDIA（NASDAQ: NVDA）今日宣布大幅擴大雙方的策略合作，以因應全球對 AI 基礎設施持續飆升的需求。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 公布 2027 會計年度第二季財務結果</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-second-quarter-fiscal-2027</guid>
-      <pubDate>Wed, 26 Aug 2026 20:20:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA（NASDAQ: NVDA）今日公布截至 2026 年 7 月 26 日止第二季營收為 962 億美元，較前一季成長 18%，較去年同期成長 106%。該季度，GAAP ...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA（NASDAQ: NVDA）今日公布截至 2026 年 7 月 26 日止第二季營收為 962 億美元，較前一季成長 18%，較去年同期成長 106%。該季度，GAAP ...</p>]]></content:encoded>
     </item>
     <item>
       <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
