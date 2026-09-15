@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 18:35:10 GMT</lastBuildDate>
+    <item>
+      <title>到 2035 年，美國資料中心的天然氣消耗量可能比德國和日本加總還多</title>
+      <link>https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164442</guid>
+      <pubDate>Tue, 15 Sep 2026 18:29:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 熱潮可能會推動美國資料中心成為全球最大的天然氣消費者之一。</description>
+    </item>
     <item>
       <title>SpaceX 將於 9 月 22 日首次嘗試讓 Starship 進入軌道</title>
       <link>https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/</link>
@@ -388,15 +397,6 @@
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description/>
-    </item>
-    <item>
-      <title>Jensen Huang 接了 Trump 的電話，還展示了另一樣東西</title>
-      <link>https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164024</guid>
-      <pubDate>Tue, 15 Sep 2026 01:50:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當 Jensen Huang 接聽 Trump 的即時來電時，我們有些人更關注他用來接聽電話的那支手機。</description>
     </item>
     <item>
       <title>觀看太空人 Christina Koch 與 Google 的 James Manyika 談論太空、科技與探索。</title>
