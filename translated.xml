@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:50:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 19:05:27 GMT</lastBuildDate>
+    <item>
+      <title>AI 墳場：持續更新的失敗專案與新創公司清單</title>
+      <link>https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
+      <pubDate>Tue, 15 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從 Apple 一再延後的 Siri AI，到 OpenAI 混亂的「超級應用程式」上線，以下是那些關閉或未達預期的 AI 專案概覽。</description>
+    </item>
     <item>
       <title>到 2035 年，美國資料中心的天然氣消耗量可能比德國和日本加總還多</title>
       <link>https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/</link>
@@ -370,15 +379,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>義大利新創公司 Exein 在 Headline 領投下完成 2.7 億美元融資，估值達 17 億美元。</description>
-    </item>
-    <item>
-      <title>Salesforce 和 Nvidia 的新推理模型是所有 AI 實驗室都該害怕的東西</title>
-      <link>https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163913</guid>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Salesforce Koa 是建立在 Nvidia 的開源權重 Nemotron 模型之上，並經過訓練以執行銷售、行銷和客戶支援任務。</description>
     </item>
     <item>
       <title>Widow’s Bay 成為艾美獎史上獲獎最多的新生代喜劇</title>
