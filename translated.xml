@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 16:03:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 16:18:29 GMT</lastBuildDate>
+    <item>
+      <title>AI 造福社會</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" medium="image" type="image/gif" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" alt=""></p><p>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</p>]]></content:encoded>
+    </item>
     <item>
       <title>打造 AI 以加速科學並改善生活</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</link>
@@ -507,18 +519,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Race_Running_Tips.max-600x600.format-webp.webp" alt=""></p><p>Search 可以透過報名提醒、量身打造的訓練計畫等，幫助跑者為比賽日做好準備。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 應用程式現在可在 Windows 上使用</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在推出適用於 Windows 的 Gemini 應用程式，這款全新桌面應用程式可與你喜愛的工具和日常應用程式並行使用。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出適用於 Windows 的 Gemini 應用程式，這款全新桌面應用程式可與你喜愛的工具和日常應用程式並行使用。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>在 Android 上更換密碼管理工具既簡單又安全</title>
       <link>https://blog.google/products-and-platforms/platforms/android/switch-password-managers/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/switch-password-managers/</guid>
@@ -529,6 +529,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Image_4.max-600x600.format-webp.webp" alt=""></p><p>新的 Android 功能可讓你在不同密碼管理工具之間安全地轉移密碼和通行密鑰。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 應用程式現在可在 Windows 上使用</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</guid>
+      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出適用於 Windows 的 Gemini 應用程式，這款全新桌面應用程式可與你喜愛的工具和日常應用程式並行使用。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出適用於 Windows 的 Gemini 應用程式，這款全新桌面應用程式可與你喜愛的工具和日常應用程式並行使用。</p>]]></content:encoded>
     </item>
     <item>
       <title>現在每個人都能把資料用起來</title>
@@ -745,18 +757,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" alt=""></p><p>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini 讓行政雜務快速又輕鬆的 4 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/ai-navigate-bureaucracy/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/4_ways_Gemini_makes_administrat.max-600x600.format-webp.webp" alt=""></p><p>人們正轉向 Gemini 尋求協助處理複雜的政府事務，例如報稅、繳納罰款，以及申請社會福利服務。</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 政策的窗口已經打開。我們需要採取行動。</title>
