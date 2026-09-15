@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 15 Sep 2026 15:32:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:48:01 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI、Anthropic、Google 已就 AI 安全進行數週會談</title>
+      <link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164278</guid>
+      <pubDate>Tue, 15 Sep 2026 15:47:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 證實已與 Anthropic 和 Google DeepMind 進行數週的 AI 安全會談，而川普團隊則淡化安全疑慮，並推動要跟上中國的腳步。</description>
+    </item>
     <item>
       <title>介紹 Meta One：一項提供更多功能與 AI 的訂閱服務，幫助你創作、連結並脫穎而出</title>
       <link>https://about.fb.com/news/2026/09/presentation-de-meta-one-un-service-dabonnement-offrant-davantage-de-fonctionnalites-et-dia-pour-creer-se-connecter-et-se-demarquer/</link>
@@ -253,15 +262,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 最新的軟體更新導入 Siri AI，並帶來實用的新 Apple Intelligence 功能。</description>
-    </item>
-    <item>
-      <title>macOS 27：新版 Siri 挑戰 AI 生產力應用程式</title>
-      <link>https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163538</guid>
-      <pubDate>Mon, 14 Sep 2026 17:10:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>macOS 27 Goldgen Gate 帶來整合 Siri 的全新 Spotlight 搜尋</description>
     </item>
     <item>
       <title>Siri AI，能力大幅提升且更個人化的助理，現已登場</title>
