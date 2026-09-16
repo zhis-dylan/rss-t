@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:30:24 GMT</lastBuildDate>
+    <item>
+      <title>May Mobility 將透過 14 億美元的 SPAC 交易上市</title>
+      <link>https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164855</guid>
+      <pubDate>Wed, 16 Sep 2026 15:27:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆交易可能為這家輕資產 robotaxi 公司帶來超過 3 億美元的資金。</description>
+    </item>
     <item>
       <title>NVIDIA Vera Rubin NVL72 在 MLPerf Inference v6.1 首次亮相中展現領先效能</title>
       <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/</link>
@@ -340,15 +349,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta One 將公司 AI 工具的擴大使用權，與 Facebook、Instagram 和 WhatsApp 上的進階功能打包。</description>
-    </item>
-    <item>
-      <title>健康福利平台 Thatch 在醫療成本飆升之際達到 10 億美元估值</title>
-      <link>https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164314</guid>
-      <pubDate>Tue, 15 Sep 2026 17:02:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家成立五年的新創公司從 The General Partnership、Index Ventures、General Catalyst 和 Andreessen Horowitz 籌得 1.08 億美元。</description>
     </item>
     <item>
       <title>使用 Gemini 3.8 Live 與 3.5 Transcribe 建立即時語音應用程式</title>
