@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:43:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:59:06 GMT</lastBuildDate>
     <item>
       <title>據報 SK 海力士正與 Intel 洽談在美國製造記憶體晶片</title>
       <link>https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/</link>
@@ -35,6 +35,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索 OpenAI 全新的 AI 驅動廣告體驗，包括贊助代理、行銷人員工具，以及與 HubSpot 和 Shopify 的整合。</description>
+    </item>
+    <item>
+      <title>前 Infosys 執行長的 AI 新創再募得 5,300 萬美元</title>
+      <link>https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3152543</guid>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家位於 Palo Alto 的新創公司表示，自推出以來的幾個月內已拿下多筆七位數的企業合約。</description>
     </item>
     <item>
       <title>潔淨科技新創 Fluxnium 找到一種利用相當於 5 萬年核燃料的方式</title>
@@ -440,15 +449,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Essentially 是一款相機 App，Superpose 會分析自拍或照片，並使用 AI 生成四種可能的姿勢。</description>
-    </item>
-    <item>
-      <title>在 TechCrunch Disrupt 2026 了解如何將你的新創公司從原型推進到量產</title>
-      <link>https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163504</guid>
-      <pubDate>Tue, 15 Sep 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 TechCrunch Disrupt 2026，與擴張領導者 Adrian Macneil（Foxglove）、John Mackey（MBRYONICS）和 Boris Sofman（Bedrock Robotics）一起，了解如何將你的新創突破從原型擴展到量產。9 月 25 日前報名，最多可省下 200 美元的票價。</description>
     </item>
     <item>
       <title>來自 Google AI 與經濟 ATLAS 的新洞察</title>
