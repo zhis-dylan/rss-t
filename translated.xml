@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 12:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:13:36 GMT</lastBuildDate>
+    <item>
+      <title>Emerald AI、Google 與 NVIDIA 推出聯盟，推動彈性 AI 資料中心</title>
+      <link>https://blogs.nvidia.com/blog/ai-energy-management-alliance/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-energy-management-alliance/</guid>
+      <pubDate>Wed, 16 Sep 2026 13:00:33 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI 工廠是智慧時代的基礎設施。要負責任地擴大規模，將同樣取決於電網內外的創新。今天，Emerald AI、Google 與 NVIDIA 宣布成立 AI 能源管理聯盟（AEMA），這是一個首創的聯盟，致力推動能動態管理用電的資料中心 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/68f0ec8f9398507f177fa7f9ef9bd52e/6aaa936a3d6332a269423aa1_aema-main-feature-842x450/aema-main-feature-842x450_thmb.jpg?v=bae9fbc7-6eba-4f1c-8186-bc7dccca1c58" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/68f0ec8f9398507f177fa7f9ef9bd52e/6aaa936a3d6332a269423aa1_aema-main-feature-842x450/aema-main-feature-842x450_thmb.jpg?v=bae9fbc7-6eba-4f1c-8186-bc7dccca1c58"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/68f0ec8f9398507f177fa7f9ef9bd52e/6aaa936a3d6332a269423aa1_aema-main-feature-842x450/aema-main-feature-842x450_thmb.jpg?v=bae9fbc7-6eba-4f1c-8186-bc7dccca1c58" alt=""></p><p>AI 工廠是智慧時代的基礎設施。要負責任地擴大規模，將同樣取決於電網內外的創新。今天，Emerald AI、Google 與 NVIDIA 宣布成立 AI 能源管理聯盟（AEMA），這是一個首創的聯盟，致力推動能動態管理用電的資料中心 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>潔淨科技新創 Fluxnium 找到一種利用相當於 5 萬年核燃料的方式</title>
+      <link>https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164496</guid>
+      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Fluxnium 的纖維可直接從海水中提取鈾，而海水中的核燃料足以為數千代人提供電力。</description>
+    </item>
     <item>
       <title>我們正在巴西催化百萬噸級的氣候影響</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/terradot-superpollutants-carbon-removal/</link>
@@ -419,15 +440,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>印度將從 10 月 15 日起，對透過 UPI 進行的某些支付收取 0.4% 的商家手續費。</description>
-    </item>
-    <item>
-      <title>Evvy 募得 4000 萬美元，藉由陰道微生物群資料推進女性健康研究</title>
-      <link>https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164101</guid>
-      <pubDate>Tue, 15 Sep 2026 14:13:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>女性健康公司 Evvy 週二宣布，完成由 Catalio Capital Management 領投的 4000 萬美元 B 輪融資。</description>
     </item>
     <item>
       <title>來自 Google AI 與經濟 ATLAS 的新洞察</title>
@@ -1207,18 +1219,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://about.fb.com/wp-content/uploads/2026/08/TOM_LIQUID-COOLING_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/TOM_LIQUID-COOLING_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/TOM_LIQUID-COOLING_Header.jpg?fit=1920%2C1080" alt=""></p><p>Tom Shaw 解釋 Meta 如何使用封閉式液冷來更有效地驅動 AI。<br>〈封閉式迴路冷卻解析：Meta AI 背後的管路系統〉一文最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 宣布即將舉行的財經社群活動</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6927858</guid>
-      <pubDate>Thu, 27 Aug 2026 21:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>美國加州聖塔克拉拉，2026 年 8 月 27 日——NVIDIA 將在以下財經社群活動中發表簡報：Goldman Sachs Communacopia + Technology Conference，9 月 10 日星期四上午 8:50（太平洋時間）...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" alt=""></p><p>美國加州聖塔克拉拉，2026 年 8 月 27 日——NVIDIA 將在以下財經社群活動中發表簡報：Goldman Sachs Communacopia + Technology Conference，9 月 10 日星期四上午 8:50（太平洋時間）...</p>]]></content:encoded>
     </item>
     <item>
       <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
