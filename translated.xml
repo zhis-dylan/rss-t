@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 21:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 21:34:13 GMT</lastBuildDate>
+    <item>
+      <title>Pulley，一家 Carta 的競爭對手，即將關閉</title>
+      <link>https://techcrunch.com/2026/09/16/pulley-a-carta-rival-is-shutting-down/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165128</guid>
+      <pubDate>Wed, 16 Sep 2026 21:23:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由 General Catalyst、Stripe 和 Founders Fund 支持的股權結構表管理平台 Pulley 宣布將於 12 月停止營運。</description>
+    </item>
     <item>
       <title>Anthropic 和 OpenAI 想要引入安全評估員。他們真的能保持獨立嗎？</title>
       <link>https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</link>
@@ -314,15 +323,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索 OpenAI 全新的 AI 驅動廣告體驗，包括贊助代理、行銷人員工具，以及與 HubSpot 和 Shopify 的整合。</description>
-    </item>
-    <item>
-      <title>前 Infosys 執行長的 AI 新創再募得 5,300 萬美元</title>
-      <link>https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3152543</guid>
-      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家位於 Palo Alto 的新創公司表示，自推出以來的幾個月內已拿下多筆七位數的企業合約。</description>
     </item>
     <item>
       <title>如何將 AI 使用與商業價值連結</title>
