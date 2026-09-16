@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:17:18 GMT</lastBuildDate>
     <item>
       <title>駭客入侵佛州車輛資料庫後，公布數千名駕駛的資料</title>
       <link>https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/</link>
@@ -66,6 +66,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp" alt=""></p><p>Search 個人資料更新可幫助出版者更突顯其內容，並與其受眾建立連結。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>重新思考你的策略，推動今年假期季銷售成長。</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-podcast-holiday-sales-strategies/</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在這集 Ads Decoded 中，我們分享你現在就可以採取的步驟，來在假期季推動銷售並觸及顧客。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E3_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E3_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E3_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這集 Ads Decoded 中，我們分享你現在就可以採取的步驟，來在假期季推動銷售並觸及顧客。</p>]]></content:encoded>
     </item>
     <item>
       <title>聽聽 Neuralink 共同創辦人 Max Hodak 為什麼說螢幕時代即將結束，將於 TechCrunch Disrupt 2026 登場</title>
@@ -445,40 +457,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
     </item>
     <item>
-      <title>為每個人、每種語言打造 AI</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</guid>
+      <title>AI 造福社會</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" alt=""></p><p>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用 Gemini 搞定家務的 4 種方法</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
+      <description>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" medium="image" type="image/gif" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" alt=""></p><p>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</p>]]></content:encoded>
     </item>
     <item>
       <title>打造 AI 以加速科學並改善生活</title>
@@ -493,16 +481,40 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" alt=""></p><p>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</p>]]></content:encoded>
     </item>
     <item>
-      <title>AI 造福社會</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
+      <title>用 Gemini 搞定家務的 4 種方法</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" medium="image" type="image/gif" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" alt=""></p><p>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</p>]]></content:encoded>
+      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>為每個人、每種語言打造 AI</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" alt=""></p><p>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們承諾投入 1,000 萬美元，推動內華達州更潔淨、更實惠的能源未來。</title>
@@ -622,18 +634,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 全新工具組合可協助家長為孩子打造更安全的數位體驗，現已可在 iPhone、iPad、Mac 等裝置上使用。</description>
-    </item>
-    <item>
-      <title>DevFest 回來了</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/</guid>
-      <pubDate>Mon, 14 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>DevFest 2026 回來了，以下是你可以如何參與超過 800 場全球活動之一，在代理式 AI 時代打造、保護並擴展。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DevFest.max-600x600.format-webp.webp" alt=""></p><p>DevFest 2026 回來了，以下是你可以如何參與超過 800 場全球活動之一，在代理式 AI 時代打造、保護並擴展。</p>]]></content:encoded>
     </item>
     <item>
       <title>Perplexity Portable Computer 現已可在 Windows 上使用，由 NVIDIA RTX 驅動</title>
