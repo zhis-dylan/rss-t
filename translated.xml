@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:31:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:46:25 GMT</lastBuildDate>
     <item>
       <title>Anthropic 將 Claude 聊天與 Cowork 整合到同一介面</title>
       <link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</link>
@@ -259,6 +259,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>亞馬遜將讓所有客戶在搶先體驗期間使用 Alexa+ 助理</description>
+    </item>
+    <item>
+      <title>勞工如何開啟新的工作方式</title>
+      <link>https://openai.com/index/unlocking-new-ways-of-working</link>
+      <guid isPermaLink="false">https://openai.com/index/unlocking-new-ways-of-working</guid>
+      <pubDate>Wed, 16 Sep 2026 09:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>新的 OpenAI 經濟研究顯示，勞工如何在傳統角色之外使用 AI，以及哪些新活動會成為他們工作中反覆出現的一部分。</description>
     </item>
     <item>
       <title>為下一代重新想像芝加哥的湯普森中心</title>
@@ -1875,15 +1884,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正提供 10 萬名學術研究人員免費使用 ChatGPT 最先進的 AI 模型，以加速科學研究、協作與發現。</description>
-    </item>
-    <item>
-      <title>GPT-5.6 如何融合前沿智慧與前沿效率</title>
-      <link>https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency</guid>
-      <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-5.6 提升了模型、推論與代理式工作流程的 AI 效率，協助在每一美元成本下提供更實用的智慧。</description>
     </item>
     <item>
       <title>回顧微軟 FY26：從 AI 實驗邁向前沿轉型</title>
