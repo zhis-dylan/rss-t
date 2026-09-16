@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 13:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:28:47 GMT</lastBuildDate>
+    <item>
+      <title>據報 SK 海力士正與 Intel 洽談在美國製造記憶體晶片</title>
+      <link>https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164755</guid>
+      <pubDate>Wed, 16 Sep 2026 13:23:02 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>SK 海力士告訴 TechCrunch，該公司目前還沒有敲定任何計畫或安排。</description>
+    </item>
     <item>
       <title>Emerald AI、Google 與 NVIDIA 推出聯盟，推動彈性 AI 資料中心</title>
       <link>https://blogs.nvidia.com/blog/ai-energy-management-alliance/</link>
@@ -431,15 +440,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 TechCrunch Disrupt 2026，與擴張領導者 Adrian Macneil（Foxglove）、John Mackey（MBRYONICS）和 Boris Sofman（Bedrock Robotics）一起，了解如何將你的新創突破從原型擴展到量產。9 月 25 日前報名，最多可省下 200 美元的票價。</description>
-    </item>
-    <item>
-      <title>印度結束其無所不在的數位支付網路上大型交易的免費時代</title>
-      <link>https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164158</guid>
-      <pubDate>Tue, 15 Sep 2026 14:22:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>印度將從 10 月 15 日起，對透過 UPI 進行的某些支付收取 0.4% 的商家手續費。</description>
     </item>
     <item>
       <title>來自 Google AI 與經濟 ATLAS 的新洞察</title>
