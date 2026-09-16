@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 16:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 17:01:37 GMT</lastBuildDate>
+    <item>
+      <title>你的 AI 代理現在可以控制你的 Google Home 裝置</title>
+      <link>https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164815</guid>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正在推出一個新的 Google Home MCP 伺服器的早期存取，讓像 Claude、ChatGPT 等 AI 代理能夠用自然語言控制已連線裝置、查看攝影機摘要，以及存取智慧家庭活動。</description>
+    </item>
     <item>
       <title>Anthropic 將 Claude 聊天與 Cowork 整合到同一介面</title>
       <link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</link>
@@ -57,6 +66,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在今年的 Disrupt 上，Neuralink 共同創辦人 Max Hodak 將提出一個免螢幕介面的願景，甚至還能提供醫療協助。9 月 25 日前報名，可在門票上省下最多 200 美元。</description>
+    </item>
+    <item>
+      <title>Fortell 如何運用 AI（以及 1.63 億美元）打破助聽器壟斷</title>
+      <link>https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3164906</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「為什麼我得拜託我的祖父母戴上他們的助聽器，但從來沒有人需要叫我戴上眼鏡？」這個問題驅使 Matthew de Jonge 花了六年打造 Fortell，這是一家 AI 助聽器新創公司，近期從 Founders Fund、Thrive Capital 和 Valor Equity 等投資人手中募得 1.63 億美元 […]</description>
     </item>
     <item>
       <title>May Mobility 將透過 14 億美元的 SPAC 交易上市</title>
@@ -364,15 +382,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <description>AI 熱潮可能會推動美國資料中心成為全球最大的天然氣消費者之一。</description>
     </item>
     <item>
-      <title>SpaceX 將於 9 月 22 日首次嘗試讓 Starship 進入軌道</title>
-      <link>https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164416</guid>
-      <pubDate>Tue, 15 Sep 2026 18:16:07 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Elon Musk 的公司也將嘗試把首批 V3 Starlink 衛星部署進其軌道網路星座。</description>
-    </item>
-    <item>
       <title>9 月 Pixel 功能更新：全新的 Pixel VIP 更新、Pixel Watch 功能等</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/september-2026-pixel-drop/</guid>
@@ -383,15 +392,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026_Pixel_Drop_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026_Pixel_Drop_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026_Pixel_Drop_social.max-600x600.format-webp.webp" alt=""></p><p>我們的 9 月 Pixel 功能更新來了，包含更新版 Pixel VIP 小工具、擴展的聊天詐騙偵測等更多內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 代理現在有地方可以打小報告</title>
-      <link>https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164419</guid>
-      <pubDate>Tue, 15 Sep 2026 17:42:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 聯絡熱線的設計，是要成為一個低調的地方，讓目睹不當行為的代理可以向當局檢舉。</description>
     </item>
     <item>
       <title>使用 Gemini 3.8 Live 與 3.5 Transcribe 建立即時語音應用程式</title>
