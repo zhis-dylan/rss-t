@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 04:54:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 05:10:03 GMT</lastBuildDate>
+    <item>
+      <title>為下一代重新想像芝加哥的湯普森中心</title>
+      <link>https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/</guid>
+      <pubDate>Wed, 16 Sep 2026 05:01:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們在湯普森中心的新芝加哥辦公室結合了藝術、社群與建築。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thompson_Center_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thompson_Center_herosocial.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thompson_Center_herosocial.max-600x600.format-webp.webp" alt=""></p><p>我們在湯普森中心的新芝加哥辦公室結合了藝術、社群與建築。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>曼徹斯特大學使用 NVIDIA Earth-2 預測英國各地空氣污染</title>
+      <link>https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/</guid>
+      <pubDate>Wed, 16 Sep 2026 05:00:42 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>空氣污染是嚴重的公共衛生風險，光是在英國，去年就估計造成 30,000 人死亡。以資料為基礎的洞察有助於應對——但使用傳統以化學為基礎的模型來計算空氣品質成本高昂，這限制了模型的細緻程度與執行頻率。David Topping 是一名教授，在 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/90bd9bd060e0edeb9efd5c66532bdd13/6aaa22e43d633274124a7923_Is-AI-Poll-01_1920x1080-842x450/Is-AI-Poll-01_1920x1080-842x450_thmb.jpg?v=0afc409b-7783-43a7-806f-7a64f41837e5" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/90bd9bd060e0edeb9efd5c66532bdd13/6aaa22e43d633274124a7923_Is-AI-Poll-01_1920x1080-842x450/Is-AI-Poll-01_1920x1080-842x450_thmb.jpg?v=0afc409b-7783-43a7-806f-7a64f41837e5"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/90bd9bd060e0edeb9efd5c66532bdd13/6aaa22e43d633274124a7923_Is-AI-Poll-01_1920x1080-842x450/Is-AI-Poll-01_1920x1080-842x450_thmb.jpg?v=0afc409b-7783-43a7-806f-7a64f41837e5" alt=""></p><p>空氣污染是嚴重的公共衛生風險，光是在英國，去年就估計造成 30,000 人死亡。以資料為基礎的洞察有助於應對——但使用傳統以化學為基礎的模型來計算空氣品質成本高昂，這限制了模型的細緻程度與執行頻率。David Topping 是一名教授，在 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Threads 為亞太地區的青少年推出家長監護功能</title>
       <link>https://about.fb.com/news/2026/09/threads-introduces-parental-supervision-for-teens-in-apac/</link>
@@ -194,28 +218,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
     </item>
     <item>
-      <title>AI 造福社會</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
+      <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" medium="image" type="image/gif" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" alt=""></p><p>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>打造 AI 以加速科學並改善生活</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" alt=""></p><p>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</p>]]></content:encoded>
+      <description>Gemini Notebook 最新學習與讀書工具總覽。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 最新學習與讀書工具總覽。</p>]]></content:encoded>
     </item>
     <item>
       <title>為每個人、每種語言打造 AI</title>
@@ -242,6 +254,30 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
     </item>
     <item>
+      <title>打造 AI 以加速科學並改善生活</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" alt=""></p><p>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>AI 造福社會</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" medium="image" type="image/gif" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" alt=""></p><p>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>我們承諾投入 1,000 萬美元，推動內華達州更潔淨、更實惠的能源未來。</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</guid>
@@ -252,18 +288,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" alt=""></p><p>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Notebook 最新學習與讀書工具總覽。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 最新學習與讀書工具總覽。</p>]]></content:encoded>
     </item>
     <item>
       <title>用 Gemini 搞定家務的 4 種方法</title>
@@ -602,18 +626,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>César de la Fuente 的實驗室運用 Codex 和 ChatGPT 搜尋現存與已滅絕的基因組，找出可對抗抗藥性感染的抗菌候選分子。</description>
-    </item>
-    <item>
-      <title>Gemini 應用程式現在可在 Windows 上使用</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-app-now-on-windows/</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在推出適用於 Windows 的 Gemini 應用程式，這款全新桌面應用程式可與你喜愛的工具和日常應用程式並行使用。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_for_Desktop_Thumbnail_20.max-600x600.format-webp.webp" alt=""></p><p>我們正在推出適用於 Windows 的 Gemini 應用程式，這款全新桌面應用程式可與你喜愛的工具和日常應用程式並行使用。</p>]]></content:encoded>
     </item>
     <item>
       <title>用 Search 為你的下一場重要賽事做準備的 3 種方式</title>
@@ -1216,18 +1228,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>即日起至 10 月 7 日，Sneaky Sasquatch 將以這款熱門開放世界 Apple Arcade 遊戲的魅力與美學，改造 Subway Surfers+。</description>
-    </item>
-    <item>
-      <title>GeForce NOW 在 Gamescom 2026 為玩家帶來更多遊玩方式</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-gamescom-2026/</guid>
-      <pubDate>Thu, 27 Aug 2026 13:00:33 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 在 Gamescom 公布的消息揭示了 GeForce NOW 的下一步發展，包括更多遊玩方式、更多支援的裝置與平台，以及更多大型 PC 遊戲將登上雲端。全新的 NVIDIA DLSS 4.5 技術控制讓會員能以更多方式微調遊戲體驗，而對新 Steam 裝置、GOG 單一登入、Firefox 瀏覽器 […] 的擴充支援</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/969ad909104ac6ad5d551bbeba277789/6a9035013d63323f45be92b6_gfn-thursday-8-27-nv-blog-1280x680-logo-842x450/gfn-thursday-8-27-nv-blog-1280x680-logo-842x450_thmb.jpg?v=77ebd822-2b6b-46bf-8942-2ea780ae0e0e" alt=""></p><p>NVIDIA 在 Gamescom 公布的消息揭示了 GeForce NOW 的下一步發展，包括更多遊玩方式、更多支援的裝置與平台，以及更多大型 PC 遊戲將登上雲端。全新的 NVIDIA DLSS 4.5 技術控制讓會員能以更多方式微調遊戲體驗，而對新 Steam 裝置、GOG 單一登入、Firefox 瀏覽器 […] 的擴充支援</p>]]></content:encoded>
     </item>
     <item>
       <title>更好的答案、更廣的思考：學生從 ChatGPT 和批判性思考訓練中獲得什麼</title>
