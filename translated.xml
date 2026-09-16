@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:17:58 GMT</lastBuildDate>
+    <item>
+      <title>前 Waymo 財務長加入自動駕駛新創 Wayve</title>
+      <link>https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164913</guid>
+      <pubDate>Wed, 16 Sep 2026 19:02:49 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>曾於 1 月離開 Alphabet 自駕車公司 Waymo 財務長職位的 Elisa de Martel，將常駐矽谷。</description>
+    </item>
     <item>
       <title>Microsoft 對教育領域 AI 的承諾</title>
       <link>https://blogs.microsoft.com/blog/2026/09/16/microsofts-commitment-for-ai-in-education/</link>
@@ -393,15 +402,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>全國對資料中心建設的反彈已蔓延到費城，當地官員曾提議可能在一個已受現已停產的煉油廠影響的社區內施工。</description>
-    </item>
-    <item>
-      <title>Meta 現在讓 AI 代理處理 WhatsApp Business 設定中無聊的部分</title>
-      <link>https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164453</guid>
-      <pubDate>Tue, 15 Sep 2026 20:12:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新的 WhatsApp Business MCP 伺服器讓開發者可以使用像 Claude、Cursor、Codex 和 ChatGPT 這類 AI 程式碼代理，來處理設定、訊息範本、測試和疑難排解。</description>
     </item>
     <item>
       <title>9 月 Pixel 功能更新：全新的 Pixel VIP 更新、Pixel Watch 功能等</title>
