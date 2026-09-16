@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 17:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:02:08 GMT</lastBuildDate>
+    <item>
+      <title>駭客入侵佛州車輛資料庫後，公布數千名駕駛的資料</title>
+      <link>https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164948</guid>
+      <pubDate>Wed, 16 Sep 2026 18:00:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>ShinyHunters 幫派在表示佛羅里達州政府機關未支付他們要求的贖金後，將這些檔案洩露到網路上。</description>
+    </item>
     <item>
       <title>你的 AI 代理現在可以控制你的 Google Home 裝置</title>
       <link>https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/</link>
@@ -362,15 +371,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>從 Apple 一再延後的 Siri AI，到 OpenAI 混亂的「超級應用程式」上線，以下是那些關閉或未達預期的 AI 專案概覽。</description>
-    </item>
-    <item>
-      <title>到 2035 年，美國資料中心的天然氣消耗量可能比德國和日本加總還多</title>
-      <link>https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164442</guid>
-      <pubDate>Tue, 15 Sep 2026 18:29:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 熱潮可能會推動美國資料中心成為全球最大的天然氣消費者之一。</description>
     </item>
     <item>
       <title>9 月 Pixel 功能更新：全新的 Pixel VIP 更新、Pixel Watch 功能等</title>
