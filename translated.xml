@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 15:45:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 16:00:54 GMT</lastBuildDate>
+    <item>
+      <title>加拿大新創公司 smartARM 運用 AI 打造直覺式仿生義肢</title>
+      <link>https://about.fb.com/news/2026/09/canadian-start-up-smartarm-uses-ai-to-create-intuitive-bionic-prosthetics/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50206</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:19 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>人們和公司正在運用 AI 硬體與軟體，讓每個人的生活更輕鬆、更便利。總部位於多倫多的新創公司 smartARM 就是這樣的例子；這家公司正在開發一款以視覺優先的仿生手臂原型，採用開源軟體，並可選配 Meta AI 眼鏡，以探索讓肢體差異者更直覺地控制義肢。許多傳統義手都要求使用者手動在不同物品的抓握模式之間切換，讓拿取日常物品變得很麻煩。像拿起玻璃杯再拿起湯匙這種看似自然的動作，也會變成多步驟流程。smartARM 透過開發能理解環境的 AI 硬體與軟體來解決這個問題，並自動為物品選擇合適的抓握方式，讓使用者能直覺地在日常任務之間切換。smartARM 的義肢手臂透過嵌在掌心中的攝影機「看見」世界。團隊正在使用 DINOv2，也就是 Meta 的開源視覺模型，來協助它只憑幾張參考照片就辨識日常物品，支援 smartARM 的抓握選擇軟體。這讓它能根據直接的視覺特徵讀取來抓握並拿起物品，不需要事先理解或額外程式設計。這支手臂幾乎能即刻適應只用幾張照片訓練過的物品，這在過去可能需要數週。smartARM 使用 Meta AI 眼鏡與 Meta Wearables Device Access Toolkit 來擴充並提升物體辨識與理解能力，透過眼鏡提供的第一人稱視角帶來更多資料。Meta AI 眼鏡能為手臂提供額外脈絡，更好地理解使用者想與什麼互動。它也讓使用者可以透過手機上的裝置 App 新增物品，讓 smartARM 社群中的每個人都能依照自己的日常需求，個人化自己的義肢。對佩戴者來說，成果足以改變人生：一隻第一次就能運作、完全不需要訓練的仿生手臂。長期使用 smartARM 的使用者、前 NFL 球員 Shaquem Griffin 形容使用感受時說：「在它搭載的所有技術之中，可擴展性與可及性對我來說最重要。這就是消費型義肢的未來。」smartARM 創辦人暨執行長 Hamayal Choudhry 表示：「打造一隻有能力的手只是挑戰的一部分。讓它容易直覺地使用同樣重要。透過幫助手臂辨識日常物品並選擇合適的抓握方式，我們正朝向一種體驗邁進，讓人們能更專注於自己想做的事，而不是如何操作義肢。」
+這篇〈Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics〉文章最初發表於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/20260807_RT_Meta_SmartArm_ShaquemGriffin_1233.jpg?fit=1800%2C1201" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/20260807_RT_Meta_SmartArm_ShaquemGriffin_1233.jpg?fit=1800%2C1201"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/20260807_RT_Meta_SmartArm_ShaquemGriffin_1233.jpg?fit=1800%2C1201" alt=""></p><p>人們和公司正在運用 AI 硬體與軟體，讓每個人的生活更輕鬆、更便利。總部位於多倫多的新創公司 smartARM 就是這樣的例子；這家公司正在開發一款以視覺優先的仿生手臂原型，採用開源軟體，並可選配 Meta AI 眼鏡，以探索讓肢體差異者更直覺地控制義肢。許多傳統義手都要求使用者手動在不同物品的抓握模式之間切換，讓拿取日常物品變得很麻煩。像拿起玻璃杯再拿起湯匙這種看似自然的動作，也會變成多步驟流程。smartARM 透過開發能理解環境的 AI 硬體與軟體來解決這個問題，並自動為物品選擇合適的抓握方式，讓使用者能直覺地在日常任務之間切換。smartARM 的義肢手臂透過嵌在掌心中的攝影機「看見」世界。團隊正在使用 DINOv2，也就是 Meta 的開源視覺模型，來協助它只憑幾張參考照片就辨識日常物品，支援 smartARM 的抓握選擇軟體。這讓它能根據直接的視覺特徵讀取來抓握並拿起物品，不需要事先理解或額外程式設計。這支手臂幾乎能即刻適應只用幾張照片訓練過的物品，這在過去可能需要數週。smartARM 使用 Meta AI 眼鏡與 Meta Wearables Device Access Toolkit 來擴充並提升物體辨識與理解能力，透過眼鏡提供的第一人稱視角帶來更多資料。Meta AI 眼鏡能為手臂提供額外脈絡，更好地理解使用者想與什麼互動。它也讓使用者可以透過手機上的裝置 App 新增物品，讓 smartARM 社群中的每個人都能依照自己的日常需求，個人化自己的義肢。對佩戴者來說，成果足以改變人生：一隻第一次就能運作、完全不需要訓練的仿生手臂。長期使用 smartARM 的使用者、前 NFL 球員 Shaquem Griffin 形容使用感受時說：「在它搭載的所有技術之中，可擴展性與可及性對我來說最重要。這就是消費型義肢的未來。」smartARM 創辦人暨執行長 Hamayal Choudhry 表示：「打造一隻有能力的手只是挑戰的一部分。讓它容易直覺地使用同樣重要。透過幫助手臂辨識日常物品並選擇合適的抓握方式，我們正朝向一種體驗邁進，讓人們能更專注於自己想做的事，而不是如何操作義肢。」<br>這篇〈Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics〉文章最初發表於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>協助年長者在日常生活中使用 AI</title>
       <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
@@ -14,6 +27,27 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AARP 正將免費、實作型的 ChatGPT 工作坊帶到美國 10 個城市、共 1,000 位年長者，幫助他們安全地培養實用的 AI 技能。</description>
+    </item>
+    <item>
+      <title>我們正在改善出版者的 Search 個人資料的 3 種新方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Search 個人資料更新可幫助出版者更突顯其內容，並與其受眾建立連結。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp" alt=""></p><p>Search 個人資料更新可幫助出版者更突顯其內容，並與其受眾建立連結。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>聽聽 Neuralink 共同創辦人 Max Hodak 為什麼說螢幕時代即將結束，將於 TechCrunch Disrupt 2026 登場</title>
+      <link>https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164630</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在今年的 Disrupt 上，Neuralink 共同創辦人 Max Hodak 將提出一個免螢幕介面的願景，甚至還能提供醫療協助。9 月 25 日前報名，可在門票上省下最多 200 美元。</description>
     </item>
     <item>
       <title>May Mobility 將透過 14 億美元的 SPAC 交易上市</title>
@@ -351,15 +385,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <description>這是美國軍方首次公開承認，將太空武器放入地球軌道。</description>
     </item>
     <item>
-      <title>Meta 擴大訂閱推動，推出新的 AI 導向方案</title>
-      <link>https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164295</guid>
-      <pubDate>Tue, 15 Sep 2026 17:05:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta One 將公司 AI 工具的擴大使用權，與 Facebook、Instagram 和 WhatsApp 上的進階功能打包。</description>
-    </item>
-    <item>
       <title>使用 Gemini 3.8 Live 與 3.5 Transcribe 建立即時語音應用程式</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/</guid>
@@ -432,16 +457,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" alt=""></p><p>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</guid>
+      <title>用 Gemini 搞定家務的 4 種方法</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Notebook 最新學習與讀書工具總覽。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 最新學習與讀書工具總覽。</p>]]></content:encoded>
+      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
     </item>
     <item>
       <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
@@ -492,16 +517,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" alt=""></p><p>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Gemini 搞定家務的 4 種方法</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
+      <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
+      <description>Gemini Notebook 最新學習與讀書工具總覽。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 最新學習與讀書工具總覽。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Meta One：一項提供更多功能與 AI 的訂閱服務，幫助你創作、連結並脫穎而出</title>
@@ -621,18 +646,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/a5c299977646e1578ae12539a2af17ec/6aa80c233d6332fdd217ae5f_Local-AI_Perplexity-on-Windows_Blog_Feature-842x450/Local-AI_Perplexity-on-Windows_Blog_Feature-842x450_thmb.jpg?v=0b84bce9-03cf-4a35-ab23-15c74ebca1ad" alt=""></p><p>隨著本地模型變得越來越強大，AI 智能代理可以直接在 PC 上處理更多工作，同時將敏感資訊保留在裝置上。Portable Computer 是 Perplexity Computer 的本地版本，可規劃並執行多步驟任務。透過 NVIDIA GPU 加速，它使用本地模型來分析資料、整合資訊 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們正在評估在新墨西哥州利亞郡設立資料中心的可能性。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/lea-county-new-mexico/</guid>
-      <pubDate>Mon, 14 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正在探索在新墨西哥州利亞郡的一項新的資料中心專案。雖然討論仍在進行中，我們也理解居民有許多關於資料中心開發的問題……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_gradient.max-600x600.format-webp.webp" alt=""></p><p>Google 正在探索在新墨西哥州利亞郡的一項新的資料中心專案。雖然討論仍在進行中，我們也理解居民有許多關於資料中心開發的問題……</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 擴展開源 CUDA-Q 平台以支援容錯量子運算</title>
@@ -1286,19 +1299,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
-    </item>
-    <item>
-      <title>致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年</title>
-      <link>https://about.fb.com/news/2026/08/open-letter-to-tiktok-and-youtube-to-join-us-in-supporting-teens/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50024</guid>
-      <pubDate>Wed, 26 Aug 2026 13:37:57 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們宣布已與一個跨黨派的州檢察長團體達成協議，這建立在我們長期致力於賦權家長並支持青少年的努力之上。
-〈致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年〉一文最早刊登於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/08/Meta_Thumbnail-3.jpg?fit=890%2C501" alt=""></p><p>我們宣布已與一個跨黨派的州檢察長團體達成協議，這建立在我們長期致力於賦權家長並支持青少年的努力之上。<br>〈致 TikTok 與 YouTube 的公開信：邀請你們加入我們，一起支持青少年〉一文最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
