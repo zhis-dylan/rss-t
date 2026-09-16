@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 18:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 18:32:28 GMT</lastBuildDate>
+    <item>
+      <title>AI 實驗室想要內部稽核員——但或許他們該先把前門關好</title>
+      <link>https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164427</guid>
+      <pubDate>Wed, 16 Sep 2026 18:25:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>可能有個更簡單也更有效的修正方式，來對付失控的代理，答案其實近在眼前。</description>
+    </item>
     <item>
       <title>駭客入侵佛州車輛資料庫後，公布數千名駕駛的資料</title>
       <link>https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/</link>
@@ -374,15 +383,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>新的 WhatsApp Business MCP 伺服器讓開發者可以使用像 Claude、Cursor、Codex 和 ChatGPT 這類 AI 程式碼代理，來處理設定、訊息範本、測試和疑難排解。</description>
-    </item>
-    <item>
-      <title>AI 墳場：持續更新的失敗專案與新創公司清單</title>
-      <link>https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
-      <pubDate>Tue, 15 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從 Apple 一再延後的 Siri AI，到 OpenAI 混亂的「超級應用程式」上線，以下是那些關閉或未達預期的 AI 專案概覽。</description>
     </item>
     <item>
       <title>9 月 Pixel 功能更新：全新的 Pixel VIP 更新、Pixel Watch 功能等</title>
