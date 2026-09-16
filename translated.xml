@@ -5,7 +5,40 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:15:13 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA Vera Rubin NVL72 在 MLPerf Inference v6.1 首次亮相中展現領先效能</title>
+      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:48 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>系統效能、有效率的基礎架構擴充，以及持續的軟體最佳化，是決定 AI 推論經濟效益的關鍵槓桿。更高的系統效能代表可產生更多 token，進而帶來更高營收。有效率的擴充代表隨著硬體增加，吞吐量也能按比例成長，以較少資源大規模服務使用者。持續最佳化則代表能從基礎架構投資中創造更多價值。 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540" alt=""></p><p>系統效能、有效率的基礎架構擴充，以及持續的軟體最佳化，是決定 AI 推論經濟效益的關鍵槓桿。更高的系統效能代表可產生更多 token，進而帶來更高營收。有效率的擴充代表隨著硬體增加，吞吐量也能按比例成長，以較少資源大規模服務使用者。持續最佳化則代表能從基礎架構投資中創造更多價值。 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>關於青少年對 AI 看法，今天你該知道的 5 件事</title>
+      <link>https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們與 RXN Group 的研究發現顯示，青少年對 AI 有經過思考，也充滿好奇。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teens_views_on_AI_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teens_views_on_AI_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teens_views_on_AI_hero.max-600x600.format-webp.webp" alt=""></p><p>我們與 RXN Group 的研究發現顯示，青少年對 AI 有經過思考，也充滿好奇。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>機器人正在等待 ChatGPT 時刻：Nvidia 的 Les Karpas 於 TechCrunch Disrupt 2026 解釋原因</title>
+      <link>https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164631</guid>
+      <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>機器人產業仍在等待它們進入日常生活的突破。Nvidia 的 Les Karpas 對於原因在 TechCrunch Disrupt 2026 有答案。9 月 25 日前報名，門票最高可省 200 美元。</description>
+    </item>
     <item>
       <title>Threads 為創作者和聽眾擴充 Podcast 工具組</title>
       <link>https://about.fb.com/news/2026/09/threads-expands-podcast-toolkit-for-creators-and-listeners/</link>
@@ -378,18 +411,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Notebook 最新學習與讀書工具總覽。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 最新學習與讀書工具總覽。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>為每個人、每種語言打造 AI</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</guid>
@@ -400,6 +421,18 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" alt=""></p><p>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Notebook 最新學習與讀書工具總覽。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 最新學習與讀書工具總覽。</p>]]></content:encoded>
     </item>
     <item>
       <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
@@ -460,15 +493,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>外洩、資料外洩和勒索信：2026 年到目前為止最糟糕的駭客攻擊</title>
-      <link>https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3129047</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從大規模 DOGE 資料外洩、關鍵基礎設施遭入侵，到聯邦監控系統被駭，以下是 2026 年到目前為止最具破壞性的資安事件和資料外洩事件。</description>
     </item>
     <item>
       <title>介紹 Meta One：一項提供更多功能與 AI 的訂閱服務，幫助你創作、連結並脫穎而出</title>
@@ -639,18 +663,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑6 Astra 提升 Devin 測試軟體並證明其可運作的能力，目標是幫助工程師審查更少程式碼並更快發布。</description>
-    </item>
-    <item>
-      <title>三個獲 Google 支持的專案於第 83 屆威尼斯國際影展首映。</title>
-      <link>https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/xr-ar/three-google-supported-projects-premiere-during-the-83rd-venice-international-film-festival/</guid>
-      <pubDate>Fri, 11 Sep 2026 11:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 分享三個利用科技突破人類創意界限的專案細節，這些專案於第 83 屆威尼斯影展首映。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/venice_film_fest_social.max-600x600.format-webp.webp" alt=""></p><p>Google 分享三個利用科技突破人類創意界限的專案細節，這些專案於第 83 屆威尼斯影展首映。</p>]]></content:encoded>
     </item>
     <item>
       <title>快速擴充線上儲存服務，支援超過 10 億名 ChatGPT 使用者</title>
@@ -1168,18 +1180,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Gilbert + Tobin 如何結合 CEO 主導的承諾、嚴謹的治理，以及人類問責機制，在整個事務所擴展 ChatGPT Enterprise 和 Codex。</description>
-    </item>
-    <item>
-      <title>NVIDIA 與聯發科技深化長期合作關係，共同打造 AI 邊緣到雲端運算平台</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-mediatek-deepen-long-standing-partnership-to-build-ai-edge-to-cloud-computing-platforms</guid>
-      <pubDate>Mon, 31 Aug 2026 12:30:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 與聯發科技今日宣布，雙方長期合作關係進一步深化，將共同打造下一代 AI 運算平台，涵蓋 AI 基礎設施、本地 AI 運算以及車用領域。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202608/c8dc816ef51ad24fa8777bc5e428dbd4/6a9466d53d6332f0bec96a4a_nvidia-mediatek-color-v5/nvidia-mediatek-color-v5_thmb.png?v=adc5afb6-3a76-4109-8e18-6dfe0cc672e2" alt=""></p><p>NVIDIA 與聯發科技今日宣布，雙方長期合作關係進一步深化，將共同打造下一代 AI 運算平台，涵蓋 AI 基礎設施、本地 AI 運算以及車用領域。</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 支持加州推動青少年 AI 安全的法案</title>
