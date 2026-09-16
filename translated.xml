@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:03:25 GMT</lastBuildDate>
+    <item>
+      <title>X 現在將讓美國用戶透過 cashtags 進行交易</title>
+      <link>https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164780</guid>
+      <pubDate>Wed, 16 Sep 2026 19:57:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>此舉縮小了時間軸上進行的市場討論與市場本身之間的差距。</description>
+    </item>
     <item>
       <title>Automattic 的臨時執行長和法務主管在 Mullenweg 短暫被罷免期間簽署了互相對應的資遣協議</title>
       <link>https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/</link>
@@ -381,15 +390,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/07/New-Parental-Supervision-Tools-Now-Available-on-Threads_Header.jpg?fit=1920%2C1080" alt=""></p><p>亞太地區 APAC 的青少年在 Threads 上獲得額外保護，搭配家長監護功能<br>Threads 為亞太地區的青少年推出家長監護功能一文最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們不需要 AI 監管——把安全交給我們就好，Nvidia 的黃仁勳表示</title>
-      <link>https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164495</guid>
-      <pubDate>Wed, 16 Sep 2026 00:20:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據黃仁勳的說法，AI 不是什麼新的「外星心智」。它只是硬體和軟體，所以安全可以由每一家 AI 產品製造商自行設計。</description>
     </item>
     <item>
       <title>「現在我們可以知曉一切並做到任何事，」Jensen Huang 在 Dreamforce 表示</title>
