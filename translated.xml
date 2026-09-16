@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:33:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 19:48:15 GMT</lastBuildDate>
+    <item>
+      <title>Automattic 的臨時執行長和法務主管在 Mullenweg 短暫被罷免期間簽署了互相對應的資遣協議</title>
+      <link>https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164903</guid>
+      <pubDate>Wed, 16 Sep 2026 19:35:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>財務長 Mark Davies 和法務主管 Andy Missan 在 Matt Mullenweg 休假期間彼此簽署了對方的資遣協議；如果他們的離職符合領取資格，協議將提供一年的薪資以及額外的股權歸屬。</description>
+    </item>
     <item>
       <title>前 Waymo 財務長加入自動駕駛新創 Wayve</title>
       <link>https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/</link>
@@ -393,15 +402,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77" alt=""></p><p>知曉一切。做到任何事。這就是 NVIDIA 創辦人暨執行長 Jensen Huang 週二帶到 Salesforce Dreamforce 的訊息；他與執行長 Marc Benioff 同台亮相，這場登場也與 Salesforce 宣布 Koa 同步進行——Koa 是 Salesforce 的首個 CRM 推理模型，建構於 NVIDIA Nemotron 3 Super 之上。Huang 不只是登上舞台。他走進了 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 資料中心熱潮正與受大型工業創傷的城市發生衝突</title>
-      <link>https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164506</guid>
-      <pubDate>Tue, 15 Sep 2026 21:47:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>全國對資料中心建設的反彈已蔓延到費城，當地官員曾提議可能在一個已受現已停產的煉油廠影響的社區內施工。</description>
     </item>
     <item>
       <title>9 月 Pixel 功能更新：全新的 Pixel VIP 更新、Pixel Watch 功能等</title>
