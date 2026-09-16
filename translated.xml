@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 00:07:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 00:23:01 GMT</lastBuildDate>
+    <item>
+      <title>我們不需要 AI 監管——把安全交給我們就好，Nvidia 的黃仁勳表示</title>
+      <link>https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164495</guid>
+      <pubDate>Wed, 16 Sep 2026 00:20:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據黃仁勳的說法，AI 不是什麼新的「外星心智」。它只是硬體和軟體，所以安全可以由每一家 AI 產品製造商自行設計。</description>
+    </item>
     <item>
       <title>「現在我們可以知曉一切並做到任何事，」Jensen Huang 在 Dreamforce 表示</title>
       <link>https://blogs.nvidia.com/blog/jensen-huang-dreamforce/</link>
@@ -382,15 +391,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp" alt=""></p><p>我們已將 ATLAS 的數百萬全球資料點轉化為可互動、開放存取的體驗。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>早期 Anthropic 員工、前 METR 營運長找到抑制失控 AI 代理的方法</title>
-      <link>https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163310</guid>
-      <pubDate>Tue, 15 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>他們的新創公司 Artificial Intelligence Underwriting Company（AIUC）已在由 Ribbit Capital 領投、First Harmonic 參與投資的 A 輪募資中籌得 4000 萬美元。</description>
     </item>
     <item>
       <title>Widow’s Bay 成為艾美獎史上獲獎最多的新生代喜劇</title>
