@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 16 Sep 2026 14:29:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 14:44:43 GMT</lastBuildDate>
+    <item>
+      <title>亞馬遜替員工每小時加薪 1 美元</title>
+      <link>https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164817</guid>
+      <pubDate>Wed, 16 Sep 2026 14:32:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>亞馬遜在這些加薪上的投入超過 15 億美元，約占其 2.68 兆美元市值的 0.06%。</description>
+    </item>
     <item>
       <title>Threads 的新功能讓 podcast 主持人能宣傳節目並接觸聽眾</title>
       <link>https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/</link>
@@ -447,15 +456,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這些可在不登入帳號的情況下檢視 X 貼文、較注重隱私的服務，在 X 升級法律行動後再次關閉。</description>
-    </item>
-    <item>
-      <title>OpenAI、Anthropic、Google 已就 AI 安全進行數週會談</title>
-      <link>https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164278</guid>
-      <pubDate>Tue, 15 Sep 2026 15:47:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 證實已與 Anthropic 和 Google DeepMind 進行數週的 AI 安全會談，而川普團隊則淡化安全疑慮，並推動要跟上中國的腳步。</description>
     </item>
     <item>
       <title>介紹 Meta One：一項提供更多功能與 AI 的訂閱服務，幫助你創作、連結並脫穎而出</title>
