@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 18:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 18:29:24 GMT</lastBuildDate>
+    <item>
+      <title>全新的 CC，一款為家庭打造的 AI 代理</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</guid>
+      <pubDate>Thu, 17 Sep 2026 18:15:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Labs 正在將 CC 擴展到群組，先從家庭和家戶開始，讓他們能把更少時間花在後勤安排上。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp" alt=""></p><p>Google Labs 正在將 CC 擴展到群組，先從家庭和家戶開始，讓他們能把更少時間花在後勤安排上。</p>]]></content:encoded>
+    </item>
     <item>
       <title>連英國國王對 AI 也有些遲疑</title>
       <link>https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/</link>
@@ -540,16 +552,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Gemini 搞定家務的 4 種方法</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
+      <title>AI 造福社會</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
+      <description>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" medium="image" type="image/gif" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" alt=""></p><p>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</p>]]></content:encoded>
     </item>
     <item>
       <title>為每個人、每種語言打造 AI</title>
@@ -576,16 +588,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
     </item>
     <item>
-      <title>AI 造福社會</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
+      <title>用 Gemini 搞定家務的 4 種方法</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" medium="image" type="image/gif" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" alt=""></p><p>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</p>]]></content:encoded>
+      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
     </item>
     <item>
       <title>打造 AI 以加速科學並改善生活</title>
@@ -610,18 +622,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" alt=""></p><p>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Notebook 最新學習與讀書工具總覽。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 最新學習與讀書工具總覽。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Meta One：一項提供更多功能與 AI 的訂閱服務，幫助你創作、連結並脫穎而出</title>
