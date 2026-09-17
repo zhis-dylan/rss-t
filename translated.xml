@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 19:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:00:22 GMT</lastBuildDate>
+    <item>
+      <title>讓全球資料更容易探索</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</guid>
+      <pubDate>Thu, 17 Sep 2026 20:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 和聯合國系統已推出 UN System Data Commons，這個新的開放平台讓全球統計資料更容易存取，也更容易搜尋。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp" alt=""></p><p>Google 和聯合國系統已推出 UN System Data Commons，這個新的開放平台讓全球統計資料更容易存取，也更容易搜尋。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Microsoft 高層稱 AI 爬取是「人類歷史上最大規模的勞動竊盜」，新的未遮蓋法庭文件揭露</title>
+      <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165591</guid>
+      <pubDate>Thu, 17 Sep 2026 19:46:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>最新公開的法庭文件顯示，Microsoft 私下將 OpenAI 的資料做法稱為「竊盜」，而兩家公司都爬取了《紐約時報》的付費牆內容，並用這些內容建立資料集，且在內部警告這會重創出版商。</description>
+    </item>
     <item>
       <title>Waymo 在遭逢淹水問題後 5 個月，重新啟動聖安東尼奧服務</title>
       <link>https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/</link>
@@ -234,15 +255,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>本場活動將探討早期公司如何打造人類與 AI 代理並肩合作的團隊，以及創辦人如何在不犧牲速度、責任歸屬或文化的情況下做到這一點。前往 TechCrunch Disrupt 2026 了解更多。9 月 25 日前報名，最高可省 200 美元。</description>
-    </item>
-    <item>
-      <title>Snap 再次嘗試為其 2,200 美元智慧眼鏡辯護</title>
-      <link>https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165213</guid>
-      <pubDate>Thu, 17 Sep 2026 00:58:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Snap 本週為其智慧眼鏡推出了新功能。</description>
     </item>
     <item>
       <title>Microsoft 對教育領域 AI 的承諾</title>
@@ -610,18 +622,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" alt=""></p><p>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們承諾投入 1,000 萬美元，推動內華達州更潔淨、更實惠的能源未來。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" alt=""></p><p>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Meta One：一項提供更多功能與 AI 的訂閱服務，幫助你創作、連結並脫穎而出</title>
