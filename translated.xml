@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:27:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:42:53 GMT</lastBuildDate>
     <item>
       <title>最後召集：Disrupt 志工申請即將截止</title>
       <link>https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/</link>
@@ -108,6 +108,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Spotify 表示，自 1 月更改其影片 Podcast 創作者條款以來，其分潤已增加超過三分之一。</description>
+    </item>
+    <item>
+      <title>在 Waze 上開車暢遊「Forgotten Island」。</title>
+      <link>https://blog.google/waze/waze-forgotten-island/</link>
+      <guid isPermaLink="false">https://blog.google/waze/waze-forgotten-island/</guid>
+      <pubDate>Thu, 17 Sep 2026 11:28:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>準備好把你的日常通勤變成一場史詩級的島嶼冒險了嗎？Waze 正把你新的導航好夥伴帶到副駕駛座，正好趕上 D… 的發布</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp" alt=""></p><p>準備好把你的日常通勤變成一場史詩級的島嶼冒險了嗎？Waze 正把你新的導航好夥伴帶到副駕駛座，正好趕上 D… 的發布</p>]]></content:encoded>
     </item>
     <item>
       <title>Comp AI 鎖定安全與合規的持續 agent 化未來</title>
@@ -528,16 +540,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們承諾投入 1,000 萬美元，推動內華達州更潔淨、更實惠的能源未來。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</guid>
+      <title>用 Gemini 搞定家務的 4 種方法</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" alt=""></p><p>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</p>]]></content:encoded>
+      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
     </item>
     <item>
       <title>為每個人、每種語言打造 AI</title>
@@ -588,16 +600,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" alt=""></p><p>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Gemini 搞定家務的 4 種方法</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
+      <title>我們承諾投入 1,000 萬美元，推動內華達州更潔淨、更實惠的能源未來。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
+      <description>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" alt=""></p><p>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</p>]]></content:encoded>
     </item>
     <item>
       <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
@@ -636,18 +648,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Meta-One_A-Subscription-Service-With-More-Features-and-AI-to-Create-Connect-and-Stand-Out_Thumbnail.gif?fit=960%2C720" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Meta-One_A-Subscription-Service-With-More-Features-and-AI-to-Create-Connect-and-Stand-Out_Thumbnail.gif?fit=960%2C720"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Meta-One_A-Subscription-Service-With-More-Features-and-AI-to-Create-Connect-and-Stand-Out_Thumbnail.gif?fit=960%2C720" alt=""></p><p>我們推出 Meta One，這是 Facebook、Instagram、WhatsApp 和 Meta AI 上的一項新訂閱服務，提供更多 AI 使用量、強化的表達功能，以及為創作者和企業打造的工具。<br>〈介紹 Meta One：一項具備更多功能與 AI 的訂閱服務，助你創作、連結並脫穎而出〉一文最早刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>來自 Google AI 與經濟 ATLAS 的新洞察</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/</guid>
-      <pubDate>Tue, 15 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們已將 ATLAS 的數百萬全球資料點轉化為可互動、開放存取的體驗。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ATLAS-hero.max-600x600.format-webp.webp" alt=""></p><p>我們已將 ATLAS 的數百萬全球資料點轉化為可互動、開放存取的體驗。</p>]]></content:encoded>
     </item>
     <item>
       <title>Widow’s Bay 成為艾美獎史上獲獎最多的新生代喜劇</title>
