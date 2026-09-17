@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 13:41:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:56:50 GMT</lastBuildDate>
+    <item>
+      <title>競爭 AI 代理程式 Instinct 和 Meta 的 Muse 都新增了撥打電話的功能</title>
+      <link>https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165381</guid>
+      <pubDate>Thu, 17 Sep 2026 13:46:16 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>人們可以用這些助理訂餐廳位子並取消訂閱服務</description>
+    </item>
     <item>
       <title>Google、Nvidia 和 Anthropic 希望 Emerald AI 在電網上找到更多資料中心的空間</title>
       <link>https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/</link>
@@ -201,15 +210,6 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>Microsoft 已經深耕教育領域五十年。自這家公司創立之初，我們就一路與教育工作者、學生、家庭和教育領袖並肩合作，經歷每一波新的技術浪潮——我們也逐漸了解什麼有助於學習，以及什麼會造成阻礙。這份承諾今天仍在延續，在一個技術...
 〈Microsoft 對教育領域 AI 的承諾〉一文最早刊登於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>AI 實驗室想要內部稽核員——但或許他們該先把前門關好</title>
-      <link>https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164427</guid>
-      <pubDate>Wed, 16 Sep 2026 18:25:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>可能有個更簡單也更有效的修正方式，來對付失控的代理，答案其實近在眼前。</description>
     </item>
     <item>
       <title>我們的模型失調回報框架</title>
