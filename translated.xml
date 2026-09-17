@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 12:56:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:11:23 GMT</lastBuildDate>
+    <item>
+      <title>可愛小生物登上雲端：《Aniimo》在 GeForce NOW 推出</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/</guid>
+      <pubDate>Thu, 17 Sep 2026 13:00:55 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>一款全新的生物捕捉冒險遊戲本週已準備好從雲端串流。Pawprint Studio 的《Aniimo》於上市當天登上 GeForce NOW，邀請玩家在支援的裝置上探索充滿活力的 Idyll 大陸。本週，007 First Light 也在 GeForce NOW 上迎來 path tracing 更新，同時還有限時超值 Deluxe Edition 特賣，[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/12e91132ad4d60db40d3002bf8dd818e/6aabe4b43d63322f2b6e1471_gfn-thursday-9-17-blog-1920x1080-logo-842x450/gfn-thursday-9-17-blog-1920x1080-logo-842x450_thmb.jpg?v=29374bbb-481e-449b-986a-333e65a776b9" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/12e91132ad4d60db40d3002bf8dd818e/6aabe4b43d63322f2b6e1471_gfn-thursday-9-17-blog-1920x1080-logo-842x450/gfn-thursday-9-17-blog-1920x1080-logo-842x450_thmb.jpg?v=29374bbb-481e-449b-986a-333e65a776b9"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/12e91132ad4d60db40d3002bf8dd818e/6aabe4b43d63322f2b6e1471_gfn-thursday-9-17-blog-1920x1080-logo-842x450/gfn-thursday-9-17-blog-1920x1080-logo-842x450_thmb.jpg?v=29374bbb-481e-449b-986a-333e65a776b9" alt=""></p><p>一款全新的生物捕捉冒險遊戲本週已準備好從雲端串流。Pawprint Studio 的《Aniimo》於上市當天登上 GeForce NOW，邀請玩家在支援的裝置上探索充滿活力的 Idyll 大陸。本週，007 First Light 也在 GeForce NOW 上迎來 path tracing 更新，同時還有限時超值 Deluxe Edition 特賣，[…]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Bain Capital Ventures 打算如何部署其新募得的 16 億美元基金</title>
+      <link>https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165366</guid>
+      <pubDate>Thu, 17 Sep 2026 12:57:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>BCV 的最新基金鎖定早期創辦人，這些創辦人正運用 AGI，並打造高效率運行它的基礎設施。</description>
+    </item>
     <item>
       <title>Spotify 將其 Podcast 合作夥伴計畫擴展至 35 個新國家</title>
       <link>https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/</link>
@@ -198,15 +219,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 正在推出一個新的 Google Home MCP 伺服器的早期存取，讓像 Claude、ChatGPT 等 AI 代理能夠用自然語言控制已連線裝置、查看攝影機摘要，以及存取智慧家庭活動。</description>
-    </item>
-    <item>
-      <title>Anthropic 將 Claude 聊天與 Cowork 整合到同一介面</title>
-      <link>https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164745</guid>
-      <pubDate>Wed, 16 Sep 2026 16:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 正在向 Pro 和 Max 方案訂閱者推出這些功能，最初</description>
     </item>
     <item>
       <title>加拿大新創公司 smartARM 運用 AI 打造直覺式仿生義肢</title>
@@ -1178,18 +1190,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg" alt=""></p><p>當我們進入下一個時代時，衡量我們進步的決定性指標會是什麼？每個產業都有一個塑造其思考方式的詞。對飛行員來說，是安全。對保險公司來說，是風險。對半導體產業來說，是良率。良率不會問解決方案有多優雅、花了多少年，或是……<br>The post The yield imperative: Turning AI infrastructure into useful intelligence appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 與 CrowdStrike 強化代理式資安前線</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-crowdstrike-fal-con-2026/</guid>
-      <pubDate>Tue, 01 Sep 2026 21:19:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>「我們正處於網路安全的一個轉折點，」Jensen Huang 週二在拉斯維加斯 CrowdStrike 的 Fal.Con 2026 向座無虛席的觀眾表示。攻擊現在已經自動化，防禦也必須如此。NVIDIA 創辦人暨執行長與 CrowdStrike 執行長暨創辦人 George Kurtz 一同宣布 CrowdStrike SafeMind，這是由 CrowdStrike Cyber […] 開發的代理式資安系統。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c2b4f6776e34beb6c701386ec4c39302/6a9741713d63320ca3a5a9d6_falcon-nvidia-main-feature-image-842x450/falcon-nvidia-main-feature-image-842x450_thmb.jpg?v=d5c1260e-9111-4b20-a3b2-8385a18686e7" alt=""></p><p>「我們正處於網路安全的一個轉折點，」Jensen Huang 週二在拉斯維加斯 CrowdStrike 的 Fal.Con 2026 向座無虛席的觀眾表示。攻擊現在已經自動化，防禦也必須如此。NVIDIA 創辦人暨執行長與 CrowdStrike 執行長暨創辦人 George Kurtz 一同宣布 CrowdStrike SafeMind，這是由 CrowdStrike Cyber […] 開發的代理式資安系統。</p>]]></content:encoded>
     </item>
     <item>
       <title>深入 Meta 的基礎設施實驗室</title>
