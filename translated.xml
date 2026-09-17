@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 06:53:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 07:08:36 GMT</lastBuildDate>
+    <item>
+      <title>協助全球首座大規模、近零排放鋼鐵廠上線</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/</guid>
+      <pubDate>Thu, 17 Sep 2026 07:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 正與 Stegra 合作，協助其這座首創的近零排放鋼鐵廠上線。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 Stegra 合作，協助其這座首創的近零排放鋼鐵廠上線。</p>]]></content:encoded>
+    </item>
     <item>
       <title>總部位於冰島的 Treble 為其語音模擬平台募得 1,800 萬美元</title>
       <link>https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/</link>
@@ -485,6 +497,42 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
     </item>
     <item>
+      <title>我們承諾投入 1,000 萬美元，推動內華達州更潔淨、更實惠的能源未來。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" alt=""></p><p>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>為每個人、每種語言打造 AI</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" alt=""></p><p>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</guid>
+      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>AI 造福社會</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
@@ -519,42 +567,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>為每個人、每種語言打造 AI</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" alt=""></p><p>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們承諾投入 1,000 萬美元，推動內華達州更潔淨、更實惠的能源未來。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/nevada-clean-energy-fund/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NV_Energy_Impact_fund_social.max-600x600.format-webp.webp" alt=""></p><p>我們正提供資金給 Nevada Clean Energy Fund（NCEF），協助我們資料中心社群中的家庭。</p>]]></content:encoded>
     </item>
     <item>
       <title>用新的 Gemini Notebook 工具，提升你的讀書效率</title>
@@ -623,18 +635,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description/>
-    </item>
-    <item>
-      <title>觀看太空人 Christina Koch 與 Google 的 James Manyika 談論太空、科技與探索。</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/</guid>
-      <pubDate>Mon, 14 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Christina Koch 與 Google 研究、實驗室、科技與社會資深副總裁 James Manyika 對談。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues_Christina-Koch_social.max-600x600.format-webp.webp" alt=""></p><p>Christina Koch 與 Google 研究、實驗室、科技與社會資深副總裁 James Manyika 對談。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 軟體平台的重大更新現已推出</title>
