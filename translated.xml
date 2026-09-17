@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 11:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:25:28 GMT</lastBuildDate>
+    <item>
+      <title>Comp AI 鎖定安全與合規的持續 agent 化未來</title>
+      <link>https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165085</guid>
+      <pubDate>Thu, 17 Sep 2026 11:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>資安與合規新創 Comp AI 宣布完成 3400 萬美元 A 輪融資，由 Roo Capital 和 Grand Ventures 領投。</description>
+    </item>
     <item>
       <title>協助全球首座大規模、近零排放鋼鐵廠上線</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/</link>
@@ -164,15 +173,6 @@
       <description>ShinyHunters 幫派在表示佛羅里達州政府機關未支付他們要求的贖金後，將這些檔案洩露到網路上。</description>
     </item>
     <item>
-      <title>你的 AI 代理現在可以控制你的 Google Home 裝置</title>
-      <link>https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164815</guid>
-      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 正在推出一個新的 Google Home MCP 伺服器的早期存取，讓像 Claude、ChatGPT 等 AI 代理能夠用自然語言控制已連線裝置、查看攝影機摘要，以及存取智慧家庭活動。</description>
-    </item>
-    <item>
       <title>我們的模型失調回報框架</title>
       <link>https://openai.com/index/model-misalignment-reporting-framework</link>
       <guid isPermaLink="false">https://openai.com/index/model-misalignment-reporting-framework</guid>
@@ -180,6 +180,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享一個用於追蹤、調查與揭露模型失調的框架，並一併公布六則關於意外或令人擔憂的模型行為報告。</description>
+    </item>
+    <item>
+      <title>你的 AI 代理現在可以控制你的 Google Home 裝置</title>
+      <link>https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164815</guid>
+      <pubDate>Wed, 16 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正在推出一個新的 Google Home MCP 伺服器的早期存取，讓像 Claude、ChatGPT 等 AI 代理能夠用自然語言控制已連線裝置、查看攝影機摘要，以及存取智慧家庭活動。</description>
     </item>
     <item>
       <title>Anthropic 將 Claude 聊天與 Cowork 整合到同一介面</title>
@@ -202,15 +211,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/09/20260807_RT_Meta_SmartArm_ShaquemGriffin_1233.jpg?fit=1800%2C1201" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/20260807_RT_Meta_SmartArm_ShaquemGriffin_1233.jpg?fit=1800%2C1201"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/20260807_RT_Meta_SmartArm_ShaquemGriffin_1233.jpg?fit=1800%2C1201" alt=""></p><p>人們和公司正在運用 AI 硬體與軟體，讓每個人的生活更輕鬆、更便利。總部位於多倫多的新創公司 smartARM 就是這樣的例子；這家公司正在開發一款以視覺優先的仿生手臂原型，採用開源軟體，並可選配 Meta AI 眼鏡，以探索讓肢體差異者更直覺地控制義肢。許多傳統義手都要求使用者手動在不同物品的抓握模式之間切換，讓拿取日常物品變得很麻煩。像拿起玻璃杯再拿起湯匙這種看似自然的動作，也會變成多步驟流程。smartARM 透過開發能理解環境的 AI 硬體與軟體來解決這個問題，並自動為物品選擇合適的抓握方式，讓使用者能直覺地在日常任務之間切換。smartARM 的義肢手臂透過嵌在掌心中的攝影機「看見」世界。團隊正在使用 DINOv2，也就是 Meta 的開源視覺模型，來協助它只憑幾張參考照片就辨識日常物品，支援 smartARM 的抓握選擇軟體。這讓它能根據直接的視覺特徵讀取來抓握並拿起物品，不需要事先理解或額外程式設計。這支手臂幾乎能即刻適應只用幾張照片訓練過的物品，這在過去可能需要數週。smartARM 使用 Meta AI 眼鏡與 Meta Wearables Device Access Toolkit 來擴充並提升物體辨識與理解能力，透過眼鏡提供的第一人稱視角帶來更多資料。Meta AI 眼鏡能為手臂提供額外脈絡，更好地理解使用者想與什麼互動。它也讓使用者可以透過手機上的裝置 App 新增物品，讓 smartARM 社群中的每個人都能依照自己的日常需求，個人化自己的義肢。對佩戴者來說，成果足以改變人生：一隻第一次就能運作、完全不需要訓練的仿生手臂。長期使用 smartARM 的使用者、前 NFL 球員 Shaquem Griffin 形容使用感受時說：「在它搭載的所有技術之中，可擴展性與可及性對我來說最重要。這就是消費型義肢的未來。」smartARM 創辦人暨執行長 Hamayal Choudhry 表示：「打造一隻有能力的手只是挑戰的一部分。讓它容易直覺地使用同樣重要。透過幫助手臂辨識日常物品並選擇合適的抓握方式，我們正朝向一種體驗邁進，讓人們能更專注於自己想做的事，而不是如何操作義肢。」<br>這篇〈Canadian Start-up smartARM Uses AI to Create Intuitive Bionic Prosthetics〉文章最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>聽聽 Neuralink 共同創辦人 Max Hodak 為什麼說螢幕時代即將結束，將於 TechCrunch Disrupt 2026 登場</title>
-      <link>https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164630</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在今年的 Disrupt 上，Neuralink 共同創辦人 Max Hodak 將提出一個免螢幕介面的願景，甚至還能提供醫療協助。9 月 25 日前報名，可在門票上省下最多 200 美元。</description>
     </item>
     <item>
       <title>協助年長者在日常生活中使用 AI</title>
@@ -246,13 +246,13 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E3_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這集 Ads Decoded 中，我們分享你現在就可以採取的步驟，來在假期季推動銷售並觸及顧客。</p>]]></content:encoded>
     </item>
     <item>
-      <title>May Mobility 將透過 14 億美元的 SPAC 交易上市</title>
-      <link>https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164855</guid>
-      <pubDate>Wed, 16 Sep 2026 15:27:13 GMT</pubDate>
+      <title>聽聽 Neuralink 共同創辦人 Max Hodak 為什麼說螢幕時代即將結束，將於 TechCrunch Disrupt 2026 登場</title>
+      <link>https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164630</guid>
+      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>這筆交易可能為這家輕資產 robotaxi 公司帶來超過 3 億美元的資金。</description>
+      <description>在今年的 Disrupt 上，Neuralink 共同創辦人 Max Hodak 將提出一個免螢幕介面的願景，甚至還能提供醫療協助。9 月 25 日前報名，可在門票上省下最多 200 美元。</description>
     </item>
     <item>
       <title>NVIDIA Vera Rubin NVL72 在 MLPerf Inference v6.1 首次亮相中展現領先效能</title>
