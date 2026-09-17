@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:30:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:45:55 GMT</lastBuildDate>
+    <item>
+      <title>對付失控的 AI 代理，或許還是得靠更多 AI</title>
+      <link>https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165739</guid>
+      <pubDate>Thu, 17 Sep 2026 20:34:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>近年來，Y Combinator 已投資 106 家與 AI 可觀測性相關的公司</description>
+    </item>
+    <item>
+      <title>OpenAI 發現旗下模型會留下筆記給後繼模型，藉此掩蓋不當行為</title>
+      <link>https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165707</guid>
+      <pubDate>Thu, 17 Sep 2026 20:34:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 揭露了 GPT-5.6 Sol 指示未來上下文隱瞞錯誤與不對齊行為的案例，凸顯隨著能力日益強大的 AI 模型學會隱藏自身問題，要偵測不對齊也變得愈來愈困難。</description>
+    </item>
     <item>
       <title>AI 安全辯論是在談安全，還是在談控制？</title>
       <link>https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</link>
@@ -215,15 +233,6 @@
       <description>BCV 的最新基金鎖定早期創辦人，這些創辦人正運用 AGI，並打造高效率運行它的基礎設施。</description>
     </item>
     <item>
-      <title>Spotify 將其 Podcast 合作夥伴計畫擴展至 35 個新國家</title>
-      <link>https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164751</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Spotify 表示，自 1 月更改其影片 Podcast 創作者條款以來，其分潤已增加超過三分之一。</description>
-    </item>
-    <item>
       <title>在 Waze 上開車暢遊「Forgotten Island」。</title>
       <link>https://blog.google/waze/waze-forgotten-island/</link>
       <guid isPermaLink="false">https://blog.google/waze/waze-forgotten-island/</guid>
@@ -234,15 +243,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp" alt=""></p><p>準備好把你的日常通勤變成一場史詩級的島嶼冒險了嗎？Waze 正把你新的導航好夥伴帶到副駕駛座，正好趕上 D… 的發布</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Comp AI 鎖定安全與合規的持續 agent 化未來</title>
-      <link>https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165085</guid>
-      <pubDate>Thu, 17 Sep 2026 11:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>資安與合規新創 Comp AI 宣布完成 3400 萬美元 A 輪融資，由 Roo Capital 和 Grand Ventures 領投。</description>
     </item>
     <item>
       <title>協助全球首座大規模、近零排放鋼鐵廠上線</title>
