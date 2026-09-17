@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 20:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 20:30:44 GMT</lastBuildDate>
+    <item>
+      <title>AI 安全辯論是在談安全，還是在談控制？</title>
+      <link>https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165059</guid>
+      <pubDate>Thu, 17 Sep 2026 20:19:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>並不是每個人都同意 Amodei 針對 AI 安全所呼籲的全球協調行動。</description>
+    </item>
     <item>
       <title>讓全球資料更容易探索</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</link>
@@ -246,15 +255,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 Stegra 合作，協助其這座首創的近零排放鋼鐵廠上線。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>總部位於冰島的 Treble 為其語音模擬平台募得 1,800 萬美元</title>
-      <link>https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3161035</guid>
-      <pubDate>Thu, 17 Sep 2026 05:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Treble 的語音模擬平台被語音 AI 模型開發者、AI 穿戴裝置與機器人公司使用</description>
     </item>
     <item>
       <title>介紹 Astra for Law</title>
