@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 17 Sep 2026 15:58:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 16:13:14 GMT</lastBuildDate>
+    <item>
+      <title>Apple 將讓歐盟 App 使用較不令人警覺的追蹤同意畫面</title>
+      <link>https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165495</guid>
+      <pubDate>Thu, 17 Sep 2026 16:09:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在競爭監管機關表示這套系統讓 Apple 比第三方 App 更有利之後，Apple 正在歐洲部分地區調整 App Tracking Transparency 提示，讓開發者在詢問使用者是否同意追蹤時有更大的彈性。</description>
+    </item>
     <item>
       <title>Roku 新推出的 Labs 中心將實驗性應用帶上大螢幕</title>
       <link>https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/</link>
@@ -222,15 +231,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>由 General Catalyst、Stripe 和 Founders Fund 支持的股權結構表管理平台 Pulley 宣布將於 12 月停止營運。</description>
-    </item>
-    <item>
-      <title>Anthropic 和 OpenAI 想要引入安全評估員。他們真的能保持獨立嗎？</title>
-      <link>https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165076</guid>
-      <pubDate>Wed, 16 Sep 2026 21:07:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 和 OpenAI 想要在各自的 AI 實驗室內部納入獨立的安全評估員。研究人員歡迎這種前所未有的存取權限，但警告，真正有意義的監督需要透明度、獨立性，以及最終的監管。</description>
     </item>
     <item>
       <title>Microsoft 對教育領域 AI 的承諾</title>
