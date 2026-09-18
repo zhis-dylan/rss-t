@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 23:14:11 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 正在營運一個進行生物實驗的實驗室</title>
+      <link>https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166494</guid>
+      <pubDate>Fri, 18 Sep 2026 23:13:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 領導者一直承諾，AI 是治癒人類疾病的關鍵。Anthropic 研究人員也一直警告，AI 可能會殺死我們所有人。</description>
+    </item>
+    <item>
+      <title>AI 幻覺幾乎引發美軍行動</title>
+      <link>https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166487</guid>
+      <pubDate>Fri, 18 Sep 2026 23:12:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「軍事人員理解 LLM 內在的不確定性很重要，」一位 GovAI 研究學者警告。</description>
+    </item>
     <item>
       <title>Anthropic 的第一個嵌入式評估者竟然是……埃森哲？</title>
       <link>https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/</link>
@@ -184,15 +202,6 @@
       <description>Inertia 共同創辦人兼執行長 Jeff Lawson 將於 TechCrunch Disrupt 2026 登上 Smart Systems 舞台。現在就註冊，可在 9 月 25 日前省下最高 200 美元。</description>
     </item>
     <item>
-      <title>研究人員使用 Anthropic 的 Claude 入侵 OpenAI</title>
-      <link>https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166021</guid>
-      <pubDate>Fri, 18 Sep 2026 14:00:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>安全研究人員使用 Anthropic 的 Claude 利用 OpenAI 系統中的漏洞，接管員工帳號並取得內部程式碼儲存庫的存取權，之後才通報這些缺陷。</description>
-    </item>
-    <item>
       <title>新專家加入 Google 的 AI 與經濟團隊</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/</guid>
@@ -203,15 +212,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI__Economy_team_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在擴編 AI 與經濟團隊，加入世界級的學術顧問、研究員，以及核心內部研究人員。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>時間所剩無幾：在 TechCrunch Disrupt 2026 展出的最後 24 小時</title>
-      <link>https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165743</guid>
-      <pubDate>Fri, 18 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>今天是預訂 Disrupt 展位桌的最後一天，9 月 18 日。讓你的新創公司在 10 月 13 日至 15 日與超過 10,000 名創辦人、投資人、營運人員和科技領袖見面。</description>
     </item>
     <item>
       <title>與 Google 共同創造時尚的未來</title>
