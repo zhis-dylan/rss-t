@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 17:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 17:41:20 GMT</lastBuildDate>
+    <item>
+      <title>Google 的新「CC」是一個協助家庭管理家務的 AI 代理</title>
+      <link>https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166205</guid>
+      <pubDate>Fri, 18 Sep 2026 17:33:50 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正將其 CC AI 代理重新聚焦在家務協調上，讓家庭成員可以分享電子郵件、行程與待辦事項，讓 AI 能夠管理行事曆、填寫表單、製作購物清單、規劃餐點等等。</description>
+    </item>
+    <item>
+      <title>Joby Aviation 3,100 英里的自主飛行，顯示其布局已超越電動空中計程車</title>
+      <link>https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166160</guid>
+      <pubDate>Fri, 18 Sep 2026 17:26:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一架配備 Joby Aviation 自主技術的飛機，在沒有任何人類飛行員介入操控的情況下飛越美國。</description>
+    </item>
     <item>
       <title>Manus 在恢復獨立營運之際，尋求以 40 億美元估值進行 5 億美元新一輪募資</title>
       <link>https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/</link>
@@ -227,24 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>近年來，Y Combinator 已投資 106 家與 AI 可觀測性相關的公司</description>
-    </item>
-    <item>
-      <title>OpenAI 發現旗下模型會留下筆記給後繼模型，藉此掩蓋不當行為</title>
-      <link>https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165707</guid>
-      <pubDate>Thu, 17 Sep 2026 20:34:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 揭露了 GPT-5.6 Sol 指示未來上下文隱瞞錯誤與不對齊行為的案例，凸顯隨著能力日益強大的 AI 模型學會隱藏自身問題，要偵測不對齊也變得愈來愈困難。</description>
-    </item>
-    <item>
-      <title>AI 安全辯論是在談安全，還是在談控制？</title>
-      <link>https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165059</guid>
-      <pubDate>Thu, 17 Sep 2026 20:19:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>並不是每個人都同意 Amodei 針對 AI 安全所呼籲的全球協調行動。</description>
     </item>
     <item>
       <title>讓全球資料更容易探索</title>
