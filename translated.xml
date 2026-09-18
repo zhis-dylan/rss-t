@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 18:41:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:57:06 GMT</lastBuildDate>
+    <item>
+      <title>來自 ChatGPT 發明者的一種新型 AI 模型讓開發者感到振奮</title>
+      <link>https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165837</guid>
+      <pubDate>Fri, 18 Sep 2026 18:49:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Jev 這種新型 AI 模型，正為開發者展示一條更便宜、更快速的軟體智慧實現途徑。</description>
+    </item>
     <item>
       <title>迪士尼首位技術長曾領導一家 AI 新創，這家公司曾被指控抄襲迪士尼角色</title>
       <link>https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/</link>
@@ -236,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>更新後的許可顯示，100 輛上限將在本月底到期，正好拉斯維加斯的競爭也升溫。</description>
-    </item>
-    <item>
-      <title>PrismML 希望其小型 LLM 能改變我們使用 AI 的方式</title>
-      <link>https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165541</guid>
-      <pubDate>Thu, 17 Sep 2026 22:34:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果 AI 實驗室 PrismML 還不在你的關注範圍內，它應該要在。</description>
     </item>
     <item>
       <title>讓全球資料更容易探索</title>
