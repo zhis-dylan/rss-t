@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 12:53:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 13:08:24 GMT</lastBuildDate>
+    <item>
+      <title>與 Google 共同創造時尚的未來</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/</guid>
+      <pubDate>Fri, 18 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 與設計師 Jane Wade 和 Sergio Hudson 並肩合作，量身打造 Google Flow 工具，為紐約時裝週（NYFW）做準備。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp" alt=""></p><p>Google 與設計師 Jane Wade 和 Sergio Hudson 並肩合作，量身打造 Google Flow 工具，為紐約時裝週（NYFW）做準備。</p>]]></content:encoded>
+    </item>
     <item>
       <title>建立能帶來高轉換、已準備好成交的潛在客戶的廣告活動。</title>
       <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/</link>
@@ -603,16 +615,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</guid>
+      <title>打造 AI 以加速科學並改善生活</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
+      <description>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" alt=""></p><p>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</p>]]></content:encoded>
     </item>
     <item>
       <title>為每個人、每種語言打造 AI</title>
@@ -627,28 +639,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" alt=""></p><p>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Gemini 搞定家務的 4 種方法</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/household-chores-tips/</guid>
+      <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tackle_household_chores_w_Gemin.max-600x600.format-webp.webp" alt=""></p><p>以下是 Gemini 如何幫你處理家務，例如規劃餐點和修理家電。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>打造 AI 以加速科學並改善生活</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_hD2gcAw.max-600x600.format-webp.webp" alt=""></p><p>AI 的真正衡量標準，在於它幫助了誰。以下是它今天如何影響人們的生活。我們專注於關鍵領域，在這些地方，先進科技可以幫助創造非凡進展……</p>]]></content:encoded>
+      <description>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Meta One：一項提供更多功能與 AI 的訂閱服務，幫助你創作、連結並脫穎而出</title>
