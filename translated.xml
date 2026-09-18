@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 16:25:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 16:40:46 GMT</lastBuildDate>
+    <item>
+      <title>Manus 在恢復獨立營運之際，尋求以 40 億美元估值進行 5 億美元新一輪募資</title>
+      <link>https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166149</guid>
+      <pubDate>Fri, 18 Sep 2026 16:35:49 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>今年稍早被迫與 Meta 中止合併的 Manus，目前正討論以 40 億美元估值募得 5 億美元。</description>
+    </item>
     <item>
       <title>透過 AI 教育工作者培訓賺取在職進修與大學學分。</title>
       <link>https://blog.google/products-and-platforms/products/education/college-credit-ai-educator-series/</link>
@@ -257,15 +266,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這項轉變是在聯合國兒童基金會（UNICEF）一項測試發現，領先的 AI 模型難以準確擷取全球發展統計資料之後出現的。</description>
-    </item>
-    <item>
-      <title>Microsoft 高層稱 AI 爬取是「人類歷史上最大規模的勞動竊盜」，新的未遮蓋法庭文件揭露</title>
-      <link>https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165591</guid>
-      <pubDate>Thu, 17 Sep 2026 19:46:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>最新公開的法庭文件顯示，Microsoft 私下將 OpenAI 的資料做法稱為「竊盜」，而兩家公司都爬取了《紐約時報》的付費牆內容，並用這些內容建立資料集，且在內部警告這會重創出版商。</description>
     </item>
     <item>
       <title>全新的 CC，一款為家庭打造的 AI 代理</title>
