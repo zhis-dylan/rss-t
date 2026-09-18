@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 22:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 22:28:46 GMT</lastBuildDate>
     <item>
       <title>Anthropic 的第一個嵌入式評估者竟然是……埃森哲？</title>
       <link>https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/</link>
@@ -489,6 +489,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索 OpenAI 全新的 AI 驅動廣告體驗，包括贊助代理、行銷人員工具，以及與 HubSpot 和 Shopify 的整合。</description>
+    </item>
+    <item>
+      <title>Hex 將複雜分析轉化為視覺化報告，搭配 GPT‑6 Astra</title>
+      <link>https://openai.com/index/hex-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/hex-gpt-6-astra</guid>
+      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 協助 Hex 的資料代理將答案轉化為互動式視覺化內容，讓員工樂於分享。</description>
     </item>
     <item>
       <title>如何將 AI 使用與商業價值連結</title>
@@ -1365,15 +1374,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
-    </item>
-    <item>
       <title>學習永不停止：AI 如何讓學習持續進行</title>
       <link>https://openai.com/index/learning-never-stops</link>
       <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
@@ -1381,6 +1381,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
+    </item>
+    <item>
+      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1734,15 +1743,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
-      <title>ChatGPT Business 即將推出進階席位</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
-    </item>
-    <item>
       <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
       <link>https://openai.com/index/zapier</link>
       <guid isPermaLink="false">https://openai.com/index/zapier</guid>
@@ -1750,6 +1750,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+    </item>
+    <item>
+      <title>ChatGPT Business 即將推出進階席位</title>
+      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
+      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1822,15 +1831,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索 ChatGPT Work 和 Codex 的全新教育外掛，協助 K–12 教師、大學教育者和學生學習、教學、研究與開發。</description>
-    </item>
-    <item>
-      <title>破壞一個犯罪詐騙集團</title>
-      <link>https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</link>
-      <guid isPermaLink="false">https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation</guid>
-      <pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 破壞了一個以柬埔寨為基地的詐騙集團，該集團使用 ChatGPT 來支援投資、戀愛、賭博和冒名頂替等詐騙手法。</description>
     </item>
     <item>
       <title>Apple 這件事做錯了</title>
