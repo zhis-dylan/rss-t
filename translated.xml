@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:24:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:40:06 GMT</lastBuildDate>
+    <item>
+      <title>開源還是封閉 AI？Nvidia 的 Nader Khalil 和 Sydney Sykes 將在 TechCrunch Disrupt 2026 探討塑造下一代新創公司的一項關鍵決策</title>
+      <link>https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165970</guid>
+      <pubDate>Fri, 18 Sep 2026 15:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nvidia 的 Nader Khalil 和 Sydney Sykes 將在 TechCrunch Disrupt 2026 的 Builders Stage 討論塑造下一代新創公司的一項關鍵決策。</description>
+    </item>
     <item>
       <title>Meta 的 Muse 登上 Mac，讓 AI 在你的電腦上執行動作</title>
       <link>https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/</link>
@@ -257,15 +266,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>查爾斯國王週四與一些 AI 和英國政府最具代表性的人士舉行了一場私人高峰會。</description>
-    </item>
-    <item>
-      <title>Base Labs 與 Hugging Face 和 Goodfire 推出開源權重 AI 安全合作計畫</title>
-      <link>https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165579</guid>
-      <pubDate>Thu, 17 Sep 2026 17:15:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Baseten 今年稍早成立的研究團隊 Base Labs，將開發並發布用於訓練與監控開放模型的方法。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
