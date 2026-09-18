@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 15:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 15:55:16 GMT</lastBuildDate>
+    <item>
+      <title>FBI、海岸防衛隊登上遭駭油輪，正駛向美國海岸</title>
+      <link>https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166151</guid>
+      <pubDate>Fri, 18 Sep 2026 15:44:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據說聯邦當局正在調查這些油輪網路遭入侵一事，其中一起事件還干擾了其中一艘油輪的導航與推進系統。</description>
+    </item>
     <item>
       <title>開源還是封閉 AI？Nvidia 的 Nader Khalil 和 Sydney Sykes 將在 TechCrunch Disrupt 2026 探討塑造下一代新創公司的一項關鍵決策</title>
       <link>https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/</link>
@@ -257,15 +266,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp" alt=""></p><p>Google Labs 正在將 CC 擴展到群組，先從家庭和家戶開始，讓他們能把更少時間花在後勤安排上。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>連英國國王對 AI 也有些遲疑</title>
-      <link>https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165543</guid>
-      <pubDate>Thu, 17 Sep 2026 17:26:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>查爾斯國王週四與一些 AI 和英國政府最具代表性的人士舉行了一場私人高峰會。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
