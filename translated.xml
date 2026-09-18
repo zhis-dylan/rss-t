@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 00:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 00:17:44 GMT</lastBuildDate>
+    <item>
+      <title>Khosla 支持的 Mazama Energy 剛募得 1.35 億美元，將更深鑽探超高溫岩層地熱</title>
+      <link>https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3165871</guid>
+      <pubDate>Fri, 18 Sep 2026 00:02:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>地熱新創 Mazama 正在往地下三英里鑽探，以利用超高溫岩層，其中一口井可全天候 24/7 產生 15 MW 的電力。</description>
+    </item>
     <item>
       <title>Crusoe 籌集 39 億美元，用於建造大型資料中心和小型模組化「AI 工廠」</title>
       <link>https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Tovala 提供智慧烤箱和餐點配送服務。它的餐點附有 QR code，你可以用 App 掃描，讓烤箱自動依照烹調指示運作。</description>
-    </item>
-    <item>
-      <title>華為計劃於 2027 年第一季推出新 AI 晶片，以對抗 Nvidia</title>
-      <link>https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3165448</guid>
-      <pubDate>Thu, 17 Sep 2026 14:06:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>華為正加快推出下一代 Ascend 960DT AI 晶片，並試圖與 Nvidia 競爭，縮小中國與美國之間的 AI 運算差距。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
