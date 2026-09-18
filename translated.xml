@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 18 Sep 2026 11:52:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 12:07:55 GMT</lastBuildDate>
+    <item>
+      <title>建立能帶來高轉換、已準備好成交的潛在客戶的廣告活動。</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/</guid>
+      <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在這集 Ads Decoded 中，我們會解析資料強度：它是什麼？要怎麼建立？以及為什麼開發潛在客戶廣告活動需要它？</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這集 Ads Decoded 中，我們會解析資料強度：它是什麼？要怎麼建立？以及為什麼開發潛在客戶廣告活動需要它？</p>]]></content:encoded>
+    </item>
     <item>
       <title>最新的 iPhone、Apple Watch 和 AirPods 產品陣容在全球門市上市</title>
       <link>https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/</link>
@@ -591,16 +603,16 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
     </item>
     <item>
-      <title>AI 造福社會</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/</guid>
+      <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</guid>
       <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" medium="image" type="image/gif" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Health_Header.gif" alt=""></p><p>探索這個精選集，看看專家與地方領袖如何運用 AI 突破，確保每個人都能共享 AI 的機會。</p>]]></content:encoded>
+      <description>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
     </item>
     <item>
       <title>為每個人、每種語言打造 AI</title>
@@ -613,18 +625,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_languages_blog_social.max-600x600.format-webp.webp" alt=""></p><p>我們正超越傳統文字翻譯，打造能夠理解世界上豐富且活生生的語言、並如實反映其表達方式的模型。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ask a Scientist：研究人員如何運用 AI 來發現野火？</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/wildfire-tracking-ai/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_Wildfires_Thumb_f.max-600x600.format-webp.webp" alt=""></p><p>Google Research 正在探索如何運用 AI 和衛星每 20 分鐘掃描一次全球，並捕捉到車子大小的野火。</p>]]></content:encoded>
     </item>
     <item>
       <title>用 Gemini 搞定家務的 4 種方法</title>
