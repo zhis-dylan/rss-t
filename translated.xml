@@ -5,7 +5,43 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:56:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 13:11:39 GMT</lastBuildDate>
+    <item>
+      <title>Googlebook 內建智慧，重新定義你使用筆電的方式</title>
+      <link>https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/googlebook-built-in-intelligence/</guid>
+      <pubDate>Mon, 21 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>結合多模態游標、智慧聽寫等工具，Googlebook 預先掌握你的需求，讓你的一天更簡單。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/intelligence_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/intelligence_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/intelligence_hero.max-600x600.format-webp.webp" alt=""></p><p>結合多模態游標、智慧聽寫等工具，Googlebook 預先掌握你的需求，讓你的一天更簡單。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>頂級材質與醒目設計，讓 Googlebook 脫穎而出</title>
+      <link>https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/</guid>
+      <pubDate>Mon, 21 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>探索多樣化的 Googlebook 裝置系列，具備驚豔螢幕、先進處理器與頂級設計。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/30_Googlebook_lineup_video_ALT_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/30_Googlebook_lineup_video_ALT_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/30_Googlebook_lineup_video_ALT_.max-600x600.format-webp.webp" alt=""></p><p>探索多樣化的 Googlebook 裝置系列，具備驚豔螢幕、先進處理器與頂級設計。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Googlebook：你的 Android 手機一直在等待的筆電</title>
+      <link>https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/pre-order-googlebook/</guid>
+      <pubDate>Mon, 21 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Googlebook 將於 9 月 21 日開放預購，並於 10 月 4 日上市。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/googlebook_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/googlebook_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/googlebook_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Googlebook 將於 9 月 21 日開放預購，並於 10 月 4 日上市。</p>]]></content:encoded>
+    </item>
     <item>
       <title>宣布 Petal：首創的跨洋海底電纜</title>
       <link>https://about.fb.com/news/2026/09/announcing-petal-meta-petabit-transoceanic-cable/</link>
@@ -646,18 +682,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp" alt=""></p><p>了解開發者如何運用我們最新的音訊模型 Gemini 3.8 Live、3.8 Live Extended Thinking 和 3.5 Transcribe 進行開發。</p>]]></content:encoded>
     </item>
     <item>
-      <title>介紹 Gemini 3.8 Live 與 3.8 Live Extended Thinking</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/</guid>
-      <pubDate>Tue, 15 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking 是我們迄今最先進的即時對話模型，為自然對話而打造。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_3-8_live___keyword__blog.max-600x600.format-webp.webp" alt=""></p><p>Gemini 3.8 Live 和 Gemini 3.8 Live Extended Thinking 是我們迄今最先進的即時對話模型，為自然對話而打造。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>從百萬瓦到 Token：NVIDIA 如何最大化 AI 工廠產能</title>
       <link>https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/</guid>
@@ -680,30 +704,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36" alt=""></p><p>NVIDIA 超大規模與高效能運算副總裁 Ian Buck 週二在 AI Infra 峰會上談到 AI 工廠效率；這場在聖塔克拉拉會議中心舉行的活動已演變成基礎設施科技界的 Coachella。面對滿座的觀眾——今年有超過 8,000 名與會者，高於去年的 3,500 名——[…]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>15 個運用 AI 改變公共服務的組織</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/ai-government-innovation-recipients/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GIC_Blog_Header.max-600x600.format-webp.webp" alt=""></p><p>介紹獲選參與 Google.org Impact Challenge：AI for Government Innovation 的組織。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用全新的 Gemini Notebook 工具精進你的讀書習慣</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-study-tools-september-2026/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Notebook 最新學習工具與讀書工具總覽。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_BTS.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 最新學習工具與讀書工具總覽。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Meta One：一項提供更多功能與 AI 的訂閱服務，幫助你創作、連結並脫穎而出</title>
