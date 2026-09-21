@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:29:15 GMT</lastBuildDate>
     <item>
       <title>Oura 的 22 億美元 IPO 主要是讓現有股東套現</title>
       <link>https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/</link>
@@ -177,6 +177,24 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/330c20a910e1e67377fb8c0d9029a32b/6ab100843d63325c10dc3cdf_clean-energy-key-visual-1920x1080-1-842x450/clean-energy-key-visual-1920x1080-1-842x450_thmb.jpg?v=289203f1-d977-402b-b22d-ce0a16eaeb5d" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/330c20a910e1e67377fb8c0d9029a32b/6ab100843d63325c10dc3cdf_clean-energy-key-visual-1920x1080-1-842x450/clean-energy-key-visual-1920x1080-1-842x450_thmb.jpg?v=289203f1-d977-402b-b22d-ce0a16eaeb5d"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/330c20a910e1e67377fb8c0d9029a32b/6ab100843d63325c10dc3cdf_clean-energy-key-visual-1920x1080-1-842x450/clean-energy-key-visual-1920x1080-1-842x450_thmb.jpg?v=289203f1-d977-402b-b22d-ce0a16eaeb5d" alt=""></p><p>潔淨能源並不難取得，但由於瓶頸的存在——包括過時的基礎設施、冗長的研發時程，以及前期成本障礙——大規模採用的速度歷來一直很慢。在紐約氣候週期間，NVIDIA 正聚焦五家在 AI 基礎中就納入 AI 的公司，這些公司正在開創潔淨能源專案，加速從研究到落地的過程［…］</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>為 AI 下一階段建立標準</title>
+      <link>https://openai.com/index/building-standards-next-phase-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/building-standards-next-phase-ai</guid>
+      <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 提出一條通往共享全球 AI 標準的路徑，呼籲協調一致的評估、報告與治理，以提升安全性。</description>
+    </item>
+    <item>
+      <title>擴充 OpenAI Academy，新增學習路徑</title>
+      <link>https://openai.com/index/expanding-openai-academy-with-new-learning-paths</link>
+      <guid isPermaLink="false">https://openai.com/index/expanding-openai-academy-with-new-learning-paths</guid>
+      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索新的 OpenAI Academy 學習路徑，讓員工、開發者、領導者、教育工作者與學生培養並展現實用的 AI 技能。</description>
     </item>
     <item>
       <title>V7 如何讓 AI 代理擁有企業級記憶</title>
@@ -948,6 +966,15 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/5c8236191d88099da65187701b2adab0/6aa2aa023d633259e2f7c530_GFN_Thursday_September_10-842x450/GFN_Thursday_September_10-842x450_thmb.jpg?v=b3760d38-eed0-4c64-9771-f9be437c9346" alt=""></p><p>整裝上陣：本週 GeForce NOW 已準備好讓你遊玩最新的 PC 遊戲與重大更新。WARDOGS 在搶先體驗上市時登上雲端，並同步推出 Valheim 1.0 Deep North 更新與 Bus Simulator 27——這是加入雲端的九款新作之一。最新的 PC 版本可能會需要大量硬體、儲存空間 […]</p>]]></content:encoded>
     </item>
     <item>
+      <title>數學與人工智慧諮詢小組</title>
+      <link>https://openai.com/index/advisory-group-on-mathematics-and-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/advisory-group-on-mathematics-and-ai</guid>
+      <pubDate>Thu, 10 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正與一個獨立的數學與人工智慧諮詢小組合作，協助指導對新興 AI 研究成果的審查與溝通。</description>
+    </item>
+    <item>
       <title>NVIDIA 與 Palantir 將主權智慧導入關鍵供應鏈</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains</link>
       <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains</guid>
@@ -1223,15 +1250,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
-    </item>
-    <item>
       <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
       <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
@@ -1239,6 +1257,15 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
+    </item>
+    <item>
+      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
@@ -1402,15 +1429,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -1418,6 +1436,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1708,15 +1735,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>了解 RingCentral 如何運用 ChatGPT 工作與 Codex，加速 AI 產品開發，並將營運智慧集中於工程與營運之間。</description>
     </item>
     <item>
-      <title>在 ChatGPT 中測試廣告</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
-    </item>
-    <item>
       <title>Daybreak 模型現已在 AWS 上提供</title>
       <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
       <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
@@ -1724,6 +1742,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
+    </item>
+    <item>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
     </item>
     <item>
       <title>打造 AI 原生財務部門教會了我什麼</title>
@@ -1762,13 +1789,13 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>認識 GPT-5.6-Cyber，OpenAI 透過 Daybreak Red 提供的資安專用模型，可用於授權的漏洞研究、漏洞利用驗證與安全測試。</description>
     </item>
     <item>
-      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
-      <link>https://openai.com/index/zapier</link>
-      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
+      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
+      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
+      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
+      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
     </item>
     <item>
       <title>ChatGPT Business 即將推出進階席位</title>
@@ -1780,13 +1807,13 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
-      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
+      <title>Zapier 如何透過 ChatGPT Work 轉型核心行銷流程</title>
+      <link>https://openai.com/index/zapier</link>
+      <guid isPermaLink="false">https://openai.com/index/zapier</guid>
       <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
+      <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
     </item>
     <item>
       <title>回應關鍵網路資安能力的下一個前沿</title>
@@ -1877,33 +1904,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-Live 透過無需輪替的語音模型與低延遲架構，實現與 AI 的連續語音互動，讓對話更快速、更自然。</description>
-    </item>
-    <item>
-      <title>Circles 運用 OpenAI 技術提升電信個人化服務</title>
-      <link>https://openai.com/index/circles</link>
-      <guid isPermaLink="false">https://openai.com/index/circles</guid>
-      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Circles 使用 OpenAI API 和 Codex 來支援 AI 原生的電信體驗，使 ARPU 提高 22%、流失率降低 9%，並提升開發效率。</description>
-    </item>
-    <item>
-      <title>數學與理論電腦科學的十項進展</title>
-      <link>https://openai.com/index/ten-advances-in-mathematics</link>
-      <guid isPermaLink="false">https://openai.com/index/ten-advances-in-mathematics</guid>
-      <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 分享了在數學與理論電腦科學長期懸而未決的開放問題上的新成果，包括幾何、密碼學與複雜度方面的進展。</description>
-    </item>
-    <item>
-      <title>推動歐洲各地的負責任 AI 發展</title>
-      <link>https://openai.com/index/advancing-responsible-ai-across-europe</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-responsible-ai-across-europe</guid>
-      <pubDate>Fri, 31 Jul 2026 15:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 分享其安全性、資安、透明度與來源證明實務如何支持歐洲的負責任 AI 治理。隨著 EU AI Act 持續推進，這項工作也會繼續進行。</description>
     </item>
     <item>
       <title>回顧微軟 FY26：從 AI 實驗邁向前沿轉型</title>
