@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:59:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 18:14:42 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 推出 DSX Ready，為 AI 工廠認證電力與冷卻產品</title>
+      <link>https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/</guid>
+      <pubDate>Mon, 21 Sep 2026 18:00:07 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>每座 AI 工廠都需要符合其運算架構的電力與冷卻。隨著 AI 基礎設施擴展，電力、冷卻、水源、場地與電網限制正在塑造建置者可部署的內容。選擇符合完整工廠設計的產品，有助於建置者將運算容量轉化為可用的 AI 輸出。為了幫助建置者做出這些決策，NVIDIA 正在推出 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5" alt=""></p><p>每座 AI 工廠都需要符合其運算架構的電力與冷卻。隨著 AI 基礎設施擴展，電力、冷卻、水源、場地與電網限制正在塑造建置者可部署的內容。選擇符合完整工廠設計的產品，有助於建置者將運算容量轉化為可用的 AI 輸出。為了幫助建置者做出這些決策，NVIDIA 正在推出 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Meta 的 AI 智能代理已被禁止使用 Amazon.com</title>
       <link>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</link>
@@ -1021,18 +1033,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
-    </item>
-    <item>
-      <title>NVIDIA 與澳洲資料中心生態系合作，擴大 AI 基礎設施容量</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-ai-infrastructure-capacity-in-partnership-with-australias-data-center-ecosystem</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布，正與日益成長的澳洲 NVIDIA 雲端合作夥伴（NCP）與 AI 基礎設施合作夥伴生態系合作，擴大土地、電力與機房外殼容量，以支援多代 NVIDIA DSX™ AI 工廠的建置，滿足該國對 AI 運算日益成長的需求——至 2027 年最高可達 2 GW 的建置規模。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" alt=""></p><p>NVIDIA 今日宣布，正與日益成長的澳洲 NVIDIA 雲端合作夥伴（NCP）與 AI 基礎設施合作夥伴生態系合作，擴大土地、電力與機房外殼容量，以支援多代 NVIDIA DSX™ AI 工廠的建置，滿足該國對 AI 運算日益成長的需求——至 2027 年最高可達 2 GW 的建置規模。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 發表 iPhone Duo</title>
