@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 21 Sep 2026 17:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 17:59:32 GMT</lastBuildDate>
+    <item>
+      <title>Meta 的 AI 智能代理已被禁止使用 Amazon.com</title>
+      <link>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167032</guid>
+      <pubDate>Mon, 21 Sep 2026 17:55:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Muse 現在不再受歡迎成為購物者了。</description>
+    </item>
+    <item>
+      <title>X 現在會告訴使用者，何時政府已迫使其限制他們的貼文</title>
+      <link>https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167015</guid>
+      <pubDate>Mon, 21 Sep 2026 17:45:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>X 正在擴充其「Under the Hood」透明度工具，以顯示貼文何時因應地方法律和政府要求而被降權或扣留，包括是哪個國家提出該請求。</description>
+    </item>
     <item>
       <title>Oura 的 22 億美元 IPO 主要是讓現有股東套現</title>
       <link>https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/</link>
@@ -303,24 +321,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>川普在沒有證據的情況下聲稱，對 AI 的反彈是民主黨捏造的騙局。</description>
-    </item>
-    <item>
-      <title>Google 的 Gemini 是最新一個駭入其他公司的 AI 模型</title>
-      <link>https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166647</guid>
-      <pubDate>Sat, 19 Sep 2026 17:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 表示，Gemini 透過立刻結束每次駭入行為，已經「採取了適當行動」。</description>
-    </item>
-    <item>
-      <title>即使在秘密飛行途中，海軍技術長也對投資人有一套說法</title>
-      <link>https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166634</guid>
-      <pubDate>Sat, 19 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>海軍 CTO Justin Fanelli 討論與 VC 共同投資，而不是由海軍自行資助早期研究；近期採購案如 5.62 億美元的自主加油合約；以及海軍更新後的願望清單——從 AI 到量子——也就是創業者下一步應該投入的方向。</description>
     </item>
     <item>
       <title>透過 AI 教育工作者培訓賺取在職進修與大學學分。</title>
