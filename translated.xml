@@ -5,7 +5,40 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 21 Sep 2026 15:58:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:13:32 GMT</lastBuildDate>
+    <item>
+      <title>大規模部署實體 AI 為何需要每一層都具備安全性</title>
+      <link>https://blogs.nvidia.com/blog/physical-ai-halos-safety/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/physical-ai-halos-safety/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:00:46 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>實體 AI 正迅速從研究走向大規模部署。到 2035 年，ABI Research 預估第 3 至第 5 級自動駕駛車輛（AV）已安裝基數將達 4,900 萬輛，而 Omdia 則估計 2026 年至 2035 年間將部署約 6,000 萬台工業機器人。隨著這些機器進入道路、工廠、倉庫及其他與人共享的環境，[…]</description>
+    </item>
+    <item>
+      <title>從賦能到執行，埃及的 AI 生態系達到量產規模</title>
+      <link>https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:00:10 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>今天，埃及的 AI 建構者齊聚大埃及博物館參加一場招待會，聚焦這個國家快速成長的 AI 生態系——涵蓋 AI 原生團隊、開發者、研究人員、新創公司與企業——正在各產業打造應用程式。活動包括 NVIDIA 歐洲、中東及非洲地區副總裁 Paolo Guglielmini 的主題演講。區域 AI 採用負責人 Ahmed Mostafa […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2" alt=""></p><p>今天，埃及的 AI 建構者齊聚大埃及博物館參加一場招待會，聚焦這個國家快速成長的 AI 生態系——涵蓋 AI 原生團隊、開發者、研究人員、新創公司與企業——正在各產業打造應用程式。活動包括 NVIDIA 歐洲、中東及非洲地區副總裁 Paolo Guglielmini 的主題演講。區域 AI 採用負責人 Ahmed Mostafa […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>擴大為教育工作者提供免費 AI 訓練</title>
+      <link>https://blog.google/products-and-platforms/products/education/digital-promise/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/digital-promise/</guid>
+      <pubDate>Mon, 21 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在紐約市舉行的聯合國大會上，Google.org 承諾捐助 400 萬美元給 Digital Promise，協助為教師和教職員提供免費、實用的 A…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp" alt=""></p><p>在紐約市舉行的聯合國大會上，Google.org 承諾捐助 400 萬美元給 Digital Promise，協助為教師和教職員提供免費、實用的 A…</p>]]></content:encoded>
+    </item>
     <item>
       <title>下一家爆紅新創會從哪裡冒出來？Benchmark 全體合夥人將在 TechCrunch Disrupt 2026 登上主舞台分享看法</title>
       <link>https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/</link>
@@ -691,18 +724,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2026_Pixel_Drop_social.max-600x600.format-webp.webp" alt=""></p><p>我們的 9 月 Pixel 功能更新來了，包含更新版 Pixel VIP 小工具、擴展的聊天詐騙偵測等更多內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>使用 Gemini 3.8 Live 與 3.5 Transcribe 建立即時語音應用程式</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-real-time-voice-applications-gemini-audio/</guid>
-      <pubDate>Tue, 15 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解開發者如何運用我們最新的音訊模型 Gemini 3.8 Live、3.8 Live Extended Thinking 和 3.5 Transcribe 進行開發。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-live-api-header_1.max-600x600.format-webp.webp" alt=""></p><p>了解開發者如何運用我們最新的音訊模型 Gemini 3.8 Live、3.8 Live Extended Thinking 和 3.5 Transcribe 進行開發。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>從百萬瓦到 Token：NVIDIA 如何最大化 AI 工廠產能</title>
       <link>https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/</guid>
@@ -1047,18 +1068,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <description>Paul Christiano 加入 OpenAI Foundation 董事會及其安全與保安委員會，帶來在 AI 對齊、安全與標準方面的經驗。</description>
     </item>
     <item>
-      <title>NVIDIA 將即時 AI 帶入廣播、體育與全球串流，亮相 IBC</title>
-      <link>https://blogs.nvidia.com/blog/ibc-news-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ibc-news-2026/</guid>
-      <pubDate>Wed, 09 Sep 2026 16:00:42 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/749fc825a7ffe9c441f64b94424c2a48/6aa182e03d6332a42e270e51_me-ai-for-media-kv-1920x1080-5262591-842x450/me-ai-for-media-kv-1920x1080-5262591-842x450_thmb.jpg?v=0c901f6c-7ffe-4946-924d-991927c4860e" alt=""></p><p>在 9 月 11 日至 14 日於阿姆斯特丹舉行的 IBC 會議上，創意、科技與商業社群齊聚一堂，將想法化為行動，並討論媒體與娛樂產業的各項創新。來自 170 多個國家的超過 44,000 名與會者正齊聚一堂，探索 14 個以上展館與戶外空間中的 1,300 多個展出項目，並有超過 600 位講者 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>AI 政策的窗口已經打開。我們需要採取行動。</title>
       <link>https://openai.com/index/ai-policy-window</link>
       <guid isPermaLink="false">https://openai.com/index/ai-policy-window</guid>
@@ -1187,18 +1196,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>在 OpenAI 內部，程式設計代理正在重塑 AI 研究。探索關於代理使用、實驗速度、任務複雜度與研究加速的早期資料。</description>
-    </item>
-    <item>
-      <title>火花四射：NVIDIA 加速 IFA 2026 的本地 AI</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-ifa-next-gen-agents-nv-pair-rtx-spark/</guid>
-      <pubDate>Thu, 03 Sep 2026 16:00:59 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>前沿智慧正走向本地化。在 IFA 2026，NVIDIA、Microsoft 及其合作夥伴正攜手提供更快的推論，以及讓代理更容易在 NVIDIA 硬體上設定與執行的新工具。全新精巧的 NVIDIA RTX Spark Windows PC 也將於 10 月登場，提供 AI 愛好者、開發者和創作者 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" alt=""></p><p>前沿智慧正走向本地化。在 IFA 2026，NVIDIA、Microsoft 及其合作夥伴正攜手提供更快的推論，以及讓代理更容易在 NVIDIA 硬體上設定與執行的新工具。全新精巧的 NVIDIA RTX Spark Windows PC 也將於 10 月登場，提供 AI 愛好者、開發者和創作者 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>為前線守護者點亮曙光：投入 10 億美元保護關鍵服務</title>
