@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:39:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:55:09 GMT</lastBuildDate>
+    <item>
+      <title>被竊密碼正讓美國供水業者暴露在駭客面前</title>
+      <link>https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167590</guid>
+      <pubDate>Tue, 22 Sep 2026 15:50:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>研究人員表示，另一個迫在眉睫的威脅正籠罩著美國一些最重要的關鍵基礎設施。</description>
+    </item>
     <item>
       <title>Noble Carbon 將在 TechCrunch Disrupt 展示如何讓電動車充電器安裝變得輕鬆</title>
       <link>https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/</link>
@@ -221,15 +230,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Muse 現在不再受歡迎成為購物者了。</description>
-    </item>
-    <item>
-      <title>X 現在會告訴使用者，何時政府已迫使其限制他們的貼文</title>
-      <link>https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167015</guid>
-      <pubDate>Mon, 21 Sep 2026 17:45:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>X 正在擴充其「Under the Hood」透明度工具，以顯示貼文何時因應地方法律和政府要求而被降權或扣留，包括是哪個國家提出該請求。</description>
     </item>
     <item>
       <title>大規模部署實體 AI 為何需要每一層都具備安全性</title>
