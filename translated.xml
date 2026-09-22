@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 12:22:46 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA Isaac ROS 5.0 推進具代理能力的開源機器人開發</title>
+      <link>https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/</guid>
+      <pubDate>Tue, 22 Sep 2026 12:00:41 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>要打造並部署能在動態環境中感知、推理和行動的先進機器人應用程式，開發者需要新的物理 AI 模型與工具。ROS 開放框架是 Open Robotics 的一個專案，能幫助人類打造機器人。NVIDIA Isaac ROS 5.0——一套建立在 ROS 之上、由 GPU 加速的套件，今天發布於 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994" alt=""></p><p>要打造並部署能在動態環境中感知、推理和行動的先進機器人應用程式，開發者需要新的物理 AI 模型與工具。ROS 開放框架是 Open Robotics 的一個專案，能幫助人類打造機器人。NVIDIA Isaac ROS 5.0——一套建立在 ROS 之上、由 GPU 加速的套件，今天發布於 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Meta 交易將協助塑膠回收新創 MacroCycle 建造首座工廠</title>
       <link>https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/</link>
@@ -1003,18 +1015,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正與一個獨立的數學與人工智慧諮詢小組合作，協助指導對新興 AI 研究成果的審查與溝通。</description>
-    </item>
-    <item>
-      <title>NVIDIA 與 Palantir 將主權智慧導入關鍵供應鏈</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-palantir-bring-sovereign-intelligence-to-critical-supply-chains</guid>
-      <pubDate>Thu, 10 Sep 2026 09:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Palantir Technologies Inc.（NASDAQ: PLTR）與 NVIDIA（NASDAQ: NVDA）今日宣布合作，將主權 AI 導入關鍵供應鏈，並以 NVIDIA 自身營運作為起點。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/38876c048ca50c779d310d7d819f27bd/6aa210be3d63325a96e97259_palantir-nvidia/palantir-nvidia_thmb.jpg?v=f0195c71-b6c0-4659-b603-2f73ebdc1de8" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/38876c048ca50c779d310d7d819f27bd/6aa210be3d63325a96e97259_palantir-nvidia/palantir-nvidia_thmb.jpg?v=f0195c71-b6c0-4659-b603-2f73ebdc1de8"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/38876c048ca50c779d310d7d819f27bd/6aa210be3d63325a96e97259_palantir-nvidia/palantir-nvidia_thmb.jpg?v=f0195c71-b6c0-4659-b603-2f73ebdc1de8" alt=""></p><p>Palantir Technologies Inc.（NASDAQ: PLTR）與 NVIDIA（NASDAQ: NVDA）今日宣布合作，將主權 AI 導入關鍵供應鏈，並以 NVIDIA 自身營運作為起點。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出適用於金融服務的 ChatGPT</title>
