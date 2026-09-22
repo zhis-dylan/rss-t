@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 16:25:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:40:42 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 推出 Opus 5.5，價格更低且具備 Fable 級表現</title>
+      <link>https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167580</guid>
+      <pubDate>Tue, 22 Sep 2026 16:30:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 稱它是「我們迄今測試過表現最強的模型。」</description>
+    </item>
     <item>
       <title>投資全球人才與 AI 素養</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/</link>
@@ -130,6 +139,15 @@
       <description>賓州兩年來充滿爭議的 AI 資料中心辯論內幕。</description>
     </item>
     <item>
+      <title>全新的 Mac mini 和 Mac Studio 今日開賣</title>
+      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
+      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>顧客現在可以在 Apple Store 門市、線上商店以及 Apple Store app 購買搭載 M6 和 M5 Pro 的 Mac mini，以及搭載 M5 Max 和 M5 Ultra 的 Mac Studio。</description>
+    </item>
+    <item>
       <title>Nscale 的 IPO 將再次考驗華爾街對於集中式 AI 押注的胃口</title>
       <link>https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3167323</guid>
@@ -233,15 +251,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5" alt=""></p><p>每座 AI 工廠都需要符合其運算架構的電力與冷卻。隨著 AI 基礎設施擴展，電力、冷卻、水源、場地與電網限制正在塑造建置者可部署的內容。選擇符合完整工廠設計的產品，有助於建置者將運算容量轉化為可用的 AI 輸出。為了幫助建置者做出這些決策，NVIDIA 正在推出 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 的 AI 智能代理已被禁止使用 Amazon.com</title>
-      <link>https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167032</guid>
-      <pubDate>Mon, 21 Sep 2026 17:55:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Muse 現在不再受歡迎成為購物者了。</description>
     </item>
     <item>
       <title>大規模部署實體 AI 為何需要每一層都具備安全性</title>
@@ -1607,15 +1616,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
-    </item>
-    <item>
-      <title>Apple 宣布歐盟地區 App 的變更</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天宣布，繼與歐盟執委會密切合作後，將調整其在歐盟的 App 商業條款。</description>
     </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
