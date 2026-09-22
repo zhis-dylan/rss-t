@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 19:27:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 19:42:38 GMT</lastBuildDate>
+    <item>
+      <title>Apple 可能會推出新的健身追蹤器，與 Whoop 一較高下，報導指出</title>
+      <link>https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167744</guid>
+      <pubDate>Tue, 22 Sep 2026 19:27:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 可能正在開發一款新的健身追蹤器，作為其新一代硬體裝置的一部分。</description>
+    </item>
     <item>
       <title>Meta 承認 Muse 與 OpenClaw 的相似並非巧合</title>
       <link>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</link>
@@ -193,6 +202,15 @@
       <description>賓州兩年來充滿爭議的 AI 資料中心辯論內幕。</description>
     </item>
     <item>
+      <title>全新的 Mac mini 和 Mac Studio 今日上市</title>
+      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
+      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>顧客現在可在 Apple Store 門市、線上，以及 Apple Store App 購買搭載 M6 和 M5 Pro 的 Mac mini，以及搭載 M5 Max 和 M5 Ultra 的 Mac Studio。</description>
+    </item>
+    <item>
       <title>Nscale 的 IPO 將再次考驗華爾街對於集中式 AI 押注的胃口</title>
       <link>https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3167323</guid>
@@ -221,15 +239,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta 與新創公司 MacroCycle 達成一項新交易，為塑膠回收帶來助力，而 MacroCycle 正在興建其首座商業工廠。</description>
-    </item>
-    <item>
-      <title>Morphotonics 募得 4,000 萬歐元，將其顯示技術擴展到資料中心</title>
-      <link>https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166809</guid>
-      <pubDate>Tue, 22 Sep 2026 06:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>深科技公司 Morphotonics 從包括 3M Ventures、Innovation Industries、BOM 和 Invest-NL 在內的投資人募得 4,000 萬歐元。</description>
     </item>
     <item>
       <title>Apple 在倫敦開設 Apple Music Hall，一座先進的現場音樂場館</title>
@@ -1286,15 +1295,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
-    </item>
-    <item>
       <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
       <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
@@ -1302,6 +1302,15 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
+    </item>
+    <item>
+      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
@@ -1625,15 +1634,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
-    </item>
-    <item>
-      <title>Apple 宣布歐盟地區 App 的變更</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今日宣布，經與歐盟執委會密切合作後，將變更其在歐盟地區 App 的商業條款。</description>
     </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
