@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 06:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 06:20:06 GMT</lastBuildDate>
     <item>
       <title>Morphotonics 募得 4,000 萬歐元，將其顯示技術擴展到資料中心</title>
       <link>https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/</link>
@@ -14,6 +14,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>深科技公司 Morphotonics 從包括 3M Ventures、Innovation Industries、BOM 和 Invest-NL 在內的投資人募得 4,000 萬歐元。</description>
+    </item>
+    <item>
+      <title>Apple 在倫敦開設 Apple Music Hall，一座先進的現場音樂場館</title>
+      <link>https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</guid>
+      <pubDate>Tue, 22 Sep 2026 05:59:58 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple Music Hall 這座位於倫敦著名的 Battersea Power Station 的先進現場音樂場館，現已開幕。</description>
     </item>
     <item>
       <title>打造蘋果門市的人，不看好矽谷對 AI 購物的押注</title>
@@ -1679,15 +1688,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 資助 14 個獨立專案，探索新的 AI 政策構想，以擴大經濟機會並強化智慧時代的社會韌性。</description>
-    </item>
-    <item>
-      <title>Apple 在休士頓啟用 Advanced Manufacturing Center</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-opens-advanced-manufacturing-center-in-houston/</guid>
-      <pubDate>Thu, 13 Aug 2026 18:30:29 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 在休士頓啟用了全新的 Advanced Manufacturing Center，為中小型企業提供免費訓練與教育課程。</description>
     </item>
     <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
