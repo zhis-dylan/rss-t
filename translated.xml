@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 18:26:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 18:41:57 GMT</lastBuildDate>
+    <item>
+      <title>駭客組織 ShinyHunters 聲稱入侵 FBI，竊取探員與申請者的資料</title>
+      <link>https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167734</guid>
+      <pubDate>Tue, 22 Sep 2026 18:40:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>竊取探員的個人資訊可能構成重大的反間諜威脅，因為探員及其家人可能會遭到勒索，進而被迫與外國政府合作。</description>
+    </item>
     <item>
       <title>a16z 正以成立一所學校來挑戰矽谷對輟學者的熱愛</title>
       <link>https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/</link>
@@ -239,15 +248,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple Store 建築師 Ron Johnson 說，Apple 的秘訣一直都是它的人才。</description>
-    </item>
-    <item>
-      <title>OpenAI 成立數學顧問小組，因為其 AI 已解決超過 100 個開放問題</title>
-      <link>https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167174</guid>
-      <pubDate>Mon, 21 Sep 2026 20:15:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該小組不會被賦予放慢或轉向 OpenAI 持續進行的數學研究的權限。</description>
     </item>
     <item>
       <title>NVIDIA 推出 DSX Ready，為 AI 工廠認證電力與冷卻產品</title>
