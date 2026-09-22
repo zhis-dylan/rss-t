@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 14:54:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 15:09:42 GMT</lastBuildDate>
+    <item>
+      <title>Noble Carbon 將在 TechCrunch Disrupt 展示如何讓電動車充電器安裝變得輕鬆</title>
+      <link>https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166941</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Noble Carbon 已開發出一款智慧斷路器，讓住家在不用更換主配電盤的情況下也能電氣化，免去升級主配電盤的麻煩。</description>
+    </item>
+    <item>
+      <title>每位創辦人在 TechCrunch Disrupt 2026 行程中都該安排的五場 AI 安全場次</title>
+      <link>https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167384</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 TechCrunch Disrupt 2026，AI Stage 和 Real World AI Stage 的五場場次將探討 AI 安全，並邀請來自 Anthropic、NVIDIA、AWS、Waabi 等公司的領導者。立即報名，9 月 25 日前可省下最高 200 美元。</description>
+    </item>
+    <item>
+      <title>AstroForge 正讓 AI 掌舵其下一艘太空船</title>
+      <link>https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167451</guid>
+      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Autonomy-1 將搭載一個小型、基於 transformer 的 AI 模型，負責掌控一台太空探測器。</description>
+    </item>
     <item>
       <title>TechCrunch Disrupt 2026：Aaron Edsinger 將在舞台上讓 Hello Robot 的 Stretch 4 活起來</title>
       <link>https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/</link>
@@ -214,24 +241,6 @@
       <description>X 正在擴充其「Under the Hood」透明度工具，以顯示貼文何時因應地方法律和政府要求而被降權或扣留，包括是哪個國家提出該請求。</description>
     </item>
     <item>
-      <title>Oura 的 22 億美元 IPO 主要是讓現有股東套現</title>
-      <link>https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166877</guid>
-      <pubDate>Mon, 21 Sep 2026 16:45:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 Oura 最新的 IPO 申報文件，Forerunner Ventures 計畫出售其在 Oura 的全部持股，最高可達 12.6 億美元。</description>
-    </item>
-    <item>
-      <title>有了 Tabby，一位前會計師正用 AI 讓會計師變得多餘</title>
-      <link>https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166970</guid>
-      <pubDate>Mon, 21 Sep 2026 16:38:51 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Tabby 的設計是一個即時簿記介面，在提供客戶公司損益的即時資料時，同時處理他們的文書工作。</description>
-    </item>
-    <item>
       <title>大規模部署實體 AI 為何需要每一層都具備安全性</title>
       <link>https://blogs.nvidia.com/blog/physical-ai-halos-safety/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/physical-ai-halos-safety/</guid>
@@ -266,15 +275,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp" alt=""></p><p>在紐約市舉行的聯合國大會上，Google.org 承諾捐助 400 萬美元給 Digital Promise，協助為教師和教職員提供免費、實用的 A…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>下一家爆紅新創會從哪裡冒出來？Benchmark 全體合夥人將在 TechCrunch Disrupt 2026 登上主舞台分享看法</title>
-      <link>https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166744</guid>
-      <pubDate>Mon, 21 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>下一家爆紅新創會從哪裡冒出來？Benchmark 全體合夥人將在 TechCrunch Disrupt 2026 的主舞台上分享看法。9 月 25 日晚上 11:59（PT）前最多可省下 200 美元。立即報名。</description>
     </item>
     <item>
       <title>AI 安全是個工程問題——如何在代理堆疊的每一層解決它</title>
