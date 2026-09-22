@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 15:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 16:10:21 GMT</lastBuildDate>
+    <item>
+      <title>投資全球人才與 AI 素養</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/</guid>
+      <pubDate>Tue, 22 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 透過 AI Skills Coalition 向國際電信聯盟（ITU）提供 100,000 份獎學金。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp" alt=""></p><p>Google 透過 AI Skills Coalition 向國際電信聯盟（ITU）提供 100,000 份獎學金。</p>]]></content:encoded>
+    </item>
     <item>
       <title>被竊密碼正讓美國供水業者暴露在駭客面前</title>
       <link>https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/</link>
@@ -116,6 +128,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>賓州兩年來充滿爭議的 AI 資料中心辯論內幕。</description>
+    </item>
+    <item>
+      <title>全新的 Mac mini 和 Mac Studio 今日上市</title>
+      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
+      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>顧客現在可以在 Apple Store 門市、線上以及 Apple Store app 購買搭載 M6 和 M5 Pro 的 Mac mini，以及搭載 M5 Max 和 M5 Ultra 的 Mac Studio。</description>
     </item>
     <item>
       <title>Nscale 的 IPO 將再次考驗華爾街對於集中式 AI 押注的胃口</title>
@@ -736,18 +757,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的 OpenAI 經濟研究顯示，勞工如何在傳統角色之外使用 AI，以及哪些新活動會成為他們工作中反覆出現的一部分。</description>
-    </item>
-    <item>
-      <title>為下一代重新想像芝加哥的湯普森中心</title>
-      <link>https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/chicago-thompson-center-designs/</guid>
-      <pubDate>Wed, 16 Sep 2026 05:01:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們在湯普森中心的新芝加哥辦公室結合了藝術、社群與建築。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thompson_Center_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thompson_Center_herosocial.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thompson_Center_herosocial.max-600x600.format-webp.webp" alt=""></p><p>我們在湯普森中心的新芝加哥辦公室結合了藝術、社群與建築。</p>]]></content:encoded>
     </item>
     <item>
       <title>曼徹斯特大學使用 NVIDIA Earth-2 預測英國各地空氣污染</title>
@@ -1607,15 +1616,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
-    </item>
-    <item>
-      <title>Apple 宣布歐盟地區 App 的變更</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天宣布其在歐盟地區 App 的商業條款變更，這是在與歐盟執委會密切合作後做出的決定。</description>
     </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
