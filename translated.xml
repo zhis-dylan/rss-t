@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:08:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:23:27 GMT</lastBuildDate>
+    <item>
+      <title>新加坡的 Nexstrom 想把 2D 半導體帶進晶圓廠</title>
+      <link>https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167421</guid>
+      <pubDate>Tue, 22 Sep 2026 13:20:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>總部位於新加坡的 Nexstrom 已募得新一輪資金，用於開發可協助晶片製造商大規模製造 2D 半導體材料的設備。</description>
+    </item>
     <item>
       <title>比爾·蓋茲的 Breakthrough Energy 押注這 21 家新創公司將塑造能源的未來</title>
       <link>https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/</link>
@@ -23,15 +32,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>賓州兩年來充滿爭議的 AI 資料中心辯論內幕。</description>
-    </item>
-    <item>
-      <title>全新 Mac mini 和 Mac Studio 今日開賣</title>
-      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
-      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>顧客現在可在 Apple Store 門市、線上，以及 Apple Store app 購買搭載 M6 和 M5 Pro 的 Mac mini，還有搭載 M5 Max 和 M5 Ultra 的 Mac Studio。</description>
     </item>
     <item>
       <title>Nscale 的 IPO 將再次考驗華爾街對於集中式 AI 押注的胃口</title>
@@ -363,15 +363,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>運用 GPT-5.6，V7 將零散的公司檔案轉化為代理可用的脈絡，以完成複雜且有來源連結的工作。</description>
-    </item>
-    <item>
-      <title>在 TechCrunch Disrupt 2026 搶先卡位只剩 6 天</title>
-      <link>https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166682</guid>
-      <pubDate>Sun, 20 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>目前票價優惠將於 9 月 25 日太平洋時間晚上 11:59 結束。加入 Disrupt 與超過 10,000 位創辦人、投資人和科技領袖，並在此之前最多可省下 200 美元票價。</description>
     </item>
     <item>
       <title>透過 AI 教育工作者培訓賺取在職進修與大學學分。</title>
@@ -1616,6 +1607,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
+    </item>
+    <item>
+      <title>Apple 宣布歐盟地區 App 的變更</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今天宣布調整其在歐盟地區 App 的商業條款，這是與歐盟執委會密切合作後的結果。</description>
     </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
