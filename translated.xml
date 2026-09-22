@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 22 Sep 2026 20:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 20:58:27 GMT</lastBuildDate>
     <item>
       <title>GPT-6 的更佳提示快取</title>
       <link>https://openai.com/index/better-prompt-caching-for-gpt-6</link>
@@ -218,6 +218,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>賓州兩年來充滿爭議的 AI 資料中心辯論內幕。</description>
+    </item>
+    <item>
+      <title>全新的 Mac mini 和 Mac Studio 今日開賣</title>
+      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
+      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>顧客現在可在 Apple Store 門市、線上，以及 Apple Store app 購買搭載 M6 與 M5 Pro 的 Mac mini，以及搭載 M5 Max 與 M5 Ultra 的 Mac Studio。</description>
     </item>
     <item>
       <title>Nscale 的 IPO 將再次考驗華爾街對於集中式 AI 押注的胃口</title>
@@ -1634,15 +1643,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
-    </item>
-    <item>
-      <title>Apple 宣布歐盟地區 App 的變更</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天宣布，將在歐盟調整其 App 的商業條款，這項變更是與歐盟執委會密切合作後做出的。</description>
     </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
