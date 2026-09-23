@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 18:55:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 19:10:55 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,27 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>Modal Motors 正試圖讓中國徹底退出電動馬達供應鏈</title>
+      <link>https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167026</guid>
+      <pubDate>Wed, 23 Sep 2026 19:05:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司正在研發小型、輕量、且不含稀土磁鐵的馬達，適用於無人機、風扇和機器人。</description>
+    </item>
+    <item>
+      <title>任何人都能用 Google Vids 中的 Gemini Omni 製作令人驚豔的 HD 影片</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/gemini-omni-in-google-vids/</guid>
+      <pubDate>Wed, 23 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>直接在瀏覽器中就能取得高品質影片製作。任何擁有 Google 帳戶的人都可以在 Google Vids 中免費建立影片。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.max-600x600.format-webp.webp" alt=""></p><p>直接在瀏覽器中就能取得高品質影片製作。任何擁有 Google 帳戶的人都可以在 Google Vids 中免費建立影片。</p>]]></content:encoded>
     </item>
     <item>
       <title>Disney+ 和 Hulu 加入不斷上升的串流漲價趨勢</title>
@@ -304,13 +325,22 @@
       <description>LinkedIn 正在推出新的驗證工具，讓會員可以為同事的工作經驗背書，並讓公司對那些虛假聲稱受雇於他們的帳號擁有更多控制權。</description>
     </item>
     <item>
-      <title>PitPro 的首個換胎機器人在加拿大啟用</title>
-      <link>https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167710</guid>
-      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創公司表示，其自動化系統可在 15 分鐘內更換四條輪胎。</description>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>我們正將 AI Brief 擴展到更多語言，並新增一項 AI Max 報表功能。</title>
@@ -439,15 +469,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp" alt=""></p><p>我們正在支持 Jigsaw 的協作性 Sensemaking AI 基金，並呼籲全球領導者與我們一同加入。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>全新 Mac mini 與 Mac Studio 今日上市</title>
-      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
-      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>顧客現在可以在 Apple Store 實體店面、線上商店，以及 Apple Store app 購買搭載 M6 與 M5 Pro 的 Mac mini，以及搭載 M5 Max 與 M5 Ultra 的 Mac Studio。</description>
     </item>
     <item>
       <title>NVIDIA Isaac ROS 5.0 推進具代理能力的開源機器人開發</title>
@@ -701,18 +722,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出澳洲青年安全藍圖，一項由六大支柱組成的路線圖，旨在打造更安全的 AI 體驗，保護並賦能年輕人。</description>
-    </item>
-    <item>
-      <title>建立能帶來高轉換、已準備好成交的潛在客戶的廣告活動。</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-podcast-data-strength/</guid>
-      <pubDate>Fri, 18 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在這集 Ads Decoded 中，我們會解析資料強度：它是什麼？要怎麼建立？以及為什麼開發潛在客戶廣告活動需要它？</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E4_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這集 Ads Decoded 中，我們會解析資料強度：它是什麼？要怎麼建立？以及為什麼開發潛在客戶廣告活動需要它？</p>]]></content:encoded>
     </item>
     <item>
       <title>最新的 iPhone、Apple Watch 和 AirPods 產品陣容在全球門市上市</title>
@@ -1148,15 +1157,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
-    </item>
-    <item>
       <title>Agents API 介紹</title>
       <link>https://openai.com/index/introducing-the-agents-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
@@ -1164,6 +1164,15 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
+    </item>
+    <item>
+      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
     </item>
     <item>
       <title>Apple 發表 iPhone Duo</title>
@@ -1381,15 +1390,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
-    </item>
-    <item>
       <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
       <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
@@ -1397,6 +1397,15 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
+    </item>
+    <item>
+      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
@@ -1547,15 +1556,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -1563,6 +1563,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1707,6 +1716,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
+    </item>
+    <item>
+      <title>Apple 宣布歐盟地區 App 的變更</title>
+      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
+      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日宣布，根據與歐盟執委會的密切合作，將調整其在歐盟的 App 商業條款。</description>
     </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
@@ -1896,24 +1914,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Zapier 的企業行銷團隊使用 ChatGPT Work 來減少潛在客戶漏斗中的流失、建立行銷活動素材，並自動化報告。</description>
-    </item>
-    <item>
-      <title>Virgin Atlantic 透過 ChatGPT Work 強化顧客旅程</title>
-      <link>https://openai.com/index/virgin-atlantic/chatgpt-work</link>
-      <guid isPermaLink="false">https://openai.com/index/virgin-atlantic/chatgpt-work</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Virgin Atlantic 正在運用 ChatGPT Work 加速研究、產品規劃與決策，協助團隊串聯顧客旅程中的各種訊號。</description>
-    </item>
-    <item>
-      <title>ChatGPT Business 即將推出進階席位</title>
-      <link>https://openai.com/index/premium-seats-chatgpt-business</link>
-      <guid isPermaLink="false">https://openai.com/index/premium-seats-chatgpt-business</guid>
-      <pubDate>Mon, 10 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Business 即將推出進階席位。請在 8 月 20 日前註冊，可獲得 100 美元的工作區點數，並為你團隊最具需求的工作解鎖更高用量。</description>
     </item>
     <item>
       <title>將前沿資安模型交到更值得信任的人手中</title>
