@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:52:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:08:10 GMT</lastBuildDate>
     <item>
       <title>OpenAI Academy 兩週年</title>
       <link>https://openai.com/index/two-years-of-openai-academy</link>
@@ -14,6 +14,18 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>慶祝 OpenAI Academy 滿兩週年，並將 AI 技能帶給更多社群。</description>
+    </item>
+    <item>
+      <title>Sakeena Fiza 協助 NVIDIA 硬體在大規模部署下成功</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/</guid>
+      <pubDate>Wed, 23 Sep 2026 15:00:32 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>當 Sakeena Fiza 描述她在 NVIDIA 擔任驗證工程師的工作時，她的說法更像是一則偵探故事，而不是世界級工程實驗室。Fiza 說：「驗證工程師會在陰影裡尋找，並把光照進每個角落。」「每當我們拿到一套系統時，我們第一個想法就是：要怎麼讓它可以 […]」</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/b56da2e8cbf20ce93789fe3691646f97/6ab3e99e3d6332cb4ccac053_Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450_thmb.jpg?v=7d4a21c0-4d4f-4b0a-a5db-ddba886821b7" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/b56da2e8cbf20ce93789fe3691646f97/6ab3e99e3d6332cb4ccac053_Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450_thmb.jpg?v=7d4a21c0-4d4f-4b0a-a5db-ddba886821b7"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/b56da2e8cbf20ce93789fe3691646f97/6ab3e99e3d6332cb4ccac053_Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450_thmb.jpg?v=7d4a21c0-4d4f-4b0a-a5db-ddba886821b7" alt=""></p><p>當 Sakeena Fiza 描述她在 NVIDIA 擔任驗證工程師的工作時，她的說法更像是一則偵探故事，而不是世界級工程實驗室。Fiza 說：「驗證工程師會在陰影裡尋找，並把光照進每個角落。」「每當我們拿到一套系統時，我們第一個想法就是：要怎麼讓它可以 […]」</p>]]></content:encoded>
     </item>
     <item>
       <title>我們在這個西語裔傳統月致敬拉丁美洲文化。</title>
@@ -1107,18 +1119,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>在 ChatGPT Work 中認識 Data agent。連接公司資料、挖掘洞察，並用 AI 以自然語言建立互動式儀表板。</description>
-    </item>
-    <item>
-      <title>d-Matrix 採用 NVIDIA NVLink Fusion 進行機架級 XPU 部署</title>
-      <link>https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/d-matrix-nvlink-fusion/</guid>
-      <pubDate>Thu, 10 Sep 2026 13:00:21 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI 推論晶片製造商 d-Matrix 今天宣布，將使用 NVIDIA NVLink Fusion，將其下一代 Raptor XPUs 連接至 NVIDIA 的 AI 基礎架構平台——並加入持續擴大的生態系合作夥伴陣容。透過將 Raptor 連接到 NVIDIA NVLink scale-up 與 Spectrum-X scale-out 網路、NVIDIA MGX 機架架構以及更廣泛的 NVIDIA AI 平台，NVLink Fusion […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154" alt=""></p><p>AI 推論晶片製造商 d-Matrix 今天宣布，將使用 NVIDIA NVLink Fusion，將其下一代 Raptor XPUs 連接至 NVIDIA 的 AI 基礎架構平台——並加入持續擴大的生態系合作夥伴陣容。透過將 Raptor 連接到 NVIDIA NVLink scale-up 與 Spectrum-X scale-out 網路、NVIDIA MGX 機架架構以及更廣泛的 NVIDIA AI 平台，NVLink Fusion […]</p>]]></content:encoded>
     </item>
     <item>
       <title>數學與人工智慧諮詢小組</title>
