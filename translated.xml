@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 02:31:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 02:46:22 GMT</lastBuildDate>
+    <item>
+      <title>在 AI Day Singapore，NVIDIA 與合作夥伴展示東南亞各地的 AI 進展</title>
+      <link>https://blogs.nvidia.com/blog/ai-day-singapore/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-day-singapore/</guid>
+      <pubDate>Wed, 23 Sep 2026 02:30:22 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA AI Day Singapore 將於 9 月 22 日至 23 日在萊佛士城會議中心舉行，為與會者提供體驗實作培訓、專家主導場次以及先進工具的機會，以加速他們在 AI 與高效能運算方面的工作。在活動中，NVIDIA 與其合作夥伴正展示東南亞地區具突破性的 AI 進展 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2" alt=""></p><p>NVIDIA AI Day Singapore 將於 9 月 22 日至 23 日在萊佛士城會議中心舉行，為與會者提供體驗實作培訓、專家主導場次以及先進工具的機會，以加速他們在 AI 與高效能運算方面的工作。在活動中，NVIDIA 與其合作夥伴正展示東南亞地區具突破性的 AI 進展 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Meta 與新加坡警察部隊合作，採取行動處理 370 萬個帳號、粉絲專頁與內容</title>
       <link>https://about.fb.com/news/2026/09/meta-spf-scam-efforts/</link>
@@ -1080,18 +1092,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/4ef93ae301f2ae359aca88f58c6d9310/6aa2a9fc3d633259e2f7c529_gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450/gpu-architecture-corp-blog-dmatrix-nvlink-fusion-1280x680-5692448-r1-842x450_thmb.jpg?v=fa02dd1e-abf1-4d32-9863-5e102e7dc154" alt=""></p><p>AI 推論晶片製造商 d-Matrix 今天宣布，將使用 NVIDIA NVLink Fusion，將其下一代 Raptor XPUs 連接至 NVIDIA 的 AI 基礎架構平台——並加入持續擴大的生態系合作夥伴陣容。透過將 Raptor 連接到 NVIDIA NVLink scale-up 與 Spectrum-X scale-out 網路、NVIDIA MGX 機架架構以及更廣泛的 NVIDIA AI 平台，NVLink Fusion […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>踏上戰場：《WARDOGS》在 GeForce NOW 搶先體驗上市時火力全開</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-wardogs/</guid>
-      <pubDate>Thu, 10 Sep 2026 13:00:18 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>整裝上陣：本週 GeForce NOW 已準備好讓你遊玩最新的 PC 遊戲與重大更新。WARDOGS 在搶先體驗上市時登上雲端，並同步推出 Valheim 1.0 Deep North 更新與 Bus Simulator 27——這是加入雲端的九款新作之一。最新的 PC 版本可能會需要大量硬體、儲存空間 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/5c8236191d88099da65187701b2adab0/6aa2aa023d633259e2f7c530_GFN_Thursday_September_10-842x450/GFN_Thursday_September_10-842x450_thmb.jpg?v=b3760d38-eed0-4c64-9771-f9be437c9346" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/5c8236191d88099da65187701b2adab0/6aa2aa023d633259e2f7c530_GFN_Thursday_September_10-842x450/GFN_Thursday_September_10-842x450_thmb.jpg?v=b3760d38-eed0-4c64-9771-f9be437c9346"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/5c8236191d88099da65187701b2adab0/6aa2aa023d633259e2f7c530_GFN_Thursday_September_10-842x450/GFN_Thursday_September_10-842x450_thmb.jpg?v=b3760d38-eed0-4c64-9771-f9be437c9346" alt=""></p><p>整裝上陣：本週 GeForce NOW 已準備好讓你遊玩最新的 PC 遊戲與重大更新。WARDOGS 在搶先體驗上市時登上雲端，並同步推出 Valheim 1.0 Deep North 更新與 Bus Simulator 27——這是加入雲端的九款新作之一。最新的 PC 版本可能會需要大量硬體、儲存空間 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>數學與人工智慧諮詢小組</title>
