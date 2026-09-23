@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:39:42 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>Zoox 在員工回報有毒氣體暴露症狀後，停飛亞特蘭大測試車隊</title>
+      <link>https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168238</guid>
+      <pubDate>Wed, 23 Sep 2026 17:28:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家亞馬遜旗下公司在一名員工提交 OSHA 投訴後展開調查。</description>
     </item>
     <item>
       <title>即使每天使用 AI 的美國人也對它感到擔憂</title>
@@ -299,15 +308,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>多數率團出訪的領袖都只會照著宣傳稿講，但我本週採訪希臘總理 Kyriakos Mitsotakis 時，他也坦言，沒有任何政府已經準備好應對 AI 接下來要帶來的影響。</description>
-    </item>
-    <item>
-      <title>Discord 的年齡驗證時代已經來臨，儘管社群強烈反彈</title>
-      <link>https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167925</guid>
-      <pubDate>Wed, 23 Sep 2026 03:31:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 Discord 表示，90% 的使用者不需要驗證年齡。</description>
     </item>
     <item>
       <title>在 AI Day Singapore，NVIDIA 與合作夥伴展示東南亞各地的 AI 進展</title>
