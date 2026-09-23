@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:07:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:22:27 GMT</lastBuildDate>
+    <item>
+      <title>這是 Nathan Fielder 的 Elizabeth Holmes 紀錄片預告片，10 月 16 日上映</title>
+      <link>https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168146</guid>
+      <pubDate>Wed, 23 Sep 2026 14:21:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在這條被詛咒的時間線裡，我們獲得了一些如此難以理解的東西，讓我們從未想像過。</description>
+    </item>
     <item>
       <title>距離在 TechCrunch Disrupt 2026 省下最多 200 美元並建立有影響力的連結只剩 3 天</title>
       <link>https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/</link>
@@ -303,15 +312,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <description>研究人員表示，另一個迫在眉睫的威脅正籠罩著美國一些最重要的關鍵基礎設施。</description>
     </item>
     <item>
-      <title>Noble Carbon 將在 TechCrunch Disrupt 展示如何讓電動車充電器安裝變得輕鬆</title>
-      <link>https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166941</guid>
-      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Noble Carbon 已開發出一款智慧斷路器，讓住家在不用更換主配電盤的情況下也能電氣化，免去升級主配電盤的麻煩。</description>
-    </item>
-    <item>
       <title>運用 AI 協助地方政府與選民建立連結</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/</guid>
@@ -322,6 +322,15 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp" alt=""></p><p>我們正在支持 Jigsaw 的協作性 Sensemaking AI 基金，並呼籲全球領導者與我們一同加入。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>全新 Mac mini 和 Mac Studio 今日開賣</title>
+      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
+      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>顧客現在可在 Apple Store 門市、線上，以及 Apple Store app 購買搭載 M6 和 M5 Pro 的 Mac mini，以及搭載 M5 Max 和 M5 Ultra 的 Mac Studio。</description>
     </item>
     <item>
       <title>NVIDIA Isaac ROS 5.0 推進具代理能力的開源機器人開發</title>
@@ -1689,15 +1698,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
-    </item>
-    <item>
-      <title>Apple 宣布歐盟地區 App 的變更</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天宣布，隨著與歐盟執委會的密切合作，將調整其在歐盟地區 App 的商業條款。</description>
     </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
