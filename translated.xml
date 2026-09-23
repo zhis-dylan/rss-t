@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 23:28:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 23:43:39 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>Meta 推出無相機 AI 眼鏡</title>
+      <link>https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168626</guid>
+      <pubDate>Wed, 23 Sep 2026 23:39:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 表示，這款無相機眼鏡會更輕，而且電池續航力最長可達 12 小時。</description>
+    </item>
+    <item>
+      <title>《Vogue》在 Vogue World 上讓機器人走上伸展台，但大家並不買單</title>
+      <link>https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168578</guid>
+      <pubDate>Wed, 23 Sep 2026 23:33:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>沒有什麼比一個中國機器人在《L'Amour Toujours》配樂下耍套索更能代表義大利工藝了。</description>
     </item>
     <item>
       <title>Anthropic 表示其生物實驗室已經有重大發現</title>
@@ -298,24 +316,6 @@
       <description>StrictlyVC 將加入 TechCrunch Disrupt 2026，討論 AI 帶來的 VC 版圖變化。取得你的 Investor Pass，參加這場獨家場次。9 月 25 日晚上 11:59（PT）前可省下 200 美元。</description>
     </item>
     <item>
-      <title>YouTube 將讓你用 AI 打造自己的演算法</title>
-      <link>https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168131</guid>
-      <pubDate>Wed, 23 Sep 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>YouTube 的新自訂動態讓使用者可以用自己的話描述想看的影片，接著用 Gemini 依照這個需求打造個人化動態。</description>
-    </item>
-    <item>
-      <title>YouTube 透過 AI 驅動的「Ask YouTube」功能加碼影片購物</title>
-      <link>https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168152</guid>
-      <pubDate>Wed, 23 Sep 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>YouTube 的 AI 功能現在可以在你購物時幫你比較商品。</description>
-    </item>
-    <item>
       <title>OpenAI 將網路存取延伸至烏克蘭以供民防使用</title>
       <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
       <guid isPermaLink="false">https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</guid>
@@ -350,6 +350,32 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>推出 Meta VR 眼鏡：僅 100 公克就能擁有電影院、場邊座位和工作空間</title>
+      <link>https://about.fb.com/news/2026/09/introducing-meta-vr-glasses-3d-movies-immersive-live-sports-100-grams/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50306</guid>
+      <pubDate>Wed, 23 Sep 2026 11:42:46 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>我們正在推出 Meta VR 眼鏡：為虛擬實境開啟全新時代，這是一副你可以舒適佩戴數小時的眼鏡。
+〈推出 Meta VR 眼鏡：僅 100 公克就能擁有電影院、場邊座位和工作空間〉首次出現在 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/01_VRGlasses_Inline_CloseUp.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/01_VRGlasses_Inline_CloseUp.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/01_VRGlasses_Inline_CloseUp.jpg" alt=""></p><p>我們正在推出 Meta VR 眼鏡：為虛擬實境開啟全新時代，這是一副你可以舒適佩戴數小時的眼鏡。<br>〈推出 Meta VR 眼鏡：僅 100 公克就能擁有電影院、場邊座位和工作空間〉首次出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>推出 Ray-Ban Meta Audio 與更多 AI 眼鏡款式</title>
+      <link>https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50267</guid>
+      <pubDate>Wed, 23 Sep 2026 11:36:25 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>今天在 Connect 活動上，我們推出了 Ray-Ban Meta Audio，我們首款音訊眼鏡，也是我們有史以來最大規模的 AI 眼鏡擴展。
+〈推出 Ray-Ban Meta Audio 與更多 AI 眼鏡款式〉首次出現在 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Ray-Ban-Meta-Audio-and-More-AI-Glasses-Styles_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Ray-Ban-Meta-Audio-and-More-AI-Glasses-Styles_Header.jpg?fit=1920%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Ray-Ban-Meta-Audio-and-More-AI-Glasses-Styles_Header.jpg?fit=1920%2C1080" alt=""></p><p>今天在 Connect 活動上，我們推出了 Ray-Ban Meta Audio，我們首款音訊眼鏡，也是我們有史以來最大規模的 AI 眼鏡擴展。<br>〈推出 Ray-Ban Meta Audio 與更多 AI 眼鏡款式〉首次出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1292,19 +1318,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <description>認識 GPT-6 Astra，OpenAI 最強大的商務模型，具備進階推理、電腦使用能力，以及更強的寫作與設計判斷力。</description>
     </item>
     <item>
-      <title>介紹 Muse：全球首款專為所有人打造的個人 AI 代理</title>
-      <link>https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50106</guid>
-      <pubDate>Tue, 08 Sep 2026 19:00:51 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>Muse 是一款安全、私密的個人 AI 代理，能主動幫助人們達成目標並提出想法。
-〈介紹 Muse：全球首款專為所有人打造的個人 AI 代理〉一文首先出現在 Meta 新聞編輯室。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_Thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_Thumbnail.jpg?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Muse_-Personal-AI-Agent_Thumbnail.jpg?fit=890%2C501" alt=""></p><p>Muse 是一款安全、私密的個人 AI 代理，能主動幫助人們達成目標並提出想法。<br>〈介紹 Muse：全球首款專為所有人打造的個人 AI 代理〉一文首先出現在 Meta 新聞編輯室。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>GPT-5.6 Sol 如何協助執行量子運算實驗</title>
       <link>https://openai.com/index/codex-quantum-computing-experiments</link>
       <guid isPermaLink="false">https://openai.com/index/codex-quantum-computing-experiments</guid>
@@ -1411,19 +1424,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出 Daybreak for Frontline Defenders。這筆 10 億美元的承諾將擴大前沿網路安全 AI、訓練與支援的取得，協助關鍵服務。</description>
-    </item>
-    <item>
-      <title>在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單</title>
-      <link>https://about.fb.com/news/2026/09/launching-bill-payments-in-india-helping-people-to-pay-everyday-household-bills-directly-on-whatsapp/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50094</guid>
-      <pubDate>Thu, 03 Sep 2026 12:13:48 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。
-這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" medium="image" type="image/png"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Image.png?fit=1954%2C826" alt=""></p><p>我們正在印度推出帳單付款，讓人們更容易在 WhatsApp 內直接查找、管理並支付日常家庭與公用事業帳單。<br>這篇〈在印度推出帳單付款，協助人們直接在 WhatsApp 上支付日常家庭帳單〉最初刊登於 Meta 新聞室。</p>]]></content:encoded>
     </item>
     <item>
       <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
