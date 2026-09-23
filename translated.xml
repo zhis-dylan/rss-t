@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 16:39:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:54:20 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>即使每天使用 AI 的美國人也對它感到擔憂</title>
+      <link>https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168123</guid>
+      <pubDate>Wed, 23 Sep 2026 16:49:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這份報告顯示，更高的接觸程度不會消除人們對這項技術的不安，也不會降低大眾對 AI 監管的支持。</description>
     </item>
     <item>
       <title>YouTube 讓留言更有趣，也讓粉絲熱情更能為創作者帶來收益</title>
@@ -373,15 +382,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>小規模農民在全球超過 5 億個農場中生產了近 35% 的糧食，但他們往往無法取得衛星資料、金融服務，以及……</description>
-    </item>
-    <item>
-      <title>TechCrunch Founder Summit 議程公布：11 月 4 日在波士頓解鎖募資、招募與 AI 洞見</title>
-      <link>https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167417</guid>
-      <pubDate>Tue, 22 Sep 2026 23:21:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>創辦人不應該非得用最難的方式去學最難的教訓。TechCrunch Founder Summit 的設計宗旨，是讓創業的挑戰更容易一些，並讓高峰時刻更加令人振奮。</description>
     </item>
     <item>
       <title>GPT-6 的更佳提示快取</title>
