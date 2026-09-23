@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:53:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 16:08:52 GMT</lastBuildDate>
+    <item>
+      <title>YouTube 讓留言更有趣，也讓粉絲熱情更能為創作者帶來收益</title>
+      <link>https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168207</guid>
+      <pubDate>Wed, 23 Sep 2026 16:03:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>YouTube 正在推出 GIF 回覆、由語音驅動的電視留言、個人化審核、付費會員專屬社群，以及讓粉絲支持最喜愛創作者的新方式。</description>
+    </item>
     <item>
       <title>OpenAI Academy 兩週年</title>
       <link>https://openai.com/index/two-years-of-openai-academy</link>
@@ -14,6 +23,42 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>慶祝 OpenAI Academy 滿兩週年，並將 AI 技能帶給更多社群。</description>
+    </item>
+    <item>
+      <title>由業界創作者打造的 6 個 Google Flow 新工具</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>探索 Google Flow 中由創作者為創作者打造的 6 個新工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp" alt=""></p><p>探索 Google Flow 中由創作者為創作者打造的 6 個新工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>新一波連結應用程式正在推向 Gemini。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 正在新增連結應用程式，包括 Adobe、Airtable、Linear、Peloton 等，幫助你更輕鬆處理待辦事項。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp" alt=""></p><p>Gemini 正在新增連結應用程式，包括 Adobe、Airtable、Linear、Peloton 等，幫助你更輕鬆處理待辦事項。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>MedGemma 正協助全球醫療照護提供者提供更好的照護</title>
+      <link>https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>醫療保健組織正運用 Google 的技術打造工具，以因應獨特的在地醫療需求。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp" alt=""></p><p>醫療保健組織正運用 Google 的技術打造工具，以因應獨特的在地醫療需求。</p>]]></content:encoded>
     </item>
     <item>
       <title>YouTube 的對話式影片編輯工具讓創作者能用自然語言進行編輯</title>
@@ -328,15 +373,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>創辦人不應該非得用最難的方式去學最難的教訓。TechCrunch Founder Summit 的設計宗旨，是讓創業的挑戰更容易一些，並讓高峰時刻更加令人振奮。</description>
-    </item>
-    <item>
-      <title>Snorkel AI 估值翻三倍至 35 億美元，因 AI 訓練資料需求激增</title>
-      <link>https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167901</guid>
-      <pubDate>Tue, 22 Sep 2026 21:56:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家成立七年的新創公司已募得 3.5 億美元的 E 輪融資，以推動其資料即服務的做法。</description>
     </item>
     <item>
       <title>GPT-6 的更佳提示快取</title>
@@ -719,30 +755,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <description>Cooley 運用 ChatGPT Work 打造 GO Public，將智慧帶入 IPO 流程，協助律師更早發現問題，並把判斷力聚焦在最重要的地方。</description>
     </item>
     <item>
-      <title>在 Waze 上開車暢遊「Forgotten Island」。</title>
-      <link>https://blog.google/waze/waze-forgotten-island/</link>
-      <guid isPermaLink="false">https://blog.google/waze/waze-forgotten-island/</guid>
-      <pubDate>Thu, 17 Sep 2026 11:28:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>準備好把你的日常通勤變成一場史詩級的島嶼冒險了嗎？Waze 正把你新的導航好夥伴帶到副駕駛座，正好趕上 D… 的發布</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ForgottenIsland-Keyvisual_horiz.max-600x600.format-webp.webp" alt=""></p><p>準備好把你的日常通勤變成一場史詩級的島嶼冒險了嗎？Waze 正把你新的導航好夥伴帶到副駕駛座，正好趕上 D… 的發布</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>協助全球首座大規模、近零排放鋼鐵廠上線</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/google-stegra-green-steel/</guid>
-      <pubDate>Thu, 17 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正與 Stegra 合作，協助其這座首創的近零排放鋼鐵廠上線。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GreenSteel.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 Stegra 合作，協助其這座首創的近零排放鋼鐵廠上線。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>介紹 Astra for Law</title>
       <link>https://openai.com/index/astra-for-law</link>
       <guid isPermaLink="false">https://openai.com/index/astra-for-law</guid>
@@ -791,18 +803,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AARP 正將免費、實作型的 ChatGPT 工作坊帶到美國 10 個城市、共 1,000 位年長者，幫助他們安全地培養實用的 AI 技能。</description>
-    </item>
-    <item>
-      <title>我們正在改善出版者的 Search 個人資料的 3 種新方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/3-new-ways-were-improving-search-profiles-for-publishers/</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Search 個人資料更新可幫助出版者更突顯其內容，並與其受眾建立連結。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Profiles_Blog_Header_v1..max-600x600.format-webp.webp" alt=""></p><p>Search 個人資料更新可幫助出版者更突顯其內容，並與其受眾建立連結。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA Vera Rubin NVL72 在 MLPerf Inference v6.1 首次亮相中展現領先效能</title>
