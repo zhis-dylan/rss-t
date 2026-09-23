@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 22:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 22:27:44 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>Anthropic 表示其生物實驗室已經有重大發現</title>
+      <link>https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168463</guid>
+      <pubDate>Wed, 23 Sep 2026 22:17:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>不過，最大的揭露也許是 Anthropic 並沒有讓 Claude 在其生物實驗室裡失控運作。到目前為止，人類仍然在迴路中。</description>
     </item>
     <item>
       <title>如果 Amazon 不知道如何消除碳排放，那還有誰知道？</title>
@@ -305,15 +314,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>YouTube 的 AI 功能現在可以在你購物時幫你比較商品。</description>
-    </item>
-    <item>
-      <title>這是 Nathan Fielder 的 Elizabeth Holmes 紀錄片預告片，10 月 16 日上映</title>
-      <link>https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168146</guid>
-      <pubDate>Wed, 23 Sep 2026 14:21:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在這條被詛咒的時間線裡，我們獲得了一些如此難以理解的東西，讓我們從未想像過。</description>
     </item>
     <item>
       <title>OpenAI 將網路存取延伸至烏克蘭以供民防使用</title>
