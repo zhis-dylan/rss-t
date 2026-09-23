@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:51:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 13:06:44 GMT</lastBuildDate>
     <item>
       <title>OpenAI 將網路存取延伸至烏克蘭以供民防使用</title>
       <link>https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense</link>
@@ -14,6 +14,33 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
+    </item>
+    <item>
+      <title>Spotify 在美國推出「Taste Profile」，讓你掌握其推薦演算法的主控權</title>
+      <link>https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167528</guid>
+      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Spotify 正在美國向 Premium 用戶推出 Taste Profile，讓聽眾可以看到這個串流平台如何理解他們的品味，並使用自然語言來重塑他們的推薦內容</description>
+    </item>
+    <item>
+      <title>LinkedIn 新增工具以打擊假冒個人檔案和虛假的工作經歷</title>
+      <link>https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167576</guid>
+      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>LinkedIn 正在推出新的驗證工具，讓會員可以為同事的工作經驗背書，並讓公司對那些虛假聲稱受雇於他們的帳號擁有更多控制權。</description>
+    </item>
+    <item>
+      <title>PitPro 的首個換胎機器人在加拿大啟用</title>
+      <link>https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167710</guid>
+      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司表示，其自動化系統可在 15 分鐘內更換四條輪胎。</description>
     </item>
     <item>
       <title>Comma 的免接手駕駛技術在兩起致命車禍後遭調查</title>
@@ -285,33 +312,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <description>在 TechCrunch Disrupt 2026，AI Stage 和 Real World AI Stage 的五場場次將探討 AI 安全，並邀請來自 Anthropic、NVIDIA、AWS、Waabi 等公司的領導者。立即報名，9 月 25 日前可省下最高 200 美元。</description>
     </item>
     <item>
-      <title>AstroForge 正讓 AI 掌舵其下一艘太空船</title>
-      <link>https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167451</guid>
-      <pubDate>Tue, 22 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Autonomy-1 將搭載一個小型、基於 transformer 的 AI 模型，負責掌控一台太空探測器。</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026：Aaron Edsinger 將在舞台上讓 Hello Robot 的 Stretch 4 活起來</title>
-      <link>https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167356</guid>
-      <pubDate>Tue, 22 Sep 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Hello Robot 執行長暨共同創辦人 Aaron Edsinger 將在 TechCrunch Disrupt 2026 的 Real World AI Stage 上，為 Stretch 4 進行現場展示。請在 9 月 25 日前報名，可省下最多 200 美元，此外還可享第二張票 50% 折扣。</description>
-    </item>
-    <item>
-      <title>新增展覽桌：在 TechCrunch Disrupt 2026 展示你的新創公司的最後一次機會</title>
-      <link>https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166965</guid>
-      <pubDate>Tue, 22 Sep 2026 14:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>我們已重新開放展商計畫，延長 1 週。請在 9 月 30 日晚上 11:59（PT）前預訂你的展覽桌，並於 10 月 13 日至 15 日在舊金山 Moscone West，向超過 10,000 名創辦人、投資人和科技領袖展示你的新創公司。</description>
-    </item>
-    <item>
       <title>運用 AI 協助地方政府與選民建立連結</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/</guid>
@@ -322,6 +322,15 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp" alt=""></p><p>我們正在支持 Jigsaw 的協作性 Sensemaking AI 基金，並呼籲全球領導者與我們一同加入。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>全新 Mac mini 和 Mac Studio 今日開賣</title>
+      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
+      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>顧客現在可在 Apple Store 門市、線上，以及 Apple Store app 購買搭載 M6 和 M5 Pro 的 Mac mini，以及搭載 M5 Max 和 M5 Ultra 的 Mac Studio。</description>
     </item>
     <item>
       <title>NVIDIA Isaac ROS 5.0 推進具代理能力的開源機器人開發</title>
@@ -1689,15 +1698,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 啟動一項計畫，透過工具、訓練與專業知識支援政府機構，強化 AI 在國家安全中的民主監督。</description>
-    </item>
-    <item>
-      <title>Apple 宣布歐盟地區 App 的變更</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/</guid>
-      <pubDate>Tue, 18 Aug 2026 15:59:46 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天宣布了其在歐盟地區 App 的商業條款變更，這項變更是在與歐盟執委會密切合作後提出的。</description>
     </item>
     <item>
       <title>與 CodeAI 合作，為第一代 AI 世代做準備</title>
