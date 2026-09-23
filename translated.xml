@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 21:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 21:27:16 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>如果 Amazon 不知道如何消除碳排放，那還有誰知道？</title>
+      <link>https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168477</guid>
+      <pubDate>Wed, 23 Sep 2026 21:21:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 是全球最大的公司之一。它對實現其淨零承諾有多大的責任？</description>
     </item>
     <item>
       <title>創投公司 Bessemer 現在又有 57.5 億美元可投入（還能是什麼？）AI</title>
@@ -305,15 +314,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在這條被詛咒的時間線裡，我們獲得了一些如此難以理解的東西，讓我們從未想像過。</description>
-    </item>
-    <item>
-      <title>距離在 TechCrunch Disrupt 2026 省下最多 200 美元並建立有影響力的連結只剩 3 天</title>
-      <link>https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168018</guid>
-      <pubDate>Wed, 23 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>距離在你的 TechCrunch Disrupt 2026 門票上省下最多 200 美元還有 3 天，第二張還可享 5 折。與 10,000 多位科技領袖建立有影響力的連結。最後一天優惠截止時間是 9 月 25 日晚上 11:59（PT）。在此註冊。</description>
     </item>
     <item>
       <title>OpenAI 將網路存取延伸至烏克蘭以供民防使用</title>
