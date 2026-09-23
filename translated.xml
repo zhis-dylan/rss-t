@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:54:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 18:10:05 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -16,13 +16,37 @@
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
     </item>
     <item>
-      <title>舊有的資安模型正在崩壞</title>
-      <link>https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3168384</guid>
-      <pubDate>Wed, 23 Sep 2026 17:44:02 GMT</pubDate>
+      <title>Disney+ 和 Hulu 加入不斷上升的串流漲價趨勢</title>
+      <link>https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168365</guid>
+      <pubDate>Wed, 23 Sep 2026 18:06:27 GMT</pubDate>
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>隨著外界對 AI 安全與失控代理人（rogue agents）的擔憂持續登上新聞版面，資安類股上漲，或投資人正把大量資金投入試圖為 AI 原生世界打造下一代安全防護的新創公司，也就不足為奇了。我們甚至看到像 Instinct 和 Simile 這類公司拿到九位數的支票與估值，而這在過去根本說不通……</description>
+      <description>Disney 正在調漲 Disney+ 和 Hulu 的價格，因為整個產業的串流成本持續上升。</description>
+    </item>
+    <item>
+      <title>Google Beam 擴展至新地區、合作夥伴與客戶</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-expansion/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/google-beam-expansion/</guid>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正將 Google Beam 擴展到五個新國家，並與 Industrious 合作，建立更廣泛的網路。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正將 Google Beam 擴展到五個新國家，並與 Industrious 合作，建立更廣泛的網路。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Android Enterprise 進化的 6 種方式，因應現代工作團隊</title>
+      <link>https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/android-enterprise/whats-new-android-enterprise-2026/</guid>
+      <pubDate>Wed, 23 Sep 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Android Enterprise 的最新更新，旨在協助 IT 團隊保護公司資料，同時也讓員工有空間進行創新。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WNIAEheader.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WNIAEheader.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WNIAEheader.max-600x600.format-webp.webp" alt=""></p><p>Android Enterprise 的最新更新，旨在協助 IT 團隊保護公司資料，同時也讓員工有空間進行創新。</p>]]></content:encoded>
     </item>
     <item>
       <title>Zoox 在員工回報有毒氣體暴露症狀後，停飛亞特蘭大測試車隊</title>
@@ -32,6 +56,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家亞馬遜旗下公司在一名員工提交 OSHA 投訴後展開調查。</description>
+    </item>
+    <item>
+      <title>ChatGPT 行動應用程式新增語音代理功能</title>
+      <link>https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168173</guid>
+      <pubDate>Wed, 23 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Pro 和 Plus 用戶將能在手機上使用 Work 分頁來完成代理任務。</description>
     </item>
     <item>
       <title>即使每天使用 AI 的美國人也對它感到擔憂</title>
@@ -278,24 +311,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家新創公司表示，其自動化系統可在 15 分鐘內更換四條輪胎。</description>
-    </item>
-    <item>
-      <title>Comma 的免接手駕駛技術在兩起致命車禍後遭調查</title>
-      <link>https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168035</guid>
-      <pubDate>Wed, 23 Sep 2026 12:12:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項調查涉及至少部分事故，據稱當時駕駛人使用的是 Comma 軟體的「fork」版本。</description>
-    </item>
-    <item>
-      <title>Ema 募得 7,700 萬美元，因為 AI 開始侵蝕企業軟體與服務</title>
-      <link>https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167529</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ema 至今已募得 1.4 億美元，並擁有超過 50 家企業客戶，包括 Google 和 Microsoft。</description>
     </item>
     <item>
       <title>我們正將 AI Brief 擴展到更多語言，並新增一項 AI Max 報表功能。</title>
@@ -707,30 +722,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>9 月 18 日星期五，全球各地的 Apple Store 門市向顧客介紹 iPhone 18 Pro 產品陣容、Apple Watch Series 12、Apple Watch Ultra 4 和 AirPods 5。</description>
-    </item>
-    <item>
-      <title>讓全球資料更容易探索</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/</guid>
-      <pubDate>Thu, 17 Sep 2026 20:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 和聯合國系統已推出 UN System Data Commons，這個新的開放平台讓全球統計資料更容易存取，也更容易搜尋。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/data-commons.max-600x600.format-webp.webp" alt=""></p><p>Google 和聯合國系統已推出 UN System Data Commons，這個新的開放平台讓全球統計資料更容易存取，也更容易搜尋。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>全新的 CC，一款為家庭打造的 AI 代理</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/cc-expanding-to-groups/</guid>
-      <pubDate>Thu, 17 Sep 2026 18:15:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Labs 正在將 CC 擴展到群組，先從家庭和家戶開始，讓他們能把更少時間花在後勤安排上。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CC_hero.max-600x600.format-webp.webp" alt=""></p><p>Google Labs 正在將 CC 擴展到群組，先從家庭和家戶開始，讓他們能把更少時間花在後勤安排上。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
