@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 14:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 14:52:59 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI Academy 兩週年</title>
+      <link>https://openai.com/index/two-years-of-openai-academy</link>
+      <guid isPermaLink="false">https://openai.com/index/two-years-of-openai-academy</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>慶祝 OpenAI Academy 滿兩週年，並將 AI 技能帶給更多社群。</description>
+    </item>
+    <item>
+      <title>我們在這個西語裔傳統月致敬拉丁美洲文化。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/hispanic-heritage-month-2026/</guid>
+      <pubDate>Wed, 23 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過 Google 的拉丁流行風塗鴉和精選的 Google TV 合集，一起慶祝西語裔傳統月。看看我們今天如何致敬拉丁美洲文化。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif" medium="image" type="image/gif" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif" alt=""></p><p>透過 Google 的拉丁流行風塗鴉和精選的 Google TV 合集，一起慶祝西語裔傳統月。看看我們今天如何致敬拉丁美洲文化。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Eight Sleep 的新 Pod 6 推出更小與單人尺寸，售價自 1,999 美元起</title>
+      <link>https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166881</guid>
+      <pubDate>Wed, 23 Sep 2026 14:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Eight Sleep 表示新款 pod 的速度比前一代快 20%</description>
+    </item>
     <item>
       <title>這是 Made On YouTube 2026 公布的內容。</title>
       <link>https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/</link>
@@ -292,15 +322,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 可能正在開發一款新的健身追蹤器，作為其新一代硬體裝置的一部分。</description>
-    </item>
-    <item>
-      <title>Meta 承認 Muse 與 OpenClaw 的相似並非巧合</title>
-      <link>https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167713</guid>
-      <pubDate>Tue, 22 Sep 2026 19:09:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 表示 Muse 是從零開始打造的，但也承認這個 AI 助理「大量受到」OpenClaw 啟發——連部分工作區檔名和內容都一樣。</description>
     </item>
     <item>
       <title>介紹 GPT-6 Sol 和 Luna</title>
@@ -782,18 +803,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540" alt=""></p><p>系統效能、有效率的基礎架構擴充，以及持續的軟體最佳化，是決定 AI 推論經濟效益的關鍵槓桿。更高的系統效能代表可產生更多 token，進而帶來更高營收。有效率的擴充代表隨著硬體增加，吞吐量也能按比例成長，以較少資源大規模服務使用者。持續最佳化則代表能從基礎架構投資中創造更多價值。 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>關於青少年對 AI 看法，今天你該知道的 5 件事</title>
-      <link>https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/families/teens-ai-research-findings/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們與 RXN Group 的研究發現顯示，青少年對 AI 有經過思考，也充滿好奇。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teens_views_on_AI_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teens_views_on_AI_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Teens_views_on_AI_hero.max-600x600.format-webp.webp" alt=""></p><p>我們與 RXN Group 的研究發現顯示，青少年對 AI 有經過思考，也充滿好奇。</p>]]></content:encoded>
     </item>
     <item>
       <title>Threads 為創作者和聽眾擴充 Podcast 工具組</title>
@@ -1914,15 +1923,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享 Astra 的初步資安評估，以及我們為強化保障措施和安全控管所採取的步驟。</description>
-    </item>
-    <item>
-      <title>HSP GRUPPE 如何打造 AI 能力以支援稅務諮詢</title>
-      <link>https://openai.com/index/hsp-gruppe</link>
-      <guid isPermaLink="false">https://openai.com/index/hsp-gruppe</guid>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 HSP GRUPPE 如何使用 ChatGPT Enterprise 提升生產力、改善工作品質，並為稅務諮詢與客戶服務創造更多人力容量。</description>
     </item>
     <item>
       <title>將前沿資安模型交到更值得信任的人手中</title>
