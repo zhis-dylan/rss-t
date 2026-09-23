@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 17:39:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 17:54:51 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>舊有的資安模型正在崩壞</title>
+      <link>https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3168384</guid>
+      <pubDate>Wed, 23 Sep 2026 17:44:02 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著外界對 AI 安全與失控代理人（rogue agents）的擔憂持續登上新聞版面，資安類股上漲，或投資人正把大量資金投入試圖為 AI 原生世界打造下一代安全防護的新創公司，也就不足為奇了。我們甚至看到像 Instinct 和 Simile 這類公司拿到九位數的支票與估值，而這在過去根本說不通……</description>
     </item>
     <item>
       <title>Zoox 在員工回報有毒氣體暴露症狀後，停飛亞特蘭大測試車隊</title>
@@ -299,15 +308,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMax_morelanguages_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMax_morelanguages_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMax_morelanguages_social.max-600x600.format-webp.webp" alt=""></p><p>我們透過新增一項報表功能，並將 AI Brief 擴展到更多語言，讓製作出色的 AI Max 活動更加容易。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>「我們其實已經在打昨天的仗」：希臘總理坦率談 AI</title>
-      <link>https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167972</guid>
-      <pubDate>Wed, 23 Sep 2026 04:59:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>多數率團出訪的領袖都只會照著宣傳稿講，但我本週採訪希臘總理 Kyriakos Mitsotakis 時，他也坦言，沒有任何政府已經準備好應對 AI 接下來要帶來的影響。</description>
     </item>
     <item>
       <title>在 AI Day Singapore，NVIDIA 與合作夥伴展示東南亞各地的 AI 進展</title>
