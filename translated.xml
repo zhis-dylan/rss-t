@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 15:08:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:23:19 GMT</lastBuildDate>
     <item>
       <title>OpenAI Academy 兩週年</title>
       <link>https://openai.com/index/two-years-of-openai-academy</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>慶祝 OpenAI Academy 滿兩週年，並將 AI 技能帶給更多社群。</description>
+    </item>
+    <item>
+      <title>YouTube Music 透過新的 AI 功能變得更會對話</title>
+      <link>https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168211</guid>
+      <pubDate>Wed, 23 Sep 2026 15:19:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>YouTube 正在為 YouTube Music 加入新的 AI 驅動功能，目標是讓聽眾更容易發掘音樂、探索藝人，以及找到他們可能原本會錯過的 Podcast。這些更新在今年的 Made On YouTube 活動中公布，包括「Ask Music」，一個用於音樂和 Podcast 的對話工具，以及「Your Podcast Lineup」，一個個人化的 […]</description>
     </item>
     <item>
       <title>Sakeena Fiza 協助 NVIDIA 硬體在大規模部署下成功</title>
@@ -325,15 +334,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>高通表示，其新的頂級晶片可在本地執行 300 億參數的 mixture-of-expert 模型</description>
-    </item>
-    <item>
-      <title>Apple 可能會推出新的健身追蹤器，與 Whoop 一較高下，報導指出</title>
-      <link>https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167744</guid>
-      <pubDate>Tue, 22 Sep 2026 19:27:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 可能正在開發一款新的健身追蹤器，作為其新一代硬體裝置的一部分。</description>
     </item>
     <item>
       <title>介紹 GPT-6 Sol 和 Luna</title>
