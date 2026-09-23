@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 23 Sep 2026 20:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 20:41:48 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>創投公司 Bessemer 現在又有 57.5 億美元可投入（還能是什麼？）AI</title>
+      <link>https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168347</guid>
+      <pubDate>Wed, 23 Sep 2026 20:35:17 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家創投公司表示，AI 原生公司成長速度比以往任何技術都更快。</description>
     </item>
     <item>
       <title>Enveda 募得 3.11 億美元，將更多源自自然的 AI 藥物推進臨床試驗</title>
@@ -314,15 +323,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
-    </item>
-    <item>
-      <title>Spotify 在美國推出「Taste Profile」，讓你掌握其推薦演算法的主控權</title>
-      <link>https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167528</guid>
-      <pubDate>Wed, 23 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Spotify 正在美國向 Premium 用戶推出 Taste Profile，讓聽眾可以看到這個串流平台如何理解他們的品味，並使用自然語言來重塑他們的推薦內容</description>
     </item>
     <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
