@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 12:49:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:04:38 GMT</lastBuildDate>
+    <item>
+      <title>澳洲將調查 OpenAI 入侵政府健康網站是否違法</title>
+      <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168743</guid>
+      <pubDate>Thu, 24 Sep 2026 12:54:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這起事件是已知首宗影響政府機關的入侵事件，澳洲總理已誓言要讓 OpenAI 負起責任。</description>
+    </item>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -317,15 +326,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp" alt=""></p><p>YouTube 推出更新，讓這個平台更聰明、更個人化，也更容易瀏覽。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>YouTube 在其 Studio 應用程式中推出新的 AI 功能</title>
-      <link>https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167584</guid>
-      <pubDate>Wed, 23 Sep 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>YouTube 正在新增功能，以產生靈感並監控縮圖的表現。</description>
     </item>
     <item>
       <title>OpenAI 將網路存取延伸至烏克蘭以供民防使用</title>
