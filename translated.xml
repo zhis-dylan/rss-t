@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 02:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 03:00:22 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -422,6 +422,15 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2" alt=""></p><p>NVIDIA AI Day Singapore 將於 9 月 22 日至 23 日在萊佛士城會議中心舉行，為與會者提供體驗實作培訓、專家主導場次以及先進工具的機會，以加速他們在 AI 與高效能運算方面的工作。在活動中，NVIDIA 與其合作夥伴正展示東南亞地區具突破性的 AI 進展 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>ChatGPT Ads 擴展至東南亞與台灣</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan</guid>
+      <pubDate>Wed, 23 Sep 2026 02:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT Ads 正在擴展至東南亞與台灣，為符合資格的企業提供新的方式，觸及 60 多個國家的人們。</description>
     </item>
     <item>
       <title>Meta 與新加坡警察部隊合作，採取行動處理 370 萬個帳號、粉絲專頁與內容</title>
@@ -1592,15 +1601,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -1608,6 +1608,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1880,15 +1889,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>了解 RingCentral 如何運用 ChatGPT 工作與 Codex，加速 AI 產品開發，並將營運智慧集中於工程與營運之間。</description>
     </item>
     <item>
-      <title>在 ChatGPT 中測試廣告</title>
-      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
-      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
-      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
-    </item>
-    <item>
       <title>Daybreak 模型現已在 AWS 上提供</title>
       <link>https://openai.com/index/daybreak-models-are-now-available-on-aws</link>
       <guid isPermaLink="false">https://openai.com/index/daybreak-models-are-now-available-on-aws</guid>
@@ -1898,13 +1898,13 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 和 AWS 正透過 Amazon Bedrock 提供 Daybreak 資安功能，以支援企業安全工作流程。</description>
     </item>
     <item>
-      <title>打造 AI 原生財務部門教會了我什麼</title>
-      <link>https://openai.com/index/building-an-ai-native-finance-function</link>
-      <guid isPermaLink="false">https://openai.com/index/building-an-ai-native-finance-function</guid>
-      <pubDate>Mon, 10 Aug 2026 17:00:00 GMT</pubDate>
+      <title>在 ChatGPT 中測試廣告</title>
+      <link>https://openai.com/index/testing-ads-in-chatgpt</link>
+      <guid isPermaLink="false">https://openai.com/index/testing-ads-in-chatgpt</guid>
+      <pubDate>Tue, 11 Aug 2026 10:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 財務長 Sarah Friar 分享打造 AI 原生財務部門的五項心得，從自動化預測到更強健的控管，以及 AI 投資報酬率。</description>
+      <description>OpenAI 開始在 ChatGPT 中測試廣告，以支持免費使用，並具備清楚標示、回答獨立性、強力隱私保護與使用者控制。</description>
     </item>
     <item>
       <title>OpenAI 致艾伯特州長關於德州負責任 AI 基礎設施的信</title>
