@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:35:40 GMT</lastBuildDate>
+    <item>
+      <title>Ando 想用一款讓人類和代理一起協作的團隊訊息應用程式挑戰 Slack</title>
+      <link>https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168786</guid>
+      <pubDate>Thu, 24 Sep 2026 14:31:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ando 已從包括 Accel、Index Ventures 和 Emergence 在內的投資人募得 2000 萬美元的 pre-seed 和 seed 融資。</description>
+    </item>
+    <item>
+      <title>TechCrunch Disrupt 2026：Cal AI 的 Zach Yadegari 分享如何創造病毒式成長並加以把握</title>
+      <link>https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168701</guid>
+      <pubDate>Thu, 24 Sep 2026 14:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Zach Yadegari 將登上 TechCrunch Disrupt 2026 的 Builders Stage，分享他如何把握病毒式成長。9 月 25 日前最高可省下 200 美元。第二張票可享 5 折。</description>
+    </item>
     <item>
       <title>開放科學如何幫助研究人員為下一場大流行做好準備</title>
       <link>https://blogs.nvidia.com/blog/open-protein-dataset/</link>
@@ -308,24 +326,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp" alt=""></p><p>醫療保健組織正運用 Google 的技術打造工具，以因應獨特的在地醫療需求。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>YouTube 的對話式影片編輯工具讓創作者能用自然語言進行編輯</title>
-      <link>https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168202</guid>
-      <pubDate>Wed, 23 Sep 2026 15:46:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>創作者將能在對話式聊天介面中使用 AI，協助他們編輯影片。</description>
-    </item>
-    <item>
-      <title>YouTube Music 透過新的 AI 功能變得更會對話</title>
-      <link>https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168211</guid>
-      <pubDate>Wed, 23 Sep 2026 15:19:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>YouTube 正在為 YouTube Music 加入新的 AI 驅動功能，目標是讓聽眾更容易發掘音樂、探索藝人，以及找到他們可能原本會錯過的 Podcast。這些更新在今年的 Made On YouTube 活動中公布，包括「Ask Music」，一個用於音樂和 Podcast 的對話工具，以及「Your Podcast Lineup」，一個個人化的 […]</description>
     </item>
     <item>
       <title>Gemini 3.8 文字轉語音登場</title>
