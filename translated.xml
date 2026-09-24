@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 18:38:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 18:53:15 GMT</lastBuildDate>
+    <item>
+      <title>認識 Feather，這家為開發者打造「機器人界 Android」的新創公司</title>
+      <link>https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169157</guid>
+      <pubDate>Thu, 24 Sep 2026 18:52:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Feather 正在押注一個可客製化、售價 30,000 美元的平台，專為軟體開發者打造。</description>
+    </item>
     <item>
       <title>Oracle 就其新墨西哥州 Stargate 資料中心發出不可抗力通知</title>
       <link>https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/</link>
@@ -305,15 +314,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>沒有什麼比一個中國機器人在《L'Amour Toujours》配樂下耍套索更能代表義大利工藝了。</description>
-    </item>
-    <item>
-      <title>Anthropic 表示其生物實驗室已經有重大發現</title>
-      <link>https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168463</guid>
-      <pubDate>Wed, 23 Sep 2026 22:17:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>不過，最大的揭露也許是 Anthropic 並沒有讓 Claude 在其生物實驗室裡失控運作。到目前為止，人類仍然在迴路中。</description>
     </item>
     <item>
       <title>任何人都能用 Google Vids 中的 Gemini Omni 製作令人驚豔的 HD 影片</title>
