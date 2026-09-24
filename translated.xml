@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 23:10:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 23:25:30 GMT</lastBuildDate>
+    <item>
+      <title>Waymo 正在快速擴張。以下是車隊數據顯示的內容。</title>
+      <link>https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169174</guid>
+      <pubDate>Thu, 24 Sep 2026 23:24:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在過去一個月，Waymo 在德州的車隊規模擴大了 49%。其他地區也有熱點。</description>
+    </item>
     <item>
       <title>Connect 2026 的最大消息</title>
       <link>https://about.fb.com/news/2026/09/the-biggest-news-from-connect-2026/</link>
@@ -318,15 +327,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>執行長 Mark Zuckerberg 週三在門洛帕克揭開公司年度 Connect 活動序幕，並以主題演講明確傳達一件事：Meta 全力押注 Muse。它甚至也會登上 Meta 的 AI 眼鏡。</description>
-    </item>
-    <item>
-      <title>Meta 為其 Muse AI 代理打造了一款類似電子雞的穿戴裝置</title>
-      <link>https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168692</guid>
-      <pubDate>Thu, 24 Sep 2026 00:46:17 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款小型硬體裝置為其 AI 代理 Muse 創造了另一個可攜式主場。</description>
     </item>
     <item>
       <title>任何人都能用 Google Vids 中的 Gemini Omni 製作令人驚豔的 HD 影片</title>
