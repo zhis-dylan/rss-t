@@ -5,7 +5,52 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:52:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 17:07:14 GMT</lastBuildDate>
+    <item>
+      <title>用 Chrome 升級你學習習慣的 5 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>從管理複雜的研究專案到盡量減少數位干擾，Chrome 有你這學年成功所需的工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp" alt=""></p><p>從管理複雜的研究專案到盡量減少數位干擾，Chrome 有你這學年成功所需的工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>5 項 Google 相簿更新，幫你充分珍藏夏日回憶。</title>
+      <link>https://blog.google/products-and-platforms/products/photos/google-photos-updates/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/photos/google-photos-updates/</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 相簿中的五項更新，將幫助你充分珍藏你的夏日回憶。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp" alt=""></p><p>Google 相簿中的五項更新，將幫助你充分珍藏你的夏日回憶。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們新的健康與安全工具已在 Google Health 應用程式上線。</title>
+      <link>https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 相簿受《獨領風騷》啟發的虛擬衣櫥現已可在 Android 和 iOS 上使用</title>
+      <link>https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168895</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項由 AI 驅動的功能會根據你的照片建立虛擬衣櫃，在 6 月先向 Android 使用者推出後，現在已廣泛開放。</description>
+    </item>
     <item>
       <title>TechCrunch Founder Summit 2026：你需要知道的一切</title>
       <link>https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
@@ -269,15 +314,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這輪融資讓這家 AI 生技公司估值達 20 億美元。它目前正在測試用於治療皮膚疾病，以及在停用 GLP-1 後維持減重效果的藥物。</description>
-    </item>
-    <item>
-      <title>Modal Motors 正試圖讓中國徹底退出電動馬達供應鏈</title>
-      <link>https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167026</guid>
-      <pubDate>Wed, 23 Sep 2026 19:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創公司正在研發小型、輕量、且不含稀土磁鐵的馬達，適用於無人機、風扇和機器人。</description>
     </item>
     <item>
       <title>任何人都能用 Google Vids 中的 Gemini Omni 製作令人驚豔的 HD 影片</title>
@@ -627,18 +663,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp" alt=""></p><p>Google 透過 AI Skills Coalition 向國際電信聯盟（ITU）提供 100,000 份獎學金。</p>]]></content:encoded>
     </item>
     <item>
-      <title>運用 AI 協助地方政府與選民建立連結</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/sensemaking-ai/</guid>
-      <pubDate>Tue, 22 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在支持 Jigsaw 的協作性 Sensemaking AI 基金，並呼籲全球領導者與我們一同加入。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Jigsaw_x_Dotorg_Sensemaking_Blo.max-600x600.format-webp.webp" alt=""></p><p>我們正在支持 Jigsaw 的協作性 Sensemaking AI 基金，並呼籲全球領導者與我們一同加入。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>全新的 Mac mini 和 Mac Studio 今日開賣</title>
       <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
@@ -723,18 +747,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2" alt=""></p><p>今天，埃及的 AI 建構者齊聚大埃及博物館參加一場招待會，聚焦這個國家快速成長的 AI 生態系——涵蓋 AI 原生團隊、開發者、研究人員、新創公司與企業——正在各產業打造應用程式。活動包括 NVIDIA 歐洲、中東及非洲地區副總裁 Paolo Guglielmini 的主題演講。區域 AI 採用負責人 Ahmed Mostafa […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>擴大為教育工作者提供免費 AI 訓練</title>
-      <link>https://blog.google/products-and-platforms/products/education/digital-promise/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/digital-promise/</guid>
-      <pubDate>Mon, 21 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在紐約市舉行的聯合國大會上，Google.org 承諾捐助 400 萬美元給 Digital Promise，協助為教師和教職員提供免費、實用的 A…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/28525___EDNA_Blog_header_01.max-600x600.format-webp.webp" alt=""></p><p>在紐約市舉行的聯合國大會上，Google.org 承諾捐助 400 萬美元給 Digital Promise，協助為教師和教職員提供免費、實用的 A…</p>]]></content:encoded>
-    </item>
-    <item>
       <title>AI 安全是個工程問題——如何在代理堆疊的每一層解決它</title>
       <link>https://blogs.nvidia.com/blog/ai-security-agent-stack/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-security-agent-stack/</guid>
@@ -745,18 +757,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924" alt=""></p><p>AI 安全是一個工程問題。這代表明確的安全需求、可執行的控制措施、指定的負責人，以及證明防護有效的證據。隨著 AI 變得更有能力，業界必須加速安全工程、擴大防禦工具的可用性，並更快分享有效的方法。技術改變，安全基本原則依然不變 網際網路和雲端運算改變了軟體的運作方式，[…]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>頂級材質與醒目設計，讓 Googlebook 脫穎而出</title>
-      <link>https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/first-look-googlebook/</guid>
-      <pubDate>Mon, 21 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>探索多樣化的 Googlebook 裝置系列，具備驚豔螢幕、先進處理器與頂級設計。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/30_Googlebook_lineup_video_ALT_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/30_Googlebook_lineup_video_ALT_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/30_Googlebook_lineup_video_ALT_.max-600x600.format-webp.webp" alt=""></p><p>探索多樣化的 Googlebook 裝置系列，具備驚豔螢幕、先進處理器與頂級設計。</p>]]></content:encoded>
     </item>
     <item>
       <title>宣布 Petal：首創的跨洋海底電纜</title>
