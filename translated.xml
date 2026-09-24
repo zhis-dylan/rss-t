@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:20:29 GMT</lastBuildDate>
+    <item>
+      <title>開放科學如何幫助研究人員為下一場大流行做好準備</title>
+      <link>https://blogs.nvidia.com/blog/open-protein-dataset/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-protein-dataset/</guid>
+      <pubDate>Thu, 24 Sep 2026 14:00:50 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>當 COVID-19 出現時，科學家擁有一項關鍵優勢：數十年來對冠狀病毒的先前研究，讓他們對這種病毒的關鍵蛋白質有足夠了解，得以在破紀錄的時間內設計出疫苗。下一場大流行可能不會提供同樣的先發優勢。為了提高勝算，NVIDIA 已加入一個全球研究組織聯盟，包括 Google […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/306cbf129044501629326e0a7a1e125d/6ab52d223d63321fe4743d17_AF-0000000212056767-master-black-background-842x450/AF-0000000212056767-master-black-background-842x450_thmb.jpg?v=c4bfe338-2832-4d7f-957b-9d6c1481f447" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/306cbf129044501629326e0a7a1e125d/6ab52d223d63321fe4743d17_AF-0000000212056767-master-black-background-842x450/AF-0000000212056767-master-black-background-842x450_thmb.jpg?v=c4bfe338-2832-4d7f-957b-9d6c1481f447"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/306cbf129044501629326e0a7a1e125d/6ab52d223d63321fe4743d17_AF-0000000212056767-master-black-background-842x450/AF-0000000212056767-master-black-background-842x450_thmb.jpg?v=c4bfe338-2832-4d7f-957b-9d6c1481f447" alt=""></p><p>當 COVID-19 出現時，科學家擁有一項關鍵優勢：數十年來對冠狀病毒的先前研究，讓他們對這種病毒的關鍵蛋白質有足夠了解，得以在破紀錄的時間內設計出疫苗。下一場大流行可能不會提供同樣的先發優勢。為了提高勝算，NVIDIA 已加入一個全球研究組織聯盟，包括 Google […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>距離省下最多 200 美元購買 TechCrunch Disrupt 2026 門票只剩 2 天——參加的 5 大理由之 4</title>
       <link>https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/</link>
@@ -1169,18 +1181,6 @@ Threads 為亞太地區的青少年推出家長監護功能一文最早出現在
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 如何將 Habitat 從 Python 函式庫發展成全球分散式儲存平台，為 10 億名 ChatGPT 使用者與每秒 2200 萬次請求提供服務。</description>
-    </item>
-    <item>
-      <title>Skild AI 運用 NVIDIA 實體 AI，讓機器人從單一影片學會新任務</title>
-      <link>https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/skild-ai-s1-physical-ai/</guid>
-      <pubDate>Thu, 10 Sep 2026 16:30:35 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>製造工廠、倉庫和生產線很少維持不變——任務會改變、配置會調整，新的產品也會到來，而大多數機器人若沒有大幅重新編程，根本跟不上。Skild AI 最新的 S1 機器人基礎模型有助於解決這個問題，專為從單一影片示範中學習先前未見過的長程任務而設計。這個模型上週推出，使用 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/0d4b983fdd40752cc106c1e0499c8b1d/6aa2db623d63325599216289_skildai-kv-1920x1080-1-842x450/skildai-kv-1920x1080-1-842x450_thmb.jpg?v=0ce6de06-b007-49ae-8663-227243db2134" alt=""></p><p>製造工廠、倉庫和生產線很少維持不變——任務會改變、配置會調整，新的產品也會到來，而大多數機器人若沒有大幅重新編程，根本跟不上。Skild AI 最新的 S1 機器人基礎模型有助於解決這個問題，專為從單一影片示範中學習先前未見過的長程任務而設計。這個模型上週推出，使用 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>研究人員如何運用 Codex 和 ChatGPT 搜尋新的抗菌分子</title>
