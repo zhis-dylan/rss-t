@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 00:59:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:14:36 GMT</lastBuildDate>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
       <link>https://openai.com/index/ringg</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
+      <title>Meta 的 AI 代理 Muse 即將迎來的所有新功能</title>
+      <link>https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168527</guid>
+      <pubDate>Thu, 24 Sep 2026 01:13:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>執行長 Mark Zuckerberg 週三在門洛帕克揭開公司年度 Connect 活動序幕，並以主題演講明確傳達一件事：Meta 全力押注 Muse。它甚至也會登上 Meta 的 AI 眼鏡。</description>
     </item>
     <item>
       <title>Meta 為其 Muse AI 代理打造了一款類似電子雞的穿戴裝置</title>
@@ -305,15 +314,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>YouTube 正在新增功能，以產生靈感並監控縮圖的表現。</description>
-    </item>
-    <item>
-      <title>YouTube 新的「Short Series」功能為 Shorts 帶來劇集式觀看</title>
-      <link>https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167804</guid>
-      <pubDate>Wed, 23 Sep 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著微短劇應用程式逐漸受到關注，YouTube 很明顯是在押注劇集式的短篇敘事會持續下去，而這種形式也適合放在 Shorts 上。公司在週三的 Made On YouTube 活動中宣布了「Shorts Series」，這是一個新工具，可讓創作者將他們的 Shorts 整理成電視風格的季與集。這項功能帶來了更……</description>
     </item>
     <item>
       <title>OpenAI 將網路存取延伸至烏克蘭以供民防使用</title>
