@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 24 Sep 2026 16:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:52:01 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch Founder Summit 2026：你需要知道的一切</title>
+      <link>https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168635</guid>
+      <pubDate>Thu, 24 Sep 2026 16:46:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch Founder Summit 是一場於 11 月 4 日在波士頓舉行的全天聚會，來自各個階段的創辦人將在此與頂尖 VC 和經驗豐富的創業家交流，獲得打造與擴張公司所需的實戰洞見。</description>
+    </item>
     <item>
       <title>與 ElevenLabs 執行長的 20 分鐘對談，該公司現在據報估值達 220 億美元</title>
       <link>https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/</link>
@@ -281,15 +290,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_.max-600x600.format-webp.webp" alt=""></p><p>直接在瀏覽器中就能取得高品質影片製作。任何擁有 Google 帳戶的人都可以在 Google Vids 中免費建立影片。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Disney+ 和 Hulu 加入不斷上升的串流漲價趨勢</title>
-      <link>https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168365</guid>
-      <pubDate>Wed, 23 Sep 2026 18:06:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Disney 正在調漲 Disney+ 和 Hulu 的價格，因為整個產業的串流成本持續上升。</description>
     </item>
     <item>
       <title>Google Beam 擴展至更多地區、合作夥伴與客戶</title>
