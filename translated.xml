@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:51:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 23:07:01 GMT</lastBuildDate>
+    <item>
+      <title>Automattic 在試圖讓執行長停職失敗後組成了新董事會</title>
+      <link>https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3163963</guid>
+      <pubDate>Fri, 25 Sep 2026 23:04:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在試圖撤換執行長 Matt Mullenweg 失敗後，Automattic 經歷數天動盪，如今公司已有了新的董事會。</description>
+    </item>
     <item>
       <title>未受保護的 OpenAI agents 在實驗室不知情下將 53 張使用者圖片上傳到網路上</title>
       <link>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>最後 24 小時，您的 TechCrunch Disrupt 2026 門票最高可省 200 美元。讓這場活動讓你的新創事業進展比你剛開始時更向前。別錯過省錢和推動進展的機會。</description>
-    </item>
-    <item>
-      <title>北韓駭客涉嫌犯下 3.51 億美元加密貨幣竊案，為今年至今最大宗</title>
-      <link>https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169533</guid>
-      <pubDate>Fri, 25 Sep 2026 13:24:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從加密貨幣交易所 Bitget 竊取的 3.51 億美元，是針對加密貨幣產業的一連串高知名度駭客攻擊中的最新一起。</description>
     </item>
     <item>
       <title>推出全新 Copilot，具備 Home、Code 和 Autopilot</title>
