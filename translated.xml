@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 15:33:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:48:17 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 創辦人尋求在 IPO 前取得投票控制權</title>
+      <link>https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169652</guid>
+      <pubDate>Fri, 25 Sep 2026 15:40:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 正在請股東批准一項架構，將使其七位共同創辦人在多數公司事項上合計擁有 50.1% 的投票權。</description>
+    </item>
     <item>
       <title>Tesla 終於在經過十年的努力與延宕後，開始推動卡車電動化</title>
       <link>https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/</link>
@@ -250,15 +259,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 9 月 Demand Gen Drop 的全新無縫體驗與整合，將探索轉化為行動。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 測試讓 Gemini 代你打電話給商家</title>
-      <link>https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168825</guid>
-      <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 表示，這項 AI 撥打電話功能將先提供給美國訂閱 Gemini 的 Pixel 11 用戶。</description>
     </item>
     <item>
       <title>推出搭載 Live Avatar 的 Gemini 3.8 Live</title>
