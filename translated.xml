@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 18:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:34:47 GMT</lastBuildDate>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
       <link>https://openai.com/index/proaction</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>藉由 Codex、GPT-Live-1 與 GPT-6 Astra，Proaction 能更快地打造、營運與銷售現代化車隊管理。</description>
+    </item>
+    <item>
+      <title>在美國 IPO 前，英國 AI neocloud Nscale 獲得 33.6 億美元可轉換融資</title>
+      <link>https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169917</guid>
+      <pubDate>Fri, 25 Sep 2026 18:33:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆資金來自 Third Point、Nvidia 和其他投資者，將為該公司的大型 AI 資料中心建設提供動力。</description>
     </item>
     <item>
       <title>Aeropod 無需機器人即可自動進行土壤曝氣。快來 TechCrunch Disrupt 參觀。</title>
@@ -50,6 +59,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Muse 正登上 App Store 排行榜並以很快的速度增加使用者，而 Meta 也在自家應用程式內外加大個人 AI 代理的宣傳力度。</description>
+    </item>
+    <item>
+      <title>Meta 的 AI 寵物奇兵賭注……有效？</title>
+      <link>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3169926</guid>
+      <pubDate>Fri, 25 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>當 OpenAI 和 Anthropic 的 AI 領導者開始談論「推進前沿」時，也許有人該先問：到底是什麼步調？現在這變成了兩家公司模型發布週，Anthropic 先推出 Opus 5.5，90 分鐘後 OpenAI 的 GPT-6 模型更新也跟著登場。但搶走鎂光燈的是 Meta，據報其個人 AI 代理 Muse 的表現已超越 ChatGPT 早期數據，並且即將進軍智慧眼鏡和 […]</description>
     </item>
     <item>
       <title>Kiteworks敦促客戶在「迫在眉睫」的網路攻擊威脅下關閉其伺服器</title>
@@ -202,24 +220,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Prism 的更大目標是讓開放權重 AI 在裝置上執行，並更有效運用它們既有的運算能力。</description>
-    </item>
-    <item>
-      <title>認識 Feather，這家為開發者打造「機器人界 Android」的新創公司</title>
-      <link>https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169157</guid>
-      <pubDate>Thu, 24 Sep 2026 18:52:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Feather 正在押注一個可客製化、售價 30,000 美元的平台，專為軟體開發者打造。</description>
-    </item>
-    <item>
-      <title>Oracle 就其新墨西哥州 Stargate 資料中心發出不可抗力通知</title>
-      <link>https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169077</guid>
-      <pubDate>Thu, 24 Sep 2026 18:11:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果該設施未能在 2028 年目標時間上線，這份通知將允許 Oracle 延後付款。</description>
     </item>
     <item>
       <title>用 Chrome 升級你學習習慣的 5 種方式</title>
