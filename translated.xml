@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 04:57:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 05:12:57 GMT</lastBuildDate>
+    <item>
+      <title>Lightspeed 目標為新的印度基金募資 2.5 億美元，聚焦早期 AI</title>
+      <link>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169287</guid>
+      <pubDate>Fri, 25 Sep 2026 05:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家矽谷公司首次將其印度募資週期與全球基金對齊，因為它正轉向較短的投資期。</description>
+    </item>
     <item>
       <title>Waymo 正在快速擴張。以下是車隊數據顯示的內容。</title>
       <link>https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/</link>
@@ -318,15 +327,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Talking_MuseumsMuseumMemory_Her.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Talking_MuseumsMuseumMemory_Her.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Talking_MuseumsMuseumMemory_Her.max-600x600.format-webp.webp" alt=""></p><p>探索近 200 件歷史物件的歷史，或在全新布展的展覽中測試你的視覺記憶。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 的 AI 代理 Muse 即將迎來的所有新功能</title>
-      <link>https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168527</guid>
-      <pubDate>Thu, 24 Sep 2026 01:13:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>執行長 Mark Zuckerberg 週三在門洛帕克揭開公司年度 Connect 活動序幕，並以主題演講明確傳達一件事：Meta 全力押注 Muse。它甚至也會登上 Meta 的 AI 眼鏡。</description>
     </item>
     <item>
       <title>任何人都能用 Google Vids 中的 Gemini Omni 製作令人驚豔的 HD 影片</title>
