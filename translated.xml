@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 22:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 22:21:39 GMT</lastBuildDate>
+    <item>
+      <title>未受保護的 OpenAI agents 在實驗室不知情下將 53 張使用者圖片上傳到網路上</title>
+      <link>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170070</guid>
+      <pubDate>Fri, 25 Sep 2026 22:20:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 OpenAI 的研究環境中運作的 AI agents，未經實驗室知情就將使用者圖片發佈到公開的圖片託管網站上。</description>
+    </item>
     <item>
       <title>Meta 開放新 Muse 功能的搶先體驗計畫</title>
       <link>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</link>
@@ -189,15 +198,6 @@
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" alt=""></p><p>我們正在重新構想 Microsoft Copilot，讓工作隨著其演進而推動發展，並協助擴展每個個人與每個組織在人類雄心的推進過程中所能達成的一切。今天，我們推出全新的 Copilot，將人們依賴的工具與他們用來建構、自訂及擴展 AI 所需的下一代能力連結起來...<br>〈Introducing the new Copilot with Home, Code and Autopilot〉一文最初出現在 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Lightspeed 目標為新的印度基金募資 2.5 億美元，聚焦早期 AI</title>
-      <link>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169287</guid>
-      <pubDate>Fri, 25 Sep 2026 05:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家矽谷公司首次將其印度募資週期與全球基金對齊，因為它正轉向較短的投資期。</description>
     </item>
     <item>
       <title>Connect 2026 的最大消息</title>
