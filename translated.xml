@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 17:19:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 17:34:17 GMT</lastBuildDate>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
       <link>https://openai.com/index/proaction</link>
@@ -14,6 +14,33 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>藉由 Codex、GPT-Live-1 與 GPT-6 Astra，Proaction 能更快地打造、營運與銷售現代化車隊管理。</description>
+    </item>
+    <item>
+      <title>Aeropod 無需機器人即可自動進行土壤曝氣。快來 TechCrunch Disrupt 參觀。</title>
+      <link>https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167764</guid>
+      <pubDate>Fri, 25 Sep 2026 17:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Muju Earth Technologies 開發了一款看似簡單的膠囊裝置，既能幫農民省錢，又能提升作物產量。</description>
+    </item>
+    <item>
+      <title>有些 Supabase 客戶正把大量個人資料公開暴露在網路上</title>
+      <link>https://techcrunch.com/2026/09/25/some-supabase-customers-are-publicly-exposing-reams-of-peoples-data-to-the-web/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169211</guid>
+      <pubDate>Fri, 25 Sep 2026 17:29:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這些發現凸顯了 AI 生成和 vibe-coded 應用程式在未正確設定或保護時，如何會外洩並暴露使用者資料。</description>
+    </item>
+    <item>
+      <title>Astra 和 Opus 剛剛通過了圖靈的另一項測試</title>
+      <link>https://techcrunch.com/2026/09/25/astra-and-opus-just-passed-turings-other-test/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169728</guid>
+      <pubDate>Fri, 25 Sep 2026 17:24:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>前沿 AI 模型正在完成艾倫・圖靈在第二次世界大戰期間的破譯工作。</description>
     </item>
     <item>
       <title>Meta 正大力支持 Muse，這款 AI 應用正快速起飛</title>
@@ -195,24 +222,6 @@
       <description>如果該設施未能在 2028 年目標時間上線，這份通知將允許 Oracle 延後付款。</description>
     </item>
     <item>
-      <title>Meta 的 Muse Charm 看起來像電子雞，但它搭上的是更新的潮流</title>
-      <link>https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169009</guid>
-      <pubDate>Thu, 24 Sep 2026 17:39:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 新推出的 AI 裝置看起來或許像電子雞，但它吊掛式的外型設計，切中的是更廣泛的 Z 世代趨勢，包括包包吊飾、復古科技，以及把裝置變成時尚配件。</description>
-    </item>
-    <item>
-      <title>Databricks 收購 Row Zero，並在尋找更多可併購的新創公司</title>
-      <link>https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169042</guid>
-      <pubDate>Thu, 24 Sep 2026 17:07:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Databricks 已收購雲端試算表新創公司 Row Zero，為其 2026 年的收購熱潮再添一筆。</description>
-    </item>
-    <item>
       <title>用 Chrome 升級你學習習慣的 5 種方式</title>
       <link>https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</guid>
@@ -247,15 +256,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 相簿受《獨領風騷》啟發的虛擬衣櫥現已可在 Android 和 iOS 上使用</title>
-      <link>https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168895</guid>
-      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項由 AI 驅動的功能會根據你的照片建立虛擬衣櫃，在 6 月先向 Android 使用者推出後，現在已廣泛開放。</description>
     </item>
     <item>
       <title>透過 9 月的 Demand Gen Drop，將探索轉化為行動。</title>
