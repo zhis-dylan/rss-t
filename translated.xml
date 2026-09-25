@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 18:34:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:49:57 GMT</lastBuildDate>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
       <link>https://openai.com/index/proaction</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>藉由 Codex、GPT-Live-1 與 GPT-6 Astra，Proaction 能更快地打造、營運與銷售現代化車隊管理。</description>
+    </item>
+    <item>
+      <title>Mark Wahlberg 將出席 TechCrunch Disrupt 2026，而且他想聊的是你的工作，不是他的</title>
+      <link>https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162704</guid>
+      <pubDate>Fri, 25 Sep 2026 18:48:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Mark Wahlberg 將在 Disrupt 與 Bruce K. Lee 一同討論投資、創業、醫療保健、健康，以及打造事業。</description>
     </item>
     <item>
       <title>在美國 IPO 前，英國 AI neocloud Nscale 獲得 33.6 億美元可轉換融資</title>
@@ -59,15 +68,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Muse 正登上 App Store 排行榜並以很快的速度增加使用者，而 Meta 也在自家應用程式內外加大個人 AI 代理的宣傳力度。</description>
-    </item>
-    <item>
-      <title>Meta 的 AI 寵物奇兵賭注……有效？</title>
-      <link>https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3169926</guid>
-      <pubDate>Fri, 25 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當 OpenAI 和 Anthropic 的 AI 領導者開始談論「推進前沿」時，也許有人該先問：到底是什麼步調？現在這變成了兩家公司模型發布週，Anthropic 先推出 Opus 5.5，90 分鐘後 OpenAI 的 GPT-6 模型更新也跟著登場。但搶走鎂光燈的是 Meta，據報其個人 AI 代理 Muse 的表現已超越 ChatGPT 早期數據，並且即將進軍智慧眼鏡和 […]</description>
     </item>
     <item>
       <title>Kiteworks敦促客戶在「迫在眉睫」的網路攻擊威脅下關閉其伺服器</title>
@@ -211,15 +211,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>購買一張 TechCrunch Disrupt 2026 門票，第二張相同票種可享 5 折優惠。請在活動於 10 月 13 日上午 8 點（PT）開始前完成報名。</description>
-    </item>
-    <item>
-      <title>PrismML 將其迷你 LLM 帶到搭載 Qualcomm 的智慧眼鏡</title>
-      <link>https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169128</guid>
-      <pubDate>Thu, 24 Sep 2026 19:00:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Prism 的更大目標是讓開放權重 AI 在裝置上執行，並更有效運用它們既有的運算能力。</description>
     </item>
     <item>
       <title>用 Chrome 升級你學習習慣的 5 種方式</title>
