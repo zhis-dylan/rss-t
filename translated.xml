@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 16:03:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 16:18:40 GMT</lastBuildDate>
+    <item>
+      <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
+      <link>https://openai.com/index/proaction</link>
+      <guid isPermaLink="false">https://openai.com/index/proaction</guid>
+      <pubDate>Fri, 25 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>藉由 Codex、GPT-Live-1 與 GPT-6 Astra，Proaction 能更快地打造、營運與銷售現代化車隊管理。</description>
+    </item>
+    <item>
+      <title>Meta 正大力支持 Muse，這款 AI 應用正快速起飛</title>
+      <link>https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169621</guid>
+      <pubDate>Fri, 25 Sep 2026 16:16:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Muse 正登上 App Store 排行榜並以很快的速度增加使用者，而 Meta 也在自家應用程式內外加大個人 AI 代理的宣傳力度。</description>
+    </item>
     <item>
       <title>Kiteworks敦促客戶在「迫在眉睫」的網路攻擊威脅下關閉其伺服器</title>
       <link>https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/</link>
@@ -238,15 +256,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這項由 AI 驅動的功能會根據你的照片建立虛擬衣櫃，在 6 月先向 Android 使用者推出後，現在已廣泛開放。</description>
-    </item>
-    <item>
-      <title>TechCrunch Founder Summit 2026：你需要知道的一切</title>
-      <link>https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168635</guid>
-      <pubDate>Thu, 24 Sep 2026 16:46:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch Founder Summit 是一場於 11 月 4 日在波士頓舉行的全天聚會，來自各個階段的創辦人將在此與頂尖 VC 和經驗豐富的創業家交流，獲得打造與擴張公司所需的實戰洞見。</description>
     </item>
     <item>
       <title>透過 9 月的 Demand Gen Drop，將探索轉化為行動。</title>
@@ -1623,15 +1632,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
-    </item>
-    <item>
       <title>學習永不停止：AI 如何讓學習持續進行</title>
       <link>https://openai.com/index/learning-never-stops</link>
       <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
@@ -1639,6 +1639,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
+    </item>
+    <item>
+      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1936,15 +1945,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 寄給格雷格・艾伯特州長一封信，說明其在德州推動負責任 AI 基礎設施的承諾。這封信支持能讓德州居民受益的可靠、透明成長。</description>
-    </item>
-    <item>
-      <title>Model ML 使用 GPT-5.6 Sol 更有效率地完成財務工作</title>
-      <link>https://openai.com/index/model-ml</link>
-      <guid isPermaLink="false">https://openai.com/index/model-ml</guid>
-      <pubDate>Mon, 10 Aug 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Model ML 使用 GPT-5.6 Sol，將財務工作從研究與分析一路延伸到可編輯、可追蹤的 PowerPoint 簡報與 Excel 活頁簿。</description>
     </item>
     <item>
       <title>回顧微軟 FY26：從 AI 實驗邁向前沿轉型</title>
