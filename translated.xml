@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 09:45:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:00:26 GMT</lastBuildDate>
     <item>
       <title>Lightspeed 目標為新的印度基金募資 2.5 億美元，聚焦早期 AI</title>
       <link>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</link>
@@ -296,6 +296,15 @@
       <description>這起事件是已知首宗影響政府機關的入侵事件，澳洲總理已誓言要讓 OpenAI 負起責任。</description>
     </item>
     <item>
+      <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
+      <link>https://openai.com/index/ringg</link>
+      <guid isPermaLink="false">https://openai.com/index/ringg</guid>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
+    </item>
+    <item>
       <title>協助 25,000 名退伍軍人和軍人家庭打造技職職涯</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-skilled-trades/</guid>
@@ -306,15 +315,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHIO_Action_Anthony_003v_Crop_V.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHIO_Action_Anthony_003v_Crop_V.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/OHIO_Action_Anthony_003v_Crop_V.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正在支持相關組織，協助退伍軍人和軍人家庭在技職領域找到職涯。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
-      <link>https://openai.com/index/ringg</link>
-      <guid isPermaLink="false">https://openai.com/index/ringg</guid>
-      <pubDate>Thu, 24 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-5.6，Ringg 為語音、聊天、WhatsApp 和網頁提供多語言代理，成本比 GPT-4.1 低 90%。</description>
     </item>
     <item>
       <title>把文化資產變成互動式學習夥伴</title>
@@ -365,6 +365,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WNIAEheader.max-600x600.format-webp.webp" alt=""></p><p>Android Enterprise 的最新更新，旨在協助 IT 團隊保護公司資料，同時也讓員工有空間進行創新。</p>]]></content:encoded>
     </item>
     <item>
+      <title>OpenAI Academy 兩週年</title>
+      <link>https://openai.com/index/two-years-of-openai-academy</link>
+      <guid isPermaLink="false">https://openai.com/index/two-years-of-openai-academy</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>慶祝 OpenAI Academy 滿兩週年，並將 AI 技能帶給更多社群。</description>
+    </item>
+    <item>
       <title>由業界創作者打造的 6 個 Google Flow 新工具</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/</guid>
@@ -399,15 +408,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp" alt=""></p><p>醫療保健組織正運用 Google 的技術打造工具，以因應獨特的在地醫療需求。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI Academy 兩週年</title>
-      <link>https://openai.com/index/two-years-of-openai-academy</link>
-      <guid isPermaLink="false">https://openai.com/index/two-years-of-openai-academy</guid>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>慶祝 OpenAI Academy 滿兩週年，並將 AI 技能帶給更多社群。</description>
     </item>
     <item>
       <title>Gemini 3.8 文字轉語音登場</title>
