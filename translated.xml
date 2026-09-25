@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 12:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 12:16:25 GMT</lastBuildDate>
+    <item>
+      <title>推出全新 Copilot，具備 Home、Code 和 Autopilot</title>
+      <link>https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563171</guid>
+      <pubDate>Fri, 25 Sep 2026 12:03:50 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>我們正在重新構想 Microsoft Copilot，讓工作隨著其演進而推動發展，並協助擴展每個個人與每個組織在人類雄心的推進過程中所能達成的一切。今天，我們推出全新的 Copilot，將人們依賴的工具與他們用來建構、自訂及擴展 AI 所需的下一代能力連結起來...
+〈Introducing the new Copilot with Home, Code and Autopilot〉一文最初出現在 The Official Microsoft Blog。</description>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" medium="image" type="image/png"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" alt=""></p><p>我們正在重新構想 Microsoft Copilot，讓工作隨著其演進而推動發展，並協助擴展每個個人與每個組織在人類雄心的推進過程中所能達成的一切。今天，我們推出全新的 Copilot，將人們依賴的工具與他們用來建構、自訂及擴展 AI 所需的下一代能力連結起來...<br>〈Introducing the new Copilot with Home, Code and Autopilot〉一文最初出現在 The Official Microsoft Blog。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Lightspeed 目標為新的印度基金募資 2.5 億美元，聚焦早期 AI</title>
       <link>https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/</link>
@@ -1995,19 +2008,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>AI 採用的速度正快得驚人。客戶早已超越試驗階段，並了解採用 AI 來轉型其業務的重要性。他們現在專注於帶來可衡量的商業成果，並證明 AI 投資的報酬，同時確保他們的智慧能被放大，且其智慧財產權受到保護。今天……
 The post Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence appeared first on The Official Microsoft Blog.</description>
-    </item>
-    <item>
-      <title>Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力</title>
-      <link>https://blogs.microsoft.com/blog/2026/06/24/inside-microsofts-two-decade-push-to-cut-water-intensity-while-scaling-for-growth/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563006</guid>
-      <pubDate>Wed, 24 Jun 2026 12:01:13 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>隨著雲端和 AI 服務的需求持續成長，資料中心正變得比以往更加重要。社區也想更了解這類基礎設施如何影響在地資源，特別是水資源。在 Microsoft，自從我們在 2000 年代初期建造第一座資料中心以來，水資源管理一直是優先事項，至今仍是我們的核心一環......
-〈Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力〉一文首先出現在 The Official Microsoft Blog。</description>
-      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-4-1024x576.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-4-1024x576.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/06/OMB-Water-Efficiency-Image-4-1024x576.jpg" alt=""></p><p>隨著雲端和 AI 服務的需求持續成長，資料中心正變得比以往更加重要。社區也想更了解這類基礎設施如何影響在地資源，特別是水資源。在 Microsoft，自從我們在 2000 年代初期建造第一座資料中心以來，水資源管理一直是優先事項，至今仍是我們的核心一環......<br>〈Microsoft 內部二十年來在擴大成長的同時降低用水強度的努力〉一文首先出現在 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
