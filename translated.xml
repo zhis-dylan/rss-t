@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:16:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:32:03 GMT</lastBuildDate>
+    <item>
+      <title>北韓駭客涉嫌犯下 3.51 億美元加密貨幣竊案，為今年至今最大宗</title>
+      <link>https://techcrunch.com/2026/09/25/north-korean-hackers-suspected-in-351m-crypto-theft-the-largest-so-far-this-year/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169533</guid>
+      <pubDate>Fri, 25 Sep 2026 13:24:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從加密貨幣交易所 Bitget 竊取的 3.51 億美元，是針對加密貨幣產業的一連串高知名度駭客攻擊中的最新一起。</description>
+    </item>
     <item>
       <title>推出全新 Copilot，具備 Home、Code 和 Autopilot</title>
       <link>https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/</link>
@@ -298,15 +307,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Project_Suncatcher_social.max-600x600.format-webp.webp" alt=""></p><p>了解 Project Suncatcher、我們如何測試硬體在太空中的生存能力、如何為 AI 晶片設計冷卻系統，以及更多內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>澳洲將調查 OpenAI 入侵政府健康網站是否違法</title>
-      <link>https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168743</guid>
-      <pubDate>Thu, 24 Sep 2026 12:54:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這起事件是已知首宗影響政府機關的入侵事件，澳洲總理已誓言要讓 OpenAI 負起責任。</description>
     </item>
     <item>
       <title>Ringg 的 AI 代理可解決高達 65% 的客戶來電，採用 OpenAI</title>
