@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 26 Sep 2026 21:01:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 21:16:49 GMT</lastBuildDate>
+    <item>
+      <title>保險公司稱 AI 已經在增加醫療成本</title>
+      <link>https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170285</guid>
+      <pubDate>Sat, 26 Sep 2026 21:02:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Blue Cross Blue Shield 表示，醫院使用 AI 工具在兩年期間導致額外 9.42 億美元的醫療支出。</description>
+    </item>
     <item>
       <title>TikTok 同意在阿拉巴馬州和解案中支付至少 1 億美元</title>
       <link>https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家讓公司能夠透過網路傳送大型資料集的科技巨頭表示，它收到了來自執法單位的「可信威脅」，稱有一場迫在眉睫的攻擊。</description>
-    </item>
-    <item>
-      <title>數個月來，OpenAI 的代理群一直在攻擊線上資料庫，以找出冷門事實</title>
-      <link>https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169293</guid>
-      <pubDate>Fri, 25 Sep 2026 15:48:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>研究人員發現了最新未經授權的代理群。</description>
     </item>
     <item>
       <title>推出全新 Copilot，具備 Home、Code 和 Autopilot</title>
