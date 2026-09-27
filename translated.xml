@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 27 Sep 2026 01:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 01:33:36 GMT</lastBuildDate>
+    <item>
+      <title>Google 在印度透過 Gemini 和 AI Mode 測試向 Walmart 旗下的 Flipkart 購買</title>
+      <link>https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170226</guid>
+      <pubDate>Sun, 27 Sep 2026 01:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項有限測試涵蓋部分商品與使用者，並計畫在 10 月稍晚擴大推出。</description>
+    </item>
     <item>
       <title>保險公司稱 AI 已經在增加醫療成本</title>
       <link>https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Muse 正登上 App Store 排行榜並以很快的速度增加使用者，而 Meta 也在自家應用程式內外加大個人 AI 代理的宣傳力度。</description>
-    </item>
-    <item>
-      <title>Kiteworks敦促客戶在「迫在眉睫」的網路攻擊威脅下關閉其伺服器</title>
-      <link>https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169709</guid>
-      <pubDate>Fri, 25 Sep 2026 15:52:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家讓公司能夠透過網路傳送大型資料集的科技巨頭表示，它收到了來自執法單位的「可信威脅」，稱有一場迫在眉睫的攻擊。</description>
     </item>
     <item>
       <title>推出全新 Copilot，具備 Home、Code 和 Autopilot</title>
