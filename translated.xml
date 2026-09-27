@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 27 Sep 2026 19:56:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 20:11:26 GMT</lastBuildDate>
+    <item>
+      <title>Muse 能克服 Meta 的信任問題嗎？</title>
+      <link>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170334</guid>
+      <pubDate>Sun, 27 Sep 2026 19:57:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 Equity 節目中，我們討論了 Meta 的 AI 公告如何成功搶走 OpenAI 和 Anthropic 的風頭。</description>
+    </item>
     <item>
       <title>Anthropic 的 Dario Amodei 受到《週六夜現場》式的演繹</title>
       <link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆資金來自 Third Point、Nvidia 和其他投資者，將為該公司的大型 AI 資料中心建設提供動力。</description>
-    </item>
-    <item>
-      <title>Aeropod 無需機器人即可自動進行土壤曝氣。快來 TechCrunch Disrupt 參觀。</title>
-      <link>https://techcrunch.com/2026/09/25/the-aeropod-automates-soil-aeration-without-robotics-see-it-at-techcrunch-disrupt/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167764</guid>
-      <pubDate>Fri, 25 Sep 2026 17:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Muju Earth Technologies 開發了一款看似簡單的膠囊裝置，既能幫農民省錢，又能提升作物產量。</description>
     </item>
     <item>
       <title>推出全新 Copilot，具備 Home、Code 和 Autopilot</title>
