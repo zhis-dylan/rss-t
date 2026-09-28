@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 18:52:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 19:07:43 GMT</lastBuildDate>
+    <item>
+      <title>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</guid>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" alt=""></p><p>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Nvidia 推出新平台以管控失控的 AI 代理</title>
       <link>https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/</link>
@@ -548,18 +560,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif" medium="image" type="image/gif" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/500-x200-363840.gif" alt=""></p><p>透過 Google 的拉丁流行風塗鴉和精選的 Google TV 合集，一起慶祝西語裔傳統月。看看我們今天如何致敬拉丁美洲文化。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>這是 Made On YouTube 2026 公布的內容。</title>
-      <link>https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/youtube/made-on-youtube-updates-2026/</guid>
-      <pubDate>Wed, 23 Sep 2026 14:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>YouTube 推出更新，讓這個平台更聰明、更個人化，也更容易瀏覽。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Event_-_Made_On_Logo_Creator_Gr.max-600x600.format-webp.webp" alt=""></p><p>YouTube 推出更新，讓這個平台更聰明、更個人化，也更容易瀏覽。</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 將網路存取延伸至烏克蘭以供民防使用</title>
