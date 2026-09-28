@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 18:22:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:37:26 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 推出新平台以管控失控的 AI 代理</title>
+      <link>https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170647</guid>
+      <pubDate>Mon, 28 Sep 2026 18:31:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著外界激烈爭論近期一連串失控的 AI 代理究竟是邁向 AGI 的一步，還是更傳統的工程問題，Nvidia 正在提出自己的答案。Nvidia 執行長 Jensen Huang 週一發表了一套軟體與硬體產品工具組，為 AI 代理加上獨立的安全層，…</description>
+    </item>
     <item>
       <title>Anthropic 發布 Sonnet 5.5，稱其為更便宜、更快的工作夥伴</title>
       <link>https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/</link>
@@ -258,15 +267,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
-    </item>
-    <item>
-      <title>Truecaller將其詐騙情報帶上開放網路，並將目光放在來電顯示之外</title>
-      <link>https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169953</guid>
-      <pubDate>Mon, 28 Sep 2026 04:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著其在印度、也是最大市場的傳統來電顯示業務壓力日益增加，Truecaller找到了一種接觸使用者的新方式。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
