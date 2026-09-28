@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 23:24:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 23:40:06 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 據報因安全疑慮而棄用模型</title>
+      <link>https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171035</guid>
+      <pubDate>Mon, 28 Sep 2026 23:39:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家 AI 實驗室的一位高階主管告訴《華爾街日報》，涉事模型在遵循指令方面表現不佳。</description>
+    </item>
     <item>
       <title>Aurora 財務長表示，到 2030 年有 30,000 輛無人駕駛卡車，聽起來沒那麼不切實際</title>
       <link>https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/</link>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>數千份申請。多輪審查。花費數百小時評估來自世界各地的新創公司。現在，大家一直在等待的部分來了。Startup Battlefield 200 即將登場，而隨著今天的公告，評審團幾乎已經到位。再過幾週，200 家經過精挑細選的新創公司將齊聚於 […]</description>
-    </item>
-    <item>
-      <title>Modulate 募得 2,500 萬美元，用於其語音模型與分析套件</title>
-      <link>https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170298</guid>
-      <pubDate>Mon, 28 Sep 2026 14:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Modulate 部署其模型以偵測深偽、詐欺和騙局</description>
     </item>
     <item>
       <title>推出 Display &amp; Video 360 的直式影片整合。</title>
