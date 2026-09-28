@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 17:21:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:36:51 GMT</lastBuildDate>
+    <item>
+      <title>Google 正在停用 Gemini 的 Gems，改以「skills」取代</title>
+      <link>https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170736</guid>
+      <pubDate>Mon, 28 Sep 2026 17:29:50 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著像 Meta 的 Muse 和 Instinct 這類一體化 AI 代理逐漸興起，Google 選擇終止一項用來建立特定任務代理的功能。</description>
+    </item>
     <item>
       <title>OpenAI 似乎仍然無法掌握所有失控 AI 活動</title>
       <link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/</link>
@@ -249,15 +258,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這將是 Dario Amodei 和 Donald Trump 之間第一次一對一會面</description>
-    </item>
-    <item>
-      <title>Muse 能克服 Meta 的信任問題嗎？</title>
-      <link>https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170334</guid>
-      <pubDate>Sun, 27 Sep 2026 19:57:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 Equity 節目中，我們討論了 Meta 的 AI 公告如何成功搶走 OpenAI 和 Anthropic 的風頭。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
