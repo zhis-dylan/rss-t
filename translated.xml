@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 12:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:03:54 GMT</lastBuildDate>
+    <item>
+      <title>推出 Display &amp; Video 360 的直式影片整合。</title>
+      <link>https://blog.google/products/marketingplatform/360/vertical-video-unification/</link>
+      <guid isPermaLink="false">https://blog.google/products/marketingplatform/360/vertical-video-unification/</guid>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過 Google Display &amp; Video 360 整合直式影片採買。看看 Unilever 如何運用 Gemini 驅動的測量，將觸及提升 24%。了解詳情。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_Blog_-_Header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_Blog_-_Header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_Blog_-_Header.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Display &amp; Video 360 整合直式影片採買。看看 Unilever 如何運用 Gemini 驅動的測量，將觸及提升 24%。了解詳情。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>海洋監測新創 Quartermaster 再募得 1.4 億美元</title>
+      <link>https://techcrunch.com/2026/09/28/ocean-surveillance-startup-quartermaster-raises-another-140m/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170339</guid>
+      <pubDate>Mon, 28 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項技術可即時掌握 Quartermaster 所稱的「地球上最大的盲區」。</description>
+    </item>
     <item>
       <title>推出 Meta Enterprise Platform</title>
       <link>https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/</link>
@@ -213,15 +234,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>當 NPR 員工把 Spotify 上他們 podcast 底下的奇怪留言標記為機器人時，是一位 Z 世代同事（立刻）破解了這個謎團。</description>
-    </item>
-    <item>
-      <title>Anthropic 將在雲端交易中於七年內支付 Akamai 116 億美元</title>
-      <link>https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169815</guid>
-      <pubDate>Fri, 25 Sep 2026 19:13:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 已承諾在七年內向 Akamai 的雲端基礎設施投入 116 億美元，押注 CPU，金額可能成長到約 200 億美元；而且在一項不尋常的安排中，Akamai 會給予 Anthropic 最高可達其股份 5% 的潛在持股，且隨著 Anthropic 支出增加而成長。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -721,18 +733,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>認識 GPT-6 Sol 和 Luna，這兩個模型以不同的能力與成本平衡，將前沿智慧帶入日常工作。</description>
-    </item>
-    <item>
-      <title>投資全球人才與 AI 素養</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/itu-ai-skills-training/</guid>
-      <pubDate>Tue, 22 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 透過 AI Skills Coalition 向國際電信聯盟（ITU）提供 100,000 份獎學金。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero.max-600x600.format-webp_kjXizmz.webp" alt=""></p><p>Google 透過 AI Skills Coalition 向國際電信聯盟（ITU）提供 100,000 份獎學金。</p>]]></content:encoded>
     </item>
     <item>
       <title>全新的 Mac mini 和 Mac Studio 今日開賣</title>
