@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 20:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 20:53:43 GMT</lastBuildDate>
+    <item>
+      <title>AMD 將以 82 億美元收購李飛飛的 World Labs</title>
+      <link>https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170932</guid>
+      <pubDate>Mon, 28 Sep 2026 20:39:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項收購將讓 World Labs 創辦人李飛飛加入 AMD，擔任執行副總裁暨首席科學家。</description>
+    </item>
     <item>
       <title>Shopify 開放結帳給以瀏覽器為基礎的 AI 代理</title>
       <link>https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/</link>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家新創使用 AI 自動處理保險代理商和經紀商繁瑣的文書作業。</description>
-    </item>
-    <item>
-      <title>ElevenLabs 新的 v4 語音模型支援更多表現控制和 90 種語言</title>
-      <link>https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170480</guid>
-      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>ElevenLabs v4 可用 10 秒片段複製聲音</description>
     </item>
     <item>
       <title>推出 Display &amp; Video 360 的直式影片整合。</title>
