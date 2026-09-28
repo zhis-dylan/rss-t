@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:49:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:04:38 GMT</lastBuildDate>
+    <item>
+      <title>把你在 TechCrunch Disrupt 2026 的展位桌搶下來的最後機會是 10 月 2 日</title>
+      <link>https://techcrunch.com/2026/09/28/disrupt-2026-exhibitor-program-extended-until-oct-2/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3169782</guid>
+      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>預訂 Disrupt 2026 展位桌的最後一天是這個星期五，10 月 2 日晚上 11:59 PT。預約你的展位桌，並在 10 月 13 日至 15 日於舊金山 Moscone West，讓你的新創公司直接接觸超過 10,000 名創辦人、投資人和科技領袖。</description>
+    </item>
+    <item>
+      <title>保險科技新創 Outmarket 在前一輪融資僅幾個月後再募得 3,450 萬美元</title>
+      <link>https://techcrunch.com/2026/09/28/insuretech-outmarket-raises-34-5m-just-months-after-prior-round/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170338</guid>
+      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創使用 AI 自動處理保險代理商和經紀商繁瑣的文書作業。</description>
+    </item>
+    <item>
+      <title>ElevenLabs 新的 v4 語音模型支援更多表現控制和 90 種語言</title>
+      <link>https://techcrunch.com/2026/09/28/elevenlabs-new-v4-speech-model-supports-more-expression-control-and-90-languages/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170480</guid>
+      <pubDate>Mon, 28 Sep 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>ElevenLabs v4 可用 10 秒片段複製聲音</description>
+    </item>
     <item>
       <title>病毒式 AI 代理 Instinct 以 100 億美元估值募得 10 億美元 C 輪融資</title>
       <link>https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/</link>
@@ -207,33 +234,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Facebook 和 Instagram 背後的公司希望透過其日益擴大的智慧眼鏡產品線，讓消費者持續連結到數位世界。</description>
-    </item>
-    <item>
-      <title>Crusoe 放棄在 AI 資料中心使用 Boom 渦輪機的 12.5 億美元計畫</title>
-      <link>https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170030</guid>
-      <pubDate>Fri, 25 Sep 2026 23:11:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Boom Supersonic 執行長 Blake Scholl 表示，該公司新的固定式發電廠已不再是 Crusoe 的近期計畫之一。</description>
-    </item>
-    <item>
-      <title>Automattic 在試圖讓執行長停職失敗後組成了新董事會</title>
-      <link>https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3163963</guid>
-      <pubDate>Fri, 25 Sep 2026 23:04:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在試圖撤換執行長 Matt Mullenweg 失敗後，Automattic 經歷數天動盪，如今公司已有了新的董事會。</description>
-    </item>
-    <item>
-      <title>未受保護的 OpenAI agents 在實驗室不知情下將 53 張使用者圖片上傳到網路上</title>
-      <link>https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170070</guid>
-      <pubDate>Fri, 25 Sep 2026 22:20:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 OpenAI 的研究環境中運作的 AI agents，未經實驗室知情就將使用者圖片發佈到公開的圖片託管網站上。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
