@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 19:22:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 19:38:04 GMT</lastBuildDate>
+    <item>
+      <title>Shopify 開放結帳給以瀏覽器為基礎的 AI 代理</title>
+      <link>https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170763</guid>
+      <pubDate>Mon, 28 Sep 2026 19:33:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Shopify 正在把 WebMCP 支援擴展到結帳功能，讓以瀏覽器為基礎的 AI 代理在買家授權下更新訂單詳細資訊並完成購買。</description>
+    </item>
+    <item>
+      <title>Tesla 因惡劣天氣再度延後 Roadster 2 發表活動</title>
+      <link>https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170848</guid>
+      <pubDate>Mon, 28 Sep 2026 19:27:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tesla 表示，這場活動「只能在戶外舉行」，因為預計會以某種形式展示這輛車使用 SpaceX 推進器飛行。</description>
+    </item>
     <item>
       <title>AI 熱潮席捲氣候週，不是每個人都樂見其成</title>
       <link>https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/</link>
@@ -203,24 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>ElevenLabs v4 可用 10 秒片段複製聲音</description>
-    </item>
-    <item>
-      <title>病毒式 AI 代理 Instinct 以 100 億美元估值募得 10 億美元 C 輪融資</title>
-      <link>https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170483</guid>
-      <pubDate>Mon, 28 Sep 2026 13:38:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Instinct 已募得 10 億美元 C 輪融資，並表示「我們才剛開始。」該公司目前估值為 100 億美元。</description>
-    </item>
-    <item>
-      <title>SpaceX 的 Starship 火箭首次進入軌道</title>
-      <link>https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170481</guid>
-      <pubDate>Mon, 28 Sep 2026 13:19:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>雖然途中不免有些戲劇性插曲。</description>
     </item>
     <item>
       <title>推出 Display &amp; Video 360 的直式影片整合。</title>
