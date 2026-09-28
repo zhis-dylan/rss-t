@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 17:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 17:21:40 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 似乎仍然無法掌握所有失控 AI 活動</title>
+      <link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170628</guid>
+      <pubDate>Mon, 28 Sep 2026 17:09:02 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>週五，OpenAI 發布了一個新網站，專門收錄「失配報告」，而這些事件的廣泛程度令人警覺。</description>
+    </item>
     <item>
       <title>Meta 推出企業 AI 平台，聘請 MongoDB 執行長領導新計畫</title>
       <link>https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/</link>
@@ -249,15 +258,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Equity 節目中，我們討論了 Meta 的 AI 公告如何成功搶走 OpenAI 和 Anthropic 的風頭。</description>
-    </item>
-    <item>
-      <title>Anthropic 的 Dario Amodei 受到《週六夜現場》式的演繹</title>
-      <link>https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170300</guid>
-      <pubDate>Sun, 27 Sep 2026 16:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「AI 是魔鬼，而我是它的造物主。」</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
