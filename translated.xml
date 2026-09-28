@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 15:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 15:20:28 GMT</lastBuildDate>
+    <item>
+      <title>這位雜貨商如何用 Gemini 為 200 位賓客烹調的 3 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/</guid>
+      <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" alt=""></p><p>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</p>]]></content:encoded>
+    </item>
     <item>
       <title>在深偽語音騙過她祖父後，這位創辦人立刻採取行動</title>
       <link>https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/</link>
@@ -706,15 +718,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 Grab 推出 GO Forward with AI，這是一項區域計畫，協助 30,000 名合作夥伴在東南亞培養實用 AI 技能。</description>
-    </item>
-    <item>
-      <title>Google 與蓋茲基金會將為全球南方 2 億名農民帶來 AI 資源。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/partnering-with-the-gates-foundation-to-bring-ai-resources-to-200-million-farmers-across-the-global-south/</guid>
-      <pubDate>Tue, 22 Sep 2026 23:50:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>小規模農民在全球超過 5 億個農場中生產了近 35% 的糧食，但他們往往無法取得衛星資料、金融服務，以及……</description>
     </item>
     <item>
       <title>GPT-6 的更佳提示快取</title>
