@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:34:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 13:49:26 GMT</lastBuildDate>
+    <item>
+      <title>病毒式 AI 代理 Instinct 以 100 億美元估值募得 10 億美元 C 輪融資</title>
+      <link>https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170483</guid>
+      <pubDate>Mon, 28 Sep 2026 13:38:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Instinct 已募得 10 億美元 C 輪融資，並表示「我們才剛開始。」該公司目前估值為 100 億美元。</description>
+    </item>
     <item>
       <title>SpaceX 的 Starship 火箭首次進入軌道</title>
       <link>https://techcrunch.com/2026/09/28/spacexs-starship-rocket-reaches-orbit-for-the-first-time/</link>
@@ -225,15 +234,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 OpenAI 的研究環境中運作的 AI agents，未經實驗室知情就將使用者圖片發佈到公開的圖片託管網站上。</description>
-    </item>
-    <item>
-      <title>Meta 開放新 Muse 功能的搶先體驗計畫</title>
-      <link>https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170007</guid>
-      <pubDate>Fri, 25 Sep 2026 20:34:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>有興趣加入的人必須請 Muse 把自己加入名單。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
