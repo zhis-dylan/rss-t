@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 28 Sep 2026 21:39:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 21:54:15 GMT</lastBuildDate>
     <item>
       <title>消息來源：推論服務商 Modal Labs 接近完成 7.5 億美元融資，估值達 157.5 億美元</title>
       <link>https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/</link>
@@ -169,18 +169,6 @@
       <description>會計人力資源公司 Mavi 帶著 400 萬美元資金自隱身狀態中亮相。</description>
     </item>
     <item>
-      <title>這位雜貨商如何用 Gemini 為 200 位賓客烹調的 3 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/</guid>
-      <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" alt=""></p><p>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>在深偽語音騙過她祖父後，這位創辦人立刻採取行動</title>
       <link>https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3169260</guid>
@@ -197,6 +185,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>CFS 的 Brandon Sorbom 和 Helion 的 David Kirtley 將加入 TechCrunch Disrupt 2026 的 Smart Systems Stage，討論推動核融合向前的突破、仍然存在的挑戰，以及要如何讓核融合電力大規模併入電網。立即以原價購票，第二張可享 5 折。</description>
+    </item>
+    <item>
+      <title>這位雜貨商如何用 Gemini 為 200 位賓客烹調的 3 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/</guid>
+      <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" alt=""></p><p>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</p>]]></content:encoded>
     </item>
     <item>
       <title>據報 FBI 在駭客竊取探員個資後宣布「資安事件」</title>
