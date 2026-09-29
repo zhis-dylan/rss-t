@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 12:31:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:46:27 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 在其 AI 代理違規存取政府網站後向澳洲道歉</title>
+      <link>https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171141</guid>
+      <pubDate>Tue, 29 Sep 2026 12:45:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司也詳細說明了部分違規存取是如何發生的，並概述了其正在採取的額外措施，以評估這些事件的影響。</description>
+    </item>
     <item>
       <title>Reco 募得 5,500 萬美元，AI 代理安全新創競逐市場</title>
       <link>https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/</link>
@@ -265,15 +274,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anthropic、Clay 和 Gamma 在 TechCrunch Disrupt 2026 的 AI Stage 上分享，AI 產品要如何超越展示範例。立即報名參加，第二張票可享 5 折優惠。</description>
-    </item>
-    <item>
-      <title>實體 AI 晶片開發商 SiMa.ai 估值達 14.5 億美元</title>
-      <link>https://techcrunch.com/2026/09/28/physical-ai-chip-developer-sima-ai-hits-1-45b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170594</guid>
-      <pubDate>Mon, 28 Sep 2026 15:29:21 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家邊緣運算新創在 Fidelity 和 Amplify 領投下，募得 1.5 億美元 C 輪融資。</description>
     </item>
     <item>
       <title>這位雜貨商如何用 Gemini 為 200 位賓客烹調的 3 種方式</title>
