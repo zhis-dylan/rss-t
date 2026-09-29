@@ -5,7 +5,38 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 18:35:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:50:53 GMT</lastBuildDate>
+    <item>
+      <title>更多顛覆方式：KOTRA、WayFounder、Enterprise Ireland、SafetyWing 和 Descope 推出的全新 2026 年周邊活動</title>
+      <link>https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171404</guid>
+      <pubDate>Tue, 29 Sep 2026 18:48:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>離開 Moscone West 後，Disrupt 還沒結束。👀
+
+在 Disrupt 週期間，創辦人晚宴、投資人聚會、happy hour、工作坊、圓桌討論等活動正在舊金山各地展開。
+
+看看有哪些活動，找到志同道合的人，開始安排你的行程吧。</description>
+    </item>
+    <item>
+      <title>據稱 Apple Pay 將於今天在印度與 Axis Bank 一同上線</title>
+      <link>https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171477</guid>
+      <pubDate>Tue, 29 Sep 2026 18:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>印度一些最大型的銀行最初不打算支援 Apple Pay。</description>
+    </item>
+    <item>
+      <title>這就是 OpenAI 為何缺席 Nvidia 產業級終結失控 AI 代理人行動的原因</title>
+      <link>https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171020</guid>
+      <pubDate>Tue, 29 Sep 2026 18:35:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch 獲悉，OpenAI 並未公開支持 Nvidia 的 Open Agent Safety Platform，但私下正與 Nvidia 合作。</description>
+    </item>
     <item>
       <title>開玩吧：亨利·卡維爾正拿 Googlebook 來實測</title>
       <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/</link>
@@ -249,15 +280,6 @@
       <description>這輪融資是在 2 月募集的 3,000 萬美元基礎上進一步完成，讓公司總募資金額達到 1.4 億美元。</description>
     </item>
     <item>
-      <title>介紹 GPT-6.1 Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
-    </item>
-    <item>
       <title>DevDay 2026 回顧</title>
       <link>https://openai.com/index/devday-2026-recap</link>
       <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
@@ -267,13 +289,13 @@
       <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
     </item>
     <item>
-      <title>Protego Ventures 募得首支 1.25 億美元基金，聚焦以色列國防科技</title>
-      <link>https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170639</guid>
+      <title>介紹 GPT-6.1 Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
       <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch 獨家得知，Protego Ventures——以色列首家也是最大一家專注於國防科技的創投基金——剛完成最終 1.25 億美元募資結案。</description>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
     </item>
     <item>
       <title>未來屬於每個人：Small Business 用的 Muse</title>
@@ -301,15 +323,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Meta_One-Step-Ahead-NEWSROOM-POST_Hero_1920x1080_v2a.png?fit=1920%2C1080" alt=""></p><p>隨著詐騙手法變得越來越複雜、也越來越難以察覺，保護大家的安全不能只靠科技，也需要教育。今天，我們分享「One Step Ahead」反詐騙教育活動的進展。這項活動旨在幫助亞太地區的人們採取簡單、實用的步驟來保護帳號，並在遇到可能的詐騙時知道該向哪裡尋求協助。該活動與區域內超過 25 個當地安全組織、執法單位和政府機關共同設計，並透過 Facebook 和 Instagram 推出，其核心有三項簡單原則：1）安全建議應該實用；2）容易採取行動；3）來自人們信任的來源。自 2026 年 5 月推出以來，這項活動已觸及 18 個國家的超過 3.03 億人，帶來超過 13 億次曝光和超過 120 萬次連結點擊——是 Meta 在這個地區推動過規模最大的線上安全教育活動之一。這項活動宣導 Meta 應用程式上可供使用者提升網路安全的安全工具：雙重驗證會在登入時增加第二道確認，因此即使密碼外洩，也不足以讓人登入。通行密鑰讓人們能用自己已經在使用的指紋、臉部辨識或 PIN 碼登入——通行密鑰無法被竊取、分享、猜測或重複使用。安全檢查功能會在幾分鐘內引導使用者強化 Facebook 帳號。隱私檢查功能則讓使用者掌握誰可以看見、傳訊息給他們，以及與他們建立聯繫。WhatsApp 的已連結裝置警示會在偵測到可疑登入嘗試、未經授權的網頁用戶端，或潛在的帳號連結詐騙時提醒使用者。WhatsApp 的群組設定可讓你調整群組隱私設定，選擇誰可以把你加入 WhatsApp 群組。與人們已經信任的社群合作是打擊詐騙並教育人們如何安全上網的關鍵。與受尊敬的在地合作夥伴合作，能讓我們擴大觸及範圍、強化可信度，並確保大家知道如何取得當地的反詐騙資源。透過活動中的「了解你的在地資源」元素——單這一部分就已觸及 14 個市場超過 2,740 萬人——人們可直接連結到自己國家內值得信任的組織，以取得通報工具與支援。完整合作夥伴名單如下。接下來呢「One Step Ahead」活動將持續到 2026 年，並在整個地區推出新工具與在地化資源，也會有更多合作夥伴加入。我們致力於提供支援，不只是一場活動而已：詐騙者持續演變，而永遠領先一步的工作，從來都不會真正完成。大家可以前往 Meta 的詐騙防護中心，了解如何保護自己的帳號。合作組織包括：澳洲：Scamwatch（由澳洲競爭與消費者委員會營運）孟加拉：孟加拉電信監管委員會（BTRC）香港：Anti-Deception Coordination Centre（ADCC）；Cyber Defender 印度：國家網路犯罪通報入口網站（cybercrime.gov.in）印尼：通訊與數位事務部（Komdigi / Kementerian Komunikasi dan Digital）；印尼國家警察刑事偵查局網路犯罪總局（Direktorat Siber Bareskrim Polri）；印尼反詐騙中心（IASC）；貿易部（Kementerian Perdagangan）日本：國家警察廳哈薩克：文化與資訊部；內政部打擊網路犯罪局紐西蘭：Netsafe 巴基斯坦：巴基斯坦電信管理局（PTA）菲律賓：菲律賓中央銀行（Bangko Sentral ng Pilipinas，BSP）；證券交易委員會（SEC）；網路犯罪調查與協調中心（CICC）；Whoscall；Bayan Academy 新加坡：新加坡警察部隊（SPF）；國家犯罪防治委員會（NCPC）台灣：MyGoPen；刑事警察局；ADI 泰國：NEC；數位經濟與社會部（MDES）；電子交易發展局（ETDA）烏茲別克：烏茲別克數位科技部；前景項目國家署（NAPP）</p>]]></content:encoded>
     </item>
     <item>
-      <title>前 Tesla 團隊募得 1,250 萬美元，讓供應鏈自動駕駛</title>
-      <link>https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170761</guid>
-      <pubDate>Tue, 29 Sep 2026 09:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Atomic 的代理式供應鏈軟體現在已被 DoorDash 和 HelloFresh 等公司採用。</description>
-    </item>
-    <item>
       <title>新的 Microsoft 資料創新解鎖只有你的企業才知道的事</title>
       <link>https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563131</guid>
@@ -318,15 +331,6 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>每個組織都有其獨一無二的知識：企業的運作方式、長期累積的資料、員工的專業，以及數千個日常決策背後的脈絡。隨著強大的 AI 模型變得更廣泛可用，這種獨特的商業智慧比以往任何時候都更重要。差異將來自於...
 〈New Microsoft data innovations unlock what only your business knows〉一文最初刊登於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>Anthropic 的招股說明書詳述虧損、成長，還有，沒錯，關於其 AI 可能導致人類滅亡的警告</title>
-      <link>https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171132</guid>
-      <pubDate>Tue, 29 Sep 2026 05:13:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在招股說明書中，Anthropic 剛告訴投資人，它每年虧損數百億美元，但也正以驚人的速度成長，而且——對了——它自己的 AI 可能對人類構成生存威脅。</description>
     </item>
     <item>
       <title>我們將如何為澳洲做得更好</title>
@@ -722,15 +726,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
-    </item>
-    <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
       <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
@@ -747,6 +742,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>Meta Ray-Ban Display 的新功能</title>
@@ -1578,15 +1582,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <description>OpenAI 推出 Daybreak for Frontline Defenders。這筆 10 億美元的承諾將擴大前沿網路安全 AI、訓練與支援的取得，協助關鍵服務。</description>
     </item>
     <item>
-      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
-    </item>
-    <item>
       <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
       <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
@@ -1594,6 +1589,15 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
+    </item>
+    <item>
+      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
+      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
@@ -1744,15 +1748,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
-    </item>
-    <item>
       <title>學習永不停止：AI 如何讓學習持續進行</title>
       <link>https://openai.com/index/learning-never-stops</link>
       <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
@@ -1760,6 +1755,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
+    </item>
+    <item>
+      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
