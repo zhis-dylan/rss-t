@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:34:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:49:39 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出 ChatGPT 自己的辦公室套件，與 Microsoft 正面交鋒</title>
+      <link>https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171280</guid>
+      <pubDate>Tue, 29 Sep 2026 17:45:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 新宣布的辦公功能套件，讓它與更傳統的軟體公司形成更直接的競爭。</description>
+    </item>
     <item>
       <title>荷蘭警方逮捕 ShinyHunters 駭客，疑似策劃兩起謀殺案</title>
       <link>https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/</link>
@@ -297,15 +306,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 就涉及澳洲政府網站的事件致歉，並概述更強的防護措施與支援，以強化澳洲的資安防禦。</description>
-    </item>
-    <item>
-      <title>Peak XV 將 Surge 種子輪投資上限提高至 500 萬美元，公布 18 家新創團隊</title>
-      <link>https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170634</guid>
-      <pubDate>Tue, 29 Sep 2026 00:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Peak XV 最新 Surge 團隊中的 18 家新創有 13 家瞄準全球市場，其中超過一半位於印度。</description>
     </item>
     <item>
       <title>邁向前沿 AI 訓練的安全案例</title>
