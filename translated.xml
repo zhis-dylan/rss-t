@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 13:47:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:02:18 GMT</lastBuildDate>
+    <item>
+      <title>推出 Dazzle 後，Marissa Mayer 押注你的相簿比你的收件匣更能透露你生活的資訊</title>
+      <link>https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171204</guid>
+      <pubDate>Tue, 29 Sep 2026 13:53:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這位前 Yahoo 執行長正在推出一款全新的 AI 個人助理，完全根據你的照片打造。</description>
+    </item>
+    <item>
+      <title>Meta 正將其 AI 代理 Muse 擴展到中小企業</title>
+      <link>https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171208</guid>
+      <pubDate>Tue, 29 Sep 2026 13:47:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家科技巨頭表示，這個代理可以幫助業主經營事業並找到新客戶。</description>
+    </item>
     <item>
       <title>還在使用 iOS 26 嗎？請更新你的 iPhone、iPad 和 Mac，套用這個緊急安全修補</title>
       <link>https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/</link>
@@ -245,24 +263,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>隨著像 Meta 的 Muse 和 Instinct 這類一體化 AI 代理逐漸興起，Google 選擇終止一項用來建立特定任務代理的功能。</description>
-    </item>
-    <item>
-      <title>OpenAI 似乎仍然無法掌握所有失控 AI 活動</title>
-      <link>https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170628</guid>
-      <pubDate>Mon, 28 Sep 2026 17:09:02 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>週五，OpenAI 發布了一個新網站，專門收錄「失配報告」，而這些事件的廣泛程度令人警覺。</description>
-    </item>
-    <item>
-      <title>Meta 推出企業 AI 平台，聘請 MongoDB 執行長領導新計畫</title>
-      <link>https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170653</guid>
-      <pubDate>Mon, 28 Sep 2026 16:52:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 表示，將專注於把其完整技術堆疊，包括 Muse、Meta Business Agent、Muse API、Muse Code 等，帶給企業與開發者。</description>
     </item>
     <item>
       <title>Google 藝術與文化滿 15 歲——並為其 app 換上新面貌</title>
