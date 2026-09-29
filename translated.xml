@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 14:47:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:02:56 GMT</lastBuildDate>
+    <item>
+      <title>在因癌症失去聲音之後，這位創辦人正在打造「聲音眼鏡」</title>
+      <link>https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167664</guid>
+      <pubDate>Tue, 29 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Uhura Bionics 是 TechCrunch Disrupt 2026 Battlefield 200 的一員，想要用一款能傳達情緒的裝置，取代平淡的機器人式語音裝置。</description>
+    </item>
+    <item>
+      <title>Oura 因市場「不確定性」擱置 22 億美元 IPO</title>
+      <link>https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171207</guid>
+      <pubDate>Tue, 29 Sep 2026 14:56:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>IPO 延後將使公司以及其股東部分依賴 IPO 募得資金的計畫延後。</description>
+    </item>
     <item>
       <title>Google 是 America.gov 上線的技術夥伴。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/public-policy/america-gov-google-public-sector/</link>
@@ -257,24 +275,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>隨著外界激烈爭論近期一連串失控的 AI 代理究竟是邁向 AGI 的一步，還是更傳統的工程問題，Nvidia 正在提出自己的答案。Nvidia 執行長 Jensen Huang 週一發表了一套軟體與硬體產品工具組，為 AI 代理加上獨立的安全層，…</description>
-    </item>
-    <item>
-      <title>Anthropic 發布 Sonnet 5.5，稱其為更便宜、更快的工作夥伴</title>
-      <link>https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170644</guid>
-      <pubDate>Mon, 28 Sep 2026 18:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 已發布其中階模型的最新版本，主打更快的回應時間與更少的 token 消耗。</description>
-    </item>
-    <item>
-      <title>Google 正在停用 Gemini 的 Gems，改以「skills」取代</title>
-      <link>https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170736</guid>
-      <pubDate>Mon, 28 Sep 2026 17:29:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著像 Meta 的 Muse 和 Instinct 這類一體化 AI 代理逐漸興起，Google 選擇終止一項用來建立特定任務代理的功能。</description>
     </item>
     <item>
       <title>Google 藝術與文化滿 15 歲——並為其 app 換上新面貌</title>
