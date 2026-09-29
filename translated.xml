@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 13:01:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 13:16:50 GMT</lastBuildDate>
     <item>
       <title>擴大 Instagram 的學校合作夥伴計畫，協助青少年掌握資訊</title>
       <link>https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed/</link>
@@ -18,6 +18,15 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Expanding-Instagrams-School-Partnership-Program-to-Help-Teens-Stay-Informed_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Expanding-Instagrams-School-Partnership-Program-to-Help-Teens-Stay-Informed_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Expanding-Instagrams-School-Partnership-Program-to-Help-Teens-Stay-Informed_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在擴大學校合作夥伴計畫，為經過驗證的學校合作夥伴、經過驗證的學生與家長提供新功能，讓彼此保持連結並掌握資訊。<br>〈擴大 Instagram 的學校合作夥伴計畫，協助青少年掌握資訊〉一文最早刊登於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Fireflies 為其桌面筆記應用程式新增聽寫功能</title>
+      <link>https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171138</guid>
+      <pubDate>Tue, 29 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Fireflies 表示，這項新的聽寫功能不會額外收費，可搭配任何桌面應用程式使用。</description>
     </item>
     <item>
       <title>OpenAI 在其 AI 代理違規存取政府網站後向澳洲道歉</title>
@@ -278,15 +287,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp" alt=""></p><p>看看開發者使用 Gemini 3.8 Flash 打造了什麼；這是我們在 9 月初推出的最聰明的主力模型。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Anthropic、Gamma 和 Clay 分享企業真正部署 AI 時會發生什麼事，地點在 TechCrunch Disrupt 2026</title>
-      <link>https://techcrunch.com/2026/09/28/anthropic-gamma-and-clay-share-what-happens-when-enterprises-actually-deploy-ai-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170437</guid>
-      <pubDate>Mon, 28 Sep 2026 15:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic、Clay 和 Gamma 在 TechCrunch Disrupt 2026 的 AI Stage 上分享，AI 產品要如何超越展示範例。立即報名參加，第二張票可享 5 折優惠。</description>
     </item>
     <item>
       <title>這位雜貨商如何用 Gemini 為 200 位賓客烹調的 3 種方式</title>
