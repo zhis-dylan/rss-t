@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 10:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:15:14 GMT</lastBuildDate>
+    <item>
+      <title>Protego Ventures 募得首支 1.25 億美元基金，聚焦以色列國防科技</title>
+      <link>https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170639</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch 獨家得知，Protego Ventures——以色列首家也是最大一家專注於國防科技的創投基金——剛完成最終 1.25 億美元募資結案。</description>
+    </item>
     <item>
       <title>未來屬於每個人：Small Business 用的 Muse</title>
       <link>https://about.fb.com/news/2026/09/introducing-muse-small-business/</link>
@@ -277,15 +286,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" alt=""></p><p>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在深偽語音騙過她祖父後，這位創辦人立刻採取行動</title>
-      <link>https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169260</guid>
-      <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在她的祖父遭到他兄弟聲音的深偽詐騙後，Tarini Padmanabhuni 創辦了 DetectifAI，這是一家位於舊金山的新創公司，正在打造足夠小、可直接在智慧型手機上執行的 AI 模型，並即時標記假聲音，而它現在也是在 TechCrunch Disrupt 的 Startup Battlefield 中角逐的公司之一。</description>
     </item>
     <item>
       <title>推出 Display &amp; Video 360 的直式影片整合。</title>
