@@ -5,7 +5,17 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 06:28:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 06:43:19 GMT</lastBuildDate>
+    <item>
+      <title>新的 Microsoft 資料創新解鎖只有你的企業才知道的事</title>
+      <link>https://blogs.microsoft.com/blog/2026/09/28/new-microsoft-data-innovations-unlock-what-only-your-business-knows/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563131</guid>
+      <pubDate>Tue, 29 Sep 2026 06:30:04 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>每個組織都有其獨一無二的知識：企業的運作方式、長期累積的資料、員工的專業，以及數千個日常決策背後的脈絡。隨著強大的 AI 模型變得更廣泛可用，這種獨特的商業智慧比以往任何時候都更重要。差異將來自於...
+〈New Microsoft data innovations unlock what only your business knows〉一文最初刊登於 The Official Microsoft Blog。</description>
+    </item>
     <item>
       <title>Anthropic 的招股說明書詳述虧損、成長，還有，沒錯，關於其 AI 可能導致人類滅亡的警告</title>
       <link>https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/</link>
@@ -2001,16 +2011,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>Amy Coleman，執行副總裁暨人力長，今天向員工分享了以下訊息。當我接下這個職位時，我承諾會更坦誠地與大家溝通，並分享我們決策背後的「為什麼」。今天，我們將裁撤約 4,800 個職位，約占全球員工數的 2.1%，因為我們正將我們的人力、投資與...
 〈我們公司轉型的最新進展〉最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>Microsoft Frontier Company：放大並保護你智慧的 AI 工程</title>
-      <link>https://blogs.microsoft.com/blog/2026/07/02/microsoft-frontier-company-ai-engineering-that-amplifies-and-protects-your-intelligence/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563052</guid>
-      <pubDate>Thu, 02 Jul 2026 12:59:05 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>AI 採用的速度正快得驚人。客戶早已超越試驗階段，並了解採用 AI 來轉型其業務的重要性。他們現在專注於帶來可衡量的商業成果，並證明 AI 投資的報酬，同時確保他們的智慧能被放大，且其智慧財產權受到保護。今天……
-The post Microsoft Frontier Company: AI engineering that amplifies and protects your intelligence appeared first on The Official Microsoft Blog.</description>
     </item>
   </channel>
 </rss>
