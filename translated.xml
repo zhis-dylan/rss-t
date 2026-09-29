@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 16:48:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:04:03 GMT</lastBuildDate>
+    <item>
+      <title>Apple Creator Studio 即將推出新更新</title>
+      <link>https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/</guid>
+      <pubDate>Tue, 29 Sep 2026 17:00:02 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日推出 Apple Creator Studio 的更新，這是其開創性的創意與生產力 App 集合。</description>
+    </item>
+    <item>
+      <title>Apple 發布新指南，協助家庭培養健康的數位習慣</title>
+      <link>https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/</guid>
+      <pubDate>Tue, 29 Sep 2026 16:59:08 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>今天，Apple 與美國兒科學會合作，發布一份新指南，協助家庭建立健康的數位習慣。</description>
+    </item>
+    <item>
+      <title>聊天機器人能解決政府迷宮嗎？白宮即將見分曉</title>
+      <link>https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171428</guid>
+      <pubDate>Tue, 29 Sep 2026 16:55:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>America.gov 旨在簡化瀏覽政府官僚體系的流程，但語言模型並不完美，且仍容易產生幻覺，這可能會造成新的問題。</description>
+    </item>
     <item>
       <title>透過 Forum 找到你的社群，這是一個專為 Facebook 社團打造的應用程式</title>
       <link>https://about.fb.com/news/2026/09/find-community-forum-dedicated-app-facebook-groups/</link>
@@ -270,15 +297,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Tesla 表示，這場活動「只能在戶外舉行」，因為預計會以某種形式展示這輛車使用 SpaceX 推進器飛行。</description>
-    </item>
-    <item>
-      <title>AI 熱潮席捲氣候週，不是每個人都樂見其成</title>
-      <link>https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170771</guid>
-      <pubDate>Mon, 28 Sep 2026 19:21:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>就像美國其他地方一樣，資料中心和 AI 正在分裂氣候科技創辦人和投資人。</description>
     </item>
     <item>
       <title>邁向前沿 AI 訓練的安全案例</title>
@@ -1733,24 +1751,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 宣布推出全新 Mac Studio，搭載 M5 Max 與全新的 M5 Ultra，在 AI 效能上帶來巨大飛躍，圖形處理速度也更快。</description>
-    </item>
-    <item>
-      <title>Apple 發表更強大的 Mac mini，搭載全新的 M6 和 M5 Pro</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/</guid>
-      <pubDate>Tue, 25 Aug 2026 12:59:36 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 宣布推出全新 Mac mini，搭載全新的 M6 與強大的 M5 Pro，在超小型桌機設計中帶來大幅效能提升與更多靈活性。</description>
-    </item>
-    <item>
-      <title>Apple 推出 M6 和 M5 Ultra，在效能與 AI 運算上大幅躍進</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/</guid>
-      <pubDate>Tue, 25 Aug 2026 12:58:13 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 在全新的 Mac mini 發表 M6，並在全新的 Mac Studio 發表 M5 Ultra，帶來卓越的效能與 AI 能力飛躍。</description>
     </item>
     <item>
       <title>支撐豐沛智慧的完整技術堆疊</title>
