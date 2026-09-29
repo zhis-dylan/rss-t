@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:34:30 GMT</lastBuildDate>
+    <item>
+      <title>荷蘭警方逮捕 ShinyHunters 駭客，疑似策劃兩起謀殺案</title>
+      <link>https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171481</guid>
+      <pubDate>Tue, 29 Sep 2026 17:27:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>荷蘭警方表示，這名因屬於 ShinyHunters 網路犯罪集團而被逮捕的駭客，曾打算在他的筆電上籌畫殺害兩個人。</description>
+    </item>
+    <item>
+      <title>AI 驅動的 app 製作工具 Wabi 轉向訊息體驗</title>
+      <link>https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171437</guid>
+      <pubDate>Tue, 29 Sep 2026 17:20:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Wabi 正將其以提示詞為基礎的 app 建置工具重新定位為個人 AI 代理，能按需求建立介面，結合聊天、app 和持續進行的任務。</description>
+    </item>
     <item>
       <title>OpenAI 推出 Dots，這款圓潤可愛的代理式虛擬角色</title>
       <link>https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/</link>
@@ -288,24 +306,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Peak XV 最新 Surge 團隊中的 18 家新創有 13 家瞄準全球市場，其中超過一半位於印度。</description>
-    </item>
-    <item>
-      <title>OpenAI 據報因安全疑慮而棄用模型</title>
-      <link>https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171035</guid>
-      <pubDate>Mon, 28 Sep 2026 23:39:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家 AI 實驗室的一位高階主管告訴《華爾街日報》，涉事模型在遵循指令方面表現不佳。</description>
-    </item>
-    <item>
-      <title>Aurora 財務長表示，到 2030 年有 30,000 輛無人駕駛卡車，聽起來沒那麼不切實際</title>
-      <link>https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170875</guid>
-      <pubDate>Mon, 28 Sep 2026 22:58:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>自駕卡車公司 Aurora 提出了 2030 年的一項大膽計畫。其財務長表示，公司的目標並不是空泛的願景。</description>
     </item>
     <item>
       <title>邁向前沿 AI 訓練的安全案例</title>
