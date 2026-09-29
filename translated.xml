@@ -5,7 +5,32 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 15:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 16:03:30 GMT</lastBuildDate>
+    <item>
+      <title>透過 Forum 找到你的社群，這是一個專為 Facebook 社團打造的應用程式</title>
+      <link>https://about.fb.com/news/2026/09/find-community-forum-dedicated-app-facebook-groups/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50472</guid>
+      <pubDate>Tue, 29 Sep 2026 16:00:05 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>用 Forum 找到你的社群，這是一個為想要更深入參與 Facebook 社團的人所打造的應用程式。
+這篇〈透過 Forum 找到你的社群，這是一個專為 Facebook 社團打造的應用程式〉首先出現在 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Forum_-A-Dedicated-App-for-Facebook-Groups_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Forum_-A-Dedicated-App-for-Facebook-Groups_Header.jpg?fit=1920%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Forum_-A-Dedicated-App-for-Facebook-Groups_Header.jpg?fit=1920%2C1080" alt=""></p><p>用 Forum 找到你的社群，這是一個為想要更深入參與 Facebook 社團的人所打造的應用程式。<br>這篇〈透過 Forum 找到你的社群，這是一個專為 Facebook 社團打造的應用程式〉首先出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>從兩位藝術家的視角體驗哲學、科學與 AI</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/las-art-foundation-ai-residency/</guid>
+      <pubDate>Tue, 29 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>藝術家劉心欣與李恩昭運用 Google AI，與 LAS Art Foundation 和 Google Arts &amp; Culture Lab 一起創作了新作品。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LAS_x_Google_Arts__Culture_Titl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LAS_x_Google_Arts__Culture_Titl.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LAS_x_Google_Arts__Culture_Titl.max-600x600.format-webp.webp" alt=""></p><p>藝術家劉心欣與李恩昭運用 Google AI，與 LAS Art Foundation 和 Google Arts &amp; Culture Lab 一起創作了新作品。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Instinct 創辦人表示，該平台上超過 50% 的交易與旅遊相關</title>
       <link>https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/</link>
@@ -622,18 +647,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp" alt=""></p><p>探索 Google Flow 中由創作者為創作者打造的 6 個新工具。</p>]]></content:encoded>
     </item>
     <item>
-      <title>MedGemma 正協助全球醫療照護提供者提供更好的照護</title>
-      <link>https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/medgemma-global-healthcare/</guid>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>醫療保健組織正運用 Google 的技術打造工具，以因應獨特的在地醫療需求。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Medgemma_hero.max-600x600.format-webp.webp" alt=""></p><p>醫療保健組織正運用 Google 的技術打造工具，以因應獨特的在地醫療需求。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Sakeena Fiza 協助 NVIDIA 硬體在大規模部署下成功</title>
       <link>https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/</guid>
@@ -925,19 +938,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924" alt=""></p><p>AI 安全是一個工程問題。這代表明確的安全需求、可執行的控制措施、指定的負責人，以及證明防護有效的證據。隨著 AI 變得更有能力，業界必須加速安全工程、擴大防禦工具的可用性，並更快分享有效的方法。技術改變，安全基本原則依然不變 網際網路和雲端運算改變了軟體的運作方式，[…]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>宣布 Petal：首創的跨洋海底電纜</title>
-      <link>https://about.fb.com/news/2026/09/announcing-petal-meta-petabit-transoceanic-cable/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50232</guid>
-      <pubDate>Mon, 21 Sep 2026 12:00:18 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們正在宣布 Petal，這是第一條能在跨洋之間提供 petabit 容量的海底電纜，將目前最先進跨洋電纜的容量加倍。
-〈宣布 Petal：首創的跨洋海底電纜〉首先刊登於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Announcing-Petal-a-First-of-its-Kind-Transoceanic-Subsea-Cable_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Announcing-Petal-a-First-of-its-Kind-Transoceanic-Subsea-Cable_Header.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Announcing-Petal-a-First-of-its-Kind-Transoceanic-Subsea-Cable_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在宣布 Petal，這是第一條能在跨洋之間提供 petabit 容量的海底電纜，將目前最先進跨洋電纜的容量加倍。<br>〈宣布 Petal：首創的跨洋海底電纜〉首先刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>Higgsfield AI 透過 GPT-6 Astra 在一天內推出新的影片功能</title>
