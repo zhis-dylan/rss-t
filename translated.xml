@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 20:06:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 20:21:42 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 最新功能直接挑戰應用程式商店模式</title>
+      <link>https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171583</guid>
+      <pubDate>Tue, 29 Sep 2026 20:15:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正在逐步打造傳統應用程式商店模式的替代方案，將 ChatGPT 變成一個可供人們和 AI 代理程式發現並使用軟體的地方。</description>
+    </item>
     <item>
       <title>OpenAI 據報正在洽談以 1.4 兆美元估值募集 300 億美元一輪融資</title>
       <link>https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/</link>
@@ -269,15 +278,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Fireflies 表示，這項新的聽寫功能不會額外收費，可搭配任何桌面應用程式使用。</description>
-    </item>
-    <item>
-      <title>OpenAI 在其 AI 代理違規存取政府網站後向澳洲道歉</title>
-      <link>https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171141</guid>
-      <pubDate>Tue, 29 Sep 2026 12:45:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司也詳細說明了部分違規存取是如何發生的，並概述了其正在採取的額外措施，以評估這些事件的影響。</description>
     </item>
     <item>
       <title>DevDay 2026 回顧</title>
