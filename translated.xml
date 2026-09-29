@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 15:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 15:18:04 GMT</lastBuildDate>
+    <item>
+      <title>Instinct 創辦人表示，該平台上超過 50% 的交易與旅遊相關</title>
+      <link>https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171272</guid>
+      <pubDate>Tue, 29 Sep 2026 15:12:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Instinct 創辦人表示，該平台每天成長 10%</description>
+    </item>
     <item>
       <title>在因癌症失去聲音之後，這位創辦人正在打造「聲音眼鏡」</title>
       <link>https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/</link>
@@ -266,15 +275,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" alt=""></p><p>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Nvidia 推出新平台以管控失控的 AI 代理</title>
-      <link>https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170647</guid>
-      <pubDate>Mon, 28 Sep 2026 18:31:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著外界激烈爭論近期一連串失控的 AI 代理究竟是邁向 AGI 的一步，還是更傳統的工程問題，Nvidia 正在提出自己的答案。Nvidia 執行長 Jensen Huang 週一發表了一套軟體與硬體產品工具組，為 AI 代理加上獨立的安全層，…</description>
     </item>
     <item>
       <title>Google 藝術與文化滿 15 歲——並為其 app 換上新面貌</title>
