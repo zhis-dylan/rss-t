@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:49:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:04:48 GMT</lastBuildDate>
+    <item>
+      <title>開玩吧：亨利·卡維爾正拿 Googlebook 來實測</title>
+      <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/</guid>
+      <pubDate>Tue, 29 Sep 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>亨利·卡維爾正與 Googlebook 合作打造一款電玩遊戲，將於今年 11 月推出。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cavill.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cavill.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cavill.max-600x600.format-webp.webp" alt=""></p><p>亨利·卡維爾正與 Googlebook 合作打造一款電玩遊戲，將於今年 11 月推出。</p>]]></content:encoded>
+    </item>
     <item>
       <title>OpenAI 推出 ChatGPT 自己的辦公室套件，與 Microsoft 正面交鋒</title>
       <link>https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/</link>
@@ -660,18 +672,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp" alt=""></p><p>Gemini 正在新增連結應用程式，包括 Adobe、Airtable、Linear、Peloton 等，幫助你更輕鬆處理待辦事項。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>由業界創作者打造的 6 個 Google Flow 新工具</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/six-new-tools-built-by-creatives/</guid>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>探索 Google Flow 中由創作者為創作者打造的 6 個新工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_pic.max-600x600.format-webp.webp" alt=""></p><p>探索 Google Flow 中由創作者為創作者打造的 6 個新工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>Sakeena Fiza 協助 NVIDIA 硬體在大規模部署下成功</title>
