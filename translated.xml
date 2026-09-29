@@ -5,7 +5,52 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 17:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:19:18 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出 Dots，這款圓潤可愛的代理式虛擬角色</title>
+      <link>https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171209</guid>
+      <pubDate>Tue, 29 Sep 2026 17:17:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Dots 旨在獨立於任何特定硬體或介面運作，在背景中持續追求使用者定義的目標，且只需極少監督。</description>
+    </item>
+    <item>
+      <title>OpenAI 為 Codex 提供可跨裝置運作的可重複使用雲端環境</title>
+      <link>https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171268</guid>
+      <pubDate>Tue, 29 Sep 2026 17:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正在為 Codex 擴充可重複使用的雲端開發環境、重新設計並加入語音控制的 CLI、新的程式碼審查工具，以及一款著重安全性的產品，用於掃描儲存庫並準備修正。</description>
+    </item>
+    <item>
+      <title>OpenAI 推出 GPT-6.1 Sol，表示其表現幾乎可媲美 GPT-6 Astra，且成本更低</title>
+      <link>https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171292</guid>
+      <pubDate>Tue, 29 Sep 2026 17:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 表示，GPT-6.1 Sol 在包括程式碼撰寫與除錯、文件理解，以及執行多步驟商業工作流程等複雜專業任務上，相較 GPT-6 Sol 有顯著提升。</description>
+    </item>
+    <item>
+      <title>OpenAI 為 ChatGPT 擴充外掛，加入類似應用程式的介面與自動化功能</title>
+      <link>https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171312</guid>
+      <pubDate>Tue, 29 Sep 2026 17:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正在為 ChatGPT 外掛擴充專屬側邊欄首頁、互動式面板、檔案檢視器、改良的探索功能，以及對自動化的支援。</description>
+    </item>
+    <item>
+      <title>Final Cut Camera 現在支援 iPhone 18 Pro 的可變光圈</title>
+      <link>https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/</guid>
+      <pubDate>Tue, 29 Sep 2026 17:00:57 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Final Cut Camera 迎來重大更新，包含全新設計、支援 iPhone 18 Pro 的可變光圈，以及更多 iOS 27 專業選項。</description>
+    </item>
     <item>
       <title>Apple Creator Studio 即將推出新更新</title>
       <link>https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/</link>
@@ -261,42 +306,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>自駕卡車公司 Aurora 提出了 2030 年的一項大膽計畫。其財務長表示，公司的目標並不是空泛的願景。</description>
-    </item>
-    <item>
-      <title>消息來源：推論服務商 Modal Labs 接近完成 7.5 億美元融資，估值達 157.5 億美元</title>
-      <link>https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170936</guid>
-      <pubDate>Mon, 28 Sep 2026 21:29:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆新融資預計將使這家 AI 基礎設施新創公司的估值，相較四個月前成長超過三倍。</description>
-    </item>
-    <item>
-      <title>AMD 將以 82 億美元收購李飛飛的 World Labs</title>
-      <link>https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170932</guid>
-      <pubDate>Mon, 28 Sep 2026 20:39:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項收購將讓 World Labs 創辦人李飛飛加入 AMD，擔任執行副總裁暨首席科學家。</description>
-    </item>
-    <item>
-      <title>Shopify 開放結帳給以瀏覽器為基礎的 AI 代理</title>
-      <link>https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170763</guid>
-      <pubDate>Mon, 28 Sep 2026 19:33:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Shopify 正在把 WebMCP 支援擴展到結帳功能，讓以瀏覽器為基礎的 AI 代理在買家授權下更新訂單詳細資訊並完成購買。</description>
-    </item>
-    <item>
-      <title>Tesla 因惡劣天氣再度延後 Roadster 2 發表活動</title>
-      <link>https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170848</guid>
-      <pubDate>Mon, 28 Sep 2026 19:27:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Tesla 表示，這場活動「只能在戶外舉行」，因為預計會以某種形式展示這輛車使用 SpaceX 推進器飛行。</description>
     </item>
     <item>
       <title>邁向前沿 AI 訓練的安全案例</title>
@@ -1742,15 +1751,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 loveholidays 如何運用 OpenAI Codex，讓整個企業都能更容易進行軟體開發，協助團隊更快把點子變成產品。</description>
-    </item>
-    <item>
-      <title>Apple 推出搭載 M5 Max 和 M5 Ultra 的全新 Mac Studio</title>
-      <link>https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/</guid>
-      <pubDate>Tue, 25 Aug 2026 13:00:23 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 宣布推出全新 Mac Studio，搭載 M5 Max 與全新的 M5 Ultra，在 AI 效能上帶來巨大飛躍，圖形處理速度也更快。</description>
     </item>
     <item>
       <title>支撐豐沛智慧的完整技術堆疊</title>
