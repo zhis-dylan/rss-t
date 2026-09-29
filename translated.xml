@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 29 Sep 2026 18:04:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 18:19:59 GMT</lastBuildDate>
     <item>
       <title>開玩吧：亨利·卡維爾正拿 Googlebook 來實測</title>
       <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/</link>
@@ -249,6 +249,24 @@
       <description>這輪融資是在 2 月募集的 3,000 萬美元基礎上進一步完成，讓公司總募資金額達到 1.4 億美元。</description>
     </item>
     <item>
+      <title>介紹 GPT-6.1 Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
+    </item>
+    <item>
+      <title>DevDay 2026 回顧</title>
+      <link>https://openai.com/index/devday-2026-recap</link>
+      <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
+    </item>
+    <item>
       <title>Protego Ventures 募得首支 1.25 億美元基金，聚焦以色列國防科技</title>
       <link>https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3170639</guid>
@@ -318,6 +336,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 就涉及澳洲政府網站的事件致歉，並概述更強的防護措施與支援，以強化澳洲的資安防禦。</description>
+    </item>
+    <item>
+      <title>介紹 dots</title>
+      <link>https://openai.com/index/introducing-dots</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-dots</guid>
+      <pubDate>Tue, 29 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的 dots 是一款主動式助理，可以持續處理複雜專案與日常任務。了解 dots 如何在工作持續推進時，幫助你保持掌控。</description>
     </item>
     <item>
       <title>邁向前沿 AI 訓練的安全案例</title>
@@ -695,15 +722,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
-    </item>
-    <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
@@ -720,6 +738,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+    </item>
+    <item>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>Meta Ray-Ban Display 的新功能</title>
@@ -1344,15 +1371,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
-    </item>
-    <item>
       <title>Agents API 介紹</title>
       <link>https://openai.com/index/introducing-the-agents-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
@@ -1360,6 +1378,15 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
+    </item>
+    <item>
+      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
     </item>
     <item>
       <title>Apple 發表 iPhone Duo</title>
@@ -1931,33 +1958,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Fyxer 使用 OpenAI 模型、微調、記憶以及真實使用者回饋，來整理收件匣並以每位使用者的語氣草擬電子郵件。</description>
-    </item>
-    <item>
-      <title>GPT‑5.6 開發者指南</title>
-      <link>https://openai.com/index/builders-guide-to-gpt-5-6</link>
-      <guid isPermaLink="false">https://openai.com/index/builders-guide-to-gpt-5-6</guid>
-      <pubDate>Thu, 13 Aug 2026 11:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解新創公司如何運用 GPT-5.6，透過更智慧的模型選擇與新的 Responses API 功能，更快打造、成本更有效率的 AI 代理。</description>
-    </item>
-    <item>
-      <title>預覽 Ultrfast 模式：GPT-5.6 Sol 最高可達 14 倍速度</title>
-      <link>https://openai.com/index/previewing-ultrafast</link>
-      <guid isPermaLink="false">https://openai.com/index/previewing-ultrafast</guid>
-      <pubDate>Thu, 13 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>預覽 Ultrafast，一個全新的 OpenAI API 服務等級，可讓 GPT-5.6 Sol 的執行速度最高快 14 倍。由 Cerebras 提供技術支援，輸出速度最高可達每秒 750 個 token。</description>
-    </item>
-    <item>
-      <title>OpenAI 任命 Dali Rajic 為營收長</title>
-      <link>https://openai.com/index/dali-rajic-chief-revenue-officer</link>
-      <guid isPermaLink="false">https://openai.com/index/dali-rajic-chief-revenue-officer</guid>
-      <pubDate>Thu, 13 Aug 2026 09:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 任命 Dali Rajic 為營收長，領導其全球營收組織，並協助企業充分發揮 AI 的價值。</description>
     </item>
     <item>
       <title>回顧微軟 FY26：從 AI 實驗邁向前沿轉型</title>
