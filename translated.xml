@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 15:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:15:25 GMT</lastBuildDate>
+    <item>
+      <title>從訓練到生產，NVIDIA 與 CoreWeave 完成 Agentic AI 的閉環</title>
+      <link>https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在將近十年的共同工程合作基礎上，CoreWeave 已將 NVIDIA 的運算、網路與軟體整合成一個專為 AI 打造的雲端，而且在多個部署世代中持續帶來投資報酬。現在，CoreWeave 正將下一代 NVIDIA 基礎架構帶入生產環境。在本週於舊金山舉行的 CoreWeave Fully Connected 活動上，CoreWeave 宣布了 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/c994f47c6b49141a96a67fed66981be3/6abd25513d633284ffca0d51_logo-lockup-corp-blog-coreweave-1280x680-1-842x450/logo-lockup-corp-blog-coreweave-1280x680-1-842x450_thmb.jpg?v=6db82ef4-6b4a-4ab3-a03a-5bf1d18cd178" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c994f47c6b49141a96a67fed66981be3/6abd25513d633284ffca0d51_logo-lockup-corp-blog-coreweave-1280x680-1-842x450/logo-lockup-corp-blog-coreweave-1280x680-1-842x450_thmb.jpg?v=6db82ef4-6b4a-4ab3-a03a-5bf1d18cd178"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c994f47c6b49141a96a67fed66981be3/6abd25513d633284ffca0d51_logo-lockup-corp-blog-coreweave-1280x680-1-842x450/logo-lockup-corp-blog-coreweave-1280x680-1-842x450_thmb.jpg?v=6db82ef4-6b4a-4ab3-a03a-5bf1d18cd178" alt=""></p><p>在將近十年的共同工程合作基礎上，CoreWeave 已將 NVIDIA 的運算、網路與軟體整合成一個專為 AI 打造的雲端，而且在多個部署世代中持續帶來投資報酬。現在，CoreWeave 正將下一代 NVIDIA 基礎架構帶入生產環境。在本週於舊金山舉行的 CoreWeave Fully Connected 活動上，CoreWeave 宣布了 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們推出 SynthID Bio，將我們的浮水印技術帶到合成生物學。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-bio/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google DeepMind 推出 SynthID Bio，用於為 AI 設計的蛋白質加上浮水印，同時維持生物功能。請在此閱讀完整研究報告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BioSynthID_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BioSynthID_socialshare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BioSynthID_socialshare.max-600x600.format-webp.webp" alt=""></p><p>Google DeepMind 推出 SynthID Bio，用於為 AI 設計的蛋白質加上浮水印，同時維持生物功能。請在此閱讀完整研究報告。</p>]]></content:encoded>
+    </item>
     <item>
       <title>川普總統與頂尖 AI 領袖簽署的承諾將美國拼錯了</title>
       <link>https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/</link>
@@ -515,6 +539,18 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/The-Biggest-News-From-Connect-2026_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>昨天在 Connect 上，我們宣布將把 Muse 帶到我們的 AI 智慧眼鏡上，推出了 Meta VR 眼鏡，還有更多內容。<br>這篇〈Connect 2026 的最大消息〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
+      <title>我們新的健康與安全工具已在 Google Health 應用程式上線。</title>
+      <link>https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>用 Chrome 升級你學習習慣的 5 種方式</title>
       <link>https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</guid>
@@ -537,18 +573,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp" alt=""></p><p>Google 相簿中的五項更新，將幫助你充分珍藏你的夏日回憶。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們新的健康與安全工具已在 Google Health 應用程式上線。</title>
-      <link>https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</guid>
-      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過 9 月的 Demand Gen Drop，將探索轉化為行動。</title>
@@ -687,18 +711,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>慶祝 OpenAI Academy 滿兩週年，並將 AI 技能帶給更多社群。</description>
-    </item>
-    <item>
-      <title>新一波連結應用程式正在推向 Gemini。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-connected-apps-gemini/</guid>
-      <pubDate>Wed, 23 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 正在新增連結應用程式，包括 Adobe、Airtable、Linear、Peloton 等，幫助你更輕鬆處理待辦事項。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/For_blog_16x9.max-600x600.format-webp.webp" alt=""></p><p>Gemini 正在新增連結應用程式，包括 Adobe、Airtable、Linear、Peloton 等，幫助你更輕鬆處理待辦事項。</p>]]></content:encoded>
     </item>
     <item>
       <title>Sakeena Fiza 協助 NVIDIA 硬體在大規模部署下成功</title>
@@ -1252,15 +1264,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>在今晚舉行的第 78 屆黃金時段艾美獎上，Apple TV 打破紀錄，成為今年獲獎最多的電視網，總共拿下 29 座獎項。</description>
-    </item>
-    <item>
-      <title>關鍵所在：一家大型兒童醫院如何運用開源 NVIDIA AI 進行心臟照護</title>
-      <link>https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/childrens-hospital-open-source-ai-cardiac-care/</guid>
-      <pubDate>Tue, 15 Sep 2026 09:00:42 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description/>
     </item>
     <item>
       <title>Apple 軟體平台的重大更新現已推出</title>
