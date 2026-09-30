@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:48:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 20:03:29 GMT</lastBuildDate>
+    <item>
+      <title>Gemini 4 Argon：我們下一個前沿智慧新時代</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/</guid>
+      <pubDate>Wed, 30 Sep 2026 20:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>宣布 Gemini 4 Argon，我們用於真實世界程式設計、企業知識工作與網路防禦的前沿模型，將很快推出。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.max-600x600.format-webp.webp" alt=""></p><p>宣布 Gemini 4 Argon，我們用於真實世界程式設計、企業知識工作與網路防禦的前沿模型，將很快推出。</p>]]></content:encoded>
+    </item>
     <item>
       <title>駭客在長達數月的資料外洩中竊取了數百萬名美軍人員紀錄</title>
       <link>https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/</link>
@@ -641,18 +653,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/The-Biggest-News-From-Connect-2026_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>昨天在 Connect 上，我們宣布將把 Muse 帶到我們的 AI 智慧眼鏡上，推出了 Meta VR 眼鏡，還有更多內容。<br>這篇〈Connect 2026 的最大消息〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們新的健康與安全工具已在 Google Health 應用程式上線。</title>
-      <link>https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</guid>
-      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Chrome 升級你學習習慣的 5 種方式</title>
       <link>https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</guid>
@@ -677,6 +677,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp" alt=""></p><p>Google 相簿中的五項更新，將幫助你充分珍藏你的夏日回憶。</p>]]></content:encoded>
     </item>
     <item>
+      <title>我們新的健康與安全工具已在 Google Health 應用程式上線。</title>
+      <link>https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</guid>
+      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>透過 9 月的 Demand Gen Drop，將探索轉化為行動。</title>
       <link>https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/</link>
       <guid isPermaLink="false">https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/</guid>
@@ -687,18 +699,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 9 月 Demand Gen Drop 的全新無縫體驗與整合，將探索轉化為行動。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>推出搭載 Live Avatar 的 Gemini 3.8 Live</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/</guid>
-      <pubDate>Thu, 24 Sep 2026 15:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>推出搭載 Live Avatar 的 Gemini 3.8 Live，為 Gemini 的對話式 AI 帶來近乎即時的視覺臨場感。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Slide_16_9_-_37.max-600x600.format-webp.webp" alt=""></p><p>推出搭載 Live Avatar 的 Gemini 3.8 Live，為 Gemini 的對話式 AI 帶來近乎即時的視覺臨場感。</p>]]></content:encoded>
     </item>
     <item>
       <title>開放科學如何幫助研究人員為下一場大流行做好準備</title>
