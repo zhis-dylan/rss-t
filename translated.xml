@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 14:29:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:45:04 GMT</lastBuildDate>
+    <item>
+      <title>Google 在印度推出 Fitbit Air，不過高昂售價可能會讓大眾卻步</title>
+      <link>https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172028</guid>
+      <pubDate>Wed, 30 Sep 2026 14:32:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Fitbit Air 在印度售價約 146 美元，比美國定價高出約 47 美元。</description>
+    </item>
+    <item>
+      <title>Instagram 為創作者推出 AI 影片編輯器</title>
+      <link>https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171759</guid>
+      <pubDate>Wed, 30 Sep 2026 14:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這款對話式 AI 助理旨在提供個人化回饋給創作者，而不是泛泛的建議。</description>
+    </item>
+    <item>
+      <title>Cerebras Systems 的 Andrew Feldman 將在 TechCrunch Disrupt 2026 探討 AI 是否能持續擴張</title>
+      <link>https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171828</guid>
+      <pubDate>Wed, 30 Sep 2026 14:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 TechCrunch Disrupt 2026 上，Cerebras Systems 執行長暨共同創辦人 Andrew Feldman 將探討運算、能源與基礎設施需求不斷成長的趨勢、Cerebras 如何以不同方式因應這些限制，以及若當前 AI 硬體達到極限，接下來會發生什麼事。</description>
+    </item>
     <item>
       <title>Restate 在 AI 代理帶動下對耐久基礎架構的需求增加之際募得 2,000 萬美元</title>
       <link>https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/</link>
@@ -164,15 +191,6 @@
       <description>印度一些最大型的銀行最初不打算支援 Apple Pay。</description>
     </item>
     <item>
-      <title>這就是 OpenAI 為何缺席 Nvidia 產業級終結失控 AI 代理人行動的原因</title>
-      <link>https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171020</guid>
-      <pubDate>Tue, 29 Sep 2026 18:35:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch 獲悉，OpenAI 並未公開支持 Nvidia 的 Open Agent Safety Platform，但私下正與 Nvidia 合作。</description>
-    </item>
-    <item>
       <title>開玩吧：亨利·卡維爾正拿 Googlebook 來實測</title>
       <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-video-game/</guid>
@@ -183,24 +201,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cavill.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cavill.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cavill.max-600x600.format-webp.webp" alt=""></p><p>亨利·卡維爾正與 Googlebook 合作打造一款電玩遊戲，將於今年 11 月推出。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 推出 ChatGPT 自己的辦公室套件，與 Microsoft 正面交鋒</title>
-      <link>https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171280</guid>
-      <pubDate>Tue, 29 Sep 2026 17:45:51 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 新宣布的辦公功能套件，讓它與更傳統的軟體公司形成更直接的競爭。</description>
-    </item>
-    <item>
-      <title>荷蘭警方逮捕 ShinyHunters 駭客，疑似策劃兩起謀殺案</title>
-      <link>https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171481</guid>
-      <pubDate>Tue, 29 Sep 2026 17:27:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>荷蘭警方表示，這名因屬於 ShinyHunters 網路犯罪集團而被逮捕的駭客，曾打算在他的筆電上籌畫殺害兩個人。</description>
     </item>
     <item>
       <title>Final Cut Camera 現在支援 iPhone 18 Pro 的可變光圈</title>
