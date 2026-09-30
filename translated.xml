@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 17:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:31:57 GMT</lastBuildDate>
+    <item>
+      <title>消費者 AI 的難看經濟學</title>
+      <link>https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172200</guid>
+      <pubDate>Wed, 30 Sep 2026 17:24:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>前沿實驗室對消費者 AI 變得畏縮是有原因的——而且不是因為這項技術不夠好。</description>
+    </item>
     <item>
       <title>NVIDIA 開放 2027–2028 年研究生獎學金申請，獎助金最高可達 60,000 美元</title>
       <link>https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/</link>
@@ -260,15 +269,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>基於國家安全的考量，得知 America.gov 並沒有幻覺到會寫長篇詩作，實在令人鬆一口氣。</description>
-    </item>
-    <item>
-      <title>網路都認為 Elon Musk 的 xAI 在嘲諷 OpenAI 的「Dots」發表</title>
-      <link>https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171681</guid>
-      <pubDate>Tue, 29 Sep 2026 22:20:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 OpenAI 週二推出新的 AI 代理 Dots 之前，Elon Musk 的 xAI 已經取得了網域名稱「dot.com」，現在會重新導向到 Grok 聊天機器人下載頁面。</description>
     </item>
     <item>
       <title>據稱 Apple Pay 將於今天在印度與 Axis Bank 一同上線</title>
