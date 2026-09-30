@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:58:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:14:10 GMT</lastBuildDate>
+    <item>
+      <title>Charter Space 募得 500 萬美元，為星際提供保險</title>
+      <link>https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171650</guid>
+      <pubDate>Wed, 30 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>正如 Charter 在其網站上所說，太空公司的常見經驗是，傳統保險公司「聽到一堆可怕的科學術語就嚇壞了。」</description>
+    </item>
+    <item>
+      <title>Tinder 透過「Group Hangouts」功能，因應更社交、線下的交友未來</title>
+      <link>https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171693</guid>
+      <pubDate>Wed, 30 Sep 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著年輕用戶越來越厭倦無止盡的滑動交友，約會 App 正在努力適應一個愈來愈希望交友更有社交感、並根植於真實世界體驗的世代。最新例子來自 Tinder；該公司週三宣布推出「Group Hangouts」，這項新功能可讓朋友群組[…]</description>
+    </item>
     <item>
       <title>兩位 Google 校友募得 1,130 萬美元，支持企業真的會買單的 AI 新創公司</title>
       <link>https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/</link>
@@ -185,15 +203,6 @@
       <description>OpenAI 表示，GPT-6.1 Sol 在包括程式碼撰寫與除錯、文件理解，以及執行多步驟商業工作流程等複雜專業任務上，相較 GPT-6 Sol 有顯著提升。</description>
     </item>
     <item>
-      <title>OpenAI 為 ChatGPT 擴充外掛，加入類似應用程式的介面與自動化功能</title>
-      <link>https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171312</guid>
-      <pubDate>Tue, 29 Sep 2026 17:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 正在為 ChatGPT 外掛擴充專屬側邊欄首頁、互動式面板、檔案檢視器、改良的探索功能，以及對自動化的支援。</description>
-    </item>
-    <item>
       <title>Final Cut Camera 現在支援 iPhone 18 Pro 的可變光圈</title>
       <link>https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/final-cut-camera-now-supports-variable-aperture-on-iphone-18-pro/</guid>
@@ -219,15 +228,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>今天，Apple 與美國兒科學會合作，發布一份新指南，協助家庭建立健康的數位習慣。</description>
-    </item>
-    <item>
-      <title>聊天機器人能解決政府迷宮嗎？白宮即將見分曉</title>
-      <link>https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171428</guid>
-      <pubDate>Tue, 29 Sep 2026 16:55:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>America.gov 旨在簡化瀏覽政府官僚體系的流程，但語言模型並不完美，且仍容易產生幻覺，這可能會造成新的問題。</description>
     </item>
     <item>
       <title>透過 Forum 找到你的社群，這是一個專為 Facebook 社團打造的應用程式</title>
