@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 13:44:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:59:35 GMT</lastBuildDate>
+    <item>
+      <title>WhatsApp 為青少年帳號新增家長監護控制</title>
+      <link>https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172019</guid>
+      <pubDate>Wed, 30 Sep 2026 13:50:16 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>家長可以限制青少年如何使用頻道、誰的狀態可以看見、誰可以看見他們的狀態更新，以及控制誰可以將青少年加入群組。</description>
+    </item>
     <item>
       <title>Amazon 新款 Fire TV Stick 4K 搭載一支真的好用的遙控器</title>
       <link>https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/</link>
@@ -192,15 +201,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Dots 旨在獨立於任何特定硬體或介面運作，在背景中持續追求使用者定義的目標，且只需極少監督。</description>
-    </item>
-    <item>
-      <title>OpenAI 為 Codex 提供可跨裝置運作的可重複使用雲端環境</title>
-      <link>https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171268</guid>
-      <pubDate>Tue, 29 Sep 2026 17:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 正在為 Codex 擴充可重複使用的雲端開發環境、重新設計並加入語音控制的 CLI、新的程式碼審查工具，以及一款著重安全性的產品，用於掃描儲存庫並準備修正。</description>
     </item>
     <item>
       <title>Final Cut Camera 現在支援 iPhone 18 Pro 的可變光圈</title>
