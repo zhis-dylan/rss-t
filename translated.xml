@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 17:31:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:47:10 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 正在停用 RSS feed，並終止公開 API 存取，因為 AI 機器人</title>
+      <link>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172243</guid>
+      <pubDate>Wed, 30 Sep 2026 17:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Reddit 正在停止支援 RSS feed，因為該公司持續收緊對其大量使用者生成內容的存取。</description>
+    </item>
     <item>
       <title>消費者 AI 的難看經濟學</title>
       <link>https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/</link>
@@ -253,6 +262,15 @@
       <description>Airbnb 也將在部分地區推出新服務，例如餐點外送和洗衣服務。</description>
     </item>
     <item>
+      <title>阻止一場協同模型蒸餾行動</title>
+      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+      <guid isPermaLink="false">https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
+      <pubDate>Wed, 30 Sep 2026 10:30:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 OpenAI 如何阻止一場試圖擷取受保護模型推理的行動，並正在強化對抗蒸餾的防禦。</description>
+    </item>
+    <item>
       <title>協助小型企業運用 AI</title>
       <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
       <guid isPermaLink="false">https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
@@ -260,15 +278,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正與美國 SBDC 合作，擴大提供實作型 AI 訓練與在地支援給小型企業，並同步發布一份關於小型團隊如何使用 AI 的新報告。</description>
-    </item>
-    <item>
-      <title>當你問 America.gov 關於 Minecraft 時，它會變得很怪，但這不是故障</title>
-      <link>https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171769</guid>
-      <pubDate>Tue, 29 Sep 2026 23:30:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>基於國家安全的考量，得知 America.gov 並沒有幻覺到會寫長篇詩作，實在令人鬆一口氣。</description>
     </item>
     <item>
       <title>據稱 Apple Pay 將於今天在印度與 Axis Bank 一同上線</title>
@@ -369,15 +378,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Expanding-Instagrams-School-Partnership-Program-to-Help-Teens-Stay-Informed_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在擴大學校合作夥伴計畫，為經過驗證的學校合作夥伴、經過驗證的學生與家長提供新功能，讓彼此保持連結並掌握資訊。<br>〈擴大 Instagram 的學校合作夥伴計畫，協助青少年掌握資訊〉一文最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>DevDay 2026 回顧</title>
-      <link>https://openai.com/index/devday-2026-recap</link>
-      <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
-    </item>
-    <item>
       <title>介紹 GPT-6.1 Sol</title>
       <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
@@ -385,6 +385,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
+    </item>
+    <item>
+      <title>DevDay 2026 回顧</title>
+      <link>https://openai.com/index/devday-2026-recap</link>
+      <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
     </item>
     <item>
       <title>未來屬於每個人：Small Business 用的 Muse</title>
@@ -555,15 +564,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
-      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
-    </item>
-    <item>
       <title>你是 Codex Original 嗎？</title>
       <link>https://openai.com/form/codex-originals</link>
       <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
@@ -571,6 +571,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
+    </item>
+    <item>
+      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
+      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -755,6 +764,15 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
@@ -771,15 +789,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>Meta Ray-Ban Display 的新功能</title>
@@ -1383,15 +1392,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>Agents API 介紹</title>
-      <link>https://openai.com/index/introducing-the-agents-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
-    </item>
-    <item>
       <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
       <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
@@ -1399,6 +1399,15 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
+    </item>
+    <item>
+      <title>Agents API 介紹</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
     </item>
     <item>
       <title>Apple 發表 iPhone Duo</title>
@@ -1590,15 +1599,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <description>OpenAI 推出 Daybreak for Frontline Defenders。這筆 10 億美元的承諾將擴大前沿網路安全 AI、訓練與支援的取得，協助關鍵服務。</description>
     </item>
     <item>
-      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
@@ -1606,6 +1606,15 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
+    </item>
+    <item>
+      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
@@ -1756,15 +1765,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -1772,6 +1772,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1943,15 +1952,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>AI 正在重塑攻擊者與防守者的資安攻防。了解 OpenAI 如何強化自身防禦，以及資安團隊現在可以採取哪些行動。</description>
-    </item>
-    <item>
-      <title>OpenAI 加入 PORTS-Pike 計畫</title>
-      <link>https://openai.com/index/openai-joins-ports-pike-project</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-joins-ports-pike-project</guid>
-      <pubDate>Mon, 17 Aug 2026 05:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 加入 PORTS-Pike 計畫，擴大社區投資並支持南俄亥俄州數千個工作機會</description>
     </item>
     <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
