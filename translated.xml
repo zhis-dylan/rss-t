@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 19:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 19:33:11 GMT</lastBuildDate>
+    <item>
+      <title>駭客在長達數月的資料外洩中竊取了數百萬名美軍人員紀錄</title>
+      <link>https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172343</guid>
+      <pubDate>Wed, 30 Sep 2026 19:29:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>國防部通知數百萬名現任和前任美國軍事人員，他們的個人資訊已在一場長達數月的外洩事件中被竊取。</description>
+    </item>
+    <item>
+      <title>DoorDash 的無人機策略是從地面開始的</title>
+      <link>https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172293</guid>
+      <pubDate>Wed, 30 Sep 2026 19:22:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>DoorDash 在其年度 Dash Forward 2026 活動上，公布了將用於其全新無人機配送業務的六旋翼飛機。</description>
+    </item>
+    <item>
+      <title>BMW 為汽油版和電動版打造了同一款車。電動車便宜 4,400 美元。</title>
+      <link>https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172355</guid>
+      <pubDate>Wed, 30 Sep 2026 19:19:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>全新 BMW 3 Series 顯示，電動車在價格上追上化石燃料車的速度有多快。</description>
+    </item>
     <item>
       <title>OpenAI 的 Jev 複製品可能有助於這家前沿實驗室阻止其蜂群般的代理程式</title>
       <link>https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/</link>
@@ -266,33 +293,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Amazon 新款 Fire TV Stick 4K 更薄也更快，但它最大的升級可能是你真正會拿在手上的那個東西：重新設計的遙控器，更容易使用，特別是在黑暗中。</description>
-    </item>
-    <item>
-      <title>Charter Space 募得 500 萬美元，為星際提供保險</title>
-      <link>https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171650</guid>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>正如 Charter 在其網站上所說，太空公司的常見經驗是，傳統保險公司「聽到一堆可怕的科學術語就嚇壞了。」</description>
-    </item>
-    <item>
-      <title>Tinder 透過「Group Hangouts」功能，因應更社交、線下的交友未來</title>
-      <link>https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171693</guid>
-      <pubDate>Wed, 30 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著年輕用戶越來越厭倦無止盡的滑動交友，約會 App 正在努力適應一個愈來愈希望交友更有社交感、並根植於真實世界體驗的世代。最新例子來自 Tinder；該公司週三宣布推出「Group Hangouts」，這項新功能可讓朋友群組[…]</description>
-    </item>
-    <item>
-      <title>兩位 Google 校友募得 1,130 萬美元，支持企業真的會買單的 AI 新創公司</title>
-      <link>https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171387</guid>
-      <pubDate>Wed, 30 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>BAG Ventures 宣布其首檔基金 Fund I 已完成募資，金額為 1,130 萬美元，將投資各類 AI 相關項目。</description>
     </item>
     <item>
       <title>阻止一場協同模型蒸餾行動</title>
