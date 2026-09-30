@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 13:29:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 13:44:27 GMT</lastBuildDate>
+    <item>
+      <title>Amazon 新款 Fire TV Stick 4K 搭載一支真的好用的遙控器</title>
+      <link>https://techcrunch.com/2026/09/30/amazons-new-fire-tv-stick-4k-comes-with-an-actually-good-remote/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172029</guid>
+      <pubDate>Wed, 30 Sep 2026 13:43:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 新款 Fire TV Stick 4K 更薄也更快，但它最大的升級可能是你真正會拿在手上的那個東西：重新設計的遙控器，更容易使用，特別是在黑暗中。</description>
+    </item>
     <item>
       <title>Charter Space 募得 500 萬美元，為星際提供保險</title>
       <link>https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/</link>
@@ -192,15 +201,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 正在為 Codex 擴充可重複使用的雲端開發環境、重新設計並加入語音控制的 CLI、新的程式碼審查工具，以及一款著重安全性的產品，用於掃描儲存庫並準備修正。</description>
-    </item>
-    <item>
-      <title>OpenAI 推出 GPT-6.1 Sol，表示其表現幾乎可媲美 GPT-6 Astra，且成本更低</title>
-      <link>https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171292</guid>
-      <pubDate>Tue, 29 Sep 2026 17:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 表示，GPT-6.1 Sol 在包括程式碼撰寫與除錯、文件理解，以及執行多步驟商業工作流程等複雜專業任務上，相較 GPT-6 Sol 有顯著提升。</description>
     </item>
     <item>
       <title>Final Cut Camera 現在支援 iPhone 18 Pro 的可變光圈</title>
