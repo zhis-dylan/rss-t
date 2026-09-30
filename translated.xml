@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 16:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:31:20 GMT</lastBuildDate>
+    <item>
+      <title>Meta 反駁 Muse 未經允許讀取使用者私人訊息的說法</title>
+      <link>https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172182</guid>
+      <pubDate>Wed, 30 Sep 2026 16:24:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 表示，旗下 Muse AI 代理程式無法在沒有明確許可的情況下存取使用者的訊息，並反駁一名記者的說法；該記者稱，當所需的 Mac 設定關閉時，這個代理程式讀取了他的私人訊息。</description>
+    </item>
     <item>
       <title>DoorDash 推出可用簡訊下單食物的 AI 代理</title>
       <link>https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/</link>
@@ -236,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 OpenAI 週二推出新的 AI 代理 Dots 之前，Elon Musk 的 xAI 已經取得了網域名稱「dot.com」，現在會重新導向到 Grok 聊天機器人下載頁面。</description>
-    </item>
-    <item>
-      <title>你的車和它的行動 App 可能正在把各種資料交給科技公司</title>
-      <link>https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171636</guid>
-      <pubDate>Tue, 29 Sep 2026 22:18:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Northeastern University 的研究人員發現，車輛及其配套 App 會定期與一些最大型的科技公司分享詳細資料。</description>
     </item>
     <item>
       <title>據稱 Apple Pay 將於今天在印度與 Axis Bank 一同上線</title>
