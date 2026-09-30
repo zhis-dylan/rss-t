@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 17:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:16:48 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 開放 2027–2028 年研究生獎學金申請，獎助金最高可達 60,000 美元</title>
+      <link>https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/</guid>
+      <pubDate>Wed, 30 Sep 2026 17:00:21 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>匯聚全球最聰明的頭腦與最新的加速運算技術，能帶來強大的突破，協助解決一些最重大的研究問題。為了促進這類創新，NVIDIA 研究生獎學金計畫會提供獎助金、導師指導，以及技術支援給那些進行與 NVIDIA 技術相關傑出研究的博士生。這項計畫目前已邁入第 26 屆［…］</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202609/ee1928d508ca963c894784a02b6113fd/6abd40523d633214cb8a7db4_graduate-fellowship-2026-updated-842x450/graduate-fellowship-2026-updated-842x450_thmb.jpg?v=d8ac71cd-fe6d-4082-8263-cb768ed942f1" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/ee1928d508ca963c894784a02b6113fd/6abd40523d633214cb8a7db4_graduate-fellowship-2026-updated-842x450/graduate-fellowship-2026-updated-842x450_thmb.jpg?v=d8ac71cd-fe6d-4082-8263-cb768ed942f1"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/ee1928d508ca963c894784a02b6113fd/6abd40523d633214cb8a7db4_graduate-fellowship-2026-updated-842x450/graduate-fellowship-2026-updated-842x450_thmb.jpg?v=d8ac71cd-fe6d-4082-8263-cb768ed942f1" alt=""></p><p>匯聚全球最聰明的頭腦與最新的加速運算技術，能帶來強大的突破，協助解決一些最重大的研究問題。為了促進這類創新，NVIDIA 研究生獎學金計畫會提供獎助金、導師指導，以及技術支援給那些進行與 NVIDIA 技術相關傑出研究的博士生。這項計畫目前已邁入第 26 屆［…］</p>]]></content:encoded>
+    </item>
     <item>
       <title>支援高等教育的 AI 就緒度</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/google-org/educause-2026/</link>
@@ -1252,18 +1264,6 @@ Meta 持續投資於在旗下平台建立防護並移除違規詐騙內容。到
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575" alt=""></p><p>在矽谷一個酷熱的 8 月夜晚，當太陽下山、空調負載飆升時，Silicon Valley Power 向一座 AI 工廠發出訊號，要求調整其用電量。Varun Sivaram 當時正透過 Zoom 與另外大約四十人一起觀看——他在舊金山會議室裡的 Emerald AI 團隊、工程師 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI Infra 峰會：NVIDIA Vera Rubin 與 DSX 平台進展展示 AI 工廠以每瓦 Token 數最佳化的能源效率</title>
-      <link>https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-infra-summit-vera-rubin-dsx-energy-efficiencies-tokens-per-watt-ai-factories/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:55:40 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 超大規模與高效能運算副總裁 Ian Buck 週二在 AI Infra 峰會上談到 AI 工廠效率；這場在聖塔克拉拉會議中心舉行的活動已演變成基礎設施科技界的 Coachella。面對滿座的觀眾——今年有超過 8,000 名與會者，高於去年的 3,500 名——[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/8f011514186f899f16838f6d383c8efc/6aa979083d633225ae170bf4_gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450/gpu-social-vera-rubin-pod-1920x1080-4983951-1-842x450_thmb.jpg?v=f558b9d7-db21-4068-91f2-defd3fc79b36" alt=""></p><p>NVIDIA 超大規模與高效能運算副總裁 Ian Buck 週二在 AI Infra 峰會上談到 AI 工廠效率；這場在聖塔克拉拉會議中心舉行的活動已演變成基礎設施科技界的 Coachella。面對滿座的觀眾——今年有超過 8,000 名與會者，高於去年的 3,500 名——[…]</p>]]></content:encoded>
     </item>
     <item>
       <title>Widow’s Bay 成為艾美獎史上獲獎最多的新生代喜劇</title>
