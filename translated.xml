@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 21:34:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 21:49:28 GMT</lastBuildDate>
+    <item>
+      <title>Google 的 AI 在預測流感住院方面排名第 1。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/</guid>
+      <pubDate>Wed, 30 Sep 2026 21:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>美國疾病管制與預防中心宣布，Google 的科學 AI 模型在預測與流感相關的住院人數方面表現最佳。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp" alt=""></p><p>美國疾病管制與預防中心宣布，Google 的科學 AI 模型在預測與流感相關的住院人數方面表現最佳。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Valor、Atreides 和 Sequoia 以 7.5 億美元估值支持 AI 新創 Flow Engineering</title>
       <link>https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/</link>
@@ -678,18 +690,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 9 月的 Demand Gen Drop，將探索轉化為行動。</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/demand-gen-drop-september-2026/</guid>
-      <pubDate>Thu, 24 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 YouTube 9 月 Demand Gen Drop 的全新無縫體驗與整合，將探索轉化為行動。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_September.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 9 月 Demand Gen Drop 的全新無縫體驗與整合，將探索轉化為行動。</p>]]></content:encoded>
     </item>
     <item>
       <title>開放科學如何幫助研究人員為下一場大流行做好準備</title>
