@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 30 Sep 2026 15:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 15:30:35 GMT</lastBuildDate>
+    <item>
+      <title>FedEx 向 Harbinger 訂購 2,000 輛電動卡車，交易金額達 3 億美元</title>
+      <link>https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172168</guid>
+      <pubDate>Wed, 30 Sep 2026 15:26:02 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆訂單是 Harbinger 有史以來最大的一筆，據報這家新創公司正在考慮首次公開募股（IPO）。</description>
+    </item>
     <item>
       <title>從訓練到生產，NVIDIA 與 CoreWeave 完成 Agentic AI 的閉環</title>
       <link>https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</link>
@@ -191,15 +200,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 正在逐步打造傳統應用程式商店模式的替代方案，將 ChatGPT 變成一個可供人們和 AI 代理程式發現並使用軟體的地方。</description>
-    </item>
-    <item>
-      <title>OpenAI 據報正在洽談以 1.4 兆美元估值募集 300 億美元一輪融資</title>
-      <link>https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171634</guid>
-      <pubDate>Tue, 29 Sep 2026 19:52:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>預計這輪新融資將是該公司在延後至 2027 年上市前的最後一輪。</description>
     </item>
     <item>
       <title>據稱 Apple Pay 將於今天在印度與 Axis Bank 一同上線</title>
