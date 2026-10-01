@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 01 Oct 2026 15:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 15:29:14 GMT</lastBuildDate>
     <item>
       <title>Google 發布 Gemini 4 Argon，稱其為迄今最強大的模型</title>
       <link>https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/</link>
@@ -501,15 +501,6 @@
       <description>OpenAI 的 dots 是一款主動式助理，可以持續處理複雜專案與日常任務。了解 dots 如何在工作持續推進時，幫助你保持掌控。</description>
     </item>
     <item>
-      <title>邁向前沿 AI 訓練的安全案例</title>
-      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
-      <guid isPermaLink="false">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們針對前沿 AI 訓練中安全案例的早期指引，涵蓋技術防護、營運實務，以及調查對齊失準事件</description>
-    </item>
-    <item>
       <title>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</guid>
@@ -520,6 +511,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" alt=""></p><p>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>邁向前沿 AI 訓練的安全案例</title>
+      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
+      <guid isPermaLink="false">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們針對前沿 AI 訓練中安全案例的早期指引，涵蓋技術防護、營運實務，以及調查對齊失準事件</description>
     </item>
     <item>
       <title>Google 藝術與文化滿 15 歲——並為其 app 換上新面貌</title>
