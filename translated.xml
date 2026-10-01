@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 01 Oct 2026 11:55:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 12:10:33 GMT</lastBuildDate>
     <item>
       <title>Google 發布 Gemini 4 Argon，稱其為迄今最強大的模型</title>
       <link>https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/</link>
@@ -209,6 +209,15 @@
       <description>DoorDash 推出用於餐點訂購的 AI 代理，目的是在 Uber Eats 和 Grubhub 等競爭對手之間取得優勢。</description>
     </item>
     <item>
+      <title>Destro AI 的祕訣是讓機器人和人類達成共識</title>
+      <link>https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3164565</guid>
+      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「我們之所以能擊敗機器人公司，最大的原因之一就是我們不是一家機器人公司。」</description>
+    </item>
+    <item>
       <title>讓 Gemini 中的 skills 幫你處理最重複的工作</title>
       <link>https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/automate-tasks-with-skills/</guid>
@@ -243,15 +252,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BreastCancerCampaign_KeyVisual.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BreastCancerCampaign_KeyVisual.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BreastCancerCampaign_KeyVisual.max-600x600.format-webp.webp" alt=""></p><p>今年 10 月，Waze 將協助駕駛找到篩檢診所、評估自身健康風險，並安排例行健檢。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Destro AI 的祕訣是讓機器人和人類達成共識</title>
-      <link>https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164565</guid>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「我們之所以能擊敗機器人公司，最大的原因之一就是我們不是一家機器人公司。」</description>
     </item>
     <item>
       <title>Instinct 的新產品推薦讓一些使用者很反感</title>
