@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 02 Oct 2026 16:57:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:12:43 GMT</lastBuildDate>
+    <item>
+      <title>Circuit Breaker Labs 希望讓 AI 對你的孩子（以及你）更安全</title>
+      <link>https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172764</guid>
+      <pubDate>Fri, 02 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在大家都在談論 AI 有一天可能會害死我們所有人的情況下，很容易忘記 AI 其實已經在心理上傷害過一些人。Circuit Breaker Labs 已經打造出「撞擊測試假人」來解決這個問題。</description>
+    </item>
     <item>
       <title>GPT-6 家族的模型指南</title>
       <link>https://openai.com/index/practical-guide-building-gpt-6</link>
@@ -245,15 +254,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 已將首款先進晶片送上軌道，為太空資料中心鋪路。</description>
-    </item>
-    <item>
-      <title>全球首座強化地熱發電廠僅用 23 個月完工</title>
-      <link>https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172802</guid>
-      <pubDate>Thu, 01 Oct 2026 18:35:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Fervo Energy 在不到兩年的時間內完成了首座發電廠。下一階段則有望更快接上電網。</description>
     </item>
     <item>
       <title>永恆的互補</title>
