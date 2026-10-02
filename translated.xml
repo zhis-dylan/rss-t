@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 02 Oct 2026 17:43:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 17:58:10 GMT</lastBuildDate>
+    <item>
+      <title>它不再是 AI 了，而是「超級智慧」（根據白宮的說法）</title>
+      <link>https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3173314</guid>
+      <pubDate>Fri, 02 Oct 2026 17:48:16 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>本週，白宮把幾乎所有主要科技公司執行長都聚在同一個房間裡——其中包括 Zuckerberg、Bezos、Musk，以及 Anthropic 的 Dario Amodei——簽署一項 AI 安全承諾，總統 Donald Trump 稱之為「具有道德約束力」。Trump 也簽署了一項行政命令，正式把 AI 重新命名為「超級智慧」，同時，Meta 和 OpenAI 正在為他們的 AI 產品塑造更親切的形象，儘管最大的資金 […]</description>
+    </item>
     <item>
       <title>Circuit Breaker Labs 希望讓 AI 對你的孩子（以及你）更安全</title>
       <link>https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/</link>
@@ -254,15 +263,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 正推出 ChatGPT 的新購物功能，讓使用者能用自己的照片虛擬試穿服飾與配件，並將喜歡的商品存到 Favorites 收藏庫。</description>
-    </item>
-    <item>
-      <title>Google 認為 SpaceX 的 Starship 必須發射 1,800 次，太空資料中心才有可能起飛</title>
-      <link>https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172746</guid>
-      <pubDate>Thu, 01 Oct 2026 19:18:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 已將首款先進晶片送上軌道，為太空資料中心鋪路。</description>
     </item>
     <item>
       <title>永恆的互補</title>
