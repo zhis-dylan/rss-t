@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 02 Oct 2026 14:56:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 15:11:37 GMT</lastBuildDate>
+    <item>
+      <title>我們在 2026 年 9 月宣布的最新 AI 新聞</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</guid>
+      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>以下是 Google 在 2026 年 9 月的最新 AI 更新</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 在 2026 年 9 月的最新 AI 更新</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>TechCrunch Disrupt 2026：Blackstone 的 Jas Khaira 談打造下一代 AI 巨頭</title>
+      <link>https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173109</guid>
+      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Blackstone 的 Jas Khaira 將在 TechCrunch Disrupt 2026 的 Builders Stage 分享打造下一代 AI。立即註冊你的票券，第二張可享 5 折優惠。</description>
+    </item>
     <item>
       <title>斯洛維尼亞的 .si 網域在川普的「超級智慧」行政命令後註冊量激增</title>
       <link>https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/</link>
@@ -233,15 +254,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>先進 AI 對於突破性想法背後的例行工作，可能最為關鍵。探索執行力如何形塑下一個經濟與進步的步調。</description>
-    </item>
-    <item>
-      <title>Amazon 推出自己的 Jev 分身，決策模型在網路上大量湧現</title>
-      <link>https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172717</guid>
-      <pubDate>Thu, 01 Oct 2026 16:49:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon Web Services 的 Strand Labs 已發布最新的 Jev 類決策模型 Strands Decider 2B。</description>
     </item>
     <item>
       <title>Albertsons Companies 如何從內部重新想像零售</title>
@@ -699,18 +711,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp" alt=""></p><p>在 Google 藝術與文化 app 中，透過以視覺為先的對話搜尋、重新設計的首頁資訊流、AI 實驗，以及 27 個新的城市指南，探索藝術與文化。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>看看 4 位開發者用 Gemini 3.8 Flash 做了什麼</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-flash-developers/</guid>
-      <pubDate>Mon, 28 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看開發者使用 Gemini 3.8 Flash 打造了什麼；這是我們在 9 月初推出的最聰明的主力模型。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp" alt=""></p><p>看看開發者使用 Gemini 3.8 Flash 打造了什麼；這是我們在 9 月初推出的最聰明的主力模型。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出 Meta Enterprise Platform</title>
