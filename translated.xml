@@ -5,15 +5,15 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 02 Oct 2026 17:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 18:13:20 GMT</lastBuildDate>
     <item>
-      <title>它不再是 AI 了，而是「超級智慧」（根據白宮的說法）</title>
-      <link>https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3173314</guid>
-      <pubDate>Fri, 02 Oct 2026 17:48:16 GMT</pubDate>
+      <title>Apple 表示，因 AI 代理帶來新風險，將加強 macOS「Full Disk Access」控制</title>
+      <link>https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173313</guid>
+      <pubDate>Fri, 02 Oct 2026 18:11:27 GMT</pubDate>
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>本週，白宮把幾乎所有主要科技公司執行長都聚在同一個房間裡——其中包括 Zuckerberg、Bezos、Musk，以及 Anthropic 的 Dario Amodei——簽署一項 AI 安全承諾，總統 Donald Trump 稱之為「具有道德約束力」。Trump 也簽署了一項行政命令，正式把 AI 重新命名為「超級智慧」，同時，Meta 和 OpenAI 正在為他們的 AI 產品塑造更親切的形象，儘管最大的資金 […]</description>
+      <description>Apple 表示，將為 macOS 的 Full Disk Access 權限新增相關控制，並警告愈來愈有能力的 AI 代理，會讓對使用者檔案、訊息、郵件和瀏覽歷史的廣泛存取變得更危險。</description>
     </item>
     <item>
       <title>Circuit Breaker Labs 希望讓 AI 對你的孩子（以及你）更安全</title>
@@ -254,15 +254,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這一集 Ads Decoded 中，我們討論廣告創意，以及它如何成就或毀掉你的 YouTube 行銷活動。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>ChatGPT 現在可以幫你虛擬試穿衣服</title>
-      <link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172830</guid>
-      <pubDate>Thu, 01 Oct 2026 19:21:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 正推出 ChatGPT 的新購物功能，讓使用者能用自己的照片虛擬試穿服飾與配件，並將喜歡的商品存到 Favorites 收藏庫。</description>
     </item>
     <item>
       <title>永恆的互補</title>
