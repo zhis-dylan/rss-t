@@ -5,15 +5,344 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:24:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 13:40:40 GMT</lastBuildDate>
     <item>
-      <title>Google 發布 Gemini 4 Argon，稱其為迄今最強大的模型</title>
-      <link>https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172532</guid>
-      <pubDate>Wed, 30 Sep 2026 23:43:07 GMT</pubDate>
+      <title>Tesla 儘管在美國遇到困境，仍維持其電動車銷售動能</title>
+      <link>https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173158</guid>
+      <pubDate>Fri, 02 Oct 2026 13:39:23 GMT</pubDate>
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
-      <description>Google 已發布最新的 Gemini 模型，將其行銷為適合程式設計與資安工作的主力模型。</description>
+      <description>該公司第三季交付超過 486,000 輛電動車，雖低於去年創下的紀錄，但仍朝正面方向前進。</description>
+    </item>
+    <item>
+      <title>醫療紀錄巨頭 Epic 暫停產品開發，以修復威脅患者資料的安全漏洞</title>
+      <link>https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173140</guid>
+      <pubDate>Fri, 02 Oct 2026 13:23:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家健康科技軟體巨頭打造了廣泛使用、用來存取醫療資料的 MyChart 系統，接下來幾週將專注於修補安全漏洞。</description>
+    </item>
+    <item>
+      <title>Rivian 的 R2 剛幫助它創下新的銷售紀錄</title>
+      <link>https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173145</guid>
+      <pubDate>Fri, 02 Oct 2026 13:17:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>交車量較去年同期大增約 45%，Rivian 交付超過 19,000 輛電動車。</description>
+    </item>
+    <item>
+      <title>NVIDIA DGX Spark 64GB 讓開發者有更多方式打造與擴展本地 AI</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-dgx-spark-64gb-sync/</guid>
+      <pubDate>Fri, 02 Oct 2026 13:00:39 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>本地 AI 正因 token 而變得更實用。隨著 AI 代理從實驗走向日常開發，越來越強大的開放模型正縮小到能放進更多裝置中，讓開發者有更多東西可以在本機執行。 本月稍晚，NVIDIA DGX Spark 將由頂尖製造合作夥伴 Acer、[…] 推出 64GB 統一記憶體版本。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" alt=""></p><p>本地 AI 正因 token 而變得更實用。隨著 AI 代理從實驗走向日常開發，越來越強大的開放模型正縮小到能放進更多裝置中，讓開發者有更多東西可以在本機執行。 本月稍晚，NVIDIA DGX Spark 將由頂尖製造合作夥伴 Acer、[…] 推出 64GB 統一記憶體版本。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Rivian 因電池組鎖付不良發出 R2 召回通知</title>
+      <link>https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173134</guid>
+      <pubDate>Fri, 02 Oct 2026 12:50:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司表示大約 14 輛車可能受影響，且已在組裝線上解決問題。</description>
+    </item>
+    <item>
+      <title>Robotaxi 營運業者若阻擋第一線救援人員將面臨罰款</title>
+      <link>https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172720</guid>
+      <pubDate>Fri, 02 Oct 2026 00:57:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>加州新法對自動駕駛車輛營運業者訂定了新規則。</description>
+    </item>
+    <item>
+      <title>創辦人版 TechCrunch Disrupt 2026 指南：你需要知道的一切</title>
+      <link>https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3151020</guid>
+      <pubDate>Fri, 02 Oct 2026 00:03:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch Disrupt 2026 圍繞著一個問題：在 AI 時代，你要如何打造一家能長久經營的公司？我們的活動內容和講者陣容都反映了這一點。</description>
+    </item>
+    <item>
+      <title>NVIDIA GPU 如何協助加速 OpenAI 的 GPT-6 Astra Ultrafast</title>
+      <link>https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/gpus-openai-gpt-6-astra-ultrafast/</guid>
+      <pubDate>Thu, 01 Oct 2026 23:44:13 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在 NVIDIA Blackwell GPU 上執行的 GPT-6 Astra Ultrafast，現已可在 OpenAI API 中使用，並提供給符合資格的 ChatGPT Work 和 Codex 使用者。 透過 OpenAI 模型中的推論最佳化，運用 NVIDIA Blackwell 架構的能力進行加速，Ultrafast 比 Astra Standard 模式最多快 8 倍的 token 產生速度。對開發者來說，[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/d1cb38eec4ee290ac0fea39ce15a35d8/6abef08d3d6332a948f30c2f_twitter-gif-2104993966043320759-v5-842x450/twitter-gif-2104993966043320759-v5-842x450_thmb.jpg?v=f8092bd5-856c-4205-8168-bfcda2d24714" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d1cb38eec4ee290ac0fea39ce15a35d8/6abef08d3d6332a948f30c2f_twitter-gif-2104993966043320759-v5-842x450/twitter-gif-2104993966043320759-v5-842x450_thmb.jpg?v=f8092bd5-856c-4205-8168-bfcda2d24714"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d1cb38eec4ee290ac0fea39ce15a35d8/6abef08d3d6332a948f30c2f_twitter-gif-2104993966043320759-v5-842x450/twitter-gif-2104993966043320759-v5-842x450_thmb.jpg?v=f8092bd5-856c-4205-8168-bfcda2d24714" alt=""></p><p>在 NVIDIA Blackwell GPU 上執行的 GPT-6 Astra Ultrafast，現已可在 OpenAI API 中使用，並提供給符合資格的 ChatGPT Work 和 Codex 使用者。 透過 OpenAI 模型中的推論最佳化，運用 NVIDIA Blackwell 架構的能力進行加速，Ultrafast 比 Astra Standard 模式最多快 8 倍的 token 產生速度。對開發者來說，[…]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們的 Project Suncatcher 原型衛星已進入軌道。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/</guid>
+      <pubDate>Thu, 01 Oct 2026 23:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 與 Planet 合作打造的 Project Suncatcher 原型衛星，已搭乘 SpaceX 的 Transporter-18 共乘任務發射進入軌道。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg" medium="image" type="image/jpeg" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg" alt=""></p><p>Google 與 Planet 合作打造的 Project Suncatcher 原型衛星，已搭乘 SpaceX 的 Transporter-18 共乘任務發射進入軌道。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Lyft 支付 2.725 億美元和解其如何分類司機的訴訟</title>
+      <link>https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172935</guid>
+      <pubDate>Thu, 01 Oct 2026 21:57:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>如今，零工經濟司機被歸類為承攬人。這筆和解金了結了 2020 年遺留下來的一起訴訟，當時這個問題仍未有定論。</description>
+    </item>
+    <item>
+      <title>Kevin Mandia 的新「agent swarm」資安新創 Armadin 以 25.55 億美元估值募得 2.555 億美元</title>
+      <link>https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172963</guid>
+      <pubDate>Thu, 01 Oct 2026 21:55:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Kevin Mandia 最廣為人知的是 Mandiant 創辦人，他的新創公司正使用 agent swarm 來測試並保護企業。</description>
+    </item>
+    <item>
+      <title>馬斯克的 AI 聊天機器人 Grok 據報曾鼓勵川普奪取委內瑞拉總統</title>
+      <link>https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172859</guid>
+      <pubDate>Thu, 01 Oct 2026 21:08:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報川普總統在入侵委內瑞拉並逮捕 Nicolás Maduro 之前，曾先詢問 Grok 的意見。</description>
+    </item>
+    <item>
+      <title>將你現有的社群素材轉換成高影響力的 YouTube 廣告。</title>
+      <link>https://blog.google/products/ads-commerce/creating-assets-youtube-ads/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/creating-assets-youtube-ads/</guid>
+      <pubDate>Thu, 01 Oct 2026 20:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在這一集 Ads Decoded 中，我們討論廣告創意，以及它如何成就或毀掉你的 YouTube 行銷活動。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E5_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在這一集 Ads Decoded 中，我們討論廣告創意，以及它如何成就或毀掉你的 YouTube 行銷活動。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>ChatGPT 現在可以幫你虛擬試穿衣服</title>
+      <link>https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172830</guid>
+      <pubDate>Thu, 01 Oct 2026 19:21:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正推出 ChatGPT 的新購物功能，讓使用者能用自己的照片虛擬試穿服飾與配件，並將喜歡的商品存到 Favorites 收藏庫。</description>
+    </item>
+    <item>
+      <title>Google 認為 SpaceX 的 Starship 必須發射 1,800 次，太空資料中心才有可能起飛</title>
+      <link>https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172746</guid>
+      <pubDate>Thu, 01 Oct 2026 19:18:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 已將首款先進晶片送上軌道，為太空資料中心鋪路。</description>
+    </item>
+    <item>
+      <title>全球首座強化地熱發電廠僅用 23 個月完工</title>
+      <link>https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172802</guid>
+      <pubDate>Thu, 01 Oct 2026 18:35:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Fervo Energy 在不到兩年的時間內完成了首座發電廠。下一階段則有望更快接上電網。</description>
+    </item>
+    <item>
+      <title>WSJ 報導，OpenAI 與 3 名安全研究員切割</title>
+      <link>https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172737</guid>
+      <pubDate>Thu, 01 Oct 2026 18:14:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>報導指出，OpenAI 在內部調查發現三名安全研究員處理敏感公司資訊不當後，已與他們分道揚鑣。</description>
+    </item>
+    <item>
+      <title>Opus 5.5 很愛告訴你「這很重要」（以及其他 AI 寫作特徵）</title>
+      <link>https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172744</guid>
+      <pubDate>Thu, 01 Oct 2026 17:50:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Opus 5.5 最明顯的特徵是「dependable」這個詞，它出現的次數比在人類樣本中多了 23 倍。</description>
+    </item>
+    <item>
+      <title>這家新創想把閒置車輛庫存變成租賃收入</title>
+      <link>https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170357</guid>
+      <pubDate>Thu, 01 Oct 2026 17:09:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>當 Igor Dobrianskyi 看著一家汽車經銷商的展示場時，他看到的不是一排排車子，而是數百萬美元就那樣停在那裡持續貶值。歡迎來 TechCrunch Disrupt 的 Startup Battlefield 200 看 MyMonthlyCar，活動將於 10 月 13 日至 15 日在舊金山舉行。</description>
+    </item>
+    <item>
+      <title>永恆的互補</title>
+      <link>https://openai.com/index/the-eternal-complement</link>
+      <guid isPermaLink="false">https://openai.com/index/the-eternal-complement</guid>
+      <pubDate>Thu, 01 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>先進 AI 對於突破性想法背後的例行工作，可能最為關鍵。探索執行力如何形塑下一個經濟與進步的步調。</description>
+    </item>
+    <item>
+      <title>Amazon 推出自己的 Jev 分身，決策模型在網路上大量湧現</title>
+      <link>https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172717</guid>
+      <pubDate>Thu, 01 Oct 2026 16:49:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon Web Services 的 Strand Labs 已發布最新的 Jev 類決策模型 Strands Decider 2B。</description>
+    </item>
+    <item>
+      <title>Shopify 推出 Canvas，一種透過和 AI 聊天來建立線上商店的方式</title>
+      <link>https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172692</guid>
+      <pubDate>Thu, 01 Oct 2026 16:44:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Shopify 新的 Canvas 網站建置工具讓商家能透過與其 AI 代理 Sidekick 聊天來建立和自訂線上商店，同時即時看到變更發生。</description>
+    </item>
+    <item>
+      <title>加州州長否決禁止使用「變態眼鏡」偷偷錄影的法案</title>
+      <link>https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172729</guid>
+      <pubDate>Thu, 01 Oct 2026 16:35:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項加州州法原本會處罰那些使用配備攝影機與麥克風的穿戴裝置，在公共場合偷偷錄影他人的人。</description>
+    </item>
+    <item>
+      <title>Albertsons Companies 如何從內部重新想像零售</title>
+      <link>https://openai.com/index/albertsons-reimagining-retail</link>
+      <guid isPermaLink="false">https://openai.com/index/albertsons-reimagining-retail</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Albertsons Cos. 正在運用 ChatGPT Enterprise 和 OpenAI API，幫助團隊更快工作，並讓數以百萬計的顧客更輕鬆地購買雜貨。</description>
+    </item>
+    <item>
+      <title>Gemini Live 的 Guided Vision：為無障礙體驗而打造</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Live 的 Guided Vision 與盲人及低視力社群共同打造，並提供即時視覺協助。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini Live 的 Guided Vision 與盲人及低視力社群共同打造，並提供即時視覺協助。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>1,400 位教育工作者參加了我們的 Badge-a-thon：AI 學習日。</title>
+      <link>https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/ai-educator-series-badge-a-thon/</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在 Google Badge-a-thon 中，有 1,400 位教育工作者獲得了 4,000 多個數位徽章。立即在 YouTube 上觀看隨選課程，並領取你的第一個徽章。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-mx6wrk7a_thumb.jpg" medium="image" type="image/jpeg" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-mx6wrk7a_thumb.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-mx6wrk7a_thumb.jpg" alt=""></p><p>在 Google Badge-a-thon 中，有 1,400 位教育工作者獲得了 4,000 多個數位徽章。立即在 YouTube 上觀看隨選課程，並領取你的第一個徽章。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>一年過後，Tesla 和 Musk 仍然沒有對「豐盛」給出明確定義</title>
+      <link>https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171737</guid>
+      <pubDate>Thu, 01 Oct 2026 15:50:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這位執行長曾承諾會更具體說明他的願景，但細節依然缺席。</description>
+    </item>
+    <item>
+      <title>Brian Chesky 專訪：AI 代理需要自己的作業系統</title>
+      <link>https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172101</guid>
+      <pubDate>Thu, 01 Oct 2026 15:12:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Brian Chesky 談讓 Airbnb 更適合 agent 使用、消費級 AI 的現況，以及為什麼世界需要一個 AI 原生作業系統。</description>
+    </item>
+    <item>
+      <title>Microsoft 365 與 LinkedIn 領導層更新</title>
+      <link>https://blogs.microsoft.com/blog/2026/10/01/microsoft-365-and-linkedin-leadership-update/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563193</guid>
+      <pubDate>Thu, 01 Oct 2026 15:03:27 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>Satya Nadella，董事長兼執行長，以及 LinkedIn 和 Microsoft 365 執行副總裁 Ryan Roslansky，今天早上與 Microsoft 和 LinkedIn 員工分享了以下訊息。SATYA NADELLA 訊息 經過在 LinkedIn 和 Microsoft 將近 18 年後，Ryan Roslansky 已決定離開 Microsoft，展開下一篇章。Ryan 和我……
+這篇 Microsoft 365 與 LinkedIn 領導層更新最初刊登於 The Official Microsoft Blog。</description>
+    </item>
+    <item>
+      <title>宣布蘭維爾・辛格成為 Ray-Ban 與 Ray-Ban Meta 在印度的品牌大使，並推出我們 AI 眼鏡的激動人心新更新</title>
+      <link>https://about.fb.com/news/2026/10/announcing-ranveer-singh-as-brand-ambassador-for-ray-ban-and-ray-ban-meta-in-india-along-with-exciting-new-updates-to-our-ai-glasses/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50542</guid>
+      <pubDate>Thu, 01 Oct 2026 14:16:04 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>蘭維爾・辛格成為 Ray-Ban 與 Ray-Ban Meta 在印度的首位品牌大使。
+〈宣布蘭維爾・辛格成為 Ray-Ban 與 Ray-Ban Meta 在印度的品牌大使，並推出我們 AI 眼鏡的激動人心新更新〉一文最早出現在 Meta 新聞室。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/10/RS_Announce_Comms_RBM_Wayfarer_1920x1080px.png?fit=3840%2C2160" medium="image" type="image/png"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/RS_Announce_Comms_RBM_Wayfarer_1920x1080px.png?fit=3840%2C2160"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/RS_Announce_Comms_RBM_Wayfarer_1920x1080px.png?fit=3840%2C2160" alt=""></p><p>蘭維爾・辛格成為 Ray-Ban 與 Ray-Ban Meta 在印度的首位品牌大使。<br>〈宣布蘭維爾・辛格成為 Ray-Ban 與 Ray-Ban Meta 在印度的品牌大使，並推出我們 AI 眼鏡的激動人心新更新〉一文最早出現在 Meta 新聞室。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>本月 10 月，GeForce NOW 迎來 25 款新遊戲</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-october-2026-games-list/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:00:54 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>驚悚季節正在上線。隨著落葉、南瓜香料和各種美好事物一起到來，10 月期間共有 25 款新遊戲將加入 GeForce NOW，其中本週就有 6 款可立即遊玩。從為 Performance 和 Ultimate 會員推出全新的 CONTROL Resonant 獎勵，到《巫師 3：狂獵》— 重製版加入雲端，這個 GFN Thursday 是[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24" alt=""></p><p>驚悚季節正在上線。隨著落葉、南瓜香料和各種美好事物一起到來，10 月期間共有 25 款新遊戲將加入 GeForce NOW，其中本週就有 6 款可立即遊玩。從為 Performance 和 Ultimate 會員推出全新的 CONTROL Resonant 獎勵，到《巫師 3：狂獵》— 重製版加入雲端，這個 GFN Thursday 是[…]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>高效、耐用、可互換：NVIDIA AI 工廠如何最大化投資報酬</title>
+      <link>https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:00:49 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI 工廠是以兆瓦規模打造，甚至達到吉瓦規模。每座兆瓦級工廠的成本約為 6,000 萬美元，而 AI 工廠營運商只有在清楚看見投資報酬的情況下，才會投入如此規模的資本。影響 AI 工廠報酬的三個關鍵因素是：  earning capacity：工廠一年可能賺取多少收入 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244" alt=""></p><p>AI 工廠是以兆瓦規模打造，甚至達到吉瓦規模。每座兆瓦級工廠的成本約為 6,000 萬美元，而 AI 工廠營運商只有在清楚看見投資報酬的情況下，才會投入如此規模的資本。影響 AI 工廠報酬的三個關鍵因素是：  earning capacity：工廠一年可能賺取多少收入 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Search 能幫助你完善居家咖啡沖煮習慣的 5 種方式</title>
+      <link>https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/</guid>
+      <pubDate>Thu, 01 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解 Google Search 如何幫助你提升早晨那杯咖啡的風味。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp" alt=""></p><p>了解 Google Search 如何幫助你提升早晨那杯咖啡的風味。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>The Den 透過 ChatGPT Work 每週騰出 10 到 15 小時成長</title>
+      <link>https://openai.com/index/the-den-family-social</link>
+      <guid isPermaLink="false">https://openai.com/index/the-den-family-social</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>在開設新據點之際，這家社交俱樂部將補助申請從 3 天縮短到 2 小時，酒類執照文件也從 4 天縮短到 3 小時。</description>
     </item>
     <item>
       <title>Meta 任命 Dhruv Vohra 領導東南亞業務</title>
@@ -29,15 +358,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Dhruv-Vohra_2026.jpeg?fit=1600%2C899" alt=""></p><p>Meta 已宣布，Dhruv Vohra 將出任東南亞全球業務集團董事總經理的新職務。<br>這篇〈Meta 任命 Dhruv Vohra 領導東南亞業務〉最初刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>五角大廈找來 Elon Musk 和 Palmer Luckey 幫忙決定軍方下一步該怎麼做</title>
-      <link>https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172545</guid>
-      <pubDate>Wed, 30 Sep 2026 23:08:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>國防部長 Pete Hegseth 剛啟動一項為期 120 天的研究，探討未來戰爭的樣貌，由 Elon Musk、Palmer Luckey 和 Newt Gingrich 領導；雖然考量到他們與政府的關係，這樣做似乎說得通，但批評者可能會指出，Musk 和 Luckey 的公司本來就有在賣這類技術，而研究很可能會建議採用這些技術。</description>
-    </item>
-    <item>
       <title>Google 的 AI 在預測流感住院方面排名第 1。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/</guid>
@@ -48,24 +368,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp" alt=""></p><p>美國疾病管制與預防中心宣布，Google 的科學 AI 模型在預測與流感相關的住院人數方面表現最佳。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Valor、Atreides 和 Sequoia 以 7.5 億美元估值支持 AI 新創 Flow Engineering</title>
-      <link>https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172428</guid>
-      <pubDate>Wed, 30 Sep 2026 21:07:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>將 AI 代理引入硬體設計的 Flow Engineering，也獲得 Roelof Botha 以天使投資人和董事會成員身分加入。</description>
-    </item>
-    <item>
-      <title>Factory 執行長剛剛指控他的創投董事會顧問替 Cognition 監視</title>
-      <link>https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172331</guid>
-      <pubDate>Wed, 30 Sep 2026 20:39:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>創投 Chris Degnan，曾任 Factory AI 的董事會顧問，已加入 Cognition 擔任營收長。</description>
     </item>
     <item>
       <title>Gemini 4 Argon：我們下一個前沿智慧新時代</title>
@@ -80,42 +382,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.max-600x600.format-webp.webp" alt=""></p><p>宣布 Gemini 4 Argon，我們用於真實世界程式設計、企業知識工作與網路防禦的前沿模型，將很快推出。</p>]]></content:encoded>
     </item>
     <item>
-      <title>駭客在長達數月的資料外洩中竊取了數百萬名美軍人員紀錄</title>
-      <link>https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172343</guid>
-      <pubDate>Wed, 30 Sep 2026 19:29:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>國防部通知數百萬名現任和前任美國軍事人員，他們的個人資訊已在一場長達數月的外洩事件中被竊取。</description>
-    </item>
-    <item>
-      <title>DoorDash 的無人機策略是從地面開始的</title>
-      <link>https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172293</guid>
-      <pubDate>Wed, 30 Sep 2026 19:22:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>DoorDash 在其年度 Dash Forward 2026 活動上，公布了將用於其全新無人機配送業務的六旋翼飛機。</description>
-    </item>
-    <item>
-      <title>BMW 為汽油版和電動版打造了同一款車。電動車便宜 4,400 美元。</title>
-      <link>https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172355</guid>
-      <pubDate>Wed, 30 Sep 2026 19:19:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>全新 BMW 3 Series 顯示，電動車在價格上追上化石燃料車的速度有多快。</description>
-    </item>
-    <item>
-      <title>OpenAI 的 Jev 複製品可能有助於這家前沿實驗室阻止其蜂群般的代理程式</title>
-      <link>https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172187</guid>
-      <pubDate>Wed, 30 Sep 2026 19:00:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 的「Decisions API」是一個 Jev 複製品，證實了快速、便宜的智慧的重要性。</description>
-    </item>
-    <item>
       <title>Google 正在支持智利的水資源韌性。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/water-resilience-chile/</guid>
@@ -128,15 +394,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WaterChile_socialshare.max-600x600.format-webp.webp" alt=""></p><p>Google 正在投資 120 萬美元，為智利的 Unidos de Buin 運河加裝襯砌，每年可節省 19 億加侖的水。看看我們如何提升流域健康。</p>]]></content:encoded>
     </item>
     <item>
-      <title>AI 語音新創 ElevenLabs 估值翻倍至 220 億美元</title>
-      <link>https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172305</guid>
-      <pubDate>Wed, 30 Sep 2026 18:23:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆 3 億美元的員工要約收購由 Wellington 和 T. Rowe Price 共同領投。</description>
-    </item>
-    <item>
       <title>更多合作夥伴正在加入美國技術工藝聯盟。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/alliance-americas-skilled-trades-expands/</guid>
@@ -147,24 +404,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Skilled_Trades_social.max-600x600.format-webp.webp" alt=""></p><p>美國技術工藝聯盟正在擴大規模，歡迎 14 位新合作夥伴加入，以加速全美的培訓與職涯機會。每 100 位技術工藝工作者中……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Reddit 正在停用 RSS feed，並終止公開 API 存取，因為 AI 機器人</title>
-      <link>https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172243</guid>
-      <pubDate>Wed, 30 Sep 2026 17:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Reddit 正在停止支援 RSS feed，因為該公司持續收緊對其大量使用者生成內容的存取。</description>
-    </item>
-    <item>
-      <title>消費者 AI 的難看經濟學</title>
-      <link>https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172200</guid>
-      <pubDate>Wed, 30 Sep 2026 17:24:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>前沿實驗室對消費者 AI 變得畏縮是有原因的——而且不是因為這項技術不夠好。</description>
     </item>
     <item>
       <title>NVIDIA 開放 2027–2028 年研究生獎學金申請，獎助金最高可達 60,000 美元</title>
@@ -189,33 +428,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ORG-44_Blog_Header_EDUCAUSE.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ORG-44_Blog_Header_EDUCAUSE.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ORG-44_Blog_Header_EDUCAUSE.max-600x600.format-webp.webp" alt=""></p><p>在 EDUCAUSE 年度大會上，Google.org 宣布支持三項高等教育計畫，以擴大倫理 AI 就緒度、現代化機構規劃……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 反駁 Muse 未經允許讀取使用者私人訊息的說法</title>
-      <link>https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172182</guid>
-      <pubDate>Wed, 30 Sep 2026 16:24:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 表示，旗下 Muse AI 代理程式無法在沒有明確許可的情況下存取使用者的訊息，並反駁一名記者的說法；該記者稱，當所需的 Mac 設定關閉時，這個代理程式讀取了他的私人訊息。</description>
-    </item>
-    <item>
-      <title>DoorDash 推出可用簡訊下單食物的 AI 代理</title>
-      <link>https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172181</guid>
-      <pubDate>Wed, 30 Sep 2026 16:00:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>DoorDash 推出用於餐點訂購的 AI 代理，目的是在 Uber Eats 和 Grubhub 等競爭對手之間取得優勢。</description>
-    </item>
-    <item>
-      <title>Destro AI 的祕訣是讓機器人和人類達成共識</title>
-      <link>https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3164565</guid>
-      <pubDate>Wed, 30 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「我們之所以能擊敗機器人公司，最大的原因之一就是我們不是一家機器人公司。」</description>
     </item>
     <item>
       <title>讓 Gemini 中的 skills 幫你處理最重複的工作</title>
@@ -254,24 +466,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BreastCancerCampaign_KeyVisual.max-600x600.format-webp.webp" alt=""></p><p>今年 10 月，Waze 將協助駕駛找到篩檢診所、評估自身健康風險，並安排例行健檢。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Instinct 的新產品推薦讓一些使用者很反感</title>
-      <link>https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172149</guid>
-      <pubDate>Wed, 30 Sep 2026 15:56:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Instinct 正在推出由人工精選的產品與旅遊推薦，但有些使用者對於收到自己從未要求過的建議並不買單。</description>
-    </item>
-    <item>
-      <title>FedEx 向 Harbinger 訂購 2,000 輛電動卡車，交易金額達 3 億美元</title>
-      <link>https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172168</guid>
-      <pubDate>Wed, 30 Sep 2026 15:26:02 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆訂單是 Harbinger 有史以來最大的一筆，據報這家新創公司正在考慮首次公開募股（IPO）。</description>
-    </item>
-    <item>
       <title>從訓練到生產，NVIDIA 與 CoreWeave 完成 Agentic AI 的閉環</title>
       <link>https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/coreweave-agentic-ai-vera-rubin/</guid>
@@ -294,33 +488,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BioSynthID_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BioSynthID_socialshare.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BioSynthID_socialshare.max-600x600.format-webp.webp" alt=""></p><p>Google DeepMind 推出 SynthID Bio，用於為 AI 設計的蛋白質加上浮水印，同時維持生物功能。請在此閱讀完整研究報告。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>川普總統與頂尖 AI 領袖簽署的承諾將美國拼錯了</title>
-      <link>https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172147</guid>
-      <pubDate>Wed, 30 Sep 2026 14:50:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>川普總統與頂尖 AI 領袖簽署的承諾將美國拼錯了。</description>
-    </item>
-    <item>
-      <title>Google 在印度推出 Fitbit Air，不過高昂售價可能會讓大眾卻步</title>
-      <link>https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172028</guid>
-      <pubDate>Wed, 30 Sep 2026 14:32:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Fitbit Air 在印度售價約 146 美元，比美國定價高出約 47 美元。</description>
-    </item>
-    <item>
-      <title>Instagram 為創作者推出 AI 影片編輯器</title>
-      <link>https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-editor-for-creators/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3171759</guid>
-      <pubDate>Wed, 30 Sep 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款對話式 AI 助理旨在提供個人化回饋給創作者，而不是泛泛的建議。</description>
     </item>
     <item>
       <title>阻止一場協同模型蒸餾行動</title>
@@ -501,6 +668,15 @@
       <description>OpenAI 的 dots 是一款主動式助理，可以持續處理複雜專案與日常任務。了解 dots 如何在工作持續推進時，幫助你保持掌控。</description>
     </item>
     <item>
+      <title>邁向前沿 AI 訓練的安全案例</title>
+      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
+      <guid isPermaLink="false">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
+      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們針對前沿 AI 訓練中安全案例的早期指引，涵蓋技術防護、營運實務，以及調查對齊失準事件</description>
+    </item>
+    <item>
       <title>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/</guid>
@@ -511,15 +687,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" alt=""></p><p>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>邁向前沿 AI 訓練的安全案例</title>
-      <link>https://openai.com/index/towards-safety-cases-for-frontier-ai-training</link>
-      <guid isPermaLink="false">https://openai.com/index/towards-safety-cases-for-frontier-ai-training</guid>
-      <pubDate>Mon, 28 Sep 2026 19:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們針對前沿 AI 訓練中安全案例的早期指引，涵蓋技術防護、營運實務，以及調查對齊失準事件</description>
     </item>
     <item>
       <title>Google 藝術與文化滿 15 歲——並為其 app 換上新面貌</title>
@@ -544,30 +711,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Builders_Gemini_3.8_Flash.max-600x600.format-webp.webp" alt=""></p><p>看看開發者使用 Gemini 3.8 Flash 打造了什麼；這是我們在 9 月初推出的最聰明的主力模型。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>這位雜貨商如何用 Gemini 為 200 位賓客烹調的 3 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/edys-grocer-gemini/</guid>
-      <pubDate>Mon, 28 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_-_16x9.max-600x600.format-webp.webp" alt=""></p><p>Edy Massih 使用 Gemini 將一般食譜轉換成大量餐飲外燴菜單、自動化雜貨訂單，並依照飲食限制調整菜單。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>推出 Display &amp; Video 360 的直式影片整合。</title>
-      <link>https://blog.google/products/marketingplatform/360/vertical-video-unification/</link>
-      <guid isPermaLink="false">https://blog.google/products/marketingplatform/360/vertical-video-unification/</guid>
-      <pubDate>Mon, 28 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 Google Display &amp; Video 360 整合直式影片採買。看看 Unilever 如何運用 Gemini 驅動的測量，將觸及提升 24%。了解詳情。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_Blog_-_Header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_Blog_-_Header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_Blog_-_Header.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Display &amp;amp; Video 360 整合直式影片採買。看看 Unilever 如何運用 Gemini 驅動的測量，將觸及提升 24%。了解詳情。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出 Meta Enterprise Platform</title>
@@ -669,42 +812,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/The-Biggest-News-From-Connect-2026_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>昨天在 Connect 上，我們宣布將把 Muse 帶到我們的 AI 智慧眼鏡上，推出了 Meta VR 眼鏡，還有更多內容。<br>這篇〈Connect 2026 的最大消息〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Chrome 升級你學習習慣的 5 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/tips-for-school-and-studying/</guid>
-      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>從管理複雜的研究專案到盡量減少數位干擾，Chrome 有你這學年成功所需的工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Chrome_Learning_Moment.max-600x600.format-webp.webp" alt=""></p><p>從管理複雜的研究專案到盡量減少數位干擾，Chrome 有你這學年成功所需的工具。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>5 項 Google 相簿更新，幫你充分珍藏夏日回憶。</title>
-      <link>https://blog.google/products-and-platforms/products/photos/google-photos-updates/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/photos/google-photos-updates/</guid>
-      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 相簿中的五項更新，將幫助你充分珍藏你的夏日回憶。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_GooglePhotosDropsSept_HeroIm.max-600x600.format-webp.webp" alt=""></p><p>Google 相簿中的五項更新，將幫助你充分珍藏你的夏日回憶。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們新的健康與安全工具已在 Google Health 應用程式上線。</title>
-      <link>https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-health/health-guardian-features-live/</guid>
-      <pubDate>Thu, 24 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleHealthUpdates_H22026_soci.max-600x600.format-webp.webp" alt=""></p><p>Pixel Watch 使用者可以在 Google Health 應用程式中探索新的健康與安全工具。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>開放科學如何幫助研究人員為下一場大流行做好準備</title>
       <link>https://blogs.nvidia.com/blog/open-protein-dataset/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-protein-dataset/</guid>
@@ -768,13 +875,13 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
@@ -786,13 +893,13 @@
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>Meta Ray-Ban Display 的新功能</title>
@@ -819,19 +926,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/09/01_VRGlasses_Inline_CloseUp.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/01_VRGlasses_Inline_CloseUp.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/01_VRGlasses_Inline_CloseUp.jpg" alt=""></p><p>我們正在推出 Meta VR 眼鏡：為虛擬實境開啟全新時代，這是一副你可以舒適佩戴數小時的眼鏡。<br>〈推出 Meta VR 眼鏡：僅 100 公克就能擁有電影院、場邊座位和工作空間〉首次出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>推出 Ray-Ban Meta Audio 與更多 AI 眼鏡款式</title>
-      <link>https://about.fb.com/news/2026/09/introducing-ray-ban-meta-audio-glasses-new-styles-plus-muse/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50267</guid>
-      <pubDate>Wed, 23 Sep 2026 11:36:25 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>今天在 Connect 活動上，我們推出了 Ray-Ban Meta Audio，我們首款音訊眼鏡，也是我們有史以來最大規模的 AI 眼鏡擴展。
-〈推出 Ray-Ban Meta Audio 與更多 AI 眼鏡款式〉首次出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Ray-Ban-Meta-Audio-and-More-AI-Glasses-Styles_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Ray-Ban-Meta-Audio-and-More-AI-Glasses-Styles_Header.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Introducing-Ray-Ban-Meta-Audio-and-More-AI-Glasses-Styles_Header.jpg?fit=1920%2C1080" alt=""></p><p>今天在 Connect 活動上，我們推出了 Ray-Ban Meta Audio，我們首款音訊眼鏡，也是我們有史以來最大規模的 AI 眼鏡擴展。<br>〈推出 Ray-Ban Meta Audio 與更多 AI 眼鏡款式〉首次出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1151,18 +1245,6 @@
       <description>一場由 Kathy Ryan 策劃的新攝影展，慶祝視覺敘事語言的演變，並展示 iPhone 18 Pro 先進的專業相機系統。</description>
     </item>
     <item>
-      <title>Emerald AI、Google 與 NVIDIA 推出聯盟，推動彈性 AI 資料中心</title>
-      <link>https://blogs.nvidia.com/blog/ai-energy-management-alliance/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-energy-management-alliance/</guid>
-      <pubDate>Wed, 16 Sep 2026 13:00:33 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI 工廠是智慧時代的基礎設施。要負責任地擴大規模，將同樣取決於電網內外的創新。今天，Emerald AI、Google 與 NVIDIA 宣布成立 AI 能源管理聯盟（AEMA），這是一個首創的聯盟，致力推動能動態管理用電的資料中心 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/68f0ec8f9398507f177fa7f9ef9bd52e/6aaa936a3d6332a269423aa1_aema-main-feature-842x450/aema-main-feature-842x450_thmb.jpg?v=bae9fbc7-6eba-4f1c-8186-bc7dccca1c58" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/68f0ec8f9398507f177fa7f9ef9bd52e/6aaa936a3d6332a269423aa1_aema-main-feature-842x450/aema-main-feature-842x450_thmb.jpg?v=bae9fbc7-6eba-4f1c-8186-bc7dccca1c58"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/68f0ec8f9398507f177fa7f9ef9bd52e/6aaa936a3d6332a269423aa1_aema-main-feature-842x450/aema-main-feature-842x450_thmb.jpg?v=bae9fbc7-6eba-4f1c-8186-bc7dccca1c58" alt=""></p><p>AI 工廠是智慧時代的基礎設施。要負責任地擴大規模，將同樣取決於電網內外的創新。今天，Emerald AI、Google 與 NVIDIA 宣布成立 AI 能源管理聯盟（AEMA），這是一個首創的聯盟，致力推動能動態管理用電的資料中心 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 AI 重新想像廣告</title>
       <link>https://openai.com/index/reimagining-advertising-with-ai</link>
       <guid isPermaLink="false">https://openai.com/index/reimagining-advertising-with-ai</guid>
@@ -1197,42 +1279,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的 OpenAI 經濟研究顯示，勞工如何在傳統角色之外使用 AI，以及哪些新活動會成為他們工作中反覆出現的一部分。</description>
-    </item>
-    <item>
-      <title>曼徹斯特大學使用 NVIDIA Earth-2 預測英國各地空氣污染</title>
-      <link>https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/uk-air-pollution-research-earth-2/</guid>
-      <pubDate>Wed, 16 Sep 2026 05:00:42 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>空氣污染是嚴重的公共衛生風險，光是在英國，去年就估計造成 30,000 人死亡。以資料為基礎的洞察有助於應對——但使用傳統以化學為基礎的模型來計算空氣品質成本高昂，這限制了模型的細緻程度與執行頻率。David Topping 是一名教授，在 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/90bd9bd060e0edeb9efd5c66532bdd13/6aaa22e43d633274124a7923_Is-AI-Poll-01_1920x1080-842x450/Is-AI-Poll-01_1920x1080-842x450_thmb.jpg?v=0afc409b-7783-43a7-806f-7a64f41837e5" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/90bd9bd060e0edeb9efd5c66532bdd13/6aaa22e43d633274124a7923_Is-AI-Poll-01_1920x1080-842x450/Is-AI-Poll-01_1920x1080-842x450_thmb.jpg?v=0afc409b-7783-43a7-806f-7a64f41837e5"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/90bd9bd060e0edeb9efd5c66532bdd13/6aaa22e43d633274124a7923_Is-AI-Poll-01_1920x1080-842x450/Is-AI-Poll-01_1920x1080-842x450_thmb.jpg?v=0afc409b-7783-43a7-806f-7a64f41837e5" alt=""></p><p>空氣污染是嚴重的公共衛生風險，光是在英國，去年就估計造成 30,000 人死亡。以資料為基礎的洞察有助於應對——但使用傳統以化學為基礎的模型來計算空氣品質成本高昂，這限制了模型的細緻程度與執行頻率。David Topping 是一名教授，在 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>「現在我們可以知曉一切並做到任何事，」Jensen Huang 在 Dreamforce 表示</title>
-      <link>https://blogs.nvidia.com/blog/jensen-huang-dreamforce/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/jensen-huang-dreamforce/</guid>
-      <pubDate>Tue, 15 Sep 2026 22:24:34 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>知曉一切。做到任何事。這就是 NVIDIA 創辦人暨執行長 Jensen Huang 週二帶到 Salesforce Dreamforce 的訊息；他與執行長 Marc Benioff 同台亮相，這場登場也與 Salesforce 宣布 Koa 同步進行——Koa 是 Salesforce 的首個 CRM 推理模型，建構於 NVIDIA Nemotron 3 Super 之上。Huang 不只是登上舞台。他走進了 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/31fc274ef2bdda6c506a0fbfd6c7072d/6aa9c5aa3d6332a79a3b5c25_DF26-SF-260915-EL2_6006-1-842x450/DF26-SF-260915-EL2_6006-1-842x450_thmb.jpg?v=c83efd2a-2501-446c-95ec-12f494dd4d77" alt=""></p><p>知曉一切。做到任何事。這就是 NVIDIA 創辦人暨執行長 Jensen Huang 週二帶到 Salesforce Dreamforce 的訊息；他與執行長 Marc Benioff 同台亮相，這場登場也與 Salesforce 宣布 Koa 同步進行——Koa 是 Salesforce 的首個 CRM 推理模型，建構於 NVIDIA Nemotron 3 Super 之上。Huang 不只是登上舞台。他走進了 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>從百萬瓦到 Token：NVIDIA 如何最大化 AI 工廠產能</title>
-      <link>https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/from-megawatts-to-tokens-how-nvidia-maximizes-ai-factory-production/</guid>
-      <pubDate>Tue, 15 Sep 2026 16:55:59 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在矽谷一個酷熱的 8 月夜晚，當太陽下山、空調負載飆升時，Silicon Valley Power 向一座 AI 工廠發出訊號，要求調整其用電量。Varun Sivaram 當時正透過 Zoom 與另外大約四十人一起觀看——他在舊金山會議室裡的 Emerald AI 團隊、工程師 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/97f9bf45f550b45f0d042f542f2ba5de/6aa979003d633225ae170bed_end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450/end-to-end-tech-blog-dsx-ee-kv-1920x1080-5601273-842x450_thmb.jpg?v=eb2603aa-ff51-4d88-be4e-1249821a5575" alt=""></p><p>在矽谷一個酷熱的 8 月夜晚，當太陽下山、空調負載飆升時，Silicon Valley Power 向一座 AI 工廠發出訊號，要求調整其用電量。Varun Sivaram 當時正透過 Zoom 與另外大約四十人一起觀看——他在舊金山會議室裡的 Emerald AI 團隊、工程師 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Widow’s Bay 成為艾美獎史上獲獎最多的新生代喜劇</title>
@@ -1352,15 +1398,6 @@
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
-    </item>
-    <item>
       <title>Agents API 介紹</title>
       <link>https://openai.com/index/introducing-the-agents-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
@@ -1368,6 +1405,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
+    </item>
+    <item>
+      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
     </item>
     <item>
       <title>Apple 發表 iPhone Duo</title>
@@ -1725,15 +1771,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
-      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
-      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
-    </item>
-    <item>
       <title>學習永不停止：AI 如何讓學習持續進行</title>
       <link>https://openai.com/index/learning-never-stops</link>
       <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
@@ -1741,6 +1778,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
+    </item>
+    <item>
+      <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
+      <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
+      <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1887,33 +1933,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>ChatGPT for Teens 可幫助青少年學習、培養批判性思考，並自信地使用 AI，具備更強的內建保護、更健康使用功能，以及給家長的額外控制選項。</description>
     </item>
     <item>
-      <title>Asana 透過 Codex 在 2 週內完成了 5 年的工程工作</title>
-      <link>https://openai.com/index/asana</link>
-      <guid isPermaLink="false">https://openai.com/index/asana</guid>
-      <pubDate>Tue, 18 Aug 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Asana 使用 OpenAI Codex 取代了一套老舊的測試系統，兩週內完成了原本預計要花五年的工作，成本約 1.2 萬美元。</description>
-    </item>
-    <item>
-      <title>NVIDIA 如何運用 ChatGPT Work 擴展專業能力</title>
-      <link>https://openai.com/index/nvidia/chatgpt-work</link>
-      <guid isPermaLink="false">https://openai.com/index/nvidia/chatgpt-work</guid>
-      <pubDate>Tue, 18 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>NVIDIA 團隊使用 ChatGPT Work 來減少手動工作、連結快速變動的訊號，並在全球擴展成功的工作流程。</description>
-    </item>
-    <item>
-      <title>防守者的窗口</title>
-      <link>https://openai.com/index/the-defenders-window</link>
-      <guid isPermaLink="false">https://openai.com/index/the-defenders-window</guid>
-      <pubDate>Mon, 17 Aug 2026 05:30:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>AI 正在重塑攻擊者與防守者的資安攻防。了解 OpenAI 如何強化自身防禦，以及資安團隊現在可以採取哪些行動。</description>
-    </item>
-    <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
       <link>https://openai.com/index/fyxer</link>
       <guid isPermaLink="false">https://openai.com/index/fyxer</guid>
@@ -1964,16 +1983,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>AI 工作負載的擴展速度比任何單一基礎架構方案所能支援的都還要快——隨著更多模型、新的代理驅動工作負載，以及激增的運算需求，推動整個技術堆疊對更高專業化的需求。為了滿足這項需求，Microsoft 持續演進 Azure 的基礎架構，包括以 AMD 最先進的 AI 與高效能運算...
 〈Microsoft 以 AMD 擴充 Azure AI 與 HPC 基礎架構〉一文最初刊載於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>我們公司轉型的最新進展</title>
-      <link>https://blogs.microsoft.com/blog/2026/07/06/the-latest-in-our-company-transformation/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563068</guid>
-      <pubDate>Mon, 06 Jul 2026 13:30:28 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>Amy Coleman，執行副總裁暨人力長，今天向員工分享了以下訊息。當我接下這個職位時，我承諾會更坦誠地與大家溝通，並分享我們決策背後的「為什麼」。今天，我們將裁撤約 4,800 個職位，約占全球員工數的 2.1%，因為我們正將我們的人力、投資與...
-〈我們公司轉型的最新進展〉最初發表於 The Official Microsoft Blog。</description>
     </item>
   </channel>
 </rss>
