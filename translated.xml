@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Oct 2026 14:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:52:00 GMT</lastBuildDate>
+    <item>
+      <title>Vessev 打造了一艘幾乎會飛的電動渡輪</title>
+      <link>https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3171644</guid>
+      <pubDate>Sat, 03 Oct 2026 14:42:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Vessev 希望它的電動水翼渡輪能改變人們和城市對船隻的看法。</description>
+    </item>
     <item>
       <title>所有可以存在於你的簡訊中的 AI 代理</title>
       <link>https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家健康科技軟體巨頭打造了廣泛使用、用來存取醫療資料的 MyChart 系統，接下來幾週將專注於修補安全漏洞。</description>
-    </item>
-    <item>
-      <title>Rivian 的 R2 剛幫助它創下新的銷售紀錄</title>
-      <link>https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173145</guid>
-      <pubDate>Fri, 02 Oct 2026 13:17:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>交車量較去年同期大增約 45%，Rivian 交付超過 19,000 輛電動車。</description>
     </item>
     <item>
       <title>NVIDIA DGX Spark 64GB 讓開發者有更多方式打造與擴展本地 AI</title>
