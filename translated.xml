@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Oct 2026 18:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 18:53:50 GMT</lastBuildDate>
+    <item>
+      <title>Amazon 回應資料中心反彈，表示已不再使用 NDA</title>
+      <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173505</guid>
+      <pubDate>Sat, 03 Oct 2026 18:43:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon Web Services 的執行長試圖反駁外界對資料中心的普遍疑慮。</description>
+    </item>
     <item>
       <title>OpenAI 安全部門員工辭職，稱公司「文化已經崩壞」</title>
       <link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>今天是預訂 TechCrunch Disrupt 2026 展位桌的最後一天。10 月 13 日至 15 日，10,000 多位創辦人、投資人、營運人員和科技領袖將前往舊金山的 Moscone West，尋找值得認識的公司、產品、點子和人。問題是：他們會找到你的新創公司嗎？</description>
-    </item>
-    <item>
-      <title>申請 Founder Summit 2026 Side Event 的時間只剩不到 24 小時</title>
-      <link>https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173150</guid>
-      <pubDate>Fri, 02 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>時間快到了。你申請在 TechCrunch Founder Summit 2026 舉辦 Side Event 的時間只剩不到 24 小時。申請將於今晚太平洋時間午夜截止。透過舉辦你自己的 Side Event，在 11 月 1 日至 7 日期間與波士頓新創生態系建立連結。帶上你的社群，開啟一場有影響力的對話，推動這場 […]</description>
     </item>
     <item>
       <title>NVIDIA DGX Spark 64GB 讓開發者有更多方式打造與擴展本地 AI</title>
