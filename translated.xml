@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Oct 2026 13:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 14:06:40 GMT</lastBuildDate>
+    <item>
+      <title>所有可以存在於你的簡訊中的 AI 代理</title>
+      <link>https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173132</guid>
+      <pubDate>Sat, 03 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>我們整理了一份最值得注意的 AI 代理清單，這些代理可以存在於你的簡訊中，從通用助理到為家庭、旅遊和工作設計的代理都有。</description>
+    </item>
+    <item>
+      <title>Spotify 百萬富翁的身體掃描新創公司已經來到美國</title>
+      <link>https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173295</guid>
+      <pubDate>Sat, 03 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Neko Health 的投資人 Farooq Abbasi 接受了 Equity 的訪問，談到了這家熱門的健康科技公司，以及它接下來的發展方向。</description>
+    </item>
     <item>
       <title>Meta 想讓你打造自己的 Muse 裝置</title>
       <link>https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</link>
@@ -191,24 +209,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202503/67d2d7233d6332977ae163b9_nv-blog-1280x680-1-842x450/nv-blog-1280x680-1-842x450_thmb.jpg?v=a123af9d-8d9d-4a99-91d8-2cf5361f2445" alt=""></p><p>本地 AI 正因 token 而變得更實用。隨著 AI 代理從實驗走向日常開發，越來越強大的開放模型正縮小到能放進更多裝置中，讓開發者有更多東西可以在本機執行。 本月稍晚，NVIDIA DGX Spark 將由頂尖製造合作夥伴 Acer、[…] 推出 64GB 統一記憶體版本。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Rivian 因電池組鎖付不良發出 R2 召回通知</title>
-      <link>https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173134</guid>
-      <pubDate>Fri, 02 Oct 2026 12:50:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司表示大約 14 輛車可能受影響，且已在組裝線上解決問題。</description>
-    </item>
-    <item>
-      <title>Robotaxi 營運業者若阻擋第一線救援人員將面臨罰款</title>
-      <link>https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172720</guid>
-      <pubDate>Fri, 02 Oct 2026 00:57:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>加州新法對自動駕駛車輛營運業者訂定了新規則。</description>
     </item>
     <item>
       <title>Chatham 擴大其資本市場專業能力，運用 OpenAI</title>
