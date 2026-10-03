@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Oct 2026 16:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 16:37:49 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 安全部門員工辭職，稱公司「文化已經崩壞」</title>
+      <link>https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173499</guid>
+      <pubDate>Sat, 03 Oct 2026 16:30:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>依他自己所說，David Robinson 「有點老套」：一名領先 AI 公司的員工在辭職時發出嚴厲警告。</description>
+    </item>
     <item>
       <title>Jack Dorsey 的 Bitchat 在政府命令後從印度的 App 商店下架</title>
       <link>https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>時間快到了。你申請在 TechCrunch Founder Summit 2026 舉辦 Side Event 的時間只剩不到 24 小時。申請將於今晚太平洋時間午夜截止。透過舉辦你自己的 Side Event，在 11 月 1 日至 7 日期間與波士頓新創生態系建立連結。帶上你的社群，開啟一場有影響力的對話，推動這場 […]</description>
-    </item>
-    <item>
-      <title>Tesla 儘管在美國遇到困境，仍維持其電動車銷售動能</title>
-      <link>https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173158</guid>
-      <pubDate>Fri, 02 Oct 2026 13:39:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司第三季交付超過 486,000 輛電動車，雖低於去年創下的紀錄，但仍朝正面方向前進。</description>
     </item>
     <item>
       <title>NVIDIA DGX Spark 64GB 讓開發者有更多方式打造與擴展本地 AI</title>
