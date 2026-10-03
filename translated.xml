@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 03 Oct 2026 00:15:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:31:09 GMT</lastBuildDate>
+    <item>
+      <title>Sanders 提出法案，禁止聯邦政府使用 Flock</title>
+      <link>https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173449</guid>
+      <pubDate>Sat, 03 Oct 2026 00:21:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項提案立法也將適用於所有自動車牌辨識器。</description>
+    </item>
     <item>
       <title>Sean Parker 正在以音樂為核心重建 Stability AI</title>
       <link>https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/</link>
@@ -233,15 +242,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg" medium="image" type="image/jpeg" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/wagtailvideo-fgyv69rc_thumb.jpg" alt=""></p><p>Google 與 Planet 合作打造的 Project Suncatcher 原型衛星，已搭乘 SpaceX 的 Transporter-18 共乘任務發射進入軌道。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Lyft 支付 2.725 億美元和解其如何分類司機的訴訟</title>
-      <link>https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172935</guid>
-      <pubDate>Thu, 01 Oct 2026 21:57:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如今，零工經濟司機被歸類為承攬人。這筆和解金了結了 2020 年遺留下來的一起訴訟，當時這個問題仍未有定論。</description>
     </item>
     <item>
       <title>將你現有的社群素材轉換成高影響力的 YouTube 廣告。</title>
