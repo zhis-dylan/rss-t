@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 04 Oct 2026 20:25:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 20:41:09 GMT</lastBuildDate>
+    <item>
+      <title>Google 因 AI 投稿「大幅增加」而暫停其開源漏洞獎勵計畫</title>
+      <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173559</guid>
+      <pubDate>Sun, 04 Oct 2026 20:31:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 垃圾內容似乎正淹沒漏洞獎勵計畫。</description>
+    </item>
     <item>
       <title>「超級智慧」和一項不具約束力的安全協議能解決 AI 的形象問題嗎？</title>
       <link>https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/</link>
@@ -167,15 +176,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆約 1100 億美元的交易預計將於 10 月 6 日完成。</description>
-    </item>
-    <item>
-      <title>教宗良十四世不喜歡 AI 生成的藝術</title>
-      <link>https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173199</guid>
-      <pubDate>Fri, 02 Oct 2026 15:39:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「在本體論上，甚至在美學上之前，藝術與機器透過基於他人所創作的數百萬張圖像進行統計計算所能生成的東西之間，存在著差異，」教宗寫道。「演算法缺乏人性的火花。」</description>
     </item>
     <item>
       <title>我們在 2026 年 9 月宣布的最新 AI 新聞</title>
