@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:53:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:09:08 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch Mobility：管制 robotaxi</title>
+      <link>https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173378</guid>
+      <pubDate>Sun, 04 Oct 2026 16:05:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>歡迎回到 TechCrunch Mobility，這裡是你掌握交通運輸未來的樞紐，而現在，AI 在其中扮演的角色比以往任何時候都更重要。</description>
+    </item>
     <item>
       <title>川普公布他的新超級智慧小組</title>
       <link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Blackstone 的 Jas Khaira 將在 TechCrunch Disrupt 2026 的 Builders Stage 分享打造下一代 AI。立即註冊你的票券，第二張可享 5 折優惠。</description>
-    </item>
-    <item>
-      <title>斯洛維尼亞的 .si 網域在川普的「超級智慧」行政命令後註冊量激增</title>
-      <link>https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173201</guid>
-      <pubDate>Fri, 02 Oct 2026 14:47:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在川普總統的超級智慧行政命令之後，.si 網域名稱的需求出現前所未有的成長。</description>
     </item>
     <item>
       <title>NVIDIA DGX Spark 64GB 讓開發者有更多方式打造與擴展本地 AI</title>
