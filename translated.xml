@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 04 Oct 2026 15:08:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 15:23:42 GMT</lastBuildDate>
+    <item>
+      <title>川普公布他的新超級智慧小組</title>
+      <link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173547</guid>
+      <pubDate>Sun, 04 Oct 2026 15:15:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個新工作小組是川普對於 AI 安全辯論的最新回應。</description>
+    </item>
     <item>
       <title>聯邦法官稱 Flock 為「無差別的大規模監控」</title>
       <link>https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</link>
@@ -188,15 +197,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在川普總統的超級智慧行政命令之後，.si 網域名稱的需求出現前所未有的成長。</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026：Clay 的 Kareem Amin 談 GTM 工程師的崛起</title>
-      <link>https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173061</guid>
-      <pubDate>Fri, 02 Oct 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Clay 共同創辦人暨執行長 Kareem Amin 將登上 AI 舞台，於 TechCrunch Disrupt 2026 討論 GTM 工程師的崛起。立即報名購票，還可享第二張票 5 折優惠。</description>
     </item>
     <item>
       <title>NVIDIA DGX Spark 64GB 讓開發者有更多方式打造與擴展本地 AI</title>
