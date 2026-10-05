@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 15:04:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 15:19:28 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出會出現在圖片生成結果旁邊的視覺廣告</title>
+      <link>https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173723</guid>
+      <pubDate>Mon, 05 Oct 2026 15:14:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 表示，新的視覺廣告目前僅會在美國於你的圖片生成結果顯示後出現。</description>
+    </item>
     <item>
       <title>Lola Vision Systems 正在嘗試讓在晶片上執行 AI 模型更容易</title>
       <link>https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/</link>
@@ -221,15 +230,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta 想讓 Muse 出現在你的電視和烤麵包機裡，所以把程式碼免費釋出。</description>
-    </item>
-    <item>
-      <title>Sanders 提出法案，禁止聯邦政府使用 Flock</title>
-      <link>https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173449</guid>
-      <pubDate>Sat, 03 Oct 2026 00:21:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項提案立法也將適用於所有自動車牌辨識器。</description>
     </item>
     <item>
       <title>GPT-6 家族的模型指南</title>
