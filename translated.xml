@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 16:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:50:27 GMT</lastBuildDate>
+    <item>
+      <title>HackerRank 的 AI 面試官讓人一窺求職面試未來可能的樣貌</title>
+      <link>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173686</guid>
+      <pubDate>Mon, 05 Oct 2026 16:43:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>HackerRank 的 AI 面試官已經進行超過 50 萬場面試，Snowflake、Snorkel 和 Capgemini 是其早期測試者之一。</description>
+    </item>
     <item>
       <title>我用科技為學生發聲，並讓他們成為具備批判思考能力的數位公民。</title>
       <link>https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/</link>
@@ -362,15 +371,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Neko Health 的投資人 Farooq Abbasi 接受了 Equity 的訪問，談到了這家熱門的健康科技公司，以及它接下來的發展方向。</description>
-    </item>
-    <item>
-      <title>Meta 想讓你打造自己的 Muse 裝置</title>
-      <link>https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173444</guid>
-      <pubDate>Sat, 03 Oct 2026 00:45:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 想讓 Muse 出現在你的電視和烤麵包機裡，所以把程式碼免費釋出。</description>
     </item>
     <item>
       <title>GPT-6 家族的模型指南</title>
