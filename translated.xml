@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 19:52:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 20:07:19 GMT</lastBuildDate>
     <item>
       <title>在與 Khosla 公開交鋒後，Menlo 自豪地投資 Factory</title>
       <link>https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/</link>
@@ -807,15 +807,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>你是 Codex Original 嗎？</title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
-    </item>
-    <item>
       <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
       <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
@@ -823,6 +814,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
+    </item>
+    <item>
+      <title>你是 Codex Original 嗎？</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -845,6 +845,15 @@
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" alt=""></p><p>我們正在重新構想 Microsoft Copilot，讓工作隨著其演進而推動發展，並協助擴展每個個人與每個組織在人類雄心的推進過程中所能達成的一切。今天，我們推出全新的 Copilot，將人們依賴的工具與他們用來建構、自訂及擴展 AI 所需的下一代能力連結起來...<br>〈Introducing the new Copilot with Home, Code and Autopilot〉一文最初出現在 The Official Microsoft Blog。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Wayfair 運用 OpenAI 提升目錄準確度與支援速度</title>
+      <link>https://openai.com/index/wayfair</link>
+      <guid isPermaLink="false">https://openai.com/index/wayfair</guid>
+      <pubDate>Fri, 25 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Wayfair 使用 OpenAI 模型來改善電商支援和產品目錄準確度，自動化處理工單分流，並大規模強化數百萬筆產品屬性。</description>
     </item>
     <item>
       <title>Connect 2026 的最大消息</title>
@@ -923,15 +932,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
@@ -939,6 +939,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+    </item>
+    <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
@@ -1807,15 +1816,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -1823,6 +1823,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1922,15 +1931,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Replit 推出由 GPT-5.6 Luna 驅動的 Free Mode，讓任何人都能把想法變成可運作的軟體，不必擔心 token 成本。</description>
-    </item>
-    <item>
-      <title>ChatGPT Ads 擴展至歐洲各地</title>
-      <link>https://openai.com/index/chatgpt-ads-expands-across-europe</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-across-europe</guid>
-      <pubDate>Tue, 18 Aug 2026 22:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Ads 正在擴展到 31 個歐洲市場。了解廣告主如何在使用者探索、比較選項並做出決策時接觸到他們。</description>
     </item>
     <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
