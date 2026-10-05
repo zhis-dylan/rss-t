@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 13:03:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:18:13 GMT</lastBuildDate>
+    <item>
+      <title>從掃描到治療計畫，AI 協助彌補乳癌最致命的落差</title>
+      <link>https://blogs.nvidia.com/blog/ai-breast-cancer-startups/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-breast-cancer-startups/</guid>
+      <pubDate>Mon, 05 Oct 2026 13:00:57 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>乳癌是美國女性最常被診斷出的癌症，但照護上的落差卻很大。40 歲以上女性中，多數會跳過建議的年度篩檢。放射科醫師要在更少同儕的情況下判讀更多乳房 X 光攝影。而當確診到來時，會影響治療決策的檢驗結果往往要好幾週才出爐。 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238" alt=""></p><p>乳癌是美國女性最常被診斷出的癌症，但照護上的落差卻很大。40 歲以上女性中，多數會跳過建議的年度篩檢。放射科醫師要在更少同儕的情況下判讀更多乳房 X 光攝影。而當確診到來時，會影響治療決策的檢驗結果往往要好幾週才出爐。 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>起飛囉：2026 年假期旅遊趨勢與小撇步</title>
       <link>https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/</link>
@@ -1240,18 +1252,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AARP 正將免費、實作型的 ChatGPT 工作坊帶到美國 10 個城市、共 1,000 位年長者，幫助他們安全地培養實用的 AI 技能。</description>
-    </item>
-    <item>
-      <title>NVIDIA Vera Rubin NVL72 在 MLPerf Inference v6.1 首次亮相中展現領先效能</title>
-      <link>https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-rubin-nvl72-mlperf-inference/</guid>
-      <pubDate>Wed, 16 Sep 2026 15:00:48 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>系統效能、有效率的基礎架構擴充，以及持續的軟體最佳化，是決定 AI 推論經濟效益的關鍵槓桿。更高的系統效能代表可產生更多 token，進而帶來更高營收。有效率的擴充代表隨著硬體增加，吞吐量也能按比例成長，以較少資源大規模服務使用者。持續最佳化則代表能從基礎架構投資中創造更多價值。 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/069545b47f763ec3b16c11a64e715117/6aaaaf5a3d63323004a4d349_mlperf-inference-6-1-842x450/mlperf-inference-6-1-842x450_thmb.jpg?v=68b529e8-6e2e-425a-8731-c8051cba7540" alt=""></p><p>系統效能、有效率的基礎架構擴充，以及持續的軟體最佳化，是決定 AI 推論經濟效益的關鍵槓桿。更高的系統效能代表可產生更多 token，進而帶來更高營收。有效率的擴充代表隨著硬體增加，吞吐量也能按比例成長，以較少資源大規模服務使用者。持續最佳化則代表能從基礎架構投資中創造更多價值。 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>在 iPhone 18 Pro 上慶祝「What Holds Us」</title>
