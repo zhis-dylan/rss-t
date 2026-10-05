@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 20:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 20:37:36 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 將在歐盟開始為 ChatGPT 的文字加上浮水印</title>
+      <link>https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173997</guid>
+      <pubDate>Mon, 05 Oct 2026 20:36:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 將在歐盟為 ChatGPT 和 Codex 文字加上浮水印，以符合 AI Act。它表示，編輯可能會讓這些看不見的標記更難被偵測到。</description>
+    </item>
+    <item>
+      <title>消息人士說，Etched 在超過 400 億美元估值下獲得募資報價</title>
+      <link>https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173384</guid>
+      <pubDate>Mon, 05 Oct 2026 20:24:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>就在上一次大額募資過後幾個月，這家 AI 晶片新創公司已經收到以目前價值兩倍或更高估值的投資報價，消息人士告訴 TechCrunch。</description>
+    </item>
     <item>
       <title>在與 Khosla 公開交鋒後，Menlo 自豪地投資 Factory</title>
       <link>https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/</link>
@@ -353,24 +371,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Equity 節目中，我們討論了川普政府重新打造 AI 品牌的嘗試。</description>
-    </item>
-    <item>
-      <title>TechCrunch Mobility：管制 robotaxi</title>
-      <link>https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173378</guid>
-      <pubDate>Sun, 04 Oct 2026 16:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歡迎回到 TechCrunch Mobility，這裡是你掌握交通運輸未來的樞紐，而現在，AI 在其中扮演的角色比以往任何時候都更重要。</description>
-    </item>
-    <item>
-      <title>川普公布他的新超級智慧小組</title>
-      <link>https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173547</guid>
-      <pubDate>Sun, 04 Oct 2026 15:15:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這個新工作小組是川普對於 AI 安全辯論的最新回應。</description>
     </item>
     <item>
       <title>GPT-6 家族的模型指南</title>
