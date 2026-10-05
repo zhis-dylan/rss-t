@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 19:21:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:37:00 GMT</lastBuildDate>
+    <item>
+      <title>Reflection 推出 Beam，一款開放權重 AI 模型，以更低運算成本挑戰中國模型</title>
+      <link>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173994</guid>
+      <pubDate>Mon, 05 Oct 2026 19:33:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>輝達支持的 Reflection AI 發表 Beam，這是其首款開放權重模型；該公司表示，Beam 在推理表現上可與 GLM-5.2 相抗衡，而且推論運算需求低得多。權重預計本月發布。</description>
+    </item>
     <item>
       <title>Instinct 將其 AI 代理帶進群組聊天，就算朋友沒有帳號也能用</title>
       <link>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</link>
@@ -362,15 +371,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一名聯邦法官裁定，一名警長副手在未持有搜索令的情況下使用 Flock 搜尋一名女子的車牌時，侵犯了她受美國憲法第四修正案保障的權利。</description>
-    </item>
-    <item>
-      <title>Amazon 回應資料中心反彈，表示已不再使用 NDA</title>
-      <link>https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173505</guid>
-      <pubDate>Sat, 03 Oct 2026 18:43:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon Web Services 的執行長試圖反駁外界對資料中心的普遍疑慮。</description>
     </item>
     <item>
       <title>GPT-6 家族的模型指南</title>
