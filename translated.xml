@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 06:45:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 07:00:20 GMT</lastBuildDate>
+    <item>
+      <title>讓英國與愛爾蘭的教育工作者可取得 AI 培訓</title>
+      <link>https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/</guid>
+      <pubDate>Mon, 05 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 的 AI 工具旨在協助教育工作者達成教學目標，並為學生提供個人化的學習體驗。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp_CkzTCJX.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp_CkzTCJX.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ISTE_2026_Collections_BlogHeade.max-600x600.format-webp_CkzTCJX.webp" alt=""></p><p>Google 的 AI 工具旨在協助教育工作者達成教學目標，並為學生提供個人化的學習體驗。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Google 因 AI 投稿「大幅增加」而暫停其開源漏洞獎勵計畫</title>
       <link>https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/</link>
@@ -708,18 +720,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp" alt=""></p><p>觀看 Future Vision XPRIZE 得獎作品《The Gifted》的獲勝預告片。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 藝術與文化滿 15 歲——並為其 app 換上新面貌</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/new-arts-culture-app/</guid>
-      <pubDate>Mon, 28 Sep 2026 16:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在 Google 藝術與文化 app 中，透過以視覺為先的對話搜尋、重新設計的首頁資訊流、AI 實驗，以及 27 個新的城市指南，探索藝術與文化。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_15yrs.max-600x600.format-webp.webp" alt=""></p><p>在 Google 藝術與文化 app 中，透過以視覺為先的對話搜尋、重新設計的首頁資訊流、AI 實驗，以及 27 個新的城市指南，探索藝術與文化。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出 Meta Enterprise Platform</title>
