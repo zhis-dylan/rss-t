@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 18:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 18:36:27 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 推出 AI 購物助理與一鍵結帳</title>
+      <link>https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173828</guid>
+      <pubDate>Mon, 05 Oct 2026 18:29:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TikTok 將其新的 Shopping Assistant 描述為一個對話式 AI 助理，旨在協助使用者發現並購買產品。</description>
+    </item>
     <item>
       <title>19 歲創辦人為 Ghost 募得 1,100 萬美元，這家個人 AI 電腦製造商的產品售價 3,499 美元</title>
       <link>https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/</link>
@@ -362,15 +371,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>依他自己所說，David Robinson 「有點老套」：一名領先 AI 公司的員工在辭職時發出嚴厲警告。</description>
-    </item>
-    <item>
-      <title>Jack Dorsey 的 Bitchat 在政府命令後從印度的 App 商店下架</title>
-      <link>https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173486</guid>
-      <pubDate>Sat, 03 Oct 2026 15:02:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由於相關限制，Bitchat 在印度已大致無法使用。</description>
     </item>
     <item>
       <title>GPT-6 家族的模型指南</title>
@@ -923,15 +923,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
-    </item>
-    <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
       <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
@@ -948,6 +939,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+    </item>
+    <item>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>Meta Ray-Ban Display 的新功能</title>
@@ -1641,15 +1641,6 @@
       <description>OpenAI 推出 Daybreak for Frontline Defenders。這筆 10 億美元的承諾將擴大前沿網路安全 AI、訓練與支援的取得，協助關鍵服務。</description>
     </item>
     <item>
-      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
@@ -1657,6 +1648,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
+    </item>
+    <item>
+      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
