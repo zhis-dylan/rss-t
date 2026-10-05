@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 05 Oct 2026 19:37:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 19:52:10 GMT</lastBuildDate>
+    <item>
+      <title>在與 Khosla 公開交鋒後，Menlo 自豪地投資 Factory</title>
+      <link>https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173872</guid>
+      <pubDate>Mon, 05 Oct 2026 19:38:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 Vinod Khosla 稱 Factory 是苦苦掙扎的陪跑者幾天後，Menlo 帶著支票和一篇溢美之詞滿滿的部落格文章現身了。</description>
+    </item>
     <item>
       <title>Reflection 推出 Beam，一款開放權重 AI 模型，以更低運算成本挑戰中國模型</title>
       <link>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</link>
@@ -362,15 +371,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這個新工作小組是川普對於 AI 安全辯論的最新回應。</description>
-    </item>
-    <item>
-      <title>聯邦法官稱 Flock 為「無差別的大規模監控」</title>
-      <link>https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173513</guid>
-      <pubDate>Sat, 03 Oct 2026 19:33:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一名聯邦法官裁定，一名警長副手在未持有搜索令的情況下使用 Flock 搜尋一名女子的車牌時，侵犯了她受美國憲法第四修正案保障的權利。</description>
     </item>
     <item>
       <title>GPT-6 家族的模型指南</title>
