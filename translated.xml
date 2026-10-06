@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:45:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:01:02 GMT</lastBuildDate>
+    <item>
+      <title>運用 Google Earth AI 讓全球公共衛生更主動</title>
+      <link>https://blog.google/innovation-and-ai/technology/health/google-earth-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/google-earth-ai/</guid>
+      <pubDate>Tue, 06 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 正在協助衛生領導者克服通報延遲、預測疾病爆發，並為脆弱社群提供照護。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Earth_AI__Global_Health_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Earth_AI__Global_Health_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Earth_AI__Global_Health_.max-600x600.format-webp.webp" alt=""></p><p>Google 正在協助衛生領導者克服通報延遲、預測疾病爆發，並為脆弱社群提供照護。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Bluesky 想讓你在開放網路上擁有自己的網域</title>
       <link>https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/</link>
@@ -235,16 +247,16 @@
       <description>由兩姊妹創立的 Hot Girl Hotline 運用 AI，為年輕女性提供個人化的約會與感情建議，並強調安全與避免情感依賴。</description>
     </item>
     <item>
-      <title>Gemini 幫助我為那些無法寫字的學生發聲。</title>
-      <link>https://blog.google/products-and-platforms/products/education/special-education-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/special-education-gemini/</guid>
+      <title>我教導我的學生，在 AI 時代，批判思考優先。</title>
+      <link>https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" alt=""></p><p>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</p>]]></content:encoded>
+      <description>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" alt=""></p><p>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</p>]]></content:encoded>
     </item>
     <item>
       <title>我用科技為學生發聲，並讓他們成為具備批判思考能力的數位公民。</title>
@@ -259,16 +271,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rebecca_social.max-600x600.format-webp.webp" alt=""></p><p>運用 Google Sites、Gemini 和 Vids 賦予學生能力，培養批判思考技能。看看這些工具今天如何幫助孩子找到自己的聲音。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
-      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
+      <title>Gemini 幫助我為那些無法寫字的學生發聲。</title>
+      <link>https://blog.google/products-and-platforms/products/education/special-education-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/special-education-gemini/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
+      <description>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" alt=""></p><p>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</p>]]></content:encoded>
     </item>
     <item>
       <title>科技幫助我的學生在宏大的創意點子與緊湊的期限之間取得平衡。</title>
@@ -307,6 +319,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp" alt=""></p><p>為慶祝 2026 世界教師日，教育工作者分享他們在課堂上如何使用科技的故事。</p>]]></content:encoded>
     </item>
     <item>
+      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
+      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
+      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Gemini 幫助我把動手學習帶進教室。</title>
       <link>https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</guid>
@@ -329,18 +353,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KateThomas.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KateThomas.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KateThomas.max-600x600.format-webp.webp" alt=""></p><p>老師們使用 Gemini 製作客製化的 K-6 數學學習單，省下好幾個小時的備課時間。看看 Google AI 如何改變課堂教學。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我教導我的學生，在 AI 時代，批判思考優先。</title>
-      <link>https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" alt=""></p><p>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</p>]]></content:encoded>
     </item>
     <item>
       <title>我的八年級學生用 Gemini 從零開始打造了我們學校的新聞播報。</title>
@@ -515,18 +527,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Albertsons Cos. 正在運用 ChatGPT Enterprise 和 OpenAI API，幫助團隊更快工作，並讓數以百萬計的顧客更輕鬆地購買雜貨。</description>
-    </item>
-    <item>
-      <title>Gemini Live 的 Guided Vision：為無障礙體驗而打造</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/guided-vision-gemini-live/</guid>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Live 的 Guided Vision 與盲人及低視力社群共同打造，並提供即時視覺協助。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GuidedVision_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini Live 的 Guided Vision 與盲人及低視力社群共同打造，並提供即時視覺協助。</p>]]></content:encoded>
     </item>
     <item>
       <title>Microsoft 365 與 LinkedIn 領導層更新</title>
