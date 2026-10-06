@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 20:34:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:49:21 GMT</lastBuildDate>
+    <item>
+      <title>矽谷的 AI 天才少年推出 Underdog，至今最私密的 Instinct/Muse 競爭對手</title>
+      <link>https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174503</guid>
+      <pubDate>Tue, 06 Oct 2026 20:47:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Sigil Wen 由矽谷名流力挺，打造出一款裝置端 AI 助理，主打免費、完全隱私，並且足以應付日常任務。</description>
+    </item>
+    <item>
+      <title>AI 決策模型如何改變內容審核</title>
+      <link>https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174464</guid>
+      <pubDate>Tue, 06 Oct 2026 20:35:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>週二，Musubi 發表了一款為即時審核打造的輕量級決策模型 PolicyLM-1.7B，並以開放權重釋出。</description>
+    </item>
     <item>
       <title>AI 運算新創 Lambda 擬在預計 IPO 前募資 40 億美元</title>
       <link>https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</link>
@@ -260,24 +278,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b" alt=""></p><p>電信營運商越來越多地以開放模型打造他們的 AI 策略——而原因不只是成本。開放模型讓電信業者能夠在最關鍵的工作負載上信任、控制並自訂 AI，從自主網路到客服皆然。NVIDIA 最新的《電信業 AI 現況》報告反映了這一轉變，其中 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Flai 的 AI 經銷商軟體每月預約 50,000 次</title>
-      <link>https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173945</guid>
-      <pubDate>Tue, 06 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Flai 的營收在一年內成長了 20 倍，而該公司剛完成 2,700 萬美元的 A 輪融資。</description>
-    </item>
-    <item>
-      <title>Facebook 在印度測試以 Reels 為優先的介面</title>
-      <link>https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174251</guid>
-      <pubDate>Tue, 06 Oct 2026 12:38:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 正在印度測試一個新的 Facebook 使用者介面，部分使用者打開 App 時會直接進入全螢幕影片，將 Reels 擺在最前面。</description>
     </item>
     <item>
       <title>使用 Ironclad 推進電腦操作能力</title>
