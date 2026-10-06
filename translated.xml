@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 16:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 16:32:00 GMT</lastBuildDate>
+    <item>
+      <title>Furientis 從 Benchmark 獲得 2500 萬美元，用於量產低成本飛彈攔截器</title>
+      <link>https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174489</guid>
+      <pubDate>Tue, 06 Oct 2026 16:29:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家聲名顯赫的矽谷公司首次投資純國防領域。</description>
+    </item>
+    <item>
+      <title>11 月 4 日到 TechCrunch Founder Summit 了解擴張、募資、創辦人實用指南等更多內容</title>
+      <link>https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174204</guid>
+      <pubDate>Tue, 06 Oct 2026 16:18:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>沒有一本手冊可讀，也沒有一個提示可輸入給 LLM，就能讓你具備打造一家公司的技能與知識。不過在 11 月 4 日，TechCrunch Founder Summit 將為創辦人帶來次佳選擇：在 Boston 的 SoWa Power Station 度過充實的一天，投資人與營運者會分享他們如何做出關鍵決策。</description>
+    </item>
     <item>
       <title>製作人現在可以使用 Google Flow 音樂來 vibe code 自己的音樂製作工具。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/</link>
@@ -251,24 +269,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Vinod Khosla 稱 Factory 是苦苦掙扎的陪跑者幾天後，Menlo 帶著支票和一篇溢美之詞滿滿的部落格文章現身了。</description>
-    </item>
-    <item>
-      <title>Reflection 推出 Beam，一款開放權重 AI 模型，以更低運算成本挑戰中國模型</title>
-      <link>https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173994</guid>
-      <pubDate>Mon, 05 Oct 2026 19:33:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>輝達支持的 Reflection AI 發表 Beam，這是其首款開放權重模型；該公司表示，Beam 在推理表現上可與 GLM-5.2 相抗衡，而且推論運算需求低得多。權重預計本月發布。</description>
-    </item>
-    <item>
-      <title>Instinct 將其 AI 代理帶進群組聊天，就算朋友沒有帳號也能用</title>
-      <link>https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173877</guid>
-      <pubDate>Mon, 05 Oct 2026 18:54:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Instinct 正在推出群組聊天，讓朋友可以一起使用它的 AI 代理處理像是規劃旅行、安排共乘和協調活動等工作。公司表示，個人帳號仍然彼此獨立，在個人代理分享資訊或採取行動之前都需要取得 अनुमति。</description>
     </item>
     <item>
       <title>我用科技為學生發聲，並讓他們成為具備批判思考能力的數位公民。</title>
