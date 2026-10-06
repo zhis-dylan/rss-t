@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 10:28:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 10:43:33 GMT</lastBuildDate>
+    <item>
+      <title>為什麼我們支持美國現有的核電廠</title>
+      <link>https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/why-were-backing-americas-existing-nuclear-plants/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們與 Constellation Energy 的新協議，使我們透過增容與重啟為美國能源系統所促成的新增核能容量總計超過 1.5 GW。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GOOGLE_BRAIDWOOD_THUMBNAIL_001.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GOOGLE_BRAIDWOOD_THUMBNAIL_001.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GOOGLE_BRAIDWOOD_THUMBNAIL_001.max-600x600.format-webp.webp" alt=""></p><p>我們與 Constellation Energy 的新協議，使我們透過增容與重啟為美國能源系統所促成的新增核能容量總計超過 1.5 GW。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Lucid Motors 的電動車產量降至近兩年來最低水準</title>
       <link>https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/</link>
@@ -572,18 +584,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Dhruv-Vohra_2026.jpeg?fit=1600%2C899" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Dhruv-Vohra_2026.jpeg?fit=1600%2C899"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Dhruv-Vohra_2026.jpeg?fit=1600%2C899" alt=""></p><p>Meta 已宣布，Dhruv Vohra 將出任東南亞全球業務集團董事總經理的新職務。<br>這篇〈Meta 任命 Dhruv Vohra 領導東南亞業務〉最初刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 的 AI 在預測流感住院方面排名第 1。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/google-science-ai-flu-forecasts/</guid>
-      <pubDate>Wed, 30 Sep 2026 21:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>美國疾病管制與預防中心宣布，Google 的科學 AI 模型在預測與流感相關的住院人數方面表現最佳。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Flusight_socialhero.max-600x600.format-webp.webp" alt=""></p><p>美國疾病管制與預防中心宣布，Google 的科學 AI 模型在預測與流感相關的住院人數方面表現最佳。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 開放 2027–2028 年研究生獎學金申請，獎助金最高可達 60,000 美元</title>
