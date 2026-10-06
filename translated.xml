@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:45:09 GMT</lastBuildDate>
+    <item>
+      <title>認識那位為虛擬世界打造巨大蜘蛛的藝術家</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/</guid>
+      <pubDate>Tue, 06 Oct 2026 13:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Theo Triantafyllidis 獲得了 2026 年 Frieze 藝術家獎，該獎項由 Google Arts &amp; Culture 支持。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp" alt=""></p><p>Theo Triantafyllidis 獲得了 2026 年 Frieze 藝術家獎，該獎項由 Google Arts &amp; Culture 支持。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Glimpse 想為硬體公司提供每個關鍵零件的 X 光視角</title>
       <link>https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/</link>
@@ -562,18 +574,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244" alt=""></p><p>AI 工廠是以兆瓦規模打造，甚至達到吉瓦規模。每座兆瓦級工廠的成本約為 6,000 萬美元，而 AI 工廠營運商只有在清楚看見投資報酬的情況下，才會投入如此規模的資本。影響 AI 工廠報酬的三個關鍵因素是：  earning capacity：工廠一年可能賺取多少收入 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Search 能幫助你完善居家咖啡沖煮習慣的 5 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/coffee-tips-google-search/</guid>
-      <pubDate>Thu, 01 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解 Google Search 如何幫助你提升早晨那杯咖啡的風味。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SearchCoffee_hero.max-600x600.format-webp.webp" alt=""></p><p>了解 Google Search 如何幫助你提升早晨那杯咖啡的風味。</p>]]></content:encoded>
     </item>
     <item>
       <title>The Den 透過 ChatGPT Work 每週騰出 10 到 15 小時成長</title>
