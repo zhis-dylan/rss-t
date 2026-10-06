@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 19:33:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 20:03:58 GMT</lastBuildDate>
+    <item>
+      <title>AI 運算新創 Lambda 擬在預計 IPO 前募資 40 億美元</title>
+      <link>https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174674</guid>
+      <pubDate>Tue, 06 Oct 2026 20:00:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>獲 Nvidia 支持的 Lambda 正在募資最高 40 億美元，估值為 145 億美元（pre-money），為預計 2027 年的 IPO 做準備，這輪由 Coatue 和 Blackstone 領投。</description>
+    </item>
+    <item>
+      <title>AI 代理的下一道難關：讓網站放它們進來</title>
+      <link>https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174440</guid>
+      <pubDate>Tue, 06 Oct 2026 19:56:50 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>個人 AI 代理承諾可替你購物、訂機票和訂位。但刻意的阻擋和反機器人防禦正在造成阻礙，讓消費者夾在中間。一項新標準旨在提供協助。</description>
+    </item>
     <item>
       <title>Hark 推出一款以隱私為重點的 AI 個人助理</title>
       <link>https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/</link>
@@ -14,6 +32,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家 AI 實驗室的個人助理是一套來自未來的作業系統，設計用來與 Muse、Dots 和 Instinct 競爭。</description>
+    </item>
+    <item>
+      <title>問科學家：研究人員如何運用 AI 幫助孕婦取得超音波檢查？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/</guid>
+      <pubDate>Tue, 06 Oct 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過將 AI 與「blind sweep」超音波結合，Google 研究人員找到了一種讓更多人獲得所需產前超音波檢查的方法。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_MatHealth_Thumb_D.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_MatHealth_Thumb_D.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_MatHealth_Thumb_D.max-600x600.format-webp.webp" alt=""></p><p>透過將 AI 與「blind sweep」超音波結合，Google 研究人員找到了一種讓更多人獲得所需產前超音波檢查的方法。</p>]]></content:encoded>
     </item>
     <item>
       <title>印度的 JioHotstar 透過合作方式拓展中東市場</title>
@@ -250,15 +280,6 @@
       <description>Meta 正在印度測試一個新的 Facebook 使用者介面，部分使用者打開 App 時會直接進入全螢幕影片，將 Reels 擺在最前面。</description>
     </item>
     <item>
-      <title>Type One Energy 募得 2 億美元，將在 2034 年前打造核融合發電廠</title>
-      <link>https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174065</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Type One Energy 押注其精簡的核融合發電方式，能更快讓發電廠併入電網，投資人也因此給了它 2 億美元。</description>
-    </item>
-    <item>
       <title>使用 Ironclad 推進電腦操作能力</title>
       <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
       <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-with-ironclad</guid>
@@ -280,15 +301,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GOOGLE_BRAIDWOOD_THUMBNAIL_001.max-600x600.format-webp.webp" alt=""></p><p>我們與 Constellation Energy 的新協議，使我們透過增容與重啟為美國能源系統所促成的新增核能容量總計超過 1.5 GW。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Lucid Motors 的電動車產量降至近兩年來最低水準</title>
-      <link>https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174057</guid>
-      <pubDate>Mon, 05 Oct 2026 21:54:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司在多年難以為其電動車找到大眾市場需求後，正刻意限制生產。</description>
-    </item>
-    <item>
       <title>我用科技為學生發聲，並讓他們成為具備批判思考能力的數位公民。</title>
       <link>https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/teacher-voices-sweden/</guid>
@@ -301,16 +313,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rebecca_social.max-600x600.format-webp.webp" alt=""></p><p>運用 Google Sites、Gemini 和 Vids 賦予學生能力，培養批判思考技能。看看這些工具今天如何幫助孩子找到自己的聲音。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 幫助我為那些無法寫字的學生發聲。</title>
-      <link>https://blog.google/products-and-platforms/products/education/special-education-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/special-education-gemini/</guid>
+      <title>我的八年級學生用 Gemini 從零開始打造了我們學校的新聞播報。</title>
+      <link>https://blog.google/products-and-platforms/products/education/gemini-student-newscast/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-student-newscast/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" alt=""></p><p>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</p>]]></content:encoded>
+      <description>八年級學生使用 Gemini 和 Google 文件打造 The Cougar Rumble 新聞播報。看看這些學生今天如何簡化他們的製作工作流程。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp" alt=""></p><p>八年級學生使用 Gemini 和 Google 文件打造 The Cougar Rumble 新聞播報。看看這些學生今天如何簡化他們的製作工作流程。</p>]]></content:encoded>
     </item>
     <item>
       <title>科技幫助我的學生在宏大的創意點子與緊湊的期限之間取得平衡。</title>
@@ -349,28 +361,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp" alt=""></p><p>為慶祝 2026 世界教師日，教育工作者分享他們在課堂上如何使用科技的故事。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
-      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
+      <title>Gemini 幫助我為那些無法寫字的學生發聲。</title>
+      <link>https://blog.google/products-and-platforms/products/education/special-education-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/special-education-gemini/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini 幫助我把動手學習帶進教室。</title>
-      <link>https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" alt=""></p><p>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</p>]]></content:encoded>
+      <description>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" alt=""></p><p>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</p>]]></content:encoded>
     </item>
     <item>
       <title>我教導我的學生，在 AI 時代，批判思考優先。</title>
@@ -385,16 +385,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" alt=""></p><p>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我的八年級學生用 Gemini 從零開始打造了我們學校的新聞播報。</title>
-      <link>https://blog.google/products-and-platforms/products/education/gemini-student-newscast/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-student-newscast/</guid>
+      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
+      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>八年級學生使用 Gemini 和 Google 文件打造 The Cougar Rumble 新聞播報。看看這些學生今天如何簡化他們的製作工作流程。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp" alt=""></p><p>八年級學生使用 Gemini 和 Google 文件打造 The Cougar Rumble 新聞播報。看看這些學生今天如何簡化他們的製作工作流程。</p>]]></content:encoded>
+      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
     </item>
     <item>
       <title>我的學生使用 Gemini 來腦力激盪創意點子。</title>
@@ -419,6 +419,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KateThomas.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KateThomas.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/KateThomas.max-600x600.format-webp.webp" alt=""></p><p>老師們使用 Gemini 製作客製化的 K-6 數學學習單，省下好幾個小時的備課時間。看看 Google AI 如何改變課堂教學。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 幫助我把動手學習帶進教室。</title>
+      <link>https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</guid>
+      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" alt=""></p><p>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們對歐盟文字來源規則的做法</title>
@@ -482,18 +494,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解新創公司如何選擇 GPT-6 模型、調整推理強度、改善提示詞與技能、協調工具，並為正式環境準備工作流程。</description>
-    </item>
-    <item>
-      <title>我們在 2026 年 9 月宣布的最新 AI 新聞</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/</guid>
-      <pubDate>Fri, 02 Oct 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Google 在 2026 年 9 月的最新 AI 更新</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/September_AI_Recap_hero.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 在 2026 年 9 月的最新 AI 更新</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA DGX Spark 64GB 讓開發者有更多方式打造與擴展本地 AI</title>
@@ -1668,15 +1668,6 @@
       <description>OpenAI 推出 Daybreak for Frontline Defenders。這筆 10 億美元的承諾將擴大前沿網路安全 AI、訓練與支援的取得，協助關鍵服務。</description>
     </item>
     <item>
-      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
@@ -1684,6 +1675,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
+    </item>
+    <item>
+      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
@@ -1834,15 +1834,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <description>OpenAI 正在擴大其在巴西的布局，加深與開發者、企業和社群的互動，以支持 AI 在全國各地的採用。</description>
     </item>
     <item>
-      <title>學習永不停止：AI 如何讓學習持續進行</title>
-      <link>https://openai.com/index/learning-never-stops</link>
-      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
-    </item>
-    <item>
       <title>將 ChatGPT for Teachers 推廣至更多美國學區</title>
       <link>https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</link>
       <guid isPermaLink="false">https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts</guid>
@@ -1850,6 +1841,15 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT for Teachers 正擴展到 55 個美國學校系統，為超過 10 萬名更多教育工作者與教職員帶來安全的 AI 工具、訓練與支援。</description>
+    </item>
+    <item>
+      <title>學習永不停止：AI 如何讓學習持續進行</title>
+      <link>https://openai.com/index/learning-never-stops</link>
+      <guid isPermaLink="false">https://openai.com/index/learning-never-stops</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 的新報告探討學生與教育工作者如何使用 ChatGPT 讓學習更持續，並提供延伸到課堂之外的支援。</description>
     </item>
     <item>
       <title>Hugging Face 事件與未來方向</title>
@@ -1922,15 +1922,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>介紹智慧時代，一個新的 OpenAI 部落格，探討變革性的 AI 如何重塑權力、治理、經濟和個人自由。</description>
-    </item>
-    <item>
-      <title>ChatGPT Work 如何協助 Stampli 將想法推向市場</title>
-      <link>https://openai.com/index/stampli</link>
-      <guid isPermaLink="false">https://openai.com/index/stampli</guid>
-      <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>在固定截止日期、且設計資源已投入其他工作的情況下，Stampli 使用 Codex 和 ChatGPT Work，將原本需要數週的上市製作壓縮到幾天內完成。</description>
     </item>
     <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
