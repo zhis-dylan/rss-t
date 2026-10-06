@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 14:30:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 14:45:52 GMT</lastBuildDate>
+    <item>
+      <title>Bluesky 想讓你在開放網路上擁有自己的網域</title>
+      <link>https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174385</guid>
+      <pubDate>Tue, 06 Oct 2026 14:41:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bluesky 表示這個流程還是需要 18 到 24 個月，所以短期內別期待你新的、縮短版「bsky」帳號。</description>
+    </item>
+    <item>
+      <title>艾美獎將在 2027 年從廣播電視轉移到 Prime Video</title>
+      <link>https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174386</guid>
+      <pubDate>Tue, 06 Oct 2026 14:37:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>非 Amazon Prime 訂閱者也能在這個平台上觀看頒獎典禮。</description>
+    </item>
+    <item>
+      <title>Mistral 新的 1T 模型目標超越封閉與開放競爭對手</title>
+      <link>https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174387</guid>
+      <pubDate>Tue, 06 Oct 2026 14:33:16 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>法國 AI 實驗室 Mistral AI 發布了 Mistral Large 4，一款新的大型多模態模型，目標是超越美國與中國的競爭對手。</description>
+    </item>
     <item>
       <title>Pinterest 的 AI 現在會把美妝 Pin 轉成行動方案</title>
       <link>https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/</link>
@@ -208,24 +235,6 @@
       <description>由兩姊妹創立的 Hot Girl Hotline 運用 AI，為年輕女性提供個人化的約會與感情建議，並強調安全與避免情感依賴。</description>
     </item>
     <item>
-      <title>5 家在最新 PearX demo day 吸引創投目光的新創公司</title>
-      <link>https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173788</guid>
-      <pubDate>Mon, 05 Oct 2026 17:26:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch 參加了 Pear 最新的 demo day，並發現哪些新創公司最受矚目，從空間模型到本地 AI 晶片都有。</description>
-    </item>
-    <item>
-      <title>HackerRank 的 AI 面試官讓人一窺求職面試未來可能的樣貌</title>
-      <link>https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173686</guid>
-      <pubDate>Mon, 05 Oct 2026 16:43:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>HackerRank 的 AI 面試官已經進行超過 50 萬場面試，Snowflake、Snorkel 和 Capgemini 是其早期測試者之一。</description>
-    </item>
-    <item>
       <title>Gemini 幫助我為那些無法寫字的學生發聲。</title>
       <link>https://blog.google/products-and-platforms/products/education/special-education-gemini/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/special-education-gemini/</guid>
@@ -356,15 +365,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rayna_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rayna_1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rayna_1.max-600x600.format-webp.webp" alt=""></p><p>五年級學生使用 Google Gemini 為歷史創作歌曲並創作藝術。看看這位老師如何將 AI 整合進課堂。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 推出會出現在圖片生成結果旁邊的視覺廣告</title>
-      <link>https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173723</guid>
-      <pubDate>Mon, 05 Oct 2026 15:14:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 表示，新的視覺廣告目前僅會在美國於你的圖片生成結果顯示後出現。</description>
     </item>
     <item>
       <title>我們對歐盟文字來源規則的做法</title>
