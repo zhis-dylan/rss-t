@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:29:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:44:31 GMT</lastBuildDate>
+    <item>
+      <title>Facebook 在印度測試以 Reels 為優先的介面</title>
+      <link>https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174251</guid>
+      <pubDate>Tue, 06 Oct 2026 12:38:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 正在印度測試一個新的 Facebook 使用者介面，部分使用者打開 App 時會直接進入全螢幕影片，將 Reels 擺在最前面。</description>
+    </item>
     <item>
       <title>Type One Energy 募得 2 億美元，將在 2034 年前打造核融合發電廠</title>
       <link>https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/</link>
@@ -353,15 +362,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Trends_gradient_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Trends_gradient_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Trends_gradient_hero.max-600x600.format-webp.webp" alt=""></p><p>探索今年的假期旅遊趨勢與小撇步——從如何訂到最低票價的洞察，到感恩節和耶誕節的熱門目的地。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Safeworld 能說服人們，生成式 AI 機器人不會傷害他們嗎？</title>
-      <link>https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173325</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Safeworld 正在打造數位人類，以確保機器人不會傷害真實的人類。</description>
     </item>
     <item>
       <title>為人們使用 AI 的方式打造廣告</title>
