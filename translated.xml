@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:20:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:35:23 GMT</lastBuildDate>
+    <item>
+      <title>前 Ramp 工程師在放棄第一個產品後，為平台 Melius 募得 2,000 萬美元</title>
+      <link>https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174722</guid>
+      <pubDate>Tue, 06 Oct 2026 22:34:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司在轉型後推出產品的兩個月內，年化營收就突破 100 萬美元。</description>
+    </item>
     <item>
       <title>矽谷的 AI 天才少年推出 Underdog，至今最私密的 Instinct/Muse 競爭對手</title>
       <link>https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/</link>
@@ -257,15 +266,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp" alt=""></p><p>Theo Triantafyllidis 獲得了 2026 年 Frieze 藝術家獎，該獎項由 Google Arts &amp;amp; Culture 支持。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Glimpse 想為硬體公司提供每個關鍵零件的 X 光視角</title>
-      <link>https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174176</guid>
-      <pubDate>Tue, 06 Oct 2026 13:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>名為 Explore 的 Glimpse 新影像處理軟體，讓硬體製造商能利用 CT 掃描器加快品質控管檢查。</description>
     </item>
     <item>
       <title>為什麼電信營運商正以開放模型打造他們的 AI 策略</title>
