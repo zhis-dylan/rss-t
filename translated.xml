@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 06 Oct 2026 12:59:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:14:49 GMT</lastBuildDate>
+    <item>
+      <title>為什麼電信營運商正以開放模型打造他們的 AI 策略</title>
+      <link>https://blogs.nvidia.com/blog/telecom-operators-open-models/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/telecom-operators-open-models/</guid>
+      <pubDate>Tue, 06 Oct 2026 13:00:19 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>電信營運商越來越多地以開放模型打造他們的 AI 策略——而原因不只是成本。開放模型讓電信業者能夠在最關鍵的工作負載上信任、控制並自訂 AI，從自主網路到客服皆然。NVIDIA 最新的《電信業 AI 現況》報告反映了這一轉變，其中 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b" alt=""></p><p>電信營運商越來越多地以開放模型打造他們的 AI 策略——而原因不只是成本。開放模型讓電信業者能夠在最關鍵的工作負載上信任、控制並自訂 AI，從自主網路到客服皆然。NVIDIA 最新的《電信業 AI 現況》報告反映了這一轉變，其中 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Flai 的 AI 經銷商軟體每月預約 50,000 次</title>
+      <link>https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173945</guid>
+      <pubDate>Tue, 06 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Flai 的營收在一年內成長了 20 倍，而該公司剛完成 2,700 萬美元的 A 輪融資。</description>
+    </item>
     <item>
       <title>Facebook 在印度測試以 Reels 為優先的介面</title>
       <link>https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/</link>
@@ -329,15 +350,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>認識最後五位 Startup Battlefield 評審，他們將決定誰在 TechCrunch Disrupt 2026 的簡報競賽中獲勝。現在就取得票券，最高可省下 100 美元，第二張可享 5 折。</description>
-    </item>
-    <item>
-      <title>最終版 Disrupt Stage 議程：三天對談，只有在 TechCrunch Disrupt 2026 才聽得到</title>
-      <link>https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173520</guid>
-      <pubDate>Mon, 05 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>完整的 TechCrunch Disrupt Stage 議程已公開，包含 Max Hodak、Mark Wahlberg、Benchmark 合夥人等更多來賓。立即報名，通行證最高可省 100 美元，第二張可享 5 折優惠。</description>
     </item>
     <item>
       <title>從掃描到治療計畫，AI 協助彌補乳癌最致命的落差</title>
@@ -1221,18 +1233,6 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>AI 正以比任何組織真正掌握的速度更快地重塑工作。橫跨各個產業，討論焦點已從 AI 能做什麼，轉向企業如何運用 AI 創造商業價值，並擴展人們所能達成的事物。在 Microsoft，我們相信，能夠成功的組織將會是我們所稱的 Frontier Firms：...
 這篇〈我們從微軟自身的 AI 轉型中學到了什麼〉最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>可愛小生物登上雲端：《Aniimo》在 GeForce NOW 推出</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-aniimo/</guid>
-      <pubDate>Thu, 17 Sep 2026 13:00:55 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>一款全新的生物捕捉冒險遊戲本週已準備好從雲端串流。Pawprint Studio 的《Aniimo》於上市當天登上 GeForce NOW，邀請玩家在支援的裝置上探索充滿活力的 Idyll 大陸。本週，007 First Light 也在 GeForce NOW 上迎來 path tracing 更新，同時還有限時超值 Deluxe Edition 特賣，[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/12e91132ad4d60db40d3002bf8dd818e/6aabe4b43d63322f2b6e1471_gfn-thursday-9-17-blog-1920x1080-logo-842x450/gfn-thursday-9-17-blog-1920x1080-logo-842x450_thmb.jpg?v=29374bbb-481e-449b-986a-333e65a776b9" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/12e91132ad4d60db40d3002bf8dd818e/6aabe4b43d63322f2b6e1471_gfn-thursday-9-17-blog-1920x1080-logo-842x450/gfn-thursday-9-17-blog-1920x1080-logo-842x450_thmb.jpg?v=29374bbb-481e-449b-986a-333e65a776b9"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/12e91132ad4d60db40d3002bf8dd818e/6aabe4b43d63322f2b6e1471_gfn-thursday-9-17-blog-1920x1080-logo-842x450/gfn-thursday-9-17-blog-1920x1080-logo-842x450_thmb.jpg?v=29374bbb-481e-449b-986a-333e65a776b9" alt=""></p><p>一款全新的生物捕捉冒險遊戲本週已準備好從雲端串流。Pawprint Studio 的《Aniimo》於上市當天登上 GeForce NOW，邀請玩家在支援的裝置上探索充滿活力的 Idyll 大陸。本週，007 First Light 也在 GeForce NOW 上迎來 path tracing 更新，同時還有限時超值 Deluxe Edition 特賣，[…]</p>]]></content:encoded>
     </item>
     <item>
       <title>Cooley 如何利用 ChatGPT 加速 IPO 工作</title>
