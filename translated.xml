@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 15:58:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 16:13:35 GMT</lastBuildDate>
     <item>
       <title>Healthleap 籌得 3,800 萬美元，打造可標記可能需要進一步檢查的住院病患的 AI</title>
       <link>https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/</link>
@@ -129,6 +129,15 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Meta-logo.png?fit=2174%2C1216" medium="image" type="image/png"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Meta-logo.png?fit=2174%2C1216"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Meta-logo.png?fit=2174%2C1216" alt=""></p><p>今天我們要分享已採取的額外措施，以強化我們在平台上打擊兒童性剝削的努力。<br>〈我們已採取的打擊兒童剝削措施〉一文最初發表於 Meta 新聞中心。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>幫助青少年學習、規劃，並塑造 AI 的未來</title>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <guid isPermaLink="false">https://openai.com/index/teens-learn-and-plan</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>College Planner 即將加入 ChatGPT for Teens，幫助學生管理大學申請，並提供全新的抽認卡、小測驗，以及青少年 AI 顧問團。</description>
     </item>
     <item>
       <title>介紹 Playground：建立並遊玩自訂遊戲</title>
@@ -1922,15 +1931,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 ChatGPT Work 與 Codex 的 Admin 外掛來分析工作區使用情況、管理成員和權限、調整限制，並處理管理員請求。</description>
-    </item>
-    <item>
-      <title>在 Kiro 中使用 GPT‑5.6 提升開發者的價格效能</title>
-      <link>https://openai.com/index/gpt-5-6-in-kiro</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-5-6-in-kiro</guid>
-      <pubDate>Mon, 24 Aug 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT‑5.6 現已可在 Kiro 中使用，協助開發者以更好的價格效能來規劃、建置、審查和測試軟體。</description>
     </item>
     <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
