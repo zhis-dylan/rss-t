@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:15:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 20:31:03 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 推出搭載新款 Nvidia 晶片的 AI PC，Windows 11 也全面更新</title>
+      <link>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175292</guid>
+      <pubDate>Wed, 07 Oct 2026 20:22:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 公布了其 Surface Laptop Ultra 的規格與價格，這些 AI PC 採用 Nvidia 晶片，專為執行 AI 模型和代理而設計。</description>
+    </item>
     <item>
       <title>NVIDIA、Microsoft 以 RTX Spark 和 AI 代理為 Windows PC 開啟新篇章</title>
       <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/</link>
@@ -252,15 +261,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑6 正在全球範圍內於 ChatGPT 推出，搭配 Intelligent UI，帶來更快的回應，以及你可以直接探索和使用的視覺內容與互動體驗。</description>
-    </item>
-    <item>
-      <title>如何查出 Amazon 是否認為你有「扁平屁股」</title>
-      <link>https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174743</guid>
-      <pubDate>Tue, 06 Oct 2026 22:55:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一位購物者在 Threads 上寫道：「我偶然發現 Amazon 根據我的購買紀錄對我做出的一頁假設，我真的啞口無言。」</description>
     </item>
     <item>
       <title>問科學家：研究人員如何運用 AI 幫助孕婦取得超音波檢查？</title>
