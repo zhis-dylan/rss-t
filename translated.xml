@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 16:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 17:14:06 GMT</lastBuildDate>
+    <item>
+      <title>CIA 官員承認創建假冒最高機密政府計畫，竊取超過 1.9 億美元，包括金條</title>
+      <link>https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175185</guid>
+      <pubDate>Wed, 07 Oct 2026 17:04:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>曾參與高度敏感情報計畫的 CIA 官員 David Rush，在被抓到透過假政府合約挪用金錢和黃金後，已與美國檢察官達成認罪協議。</description>
+    </item>
+    <item>
+      <title>Meta 推出新的 AI 工具，偵測暗中導向兒童性虐待內容的廣告</title>
+      <link>https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175177</guid>
+      <pubDate>Wed, 07 Oct 2026 16:53:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 在發現其平台上的廣告可能看起來正常，卻會將使用者導向網路其他地方的有害內容後，推出新的 AI 工具。</description>
+    </item>
     <item>
       <title>Healthleap 籌得 3,800 萬美元，打造可標記可能需要進一步檢查的住院病患的 AI</title>
       <link>https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/</link>
@@ -213,24 +231,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>獲 Nvidia 支持的 Lambda 正在募資最高 40 億美元，估值為 145 億美元（pre-money），為預計 2027 年的 IPO 做準備，這輪由 Coatue 和 Blackstone 領投。</description>
-    </item>
-    <item>
-      <title>AI 代理的下一道難關：讓網站放它們進來</title>
-      <link>https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174440</guid>
-      <pubDate>Tue, 06 Oct 2026 19:56:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>個人 AI 代理承諾可替你購物、訂機票和訂位。但刻意的阻擋和反機器人防禦正在造成阻礙，讓消費者夾在中間。一項新標準旨在提供協助。</description>
-    </item>
-    <item>
-      <title>Hark 推出一款以隱私為重點的 AI 個人助理</title>
-      <link>https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174492</guid>
-      <pubDate>Tue, 06 Oct 2026 18:22:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家 AI 實驗室的個人助理是一套來自未來的作業系統，設計用來與 Muse、Dots 和 Instinct 競爭。</description>
     </item>
     <item>
       <title>問科學家：研究人員如何運用 AI 幫助孕婦取得超音波檢查？</title>
