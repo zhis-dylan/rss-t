@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 20:46:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:01:19 GMT</lastBuildDate>
+    <item>
+      <title>Nous Research 證實估值達 15 億美元，推出供商務用戶使用的 AI 智慧代理</title>
+      <link>https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175337</guid>
+      <pubDate>Wed, 07 Oct 2026 20:48:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Hermes 智慧代理的開發商完成了 9000 萬美元的 B 輪融資。</description>
+    </item>
     <item>
       <title>Microsoft 推出搭載新款 Nvidia 晶片的 AI PC，Windows 11 也全面更新</title>
       <link>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</link>
@@ -243,15 +252,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Radisson 與 Accenture 合作，使用 OpenAI 技術打造 ChatGPT 外掛程式，協助旅客在規劃行程時尋找、比較和預訂飯店。</description>
-    </item>
-    <item>
-      <title>Spotify 將有聲書擴展至超過 180 個市場</title>
-      <link>https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174407</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Spotify 這次擴展將提供超過 12 萬種語言的 35 萬本書目</description>
     </item>
     <item>
       <title>適合每個人的 GPT-6 與 Intelligent UI</title>
