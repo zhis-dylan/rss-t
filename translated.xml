@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 23:32:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 23:47:56 GMT</lastBuildDate>
     <item>
       <title>今年冬天，使用 Google 地圖和 Waze 在英國找到最優惠的燃油價格。</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/</link>
@@ -17,6 +17,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp" alt=""></p><p>使用 Google 地圖和 Waze 找到英國最便宜的汽油和柴油價格。搜尋你附近的加油站來省錢。查看最新價格。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>機器人資料新創 Mecka AI 募得 6000 萬美元，投資方為 Sequoia</title>
+      <link>https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175399</guid>
+      <pubDate>Wed, 07 Oct 2026 23:36:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司付錢請人錄製日常任務。</description>
     </item>
     <item>
       <title>為什麼資料中心是 Meta AI 方法如此重要的一環</title>
@@ -234,15 +243,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 週二推出一個新網站，讓任何人都能驗證一段媒體內容——無論是圖片、影片或音訊片段——是否是使用 AI 生成的。</description>
-    </item>
-    <item>
-      <title>Ring 的首款智慧鎖在電池沒電時可用手動轉柄操作</title>
-      <link>https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174991</guid>
-      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>亞馬遜旗下的 Ring 正進軍智慧鎖市場，推出一款專為解決常見疑慮而設計的裝置：電池沒電時被鎖在門外</description>
     </item>
     <item>
       <title>我們已採取的打擊兒童剝削措施</title>
