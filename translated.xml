@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 14:57:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 15:28:13 GMT</lastBuildDate>
+    <item>
+      <title>Healthleap 籌得 3,800 萬美元，打造可標記可能需要進一步檢查的住院病患的 AI</title>
+      <link>https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174992</guid>
+      <pubDate>Wed, 07 Oct 2026 15:07:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這輪融資包含 800 萬美元種子輪，由 Sequoia Capital 和 First Round Capital 共同領投，以及由 Hummingbird Ventures 領投的 3,000 萬美元 A 輪。</description>
+    </item>
+    <item>
+      <title>Bloom 籌得 360 萬美元，目標成為美國製造業的「阿里巴巴」</title>
+      <link>https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174527</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家底特律新創公司的服務範圍已從移動載具擴大，協助無人機與機器人公司尋找美國本土製造商、貨運業者等資源。</description>
+    </item>
+    <item>
+      <title>SpaceX 校友籌得 1 億美元，透過自駕貨運列車重新思考運輸</title>
+      <link>https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174804</guid>
+      <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Parallel Systems 籌得 1 億美元，用於擴大其自駕電動鐵路車輛的生產，這種車輛可運送數千磅貨物，最遠達 500 英里。</description>
+    </item>
     <item>
       <title>Tony Fadell 談為什麼第一波 AI 小工具失敗了——以及接下來會發生什麼</title>
       <link>https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/</link>
@@ -207,33 +234,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_MatHealth_Thumb_D.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_MatHealth_Thumb_D.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_MatHealth_Thumb_D.max-600x600.format-webp.webp" alt=""></p><p>透過將 AI 與「blind sweep」超音波結合，Google 研究人員找到了一種讓更多人獲得所需產前超音波檢查的方法。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>印度的 JioHotstar 透過合作方式拓展中東市場</title>
-      <link>https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174335</guid>
-      <pubDate>Tue, 06 Oct 2026 17:14:07 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>JioHotstar 將在 Starzplay 內提供，而不是透過獨立服務。</description>
-    </item>
-    <item>
-      <title>Mirror Particle 正在打造人類行為的「世界模型</title>
-      <link>https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166195</guid>
-      <pubDate>Tue, 06 Oct 2026 16:35:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Mirror Particle 將在 TechCrunch Disrupt Startup Battlefield 發表一個從零開始建立的世界模型，用來預測人類行為，並主張 LLM 角色扮演在市場研究和品牌策略上仍不夠用。</description>
-    </item>
-    <item>
-      <title>Furientis 從 Benchmark 獲得 2500 萬美元，用於量產低成本飛彈攔截器</title>
-      <link>https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174489</guid>
-      <pubDate>Tue, 06 Oct 2026 16:29:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家聲名顯赫的矽谷公司首次投資純國防領域。</description>
     </item>
     <item>
       <title>Atlassian 與 OpenAI 擴大合作夥伴關係，將企業知識轉化為行動</title>
