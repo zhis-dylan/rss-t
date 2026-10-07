@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 21:01:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 21:16:31 GMT</lastBuildDate>
+    <item>
+      <title>Apple 與 The King’s Trust 推出計畫，賦能年輕創作者</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-the-kings-trust-launch-initiative-to-empower-young-creatives/</guid>
+      <pubDate>Wed, 07 Oct 2026 21:01:58 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 與 The King’s Trust 延續雙方長期合作夥伴關係，推出一項沉浸式全新教育計畫，協助年輕人進入職場世界。</description>
+    </item>
     <item>
       <title>Nous Research 證實估值達 15 億美元，推出供商務用戶使用的 AI 智慧代理</title>
       <link>https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</link>
@@ -1850,15 +1859,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和泰國 MHESI 推出為期八週的加速器，協助 10 家健康、福祉與教育新創公司將 AI 原型轉化為值得信賴的產品。</description>
-    </item>
-    <item>
-      <title>《Sneaky Sasquatch》迎來 Apple Arcade 全新更新</title>
-      <link>https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/08/exciting-updates-for-sneaky-sasquatch-come-to-apple-arcade/</guid>
-      <pubDate>Thu, 27 Aug 2026 13:59:18 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>即日起至 10 月 7 日，Sneaky Sasquatch 將以這款熱門開放世界 Apple Arcade 遊戲的魅力與美學，改造 Subway Surfers+。</description>
     </item>
     <item>
       <title>更好的答案、更廣的思考：學生從 ChatGPT 和批判性思考訓練中獲得什麼</title>
