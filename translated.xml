@@ -5,7 +5,46 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 14:12:29 GMT</lastBuildDate>
+    <item>
+      <title>我們正在讓全球更容易辨識 AI 生成內容。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/</guid>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們將推出一個獨立平台，幫助你輕鬆辨識線上內容是否使用 Google AI 或我們產業合作夥伴的工具所創作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-600x600.format-webp.webp" alt=""></p><p>我們將推出一個獨立平台，幫助你輕鬆辨識線上內容是否使用 Google AI 或我們產業合作夥伴的工具所創作。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>距離 TechCrunch Disrupt 2026 只剩 6 天：在入場前購票可省下費用</title>
+      <link>https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174837</guid>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>再過 6 天，來自全球新創與科技生態圈的 10,000 多人將齊聚舊金山的 Moscone West 參加 TechCrunch Disrupt 2026。如果你打算成為其中一員，別等到現場票價上漲才註冊購票。購買票券最高可省 100 美元，另外購買同類型第二張票還可享 5 折優惠。</description>
+    </item>
+    <item>
+      <title>Google 的新 SynthID 網站可辨識 AI 生成媒體</title>
+      <link>https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174903</guid>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 週二推出一個新網站，讓任何人都能驗證一段媒體內容——無論是圖片、影片或音訊片段——是否是使用 AI 生成的。</description>
+    </item>
+    <item>
+      <title>Ring 的首款智慧鎖在電池沒電時可用手動轉柄操作</title>
+      <link>https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174991</guid>
+      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>亞馬遜旗下的 Ring 正進軍智慧鎖市場，推出一款專為解決常見疑慮而設計的裝置：電池沒電時被鎖在門外</description>
+    </item>
     <item>
       <title>另一個個人 AI 助理已經推出——認識 Tab，它以 3 億美元估值從隱身狀態中現身</title>
       <link>https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/</link>
@@ -242,33 +281,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Earth_AI__Global_Health_.max-600x600.format-webp.webp" alt=""></p><p>Google 正在協助衛生領導者克服通報延遲、預測疾病爆發，並為脆弱社群提供照護。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Bluesky 想讓你在開放網路上擁有自己的網域</title>
-      <link>https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174385</guid>
-      <pubDate>Tue, 06 Oct 2026 14:41:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Bluesky 表示這個流程還是需要 18 到 24 個月，所以短期內別期待你新的、縮短版「bsky」帳號。</description>
-    </item>
-    <item>
-      <title>艾美獎將在 2027 年從廣播電視轉移到 Prime Video</title>
-      <link>https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174386</guid>
-      <pubDate>Tue, 06 Oct 2026 14:37:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>非 Amazon Prime 訂閱者也能在這個平台上觀看頒獎典禮。</description>
-    </item>
-    <item>
-      <title>Mistral 新的 1T 模型目標超越封閉與開放競爭對手</title>
-      <link>https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174387</guid>
-      <pubDate>Tue, 06 Oct 2026 14:33:16 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>法國 AI 實驗室 Mistral AI 發布了 Mistral Large 4，一款新的大型多模態模型，目標是超越美國與中國的競爭對手。</description>
-    </item>
-    <item>
       <title>超過 100 家新創加入我們的 Google for Startups Gemini Startup Forum</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/</guid>
@@ -356,16 +368,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rebecca_social.max-600x600.format-webp.webp" alt=""></p><p>運用 Google Sites、Gemini 和 Vids 賦予學生能力，培養批判思考技能。看看這些工具今天如何幫助孩子找到自己的聲音。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
-      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
+      <title>我教導我的學生，在 AI 時代，批判思考優先。</title>
+      <link>https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
+      <description>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" alt=""></p><p>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</p>]]></content:encoded>
     </item>
     <item>
       <title>科技幫助我的學生在宏大的創意點子與緊湊的期限之間取得平衡。</title>
@@ -404,6 +416,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp" alt=""></p><p>為慶祝 2026 世界教師日，教育工作者分享他們在課堂上如何使用科技的故事。</p>]]></content:encoded>
     </item>
     <item>
+      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
+      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
+      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Gemini 幫助我把動手學習帶進教室。</title>
       <link>https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</guid>
@@ -426,18 +450,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" alt=""></p><p>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我教導我的學生，在 AI 時代，批判思考優先。</title>
-      <link>https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" alt=""></p><p>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</p>]]></content:encoded>
     </item>
     <item>
       <title>我的八年級學生用 Gemini 從零開始打造了我們學校的新聞播報。</title>
@@ -495,18 +507,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/b1939cc201efc5ee8ba102ec352c5311/6ac39fbe3d6332b35f1da8a7_AdobeStock_422714256_BCAMheader-842x450/AdobeStock_422714256_BCAMheader-842x450_thmb.jpg?v=24711c28-a239-42ba-a70d-9ac1f41ba238" alt=""></p><p>乳癌是美國女性最常被診斷出的癌症，但照護上的落差卻很大。40 歲以上女性中，多數會跳過建議的年度篩檢。放射科醫師要在更少同儕的情況下判讀更多乳房 X 光攝影。而當確診到來時，會影響治療決策的檢驗結果往往要好幾週才出爐。 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>起飛囉：2026 年假期旅遊趨勢與小撇步</title>
-      <link>https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/holiday-travel-trends-2026/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>探索今年的假期旅遊趨勢與小撇步——從如何訂到最低票價的洞察，到感恩節和耶誕節的熱門目的地。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Trends_gradient_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Trends_gradient_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Holiday_Trends_gradient_hero.max-600x600.format-webp.webp" alt=""></p><p>探索今年的假期旅遊趨勢與小撇步——從如何訂到最低票價的洞察，到感恩節和耶誕節的熱門目的地。</p>]]></content:encoded>
     </item>
     <item>
       <title>為人們使用 AI 的方式打造廣告</title>
