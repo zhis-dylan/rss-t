@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 22:28:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:44:07 GMT</lastBuildDate>
+    <item>
+      <title>川普總統將國家最高科學獎頒給大型科技捐助者</title>
+      <link>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175951</guid>
+      <pubDate>Thu, 08 Oct 2026 22:33:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>週四，川普總統將國家科學獎章頒給伊隆・馬斯克、黃仁勳、謝爾蓋・布林，以及 AMD 的蘇姿丰，這是美國最高的科學獎項。</description>
+    </item>
+    <item>
+      <title>《The Lancet》的研究顯示，AI 可能改善病患與醫師的關係。</title>
+      <link>https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/</guid>
+      <pubDate>Thu, 08 Oct 2026 22:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一項經過同儕審查、刊登於《The Lancet》的研究，在真實世界的基層診所中評估了 Google 的 AMIE 醫療 AI。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physic.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physic.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_could_improve_patient-physic.max-600x600.format-webp.webp" alt=""></p><p>一項經過同儕審查、刊登於《The Lancet》的研究，在真實世界的基層診所中評估了 Google 的 AMIE 醫療 AI。</p>]]></content:encoded>
+    </item>
     <item>
       <title>進入 Omniverse：開發者如何運用前沿 AI 代理將想法轉化為模擬</title>
       <link>https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/</link>
@@ -236,15 +257,6 @@
       <description>這是 Alphabet 旗下公司首次轉向債務融資。</description>
     </item>
     <item>
-      <title>Cal AI 19 歲創辦人剛為他的全新 AI 新創募得 1,000 萬美元</title>
-      <link>https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174041</guid>
-      <pubDate>Thu, 08 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>熱門 Cal AI 熱量追蹤 app 的青少年共同創辦人 Zach Yadegari，已推出一個新的個人 AI 代理新創，與 Instinct、Muse 和 Bee 競爭。</description>
-    </item>
-    <item>
       <title>集結起來：《戰爭機器：E-Day》在 GeForce NOW 上線</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/</guid>
@@ -464,18 +476,6 @@
       <description>Atlassian 與 OpenAI 正在擴大合作夥伴關係，將前沿模型與企業知識串聯起來，協助團隊規劃、打造並交付工作。</description>
     </item>
     <item>
-      <title>EmbeddingGemma 2：一款開放、輕量的多模態嵌入模型</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/</guid>
-      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>介紹 EmbeddingGemma 2，一款為以隱私優先使用情境最佳化的開放多模態嵌入模型</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp" alt=""></p><p>介紹 EmbeddingGemma 2，一款為以隱私優先使用情境最佳化的開放多模態嵌入模型</p>]]></content:encoded>
-    </item>
-    <item>
       <title>製作人現在可以使用 Google Flow 音樂來 vibe code 自己的音樂製作工具。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/</guid>
@@ -486,6 +486,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp" alt=""></p><p>每位藝術家、製作人和詞曲創作者的工作方式都不同。為了配合這些個別的創作工作流程，Google Flow 音樂中的 Spaces 讓創作者能建立自訂樂器…</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>EmbeddingGemma 2：一款開放、輕量的多模態嵌入模型</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/</guid>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>介紹 EmbeddingGemma 2，一款為以隱私優先使用情境最佳化的開放多模態嵌入模型</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp" alt=""></p><p>介紹 EmbeddingGemma 2，一款為以隱私優先使用情境最佳化的開放多模態嵌入模型</p>]]></content:encoded>
     </item>
     <item>
       <title>運用 Google Earth AI 讓全球公共衛生更主動</title>
@@ -587,16 +599,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rebecca_social.max-600x600.format-webp.webp" alt=""></p><p>運用 Google Sites、Gemini 和 Vids 賦予學生能力，培養批判思考技能。看看這些工具今天如何幫助孩子找到自己的聲音。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
-      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
+      <title>我的八年級學生用 Gemini 從零開始製作了我們學校的新聞播報。</title>
+      <link>https://blog.google/products-and-platforms/products/education/gemini-student-newscast/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-student-newscast/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
+      <description>八年級學生使用 Gemini 和 Google 文件製作了 The Cougar Rumble 新聞播報。看看這些學生今天如何簡化他們的製作流程。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp" alt=""></p><p>八年級學生使用 Gemini 和 Google 文件製作了 The Cougar Rumble 新聞播報。看看這些學生今天如何簡化他們的製作流程。</p>]]></content:encoded>
     </item>
     <item>
       <title>科技幫助我的學生在宏大的創意點子與緊湊的期限之間取得平衡。</title>
@@ -621,18 +633,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chanel.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chanel.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chanel.max-600x600.format-webp.webp" alt=""></p><p>看看這位老師如何使用 Gemini 和 Gemini Notebook 建立數位素養並精進課程計畫。閱讀完整故事，提升你的教學。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>2026 世界教師日</title>
-      <link>https://blog.google/products-and-platforms/products/education/world-teachers-day-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/world-teachers-day-2026/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>為慶祝 2026 世界教師日，教育工作者分享他們在課堂上如何使用科技的故事。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp" alt=""></p><p>為慶祝 2026 世界教師日，教育工作者分享他們在課堂上如何使用科技的故事。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們對歐盟文字來源規則的做法</title>
