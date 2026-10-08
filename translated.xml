@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:56:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:11:45 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的數學解答目前還未達到這個領域的標準</title>
+      <link>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175311</guid>
+      <pubDate>Thu, 08 Oct 2026 18:10:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 大量提出的證明偏離了這家前沿實驗室所諮詢的一群數學研究人員所訂定的指引。</description>
+    </item>
     <item>
       <title>破解資料中心最大的迷思</title>
       <link>https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/</link>
@@ -325,15 +334,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 破獲了兩個使用假冒記者與智庫來散播地緣政治訊息的 AI 驅動影響力操作。</description>
-    </item>
-    <item>
-      <title>機器人資料新創 Mecka AI 募得 6000 萬美元，投資方為 Sequoia</title>
-      <link>https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175399</guid>
-      <pubDate>Wed, 07 Oct 2026 23:36:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創公司付錢請人錄製日常任務。</description>
     </item>
     <item>
       <title>為什麼資料中心是 Meta AI 方法如此重要的一環</title>
