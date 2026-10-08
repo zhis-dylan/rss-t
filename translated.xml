@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 15:25:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:40:18 GMT</lastBuildDate>
+    <item>
+      <title>在 Play Fest 贏大獎：超讚獎品、遊戲聯賽與每日優惠將於 10 月 13 日開始</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-play/play-fest/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/play-fest/</guid>
+      <pubDate>Thu, 08 Oct 2026 15:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>從 10 月 13 日開始一同慶祝 Play Fest，抽獎獎品、全球遊戲聯賽，以及 Google Play 的重點優惠將在整週登場。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/play_days_live_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/play_days_live_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/play_days_live_hero.max-600x600.format-webp.webp" alt=""></p><p>從 10 月 13 日開始一同慶祝 Play Fest，抽獎獎品、全球遊戲聯賽，以及 Google Play 的重點優惠將在整週登場。</p>]]></content:encoded>
+    </item>
     <item>
       <title>紐約指控 TikTok 給青少年與兒童的是安慰劑式安全功能，而不是真正的安全功能</title>
       <link>https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/</link>
@@ -23,6 +35,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>駭客透過一則推播通知提醒這家時尚巨頭的客戶，通知中聲稱他們已經「完全入侵」該公司的雲端儲存。</description>
+    </item>
+    <item>
+      <title>使用通行金鑰快速又安全地登入。</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/how-to-set-up-passkey/</guid>
+      <pubDate>Thu, 08 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解如何為你的 Google 帳戶設定通行金鑰。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SigninFasterPasskey_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SigninFasterPasskey_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SigninFasterPasskey_social.max-600x600.format-webp.webp" alt=""></p><p>了解如何為你的 Google 帳戶設定通行金鑰。</p>]]></content:encoded>
     </item>
     <item>
       <title>聆聽 Ambrosia Energy 與 Bloom Energy 高層分享 AI 基礎設施熱潮在哪裡創造機會，TechCrunch Disrupt 2026</title>
@@ -218,6 +242,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp" alt=""></p><p>使用 Google 地圖和 Waze 找到英國最便宜的汽油和柴油價格。搜尋你附近的加油站來省錢。查看最新價格。</p>]]></content:encoded>
     </item>
     <item>
+      <title>瓦解 AI 驅動的「假前台」行動</title>
+      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
+      <guid isPermaLink="false">https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 破獲了兩個使用假冒記者與智庫來散播地緣政治訊息的 AI 驅動影響力操作。</description>
+    </item>
+    <item>
       <title>機器人資料新創 Mecka AI 募得 6000 萬美元，投資方為 Sequoia</title>
       <link>https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3175399</guid>
@@ -391,18 +424,6 @@
       <description>Atlassian 與 OpenAI 正在擴大合作夥伴關係，將前沿模型與企業知識串聯起來，協助團隊規劃、打造並交付工作。</description>
     </item>
     <item>
-      <title>製作人現在可以使用 Google Flow 音樂來 vibe code 自己的音樂製作工具。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/</guid>
-      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>每位藝術家、製作人和詞曲創作者的工作方式都不同。為了配合這些個別的創作工作流程，Google Flow 音樂中的 Spaces 讓創作者能建立自訂樂器…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp" alt=""></p><p>每位藝術家、製作人和詞曲創作者的工作方式都不同。為了配合這些個別的創作工作流程，Google Flow 音樂中的 Spaces 讓創作者能建立自訂樂器…</p>]]></content:encoded>
-    </item>
-    <item>
       <title>EmbeddingGemma 2：一款開放、輕量的多模態嵌入模型</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/</guid>
@@ -413,6 +434,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.max-600x600.format-webp.webp" alt=""></p><p>介紹 EmbeddingGemma 2，一款為以隱私優先使用情境最佳化的開放多模態嵌入模型</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>製作人現在可以使用 Google Flow 音樂來 vibe code 自己的音樂製作工具。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/create-music-production-plugins-google-flow/</guid>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>每位藝術家、製作人和詞曲創作者的工作方式都不同。為了配合這些個別的創作工作流程，Google Flow 音樂中的 Spaces 讓創作者能建立自訂樂器…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/119A6335_1.max-600x600.format-webp.webp" alt=""></p><p>每位藝術家、製作人和詞曲創作者的工作方式都不同。為了配合這些個別的創作工作流程，Google Flow 音樂中的 Spaces 讓創作者能建立自訂樂器…</p>]]></content:encoded>
     </item>
     <item>
       <title>運用 Google Earth AI 讓全球公共衛生更主動</title>
@@ -560,30 +593,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp" alt=""></p><p>為慶祝 2026 世界教師日，教育工作者分享他們在課堂上如何使用科技的故事。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini 幫助我為那些無法寫字的學生發聲。</title>
-      <link>https://blog.google/products-and-platforms/products/education/special-education-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/special-education-gemini/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" alt=""></p><p>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini 幫助我把動手學習帶進教室。</title>
-      <link>https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" alt=""></p><p>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們對歐盟文字來源規則的做法</title>
@@ -966,15 +975,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>你是 Codex Original 嗎？</title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
-    </item>
-    <item>
       <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
       <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
@@ -982,6 +982,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
+    </item>
+    <item>
+      <title>你是 Codex Original 嗎？</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1078,6 +1087,15 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
       <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
@@ -1094,15 +1112,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
-    </item>
-    <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1722,15 +1731,6 @@
       <description>OpenAI 推出 Daybreak for Frontline Defenders。這筆 10 億美元的承諾將擴大前沿網路安全 AI、訓練與支援的取得，協助關鍵服務。</description>
     </item>
     <item>
-      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
@@ -1738,6 +1738,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
+    </item>
+    <item>
+      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
