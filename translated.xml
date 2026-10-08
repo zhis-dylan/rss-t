@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 15:55:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:10:40 GMT</lastBuildDate>
+    <item>
+      <title>Natura 的 99 美元智慧戒指把 AI 代理戴在你手上</title>
+      <link>https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175308</guid>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Natura 的 99 美元 Interface 智慧戒指，讓你只要按一下手指就能召喚 AI 代理來完成任務、捕捉想法，並控制裝置，同時也能兼作健康追蹤器。</description>
+    </item>
+    <item>
+      <title>Goodfire 表示，它新的「由內而外」監視器能以低得多的成本抓到失控的 AI 代理</title>
+      <link>https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175658</guid>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Goodfire 剛推出它所稱的一種更便宜的方式來管控 AI 代理：不是再讓另一個 AI 去讀取代理做的每一件事，而是讓它的監視器在模型運作時從內部窺看，只在看起來有問題時才叫支援。</description>
+    </item>
     <item>
       <title>美國將微軟、Adobe 和主要 IT 公司排除在技術外籍勞工綠卡計畫之外</title>
       <link>https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/</link>
@@ -309,15 +327,6 @@
       <description>Hermes 智慧代理的開發商完成了 9000 萬美元的 B 輪融資。</description>
     </item>
     <item>
-      <title>Microsoft 推出搭載新款 Nvidia 晶片的 AI PC，Windows 11 也全面更新</title>
-      <link>https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175292</guid>
-      <pubDate>Wed, 07 Oct 2026 20:22:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 公布了其 Surface Laptop Ultra 的規格與價格，這些 AI PC 採用 Nvidia 晶片，專為執行 AI 模型和代理而設計。</description>
-    </item>
-    <item>
       <title>NVIDIA、Microsoft 以 RTX Spark 和 AI 代理為 Windows PC 開啟新篇章</title>
       <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/</guid>
@@ -328,15 +337,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c" alt=""></p><p>在週三於舊金山舉行的 Microsoft 活動上，Jensen Huang 和 Satya Nadella 說明了 NVIDIA 與 Microsoft 如何共同打造硬體和軟體，讓 AI 代理能在 Windows PC 上執行。Huang 表示，NVIDIA 的創立是因為 Windows。現在，AI 代理正走進 Windows。「如果你看整個旅程的 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 的 Muse 在手機版推出一個月後登陸 iPad</title>
-      <link>https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175232</guid>
-      <pubDate>Wed, 07 Oct 2026 18:30:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 的 AI 代理 Muse 現已可在 iPad 上使用，距離它在手機版首次推出僅一個月，反映出該公司正快速擴大這款助理的觸及範圍與整合。</description>
     </item>
     <item>
       <title>我們正在讓全球更容易辨識 AI 生成內容。</title>
