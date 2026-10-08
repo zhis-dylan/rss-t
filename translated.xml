@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 14:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:54:45 GMT</lastBuildDate>
     <item>
       <title>Spotify 更認真地想要銷售企業軟體</title>
       <link>https://techcrunch.com/2026/10/08/spotify-is-getting-more-serious-about-selling-enterprise-software/</link>
@@ -23,6 +23,9 @@
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>這些承諾將強化對美國領導地位至關重要的領域，包括量子運算、醫療保健和能源安全新聞摘要：NVIDIA 宣布價值 10 億美元的承諾，以...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>這些承諾將強化對美國領導地位至關重要的領域，包括量子運算、醫療保健和能源安全新聞摘要：NVIDIA 宣布價值 10 億美元的承諾，以...</p>]]></content:encoded>
     </item>
     <item>
       <title>Waymo 向 Blackstone、PIMCO 取得 50 億美元貸款，為 robotaxi 擴張提供資金</title>
