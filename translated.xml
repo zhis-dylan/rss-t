@@ -5,7 +5,52 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 11:52:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:08:12 GMT</lastBuildDate>
+    <item>
+      <title>Google Cloud 推出 Gemini 代理程式。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:05:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Cloud 的全新 Gemini 代理程式可透過連接到你的業務系統來自動化工作流程。看看它如何用一個提示簡化企業任務。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp" alt=""></p><p>Google Cloud 的全新 Gemini 代理程式可透過連接到你的業務系統來自動化工作流程。看看它如何用一個提示簡化企業任務。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 地圖協助你導航下一場美食探險的 3 種方式。</title>
+      <link>https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>善用這些內建的 Google 地圖功能，全年引導你的美食之旅。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp" alt=""></p><p>善用這些內建的 Google 地圖功能，全年引導你的美食之旅。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 地圖揭曉橫跨 10 座城市的熱門美食趨勢與人氣餐廳</title>
+      <link>https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們分析了一整年的 Google 地圖資料，找出 10 個美食熱點中的熱門美食趨勢與人氣餐廳。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp" alt=""></p><p>我們分析了一整年的 Google 地圖資料，找出 10 個美食熱點中的熱門美食趨勢與人氣餐廳。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Vesta 募得 3,000 萬美元，將大量代理帶給房貸放款人</title>
+      <link>https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175175</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Vesta 是一家 AI 原生軟體新創公司，協助放款人承作房貸，該公司宣布完成一輪 3,000 萬美元融資，由 Conversion Capital 領投。</description>
+    </item>
     <item>
       <title>印度駁斥 Elon Musk 關於 Starlink 上線遭歧視的說法</title>
       <link>https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/</link>
@@ -249,15 +294,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Raccoon_Video_SynthIDDetector.max-600x600.format-webp.webp" alt=""></p><p>我們將推出一個獨立平台，幫助你輕鬆辨識線上內容是否使用 Google AI 或我們產業合作夥伴的工具所創作。</p>]]></content:encoded>
     </item>
     <item>
-      <title>距離 TechCrunch Disrupt 2026 只剩 6 天：在入場前購票可省下費用</title>
-      <link>https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174837</guid>
-      <pubDate>Wed, 07 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>再過 6 天，來自全球新創與科技生態圈的 10,000 多人將齊聚舊金山的 Moscone West 參加 TechCrunch Disrupt 2026。如果你打算成為其中一員，別等到現場票價上漲才註冊購票。購買票券最高可省 100 美元，另外購買同類型第二張票還可享 5 折優惠。</description>
-    </item>
-    <item>
       <title>我們已採取的打擊兒童剝削措施</title>
       <link>https://about.fb.com/news/2026/10/measures-weve-put-in-place-to-fight-child-exploitation/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=50560</guid>
@@ -454,28 +490,28 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rebecca_social.max-600x600.format-webp.webp" alt=""></p><p>運用 Google Sites、Gemini 和 Vids 賦予學生能力，培養批判思考技能。看看這些工具今天如何幫助孩子找到自己的聲音。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我的八年級學生用 Gemini 從零開始打造了我們學校的新聞播報。</title>
-      <link>https://blog.google/products-and-platforms/products/education/gemini-student-newscast/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-student-newscast/</guid>
+      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
+      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>八年級學生使用 Gemini 和 Google 文件打造 The Cougar Rumble 新聞播報。看看這些學生今天如何簡化他們的製作工作流程。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tori_1.max-600x600.format-webp.webp" alt=""></p><p>八年級學生使用 Gemini 和 Google 文件打造 The Cougar Rumble 新聞播報。看看這些學生今天如何簡化他們的製作工作流程。</p>]]></content:encoded>
+      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 幫助我把動手學習帶進教室。</title>
-      <link>https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</guid>
+      <title>科技幫助我的學生在宏大的創意點子與緊湊的期限之間取得平衡。</title>
+      <link>https://blog.google/products-and-platforms/products/education/media-teacher-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/media-teacher-gemini/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" alt=""></p><p>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</p>]]></content:encoded>
+      <description>學生使用 Google 雲端硬碟管理影片素材，並用試算表安排製作時程，以趕上緊湊的截止日期。看看這些工具如何提升課堂產出。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/7472.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/7472.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/7472.max-600x600.format-webp.webp" alt=""></p><p>學生使用 Google 雲端硬碟管理影片素材，並用試算表安排製作時程，以趕上緊湊的截止日期。看看這些工具如何提升課堂產出。</p>]]></content:encoded>
     </item>
     <item>
       <title>這就是我如何在課堂上運用科技讓科學活起來。</title>
@@ -502,18 +538,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/World_Teachers_Day_collection_h.max-600x600.format-webp.webp" alt=""></p><p>為慶祝 2026 世界教師日，教育工作者分享他們在課堂上如何使用科技的故事。</p>]]></content:encoded>
     </item>
     <item>
-      <title>科技幫助我的學生在宏大的創意點子與緊湊的期限之間取得平衡。</title>
-      <link>https://blog.google/products-and-platforms/products/education/media-teacher-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/media-teacher-gemini/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>學生使用 Google 雲端硬碟管理影片素材，並用試算表安排製作時程，以趕上緊湊的截止日期。看看這些工具如何提升課堂產出。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/7472.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/7472.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/7472.max-600x600.format-webp.webp" alt=""></p><p>學生使用 Google 雲端硬碟管理影片素材，並用試算表安排製作時程，以趕上緊湊的截止日期。看看這些工具如何提升課堂產出。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini 幫助我為那些無法寫字的學生發聲。</title>
       <link>https://blog.google/products-and-platforms/products/education/special-education-gemini/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/special-education-gemini/</guid>
@@ -526,40 +550,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IMG-20261001-WA0009.max-600x600.format-webp.webp" alt=""></p><p>特殊教育老師使用 Google Gemini 生成視覺指南和語音提示，幫助無法書寫的學生。閱讀完整故事。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我教導我的學生，在 AI 時代，批判思考優先。</title>
-      <link>https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/</guid>
+      <title>Gemini 幫助我把動手學習帶進教室。</title>
+      <link>https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/english-teacher-gemini/</guid>
       <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kavita_1.max-600x600.format-webp.webp" alt=""></p><p>一位加州老師使用 Gemini 簡化 Google 雲端硬碟中的課程規劃。看看她如何在 AI 時代把批判思考放在首位。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我不再用傳統程式測驗，而是和學生實際對談，了解他們如何運用 AI 解題。</title>
-      <link>https://blog.google/products-and-platforms/products/education/gemini-google-colab/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/gemini-google-colab/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ProfMY2.max-600x600.format-webp.webp" alt=""></p><p>在 Colab 中使用 Google Gemini，以 AI 驅動的訪談取代程式測驗。看看這位教授如何評估學生的判斷力。閱讀完整報告。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我的學生使用 Gemini 來腦力激盪創意點子。</title>
-      <link>https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/teacher-voices-gemini-creativity/</guid>
-      <pubDate>Mon, 05 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>五年級學生使用 Google Gemini 為歷史創作歌曲並創作藝術。看看這位老師如何將 AI 整合進課堂。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rayna_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rayna_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Rayna_1.max-600x600.format-webp.webp" alt=""></p><p>五年級學生使用 Google Gemini 為歷史創作歌曲並創作藝術。看看這位老師如何將 AI 整合進課堂。</p>]]></content:encoded>
+      <description>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Cheryl.max-600x600.format-webp.webp" alt=""></p><p>一位老師使用 Google Gemini 設計互動式角色扮演模擬和營養課程。看看 AI 如何提升課堂參與度。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們對歐盟文字來源規則的做法</title>
