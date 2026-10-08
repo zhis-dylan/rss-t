@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 17:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:56:35 GMT</lastBuildDate>
     <item>
       <title>破解資料中心最大的迷思</title>
       <link>https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/</link>
@@ -153,6 +153,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>熱門 Cal AI 熱量追蹤 app 的青少年共同創辦人 Zach Yadegari，已推出一個新的個人 AI 代理新創，與 Instinct、Muse 和 Bee 競爭。</description>
+    </item>
+    <item>
+      <title>Founder Summit 2026 的完整 Side Events 名單</title>
+      <link>https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175078</guid>
+      <pubDate>Thu, 08 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>波士頓，你準備好了嗎？！TechCrunch Founder Summit 2026 即將以滿滿活力引爆全場——真正的精彩，將從 11 月 3 日到 6 日遍佈全城的精彩 Side Events 陣容正式展開！</description>
     </item>
     <item>
       <title>距離 TechCrunch Disrupt 2026 還有 5 天：不要到現場才為你的票多花錢</title>
@@ -338,15 +347,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Tom_Interview_Santosh-on-how-AI-is-shifting-Infra-Strategy_Thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Tom_Interview_Santosh-on-how-AI-is-shifting-Infra-Strategy_Thumbnail.jpg?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Tom_Interview_Santosh-on-how-AI-is-shifting-Infra-Strategy_Thumbnail.jpg?fit=890%2C501" alt=""></p><p>開發者和創作者 Tom Shaw 與 Meta 基礎架構主管 Santosh Janardhan 坐下來談談，為什麼我們需要資料中心，以及 Meta 如何領先建置這些資料中心。<br>這篇文章〈為什麼資料中心是 Meta AI 方法如此重要的一環〉最初發佈於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>當創投蜂擁至舊金山時，Endeavor Catalyst 募得 3.2 億美元，支持『其他地方』的創辦人</title>
-      <link>https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175150</guid>
-      <pubDate>Wed, 07 Oct 2026 22:59:16 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Endeavor Catalyst 剛募得 3.2 億美元，持續支持矽谷以外的創辦人。獲利的一半會回流給負責發掘他們的非營利組織。</description>
     </item>
     <item>
       <title>Apple 與 The King’s Trust 推出計畫，賦能年輕創作者</title>
