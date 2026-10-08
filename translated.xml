@@ -5,7 +5,46 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 12:53:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:08:42 GMT</lastBuildDate>
+    <item>
+      <title>集結起來：《戰爭機器：E-Day》在 GeForce NOW 上線</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/</guid>
+      <pubDate>Thu, 08 Oct 2026 13:00:46 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>《戰爭機器：E-Day》本週領軍登上 GeForce NOW，透過 GeForce RTX 驅動的效能，將 Marcus Fenix 和 Dom Santiago 首次對抗 Locust Horde 的戰鬥帶到雲端。加入戰局的新方式也即將到來：Fire TV 使用者很快就能直接透過 […] 購買 GeForce NOW 會員資格。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175" alt=""></p><p>《戰爭機器：E-Day》本週領軍登上 GeForce NOW，透過 GeForce RTX 驅動的效能，將 Marcus Fenix 和 Dom Santiago 首次對抗 Locust Horde 的戰鬥帶到雲端。加入戰局的新方式也即將到來：Fire TV 使用者很快就能直接透過 […] 購買 GeForce NOW 會員資格。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>最後徵求 TechCrunch Founder Summit 2026 志工</title>
+      <link>https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3154455</guid>
+      <pubDate>Thu, 08 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch Founder Summit 即將於 11 月 4 日重返波士頓！我們正在最後徵求優秀志工加入，協助我們把這場活動帶到大家面前。如果你曾好奇科技活動的幕後運作，現在就是參與的好機會。志工名額有限，別錯過！ […]</description>
+    </item>
+    <item>
+      <title>Amazon 發表搭載 Alexa+ 且可存取 Google Play 商店的新款 Alexa 平板</title>
+      <link>https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175073</guid>
+      <pubDate>Thu, 08 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>陣容包括三款機型：Amazon Alexa Tablet 12 Pro、Amazon Alexa Tablet 11 和 Amazon Alexa Tablet 8。</description>
+    </item>
+    <item>
+      <title>Uber 和中國的 Pony.ai 計畫在倫敦推出 robotaxis</title>
+      <link>https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175516</guid>
+      <pubDate>Thu, 08 Oct 2026 12:53:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>兩家公司週四表示，將在接下來幾週於倫敦開始測試 Pony.ai 的第 7 代 robotaxis。</description>
+    </item>
     <item>
       <title>Google Cloud 推出 Gemini 代理程式。</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/</link>
@@ -253,33 +292,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>iPod 之父表示，第一代 AI 小工具未能解決真正的問題——而下一波產品將需要贏得消費者的信任。</description>
-    </item>
-    <item>
-      <title>Google 正在試驗一個由 AI 驅動的遊戲平台</title>
-      <link>https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175054</guid>
-      <pubDate>Wed, 07 Oct 2026 14:36:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google Labs 正在開發一個名為 Playground 的新 AI 遊戲創作平台，讓使用者透過簡單的文字提示打造瀏覽器遊戲。</description>
-    </item>
-    <item>
-      <title>OpenAI 的 Alexander Embiricos 將登上 TechCrunch Disrupt 2026——就在 Dots 推出幾天後</title>
-      <link>https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174810</guid>
-      <pubDate>Wed, 07 Oct 2026 14:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 的 Alexander Embiricos 將在 TechCrunch Disrupt 2026 的 AI 舞台登場，時間就在 Dots 上線幾天之後。註冊通行證，一起參與這場對談。現在就購買通行證，可省下最高 100 美元，第二張還可享 5 折優惠。</description>
-    </item>
-    <item>
-      <title>親自參與：TechCrunch Disrupt 2026 的互動式圓桌討論完整陣容</title>
-      <link>https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174825</guid>
-      <pubDate>Wed, 07 Oct 2026 14:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從 Nvidia 和 Chime 到 Obvious Ventures 和 Anthropic，探索 TechCrunch Disrupt 2026 的完整圓桌議程。立即註冊，可為你的票券省下最高 100 美元，並以 5 折取得第二張票。</description>
     </item>
     <item>
       <title>我們正在讓全球更容易辨識 AI 生成內容。</title>
@@ -1229,18 +1241,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2" alt=""></p><p>今天，埃及的 AI 建構者齊聚大埃及博物館參加一場招待會，聚焦這個國家快速成長的 AI 生態系——涵蓋 AI 原生團隊、開發者、研究人員、新創公司與企業——正在各產業打造應用程式。活動包括 NVIDIA 歐洲、中東及非洲地區副總裁 Paolo Guglielmini 的主題演講。區域 AI 採用負責人 Ahmed Mostafa […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 安全是個工程問題——如何在代理堆疊的每一層解決它</title>
-      <link>https://blogs.nvidia.com/blog/ai-security-agent-stack/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-security-agent-stack/</guid>
-      <pubDate>Mon, 21 Sep 2026 14:51:34 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI 安全是一個工程問題。這代表明確的安全需求、可執行的控制措施、指定的負責人，以及證明防護有效的證據。隨著 AI 變得更有能力，業界必須加速安全工程、擴大防禦工具的可用性，並更快分享有效的方法。技術改變，安全基本原則依然不變 網際網路和雲端運算改變了軟體的運作方式，[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/4a691753804dff8b9350217f7b2d2fd8/6ab144cd3d6332afd5e854b5_security-thought-leadership-1920x1080-1-842x450/security-thought-leadership-1920x1080-1-842x450_thmb.jpg?v=8734befa-aaf6-4d3e-9783-4043591e9924" alt=""></p><p>AI 安全是一個工程問題。這代表明確的安全需求、可執行的控制措施、指定的負責人，以及證明防護有效的證據。隨著 AI 變得更有能力，業界必須加速安全工程、擴大防禦工具的可用性，並更快分享有效的方法。技術改變，安全基本原則依然不變 網際網路和雲端運算改變了軟體的運作方式，[…]</p>]]></content:encoded>
     </item>
     <item>
       <title>Higgsfield AI 透過 GPT-6 Astra 在一天內推出新的影片功能</title>
