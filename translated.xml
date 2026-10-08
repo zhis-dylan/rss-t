@@ -5,7 +5,52 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 18:11:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 18:26:58 GMT</lastBuildDate>
+    <item>
+      <title>班·艾佛列克是個 AI 迷，網路都被驚到了</title>
+      <link>https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175682</guid>
+      <pubDate>Thu, 08 Oct 2026 18:20:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>班·艾佛列克因對 AI 的深入了解而爆紅，從類神經網路和 Transformer 到開放權重都難不倒他。這位今年稍早把自己的 AI 影像製作新創公司賣給 Netflix 的演員，證明自己不只是好萊塢明星。</description>
+    </item>
+    <item>
+      <title>熱門 AI 排行榜 Arena 在 10 個月內估值幾乎翻倍至 31 億美元</title>
+      <link>https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175734</guid>
+      <pubDate>Thu, 08 Oct 2026 18:19:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>打造熱門 LMArena 排行榜的公司已在 Lightspeed 和 Khosla 領投下募得 2 億美元，現在也在衡量 AI 模型在對齊問題上的表現，例如說謊。</description>
+    </item>
+    <item>
+      <title>據報 OpenAI 的營收比先前預估少了 200 億美元</title>
+      <link>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175754</guid>
+      <pubDate>Thu, 08 Oct 2026 18:19:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>先前曾有報導指出，這家 AI 實驗室的年化營收約為 700 億美元，但一份新報告稱，實際上遠低於這個數字。</description>
+    </item>
+    <item>
+      <title>Google 將代理式 AI 帶進 Gemini，先從企業開始</title>
+      <link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175776</guid>
+      <pubDate>Thu, 08 Oct 2026 18:18:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正把 Gemini 變成一個 AI 代理，能夠規劃、執行任務，並在各種商務應用程式和系統之間協作。這個代理可以把工作交給子代理，使用多個 AI 模型，甚至還會擁有自己的職場身分，連電子郵件地址都一併配好。</description>
+    </item>
+    <item>
+      <title>Anthropic 調整使用政策，禁止濫用模型與干預選舉</title>
+      <link>https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175777</guid>
+      <pubDate>Thu, 08 Oct 2026 18:16:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 更新後的使用政策明確禁止使用者在極端情況下反覆濫用 Claude，不過一般的挫折與批評仍然被允許。新規定也針對選舉干預、欺騙性宣傳活動、武器軟體和監控行為作出規範。</description>
+    </item>
     <item>
       <title>OpenAI 的數學解答目前還未達到這個領域的標準</title>
       <link>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/</link>
@@ -191,15 +236,6 @@
       <description>Google 全新的 AI Edge Foresight 應用程式要挑戰 Granola，這是一款離線會議筆記工具，可透過裝置端 AI 轉錄對話、產生筆記，並回答問題。</description>
     </item>
     <item>
-      <title>中國的 Manus 在與 Meta 分家後首輪募資中募得超過 5 億美元</title>
-      <link>https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175521</guid>
-      <pubDate>Thu, 08 Oct 2026 13:20:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Boyu Capital 和 IDG Capital 領投本輪募資，既有股東騰訊、HSG（前稱 Sequoia China）、真格基金及其他投資者也有參與。</description>
-    </item>
-    <item>
       <title>集結起來：《戰爭機器：E-Day》在 GeForce NOW 上線</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-gears-of-war-e-day/</guid>
@@ -210,33 +246,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/14fc8824076bdbffd0180b4d98e2a79b/6ac794223d6332663e580326_gfn-thursday-10-8-blog-1920x1080-logo-842x450/gfn-thursday-10-8-blog-1920x1080-logo-842x450_thmb.jpg?v=7dd5c271-5882-4cc5-9a64-7cb2b537e175" alt=""></p><p>《戰爭機器：E-Day》本週領軍登上 GeForce NOW，透過 GeForce RTX 驅動的效能，將 Marcus Fenix 和 Dom Santiago 首次對抗 Locust Horde 的戰鬥帶到雲端。加入戰局的新方式也即將到來：Fire TV 使用者很快就能直接透過 […] 購買 GeForce NOW 會員資格。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>最後徵求 TechCrunch Founder Summit 2026 志工</title>
-      <link>https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3154455</guid>
-      <pubDate>Thu, 08 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch Founder Summit 即將於 11 月 4 日重返波士頓！我們正在最後徵求優秀志工加入，協助我們把這場活動帶到大家面前。如果你曾好奇科技活動的幕後運作，現在就是參與的好機會。志工名額有限，別錯過！ […]</description>
-    </item>
-    <item>
-      <title>Amazon 發表搭載 Alexa+ 且可存取 Google Play 商店的新款 Alexa 平板</title>
-      <link>https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175073</guid>
-      <pubDate>Thu, 08 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>陣容包括三款機型：Amazon Alexa Tablet 12 Pro、Amazon Alexa Tablet 11 和 Amazon Alexa Tablet 8。</description>
-    </item>
-    <item>
-      <title>Uber 和中國的 Pony.ai 計畫在倫敦推出 robotaxis</title>
-      <link>https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175516</guid>
-      <pubDate>Thu, 08 Oct 2026 12:53:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>兩家公司週四表示，將在接下來幾週於倫敦開始測試 Pony.ai 的第 7 代 robotaxis。</description>
     </item>
     <item>
       <title>Google Cloud 推出 Gemini 代理程式。</title>
@@ -282,15 +291,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp" alt=""></p><p>我們分析了一整年的 Google 地圖資料，找出 10 個美食熱點中的熱門美食趨勢與人氣餐廳。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Vesta 募得 3,000 萬美元，將大量代理帶給房貸放款人</title>
-      <link>https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175175</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Vesta 是一家 AI 原生軟體新創公司，協助放款人承作房貸，該公司宣布完成一輪 3,000 萬美元融資，由 Conversion Capital 領投。</description>
     </item>
     <item>
       <title>印度駁斥 Elon Musk 關於 Starlink 上線遭歧視的說法</title>
