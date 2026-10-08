@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:54:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 14:09:17 GMT</lastBuildDate>
     <item>
       <title>Google推出新的本機優先 Granola 競爭對手</title>
       <link>https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/</link>
@@ -76,6 +76,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CloudGeminiAgent_hero.max-600x600.format-webp.webp" alt=""></p><p>Google Cloud 的全新 Gemini 代理程式可透過連接到你的業務系統來自動化工作流程。看看它如何用一個提示簡化企業任務。</p>]]></content:encoded>
     </item>
     <item>
+      <title>Vesta 募得 3,000 萬美元，將大量代理帶給房貸放款人</title>
+      <link>https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175175</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Vesta 是一家 AI 原生軟體新創公司，協助放款人承作房貸，該公司宣布完成一輪 3,000 萬美元融資，由 Conversion Capital 領投。</description>
+    </item>
+    <item>
       <title>Google 地圖協助你導航下一場美食探險的 3 種方式。</title>
       <link>https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/</guid>
@@ -98,15 +107,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp" alt=""></p><p>我們分析了一整年的 Google 地圖資料，找出 10 個美食熱點中的熱門美食趨勢與人氣餐廳。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Vesta 募得 3,000 萬美元，將大量代理帶給房貸放款人</title>
-      <link>https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175175</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Vesta 是一家 AI 原生軟體新創公司，協助放款人承作房貸，該公司宣布完成一輪 3,000 萬美元融資，由 Conversion Capital 領投。</description>
     </item>
     <item>
       <title>印度駁斥 Elon Musk 關於 Starlink 上線遭歧視的說法</title>
