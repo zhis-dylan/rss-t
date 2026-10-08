@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:40:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 16:56:01 GMT</lastBuildDate>
+    <item>
+      <title>一位曾入獄服刑的新創創辦人，正瞄準一個尚未被開發的市場：更生人</title>
+      <link>https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174103</guid>
+      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Richard Bronson 曾是 Stratton Oakmont 的合夥人，因證券違規在聯邦監獄服刑過，他如今創辦了 Commissary Club；這是一家運用 AI 協助出獄者找到工作、住處、社群，甚至約會機會的新創公司。</description>
+    </item>
     <item>
       <title>Natura 的 99 美元智慧戒指把 AI 代理戴在你手上</title>
       <link>https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/</link>
@@ -316,15 +325,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 與 The King’s Trust 延續雙方長期合作夥伴關係，推出一項沉浸式全新教育計畫，協助年輕人進入職場世界。</description>
-    </item>
-    <item>
-      <title>Nous Research 證實估值達 15 億美元，推出供商務用戶使用的 AI 智慧代理</title>
-      <link>https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175337</guid>
-      <pubDate>Wed, 07 Oct 2026 20:48:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Hermes 智慧代理的開發商完成了 9000 萬美元的 B 輪融資。</description>
     </item>
     <item>
       <title>NVIDIA、Microsoft 以 RTX Spark 和 AI 代理為 Windows PC 開啟新篇章</title>
