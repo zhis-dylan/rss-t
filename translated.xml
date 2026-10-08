@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:23:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:39:03 GMT</lastBuildDate>
+    <item>
+      <title>Google推出新的本機優先 Granola 競爭對手</title>
+      <link>https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175506</guid>
+      <pubDate>Thu, 08 Oct 2026 13:28:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 全新的 AI Edge Foresight 應用程式要挑戰 Granola，這是一款離線會議筆記工具，可透過裝置端 AI 轉錄對話、產生筆記，並回答問題。</description>
+    </item>
     <item>
       <title>中國的 Manus 在與 Meta 分家後首輪募資中募得超過 5 億美元</title>
       <link>https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/</link>
@@ -283,15 +292,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家底特律新創公司的服務範圍已從移動載具擴大，協助無人機與機器人公司尋找美國本土製造商、貨運業者等資源。</description>
-    </item>
-    <item>
-      <title>SpaceX 校友籌得 1 億美元，透過自駕貨運列車重新思考運輸</title>
-      <link>https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174804</guid>
-      <pubDate>Wed, 07 Oct 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Parallel Systems 籌得 1 億美元，用於擴大其自駕電動鐵路車輛的生產，這種車輛可運送數千磅貨物，最遠達 500 英里。</description>
     </item>
     <item>
       <title>我們正在讓全球更容易辨識 AI 生成內容。</title>
