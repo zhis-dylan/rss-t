@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 20:58:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:13:23 GMT</lastBuildDate>
+    <item>
+      <title>進入 Omniverse：開發者如何運用前沿 AI 代理將想法轉化為模擬</title>
+      <link>https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/</guid>
+      <pubDate>Thu, 08 Oct 2026 21:06:35 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>把一個模擬構想變成可運作的應用程式，意味著要組合資產、連接物理與渲染，並確認場景如預期運作。開發者正將前沿 AI 模型與 NVIDIA Omniverse 函式庫結合，以協助完成這些工作——打造用於探索情境、調查失敗原因與改進設計的應用程式。開發者透過 AI 代理引導 […]</description>
+    </item>
+    <item>
+      <title>假裝你坐在 Elizabeth Holmes 的辦公桌前，逛這個細節異常豐富的網站</title>
+      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175918</guid>
+      <pubDate>Thu, 08 Oct 2026 21:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個網站收錄了美國訴 Elizabeth Holmes 案審判中的一千多封電子郵件、簡報、簡訊和文件，Extend 工程師 Bo Lau 做了一個網站，模擬翻閱這位 Theranos 創辦人的辦公桌可能會是什麼感覺。</description>
+    </item>
     <item>
       <title>遭解僱的 OpenAI 安全研究員駁斥不當行為指控，警告恐造成寒蟬效應</title>
       <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
@@ -225,15 +243,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>熱門 Cal AI 熱量追蹤 app 的青少年共同創辦人 Zach Yadegari，已推出一個新的個人 AI 代理新創，與 Instinct、Muse 和 Bee 競爭。</description>
-    </item>
-    <item>
-      <title>Founder Summit 2026 的完整 Side Events 名單</title>
-      <link>https://techcrunch.com/2026/10/08/the-complete-side-events-lineup-at-founder-summit-2026/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175078</guid>
-      <pubDate>Thu, 08 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>波士頓，你準備好了嗎？！TechCrunch Founder Summit 2026 即將以滿滿活力引爆全場——真正的精彩，將從 11 月 3 日到 6 日遍佈全城的精彩 Side Events 陣容正式展開！</description>
     </item>
     <item>
       <title>集結起來：《戰爭機器：E-Day》在 GeForce NOW 上線</title>
@@ -1256,18 +1265,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5" alt=""></p><p>每座 AI 工廠都需要符合其運算架構的電力與冷卻。隨著 AI 基礎設施擴展，電力、冷卻、水源、場地與電網限制正在塑造建置者可部署的內容。選擇符合完整工廠設計的產品，有助於建置者將運算容量轉化為可用的 AI 輸出。為了幫助建置者做出這些決策，NVIDIA 正在推出 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>從賦能到執行，埃及的 AI 生態系達到量產規模</title>
-      <link>https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/egypt-africa-ai-ecosystem/</guid>
-      <pubDate>Mon, 21 Sep 2026 16:00:10 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>今天，埃及的 AI 建構者齊聚大埃及博物館參加一場招待會，聚焦這個國家快速成長的 AI 生態系——涵蓋 AI 原生團隊、開發者、研究人員、新創公司與企業——正在各產業打造應用程式。活動包括 NVIDIA 歐洲、中東及非洲地區副總裁 Paolo Guglielmini 的主題演講。區域 AI 採用負責人 Ahmed Mostafa […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/f3263dde2c0d183de1dcf5b6eaee7f38/6ab154e73d6332ff287c994c_5696800-ent-egypt-ecosystem-blog-image-842x450/5696800-ent-egypt-ecosystem-blog-image-842x450_thmb.jpg?v=525fdfc4-7135-4c25-b2ea-680a07af30c2" alt=""></p><p>今天，埃及的 AI 建構者齊聚大埃及博物館參加一場招待會，聚焦這個國家快速成長的 AI 生態系——涵蓋 AI 原生團隊、開發者、研究人員、新創公司與企業——正在各產業打造應用程式。活動包括 NVIDIA 歐洲、中東及非洲地區副總裁 Paolo Guglielmini 的主題演講。區域 AI 採用負責人 Ahmed Mostafa […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Higgsfield AI 透過 GPT-6 Astra 在一天內推出新的影片功能</title>
