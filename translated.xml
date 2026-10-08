@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 17:11:11 GMT</lastBuildDate>
+    <item>
+      <title>破解資料中心最大的迷思</title>
+      <link>https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50588</guid>
+      <pubDate>Thu, 08 Oct 2026 16:53:24 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>開發者兼內容創作者 Tom Shaw 解析了關於資料中心的三個最大迷思。
+〈破解資料中心最大的迷思〉一文最早出現在 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080" alt=""></p><p>開發者兼內容創作者 Tom Shaw 解析了關於資料中心的三個最大迷思。<br>〈破解資料中心最大的迷思〉一文最早出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>一位曾入獄服刑的新創創辦人，正瞄準一個尚未被開發的市場：更生人</title>
       <link>https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/</link>
@@ -927,19 +940,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們針對前沿 AI 訓練中安全案例的早期指引，涵蓋技術防護、營運實務，以及調查對齊失準事件</description>
-    </item>
-    <item>
-      <title>推出 Meta Enterprise Platform</title>
-      <link>https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50411</guid>
-      <pubDate>Mon, 28 Sep 2026 12:36:14 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>今天我們推出 Meta Enterprise Platform，協助企業運用 AI 成長，Chirantan「CJ」Desai 也將加入 Meta，擔任企業平台長
-這篇〈推出 Meta Enterprise Platform〉最早刊登於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Meta_Thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Meta_Thumbnail.jpg?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Meta_Thumbnail.jpg?fit=890%2C501" alt=""></p><p>今天我們推出 Meta Enterprise Platform，協助企業運用 AI 成長，Chirantan「CJ」Desai 也將加入 Meta，擔任企業平台長<br>這篇〈推出 Meta Enterprise Platform〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 宣布將股票回購授權額度增加 1,500 億美元</title>
