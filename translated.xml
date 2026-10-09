@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:37:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:52:15 GMT</lastBuildDate>
+    <item>
+      <title>Danu Robotics 為打造更好的回收機器人而奮戰</title>
+      <link>https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3174693</guid>
+      <pubDate>Fri, 09 Oct 2026 16:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>六年來，Danu 創辦人 Amy Ma 一直在努力尋找更好的方式來分類可回收廢棄物。</description>
+    </item>
+    <item>
+      <title>我們忍不住把 AI 當成人類來對待。但我們該這麼做嗎？</title>
+      <link>https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175674</guid>
+      <pubDate>Fri, 09 Oct 2026 16:40:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「當我們被拉進與一個關係性人工製品之間，即使是最原始的互動，我們也相信它在乎我們，」Sherry Turkle 博士寫道。「而我們也被設計成會回以關心。」</description>
+    </item>
     <item>
       <title>Tesla 將歐洲的「Full Self-Driving」更名為「Tesla Assisted Driving」</title>
       <link>https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/</link>
@@ -199,15 +217,6 @@
       <description>Anthropic 更新後的使用政策明確禁止使用者在極端情況下反覆濫用 Claude，不過一般的挫折與批評仍然被允許。新規定也針對選舉干預、欺騙性宣傳活動、武器軟體和監控行為作出規範。</description>
     </item>
     <item>
-      <title>OpenAI 的數學解答目前還未達到這個領域的標準</title>
-      <link>https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175311</guid>
-      <pubDate>Thu, 08 Oct 2026 18:10:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 大量提出的證明偏離了這家前沿實驗室所諮詢的一群數學研究人員所訂定的指引。</description>
-    </item>
-    <item>
       <title>破解資料中心最大的迷思</title>
       <link>https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=50588</guid>
@@ -219,15 +228,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080" alt=""></p><p>開發者兼內容創作者 Tom Shaw 解析了關於資料中心的三個最大迷思。<br>〈破解資料中心最大的迷思〉一文最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>一位曾入獄服刑的新創創辦人，正瞄準一個尚未被開發的市場：更生人</title>
-      <link>https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174103</guid>
-      <pubDate>Thu, 08 Oct 2026 16:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Richard Bronson 曾是 Stratton Oakmont 的合夥人，因證券違規在聯邦監獄服刑過，他如今創辦了 Commissary Club；這是一家運用 AI 協助出獄者找到工作、住處、社群，甚至約會機會的新創公司。</description>
     </item>
     <item>
       <title>Oracle 如何運用 ChatGPT 和 Codex 將數天的工作縮短成幾分鐘</title>
