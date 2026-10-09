@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 09 Oct 2026 11:49:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:04:41 GMT</lastBuildDate>
+    <item>
+      <title>Xona 的商用 GPS 替代方案即將上線</title>
+      <link>https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3175941</guid>
+      <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 SpaceX 發射由該公司設計的六顆衛星後，Xona 的精準授時與導航服務將進入 beta 測試。</description>
+    </item>
     <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
       <link>https://openai.com/index/sophos</link>
@@ -255,15 +264,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>這些承諾將強化對美國領導地位至關重要的領域，包括量子運算、醫療保健和能源安全新聞摘要：NVIDIA 宣布價值 10 億美元的承諾，以...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Waymo 向 Blackstone、PIMCO 取得 50 億美元貸款，為 robotaxi 擴張提供資金</title>
-      <link>https://techcrunch.com/2026/10/08/waymo-locks-in-5b-loan-from-blackstone-pimco-to-fuel-robotaxi-expansion/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175599</guid>
-      <pubDate>Thu, 08 Oct 2026 14:16:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是 Alphabet 旗下公司首次轉向債務融資。</description>
     </item>
     <item>
       <title>集結起來：《戰爭機器：E-Day》在 GeForce NOW 上線</title>
