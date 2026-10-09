@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 09 Oct 2026 16:52:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 17:07:25 GMT</lastBuildDate>
+    <item>
+      <title>LumenUs 協助在悲傷期間自動化繁瑣的文書作業</title>
+      <link>https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167012</guid>
+      <pubDate>Fri, 09 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「摯愛過世的那天，你也會獲得這枚榮譽徽章，成為一名專案經理，負責一個你根本不知道的專案，」創辦人 Sara Tashakorinia 表示。</description>
+    </item>
+    <item>
+      <title>Amazon 和其他公司不再對資料中心交易保密了。這足以建立信任嗎？</title>
+      <link>https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3176138</guid>
+      <pubDate>Fri, 09 Oct 2026 16:56:42 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 表示，在與地方政府談判資料中心交易時，將停止使用 NDA，此舉跟 Microsoft 今年稍早的類似做法一致。保密助長了社區對 AI 基礎設施的反彈，反對聲浪導致從紐約到舊金山出現數百項提議中的和已生效的暫停令。與此同時，一波新創公司正押注消費者會讓 AI 代理取得存取權限 […]</description>
+    </item>
     <item>
       <title>Danu Robotics 為打造更好的回收機器人而奮戰</title>
       <link>https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/</link>
@@ -197,24 +215,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>先前曾有報導指出，這家 AI 實驗室的年化營收約為 700 億美元，但一份新報告稱，實際上遠低於這個數字。</description>
-    </item>
-    <item>
-      <title>Google 將代理式 AI 帶進 Gemini，先從企業開始</title>
-      <link>https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175776</guid>
-      <pubDate>Thu, 08 Oct 2026 18:18:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 正把 Gemini 變成一個 AI 代理，能夠規劃、執行任務，並在各種商務應用程式和系統之間協作。這個代理可以把工作交給子代理，使用多個 AI 模型，甚至還會擁有自己的職場身分，連電子郵件地址都一併配好。</description>
-    </item>
-    <item>
-      <title>Anthropic 調整使用政策，禁止濫用模型與干預選舉</title>
-      <link>https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175777</guid>
-      <pubDate>Thu, 08 Oct 2026 18:16:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 更新後的使用政策明確禁止使用者在極端情況下反覆濫用 Claude，不過一般的挫折與批評仍然被允許。新規定也針對選舉干預、欺騙性宣傳活動、武器軟體和監控行為作出規範。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
