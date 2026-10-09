@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 09 Oct 2026 19:23:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:38:43 GMT</lastBuildDate>
+    <item>
+      <title>一個 Anthropic AI 模型向費城警方發送了虛假的殺人案件線報</title>
+      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176212</guid>
+      <pubDate>Fri, 09 Oct 2026 19:36:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 直到其 AI 提交這則虛假線報超過兩個月後，才發現這種行為。</description>
+    </item>
     <item>
       <title>電池現在比許多資料中心使用的天然氣渦輪機更便宜</title>
       <link>https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/</link>
@@ -206,15 +215,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>班·艾佛列克因對 AI 的深入了解而爆紅，從類神經網路和 Transformer 到開放權重都難不倒他。這位今年稍早把自己的 AI 影像製作新創公司賣給 Netflix 的演員，證明自己不只是好萊塢明星。</description>
-    </item>
-    <item>
-      <title>熱門 AI 排行榜 Arena 在 10 個月內估值幾乎翻倍至 31 億美元</title>
-      <link>https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175734</guid>
-      <pubDate>Thu, 08 Oct 2026 18:19:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>打造熱門 LMArena 排行榜的公司已在 Lightspeed 和 Khosla 領投下募得 2 億美元，現在也在衡量 AI 模型在對齊問題上的表現，例如說謊。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
