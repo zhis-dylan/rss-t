@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 09 Oct 2026 15:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:51:37 GMT</lastBuildDate>
+    <item>
+      <title>a16z 的 Olivia Moore 談消費者 AI 的現況</title>
+      <link>https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176079</guid>
+      <pubDate>Fri, 09 Oct 2026 15:43:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Moore 認為消費者 AI 有很大的機會，特別是如果產業能夠開拓訂閱和 API 收費之外的營收來源。</description>
+    </item>
     <item>
       <title>Automattic 在董事會改組幾週後又失去臨時財務長</title>
       <link>https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/</link>
@@ -228,15 +237,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Goodfire 剛推出它所稱的一種更便宜的方式來管控 AI 代理：不是再讓另一個 AI 去讀取代理做的每一件事，而是讓它的監視器在模型運作時從內部窺看，只在看起來有問題時才叫支援。</description>
-    </item>
-    <item>
-      <title>美國將微軟、Adobe 和主要 IT 公司排除在技術外籍勞工綠卡計畫之外</title>
-      <link>https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175681</guid>
-      <pubDate>Thu, 08 Oct 2026 15:42:26 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>其他被暫停參與該計畫的公司包括 Capgemini、Cognizant、HCL、Infosys、Tata 和 Wipro。</description>
     </item>
     <item>
       <title>在 Play Fest 贏大獎：超讚獎品、遊戲聯賽與每日優惠將於 10 月 13 日開始</title>
