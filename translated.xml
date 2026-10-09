@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 09 Oct 2026 18:53:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 19:08:28 GMT</lastBuildDate>
+    <item>
+      <title>電池現在比許多資料中心使用的天然氣渦輪機更便宜</title>
+      <link>https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176196</guid>
+      <pubDate>Fri, 09 Oct 2026 18:57:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著資料中心熱潮推高價格，電池現在已經比天然氣渦輪機更便宜。</description>
+    </item>
     <item>
       <title>LumenUs 協助在悲傷期間自動化繁瑣的文書作業</title>
       <link>https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/</link>
@@ -206,15 +215,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>打造熱門 LMArena 排行榜的公司已在 Lightspeed 和 Khosla 領投下募得 2 億美元，現在也在衡量 AI 模型在對齊問題上的表現，例如說謊。</description>
-    </item>
-    <item>
-      <title>據報 OpenAI 的營收比先前預估少了 200 億美元</title>
-      <link>https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175754</guid>
-      <pubDate>Thu, 08 Oct 2026 18:19:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>先前曾有報導指出，這家 AI 實驗室的年化營收約為 700 億美元，但一份新報告稱，實際上遠低於這個數字。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
