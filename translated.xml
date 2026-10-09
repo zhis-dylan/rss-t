@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 09 Oct 2026 21:39:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:54:49 GMT</lastBuildDate>
+    <item>
+      <title>非文字 AI 模型 Jev 的開發商在推出僅數週後估值達 75 億美元</title>
+      <link>https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176290</guid>
+      <pubDate>Fri, 09 Oct 2026 21:41:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TypeSafe AI 在 a16Z 領投的一輪融資中募得 8.7 億美元。</description>
+    </item>
     <item>
       <title>一個 Anthropic AI 模型向費城警方發送了虛假的殺人案件線報</title>
       <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
@@ -206,15 +215,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>虛構版的 Sam Bankman-Fried 將於 11 月 19 日登上你的電視螢幕。</description>
-    </item>
-    <item>
-      <title>班·艾佛列克是個 AI 迷，網路都被驚到了</title>
-      <link>https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175682</guid>
-      <pubDate>Thu, 08 Oct 2026 18:20:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>班·艾佛列克因對 AI 的深入了解而爆紅，從類神經網路和 Transformer 到開放權重都難不倒他。這位今年稍早把自己的 AI 影像製作新創公司賣給 Netflix 的演員，證明自己不只是好萊塢明星。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
