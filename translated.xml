@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 10 Oct 2026 02:56:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 03:12:06 GMT</lastBuildDate>
+    <item>
+      <title>Elon Musk 加強對安巴尼的攻擊，指責 Starlink 印度上市延遲</title>
+      <link>https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176213</guid>
+      <pubDate>Sat, 10 Oct 2026 03:10:06 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Elon Musk 指控印度億萬富豪 Mukesh Ambani 阻擋競爭。</description>
+    </item>
     <item>
       <title>Anthropic 無法可靠控制其 AI 代理。它改為切斷內部評估與即時網路的連線</title>
       <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
@@ -206,15 +215,6 @@
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>把一個模擬構想變成可運作的應用程式，意味著要組合資產、連接物理與渲染，並確認場景如預期運作。開發者正將前沿 AI 模型與 NVIDIA Omniverse 函式庫結合，以協助完成這些工作——打造用於探索情境、調查失敗原因與改進設計的應用程式。開發者透過 AI 代理引導 […]</description>
-    </item>
-    <item>
-      <title>假裝你坐在 Elizabeth Holmes 的辦公桌前，逛這個細節異常豐富的網站</title>
-      <link>https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175918</guid>
-      <pubDate>Thu, 08 Oct 2026 21:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這個網站收錄了美國訴 Elizabeth Holmes 案審判中的一千多封電子郵件、簡報、簡訊和文件，Extend 工程師 Bo Lau 做了一個網站，模擬翻閱這位 Theranos 創辦人的辦公桌可能會是什麼感覺。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
