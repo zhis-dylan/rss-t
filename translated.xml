@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 10 Oct 2026 21:34:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 21:49:49 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 的 Satya Nadella 表示 AI 模型需要「緊急煞車」</title>
+      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176448</guid>
+      <pubDate>Sat, 10 Oct 2026 21:47:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在週六早上的一則貼文中，Microsoft 執行長寫道，現在是時候「退一步並評估 AI 的信任架構」了。</description>
+    </item>
     <item>
       <title>Apple 揭露將聘用團隊並從個人化 Podcast 新創公司 Huxe 授權技術的交易</title>
       <link>https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/</link>
@@ -158,15 +167,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Moore 認為消費者 AI 有很大的機會，特別是如果產業能夠開拓訂閱和 API 收費之外的營收來源。</description>
-    </item>
-    <item>
-      <title>Automattic 在董事會改組幾週後又失去臨時財務長</title>
-      <link>https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175919</guid>
-      <pubDate>Fri, 09 Oct 2026 15:02:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch 獲悉，Automattic 的臨時財務長 Jeremy Klaperman 在接任這個職位不到一個月後就已離開公司。消息人士表示，他的離職發生在他被降回原本職位之後，這是該組織領導層動盪期間又一次高層出走。</description>
     </item>
     <item>
       <title>TechCrunch Disrupt 2026：Gamma 的 Grant Lee、Engine 的 Elia Wallen 與 GV 的 Crystal Huang 談如何拿下你的前 1,000 位客戶</title>
