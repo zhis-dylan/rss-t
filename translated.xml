@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 10 Oct 2026 13:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 14:01:22 GMT</lastBuildDate>
+    <item>
+      <title>這些是可以待在你簡訊裡的頂尖 AI 代理</title>
+      <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173132</guid>
+      <pubDate>Sat, 10 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>我們整理了一份最值得注意的 AI 代理清單，這些代理可以待在你的簡訊裡，從通用助理到為家庭、旅遊和工作設計的代理都有。</description>
+    </item>
     <item>
       <title>Elon Musk 加強對安巴尼的攻擊，指責 Starlink 印度上市延遲</title>
       <link>https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/</link>
@@ -185,15 +194,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
-    </item>
-    <item>
-      <title>川普總統將國家最高科學獎頒給大型科技捐助者</title>
-      <link>https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175951</guid>
-      <pubDate>Thu, 08 Oct 2026 22:33:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>週四，川普總統將國家科學獎章頒給伊隆・馬斯克、黃仁勳、謝爾蓋・布林，以及 AMD 的蘇姿丰，這是美國最高的科學獎項。</description>
     </item>
     <item>
       <title>《The Lancet》的研究顯示，AI 可能改善病患與醫師的關係。</title>
