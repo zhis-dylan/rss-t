@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:10:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 00:25:58 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 無法可靠控制其 AI 代理。它改為切斷內部評估與即時網路的連線</title>
+      <link>https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176323</guid>
+      <pubDate>Sat, 10 Oct 2026 00:18:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 表示，在另行通知前，它已為「所有內部評估」關閉即時網路存取。</description>
+    </item>
     <item>
       <title>機械鍵盤萬歲</title>
       <link>https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/</link>
@@ -206,15 +215,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這個網站收錄了美國訴 Elizabeth Holmes 案審判中的一千多封電子郵件、簡報、簡訊和文件，Extend 工程師 Bo Lau 做了一個網站，模擬翻閱這位 Theranos 創辦人的辦公桌可能會是什麼感覺。</description>
-    </item>
-    <item>
-      <title>遭解僱的 OpenAI 安全研究員駁斥不當行為指控，警告恐造成寒蟬效應</title>
-      <link>https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175894</guid>
-      <pubDate>Thu, 08 Oct 2026 20:04:26 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>三名遭解僱的 OpenAI 安全研究員駁斥了處理敏感資訊不當的指控，並在公開信中警告，他們的解僱正對公司在 AI 安全文化上造成寒蟬效應。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
