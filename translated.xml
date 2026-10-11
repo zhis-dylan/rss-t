@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 11 Oct 2026 13:56:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 14:11:14 GMT</lastBuildDate>
+    <item>
+      <title>這些高層認為語音 AI 尚未迎來它的 ChatGPT 時刻</title>
+      <link>https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176054</guid>
+      <pubDate>Sun, 11 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>語音 AI 常常在其上下文層遺漏重要重點，並導致整個流程中斷</description>
+    </item>
     <item>
       <title>Microsoft 的 Satya Nadella 表示 AI 模型需要「緊急煞車」</title>
       <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
@@ -158,15 +167,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Orkut 的創辦人現在將目標放在演算法和 AI 生成內容上。</description>
-    </item>
-    <item>
-      <title>a16z 的 Olivia Moore 談消費者 AI 的現況</title>
-      <link>https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176079</guid>
-      <pubDate>Fri, 09 Oct 2026 15:43:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Moore 認為消費者 AI 有很大的機會，特別是如果產業能夠開拓訂閱和 API 收費之外的營收來源。</description>
     </item>
     <item>
       <title>TechCrunch Disrupt 2026：Gamma 的 Grant Lee、Engine 的 Elia Wallen 與 GV 的 Crystal Huang 談如何拿下你的前 1,000 位客戶</title>
