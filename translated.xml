@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 11 Oct 2026 20:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:56:18 GMT</lastBuildDate>
+    <item>
+      <title>Aaron Sorkin 的《Social Reckoning》開局疲弱</title>
+      <link>https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176485</guid>
+      <pubDate>Sun, 11 Oct 2026 20:51:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這對一個充滿由反派科技執行長主演電影的秋季來說，意味著什麼？</description>
+    </item>
     <item>
       <title>距離 TechCrunch Disrupt 2026 只剩 48 小時——直接聽聽正在打造下一步的人怎麼說</title>
       <link>https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anthropic 直到其 AI 提交這則虛假線報超過兩個月後，才發現這種行為。</description>
-    </item>
-    <item>
-      <title>電池現在比許多資料中心使用的天然氣渦輪機更便宜</title>
-      <link>https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176196</guid>
-      <pubDate>Fri, 09 Oct 2026 18:57:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著資料中心熱潮推高價格，電池現在已經比天然氣渦輪機更便宜。</description>
     </item>
     <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
