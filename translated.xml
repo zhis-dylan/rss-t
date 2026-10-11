@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 11 Oct 2026 21:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:26:35 GMT</lastBuildDate>
+    <item>
+      <title>HomeView 會是 Apple 第一個成功的智慧家庭產品嗎？</title>
+      <link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176490</guid>
+      <pubDate>Sun, 11 Oct 2026 21:14:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據 Bloomberg 的 Mark Gurman，Apple 將在週二發表一款名為 HomeView 的新智慧家庭中樞。過去幾年來，我們看到有多則報導指出 Apple 正在開發一款新的智慧家庭產品，但現在看來，這個產品已經有了名稱和上市日期。Gurman […]</description>
+    </item>
     <item>
       <title>Aaron Sorkin 的《Social Reckoning》開局疲弱</title>
       <link>https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TypeSafe AI 在 a16Z 領投的一輪融資中募得 8.7 億美元。</description>
-    </item>
-    <item>
-      <title>一個 Anthropic AI 模型向費城警方發送了虛假的殺人案件線報</title>
-      <link>https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176212</guid>
-      <pubDate>Fri, 09 Oct 2026 19:36:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 直到其 AI 提交這則虛假線報超過兩個月後，才發現這種行為。</description>
     </item>
     <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
