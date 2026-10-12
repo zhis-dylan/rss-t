@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:19:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:34:27 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft總裁表示英國最適合推動 AI 監管</title>
+      <link>https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176628</guid>
+      <pubDate>Mon, 12 Oct 2026 15:31:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 總裁 Brad Smith 呼籲盡速制定 AI 監管，稱牛奶和洗衣機受到的監管都比 AI 公司還多。</description>
+    </item>
+    <item>
+      <title>這家 AI 新創公司表示，它能在幾分鐘內生成可直接申請許可的藍圖</title>
+      <link>https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176454</guid>
+      <pubDate>Mon, 12 Oct 2026 15:27:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>總部位於聖塔莫尼卡的自力創業新創公司 Blueprints AI 開發出一套軟體，可根據照片、PDF 或草圖產生符合規範的建築藍圖。</description>
+    </item>
     <item>
       <title>Fitbit Edge 是 Google 介於 Fitbit Air 與 Pixel Watch 之間的折衷方案</title>
       <link>https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/</link>
@@ -273,24 +291,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家新創公司表示，他們的燃料電池效率極高，並且能在科技業怎麼也拿不到足夠電力的時期降低燃料成本。</description>
-    </item>
-    <item>
-      <title>Cloudflare 收購 Deno 以改善其 Workers 程式設計模型</title>
-      <link>https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176412</guid>
-      <pubDate>Sat, 10 Oct 2026 16:25:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cloudflare 將利用這項收購來改善其 Workers 程式設計模型與平台。</description>
-    </item>
-    <item>
-      <title>距離 TechCrunch Disrupt 2026 還有 3 天：在它們成為主流前先認識這些新創公司</title>
-      <link>https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176326</guid>
-      <pubDate>Sat, 10 Oct 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch Disrupt 2026 將於 10 月 13 日至 15 日在舊金山舉行。超過 300 家新創公司將向 10,000 位科技領袖展示他們打造的成果。此外，250 多位講者已準備好在 200 多場議程中分享洞見。請在活動開始前報名，最高可省下 100 美元，並以 5 折加購第二張通行證。</description>
     </item>
     <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
