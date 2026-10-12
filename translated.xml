@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 12 Oct 2026 17:20:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 17:35:40 GMT</lastBuildDate>
+    <item>
+      <title>運用科技來理解與治療疾病</title>
+      <link>https://blog.google/innovation-and-ai/technology/health/ai-health-research/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/ai-health-research/</guid>
+      <pubDate>Mon, 12 Oct 2026 17:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 與科學家和研究合作夥伴合作，協助讓疾病更容易被偵測、更容易治療，也更容易預防——目標是改善健康……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ud-blog_Header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ud-blog_Header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ud-blog_Header.max-600x600.format-webp.webp" alt=""></p><p>Google 與科學家和研究合作夥伴合作，協助讓疾病更容易被偵測、更容易治療，也更容易預防——目標是改善健康……</p>]]></content:encoded>
+    </item>
     <item>
       <title>WindBorne 贏得美國空軍一份金額可觀的合約，提供其氣球資料</title>
       <link>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/</link>
@@ -668,18 +680,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StartUps_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StartUps_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/StartUps_Hero.max-600x600.format-webp.webp" alt=""></p><p>探索今年 11 月在山景城與我們一同參與、塑造 AI 未來的全球先驅新創公司。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>認識那位為虛擬世界打造巨大蜘蛛的藝術家</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/frieze-london-2026/</guid>
-      <pubDate>Tue, 06 Oct 2026 13:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Theo Triantafyllidis 獲得了 2026 年 Frieze 藝術家獎，該獎項由 Google Arts &amp; Culture 支持。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Theo_Triantafyllidis_Feral_Meta.max-600x600.format-webp.webp" alt=""></p><p>Theo Triantafyllidis 獲得了 2026 年 Frieze 藝術家獎，該獎項由 Google Arts &amp;amp; Culture 支持。</p>]]></content:encoded>
     </item>
     <item>
       <title>為什麼電信營運商正以開放模型打造他們的 AI 策略</title>
