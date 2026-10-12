@@ -5,7 +5,40 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:19:15 GMT</lastBuildDate>
+    <item>
+      <title>Fitbit Edge 是 Google 介於 Fitbit Air 與 Pixel Watch 之間的折衷方案</title>
+      <link>https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176619</guid>
+      <pubDate>Mon, 12 Oct 2026 15:11:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 最新的穿戴裝置售價為 179.99 美元，外觀與手感像 Fitbit Air 一樣俐落，但配備 OLED 顯示器。</description>
+    </item>
+    <item>
+      <title>OCP 全球高峰會：在生態系採用之際，NVIDIA 開放 Vera Rubin 架構，協助全球擴展 AI 工廠</title>
+      <link>https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/</guid>
+      <pubDate>Mon, 12 Oct 2026 15:00:25 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>隨著 AI 工廠從百萬瓦擴展到吉瓦，建造它們所需的不只是先進運算。開放標準正幫助產業更快、更有效率且更可靠地擴展 AI 基礎設施。在聖荷西 McEnery 會議中心舉行的 Open Compute Project（OCP）全球高峰會上，NVIDIA 宣布了新的合作夥伴關係與貢獻，旨在 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba" alt=""></p><p>隨著 AI 工廠從百萬瓦擴展到吉瓦，建造它們所需的不只是先進運算。開放標準正幫助產業更快、更有效率且更可靠地擴展 AI 基礎設施。在聖荷西 McEnery 會議中心舉行的 Open Compute Project（OCP）全球高峰會上，NVIDIA 宣布了新的合作夥伴關係與貢獻，旨在 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 與 Cisco 推出新的可插拔光學模組外形規格，以擴展 AI 工廠</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories</guid>
+      <pubDate>Mon, 12 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 與 Cisco 今天宣布推出 Ultra-Dense Small Form Factor Pluggable（USFP）計畫，這是一種新的高密度、每通道 400Gb/s 的光學模組，專為使用可插拔收發器的下一代 AI 工廠硬體生態系而設計。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/bb0658e6668adfadaaf0477f22795d99/6acb0cef3d63325ab15dc4ff_ultra-dense-small-form-factor-pluggable/ultra-dense-small-form-factor-pluggable_thmb.jpg?v=6511e202-6a08-4834-996a-ced5c6faeac3" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/bb0658e6668adfadaaf0477f22795d99/6acb0cef3d63325ab15dc4ff_ultra-dense-small-form-factor-pluggable/ultra-dense-small-form-factor-pluggable_thmb.jpg?v=6511e202-6a08-4834-996a-ced5c6faeac3"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/bb0658e6668adfadaaf0477f22795d99/6acb0cef3d63325ab15dc4ff_ultra-dense-small-form-factor-pluggable/ultra-dense-small-form-factor-pluggable_thmb.jpg?v=6511e202-6a08-4834-996a-ced5c6faeac3" alt=""></p><p>NVIDIA 與 Cisco 今天宣布推出 Ultra-Dense Small Form Factor Pluggable（USFP）計畫，這是一種新的高密度、每通道 400Gb/s 的光學模組，專為使用可插拔收發器的下一代 AI 工廠硬體生態系而設計。</p>]]></content:encoded>
+    </item>
     <item>
       <title>智慧戒指製造商 Ultrahuman 將在阿聯酋推出生物年齡模型</title>
       <link>https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/</link>
@@ -258,15 +291,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TechCrunch Disrupt 2026 將於 10 月 13 日至 15 日在舊金山舉行。超過 300 家新創公司將向 10,000 位科技領袖展示他們打造的成果。此外，250 多位講者已準備好在 200 多場議程中分享洞見。請在活動開始前報名，最高可省下 100 美元，並以 5 折加購第二張通行證。</description>
-    </item>
-    <item>
-      <title>這些是可以待在你簡訊裡的頂尖 AI 代理</title>
-      <link>https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173132</guid>
-      <pubDate>Sat, 10 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>我們整理了一份最值得注意的 AI 代理清單，這些代理可以待在你的簡訊裡，從通用助理到為家庭、旅遊和工作設計的代理都有。</description>
     </item>
     <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
@@ -1274,18 +1298,6 @@
       <description>顧客現在可在 Apple Store 門市、線上，以及 Apple Store app 選購搭載 M6 和 M5 Pro 的 Mac mini，以及搭載 M5 Max 和 M5 Ultra 的 Mac Studio。</description>
     </item>
     <item>
-      <title>NVIDIA Isaac ROS 5.0 推進具代理能力的開源機器人開發</title>
-      <link>https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/isaac-ros-5-0-agentic-open-source-robotics/</guid>
-      <pubDate>Tue, 22 Sep 2026 12:00:41 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>要打造並部署能在動態環境中感知、推理和行動的先進機器人應用程式，開發者需要新的物理 AI 模型與工具。ROS 開放框架是 Open Robotics 的一個專案，能幫助人類打造機器人。NVIDIA Isaac ROS 5.0——一套建立在 ROS 之上、由 GPU 加速的套件，今天發布於 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/82f1aadbab1c170bd204d416aaaf9fc3/6ab26e263d63329409f1c3f6_robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450/robotics-blog-corp-blog-ROSCon26-1920x1080-1-842x450_thmb.jpg?v=77773af0-e2c0-47bc-9e58-aef499e33994" alt=""></p><p>要打造並部署能在動態環境中感知、推理和行動的先進機器人應用程式，開發者需要新的物理 AI 模型與工具。ROS 開放框架是 Open Robotics 的一個專案，能幫助人類打造機器人。NVIDIA Isaac ROS 5.0——一套建立在 ROS 之上、由 GPU 加速的套件，今天發布於 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Parallel 透過 GPT‑6 Astra 將研究時間與成本減半</title>
       <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
@@ -1311,18 +1323,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 說明對前沿模型與防護措施進行嚴謹、安全且獨立的第三方 AI 安全評估之優先事項與原則。</description>
-    </item>
-    <item>
-      <title>NVIDIA 推出 DSX Ready，為 AI 工廠認證電力與冷卻產品</title>
-      <link>https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/dsx-ready-ai-factories-power-cooling/</guid>
-      <pubDate>Mon, 21 Sep 2026 18:00:07 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>每座 AI 工廠都需要符合其運算架構的電力與冷卻。隨著 AI 基礎設施擴展，電力、冷卻、水源、場地與電網限制正在塑造建置者可部署的內容。選擇符合完整工廠設計的產品，有助於建置者將運算容量轉化為可用的 AI 輸出。為了幫助建置者做出這些決策，NVIDIA 正在推出 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/c26023cae0b2c20ae4f8c74508072fe6/6ab170ae3d63328e0031fdd0_end-to-end-press-dsx-ready-kv-1920x1080-1-842x450/end-to-end-press-dsx-ready-kv-1920x1080-1-842x450_thmb.jpg?v=cdc22d64-39ac-450a-9de4-3014169e7ce5" alt=""></p><p>每座 AI 工廠都需要符合其運算架構的電力與冷卻。隨著 AI 基礎設施擴展，電力、冷卻、水源、場地與電網限制正在塑造建置者可部署的內容。選擇符合完整工廠設計的產品，有助於建置者將運算容量轉化為可用的 AI 輸出。為了幫助建置者做出這些決策，NVIDIA 正在推出 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Higgsfield AI 透過 GPT-6 Astra 在一天內推出新的影片功能</title>
