@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 12 Oct 2026 17:50:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 18:05:58 GMT</lastBuildDate>
+    <item>
+      <title>Meta 發表首個前沿模型 Muse Wonder</title>
+      <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176752</guid>
+      <pubDate>Mon, 12 Oct 2026 17:56:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 的 Superintelligence Lab 週一釋出一對新的最先進模型 Muse Wonder 和 Muse Wonder Full，這是該公司首次嘗試前沿模型。</description>
+    </item>
     <item>
       <title>運用科技來理解與治療疾病</title>
       <link>https://blog.google/innovation-and-ai/technology/health/ai-health-research/</link>
@@ -307,15 +316,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>語音 AI 常常在其上下文層遺漏重要重點，並導致整個流程中斷</description>
-    </item>
-    <item>
-      <title>Microsoft 的 Satya Nadella 表示 AI 模型需要「緊急煞車」</title>
-      <link>https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176448</guid>
-      <pubDate>Sat, 10 Oct 2026 21:47:51 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在週六早上的一則貼文中，Microsoft 執行長寫道，現在是時候「退一步並評估 AI 的信任架構」了。</description>
     </item>
     <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
