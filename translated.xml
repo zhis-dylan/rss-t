@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 13 Oct 2026 20:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:04:08 GMT</lastBuildDate>
+    <item>
+      <title>FBI 逮捕被指控在會議室放置隱藏錄音設備的 OpenAI 員工</title>
+      <link>https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177377</guid>
+      <pubDate>Tue, 13 Oct 2026 20:59:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>FBI 逮捕了一名在 OpenAI 產品團隊任職的沙烏地阿拉伯籍人士。這家 AI 公司指控該員工在一間高階主管會議室裡藏了一個錄音設備。</description>
+    </item>
     <item>
       <title>法官命令 OpenAI 在 Apple 營業秘密案件中交出招募紀錄</title>
       <link>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</link>
@@ -311,15 +320,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>新的 149 美元 HomePod mini，搭載 Siri AI 與「SoundGlow」視覺功能，將於 10 月 30 日起上市。</description>
-    </item>
-    <item>
-      <title>Apple 全新的智慧家庭陣容包含智慧門鎖、恆溫器和視訊門鈴</title>
-      <link>https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176295</guid>
-      <pubDate>Tue, 13 Oct 2026 13:37:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這些新裝置可與 HomeView 搭配使用，HomeView 是該公司的新智慧家庭中樞，可用來控制配件並與 app 互動。</description>
     </item>
     <item>
       <title>認識 Apple HomeView，一種享受娛樂與管理居家的新方式</title>
