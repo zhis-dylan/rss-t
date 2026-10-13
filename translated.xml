@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:30:04 GMT</lastBuildDate>
+    <item>
+      <title>Bumble 同意一筆 13 億美元的收購交易，因線上交友面臨重整</title>
+      <link>https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177111</guid>
+      <pubDate>Tue, 13 Oct 2026 14:25:48 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在訂閱人數連年下滑、營收也在走低之後，Bumble 剛剛同意一項 13 億美元的收購。</description>
+    </item>
     <item>
       <title>領先科技公司加入全球執法部門，對西非詐騙網絡展開大規模掃蕩</title>
       <link>https://about.fb.com/news/2026/10/meta-tech-companies-law-enforcement-crackdown-global-scam-networks/</link>
@@ -392,15 +401,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb.max-600x600.format-webp.webp" alt=""></p><p>預購我們最新的健身追蹤器，即可使用我們最先進的健康工具，還有單次充電可提供一週電池續航力。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>前 Plaud 高層為一款能在背景聆聽你的 AI 應用募得 2,600 萬美元</title>
-      <link>https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176520</guid>
-      <pubDate>Mon, 12 Oct 2026 12:47:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ambi 正在推出可在 iPhone、Mac 和 Apple Watch 上使用的應用程式，讓環境擷取成為可能</description>
     </item>
     <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
