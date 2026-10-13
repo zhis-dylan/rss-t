@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 13 Oct 2026 18:17:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:32:35 GMT</lastBuildDate>
+    <item>
+      <title>Rivian 分拆公司 Mind Robotics 延攬前 Ford 電動車主管 Doug Field</title>
+      <link>https://techcrunch.com/2026/10/13/rivian-spinoff-mind-robotics-hires-former-ford-ev-chief-doug-field/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177147</guid>
+      <pubDate>Tue, 13 Oct 2026 18:30:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Field 也曾參與 Apple 秘密的汽車專案，並監督 Tesla Model 3 的開發。</description>
+    </item>
+    <item>
+      <title>Flox Intelligence 正在打造 AI，讓野生動物遠離火車、機場和道路</title>
+      <link>https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173721</guid>
+      <pubDate>Tue, 13 Oct 2026 18:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Flox 的邊緣裝置可以辨識動物，並利用物種專屬的聲音將牠們驅離關鍵基礎設施。</description>
+    </item>
     <item>
       <title>Facebook 讓使用者對演算法有更多掌控權</title>
       <link>https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</link>
@@ -304,15 +322,6 @@
       <description>Apple 最新產品將大舉切入智慧家庭市場，與 Amazon Echo Show 和 Google Nest Hub 競爭。</description>
     </item>
     <item>
-      <title>Amex 推出一套框架，防止 AI 代理未經授權進行購買</title>
-      <link>https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175284</guid>
-      <pubDate>Tue, 13 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>美國運通正在推出一套新的框架，旨在確保 AI 代理只會進行使用者已授權的購買，隨著 AI 驅動的購物愈來愈普及，這有望避免代價高昂的錯誤與爭議。</description>
-    </item>
-    <item>
       <title>認識 Apple HomeView，一種享受娛樂與管理居家的新方式</title>
       <link>https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</guid>
@@ -347,15 +356,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今天宣布 Apple Home Collection，這是一系列與 LG Electronics 和 Schneider Electric 合作打造的智慧家庭配件。</description>
-    </item>
-    <item>
-      <title>Giraffe Bio 將其客製化生物分子瞄準迫在眉睫的銅短缺</title>
-      <link>https://techcrunch.com/2026/10/13/giraffe-bio-aims-its-bespoke-biomolecules-at-the-looming-copper-shortage/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176670</guid>
-      <pubDate>Tue, 13 Oct 2026 12:40:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著 AI 資料中心和電動車推升銅需求，Giraffe Bio 已籌得 640 萬美元的種子輪融資，協助礦商提取更多這種礦物。</description>
     </item>
     <item>
       <title>全系統就緒：全球 PC 應用生態系已為 NVIDIA RTX Spark 準備好</title>
