@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 13 Oct 2026 18:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 18:17:26 GMT</lastBuildDate>
+    <item>
+      <title>Facebook 讓使用者對演算法有更多掌控權</title>
+      <link>https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177267</guid>
+      <pubDate>Tue, 13 Oct 2026 18:05:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Facebook 是最新一個讓使用者更能控制決定動態消息中顯示內容的演算法的社群媒體平台。Meta 週二宣布推出其新的 AI 驅動功能「Your Algorithm」，這項功能最早是在 Instagram 上推出。這個新工具讓 Facebook 使用者可以影響他們看到的內容，在 […]</description>
+    </item>
+    <item>
+      <title>別再管火箭了——Longshot 想用一把槍把貨物射上太空。在 TechCrunch Disrupt 2026 看看它</title>
+      <link>https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176078</guid>
+      <pubDate>Tue, 13 Oct 2026 18:05:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Longshot 正試圖打造一把大到足以讓太空資料中心成真的槍。</description>
+    </item>
+    <item>
+      <title>負責任且安全地開發 Gemini 4 Argon</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/</guid>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>深入了解我們對 Gemini 4 Argon 的安全與資安方法。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp" alt=""></p><p>深入了解我們對 Gemini 4 Argon 的安全與資安方法。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Laplace Intelligence 在機器人和自駕車上路前先進行紅隊測試</title>
       <link>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
@@ -328,15 +358,6 @@
       <description>隨著 AI 資料中心和電動車推升銅需求，Giraffe Bio 已籌得 640 萬美元的種子輪融資，協助礦商提取更多這種礦物。</description>
     </item>
     <item>
-      <title>成立才 5 年，互動式聊天機器人平台 Character.AI 聲請破產</title>
-      <link>https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176907</guid>
-      <pubDate>Tue, 13 Oct 2026 12:23:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創將把部分資產以 2,000 萬美元賣給迪士尼。</description>
-    </item>
-    <item>
       <title>全系統就緒：全球 PC 應用生態系已為 NVIDIA RTX Spark 準備好</title>
       <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</guid>
@@ -371,15 +392,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/f62fea35eec4b9278b81b95a5670bff3/6acdbb0e3d63327665b4e82e_france-ai-ecosystem-gtc-berlin-updated-842x450/france-ai-ecosystem-gtc-berlin-updated-842x450_thmb.jpg?v=f8e7dd8e-6113-46c6-bc47-ab9f7abd3a0d" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/f62fea35eec4b9278b81b95a5670bff3/6acdbb0e3d63327665b4e82e_france-ai-ecosystem-gtc-berlin-updated-842x450/france-ai-ecosystem-gtc-berlin-updated-842x450_thmb.jpg?v=f8e7dd8e-6113-46c6-bc47-ab9f7abd3a0d"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/f62fea35eec4b9278b81b95a5670bff3/6acdbb0e3d63327665b4e82e_france-ai-ecosystem-gtc-berlin-updated-842x450/france-ai-ecosystem-gtc-berlin-updated-842x450_thmb.jpg?v=f8e7dd8e-6113-46c6-bc47-ab9f7abd3a0d" alt=""></p><p>法國的企業正將代理式運算部署於涵蓋太空、金融服務、公共部門與科學研究等產業，展現該國生態系如何從願景走向實作。法國的進展建立在有計畫的基礎之上。2025 年 2 月的 AI 行動峰會，以及 2025 與 2026 年的 Choose France 峰會，為主要的運算承諾奠定了基礎 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 發表首個前沿模型 Muse Wonder</title>
-      <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176752</guid>
-      <pubDate>Mon, 12 Oct 2026 17:56:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 的 Superintelligence Lab 週一釋出一對新的最先進模型 Muse Wonder 和 Muse Wonder Full，這是該公司首次嘗試前沿模型。</description>
     </item>
     <item>
       <title>運用科技來理解與治療疾病</title>
@@ -687,18 +699,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Meta-Singapore-Wearables-Event.jpg?fit=4401%2C2935" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Meta-Singapore-Wearables-Event.jpg?fit=4401%2C2935"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Meta-Singapore-Wearables-Event.jpg?fit=4401%2C2935" alt=""></p><p>Meta 捐贈 1,000 副 Ray-Ban Meta AI 眼鏡給新加坡四個社區組織，以協助身心障礙者。<br>〈Meta 捐贈 1,000 副 AI 眼鏡給新加坡身心障礙社群〉一文首先出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>今年冬天，使用 Google 地圖和 Waze 在英國找到最優惠的燃油價格。</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/google-maps-waze-fuel-prices-uk/</guid>
-      <pubDate>Thu, 08 Oct 2026 00:01:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google 地圖和 Waze 找到英國最便宜的汽油和柴油價格。搜尋你附近的加油站來省錢。查看最新價格。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GEO_navigation_in_car.max-600x600.format-webp.webp" alt=""></p><p>使用 Google 地圖和 Waze 找到英國最便宜的汽油和柴油價格。搜尋你附近的加油站來省錢。查看最新價格。</p>]]></content:encoded>
     </item>
     <item>
       <title>瓦解 AI 驅動的「假前台」行動</title>
