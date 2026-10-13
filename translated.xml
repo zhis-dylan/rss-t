@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 13 Oct 2026 13:44:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 13:59:43 GMT</lastBuildDate>
+    <item>
+      <title>SpaceXSI 將 X Premium、Grok 和 Cursor 整合成一個訂閱方案</title>
+      <link>https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176969</guid>
+      <pubDate>Tue, 13 Oct 2026 13:50:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新的 X 訂閱方案結合了 X 的付費功能與 Grok、Cursor 等 AI 工具，提供每月 8 美元到 200 美元不等的方案。</description>
+    </item>
     <item>
       <title>Apple 以新晶片與 149 美元售價更新 HomePod mini</title>
       <link>https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/</link>
@@ -379,15 +388,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TechCrunch Disrupt 2026 的核心圍繞著一個問題：在 AI 時代，該如何打造一家歷久不衰的公司？我們的活動規劃和講者陣容都反映了這一點。</description>
-    </item>
-    <item>
-      <title>HomeView 會是 Apple 第一個成功的智慧家庭產品嗎？</title>
-      <link>https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176490</guid>
-      <pubDate>Sun, 11 Oct 2026 21:14:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 Bloomberg 的 Mark Gurman，Apple 將在週二發表一款名為 HomeView 的新智慧家庭中樞。過去幾年來，我們看到有多則報導指出 Apple 正在開發一款新的智慧家庭產品，但現在看來，這個產品已經有了名稱和上市日期。Gurman […]</description>
     </item>
     <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
