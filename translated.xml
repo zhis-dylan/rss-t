@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 13 Oct 2026 04:55:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:10:33 GMT</lastBuildDate>
+    <item>
+      <title>從地球到軌道，法國生態系以 NVIDIA 大規模提供代理式運算</title>
+      <link>https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/</guid>
+      <pubDate>Tue, 13 Oct 2026 05:00:31 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>法國的企業正將代理式運算部署於涵蓋太空、金融服務、公共部門與科學研究等產業，展現該國生態系如何從願景走向實作。法國的進展建立在有計畫的基礎之上。2025 年 2 月的 AI 行動峰會，以及 2025 與 2026 年的 Choose France 峰會，為主要的運算承諾奠定了基礎 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/f62fea35eec4b9278b81b95a5670bff3/6acdbb0e3d63327665b4e82e_france-ai-ecosystem-gtc-berlin-updated-842x450/france-ai-ecosystem-gtc-berlin-updated-842x450_thmb.jpg?v=f8e7dd8e-6113-46c6-bc47-ab9f7abd3a0d" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/f62fea35eec4b9278b81b95a5670bff3/6acdbb0e3d63327665b4e82e_france-ai-ecosystem-gtc-berlin-updated-842x450/france-ai-ecosystem-gtc-berlin-updated-842x450_thmb.jpg?v=f8e7dd8e-6113-46c6-bc47-ab9f7abd3a0d"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/f62fea35eec4b9278b81b95a5670bff3/6acdbb0e3d63327665b4e82e_france-ai-ecosystem-gtc-berlin-updated-842x450/france-ai-ecosystem-gtc-berlin-updated-842x450_thmb.jpg?v=f8e7dd8e-6113-46c6-bc47-ab9f7abd3a0d" alt=""></p><p>法國的企業正將代理式運算部署於涵蓋太空、金融服務、公共部門與科學研究等產業，展現該國生態系如何從願景走向實作。法國的進展建立在有計畫的基礎之上。2025 年 2 月的 AI 行動峰會，以及 2025 與 2026 年的 Choose France 峰會，為主要的運算承諾奠定了基礎 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Meta 發表首個前沿模型 Muse Wonder</title>
       <link>https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/</link>
@@ -1231,18 +1243,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>MentalHealthBench 是一個由專家提供建議的基準，用於評估 AI 在真實心理健康對話中提供有幫助且安全回應的能力。</description>
-    </item>
-    <item>
-      <title>在 AI Day Singapore，NVIDIA 與合作夥伴展示東南亞各地的 AI 進展</title>
-      <link>https://blogs.nvidia.com/blog/ai-day-singapore/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-day-singapore/</guid>
-      <pubDate>Wed, 23 Sep 2026 02:30:22 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA AI Day Singapore 將於 9 月 22 日至 23 日在萊佛士城會議中心舉行，為與會者提供體驗實作培訓、專家主導場次以及先進工具的機會，以加速他們在 AI 與高效能運算方面的工作。在活動中，NVIDIA 與其合作夥伴正展示東南亞地區具突破性的 AI 進展 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/ac1bc65311b893072f5f82ff4d106f94/6ab339db3d63326c7a34a1b8_ai-day-singapore-key-visul-1920x1080-1-842x450/ai-day-singapore-key-visul-1920x1080-1-842x450_thmb.jpg?v=ae11ab35-3911-4034-a382-2383226adaa2" alt=""></p><p>NVIDIA AI Day Singapore 將於 9 月 22 日至 23 日在萊佛士城會議中心舉行，為與會者提供體驗實作培訓、專家主導場次以及先進工具的機會，以加速他們在 AI 與高效能運算方面的工作。在活動中，NVIDIA 與其合作夥伴正展示東南亞地區具突破性的 AI 進展 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>ChatGPT Ads 擴展至東南亞與台灣</title>
