@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 13 Oct 2026 05:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 05:25:41 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 登陸歐洲參加 GTC 柏林</title>
+      <link>https://blogs.nvidia.com/gtc-berlin-2026-news/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/gtc-berlin-2026-news/</guid>
+      <pubDate>Tue, 13 Oct 2026 05:13:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 在歐洲，與該地區的開發者、研究人員和產業領袖一起展示科技的未來。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20269/576359a162f64f9983d9b3de77530626/6acdbe983d633269055dc501_france-germany-european-commission-collaboration-social-1920x1080-5822338/france-germany-european-commission-collaboration-social-1920x1080-5822338_thmb.jpg?v=e3a43c90-678d-4e4d-b18a-856b0f5a0df1" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20269/576359a162f64f9983d9b3de77530626/6acdbe983d633269055dc501_france-germany-european-commission-collaboration-social-1920x1080-5822338/france-germany-european-commission-collaboration-social-1920x1080-5822338_thmb.jpg?v=e3a43c90-678d-4e4d-b18a-856b0f5a0df1"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20269/576359a162f64f9983d9b3de77530626/6acdbe983d633269055dc501_france-germany-european-commission-collaboration-social-1920x1080-5822338/france-germany-european-commission-collaboration-social-1920x1080-5822338_thmb.jpg?v=e3a43c90-678d-4e4d-b18a-856b0f5a0df1" alt=""></p><p>NVIDIA 在歐洲，與該地區的開發者、研究人員和產業領袖一起展示科技的未來。</p>]]></content:encoded>
+    </item>
     <item>
       <title>從地球到軌道，法國生態系以 NVIDIA 大規模提供代理式運算</title>
       <link>https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/</link>
@@ -1186,18 +1198,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>慶祝 OpenAI Academy 滿兩週年，並將 AI 技能帶給更多社群。</description>
-    </item>
-    <item>
-      <title>Sakeena Fiza 協助 NVIDIA 硬體在大規模部署下成功</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-sakeena-fiza/</guid>
-      <pubDate>Wed, 23 Sep 2026 15:00:32 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>當 Sakeena Fiza 描述她在 NVIDIA 擔任驗證工程師的工作時，她的說法更像是一則偵探故事，而不是世界級工程實驗室。Fiza 說：「驗證工程師會在陰影裡尋找，並把光照進每個角落。」「每當我們拿到一套系統時，我們第一個想法就是：要怎麼讓它可以 […]」</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/b56da2e8cbf20ce93789fe3691646f97/6ab3e99e3d6332cb4ccac053_Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450_thmb.jpg?v=7d4a21c0-4d4f-4b0a-a5db-ddba886821b7" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/b56da2e8cbf20ce93789fe3691646f97/6ab3e99e3d6332cb4ccac053_Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450_thmb.jpg?v=7d4a21c0-4d4f-4b0a-a5db-ddba886821b7"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/b56da2e8cbf20ce93789fe3691646f97/6ab3e99e3d6332cb4ccac053_Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450/Sakeena-Fiza_NVIDIA-Life_00-1-e1790122281141-842x450_thmb.jpg?v=7d4a21c0-4d4f-4b0a-a5db-ddba886821b7" alt=""></p><p>當 Sakeena Fiza 描述她在 NVIDIA 擔任驗證工程師的工作時，她的說法更像是一則偵探故事，而不是世界級工程實驗室。Fiza 說：「驗證工程師會在陰影裡尋找，並把光照進每個角落。」「每當我們拿到一套系統時，我們第一個想法就是：要怎麼讓它可以 […]」</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 將網路存取延伸至烏克蘭以供民防使用</title>
