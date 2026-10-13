@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 13 Oct 2026 17:16:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 17:32:00 GMT</lastBuildDate>
+    <item>
+      <title>Laplace Intelligence 在機器人和自駕車上路前先進行紅隊測試</title>
+      <link>https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166117</guid>
+      <pubDate>Tue, 13 Oct 2026 17:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>密西根大學衍生公司 Laplace Intelligence 使用 AI 智能體與互動式模擬，在部署前對機器人和自動駕駛車輛進行壓力測試。這家獲利的新創公司正在 TechCrunch Disrupt 的 Startup Battlefield 競賽中角逐。</description>
+    </item>
+    <item>
+      <title>Pluto Security 募得 4200 萬美元，因為 AI 讓企業資安團隊多了一個新頭痛問題</title>
+      <link>https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3176775</guid>
+      <pubDate>Tue, 13 Oct 2026 17:18:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Pluto Security 已從 Jump Capital、TLV Partners、Ansa Capital 以及天使投資人手中募得 4200 萬美元。</description>
+    </item>
     <item>
       <title>Google Play 全新功能上線：更多創作、探索和遊玩的方式</title>
       <link>https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/</link>
@@ -376,15 +394,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ud-blog_Header.max-600x600.format-webp.webp" alt=""></p><p>Google 與科學家和研究合作夥伴合作，協助讓疾病更容易被偵測、更容易治療，也更容易預防——目標是改善健康……</p>]]></content:encoded>
     </item>
     <item>
-      <title>WindBorne 贏得美國空軍一份金額可觀的合約，提供其氣球資料</title>
-      <link>https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3176669</guid>
-      <pubDate>Mon, 12 Oct 2026 17:19:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一家使用氣象氣球和 AI 來預測天氣的矽谷新創公司，贏得了一份價值將近 5,000 萬美元的美軍合約。</description>
-    </item>
-    <item>
       <title>介紹 Muse Wonder 與 Muse Wonder Full：用於代理人的前沿模型</title>
       <link>https://about.fb.com/news/2026/10/introducing-muse-wonder-models/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=50604</guid>
@@ -396,15 +405,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Researchers-Introducing-Muse-Wonder_thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Researchers-Introducing-Muse-Wonder_thumbnail.gif?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Researchers-Introducing-Muse-Wonder_thumbnail.gif?fit=890%2C501" alt=""></p><p>Meta 正在推出 Muse Wonder 和 Muse Wonder Full，這是我們截至目前最強大的模型，旨在個人與專業的代理式任務上提供最先進的效能。<br>這篇〈介紹 Muse Wonder 與 Muse Wonder Full：用於代理人的前沿模型〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Honeyjar 提供 AI 工具，協助每家公司改善公關與溝通</title>
-      <link>https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3175181</guid>
-      <pubDate>Mon, 12 Oct 2026 15:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 真的能讓公關變得更好嗎？</description>
     </item>
     <item>
       <title>OCP 全球高峰會：在生態系採用之際，NVIDIA 開放 Vera Rubin 架構，協助全球擴展 AI 工廠</title>
