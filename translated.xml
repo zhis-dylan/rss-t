@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 15:28:12 GMT</lastBuildDate>
+    <item>
+      <title>Deezer 即將讓你篩選掉 AI 生成的音樂</title>
+      <link>https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177470</guid>
+      <pubDate>Wed, 14 Oct 2026 15:16:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Deezer 表示，這個新的切換功能將在今年底前推出。</description>
+    </item>
+    <item>
+      <title>TechCrunch Disrupt 2026 門票享 5 折，並加入舊金山 Moscone West 最後兩天活動</title>
+      <link>https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177466</guid>
+      <pubDate>Wed, 14 Oct 2026 15:13:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>把握 TechCrunch Disrupt 2026 在舊金山 Moscone West 最後兩天活動的 5 折優惠，活動時間為 10 月 14 日至 25 日。立即報名，加入其他新創生態系的一員。今天的主題是實體 AI 和軟體 AI。</description>
+    </item>
     <item>
       <title>Zenzap 為其 AI 聊天應用募得 4,400 萬美元，目標是在職場取代 WhatsApp</title>
       <link>https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/</link>
@@ -310,24 +328,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Field 也曾參與 Apple 秘密的汽車專案，並監督 Tesla Model 3 的開發。</description>
-    </item>
-    <item>
-      <title>Flox Intelligence 正在打造 AI，讓野生動物遠離火車、機場和道路</title>
-      <link>https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173721</guid>
-      <pubDate>Tue, 13 Oct 2026 18:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Flox 的邊緣裝置可以辨識動物，並利用物種專屬的聲音將牠們驅離關鍵基礎設施。</description>
-    </item>
-    <item>
-      <title>Facebook 讓使用者對演算法有更多掌控權</title>
-      <link>https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177267</guid>
-      <pubDate>Tue, 13 Oct 2026 18:05:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Facebook 是最新一個讓使用者更能控制決定動態消息中顯示內容的演算法的社群媒體平台。Meta 週二宣布推出其新的 AI 驅動功能「Your Algorithm」，這項功能最早是在 Instagram 上推出。這個新工具讓 Facebook 使用者可以影響他們看到的內容，在 […]</description>
     </item>
     <item>
       <title>負責任且安全地開發 Gemini 4 Argon</title>
