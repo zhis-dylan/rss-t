@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:54:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 08:09:22 GMT</lastBuildDate>
+    <item>
+      <title>我們正透過先進 AI 運算與前沿模型，推動歐洲的科學發現。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/</guid>
+      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google DeepMind 和 Google Cloud 正提供最多 200 位歐洲頂尖科學研究人員直接使用我們的前沿模型，並提供 300 萬美元的運算…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp" alt=""></p><p>Google DeepMind 和 Google Cloud 正提供最多 200 位歐洲頂尖科學研究人員直接使用我們的前沿模型，並提供 300 萬美元的運算…</p>]]></content:encoded>
+    </item>
     <item>
       <title>打造以 AI 為優先的歐洲經濟</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/</link>
@@ -320,18 +332,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Gemini 4 Argon 建構複雜的軟體和資安工作流程。查看 Gemini API 開發指南，並閱讀 Google Antigravity 和 Android Studi…</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 4 Argon 現已登陸 Gemini 應用程式。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 4 Argon 為 Google Gemini 應用程式帶來前沿推理和代理式程式設計。Google AI Pro 和 Ultra 訂閱者現在可以存取 Gemini 4 Argon。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Argon 為 Google Gemini 應用程式帶來前沿推理和代理式程式設計。Google AI Pro 和 Ultra 訂閱者現在可以存取 Gemini 4 Argon。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini 4 Argon：為了解決你最棘手的問題而打造</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/</guid>
@@ -342,6 +342,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp" alt=""></p><p>我們正讓開發者、企業、科學家和消費者都能使用 Gemini 4 Argon，也就是我們最新的前沿模型。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 4 Argon 現已登陸 Gemini 應用程式。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 4 Argon 為 Google Gemini 應用程式帶來前沿推理和代理式程式設計。Google AI Pro 和 Ultra 訂閱者現在可以存取 Gemini 4 Argon。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Argon 為 Google Gemini 應用程式帶來前沿推理和代理式程式設計。Google AI Pro 和 Ultra 訂閱者現在可以存取 Gemini 4 Argon。</p>]]></content:encoded>
     </item>
     <item>
       <title>宣布 Edits 影展官方入選名單</title>
@@ -719,18 +731,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>LegalOn 在維持開發速度的同時，將估計每日 Codex 成本降低了 65%。它將 Astra、Sol 和 Luna 指派給任務，並策略性地管理預算。</description>
-    </item>
-    <item>
-      <title>Google 地圖揭曉橫跨 10 座城市的熱門美食趨勢與人氣餐廳</title>
-      <link>https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/google-maps-fan-favorite-dining-list/</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們分析了一整年的 Google 地圖資料，找出 10 個美食熱點中的熱門美食趨勢與人氣餐廳。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dining_Fan_Favorite_hero_v2.max-600x600.format-webp.webp" alt=""></p><p>我們分析了一整年的 Google 地圖資料，找出 10 個美食熱點中的熱門美食趨勢與人氣餐廳。</p>]]></content:encoded>
     </item>
     <item>
       <title>Meta 捐贈 1,000 副 AI 眼鏡給新加坡身心障礙社群</title>
