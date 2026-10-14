@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 14:27:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 14:42:37 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch Disrupt 2026：第 2 天</title>
+      <link>https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177501</guid>
+      <pubDate>Wed, 14 Oct 2026 14:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch Disrupt 2026 的第 2 天，涵蓋各種主題，包括 AI、僅限投資人參與的場次、更多圓桌討論，以及更多內容。立即報名，通行證可享 5 折優惠。</description>
+    </item>
     <item>
       <title>現在你可以邀請任何人加入 WhatsApp 通話</title>
       <link>https://about.fb.com/news/2026/10/introducing-whatsapp-guest-calling/</link>
@@ -343,15 +352,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp" alt=""></p><p>透過即將推出的 Google Play 升級，更快探索應用程式並下載；另外還有全新的 parked-to-drive 功能等更多內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>MIT 新創公司表示可將柴油卡車改裝成更便宜的氫氣運輸車；在 Disrupt 期間可一探究竟</title>
-      <link>https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173381</guid>
-      <pubDate>Tue, 13 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>柴油既昂貴又會污染環境，LNK Energies 表示已想出一種以氫氣取代柴油的方法，而且成本還能比柴油更低。</description>
     </item>
     <item>
       <title>你的演算法，你的話：塑造你在 Facebook 上所看到內容的新方式</title>
