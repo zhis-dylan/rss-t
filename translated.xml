@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:08:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 06:23:30 GMT</lastBuildDate>
+    <item>
+      <title>從企業到 Earthshot：英國生態系統隨 NVIDIA 由雄心邁向應用</title>
+      <link>https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</guid>
+      <pubDate>Wed, 14 Oct 2026 06:04:15 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在各行各業，英國正把完整技術堆疊投入實際運作——而部署規模正快速成長，從推動企業轉型，到協助新創解決一些最棘手的地球問題。NVIDIA 正把這項原則付諸實踐，包括透過一項為期五年、2.5 億美元的運算承諾，強化英國的 agentic 安全 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/1af23f952ae234850928e304df2a723d/6acf1b663d63323a5bda7ff4_uk-ecosystem-industries-842x450/uk-ecosystem-industries-842x450_thmb.jpg?v=6e353cb1-d85d-4289-b5bc-338799d77208" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/1af23f952ae234850928e304df2a723d/6acf1b663d63323a5bda7ff4_uk-ecosystem-industries-842x450/uk-ecosystem-industries-842x450_thmb.jpg?v=6e353cb1-d85d-4289-b5bc-338799d77208"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/1af23f952ae234850928e304df2a723d/6acf1b663d63323a5bda7ff4_uk-ecosystem-industries-842x450/uk-ecosystem-industries-842x450_thmb.jpg?v=6e353cb1-d85d-4289-b5bc-338799d77208" alt=""></p><p>在各行各業，英國正把完整技術堆疊投入實際運作——而部署規模正快速成長，從推動企業轉型，到協助新創解決一些最棘手的地球問題。NVIDIA 正把這項原則付諸實踐，包括透過一項為期五年、2.5 億美元的運算承諾，強化英國的 agentic 安全 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>NVIDIA 承諾投入 2.5 億美元，在未來五年推動英國代理式安全與資安研究</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years</link>
@@ -1146,18 +1158,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們針對前沿 AI 訓練中安全案例的早期指引，涵蓋技術防護、營運實務，以及調查對齊失準事件</description>
-    </item>
-    <item>
-      <title>NVIDIA 宣布將股票回購授權額度增加 1,500 億美元</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-a-150-billion-share-repurchase-authorization-increase</guid>
-      <pubDate>Mon, 28 Sep 2026 11:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今天宣布，其董事會已在公司既有的股票回購計畫下，額外授權 1,500 億美元，使核准的剩餘總額提高至 2,350 億美元。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA 今天宣布，其董事會已在公司既有的股票回購計畫下，額外授權 1,500 億美元，使核准的剩餘總額提高至 2,350 億美元。</p>]]></content:encoded>
     </item>
     <item>
       <title>Lenfest Institute 擴大具里程碑意義的計畫，獲得 OpenAI 加碼支持</title>
