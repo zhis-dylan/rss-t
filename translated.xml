@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:45:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:00:49 GMT</lastBuildDate>
+    <item>
+      <title>TimeTeller 將我們的生理時鐘置於個人化醫療的核心</title>
+      <link>https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3172669</guid>
+      <pubDate>Wed, 14 Oct 2026 20:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>德國新創公司 TimeTeller 開發了一款唾液檢測套組，幫助任何人了解自己的晝夜節律；其目標是降低癌症治療帶來的副作用。</description>
+    </item>
+    <item>
+      <title>Ambrosia Energy 將在德州興建一座 10 GWh 工廠，為離網資料中心製造電池</title>
+      <link>https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177253</guid>
+      <pubDate>Wed, 14 Oct 2026 19:51:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新創公司 Ambrosia Energy 將興建一座大型工廠，量產電池以補充太陽能板，打造可全天候運作的潔淨電力廠。</description>
+    </item>
     <item>
       <title>Hiyd 是一款可安裝在你原本就戴著的手錶上的健康追蹤器</title>
       <link>https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/</link>
@@ -370,24 +388,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Cerebras 執行長 Andrew Feldman 要對那些散播世界末日警告的 AI 領袖說：也許該停止發言？在 TechCrunch Disrupt 上，他主張，產業對 AI 風險的關注，正淹沒它的潛在好處。</description>
-    </item>
-    <item>
-      <title>Helix Carbon 表示可透過回收高爐污染來降低鐵的成本</title>
-      <link>https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173359</guid>
-      <pubDate>Tue, 13 Oct 2026 21:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>鋼鐵業是主要污染源之一，但 Helix Carbon 可以將高爐排放的污染升級再利用，以降低排放並提升利潤率。</description>
-    </item>
-    <item>
-      <title>FBI 逮捕被指控在會議室放置隱藏錄音設備的 OpenAI 員工</title>
-      <link>https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177377</guid>
-      <pubDate>Tue, 13 Oct 2026 20:59:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>FBI 逮捕了一名在 OpenAI 產品團隊任職的沙烏地阿拉伯籍人士。這家 AI 公司指控該員工在一間高階主管會議室裡藏了一個錄音設備。</description>
     </item>
     <item>
       <title>負責任且安全地開發 Gemini 4 Argon</title>
