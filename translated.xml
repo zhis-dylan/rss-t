@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 21:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:31:41 GMT</lastBuildDate>
+    <item>
+      <title>Flock 執行長表示其麥克風「只偵測槍聲」；其網站說法不同</title>
+      <link>https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177812</guid>
+      <pubDate>Wed, 14 Oct 2026 21:30:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>朗利的評論出現在 Flock 受到越來越多關注之際，隱私倡議者，包括美國公民自由聯盟（ACLU），以及對其技術遭濫用感到擔憂的民眾，都對此提出質疑。</description>
+    </item>
     <item>
       <title>Colossal Biosciences 宣布新的 AI 平台，協助加速復育滅絕物種的努力</title>
       <link>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</link>
@@ -379,15 +388,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的分析顯示，代理式 AI 的採用正在歐盟企業與中小企業中成長——以及更深入的使用能在何處釋放更多價值。</description>
-    </item>
-    <item>
-      <title>Science Corporation 將其恢復視力晶片植入首位 Stargardt 疾病患者體內</title>
-      <link>https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177396</guid>
-      <pubDate>Tue, 13 Oct 2026 23:13:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>前 Neuralink 總裁兼共同創辦人 Max Hodak 在 TechCrunch Disrupt 舞台上詳細說明，他公司的 PRIMA 工作是其邁向新型腦機介面（BCI）之路的一部分。</description>
     </item>
     <item>
       <title>負責任且安全地開發 Gemini 4 Argon</title>
