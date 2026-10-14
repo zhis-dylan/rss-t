@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 19:00:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:15:26 GMT</lastBuildDate>
+    <item>
+      <title>Hiyd 是一款可安裝在你原本就戴著的手錶上的健康追蹤器</title>
+      <link>https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170944</guid>
+      <pubDate>Wed, 14 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>前 Apple 工程師找出了如何在不使用任何磁鐵或黏著劑的情況下，讓生物辨識感測器固定到你的手錶上。</description>
+    </item>
     <item>
       <title>YouTube Music 推出新標籤，因 AI 生成音樂湧入串流平台</title>
       <link>https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/</link>
@@ -379,15 +388,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>FBI 逮捕了一名在 OpenAI 產品團隊任職的沙烏地阿拉伯籍人士。這家 AI 公司指控該員工在一間高階主管會議室裡藏了一個錄音設備。</description>
-    </item>
-    <item>
-      <title>法官命令 OpenAI 在 Apple 營業秘密案件中交出招募紀錄</title>
-      <link>https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177352</guid>
-      <pubDate>Tue, 13 Oct 2026 20:36:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一名聯邦法官裁定，Apple 可以取得 OpenAI 與前 Apple 員工相關的面試資料，以及私訊和本案關鍵人物的證詞。</description>
     </item>
     <item>
       <title>負責任且安全地開發 Gemini 4 Argon</title>
