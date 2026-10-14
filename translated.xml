@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 22:47:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 23:02:28 GMT</lastBuildDate>
+    <item>
+      <title>Intero Biosystems 希望藥廠改用迷你人類腸道來做測試，而不是動物</title>
+      <link>https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170999</guid>
+      <pubDate>Wed, 14 Oct 2026 23:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著監管機構推動動物實驗替代方案，Intero Biosystems 正在向藥廠販售實驗室培養的人類腸道，同時這家新創公司也在尋求擴大生產規模並拓展其類器官技術。</description>
+    </item>
     <item>
       <title>CedarDB 想要用一個資料庫同時處理交易與分析，隨著 AI 代理人讓利害關係升高</title>
       <link>https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/</link>
@@ -236,15 +245,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Now-You-Can-Invite-Anyone-to-a-WhatsApp-Call_Header.jpg?fit=1920%2C1080" alt=""></p><p>你現在可以邀請任何人加入 WhatsApp 通話，即使他們沒有 WhatsApp 帳號，也能與對方聯繫，不必擔心他們使用哪個應用程式。<br>〈現在你可以邀請任何人加入 WhatsApp 通話〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>NTangible 賭它能預測運動員在壓力下的表現</title>
-      <link>https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3169962</guid>
-      <pubDate>Wed, 14 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>NTangible 正在打造一個分析平台，供大學體育組織和其他俱樂部衡量運動員的「關鍵時刻表現」因素。</description>
-    </item>
-    <item>
       <title>Amp 運用 OpenAI 模型，讓 AI 代理不只寫程式也能派上用場</title>
       <link>https://openai.com/index/amp-beyond-coding</link>
       <guid isPermaLink="false">https://openai.com/index/amp-beyond-coding</guid>
@@ -331,6 +331,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>透過用於資安的 GPT-6 Astra、GPT-6.1 Sol、Codex 和 Daybreak，這間 AI 實驗室打造出能專注數天並在使用中持續進步的代理程式。</description>
+    </item>
+    <item>
+      <title>Block 如何運用 OpenAI 技術打造 AI 驅動的資安防護</title>
+      <link>https://openai.com/index/block-ai-powered-security</link>
+      <guid isPermaLink="false">https://openai.com/index/block-ai-powered-security</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Block 正在與 OpenAI 合作打造 AI 驅動的資安防護。其資安團隊能更快調查威脅，並在幾分鐘內提出修補建議。</description>
     </item>
     <item>
       <title>打造以 AI 為優先的歐洲經濟</title>
@@ -1299,13 +1308,13 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
@@ -1317,13 +1326,13 @@
       <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1933,15 +1942,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Gilbert + Tobin 如何結合 CEO 主導的承諾、嚴謹的治理，以及人類問責機制，在整個事務所擴展 ChatGPT Enterprise 和 Codex。</description>
-    </item>
-    <item>
-      <title>OpenAI 支持加州推動青少年 AI 安全的法案</title>
-      <link>https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</link>
-      <guid isPermaLink="false">https://openai.com/index/supporting-california-bill-advance-ai-youth-safety</guid>
-      <pubDate>Mon, 31 Aug 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 支持加州 SB 1119，推動強而有力、符合年齡的 AI 安全防護，保護青少年，同時保留學習、創作與探索的機會。</description>
     </item>
     <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
