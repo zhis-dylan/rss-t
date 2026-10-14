@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 16:43:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 16:59:07 GMT</lastBuildDate>
     <item>
       <title>Research@ 2026：新穎功能與智慧</title>
       <link>https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/</link>
@@ -126,6 +126,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>NTangible 正在打造一個分析平台，供大學體育組織和其他俱樂部衡量運動員的「關鍵時刻表現」因素。</description>
+    </item>
+    <item>
+      <title>Amp 運用 OpenAI 模型，讓 AI 代理不只寫程式也能派上用場</title>
+      <link>https://openai.com/index/amp-beyond-coding</link>
+      <guid isPermaLink="false">https://openai.com/index/amp-beyond-coding</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>看看 Amp 如何運用 GPT-6 Astra、Ultrafast、GPT-Live-1，以及「使用 ChatGPT 登入」來推動代理能力的前沿。</description>
     </item>
     <item>
       <title>來看看今年最熱門的萬聖節趨勢。</title>
@@ -1272,15 +1281,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
-    </item>
-    <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
       <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
       <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
@@ -1288,6 +1288,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
@@ -1661,15 +1670,6 @@
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>Agents API 介紹</title>
-      <link>https://openai.com/index/introducing-the-agents-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
-    </item>
-    <item>
       <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
       <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
@@ -1677,6 +1677,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
+    </item>
+    <item>
+      <title>Agents API 介紹</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
     </item>
     <item>
       <title>Apple 發表 iPhone Duo</title>
@@ -1933,15 +1942,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Polimill 使用 OpenAI GPT 模型和 Codex，協助市政府搜尋和運用行政知識，同時加速開發。</description>
-    </item>
-    <item>
-      <title>擴大 AI 存取的一個里程碑</title>
-      <link>https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</link>
-      <guid isPermaLink="false">https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads</guid>
-      <pubDate>Mon, 31 Aug 2026 04:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>ChatGPT Ads 年化營收運行率達到 10 億美元，並擴展至全球，透過免費與平價選項支持更廣泛的 AI 存取。</description>
     </item>
     <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
