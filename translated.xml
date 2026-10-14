@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 06:53:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 07:08:53 GMT</lastBuildDate>
+    <item>
+      <title>打造以 AI 為優先的歐洲經濟</title>
+      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>宣布 Google 的《歐洲經濟影響報告》</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp" alt=""></p><p>宣布 Google 的《歐洲經濟影響報告》</p>]]></content:encoded>
+    </item>
     <item>
       <title>從企業到 Earthshot：英國生態系統隨 NVIDIA 由雄心邁向應用</title>
       <link>https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</link>
@@ -208,18 +220,6 @@
       <description>Pluto Security 已從 Jump Capital、TLV Partners、Ansa Capital 以及天使投資人手中募得 4200 萬美元。</description>
     </item>
     <item>
-      <title>Google Play 全新功能上線：更多創作、探索和遊玩的方式</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/</guid>
-      <pubDate>Tue, 13 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>來看看 Google Play 的所有新功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp" alt=""></p><p>來看看 Google Play 的所有新功能。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>搭載 Google built-in 的車輛即將迎來全新應用程式體驗</title>
       <link>https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/</guid>
@@ -230,6 +230,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp" alt=""></p><p>透過即將推出的 Google Play 升級，更快探索應用程式並下載；另外還有全新的 parked-to-drive 功能等更多內容。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Play 全新功能上線：更多創作、探索和遊玩的方式</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/google-play-updates-october-2026/</guid>
+      <pubDate>Tue, 13 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>來看看 Google Play 的所有新功能。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp" alt=""></p><p>來看看 Google Play 的所有新功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>MIT 新創公司表示可將柴油卡車改裝成更便宜的氫氣運輸車；在 Disrupt 期間可一探究竟</title>
@@ -272,30 +284,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Your-Algorithm_Your-Words_New-Ways-to-Shape-What-You-See-on-Facebook_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出新的 AI 驅動工具，透過讓你用自己的話告訴我們你感興趣的內容，幫助你塑造在動態消息和 Reels 中看到的內容。<br>這篇〈你的演算法，你的話：塑造你在 Facebook 上所看到內容的新方式〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 4 Argon 現已登陸 Gemini 應用程式。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 4 Argon 為 Google Gemini 應用程式帶來前沿推理和代理式程式設計。Google AI Pro 和 Ultra 訂閱者現在可以存取 Gemini 4 Argon。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Argon 為 Google Gemini 應用程式帶來前沿推理和代理式程式設計。Google AI Pro 和 Ultra 訂閱者現在可以存取 Gemini 4 Argon。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini 4 Argon 現已開放給開發者使用。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google Gemini 4 Argon 建構複雜的軟體和資安工作流程。查看 Gemini API 開發指南，並閱讀 Google Antigravity 和 Android Studi…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Gemini 4 Argon 建構複雜的軟體和資安工作流程。查看 Gemini API 開發指南，並閱讀 Google Antigravity 和 Android Studi…</p>]]></content:encoded>
-    </item>
-    <item>
       <title>透過 10 月的 Demand Gen 更新強化你的數據能力。</title>
       <link>https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/</link>
       <guid isPermaLink="false">https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/</guid>
@@ -318,6 +306,30 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp" alt=""></p><p>Monroe-Gregg 學區和 Morgan County 公共圖書館將受惠於 Google 在印第安納州 1,000 萬美元的潔淨能源投資。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 4 Argon 現已開放給開發者使用。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Google Gemini 4 Argon 建構複雜的軟體和資安工作流程。查看 Gemini API 開發指南，並閱讀 Google Antigravity 和 Android Studi…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_neutra.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Gemini 4 Argon 建構複雜的軟體和資安工作流程。查看 Gemini API 開發指南，並閱讀 Google Antigravity 和 Android Studi…</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 4 Argon 現已登陸 Gemini 應用程式。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 4 Argon 為 Google Gemini 應用程式帶來前沿推理和代理式程式設計。Google AI Pro 和 Ultra 訂閱者現在可以存取 Gemini 4 Argon。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ArgonDemos_social2.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Argon 為 Google Gemini 應用程式帶來前沿推理和代理式程式設計。Google AI Pro 和 Ultra 訂閱者現在可以存取 Gemini 4 Argon。</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini 4 Argon：為了解決你最棘手的問題而打造</title>
@@ -707,18 +719,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>LegalOn 在維持開發速度的同時，將估計每日 Codex 成本降低了 65%。它將 Astra、Sol 和 Luna 指派給任務，並策略性地管理預算。</description>
-    </item>
-    <item>
-      <title>Google 地圖協助你導航下一場美食探險的 3 種方式。</title>
-      <link>https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/google-maps-restaurant-tips-tricks/</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>善用這些內建的 Google 地圖功能，全年引導你的美食之旅。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Google_Maps_Tools_social.max-600x600.format-webp.webp" alt=""></p><p>善用這些內建的 Google 地圖功能，全年引導你的美食之旅。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google 地圖揭曉橫跨 10 座城市的熱門美食趨勢與人氣餐廳</title>
