@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 20:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:31:09 GMT</lastBuildDate>
+    <item>
+      <title>Flock 執行長：我們沒有把任何警察局客戶「解約」掉</title>
+      <link>https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177811</guid>
+      <pubDate>Wed, 14 Oct 2026 20:26:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Flock 執行長 Garrett Langley 表示，儘管有濫用的報導，這家監控公司並未取消任何警察局或執法機關的合約。</description>
+    </item>
     <item>
       <title>美國電動車銷量出現回升跡象</title>
       <link>https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/</link>
@@ -379,15 +388,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Cerebras 執行長 Andrew Feldman 預測，個人 AI 助理將變得和家電一樣普遍，部分在本地裝置上執行，部分在雲端執行。</description>
-    </item>
-    <item>
-      <title>Industrial Next 希望工廠機器人能在幾分鐘內切換工作，而不是幾週</title>
-      <link>https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173266</guid>
-      <pubDate>Tue, 13 Oct 2026 23:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Industrial Next 協助製造商自動化傳統上需要人力完成的複雜、精細工作。</description>
     </item>
     <item>
       <title>負責任且安全地開發 Gemini 4 Argon</title>
