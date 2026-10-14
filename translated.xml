@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 16:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 17:14:16 GMT</lastBuildDate>
+    <item>
+      <title>Mosqitter 正在把它的捕蚊器變成由 AI 驅動的監控網路</title>
+      <link>https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3170172</guid>
+      <pubDate>Wed, 14 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Mosqitter 正在把其捕捉蚊子的硬體轉變成一個由 AI 驅動的監控網路，旨在辨識物種、監測族群數量，並更早提供蚊媒疾病風險警示。</description>
+    </item>
     <item>
       <title>Research@ 2026：新穎功能與智慧</title>
       <link>https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/</link>
@@ -361,15 +370,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>核融合電廠將需要大量鋰，而 Licube 正在準備成為關鍵供應商。</description>
-    </item>
-    <item>
-      <title>Niobia 消除科技業一些最昂貴錯誤的猜測</title>
-      <link>https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3174009</guid>
-      <pubDate>Tue, 13 Oct 2026 19:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家舊金山新創公司旨在協助電池和晶片製造商在生產線上找出瑕疵，減少停機時間和昂貴的錯誤。</description>
     </item>
     <item>
       <title>負責任且安全地開發 Gemini 4 Argon</title>
