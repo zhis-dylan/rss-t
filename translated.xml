@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 20:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:16:00 GMT</lastBuildDate>
+    <item>
+      <title>美國電動車銷量出現回升跡象</title>
+      <link>https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177802</guid>
+      <pubDate>Wed, 14 Oct 2026 20:12:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國電動車市場在過去連續三個季度持續成長。</description>
+    </item>
     <item>
       <title>TimeTeller 將我們的生理時鐘置於個人化醫療的核心</title>
       <link>https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/</link>
@@ -379,15 +388,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Industrial Next 協助製造商自動化傳統上需要人力完成的複雜、精細工作。</description>
-    </item>
-    <item>
-      <title>Cerebras 執行長反擊 AI 世界末日警告</title>
-      <link>https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177406</guid>
-      <pubDate>Tue, 13 Oct 2026 22:36:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cerebras 執行長 Andrew Feldman 要對那些散播世界末日警告的 AI 領袖說：也許該停止發言？在 TechCrunch Disrupt 上，他主張，產業對 AI 風險的關注，正淹沒它的潛在好處。</description>
     </item>
     <item>
       <title>負責任且安全地開發 Gemini 4 Argon</title>
