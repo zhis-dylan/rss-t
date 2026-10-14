@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 14 Oct 2026 20:46:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 21:01:25 GMT</lastBuildDate>
+    <item>
+      <title>Colossal Biosciences 宣布新的 AI 平台，協助加速復育滅絕物種的努力</title>
+      <link>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177766</guid>
+      <pubDate>Wed, 14 Oct 2026 21:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Colossal 宣布推出新的 AI 平台，協助加速其復育滅絕物種的努力，而 Peter Diamandis 也成立了一支新基金來支持使用該平台的新創公司。</description>
+    </item>
     <item>
       <title>Flock 執行長：我們沒有把任何警察局客戶「解約」掉</title>
       <link>https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/</link>
@@ -379,15 +388,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>前 Neuralink 總裁兼共同創辦人 Max Hodak 在 TechCrunch Disrupt 舞台上詳細說明，他公司的 PRIMA 工作是其邁向新型腦機介面（BCI）之路的一部分。</description>
-    </item>
-    <item>
-      <title>Cerebras 執行長表示，我們正接近一個每個人家中都有個人 AI 助理的未來</title>
-      <link>https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177414</guid>
-      <pubDate>Tue, 13 Oct 2026 23:05:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Cerebras 執行長 Andrew Feldman 預測，個人 AI 助理將變得和家電一樣普遍，部分在本地裝置上執行，部分在雲端執行。</description>
     </item>
     <item>
       <title>負責任且安全地開發 Gemini 4 Argon</title>
