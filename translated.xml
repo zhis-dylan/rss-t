@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:57:26 GMT</lastBuildDate>
     <item>
       <title>Volvo 對 Nvidia 下了更大的賭注</title>
       <link>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/</link>
@@ -23,9 +23,21 @@
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>Volvo Cars 今日宣布，將擴大與 NVIDIA 的合作夥伴關係，為 Volvo 未來車款的自動駕駛技術解鎖更高層級的安全性，並建立在雙方長達十年的合作基礎上。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" alt=""></p><p>Volvo Cars 今日宣布，將擴大與 NVIDIA 的合作夥伴關係，為 Volvo 未來車款的自動駕駛技術解鎖更高層級的安全性，並建立在雙方長達十年的合作基礎上。</p>]]></content:encoded>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20269/e517972ce6ea647b2c088652f4a6c47c/6ad111e43d63320c839b1aba_JHH-Volvo-1600x900/JHH-Volvo-1600x900_thmb.jpg?v=8bb5a42f-7901-4d4b-b581-3e273067984b" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20269/e517972ce6ea647b2c088652f4a6c47c/6ad111e43d63320c839b1aba_JHH-Volvo-1600x900/JHH-Volvo-1600x900_thmb.jpg?v=8bb5a42f-7901-4d4b-b581-3e273067984b"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20269/e517972ce6ea647b2c088652f4a6c47c/6ad111e43d63320c839b1aba_JHH-Volvo-1600x900/JHH-Volvo-1600x900_thmb.jpg?v=8bb5a42f-7901-4d4b-b581-3e273067984b" alt=""></p><p>Volvo Cars 今日宣布，將擴大與 NVIDIA 的合作夥伴關係，為 Volvo 未來車款的自動駕駛技術解鎖更高層級的安全性，並建立在雙方長達十年的合作基礎上。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>使用 Circle to Search 檢查簡訊是否為詐騙訊息。</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/</guid>
+      <pubDate>Thu, 15 Oct 2026 17:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Google Circle to Search 分析可疑簡訊是否為詐騙。長按主畫面按鈕即可取得訊息的 AI 洞察。看看它如何運作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Circle to Search 分析可疑簡訊是否為詐騙。長按主畫面按鈕即可取得訊息的 AI 洞察。看看它如何運作。</p>]]></content:encoded>
     </item>
     <item>
       <title>一起見證開端：慶祝 NVIDIA RTX Spark 發表</title>
@@ -505,18 +517,6 @@
       <description>透過 OpenAI Daybreak，SentinelOne 將惡意軟體分析所需的數週時間縮短到數小時，騰出更多能力來調查更多威脅。</description>
     </item>
     <item>
-      <title>來看看今年最熱門的萬聖節趨勢。</title>
-      <link>https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>不管你準備好了沒，恐怖季節已經來了。為了幫助你做好準備，我們推出 Google Frightgeist，這是我們每年推出的互動網站，會重點介紹最熱門的搜尋趨勢，涵蓋 H…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp" alt=""></p><p>不管你準備好了沒，恐怖季節已經來了。為了幫助你做好準備，我們推出 Google Frightgeist，這是我們每年推出的互動網站，會重點介紹最熱門的搜尋趨勢，涵蓋 H…</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用搜尋完成屬於你的萬聖節終極 6 種方式</title>
       <link>https://blog.google/products-and-platforms/products/search/halloween-tips-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/halloween-tips-2026/</guid>
@@ -527,6 +527,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Frightgeist_BlogHero_2.max-600x600.format-webp.webp" alt=""></p><p>不論你需要臨時準備一套服裝，還是想找一份恐怖電影片單，都讓 Google 來幫你處理萬聖節準備工作中最費力的部分。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>來看看今年最熱門的萬聖節趨勢。</title>
+      <link>https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/frightgeist-halloween-trends-2026/</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>不管你準備好了沒，恐怖季節已經來了。為了幫助你做好準備，我們推出 Google Frightgeist，這是我們每年推出的互動網站，會重點介紹最熱門的搜尋趨勢，涵蓋 H…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HalloweenTrends2026_social.max-600x600.format-webp.webp" alt=""></p><p>不管你準備好了沒，恐怖季節已經來了。為了幫助你做好準備，我們推出 Google Frightgeist，這是我們每年推出的互動網站，會重點介紹最熱門的搜尋趨勢，涵蓋 H…</p>]]></content:encoded>
     </item>
     <item>
       <title>Farah Khan 於 Edits 影展：「內容突破來自自發性、共鳴感與真實感」</title>
@@ -700,18 +712,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Indiana_social.max-600x600.format-webp.webp" alt=""></p><p>Monroe-Gregg 學區和 Morgan County 公共圖書館將受惠於 Google 在印第安納州 1,000 萬美元的潔淨能源投資。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 10 月的 Demand Gen 更新強化你的數據能力。</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/demand-gen-drop-october-2026/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 YouTube 10 月的 Demand Gen 更新，提升你的衡量與投資報酬率。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_October_2026.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_October_2026.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_October_2026.max-600x600.format-webp.webp" alt=""></p><p>透過 YouTube 10 月的 Demand Gen 更新，提升你的衡量與投資報酬率。</p>]]></content:encoded>
     </item>
     <item>
       <title>宣布 Edits 影展官方入選名單</title>
