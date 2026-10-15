@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 20:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:59:10 GMT</lastBuildDate>
     <item>
       <title>Amazon 裝置部門主管 Panos Panay 談失敗的重要性，以及如何從失敗中東山再起</title>
       <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/</link>
@@ -221,9 +221,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>在國際維修日這天，我們要分享我們如何以長久耐用為目標設計裝置，讓維修與重複使用更容易取得，以及更多相關作法。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Banner_IRD_width-2200_fo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Banner_IRD_width-2200_fo.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Banner_IRD_width-2200_fo.max-600x600.format-webp.webp" alt=""></p><p>在國際維修日這天，我們要分享我們如何以長久耐用為目標設計裝置，讓維修與重複使用更容易取得，以及更多相關作法。</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp" alt=""></p><p>在國際維修日這天，我們要分享我們如何以長久耐用為目標設計裝置，讓維修與重複使用更容易取得，以及更多相關作法。</p>]]></content:encoded>
     </item>
     <item>
       <title>Ramp 估值達 600 億美元，持續深入 AI 領域</title>
