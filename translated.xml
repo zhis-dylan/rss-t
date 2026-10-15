@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 05:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:20:22 GMT</lastBuildDate>
+    <item>
+      <title>北歐國家與 NVIDIA 展現當一個區域致力於先進運算時，能做到什麼</title>
+      <link>https://blogs.nvidia.com/blog/nordics-technology-ecosystem/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nordics-technology-ecosystem/</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:12 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>北歐國家已成為歐洲獨角獸新創密度最高的地區，平均每人產出價值 10 億美元或以上的新興公司數量在歐洲居冠。如今，隨著各國競相打造歐洲最具影響力的科技生態系之一，這個地區正迎來新篇章。許多已在進行中的運算進展 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/d11dc853704dbe0c7dafb78271a1f720/6ad05e303d633281a2481569_nordics-embrace-social-1920x1080-5822300-842x450/nordics-embrace-social-1920x1080-5822300-842x450_thmb.jpg?v=d81f8fb1-1e93-4113-a222-f03f5d62f3d3" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d11dc853704dbe0c7dafb78271a1f720/6ad05e303d633281a2481569_nordics-embrace-social-1920x1080-5822300-842x450/nordics-embrace-social-1920x1080-5822300-842x450_thmb.jpg?v=d81f8fb1-1e93-4113-a222-f03f5d62f3d3"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d11dc853704dbe0c7dafb78271a1f720/6ad05e303d633281a2481569_nordics-embrace-social-1920x1080-5822300-842x450/nordics-embrace-social-1920x1080-5822300-842x450_thmb.jpg?v=d81f8fb1-1e93-4113-a222-f03f5d62f3d3" alt=""></p><p>北歐國家已成為歐洲獨角獸新創密度最高的地區，平均每人產出價值 10 億美元或以上的新興公司數量在歐洲居冠。如今，隨著各國競相打造歐洲最具影響力的科技生態系之一，這個地區正迎來新篇章。許多已在進行中的運算進展 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Figma 發表新功能，定義代理程式如何在其平台上運作</title>
       <link>https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/</link>
@@ -1100,18 +1112,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>在開設新據點之際，這家社交俱樂部將補助申請從 3 天縮短到 2 小時，酒類執照文件也從 4 天縮短到 3 小時。</description>
-    </item>
-    <item>
-      <title>NVIDIA 開放 2027–2028 年研究生獎學金申請，獎助金最高可達 60,000 美元</title>
-      <link>https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/applications-open-graduate-fellowship-awards-2026/</guid>
-      <pubDate>Wed, 30 Sep 2026 17:00:21 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>匯聚全球最聰明的頭腦與最新的加速運算技術，能帶來強大的突破，協助解決一些最重大的研究問題。為了促進這類創新，NVIDIA 研究生獎學金計畫會提供獎助金、導師指導，以及技術支援給那些進行與 NVIDIA 技術相關傑出研究的博士生。這項計畫目前已邁入第 26 屆［…］</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202609/ee1928d508ca963c894784a02b6113fd/6abd40523d633214cb8a7db4_graduate-fellowship-2026-updated-842x450/graduate-fellowship-2026-updated-842x450_thmb.jpg?v=d8ac71cd-fe6d-4082-8263-cb768ed942f1" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202609/ee1928d508ca963c894784a02b6113fd/6abd40523d633214cb8a7db4_graduate-fellowship-2026-updated-842x450/graduate-fellowship-2026-updated-842x450_thmb.jpg?v=d8ac71cd-fe6d-4082-8263-cb768ed942f1"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202609/ee1928d508ca963c894784a02b6113fd/6abd40523d633214cb8a7db4_graduate-fellowship-2026-updated-842x450/graduate-fellowship-2026-updated-842x450_thmb.jpg?v=d8ac71cd-fe6d-4082-8263-cb768ed942f1" alt=""></p><p>匯聚全球最聰明的頭腦與最新的加速運算技術，能帶來強大的突破，協助解決一些最重大的研究問題。為了促進這類創新，NVIDIA 研究生獎學金計畫會提供獎助金、導師指導，以及技術支援給那些進行與 NVIDIA 技術相關傑出研究的博士生。這項計畫目前已邁入第 26 屆［…］</p>]]></content:encoded>
     </item>
     <item>
       <title>阻止一場協同模型蒸餾行動</title>
