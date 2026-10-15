@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 13:54:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 14:09:35 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch Disrupt 2026：最後一天</title>
+      <link>https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178027</guid>
+      <pubDate>Thu, 15 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>加入 TechCrunch Disrupt 2026 的最後一天。和 10,000 多位科技領袖一起度過充滿交流與洞見的一天。現在購票可省下 75%。</description>
+    </item>
     <item>
       <title>將雲端轉到最大：NVIDIA DLSS 4.5 控制選項登陸 GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-enshrouded-update/</link>
@@ -17,6 +26,15 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/677e6e6ccaa38ca91f968724d2a6579b/6ad0ce993d6332cc8ac0808c_GFN_Thursday_October_15_2026-842x450/GFN_Thursday_October_15_2026-842x450_thmb.jpg?v=edf71b41-f2fb-482c-a0cb-b89b1b58e5b2" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/677e6e6ccaa38ca91f968724d2a6579b/6ad0ce993d6332cc8ac0808c_GFN_Thursday_October_15_2026-842x450/GFN_Thursday_October_15_2026-842x450_thmb.jpg?v=edf71b41-f2fb-482c-a0cb-b89b1b58e5b2"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/677e6e6ccaa38ca91f968724d2a6579b/6ad0ce993d6332cc8ac0808c_GFN_Thursday_October_15_2026-842x450/GFN_Thursday_October_15_2026-842x450_thmb.jpg?v=edf71b41-f2fb-482c-a0cb-b89b1b58e5b2" alt=""></p><p>在這個 GFN Thursday，調整你的下一場遊戲體驗。全新的 NVIDIA DLSS 4.5 控制項讓 GeForce NOW 會員能更自由決定支援遊戲在雲端中的畫面呈現與效能表現，即使沒有最新硬體也一樣。接著，化身為 Shroud，Keen Games 的 Enshrouded 以 1.0 正式版脫離搶先體驗，或者讓螺栓 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>透過提問教學生思考與學習</title>
+      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+      <guid isPermaLink="false">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>以巴西葡萄牙語版的 AI for Educators 慶祝教師節，並了解 Study Mode 如何協助教師支持主動、循序漸進的學習。</description>
     </item>
     <item>
       <title>一個智慧型的新購物車</title>
@@ -279,15 +297,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Bünyamin Aydın 將土耳其傳統、搖滾元素與未來主義融合，打造出一場在卡帕多奇亞登場、並以 iPhone 18 Pro Max 拍攝的里程碑時裝秀。</description>
-    </item>
-    <item>
-      <title>Mosqitter 正在把它的捕蚊器變成由 AI 驅動的監控網路</title>
-      <link>https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3170172</guid>
-      <pubDate>Wed, 14 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Mosqitter 正在把其捕捉蚊子的硬體轉變成一個由 AI 驅動的監控網路，旨在辨識物種、監測族群數量，並更早提供蚊媒疾病風險警示。</description>
     </item>
     <item>
       <title>Research@ 2026：新穎功能與智慧</title>
@@ -1253,15 +1262,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
-      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
-    </item>
-    <item>
       <title>你是 Codex Original 嗎？</title>
       <link>https://openai.com/form/codex-originals</link>
       <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
@@ -1269,6 +1269,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
+    </item>
+    <item>
+      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
+      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1338,13 +1347,13 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
@@ -1356,13 +1365,13 @@
       <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1871,15 +1880,6 @@
       <description>OpenAI 推出 Daybreak for Frontline Defenders。這筆 10 億美元的承諾將擴大前沿網路安全 AI、訓練與支援的取得，協助關鍵服務。</description>
     </item>
     <item>
-      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
-      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
       <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
       <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
@@ -1887,6 +1887,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
+    </item>
+    <item>
+      <title>Playco 使用 GPT-6 Astra 進行遊戲原型設計，將人工修正減少 50%</title>
+      <link>https://openai.com/index/playco-game-prototyping-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/playco-game-prototyping-with-astra</guid>
+      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
     </item>
     <item>
       <title>GPT-6 Astra：新一代智慧</title>
@@ -1954,15 +1963,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT 現在可以連接到可信的醫療保健資料，幫助臨床人員安全地存取病患背景資訊、醫學研究等內容。</description>
-    </item>
-    <item>
-      <title>律師事務所 Gilbert + Tobin 如何透過 OpenAI 管理並擴展 AI</title>
-      <link>https://openai.com/index/gilbert-tobin</link>
-      <guid isPermaLink="false">https://openai.com/index/gilbert-tobin</guid>
-      <pubDate>Tue, 01 Sep 2026 01:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Gilbert + Tobin 如何結合 CEO 主導的承諾、嚴謹的治理，以及人類問責機制，在整個事務所擴展 ChatGPT Enterprise 和 Codex。</description>
     </item>
     <item>
       <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
