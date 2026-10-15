@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 17:26:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 17:42:17 GMT</lastBuildDate>
+    <item>
+      <title>Volvo 對 Nvidia 下了更大的賭注</title>
+      <link>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178089</guid>
+      <pubDate>Thu, 15 Oct 2026 17:34:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Volvo 正透過擴大與 Nvidia 近十年的合作關係，升級其自動駕駛系統，合作範圍將超越其純電動車。</description>
+    </item>
+    <item>
+      <title>Volvo Cars 與 NVIDIA 擴大合作夥伴關係，以推進安全的自動駕駛</title>
+      <link>https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving</guid>
+      <pubDate>Thu, 15 Oct 2026 17:30:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Volvo Cars 今日宣布，將擴大與 NVIDIA 的合作夥伴關係，為 Volvo 未來車款的自動駕駛技術解鎖更高層級的安全性，並建立在雙方長達十年的合作基礎上。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/201910/5dc092aa2cfac24ba40e9c30_NVIDIA-Endeavor-building-logo/NVIDIA-Endeavor-building-logo_thmb.jpg?v=7d2f8234-cc86-4279-9cf8-80a6b485b660" alt=""></p><p>Volvo Cars 今日宣布，將擴大與 NVIDIA 的合作夥伴關係，為 Volvo 未來車款的自動駕駛技術解鎖更高層級的安全性，並建立在雙方長達十年的合作基礎上。</p>]]></content:encoded>
+    </item>
     <item>
       <title>一起見證開端：慶祝 NVIDIA RTX Spark 發表</title>
       <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/</link>
@@ -372,15 +393,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>美國電動車市場在過去連續三個季度持續成長。</description>
-    </item>
-    <item>
-      <title>TimeTeller 將我們的生理時鐘置於個人化醫療的核心</title>
-      <link>https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172669</guid>
-      <pubDate>Wed, 14 Oct 2026 20:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>德國新創公司 TimeTeller 開發了一款唾液檢測套組，幫助任何人了解自己的晝夜節律；其目標是降低癌症治療帶來的副作用。</description>
     </item>
     <item>
       <title>Bünyamin Aydın 的新系列〈From Earth to Sky〉，搭配 iPad Pro 展翅飛翔</title>
@@ -1036,18 +1048,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Atlassian 與 OpenAI 正在擴大合作夥伴關係，將前沿模型與企業知識串聯起來，協助團隊規劃、打造並交付工作。</description>
-    </item>
-    <item>
-      <title>為什麼電信營運商正以開放模型打造他們的 AI 策略</title>
-      <link>https://blogs.nvidia.com/blog/telecom-operators-open-models/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/telecom-operators-open-models/</guid>
-      <pubDate>Tue, 06 Oct 2026 13:00:19 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>電信營運商越來越多地以開放模型打造他們的 AI 策略——而原因不只是成本。開放模型讓電信業者能夠在最關鍵的工作負載上信任、控制並自訂 AI，從自主網路到客服皆然。NVIDIA 最新的《電信業 AI 現況》報告反映了這一轉變，其中 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/642defbc7620d6020affe8cefb3c4b63/6ac4f1233d6332553de4d26a_image1-842x450/image1-842x450_thmb.jpg?v=90670c5a-8145-45a9-95e0-106ffbdc603b" alt=""></p><p>電信營運商越來越多地以開放模型打造他們的 AI 策略——而原因不只是成本。開放模型讓電信業者能夠在最關鍵的工作負載上信任、控制並自訂 AI，從自主網路到客服皆然。NVIDIA 最新的《電信業 AI 現況》報告反映了這一轉變，其中 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Jump Trading 如何運用 ChatGPT 擴展量化研究</title>
