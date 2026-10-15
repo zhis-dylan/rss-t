@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:07:24 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 透過開放學習資源、合作與運算，擴大歐洲科學社群的先進技術使用權</title>
+      <link>https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/</guid>
+      <pubDate>Thu, 15 Oct 2026 10:00:12 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>當今許多科學進展都始於運算。 但要把加速運算的潛力轉化為科學進展——例如氣候系統建模、分子設計、材料模擬等——所依賴的不只是突破性的技術。 尤其對較小的實驗室、年輕科學家或以科學為基礎的新創公司來說，研究中最困難的部分往往是科學之前的一切： […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/63c5c6f840f033af6624e1983001d020/6ad0a4813d6332fd5ce8e34e_ai-in-science-enablers-1920x1080-1-842x450/ai-in-science-enablers-1920x1080-1-842x450_thmb.jpg?v=88967496-5156-4b07-9365-dcacfb347762" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/63c5c6f840f033af6624e1983001d020/6ad0a4813d6332fd5ce8e34e_ai-in-science-enablers-1920x1080-1-842x450/ai-in-science-enablers-1920x1080-1-842x450_thmb.jpg?v=88967496-5156-4b07-9365-dcacfb347762"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/63c5c6f840f033af6624e1983001d020/6ad0a4813d6332fd5ce8e34e_ai-in-science-enablers-1920x1080-1-842x450/ai-in-science-enablers-1920x1080-1-842x450_thmb.jpg?v=88967496-5156-4b07-9365-dcacfb347762" alt=""></p><p>當今許多科學進展都始於運算。 但要把加速運算的潛力轉化為科學進展——例如氣候系統建模、分子設計、材料模擬等——所依賴的不只是突破性的技術。 尤其對較小的實驗室、年輕科學家或以科學為基礎的新創公司來說，研究中最困難的部分往往是科學之前的一切： […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>北歐國家與 NVIDIA 展現當一個區域致力於先進運算時，能做到什麼</title>
       <link>https://blogs.nvidia.com/blog/nordics-technology-ecosystem/</link>
@@ -1091,18 +1103,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/8c18cff77482434dbac5135b5d20689f/6abe59c33d6332bdba437e62_GFN_Thursday-Oct_1-842x450/GFN_Thursday-Oct_1-842x450_thmb.jpg?v=b1ce4094-2b6d-413d-ae5f-ccc418dcbe24" alt=""></p><p>驚悚季節正在上線。隨著落葉、南瓜香料和各種美好事物一起到來，10 月期間共有 25 款新遊戲將加入 GeForce NOW，其中本週就有 6 款可立即遊玩。從為 Performance 和 Ultimate 會員推出全新的 CONTROL Resonant 獎勵，到《巫師 3：狂獵》— 重製版加入雲端，這個 GFN Thursday 是[…]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>高效、耐用、可互換：NVIDIA AI 工廠如何最大化投資報酬</title>
-      <link>https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/productive-durable-fungible-ai-factories/</guid>
-      <pubDate>Thu, 01 Oct 2026 13:00:49 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI 工廠是以兆瓦規模打造，甚至達到吉瓦規模。每座兆瓦級工廠的成本約為 6,000 萬美元，而 AI 工廠營運商只有在清楚看見投資報酬的情況下，才會投入如此規模的資本。影響 AI 工廠報酬的三個關鍵因素是：  earning capacity：工廠一年可能賺取多少收入 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/810a8175b65f5945603f8af1a6039432/6abe5a043d6332bec0d2cd2d_fungibility-blog-1280x680-1-842x450/fungibility-blog-1280x680-1-842x450_thmb.jpg?v=ee5f6585-1b63-483c-a624-b8a1a8451244" alt=""></p><p>AI 工廠是以兆瓦規模打造，甚至達到吉瓦規模。每座兆瓦級工廠的成本約為 6,000 萬美元，而 AI 工廠營運商只有在清楚看見投資報酬的情況下，才會投入如此規模的資本。影響 AI 工廠報酬的三個關鍵因素是：  earning capacity：工廠一年可能賺取多少收入 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>The Den 透過 ChatGPT Work 每週騰出 10 到 15 小時成長</title>
