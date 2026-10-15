@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 19:13:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 19:28:18 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 讓 METR 研究人員以員工等級權限深入查看內部運作</title>
+      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178367</guid>
+      <pubDate>Thu, 15 Oct 2026 19:14:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>METR 將發布自己對 Anthropic 的風險、事故與做法的評估，而這家前沿 AI 模型開發商已放棄阻止他們的權利。</description>
+    </item>
     <item>
       <title>Bluesky 擴大其 AI 驅動的 Attie 應用程式，讓任何人都能建立網站、遊戲等內容</title>
       <link>https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/</link>
@@ -408,15 +417,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>朗利的評論出現在 Flock 受到越來越多關注之際，隱私倡議者，包括美國公民自由聯盟（ACLU），以及對其技術遭濫用感到擔憂的民眾，都對此提出質疑。</description>
-    </item>
-    <item>
-      <title>Colossal Biosciences 宣布新的 AI 平台，協助加速復育滅絕物種的努力</title>
-      <link>https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177766</guid>
-      <pubDate>Wed, 14 Oct 2026 21:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Colossal 宣布推出新的 AI 平台，協助加速其復育滅絕物種的努力，而 Peter Diamandis 也成立了一支新基金來支持使用該平台的新創公司。</description>
     </item>
     <item>
       <title>Bünyamin Aydın 的新系列〈From Earth to Sky〉，搭配 iPad Pro 展翅飛翔</title>
