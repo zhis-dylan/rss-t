@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 15 Oct 2026 11:53:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 12:08:29 GMT</lastBuildDate>
+    <item>
+      <title>Amazon 的 Bee 推出兩款新的個人 AI 裝置，售價自 75 美元起</title>
+      <link>https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177560</guid>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 旗下的 Bee 在被收購後推出首批新的 AI 裝置，包括一款更新版穿戴裝置，以及一款可固定在智慧型手機上的信用卡大小錄音器。這些裝置可摘要對話、建立待辦事項清單，並與 Alexa 和 Amazon 購物整合，售價自 74.99 美元起。</description>
+    </item>
     <item>
       <title>NVIDIA 透過開放學習資源、合作與運算，擴大歐洲科學社群的先進技術使用權</title>
       <link>https://blogs.nvidia.com/blog/ec-scientific-computing-pledge/</link>
@@ -280,15 +289,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?fit=3000%2C2000" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?fit=3000%2C2000"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Sensing-Art-_-1.jpg?fit=3000%2C2000" alt=""></p><p>今天，Meta、布雷拉畫廊和 EssilorLuxottica 很自豪地推出「Sensing Art – Discovering Masterpieces Beyond What Meets the Eye」。這項試點旨在探索 AI 眼鏡如何讓藝術對失明或視力低下的人更容易親近——並與義大利幾家領先的視障慈善組織合作，包括 Associazione Nazionale Subvedenti（ANS）、Unione Italiana dei Ciechi e degli Ipovedenti（UICI）以及 Fondazione Istituto dei Ciechi di Milano。這是全球同類型的首批專案之一，布雷拉畫廊將使用由 Meta 和 EssilorLuxottica 開發的 AI 眼鏡，提升失明與視障人士的體驗。義大利有超過一百萬人是失明或視障人士，而藝術與文化正是無障礙可能面臨挑戰的場域之一。AI 眼鏡讓失明或低視力者得以使用具變革性的 AI 技術，協助處理日常任務，例如閱讀文字、辨識物體，以及取得周遭世界的資訊。在 Meta，我們相信未來屬於每一個人，這也是我們希望促成這項合作的原因。<br><br>布雷拉畫廊的運作方式<br><br>這款 AI 眼鏡已整合進博物館現有的 Grande Brera 應用程式，其中包含由 ANS 為失明與低視力訪客開發的語音導覽。導覽採用 DescriVedendo 方法，將作品的形狀、構圖與視覺細節轉化為口語描述。<br><br>當訪客在這項試點導覽路線中的八件精選作品前駐足時，可以直接從眼鏡啟用作品辨識，並透過鏡框內建的開放式耳機聽取對應的語音描述。開放式耳機可幫助訪客隨時留意周遭環境，也讓他們能更自然地與周圍的人互動。導覽路線並以作品之間的簡短引導音軌串連完成。<br><br>訪客也可以選擇使用 AI 眼鏡提供的其他工具：Meta AI 讓使用者可就背景與周遭環境提出問題；Be My Eyes 則透過眼鏡連結訪客與有視力的志工及合格操作人員，在導覽期間提供即時的方向引導與實務任務協助。<br><br>無障礙是共同打造的<br><br>這項試點專案是在經過多階段測試與諮詢失明及視障人士後開發完成。他們的直接參與，協助塑造了整體體驗以及訪客的使用方式。<br><br>「當創新回應真實需求時，就能為人們的生活創造實質價值。當科技成功讓資訊與日常體驗變得更容易接觸、更自然、也更即時時，它就能發揮最大的潛力——像我們的 AI 眼鏡就是如此。正是透過這樣的計畫——源自與身心障礙者持續對話——我們正朝向一個讓每個人都有更多機會的未來邁進。」——Meta 無障礙副總裁 Maxine Williams<br><br>「讓文化遺產變得可近用，代表要創造條件，讓每個人都能與藝術建立自己的關係。多年來，DescriVedendo 一直是我們承諾中的重要一環，今天我們可以再加入一種可能性，這種可能性來自文化專業、科技與人們經驗的相遇。布雷拉畫廊將持續成為實驗場所，探索新的語言與工具，讓普世遺產更貼近更廣泛的觀眾。」——Grande Brera 館長 Angelo Crespi<br><br>如何參與導覽<br><br>導覽將於布雷拉畫廊開放預約。訪客可於週二至週五上午 10:00 至下午 4:30 使用 AI 眼鏡，方式是寄送電子郵件至 educazione@pinacotecadibrera.org，並註明日期、時間以及任何特定需求。詳情與進一步資訊，請參閱此連結上的頁面。<br><br>該篇文章 Meta、米蘭布雷拉畫廊、EssilorLuxottica 透過 AI 眼鏡擴大藝術近用性 最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Prismm 協助銀行將繼承資金留在行內</title>
-      <link>https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3172274</guid>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>有了 Prismm，帳戶持有人可以提前讓指定家人存取他們的帳戶和文件。</description>
     </item>
     <item>
       <title>透過新的優先順序與分配功能，引導你的廣告活動支出</title>
