@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 16 Oct 2026 13:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:06:40 GMT</lastBuildDate>
+    <item>
+      <title>Veritas 將其防偽晶片擴展至珠寶、獎盃和香水瓶</title>
+      <link>https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177529</guid>
+      <pubDate>Fri, 16 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>奢侈品仿冒對時尚品牌來說是一大問題。仿冒者越來越擅長複製品牌標誌，並把仿品，也就是所謂的「超級仿冒品」，冒充真品。一家名為 Veritas 的新創公司想用自己的晶片來解決這個問題，用來驗證商品。Veritas 由前 Tesla 技術……</description>
+    </item>
     <item>
       <title>Replit 執行長表示，工作的未來將是「自駕公司」</title>
       <link>https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/</link>
@@ -416,15 +425,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/63c5c6f840f033af6624e1983001d020/6ad0a4813d6332fd5ce8e34e_ai-in-science-enablers-1920x1080-1-842x450/ai-in-science-enablers-1920x1080-1-842x450_thmb.jpg?v=88967496-5156-4b07-9365-dcacfb347762" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/63c5c6f840f033af6624e1983001d020/6ad0a4813d6332fd5ce8e34e_ai-in-science-enablers-1920x1080-1-842x450/ai-in-science-enablers-1920x1080-1-842x450_thmb.jpg?v=88967496-5156-4b07-9365-dcacfb347762"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/63c5c6f840f033af6624e1983001d020/6ad0a4813d6332fd5ce8e34e_ai-in-science-enablers-1920x1080-1-842x450/ai-in-science-enablers-1920x1080-1-842x450_thmb.jpg?v=88967496-5156-4b07-9365-dcacfb347762" alt=""></p><p>當今許多科學進展都始於運算。 但要把加速運算的潛力轉化為科學進展——例如氣候系統建模、分子設計、材料模擬等——所依賴的不只是突破性的技術。 尤其對較小的實驗室、年輕科學家或以科學為基礎的新創公司來說，研究中最困難的部分往往是科學之前的一切： […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Citizen Lab 表示政府正在濫用線上廣告，以「零點擊」間諜軟體入侵他人</title>
-      <link>https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178000</guid>
-      <pubDate>Thu, 15 Oct 2026 10:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>數位權利部門發現，有證據顯示半島電視台媒體機構的數十台裝置在顯示惡意線上廣告後遭到駭入。</description>
     </item>
     <item>
       <title>北歐國家與 NVIDIA 展現當一個區域致力於先進運算時，能做到什麼</title>
