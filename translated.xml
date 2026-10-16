@@ -5,7 +5,55 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 16 Oct 2026 15:52:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:07:46 GMT</lastBuildDate>
+    <item>
+      <title>Waymo 的 robotaxi 將前往加拿大</title>
+      <link>https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178754</guid>
+      <pubDate>Fri, 16 Oct 2026 16:06:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該公司將先從在多倫多街頭測試其自駕車輛開始。</description>
+    </item>
+    <item>
+      <title>Elorian 的首個 AI 模型希望用影像來推理，而不只是關於影像</title>
+      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178756</guid>
+      <pubDate>Fri, 16 Oct 2026 16:01:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據 Elorian 的評估，Glimpse 在科學圖表推理和短影音字幕生成方面，甚至比 GPT-6 Astra 還要強，其他視覺推理任務也有具競爭力的結果。</description>
+    </item>
+    <item>
+      <title>我們分享 3 個使用 Gemini Notebook 更聰明讀書的技巧。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/</guid>
+      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過 Google Gemini Notebook 的全新 60 秒影片總覽和互動式測驗格式，輕鬆掌握考試內容。到 notebook.google 試試這些學習工具。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Gemini Notebook 的全新 60 秒影片總覽和互動式測驗格式，輕鬆掌握考試內容。到 notebook.google 試試這些學習工具。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Tressfecta 想讓髮型師編髮變成一件沒那麼吃力的事</title>
+      <link>https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3167146</guid>
+      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tressfecta 將會參加今年的 TechCrunch Disrupt！</description>
+    </item>
+    <item>
+      <title>在《You Can See Everything》中，伊莉莎白・霍姆斯在喜劇演員 Nate Fielder 身上遇到旗鼓相當的對手</title>
+      <link>https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178668</guid>
+      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nate Fielder 為聲名狼藉的 Theranos 執行長伊莉莎白・霍姆斯拍攝的紀錄片，創造出一個彼此碰撞的角色星座，探問何謂真實性本身。</description>
+    </item>
     <item>
       <title>Jev 是 Vercel 歷來採用速度最快的 AI 模型</title>
       <link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
@@ -244,15 +292,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_thmb.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5" alt=""></p><p>Adobe（Nasdaq: ADBE）這家以創新工具與平台賦能創意、生產力與客戶體驗的全球科技領導者，與 NVIDIA 今日宣布擴大雙方合作，以優化 Adobe 的旗艦工具，包括 Adobe Photoshop、Premiere、Substance 3D、Frame.io 和 Brand Concierge，帶來更快速的 AI 驅動創作、製作與個人化體驗。</p>]]></content:encoded>
     </item>
     <item>
-      <title>SK海力士以在美國建廠作為交換，爭取晶片設備出口至其中國工廠</title>
-      <link>https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178049</guid>
-      <pubDate>Thu, 15 Oct 2026 16:45:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報導，SK海力士旗下的Solidigm正尋求美國批准，向中國運送更多晶片製造設備，同時也在評估於美國興建新的 NAND 晶片工廠。</description>
-    </item>
-    <item>
       <title>我們如何幫助世界為自然災害做好準備</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</guid>
@@ -298,15 +337,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" alt=""></p><p>我們正在更新 AI Mode 和 AI Overviews，加入更清楚的連結、來源脈絡，以及更多內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>AI 代理即將進入 Rivian 的汽車</title>
-      <link>https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177351</guid>
-      <pubDate>Thu, 15 Oct 2026 15:02:36 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>我們很可能會在該公司即將於 12 月舉行的「AI 與自動駕駛日」活動中，進一步了解這將如何運作。</description>
-    </item>
-    <item>
       <title>從資料中心到桌機全面開放：NVIDIA 以最高效率的 Super VL 與 Bolt 模型擴展 Nemotron 系列</title>
       <link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</guid>
@@ -329,24 +359,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp" alt=""></p><p>在國際維修日這天，我們要分享我們如何以長久耐用為目標設計裝置，讓維修與重複使用更容易取得，以及更多相關作法。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ramp 估值達 600 億美元，持續深入 AI 領域</title>
-      <link>https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178053</guid>
-      <pubDate>Thu, 15 Oct 2026 14:47:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>此次融資之際，Ramp 的年化營收突破 20 億美元，客戶數也達到 85,000 家。</description>
-    </item>
-    <item>
-      <title>Google 的 Universal Cart 購物工具在美國推出</title>
-      <link>https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178088</guid>
-      <pubDate>Thu, 15 Oct 2026 14:29:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這個新的購物工具已在美國的 Google 搜尋和 Gemini app 中提供。</description>
     </item>
     <item>
       <title>將雲端轉到最大：NVIDIA DLSS 4.5 控制選項登陸 GeForce NOW</title>
@@ -729,18 +741,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Discover.max-600x600.format-webp.webp" alt=""></p><p>來看看 Google Play 的所有新功能。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>搭載 Google built-in 的車輛即將迎來全新應用程式體驗</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/cars-with-google-built-in-google-play-updates/</guid>
-      <pubDate>Tue, 13 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過即將推出的 Google Play 升級，更快探索應用程式並下載；另外還有全新的 parked-to-drive 功能等更多內容。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleAuto_Blogpost_Play_Horizo.max-600x600.format-webp.webp" alt=""></p><p>透過即將推出的 Google Play 升級，更快探索應用程式並下載；另外還有全新的 parked-to-drive 功能等更多內容。</p>]]></content:encoded>
     </item>
     <item>
       <title>你的演算法，你的話：塑造你在 Facebook 上所看到內容的新方式</title>
