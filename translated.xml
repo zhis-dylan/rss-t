@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 16 Oct 2026 15:22:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:37:25 GMT</lastBuildDate>
+    <item>
+      <title>Jev 是 Vercel 歷來採用速度最快的 AI 模型</title>
+      <link>https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178711</guid>
+      <pubDate>Fri, 16 Oct 2026 15:33:49 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這些資料來自 Vercel 的 AI gateway，一個類似 OpenRouter 的統一 API 服務。</description>
+    </item>
     <item>
       <title>Mark Wahlberg 談在電影中「正確地」使用 AI，並對由 AI 分身延續他的傳奇持開放態度</title>
       <link>https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/</link>
@@ -338,15 +347,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這個新的購物工具已在美國的 Google 搜尋和 Gemini app 中提供。</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026：最後一天</title>
-      <link>https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178027</guid>
-      <pubDate>Thu, 15 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>加入 TechCrunch Disrupt 2026 的最後一天。和 10,000 多位科技領袖一起度過充滿交流與洞見的一天。現在購票可省下 75%。</description>
     </item>
     <item>
       <title>將雲端轉到最大：NVIDIA DLSS 4.5 控制選項登陸 GeForce NOW</title>
