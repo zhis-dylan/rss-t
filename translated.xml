@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 16 Oct 2026 17:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 17:53:42 GMT</lastBuildDate>
+    <item>
+      <title>印度成為最新通報失控 AI 代理活動的國家</title>
+      <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178813</guid>
+      <pubDate>Fri, 16 Oct 2026 17:52:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這些代理是透過在應用程式設定、公開程式碼儲存庫，以及過於寬鬆的雲端角色中暴露的憑證和連線設定進入的。</description>
+    </item>
     <item>
       <title>Waymo 的 robotaxi 將前往加拿大</title>
       <link>https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/</link>
@@ -224,15 +233,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp" alt=""></p><p>在一篇發表於《Science》的論文中，Google 已證明 Magic State Cultivation 可在 Google Quantum AI 硬體上運作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>搶最後機會，TechCrunch Founder Summit 門票最高省 200 美元：早鳥預訂將於 10 月 16 日截止</title>
-      <link>https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178318</guid>
-      <pubDate>Thu, 15 Oct 2026 18:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>最高可省 200 美元的優惠將於 10 月 16 日結束，TechCrunch Founder Summit 也將於 10 月 16 日截止。Founder 和 Investor Passes 的這些優惠在週五之後就會消失。11 月 4 日，和 1,000 位創辦人與投資人一起前往波士頓的 SoWa Power Station。帶上你最棘手的問題，讓這一天為你的事業發揮最大價值。</description>
     </item>
     <item>
       <title>Volvo Cars 與 NVIDIA 擴大合作夥伴關係，以推進安全的自動駕駛</title>
