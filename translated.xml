@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 16 Oct 2026 21:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 21:25:21 GMT</lastBuildDate>
+    <item>
+      <title>Replit 不再與 Anthropic 合作，執行長表示</title>
+      <link>https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178496</guid>
+      <pubDate>Fri, 16 Oct 2026 21:22:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Replit 執行長兼共同創辦人 Amjad Masad 在 TechCrunch Disrupt 2026 期間做了這番表示。</description>
+    </item>
     <item>
       <title>Porsche 的電動 Macan Turbo 是一場汽車界的存在危機</title>
       <link>https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/</link>
@@ -212,15 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這些高層主張，廣告並不是變現的唯一途徑，談到變現時，也有其他可行的模式。</description>
-    </item>
-    <item>
-      <title>Anthropic 讓 METR 研究人員以員工等級權限深入查看內部運作</title>
-      <link>https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178367</guid>
-      <pubDate>Thu, 15 Oct 2026 19:14:26 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>METR 將發布自己對 Anthropic 的風險、事故與做法的評估，而這家前沿 AI 模型開發商已放棄阻止他們的權利。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
