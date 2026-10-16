@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 16 Oct 2026 08:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:19:12 GMT</lastBuildDate>
+    <item>
+      <title>Mercedes-Benz 與 NVIDIA 擴大策略夥伴關係，推動未來十年安全、高度自動化駕駛的發展</title>
+      <link>https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade</guid>
+      <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Mercedes-Benz 與 NVIDIA 今日宣布，雙方將延長策略夥伴關係，以推動下一代自動駕駛系統的發展。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c" alt=""></p><p>Mercedes-Benz 與 NVIDIA 今日宣布，雙方將延長策略夥伴關係，以推動下一代自動駕駛系統的發展。</p>]]></content:encoded>
+    </item>
     <item>
       <title>連 Benchmark 都認為 AI 正在侵蝕反對投資競爭對手的創投默契</title>
       <link>https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/</link>
@@ -1018,18 +1030,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 與 The King’s Trust 延續雙方長期合作夥伴關係，推出一項沉浸式全新教育計畫，協助年輕人進入職場世界。</description>
-    </item>
-    <item>
-      <title>NVIDIA、Microsoft 以 RTX Spark 和 AI 代理為 Windows PC 開啟新篇章</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/</guid>
-      <pubDate>Wed, 07 Oct 2026 18:45:28 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在週三於舊金山舉行的 Microsoft 活動上，Jensen Huang 和 Satya Nadella 說明了 NVIDIA 與 Microsoft 如何共同打造硬體和軟體，讓 AI 代理能在 Windows PC 上執行。Huang 表示，NVIDIA 的創立是因為 Windows。現在，AI 代理正走進 Windows。「如果你看整個旅程的 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202111/618c4510ed6ae54e51b85162_nv-blog-preview-1280x680-1-842x450/nv-blog-preview-1280x680-1-842x450_thmb.jpg?v=7f16f52c-ffb3-4f7e-a25d-61580f0dc38c" alt=""></p><p>在週三於舊金山舉行的 Microsoft 活動上，Jensen Huang 和 Satya Nadella 說明了 NVIDIA 與 Microsoft 如何共同打造硬體和軟體，讓 AI 代理能在 Windows PC 上執行。Huang 表示，NVIDIA 的創立是因為 Windows。現在，AI 代理正走進 Windows。「如果你看整個旅程的 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>幫助青少年學習、規劃，並塑造 AI 的未來</title>
