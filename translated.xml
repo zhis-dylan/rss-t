@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 16 Oct 2026 16:22:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 16:38:02 GMT</lastBuildDate>
+    <item>
+      <title>一位從 Nvidia 內部人員轉戰創投者，談為什麼機器人還沒迎來它的 ChatGPT 時刻，現在也還沒有</title>
+      <link>https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3176211</guid>
+      <pubDate>Fri, 16 Oct 2026 16:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>曾在 NVIDIA 機器人平台擔任七年產品行銷主管的 Amulya Vishwanath 表示，機器人目前正處於它的「樂高時代」，像致動器、機械手、軟體和安全標準這些基本積木仍在重建中。這種看法與那些認為由通用基礎模型驅動的機器人即將迎來 […] 的人相反。</description>
+    </item>
     <item>
       <title>Waymo 的 robotaxi 將前往加拿大</title>
       <link>https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/</link>
@@ -233,15 +242,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>最高可省 200 美元的優惠將於 10 月 16 日結束，TechCrunch Founder Summit 也將於 10 月 16 日截止。Founder 和 Investor Passes 的這些優惠在週五之後就會消失。11 月 4 日，和 1,000 位創辦人與投資人一起前往波士頓的 SoWa Power Station。帶上你最棘手的問題，讓這一天為你的事業發揮最大價值。</description>
-    </item>
-    <item>
-      <title>Volvo 對 Nvidia 下了更大的賭注</title>
-      <link>https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178089</guid>
-      <pubDate>Thu, 15 Oct 2026 17:34:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Volvo 正透過擴大與 Nvidia 近十年的合作關係，升級其自動駕駛系統，合作範圍將超越其純電動車。</description>
     </item>
     <item>
       <title>Volvo Cars 與 NVIDIA 擴大合作夥伴關係，以推進安全的自動駕駛</title>
