@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 17 Oct 2026 15:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 15:32:51 GMT</lastBuildDate>
+    <item>
+      <title>Ember 的新溫控馬克杯讓我晚上的泡茶儀式更好了</title>
+      <link>https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178863</guid>
+      <pubDate>Sat, 17 Oct 2026 15:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ember 新款馬克杯最大的變化是，你不再需要打開 app 就能調整飲料的溫度。</description>
+    </item>
     <item>
       <title>Mark Wahlberg 想用平價健身房概念挑戰長壽新創圈</title>
       <link>https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/</link>
@@ -230,15 +239,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta 和 Apple 攜手推出這家社群媒體巨頭最新的模型 Muse Spark Open，將可在 Apple silicon 上本機執行。</description>
-    </item>
-    <item>
-      <title>Amazon 裝置主管 Panos Panay 看見一個未來，AI 裝置將取代使用應用程式的需求</title>
-      <link>https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178363</guid>
-      <pubDate>Thu, 15 Oct 2026 19:55:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 TechCrunch Disrupt 上發言時，Amazon 裝置主管 Panos Panay 描述了一個未來：環境式 AI 裝置在背景中運作，預先判斷使用者需求，而不是等待指令。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
