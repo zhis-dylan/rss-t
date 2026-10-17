@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 17 Oct 2026 21:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 21:35:36 GMT</lastBuildDate>
+    <item>
+      <title>Meta 移除引發爬取與 AI 訓練疑慮的條款</title>
+      <link>https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178941</guid>
+      <pubDate>Sat, 17 Oct 2026 21:31:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 發言人堅稱，更新後的條款並不代表 Meta 爬取網路的方式有任何改變。</description>
+    </item>
     <item>
       <title>RTX Spark 隨著新款 Windows PC 到來而引爆全球慶祝</title>
       <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</link>
@@ -242,15 +251,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家公司在兩年內創造了超過 3,000 萬美元營收，並於 3 月被 MyFitness 以未公開金額收購。</description>
-    </item>
-    <item>
-      <title>Disrupt 2026 的 Startup Battlefield 得獎者是：Intero Biosystems</title>
-      <link>https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178503</guid>
-      <pubDate>Thu, 15 Oct 2026 23:33:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Intero Biosystems 擊敗另外 199 家 Startup Battlefield 公司，在 TechCrunch Disrupt 2026 奪得 10 萬美元的首獎。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
