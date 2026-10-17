@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 17 Oct 2026 20:19:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 20:35:01 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 表示其員工結構變得較不資淺，而且花在開會上的時間更多了</title>
+      <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178934</guid>
+      <pubDate>Sat, 17 Oct 2026 20:21:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 的員工組成和正在進行的工作類型在過去一年已經出現了顯著變化。</description>
+    </item>
     <item>
       <title>Ember 的新溫控馬克杯讓我晚上的泡茶儀式更好了</title>
       <link>https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/</link>
@@ -230,15 +239,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Panay 表示，在打造產品時，各種失敗都能夠復原並從中學習，即使是災難性的失敗也一樣。</description>
-    </item>
-    <item>
-      <title>Meta 推出一款可在 Mac 上執行的開放權重 AI 模型</title>
-      <link>https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178309</guid>
-      <pubDate>Thu, 15 Oct 2026 20:04:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 和 Apple 攜手推出這家社群媒體巨頭最新的模型 Muse Spark Open，將可在 Apple silicon 上本機執行。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
