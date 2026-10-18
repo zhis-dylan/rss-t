@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 18 Oct 2026 20:52:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 21:07:19 GMT</lastBuildDate>
+    <item>
+      <title>沒有議程、沒有急迫感、也不會離開舊金山：Benchmark 合夥人談在一個狂熱市場中投資</title>
+      <link>https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178953</guid>
+      <pubDate>Sun, 18 Oct 2026 21:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Benchmark 也許已經擴大了基金規模並換掉了一些合夥人，但台上留下來的五位聽起來像是一群朋友，只是剛好在經營矽谷最具傳奇色彩的公司之一</description>
+    </item>
     <item>
       <title>Anthropic 表示將把 5% 的股份投入「公益基金」</title>
       <link>https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>演員兼天使投資人 Mark Wahlberg 表示，只要 AI 的用途是「用來強化你正在做的事」，他可以接受在電影製作中使用 AI。</description>
-    </item>
-    <item>
-      <title>Veritas 將其防偽晶片擴展至珠寶、獎盃和香水瓶</title>
-      <link>https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177529</guid>
-      <pubDate>Fri, 16 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>奢侈品仿冒對時尚品牌來說是一大問題。仿冒者越來越擅長複製品牌標誌，並把仿品，也就是所謂的「超級仿冒品」，冒充真品。一家名為 Veritas 的新創公司想用自己的晶片來解決這個問題，用來驗證商品。Veritas 由前 Tesla 技術……</description>
     </item>
     <item>
       <title>NVIDIA RTX Spark PCs 今日上市 —— Windows PC 的全新開始</title>
