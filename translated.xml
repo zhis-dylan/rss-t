@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 18 Oct 2026 18:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:06:10 GMT</lastBuildDate>
+    <item>
+      <title>大家都在看伊莉莎白・霍姆斯紀錄片《You Can See Everything》</title>
+      <link>https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178957</guid>
+      <pubDate>Sun, 18 Oct 2026 19:03:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>《You Can See Everything》迎來紀錄片史上第二大的首映週末票房。</description>
+    </item>
     <item>
       <title>迪士尼同意雇用 Character.AI 大多數員工</title>
       <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
@@ -224,15 +233,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c" alt=""></p><p>Mercedes-Benz 與 NVIDIA 今日宣布，雙方將延長策略夥伴關係，以推動下一代自動駕駛系統的發展。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>連 Benchmark 都認為 AI 正在侵蝕反對投資競爭對手的創投默契</title>
-      <link>https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178671</guid>
-      <pubDate>Fri, 16 Oct 2026 05:16:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Benchmark 表示，矽谷不資助競爭對手的規則正變得越來越難以維持。</description>
     </item>
     <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
