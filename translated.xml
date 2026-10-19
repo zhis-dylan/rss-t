@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:45:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:00:58 GMT</lastBuildDate>
+    <item>
+      <title>如何透過 Gemini Notebook 調整你的簡報與影片</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/</guid>
+      <pubDate>Mon, 19 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Notebook 讓你在建立投影片和影片總覽時，擁有更多創意控制權。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 讓你在建立投影片和影片總覽時，擁有更多創意控制權。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Amazon 將資助印第安納州前煤電廠的 12 座小型核反應爐</title>
+      <link>https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179053</guid>
+      <pubDate>Mon, 19 Oct 2026 16:55:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 和 X-energy 又簽了一項部署核能上網的協議。這項計畫將產生接近 1 GW 的電力。</description>
+    </item>
     <item>
       <title>人們正使用 AI 讓智慧電視變回不智慧</title>
       <link>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</link>
@@ -237,15 +258,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這些代理是透過在應用程式設定、公開程式碼儲存庫，以及過於寬鬆的雲端角色中暴露的憑證和連線設定進入的。</description>
-    </item>
-    <item>
-      <title>Waymo 的 robotaxi 將前往加拿大</title>
-      <link>https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178754</guid>
-      <pubDate>Fri, 16 Oct 2026 16:06:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司將先從在多倫多街頭測試其自駕車輛開始。</description>
     </item>
     <item>
       <title>我們分享 3 個使用 Gemini Notebook 更聰明讀書的技巧。</title>
@@ -739,18 +751,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Block 正在與 OpenAI 合作打造 AI 驅動的資安防護。其資安團隊能更快調查威脅，並在幾分鐘內提出修補建議。</description>
-    </item>
-    <item>
-      <title>打造以 AI 為優先的歐洲經濟</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/</guid>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>宣布 Google 的《歐洲經濟影響報告》</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2784x1566.max-600x600.format-webp.webp" alt=""></p><p>宣布 Google 的《歐洲經濟影響報告》</p>]]></content:encoded>
     </item>
     <item>
       <title>從企業到 Earthshot：英國生態系統隨 NVIDIA 由雄心邁向應用</title>
