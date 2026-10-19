@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 23:34:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:49:47 GMT</lastBuildDate>
+    <item>
+      <title>Nscale 和 Anthropic 據報正在洽談另一筆 450 億美元的算力交易</title>
+      <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179487</guid>
+      <pubDate>Mon, 19 Oct 2026 23:39:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>8 月，Nscale 和 Anthropic 宣布了一筆 450 億美元的算力交易。據報，這兩家公司正在討論另一筆同等規模的交易。</description>
+    </item>
     <item>
       <title>內嵌式 AI 評估器不會是個容易的解決方案，Hugging Face 政策長表示</title>
       <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
@@ -294,15 +303,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>《You Can See Everything》迎來紀錄片史上第二大的首映週末票房。</description>
-    </item>
-    <item>
-      <title>迪士尼同意雇用 Character.AI 大多數員工</title>
-      <link>https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178949</guid>
-      <pubDate>Sun, 18 Oct 2026 16:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在聊天機器人新創公司 Character.AI 於本週稍早聲請破產後，其許多員工將有機會到迪士尼任職。Character.AI 前執行長 Karandeep Anand 最近成為這家娛樂巨擘的首席技術長，而這家新創公司先前曾表示，迪士尼已同意以 2000 萬美元收購其部分資產。一份法律 […]</description>
     </item>
     <item>
       <title>RTX Spark 隨著新款 Windows PC 到來而引爆全球慶祝</title>
