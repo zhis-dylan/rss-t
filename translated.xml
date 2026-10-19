@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:02:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 20:18:03 GMT</lastBuildDate>
+    <item>
+      <title>攜手強化電網並支持阿肯色州當地社區</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/arkansas-partnerships/</guid>
+      <pubDate>Mon, 19 Oct 2026 20:15:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>自從我們首次宣布在阿肯色州西孟菲斯建設以來，我們一直持續與社區成員合作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp" alt=""></p><p>自從我們首次宣布在阿肯色州西孟菲斯建設以來，我們一直持續與社區成員合作。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>亞馬遜推出新的 TorchNeuron 開發工具，對 Nvidia 發起至今最大的一擊</title>
+      <link>https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179099</guid>
+      <pubDate>Mon, 19 Oct 2026 20:09:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>亞馬遜希望打破 Nvidia 對 PyTorch 的掌控；PyTorch 是用來打造多數 AI 應用程式的免費工具組，這樣就有更多開發者會在像自家晶片這類替代晶片上執行應用程式。</description>
+    </item>
     <item>
       <title>駭客攻擊 AI 程式碼工具 OpenCode，讓用戶的 AI 帳戶產生費用</title>
       <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
@@ -287,15 +308,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/363cee81e992d936964e9889c953c847/6ad3e2053d633208347d156d_nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450_thmb.jpg?v=86ea3f39-fb3c-4b95-9d20-324546533bd2" alt=""></p><p>NVIDIA RTX Spark 筆電現已上市，為輕薄高階 Windows PC 帶來 NVIDIA Blackwell RTX 圖形、最高 128GB 統一記憶體，以及完整的 NVIDIA AI 平台。價格從 2,399 美元起，來自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 的筆電，將強大的本機 AI、內容創作與遊戲能力帶到可攜式裝置上，並提供 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>TikTok 永久封禁「Musk」紀錄片廣告帳號</title>
-      <link>https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178937</guid>
-      <pubDate>Sat, 17 Oct 2026 20:55:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一部關於伊隆·馬斯克的四小時紀錄片持續遭到社群媒體平台的抵制。</description>
-    </item>
-    <item>
       <title>Itaú 如何為其整體客戶群打造生成式 AI</title>
       <link>https://openai.com/index/itau-generative-ai</link>
       <guid isPermaLink="false">https://openai.com/index/itau-generative-ai</guid>
@@ -518,18 +530,6 @@
       <description>以巴西葡萄牙語版的 AI for Educators 慶祝教師節，並了解 Study Mode 如何協助教師支持主動、循序漸進的學習。</description>
     </item>
     <item>
-      <title>一個智慧型的新購物車</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</guid>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Universal Cart 幫助讓節慶購物更輕鬆。它現在已於美國的 Search 和 Gemini 應用程式中推出。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp" alt=""></p><p>Universal Cart 幫助讓節慶購物更輕鬆。它現在已於美國的 Search 和 Gemini 應用程式中推出。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>TIME 將 Google SynthID 評為 2026 年最佳發明之一。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/</guid>
@@ -552,6 +552,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp" alt=""></p><p>了解最佳購買時機。我們新的 When to Buy Guide 運用 Google Search 和折扣資料，顯示節慶優惠何時達到高峰。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>一個智慧型的新購物車</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Universal Cart 幫助讓節慶購物更輕鬆。它現在已於美國的 Search 和 Gemini 應用程式中推出。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GlobalCart_Hero.max-600x600.format-webp.webp" alt=""></p><p>Universal Cart 幫助讓節慶購物更輕鬆。它現在已於美國的 Search 和 Gemini 應用程式中推出。</p>]]></content:encoded>
     </item>
     <item>
       <title>用 iPhone Duo 開啟更多可能</title>
@@ -754,18 +766,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Farah-Khan-in-conversation-with-Ankit-Rihal-at-the-Edits-Film-Festival.jpeg?fit=1600%2C1066" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Farah-Khan-in-conversation-with-Ankit-Rihal-at-the-Edits-Film-Festival.jpeg?fit=1600%2C1066"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Farah-Khan-in-conversation-with-Ankit-Rihal-at-the-Edits-Film-Festival.jpeg?fit=1600%2C1066" alt=""></p><p>今天，孟買的 Edits 影展在電影製作人 Farah Khan、影展評審 Ahsaas Channa、Dolly Singh、Nikhil Taneja 和 Rajeev Masand 的見證下落幕，現場觀眾超過 100 位內容創作者。<br>這篇〈Farah Khan 於 Edits 影展：「內容突破來自自發性、共鳴感與真實感」〉最初刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>17 個運用 AI 加速科學突破的組織</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/impact-challenge-ai-science-recipients/</guid>
-      <pubDate>Wed, 14 Oct 2026 09:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>這些團體將透過 Google.org Impact Challenge: AI for Science 獲得 3,600 萬美元。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp" alt=""></p><p>這些團體將透過 Google.org Impact Challenge: AI for Science 獲得 3,600 萬美元。</p>]]></content:encoded>
     </item>
     <item>
       <title>Third Moment Research 如何讓 10,000 個代理程式連續運作 36 小時以上</title>
