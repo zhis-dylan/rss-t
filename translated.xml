@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 19:17:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 19:32:37 GMT</lastBuildDate>
+    <item>
+      <title>駭客攻擊 AI 程式碼工具 OpenCode，讓用戶的 AI 帳戶產生費用</title>
+      <link>https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179164</guid>
+      <pubDate>Mon, 19 Oct 2026 19:28:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenCode 是一款開源 AI 程式碼代理，已成為 Claude Code 和 Cursor 之外廣受歡迎的替代方案。不過，駭客入侵了其線上平台的一部分，竊取了部分用戶的 API 金鑰，而它求助的 AI 工具則持續拒絕檢視惡意程式碼。</description>
+    </item>
+    <item>
+      <title>德國想要引領工業 AI：NVIDIA 將如何提供協助</title>
+      <link>https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/</guid>
+      <pubDate>Mon, 19 Oct 2026 19:27:08 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在柏林前發電廠 Kraftwerk 寬敞的廳堂裡，德國總理 Friedrich Merz 與 NVIDIA 創辦人兼執行長 Jensen Huang 坐下來討論德國的 AI 路線圖，尤其是 AI 的工業應用。Huang 開場先回顧 NVIDIA 與德國產業長久以來的關係，從遊戲系統、工作站與汽車 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/cd9ae663e0a1f253347489cd426f5727/6ad66f323d6332922c39b1ec_26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450_thmb.jpg?v=9233a325-79ab-4f3d-a1d9-f68aa825c17b" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/cd9ae663e0a1f253347489cd426f5727/6ad66f323d6332922c39b1ec_26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450_thmb.jpg?v=9233a325-79ab-4f3d-a1d9-f68aa825c17b"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/cd9ae663e0a1f253347489cd426f5727/6ad66f323d6332922c39b1ec_26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450_thmb.jpg?v=9233a325-79ab-4f3d-a1d9-f68aa825c17b" alt=""></p><p>在柏林前發電廠 Kraftwerk 寬敞的廳堂裡，德國總理 Friedrich Merz 與 NVIDIA 創辦人兼執行長 Jensen Huang 坐下來討論德國的 AI 路線圖，尤其是 AI 的工業應用。Huang 開場先回顧 NVIDIA 與德國產業長久以來的關係，從遊戲系統、工作站與汽車 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Tolan 再獲 3,000 萬美元融資，打造協助使用者應對生活的 AI 伴侶</title>
       <link>https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/</link>
@@ -273,15 +294,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>一部關於伊隆·馬斯克的四小時紀錄片持續遭到社群媒體平台的抵制。</description>
-    </item>
-    <item>
-      <title>Anthropic 表示其員工結構變得較不資淺，而且花在開會上的時間更多了</title>
-      <link>https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178934</guid>
-      <pubDate>Sat, 17 Oct 2026 20:21:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 的員工組成和正在進行的工作類型在過去一年已經出現了顯著變化。</description>
     </item>
     <item>
       <title>Itaú 如何為其整體客戶群打造生成式 AI</title>
@@ -950,18 +962,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Researchers-Introducing-Muse-Wonder_thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Researchers-Introducing-Muse-Wonder_thumbnail.gif?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Researchers-Introducing-Muse-Wonder_thumbnail.gif?fit=890%2C501" alt=""></p><p>Meta 正在推出 Muse Wonder 和 Muse Wonder Full，這是我們截至目前最強大的模型，旨在個人與專業的代理式任務上提供最先進的效能。<br>這篇〈介紹 Muse Wonder 與 Muse Wonder Full：用於代理人的前沿模型〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OCP 全球高峰會：在生態系採用之際，NVIDIA 開放 Vera Rubin 架構，協助全球擴展 AI 工廠</title>
-      <link>https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/</guid>
-      <pubDate>Mon, 12 Oct 2026 15:00:25 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>隨著 AI 工廠從百萬瓦擴展到吉瓦，建造它們所需的不只是先進運算。開放標準正幫助產業更快、更有效率且更可靠地擴展 AI 基礎設施。在聖荷西 McEnery 會議中心舉行的 Open Compute Project（OCP）全球高峰會上，NVIDIA 宣布了新的合作夥伴關係與貢獻，旨在 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba" alt=""></p><p>隨著 AI 工廠從百萬瓦擴展到吉瓦，建造它們所需的不只是先進運算。開放標準正幫助產業更快、更有效率且更可靠地擴展 AI 基礎設施。在聖荷西 McEnery 會議中心舉行的 Open Compute Project（OCP）全球高峰會上，NVIDIA 宣布了新的合作夥伴關係與貢獻，旨在 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>App Store 獨立遊戲週今天登場</title>
