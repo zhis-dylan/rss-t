@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:15:31 GMT</lastBuildDate>
+    <item>
+      <title>人們正使用 AI 讓智慧電視變回不智慧</title>
+      <link>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179051</guid>
+      <pubDate>Mon, 19 Oct 2026 16:13:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>受夠了廣告、追蹤和卡頓的介面，一些智慧電視用戶正轉向 AI 代理人，移除預載軟體並重新掌控自己的電視。</description>
+    </item>
     <item>
       <title>NVIDIA 推出可在企業與 PC 上執行代理的新開放模型</title>
       <link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
@@ -225,15 +234,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>該公司將先從在多倫多街頭測試其自駕車輛開始。</description>
-    </item>
-    <item>
-      <title>Elorian 的首個 AI 模型希望用影像來推理，而不只是關於影像</title>
-      <link>https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178756</guid>
-      <pubDate>Fri, 16 Oct 2026 16:01:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 Elorian 的評估，Glimpse 在科學圖表推理和短影音字幕生成方面，甚至比 GPT-6 Astra 還要強，其他視覺推理任務也有具競爭力的結果。</description>
     </item>
     <item>
       <title>我們分享 3 個使用 Gemini Notebook 更聰明讀書的技巧。</title>
