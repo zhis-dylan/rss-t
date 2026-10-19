@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 16:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 16:30:40 GMT</lastBuildDate>
     <item>
       <title>人們正使用 AI 讓智慧電視變回不智慧</title>
       <link>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>受夠了廣告、追蹤和卡頓的介面，一些智慧電視用戶正轉向 AI 代理人，移除預載軟體並重新掌控自己的電視。</description>
+    </item>
+    <item>
+      <title>用 Gemini 打造穿搭的 4 個技巧</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</guid>
+      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" alt=""></p><p>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 推出可在企業與 PC 上執行代理的新開放模型</title>
@@ -359,6 +371,27 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_thmb.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5" alt=""></p><p>Adobe（Nasdaq: ADBE）這家以創新工具與平台賦能創意、生產力與客戶體驗的全球科技領導者，與 NVIDIA 今日宣布擴大雙方合作，以優化 Adobe 的旗艦工具，包括 Adobe Photoshop、Premiere、Substance 3D、Frame.io 和 Brand Concierge，帶來更快速的 AI 驅動創作、製作與個人化體驗。</p>]]></content:encoded>
     </item>
     <item>
+      <title>我們如何幫助世界為自然災害做好準備</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</guid>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們的北極星目標很簡單卻也很宏大：沒有人應該因自然災害而措手不及。</description>
+    </item>
+    <item>
+      <title>Android 地震警報現已在超過 200 個地區提供</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/</guid>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Android 地震警報現已在超過 200 個國家和地區提供。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp" alt=""></p><p>Android 地震警報現已在超過 200 個國家和地區提供。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>已有 400 家出版商與我們合作推出 News AI 試點計畫。</title>
       <link>https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/</guid>
@@ -381,27 +414,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" alt=""></p><p>我們正在更新 AI Mode 和 AI Overviews，加入更清楚的連結、來源脈絡，以及更多內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們如何幫助世界為自然災害做好準備</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們的北極星目標很簡單卻也很宏大：沒有人應該因自然災害而措手不及。</description>
-    </item>
-    <item>
-      <title>Android 地震警報現已在超過 200 個地區提供</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Android 地震警報現已在超過 200 個國家和地區提供。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp" alt=""></p><p>Android 地震警報現已在超過 200 個國家和地區提供。</p>]]></content:encoded>
     </item>
     <item>
       <title>從資料中心到桌機全面開放：NVIDIA 以最高效率的 Super VL 與 Bolt 模型擴展 Nemotron 系列</title>
@@ -784,18 +796,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>新的分析顯示，代理式 AI 的採用正在歐盟企業與中小企業中成長——以及更深入的使用能在何處釋放更多價值。</description>
-    </item>
-    <item>
-      <title>負責任且安全地開發 Gemini 4 Argon</title>
-      <link>https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/</guid>
-      <pubDate>Tue, 13 Oct 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>深入了解我們對 Gemini 4 Argon 的安全與資安方法。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon_key-art_4_lockup.max-600x600.format-webp.webp" alt=""></p><p>深入了解我們對 Gemini 4 Argon 的安全與資安方法。</p>]]></content:encoded>
     </item>
     <item>
       <title>你的演算法，你的話：塑造你在 Facebook 上所看到內容的新方式</title>
