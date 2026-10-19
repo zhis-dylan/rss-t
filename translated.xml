@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 18:01:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:16:46 GMT</lastBuildDate>
     <item>
       <title>AI 助理新創公司 Town 在推出四個月後拿下獨角獸估值</title>
       <link>https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/</link>
@@ -14,6 +14,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 助理新創公司 Town 週一宣布拿下獨角獸估值，並公告由 Forerunner Ventures 和 Menlo Ventures 共同領投的 1.08 億美元 B 輪融資。</description>
+    </item>
+    <item>
+      <title>NVIDIA 在 Jülich 超級運算中心執行破紀錄的容錯量子運算模擬</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre</guid>
+      <pubDate>Mon, 19 Oct 2026 18:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布在 JUPITER 上完成破紀錄的量子運算模擬。JUPITER 是歐洲首台 exascale 超級電腦，讓研究人員得以完整探索並驗證 magic state cultivation——這是容錯量子運算的領先方法，所需量子位元比先前方法少 90%。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/50251123164c2b783748b003bc473940/6ad65ba13d6332f05e072a37_quantum-computing-jupiter-supercomputer/quantum-computing-jupiter-supercomputer_thmb.jpg?v=41b14eed-74aa-4882-94b8-7c5195b3c9bb" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/50251123164c2b783748b003bc473940/6ad65ba13d6332f05e072a37_quantum-computing-jupiter-supercomputer/quantum-computing-jupiter-supercomputer_thmb.jpg?v=41b14eed-74aa-4882-94b8-7c5195b3c9bb"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/50251123164c2b783748b003bc473940/6ad65ba13d6332f05e072a37_quantum-computing-jupiter-supercomputer/quantum-computing-jupiter-supercomputer_thmb.jpg?v=41b14eed-74aa-4882-94b8-7c5195b3c9bb" alt=""></p><p>NVIDIA 今日宣布在 JUPITER 上完成破紀錄的量子運算模擬。JUPITER 是歐洲首台 exascale 超級電腦，讓研究人員得以完整探索並驗證 magic state cultivation——這是容錯量子運算的領先方法，所需量子位元比先前方法少 90%。</p>]]></content:encoded>
     </item>
     <item>
       <title>Rivian 執行長表示，自動駕駛將帶來「截然不同」的車輛設計</title>
@@ -108,9 +120,9 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>在過去幾個月，隨著越來越多事件被公開揭露，外界對 AI 安全的擔憂也隨之升高。這些事件顯示出模型已經變得多麼強大，以及如果沒有妥善處理，它們會構成多麼重大的威脅。而隨著全球創新競賽持續加劇，當模型變得甚至更加......時，這項挑戰也會進一步擴大。
 這篇文章〈保護代理式內部威脅〉最早出現在 The Official Microsoft Blog。</description>
-      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/Slide3-002.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/Slide3-002.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/Slide3-002.jpg" alt=""></p><p>在過去幾個月，隨著越來越多事件被公開揭露，外界對 AI 安全的擔憂也隨之升高。這些事件顯示出模型已經變得多麼強大，以及如果沒有妥善處理，它們會構成多麼重大的威脅。而隨著全球創新競賽持續加劇，當模型變得甚至更加......時，這項挑戰也會進一步擴大。<br>這篇文章〈保護代理式內部威脅〉最早出現在 The Official Microsoft Blog。</p>]]></content:encoded>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg" alt=""></p><p>在過去幾個月，隨著越來越多事件被公開揭露，外界對 AI 安全的擔憂也隨之升高。這些事件顯示出模型已經變得多麼強大，以及如果沒有妥善處理，它們會構成多麼重大的威脅。而隨著全球創新競賽持續加劇，當模型變得甚至更加......時，這項挑戰也會進一步擴大。<br>這篇文章〈保護代理式內部威脅〉最早出現在 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 更新規範，禁止偽裝成一般 App 以通過審核的 nudify 應用程式</title>
@@ -950,18 +962,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/b714aa393d1a3d790925deb8cbedf198/6accf62c3d6332b0a1302305_gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450/gpu-architecture-rolling-blog-kv-ocp-blog-1920x1080-5820310-842x450_thmb.jpg?v=153b22de-a263-454a-98d0-56e9978185ba" alt=""></p><p>隨著 AI 工廠從百萬瓦擴展到吉瓦，建造它們所需的不只是先進運算。開放標準正幫助產業更快、更有效率且更可靠地擴展 AI 基礎設施。在聖荷西 McEnery 會議中心舉行的 Open Compute Project（OCP）全球高峰會上，NVIDIA 宣布了新的合作夥伴關係與貢獻，旨在 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 與 Cisco 推出新的可插拔光學模組外形規格，以擴展 AI 工廠</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories</guid>
-      <pubDate>Mon, 12 Oct 2026 15:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 與 Cisco 今天宣布推出 Ultra-Dense Small Form Factor Pluggable（USFP）計畫，這是一種新的高密度、每通道 400Gb/s 的光學模組，專為使用可插拔收發器的下一代 AI 工廠硬體生態系而設計。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/bb0658e6668adfadaaf0477f22795d99/6acb0cef3d63325ab15dc4ff_ultra-dense-small-form-factor-pluggable/ultra-dense-small-form-factor-pluggable_thmb.jpg?v=6511e202-6a08-4834-996a-ced5c6faeac3" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/bb0658e6668adfadaaf0477f22795d99/6acb0cef3d63325ab15dc4ff_ultra-dense-small-form-factor-pluggable/ultra-dense-small-form-factor-pluggable_thmb.jpg?v=6511e202-6a08-4834-996a-ced5c6faeac3"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/bb0658e6668adfadaaf0477f22795d99/6acb0cef3d63325ab15dc4ff_ultra-dense-small-form-factor-pluggable/ultra-dense-small-form-factor-pluggable_thmb.jpg?v=6511e202-6a08-4834-996a-ced5c6faeac3" alt=""></p><p>NVIDIA 與 Cisco 今天宣布推出 Ultra-Dense Small Form Factor Pluggable（USFP）計畫，這是一種新的高密度、每通道 400Gb/s 的光學模組，專為使用可插拔收發器的下一代 AI 工廠硬體生態系而設計。</p>]]></content:encoded>
     </item>
     <item>
       <title>App Store 獨立遊戲週今天登場</title>
