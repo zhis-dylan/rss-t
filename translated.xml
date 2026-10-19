@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:58:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 13:14:03 GMT</lastBuildDate>
+    <item>
+      <title>保護代理式內部威脅</title>
+      <link>https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563199</guid>
+      <pubDate>Mon, 19 Oct 2026 13:00:02 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>在過去幾個月，隨著越來越多事件被公開揭露，外界對 AI 安全的擔憂也隨之升高。這些事件顯示出模型已經變得多麼強大，以及如果沒有妥善處理，它們會構成多麼重大的威脅。而隨著全球創新競賽持續加劇，當模型變得甚至更加......時，這項挑戰也會進一步擴大。
+這篇文章〈保護代理式內部威脅〉最早出現在 The Official Microsoft Blog。</description>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/Slide3-002.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/Slide3-002.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/Slide3-002.jpg" alt=""></p><p>在過去幾個月，隨著越來越多事件被公開揭露，外界對 AI 安全的擔憂也隨之升高。這些事件顯示出模型已經變得多麼強大，以及如果沒有妥善處理，它們會構成多麼重大的威脅。而隨著全球創新競賽持續加劇，當模型變得甚至更加......時，這項挑戰也會進一步擴大。<br>這篇文章〈保護代理式內部威脅〉最早出現在 The Official Microsoft Blog。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Apple 更新規範，禁止偽裝成一般 App 以通過審核的 nudify 應用程式</title>
       <link>https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/</link>
@@ -1983,16 +1996,6 @@ The post Rethinking security for the age of AI appeared first on The Official Mi
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" alt=""></p><p>為什麼安全需要全新的 Cyber Stack —— 介紹 Project Perception 資安的物理法則正在改變。自主系統現在可以推理、適應並持續運作。同時，攻擊的成本正在下降，而需要保護的內容在數量、速度與複雜度上持續增加。攻擊者可以更快產生漏洞利用程式，...<br>The post Rethinking security for the age of AI appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>驅動美國的 Genesis Mission：Microsoft 對科學發現的承諾</title>
-      <link>https://blogs.microsoft.com/blog/2026/07/22/powering-americas-genesis-mission-microsofts-commitment-to-scientific-discovery/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563059</guid>
-      <pubDate>Wed, 22 Jul 2026 12:00:06 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>今天，我們很高興分享對能源部（DOE）Genesis Mission 的長期承諾，並由 6,000 萬美元投資支持，旨在加速科學 AI 及其能為國家帶來的突破。這項更深化的承諾包括 Microsoft 新成立的 Scientific Partnership Advancing Research &amp; Knowledge 協調中心與辦公室，另外……
-這篇文章〈驅動美國的 Genesis Mission：Microsoft 對科學發現的承諾〉最早出現在 The Official Microsoft Blog。</description>
     </item>
   </channel>
 </rss>
