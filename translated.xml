@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 22:49:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 23:04:25 GMT</lastBuildDate>
+    <item>
+      <title>內嵌式 AI 評估器不會是個容易的解決方案，Hugging Face 政策長表示</title>
+      <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178312</guid>
+      <pubDate>Mon, 19 Oct 2026 22:49:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 實驗室一直把聲譽押在模型基準測試上——也就是那套據稱中立且精準的評估系統，用來衡量一項 AI 產品是否比另一項更好。不過，Hugging Face 政策長 Irene Solaiman 在 TechCrunch 的一場討論中表示，這些評估背後的方法相當複雜，而且仍在發展中。</description>
+    </item>
     <item>
       <title>Microsoft 表示 AI 代理人就像內部威脅，因為「前沿模型不值得信任」</title>
       <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
@@ -294,15 +303,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在聊天機器人新創公司 Character.AI 於本週稍早聲請破產後，其許多員工將有機會到迪士尼任職。Character.AI 前執行長 Karandeep Anand 最近成為這家娛樂巨擘的首席技術長，而這家新創公司先前曾表示，迪士尼已同意以 2000 萬美元收購其部分資產。一份法律 […]</description>
-    </item>
-    <item>
-      <title>TechCrunch Mobility：Rivian 的下一個篇章</title>
-      <link>https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178907</guid>
-      <pubDate>Sun, 18 Oct 2026 16:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歡迎回到 TechCrunch Mobility，你的未來交通樞紐，現在更是 AI 在其中扮演角色的所在。</description>
     </item>
     <item>
       <title>RTX Spark 隨著新款 Windows PC 到來而引爆全球慶祝</title>
