@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 12:43:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:58:52 GMT</lastBuildDate>
+    <item>
+      <title>Apple 更新規範，禁止偽裝成一般 App 以通過審核的 nudify 應用程式</title>
+      <link>https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178990</guid>
+      <pubDate>Mon, 19 Oct 2026 12:56:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 表示，將禁止無法審核不當內容的 AI 應用程式。</description>
+    </item>
     <item>
       <title>馬斯克承諾要給「美國每個孩子」一股他的 SpaceX 股票</title>
       <link>https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/</link>
@@ -212,15 +221,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Tressfecta 將會參加今年的 TechCrunch Disrupt！</description>
-    </item>
-    <item>
-      <title>在《You Can See Everything》中，伊莉莎白・霍姆斯在喜劇演員 Nate Fielder 身上遇到旗鼓相當的對手</title>
-      <link>https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178668</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Nate Fielder 為聲名狼藉的 Theranos 執行長伊莉莎白・霍姆斯拍攝的紀錄片，創造出一個彼此碰撞的角色星座，探問何謂真實性本身。</description>
     </item>
     <item>
       <title>NVIDIA RTX Spark PCs 今日上市 —— Windows PC 的全新開始</title>
