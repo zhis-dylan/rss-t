@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 14:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:15:00 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 推進媒體的代理式安全，從歐洲公共服務廣播到全球內容製作</title>
+      <link>https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</guid>
+      <pubDate>Mon, 19 Oct 2026 15:00:31 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在今天於柏林舉行的一場創意產業活動中——由 Adobe、Bertelsmann、NVIDIA 和 UFA 共同主辦——展示了智慧媒體的最新進展。這項消息的重點是：歐洲廣播聯盟（EBU）正與 NVIDIA 合作，透過雲端、開放模型與整合，擴展其主權框架 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/291a3398e4c060fc8e7b2cf55829f09b/6ad630cf3d63325799a4de28_media-and-entertainment-1920x1080-1-842x450/media-and-entertainment-1920x1080-1-842x450_thmb.jpg?v=ce2c4423-42da-4d4f-8420-972157346029" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/291a3398e4c060fc8e7b2cf55829f09b/6ad630cf3d63325799a4de28_media-and-entertainment-1920x1080-1-842x450/media-and-entertainment-1920x1080-1-842x450_thmb.jpg?v=ce2c4423-42da-4d4f-8420-972157346029"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/291a3398e4c060fc8e7b2cf55829f09b/6ad630cf3d63325799a4de28_media-and-entertainment-1920x1080-1-842x450/media-and-entertainment-1920x1080-1-842x450_thmb.jpg?v=ce2c4423-42da-4d4f-8420-972157346029" alt=""></p><p>在今天於柏林舉行的一場創意產業活動中——由 Adobe、Bertelsmann、NVIDIA 和 UFA 共同主辦——展示了智慧媒體的最新進展。這項消息的重點是：歐洲廣播聯盟（EBU）正與 NVIDIA 合作，透過雲端、開放模型與整合，擴展其主權框架 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>保護代理式內部威脅</title>
       <link>https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/</link>
@@ -981,15 +993,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
-    </item>
-    <item>
-      <title>進入 Omniverse：開發者如何運用前沿 AI 代理將想法轉化為模擬</title>
-      <link>https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/</guid>
-      <pubDate>Thu, 08 Oct 2026 21:06:35 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>把一個模擬構想變成可運作的應用程式，意味著要組合資產、連接物理與渲染，並確認場景如預期運作。開發者正將前沿 AI 模型與 NVIDIA Omniverse 函式庫結合，以協助完成這些工作——打造用於探索情境、調查失敗原因與改進設計的應用程式。開發者透過 AI 代理引導 […]</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
