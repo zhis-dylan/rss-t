@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:00:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 17:16:07 GMT</lastBuildDate>
     <item>
       <title>如何透過 Gemini Notebook 調整你的簡報與影片</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/</link>
@@ -47,6 +47,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" alt=""></p><p>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>查看來自各大時尚之都人們的熱門風格搜尋。</title>
+      <link>https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/</guid>
+      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們查看了 Google Trends，看看七大時尚之都的人們都在搜尋什麼，好為他們的穿搭帶來那種難以言喻的風格感……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp" alt=""></p><p>我們查看了 Google Trends，看看七大時尚之都的人們都在搜尋什麼，好為他們的穿搭帶來那種難以言喻的風格感……</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 推出可在企業與 PC 上執行代理的新開放模型</title>
@@ -721,18 +733,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_for_Science_hero.max-600x600.format-webp.webp" alt=""></p><p>這些團體將透過 Google.org Impact Challenge: AI for Science 獲得 3,600 萬美元。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們正透過先進 AI 運算與前沿模型，推動歐洲的科學發現。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/</guid>
-      <pubDate>Wed, 14 Oct 2026 08:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google DeepMind 和 Google Cloud 正提供最多 200 位歐洲頂尖科學研究人員直接使用我們的前沿模型，並提供 300 萬美元的運算…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ireland-innovation-companies-st.max-600x600.format-webp.webp" alt=""></p><p>Google DeepMind 和 Google Cloud 正提供最多 200 位歐洲頂尖科學研究人員直接使用我們的前沿模型，並提供 300 萬美元的運算…</p>]]></content:encoded>
     </item>
     <item>
       <title>Third Moment Research 如何讓 10,000 個代理程式連續運作 36 小時以上</title>
