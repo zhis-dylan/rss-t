@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 17:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 18:01:35 GMT</lastBuildDate>
+    <item>
+      <title>AI 助理新創公司 Town 在推出四個月後拿下獨角獸估值</title>
+      <link>https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179139</guid>
+      <pubDate>Mon, 19 Oct 2026 18:00:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 助理新創公司 Town 週一宣布拿下獨角獸估值，並公告由 Forerunner Ventures 和 Menlo Ventures 共同領投的 1.08 億美元 B 輪融資。</description>
+    </item>
     <item>
       <title>Rivian 執行長表示，自動駕駛將帶來「截然不同」的車輛設計</title>
       <link>https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/</link>
@@ -120,6 +129,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>那超過 100 億美元的股票，或約占馬斯克目前淨資產的 1%。</description>
+    </item>
+    <item>
+      <title>Laplace Intelligence 在機器人和自駕車進入真實世界前先進行紅隊測試</title>
+      <link>https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3166117</guid>
+      <pubDate>Mon, 19 Oct 2026 12:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>密西根大學衍生新創 Laplace Intelligence 使用 AI 代理和互動式模擬，在部署前對機器人和自動駕駛車輛進行壓力測試。這家獲利的新創公司將於 10 月 13 日至 15 日在舊金山舉行的 TechCrunch Disrupt 上參加 Startup Battlefield。</description>
     </item>
     <item>
       <title>我們正透過永續農業支持巴西的自然復育。</title>
@@ -254,15 +272,6 @@
       <description>Replit 執行長兼共同創辦人 Amjad Masad 在 TechCrunch Disrupt 2026 期間做了這番表示。</description>
     </item>
     <item>
-      <title>Porsche 的電動 Macan Turbo 是一場汽車界的存在危機</title>
-      <link>https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178464</guid>
-      <pubDate>Fri, 16 Oct 2026 19:40:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>也許是灰色車身、略微圓潤的車頂線條，或是電動 Porsche Macan 略帶 SUV 的比例，但當我在市區和郊區街道間接送孩子和採買雜貨時，我一次也沒注意到其他駕駛投來嚮往的目光。和我試過的其他車不同，沒有任何車迷停下來問我問題。 […]</description>
-    </item>
-    <item>
       <title>Itaú 如何為其整體客戶群打造生成式 AI</title>
       <link>https://openai.com/index/itau-generative-ai</link>
       <guid isPermaLink="false">https://openai.com/index/itau-generative-ai</guid>
@@ -270,15 +279,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
-    </item>
-    <item>
-      <title>印度成為最新通報失控 AI 代理活動的國家</title>
-      <link>https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178813</guid>
-      <pubDate>Fri, 16 Oct 2026 17:52:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這些代理是透過在應用程式設定、公開程式碼儲存庫，以及過於寬鬆的雲端角色中暴露的憑證和連線設定進入的。</description>
     </item>
     <item>
       <title>我們分享 3 個使用 Gemini Notebook 更聰明讀書的技巧。</title>
