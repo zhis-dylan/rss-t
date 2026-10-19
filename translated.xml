@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:30:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:45:14 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 推出可在企業與 PC 上執行代理的新開放模型</title>
+      <link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3177977</guid>
+      <pubDate>Mon, 19 Oct 2026 15:37:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>NVIDIA 大力押注企業希望在自家資料中心執行自己的開放模型這股趨勢，也試圖讓裝置端、私有 AI 代理成為一件事。</description>
+    </item>
     <item>
       <title>NVIDIA 推進媒體的代理式安全，從歐洲公共服務廣播到全球內容製作</title>
       <link>https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</link>
@@ -237,15 +246,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Gemini Notebook 的全新 60 秒影片總覽和互動式測驗格式，輕鬆掌握考試內容。到 notebook.google 試試這些學習工具。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Tressfecta 想讓髮型師編髮變成一件沒那麼吃力的事</title>
-      <link>https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3167146</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Tressfecta 將會參加今年的 TechCrunch Disrupt！</description>
     </item>
     <item>
       <title>NVIDIA RTX Spark PCs 今日上市 —— Windows PC 的全新開始</title>
