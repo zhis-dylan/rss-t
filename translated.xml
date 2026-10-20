@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 20:00:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:15:28 GMT</lastBuildDate>
     <item>
       <title>在路上用 Gemini 享受免持個人化協助</title>
       <link>https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/</link>
@@ -17,6 +17,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 已可在全球車輛中使用。透過個人智慧，在保持專注路況的同時，獲得獨一無二的量身打造協助。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google 正將更個人化版本的 Gemini AI 助理帶進你的車上</title>
+      <link>https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179676</guid>
+      <pubDate>Tue, 20 Oct 2026 20:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 正把 Gemini 的 Personal Intelligence 功能帶到車上，讓它的 AI 助理可運用 Gmail、Calendar、Maps、YouTube 和其他 Google 服務中的資訊，在開車時提供更個人化的回應。</description>
     </item>
     <item>
       <title>GM 將關閉底特律電池組裝廠，但原因可能不是你以為的那樣</title>
@@ -276,15 +285,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/d7234aca6f858edd7c1472c556ce312d/6ad6f57e3d63322a005875f8_spain-startups-bsc-1920x1080-1-842x450/spain-startups-bsc-1920x1080-1-842x450_thmb.jpg?v=742f0af5-01b3-4438-8ec1-bffefb3a6143" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d7234aca6f858edd7c1472c556ce312d/6ad6f57e3d63322a005875f8_spain-startups-bsc-1920x1080-1-842x450/spain-startups-bsc-1920x1080-1-842x450_thmb.jpg?v=742f0af5-01b3-4438-8ec1-bffefb3a6143"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d7234aca6f858edd7c1472c556ce312d/6ad6f57e3d63322a005875f8_spain-startups-bsc-1920x1080-1-842x450/spain-startups-bsc-1920x1080-1-842x450_thmb.jpg?v=742f0af5-01b3-4438-8ec1-bffefb3a6143" alt=""></p><p>巴塞隆納超級運算中心（BSC）的 AI Factory Accelerator Programme 在試辦計畫後已全面運作，讓新創公司能取得主權運算資源、技術支援與培訓，以支持各產業的創新。許多這些公司也都是 NVIDIA Inception 計畫中專注前沿技術的新創公司成員，而且從今天起，也能使用一些 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Walmart 的 Flipkart 正在印度低調打造一個外送競爭對手</title>
-      <link>https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179333</guid>
-      <pubDate>Tue, 20 Oct 2026 02:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Flipkart 在正式公開上線前，已將其 food-delivery 服務的使用權開放給數千名員工。</description>
     </item>
     <item>
       <title>OpenAI 收購 Orchestra Bio</title>
