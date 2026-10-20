@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 17:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:28:52 GMT</lastBuildDate>
     <item>
       <title>Meta 的 Muse 在 40 天內達到 1,000 萬次美國下載，僅有另外 11 個 App 達成這項里程碑</title>
       <link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
@@ -185,6 +185,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>會議筆記工具 Otter.ai 週二宣布，已從 General Catalyst 的 Customer Value Fund（CVF）募得 3.2 億美元。該基金可向新創提供資金而不稀釋股權，並根據行銷支出的成果獲取報酬。Otter.ai 表示，這筆資金將用於企業成長、上市策略、國際擴張與產品創新。[…]</description>
+    </item>
+    <item>
+      <title>加盟主使用 ChatGPT Work 將現金對帳時間縮短 94%</title>
+      <link>https://openai.com/index/ted-taylor-restaurant</link>
+      <guid isPermaLink="false">https://openai.com/index/ted-taylor-restaurant</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>一家獨立的 Schlotzsky’s 和 Cinnabon 加盟主將菜單重新定價時間縮短了 95%，並建立了一套可釋放 10 萬美元現金流的工作流程。</description>
     </item>
     <item>
       <title>透過更高的控制與選擇推動數位主權</title>
@@ -1296,15 +1305,6 @@
       <description>今天，Apple 與美國兒科學會合作，發布一份新指南，協助家庭建立健康的數位習慣。</description>
     </item>
     <item>
-      <title>DevDay 2026 回顧</title>
-      <link>https://openai.com/index/devday-2026-recap</link>
-      <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
-    </item>
-    <item>
       <title>介紹 GPT-6.1 Sol</title>
       <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
@@ -1312,6 +1312,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
+    </item>
+    <item>
+      <title>DevDay 2026 回顧</title>
+      <link>https://openai.com/index/devday-2026-recap</link>
+      <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
     </item>
     <item>
       <title>新的 Microsoft 資料創新解鎖只有你的企業才知道的事</title>
@@ -1360,15 +1369,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>你是 Codex Original 嗎？</title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
-    </item>
-    <item>
       <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
       <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
@@ -1376,6 +1376,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
+    </item>
+    <item>
+      <title>你是 Codex Original 嗎？</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1445,6 +1454,15 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+    </item>
+    <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
       <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
       <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
@@ -1461,15 +1479,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1967,15 +1976,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 GPT-6 Astra，Playco 以一個灰盒基礎打造了三個主題遊戲原型，並表示相較於前一個模型，人工修正減少了 50%。</description>
-    </item>
-    <item>
-      <title>Legora 以 GPT-6 Astra 在幾分鐘內審閱了 41 份文件</title>
-      <link>https://openai.com/index/legora-financial-statement-review-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/legora-financial-statement-review-with-astra</guid>
-      <pubDate>Thu, 03 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Legora 使用 GPT-6 Astra 在幾分鐘內審閱 41 份文件，找出全部 4 個刻意埋入的錯誤，並在這個財務審查工作流程中將效能提升近 40%。</description>
     </item>
     <item>
       <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
