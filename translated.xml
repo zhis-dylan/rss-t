@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:26:07 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 前員工創辦的航空新創公司 Reliable Robotics 獲得 1.15 億美元融資，估值突破 10 億美元</title>
+      <link>https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179475</guid>
+      <pubDate>Tue, 20 Oct 2026 13:17:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Reliable Robotics 以 1.15 億美元股權融資和 2,500 萬美元債務，延長了其 D 輪融資。</description>
+    </item>
     <item>
       <title>美國下令聯邦機構將中國 DeepSeek AI 自系統中移除</title>
       <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
@@ -246,15 +255,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/50251123164c2b783748b003bc473940/6ad65ba13d6332f05e072a37_quantum-computing-jupiter-supercomputer/quantum-computing-jupiter-supercomputer_thmb.jpg?v=41b14eed-74aa-4882-94b8-7c5195b3c9bb" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/50251123164c2b783748b003bc473940/6ad65ba13d6332f05e072a37_quantum-computing-jupiter-supercomputer/quantum-computing-jupiter-supercomputer_thmb.jpg?v=41b14eed-74aa-4882-94b8-7c5195b3c9bb"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/50251123164c2b783748b003bc473940/6ad65ba13d6332f05e072a37_quantum-computing-jupiter-supercomputer/quantum-computing-jupiter-supercomputer_thmb.jpg?v=41b14eed-74aa-4882-94b8-7c5195b3c9bb" alt=""></p><p>NVIDIA 今日宣布在 JUPITER 上完成破紀錄的量子運算模擬。JUPITER 是歐洲首台 exascale 超級電腦，讓研究人員得以完整探索並驗證 magic state cultivation——這是容錯量子運算的領先方法，所需量子位元比先前方法少 90%。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Rivian 執行長表示，自動駕駛將帶來「截然不同」的車輛設計</title>
-      <link>https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178869</guid>
-      <pubDate>Mon, 19 Oct 2026 17:39:51 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>他的願景最終將體現在 R4 車款上。</description>
     </item>
     <item>
       <title>如何透過 Gemini Notebook 調整你的簡報與影片</title>
