@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:54:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:09:51 GMT</lastBuildDate>
+    <item>
+      <title>Yelp 現在可以代你打電話，查詢餐廳候位時間</title>
+      <link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3178995</guid>
+      <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Yelp 正在把多項新的 AI 功能整合進其 app，這些功能可做的事情很多，從打電話查詢餐廳候位時間，到建立會記住你偏好的個人化推薦都可以。</description>
+    </item>
+    <item>
+      <title>Otter.ai 從 General Catalyst 的成長基金募得 3.2 億美元，用於其會議工具</title>
+      <link>https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179152</guid>
+      <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>會議筆記工具 Otter.ai 週二宣布，已從 General Catalyst 的 Customer Value Fund（CVF）募得 3.2 億美元。該基金可向新創提供資金而不稀釋股權，並根據行銷支出的成果獲取報酬。Otter.ai 表示，這筆資金將用於企業成長、上市策略、國際擴張與產品創新。[…]</description>
+    </item>
     <item>
       <title>透過更高的控制與選擇推動數位主權</title>
       <link>https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/</link>
@@ -291,15 +309,6 @@
       <description>那超過 100 億美元的股票，或約占馬斯克目前淨資產的 1%。</description>
     </item>
     <item>
-      <title>Laplace Intelligence 在機器人和自駕車進入真實世界前先進行紅隊測試</title>
-      <link>https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3166117</guid>
-      <pubDate>Mon, 19 Oct 2026 12:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>密西根大學衍生新創 Laplace Intelligence 使用 AI 代理和互動式模擬，在部署前對機器人和自動駕駛車輛進行壓力測試。這家獲利的新創公司將於 10 月 13 日至 15 日在舊金山舉行的 TechCrunch Disrupt 上參加 Startup Battlefield。</description>
-    </item>
-    <item>
       <title>提升低資源程式語言的程式撰寫能力</title>
       <link>https://openai.com/index/low-resource-programming-languages</link>
       <guid isPermaLink="false">https://openai.com/index/low-resource-programming-languages</guid>
@@ -319,15 +328,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 Working Trees 合作，透過巴西的林牧複合系統移除 270,000 噸二氧化碳。看看這個專案如何恢復土地與牧場經營。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Khosla Ventures 加碼投資 Even Healthcare，以挑戰印度的醫院經濟模式</title>
-      <link>https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178925</guid>
-      <pubDate>Mon, 19 Oct 2026 07:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Even Healthcare 在由 Khosla Ventures 領投的一輪融資中，估值達到 3 億美元，同時計畫擴大其在印度的醫院網絡。</description>
     </item>
     <item>
       <title>RTX Spark 隨著新款 Windows PC 到來而引爆全球慶祝</title>
