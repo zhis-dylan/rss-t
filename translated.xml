@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 19:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:00:18 GMT</lastBuildDate>
+    <item>
+      <title>在路上用 Gemini 享受免持個人化協助</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/</guid>
+      <pubDate>Tue, 20 Oct 2026 20:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 已可在全球車輛中使用。透過個人智慧，在保持專注路況的同時，獲得獨一無二的量身打造協助。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 已可在全球車輛中使用。透過個人智慧，在保持專注路況的同時，獲得獨一無二的量身打造協助。</p>]]></content:encoded>
+    </item>
     <item>
       <title>GM 將關閉底特律電池組裝廠，但原因可能不是你以為的那樣</title>
       <link>https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/</link>
@@ -558,15 +570,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp" alt=""></p><p>Android 地震警報現已在超過 200 個國家和地區提供。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們如何幫助世界為自然災害做好準備</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們的北極星目標很簡單卻也很宏大：沒有人應該因自然災害而措手不及。</description>
-    </item>
-    <item>
       <title>已有 400 家出版商與我們合作推出 News AI 試點計畫。</title>
       <link>https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/</guid>
@@ -589,6 +592,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" alt=""></p><p>我們正在更新 AI Mode 和 AI Overviews，加入更清楚的連結、來源脈絡，以及更多內容。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們如何幫助世界為自然災害做好準備</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</guid>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們的北極星目標很簡單卻也很宏大：沒有人應該因自然災害而措手不及。</description>
     </item>
     <item>
       <title>從資料中心到桌機全面開放：NVIDIA 以最高效率的 Super VL 與 Bolt 模型擴展 Nemotron 系列</title>
@@ -636,6 +648,18 @@
       <description>以巴西葡萄牙語版的 AI for Educators 慶祝教師節，並了解 Study Mode 如何協助教師支持主動、循序漸進的學習。</description>
     </item>
     <item>
+      <title>TIME 將 Google SynthID 評為 2026 年最佳發明之一。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>TIME 因 Google SynthID 在 AI 浮水印與驗證方面的突破性做法，將其評為 2026 年最佳發明之一。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.max-600x600.format-webp.webp" alt=""></p><p>TIME 因 Google SynthID 在 AI 浮水印與驗證方面的突破性做法，將其評為 2026 年最佳發明之一。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>一個智慧型的新購物車</title>
       <link>https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/universal-cart-launch/</guid>
@@ -658,18 +682,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/When_to_buy_guide_resize.max-600x600.format-webp.webp" alt=""></p><p>了解最佳購買時機。我們新的 When to Buy Guide 運用 Google Search 和折扣資料，顯示節慶優惠何時達到高峰。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>TIME 將 Google SynthID 評為 2026 年最佳發明之一。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synthid-time-best-inventions/</guid>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>TIME 因 Google SynthID 在 AI 浮水印與驗證方面的突破性做法，將其評為 2026 年最佳發明之一。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Labs_SynthID_Social1920x1080.max-600x600.format-webp.webp" alt=""></p><p>TIME 因 Google SynthID 在 AI 浮水印與驗證方面的突破性做法，將其評為 2026 年最佳發明之一。</p>]]></content:encoded>
     </item>
     <item>
       <title>用 iPhone Duo 開啟更多可能</title>
@@ -734,18 +746,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Bünyamin Aydın 將土耳其傳統、搖滾元素與未來主義融合，打造出一場在卡帕多奇亞登場、並以 iPhone 18 Pro Max 拍攝的里程碑時裝秀。</description>
-    </item>
-    <item>
-      <title>Research@ 2026：新穎功能與智慧</title>
-      <link>https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/research-capabilities-intelligence-2026/</guid>
-      <pubDate>Wed, 14 Oct 2026 16:15:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在分享我們最新的里程碑，以及一些我們正交到專家手中的先進 AI 功能與智慧。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Research-at.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Research-at.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Research-at.max-600x600.format-webp.webp" alt=""></p><p>我們正在分享我們最新的里程碑，以及一些我們正交到專家手中的先進 AI 功能與智慧。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 與半導體領導者推進 AI 在晶片設計與製造中的應用，邁向 AI 定義的晶圓廠</title>
