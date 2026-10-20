@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 21:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 21:31:10 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 的雲端合作夥伴關係變得很混亂</title>
+      <link>https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179891</guid>
+      <pubDate>Tue, 20 Oct 2026 21:25:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報導，Anthropic 正在努力從雲端供應商那裡取得足夠的運算資源，但這些供應商越來越把它視為競爭對手；與此同時，Anthropic 的基礎設施支出在預計 11 月進行 IPO 之前持續膨脹。</description>
+    </item>
     <item>
       <title>SpaceX 的 AI 業務表現優於預期</title>
       <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
@@ -242,15 +251,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>雖然 Oura 這些年來大致上主導了智慧戒指市場，但 RingConn 和 Ultrahuman 等競爭對手正在崛起，試圖取而代之，迫使這家公司持續創新。透過推出更進階的運動指標，隨著智慧戒指市場愈來愈擁擠，Oura 正在尋求與競爭對手區隔開來。</description>
-    </item>
-    <item>
-      <title>Yelp 現在可以代你打電話，查詢餐廳候位時間</title>
-      <link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178995</guid>
-      <pubDate>Tue, 20 Oct 2026 11:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Yelp 正在把多項新的 AI 功能整合進其 app，這些功能可做的事情很多，從打電話查詢餐廳候位時間，到建立會記住你偏好的個人化推薦都可以。</description>
     </item>
     <item>
       <title>加盟主使用 ChatGPT Work 將現金對帳時間縮短 94%</title>
