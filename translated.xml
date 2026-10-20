@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 12:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 13:10:58 GMT</lastBuildDate>
+    <item>
+      <title>美國下令聯邦機構將中國 DeepSeek AI 自系統中移除</title>
+      <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179571</guid>
+      <pubDate>Tue, 20 Oct 2026 13:07:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國已下令聯邦民事機構移除 DeepSeek 產品，以及使用其技術打造的第三方服務，理由是國家安全疑慮。</description>
+    </item>
+    <item>
+      <title>Eka 受益於一個讓專家讚不絕口的實體 AI 模型，估值達 14.5 億美元</title>
+      <link>https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179067</guid>
+      <pubDate>Tue, 20 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Eka Robotics 可能是第一款真的擅長撿取各式各樣物品的機器手臂，而且它動作非常流暢、很有人味，令業界驚艷。</description>
+    </item>
+    <item>
+      <title>隨著紐約抵消矽谷的磁吸效應，Inspired Capital 完成 4.5 億美元第四支基金募資</title>
+      <link>https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179552</guid>
+      <pubDate>Tue, 20 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在風險投資資金大量湧入西岸之際，這筆募資順利完成。</description>
+    </item>
     <item>
       <title>Apple 宣布最新 iPhone 系列的 American Manufacturing Program 合作夥伴</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/</link>
@@ -242,24 +269,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 讓你在建立投影片和影片總覽時，擁有更多創意控制權。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Amazon 將資助印第安納州前煤電廠的 12 座小型核反應爐</title>
-      <link>https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179053</guid>
-      <pubDate>Mon, 19 Oct 2026 16:55:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 和 X-energy 又簽了一項部署核能上網的協議。這項計畫將產生接近 1 GW 的電力。</description>
-    </item>
-    <item>
-      <title>人們正使用 AI 讓智慧電視變回不智慧</title>
-      <link>https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179051</guid>
-      <pubDate>Mon, 19 Oct 2026 16:13:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>受夠了廣告、追蹤和卡頓的介面，一些智慧電視用戶正轉向 AI 代理人，移除預載軟體並重新掌控自己的電視。</description>
-    </item>
-    <item>
       <title>用 Gemini 打造穿搭的 4 個技巧</title>
       <link>https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</guid>
@@ -282,15 +291,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp" alt=""></p><p>我們查看了 Google Trends，看看七大時尚之都的人們都在搜尋什麼，好為他們的穿搭帶來那種難以言喻的風格感……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 推出可在企業與 PC 上執行代理的新開放模型</title>
-      <link>https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3177977</guid>
-      <pubDate>Mon, 19 Oct 2026 15:37:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>NVIDIA 大力押注企業希望在自家資料中心執行自己的開放模型這股趨勢，也試圖讓裝置端、私有 AI 代理成為一件事。</description>
     </item>
     <item>
       <title>NVIDIA 推進媒體的代理式安全，從歐洲公共服務廣播到全球內容製作</title>
