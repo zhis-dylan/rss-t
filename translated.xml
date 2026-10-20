@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 08:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 08:23:37 GMT</lastBuildDate>
+    <item>
+      <title>透過更高的控制與選擇推動數位主權</title>
+      <link>https://blogs.microsoft.com/blog/2026/10/20/advancing-digital-sovereignty-with-greater-control-and-choice/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563198</guid>
+      <pubDate>Tue, 20 Oct 2026 08:20:02 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>在我與政府、關鍵基礎設施以及受監管產業的領導者交流中，有一項優先事項始終最為重要：讓科技發揮作用，運用在他們最重要的系統上，同時維持這些系統所需的控制權。隨著先進的雲端與 AI 功能走進公共服務、受監管流程以及關鍵...
+〈透過更高的控制與選擇推動數位主權〉一文最早刊登於 The Official Microsoft Blog。</description>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg" alt=""></p><p>在我與政府、關鍵基礎設施以及受監管產業的領導者交流中，有一項優先事項始終最為重要：讓科技發揮作用，運用在他們最重要的系統上，同時維持這些系統所需的控制權。隨著先進的雲端與 AI 功能走進公共服務、受監管流程以及關鍵...<br>〈透過更高的控制與選擇推動數位主權〉一文最早刊登於 The Official Microsoft Blog。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Blackwall 估值飆升四倍至 22 億美元，因網站在日益擁擠的網路中周旋</title>
       <link>https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/</link>
@@ -1995,19 +2008,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>在過去這個財年期間，各行各業和各個領域的客戶都從 AI 實驗階段，邁向部署 AI 以達成真實世界的商業成果。他們釋放了創新，並創造了新的成長機會。隨著他們超越效率提升，轉而聚焦人類雄心，並將 AI 融入核心，我們看見了 Frontier Firms 的出現……
 The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on The Official Microsoft Blog.</description>
-    </item>
-    <item>
-      <title>重新思考 AI 時代的安全性</title>
-      <link>https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563065</guid>
-      <pubDate>Mon, 27 Jul 2026 16:30:09 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>為什麼安全需要全新的 Cyber Stack —— 介紹 Project Perception 資安的物理法則正在改變。自主系統現在可以推理、適應並持續運作。同時，攻擊的成本正在下降，而需要保護的內容在數量、速度與複雜度上持續增加。攻擊者可以更快產生漏洞利用程式，...
-The post Rethinking security for the age of AI appeared first on The Official Microsoft Blog.</description>
-      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/07/Slide1-Final.jpg" alt=""></p><p>為什麼安全需要全新的 Cyber Stack —— 介紹 Project Perception 資安的物理法則正在改變。自主系統現在可以推理、適應並持續運作。同時，攻擊的成本正在下降，而需要保護的內容在數量、速度與複雜度上持續增加。攻擊者可以更快產生漏洞利用程式，...<br>The post Rethinking security for the age of AI appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
     </item>
   </channel>
 </rss>
