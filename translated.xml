@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 18:29:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 18:44:38 GMT</lastBuildDate>
+    <item>
+      <title>Google 也加入 Amazon 的行列，透過 AI 應用開發者攻擊 Nvidia 的壟斷地位</title>
+      <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179702</guid>
+      <pubDate>Tue, 20 Oct 2026 18:38:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 也已加入 Amazon，推出一款開發者工具，讓 PyTorch 使用者更容易將其應用程式從 Nvidia GPU 移轉出去。</description>
+    </item>
+    <item>
+      <title>ChatGPT 現在可讓你鎖定聊天內容</title>
+      <link>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179763</guid>
+      <pubDate>Tue, 20 Oct 2026 18:36:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>公司表示，這項功能是為了這種情況設計的：使用者可能正在討論私事，或是在籌劃驚喜，希望把那些對話保密，以便把裝置交給朋友或家人看另一個聊天內容時使用。</description>
+    </item>
     <item>
       <title>據報 Eric Schmidt 持有的 Anthropic 股份約為執行長 Dario Amodei 的一半</title>
       <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
@@ -264,24 +282,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在收購 Orchestra Bio，將 AI 驅動的營運導入生命科學研發，協助生物製藥團隊加速藥物開發並推動新療法。</description>
-    </item>
-    <item>
-      <title>Nscale 和 Anthropic 據報正在洽談另一筆 450 億美元的算力交易</title>
-      <link>https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179487</guid>
-      <pubDate>Mon, 19 Oct 2026 23:39:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>8 月，Nscale 和 Anthropic 宣布了一筆 450 億美元的算力交易。據報，這兩家公司正在討論另一筆同等規模的交易。</description>
-    </item>
-    <item>
-      <title>內嵌式 AI 評估器不會是個容易的解決方案，Hugging Face 政策長表示</title>
-      <link>https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178312</guid>
-      <pubDate>Mon, 19 Oct 2026 22:49:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 實驗室一直把聲譽押在模型基準測試上——也就是那套據稱中立且精準的評估系統，用來衡量一項 AI 產品是否比另一項更好。不過，Hugging Face 政策長 Irene Solaiman 在 TechCrunch 的一場討論中表示，這些評估背後的方法相當複雜，而且仍在發展中。</description>
     </item>
     <item>
       <title>攜手強化電網並支持阿肯色州當地社區</title>
