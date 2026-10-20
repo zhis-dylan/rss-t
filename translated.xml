@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 17:43:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 17:59:10 GMT</lastBuildDate>
+    <item>
+      <title>據報 Eric Schmidt 持有的 Anthropic 股份約為執行長 Dario Amodei 的一半</title>
+      <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179732</guid>
+      <pubDate>Tue, 20 Oct 2026 17:55:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這位前 Google 執行長持有這家領先 AI 實驗室約 1% 的股份，彭博報導指出。</description>
+    </item>
     <item>
       <title>Meta 的 Muse 在 40 天內達到 1,000 萬次美國下載，僅有另外 11 個 App 達成這項里程碑</title>
       <link>https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/</link>
@@ -264,15 +273,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 實驗室一直把聲譽押在模型基準測試上——也就是那套據稱中立且精準的評估系統，用來衡量一項 AI 產品是否比另一項更好。不過，Hugging Face 政策長 Irene Solaiman 在 TechCrunch 的一場討論中表示，這些評估背後的方法相當複雜，而且仍在發展中。</description>
-    </item>
-    <item>
-      <title>Microsoft 表示 AI 代理人就像內部威脅，因為「前沿模型不值得信任」</title>
-      <link>https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179279</guid>
-      <pubDate>Mon, 19 Oct 2026 22:04:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 希望企業密切監控員工使用的代理人，這些系統並非由 OpenAI 和 Anthropic 這類 AI 實驗室所控制。</description>
     </item>
     <item>
       <title>攜手強化電網並支持阿肯色州當地社區</title>
