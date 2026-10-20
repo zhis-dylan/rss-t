@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 19:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 19:45:08 GMT</lastBuildDate>
+    <item>
+      <title>GM 將關閉底特律電池組裝廠，但原因可能不是你以為的那樣</title>
+      <link>https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179802</guid>
+      <pubDate>Tue, 20 Oct 2026 19:32:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>GM 正在關閉 Brownstown 電池組裝廠，不過這次關閉與這家車廠的電動化策略無關。</description>
+    </item>
     <item>
       <title>Google 也加入 Amazon 的行列，透過 AI 應用開發者攻擊 Nvidia 的壟斷地位</title>
       <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
@@ -264,15 +273,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Flipkart 在正式公開上線前，已將其 food-delivery 服務的使用權開放給數千名員工。</description>
-    </item>
-    <item>
-      <title>Mamdani 表示聯邦政府已在 AI 議題上棄守，呼籲紐約人挺身反擊</title>
-      <link>https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179517</guid>
-      <pubDate>Tue, 20 Oct 2026 01:27:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>市長 Zohran Mamdani 週一晚間表示，紐約人必須抵制 AI 接管是不可避免的這種說法，並要求制定能保護大眾、把權力交回他們手中的法規。</description>
     </item>
     <item>
       <title>OpenAI 收購 Orchestra Bio</title>
