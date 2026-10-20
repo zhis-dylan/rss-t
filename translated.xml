@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 14:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 14:26:36 GMT</lastBuildDate>
+    <item>
+      <title>Figma 共同創辦人 Dylan Field 認為 MCP 不是一個完美的協定</title>
+      <link>https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179569</guid>
+      <pubDate>Tue, 20 Oct 2026 14:13:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Figma 表示，計畫盡可能支援各種標準，但不會公開所有資料</description>
+    </item>
     <item>
       <title>SpaceX 前員工創辦的航空新創公司 Reliable Robotics 獲得 1.15 億美元融資，估值突破 10 億美元</title>
       <link>https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/</link>
@@ -234,15 +243,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在今年稍早吸引收購意向後，這家 Nvidia 挑戰者募得 15 億美元，以保持獨立。</description>
-    </item>
-    <item>
-      <title>AI 助理新創公司 Town 在推出四個月後拿下獨角獸估值</title>
-      <link>https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179139</guid>
-      <pubDate>Mon, 19 Oct 2026 18:00:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 助理新創公司 Town 週一宣布拿下獨角獸估值，並公告由 Forerunner Ventures 和 Menlo Ventures 共同領投的 1.08 億美元 B 輪融資。</description>
     </item>
     <item>
       <title>NVIDIA 在 Jülich 超級運算中心執行破紀錄的容錯量子運算模擬</title>
