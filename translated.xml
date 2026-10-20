@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 20 Oct 2026 11:55:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 12:10:24 GMT</lastBuildDate>
+    <item>
+      <title>Apple 宣布最新 iPhone 系列的 American Manufacturing Program 合作夥伴</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-announces-american-manufacturing-program-partners-for-latest-iphone-lineup/</guid>
+      <pubDate>Tue, 20 Oct 2026 12:00:22 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 宣布與美國公司建立新的與擴大的合作夥伴關係，這些公司正為 iPhone Duo 和 iPhone 18 Pro 提供關鍵材料與零組件。</description>
+    </item>
+    <item>
+      <title>Spotify 推出付費 Podcast 會員制，提供的不只額外內容</title>
+      <link>https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179100</guid>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Spotify 的新付費會員制讓 Podcast 創作者可以提供粉絲獨家福利，包括無廣告收聽、搶先聽，以及額外內容，同時保留 90% 的收益。</description>
+    </item>
+    <item>
+      <title>Oura 新增健身指標，顯示運動如何影響你的身體</title>
+      <link>https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179110</guid>
+      <pubDate>Tue, 20 Oct 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>雖然 Oura 這些年來大致上主導了智慧戒指市場，但 RingConn 和 Ultrahuman 等競爭對手正在崛起，試圖取而代之，迫使這家公司持續創新。透過推出更進階的運動指標，隨著智慧戒指市場愈來愈擁擠，Oura 正在尋求與競爭對手區隔開來。</description>
+    </item>
     <item>
       <title>Yelp 現在可以代你打電話，查詢餐廳候位時間</title>
       <link>https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/</link>
@@ -289,24 +316,6 @@
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg" alt=""></p><p>在過去幾個月，隨著越來越多事件被公開揭露，外界對 AI 安全的擔憂也隨之升高。這些事件顯示出模型已經變得多麼強大，以及如果沒有妥善處理，它們會構成多麼重大的威脅。而隨著全球創新競賽持續加劇，當模型變得甚至更加......時，這項挑戰也會進一步擴大。<br>這篇文章〈保護代理式內部威脅〉最早出現在 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple 更新規範，禁止偽裝成一般 App 以通過審核的 nudify 應用程式</title>
-      <link>https://techcrunch.com/2026/10/19/apple-updates-guidelines-to-ban-nudify-apps-masquerading-as-regular-apps-to-pass-review/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178990</guid>
-      <pubDate>Mon, 19 Oct 2026 12:56:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 表示，將禁止無法審核不當內容的 AI 應用程式。</description>
-    </item>
-    <item>
-      <title>馬斯克承諾要給「美國每個孩子」一股他的 SpaceX 股票</title>
-      <link>https://techcrunch.com/2026/10/19/musk-pledges-to-give-every-kid-in-america-one-of-his-spacex-shares/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3178988</guid>
-      <pubDate>Mon, 19 Oct 2026 12:42:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>那超過 100 億美元的股票，或約占馬斯克目前淨資產的 1%。</description>
     </item>
     <item>
       <title>提升低資源程式語言的程式撰寫能力</title>
@@ -1742,15 +1751,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Perplexity 使用 Astra 撰寫溝通內容、變更軟體並監控生產系統，而且查核頻率比先前的模型低得多。</description>
-    </item>
-    <item>
-      <title>準備好體驗 iPhone 18 Pro、全新的 Apple Watch 系列和 AirPods 5</title>
-      <link>https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/get-ready-to-experience-iphone-18-pro-the-new-apple-watch-lineup-and-airpods-5/</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:08 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>從 9 月 12 日星期六開始，顧客可預購 iPhone 18 Pro 和 iPhone 18 Pro Max。</description>
     </item>
     <item>
       <title>Cognition 協助 Devin 用 GPT‑6 Astra 測試自己的工作</title>
