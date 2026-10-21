@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:37:20 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 推進 Isaac 平台用於通用型機器人，推出新的參考人形機器人、框架、模擬流程與資料</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data</guid>
+      <pubDate>Wed, 21 Oct 2026 10:20:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今天宣布大幅擴充 NVIDIA Isaac™ 開放式機器人開發平台，新增參考人形機器人、資料集與執行環境，並更新其機器人學習框架。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" alt=""></p><p>NVIDIA 今天宣布大幅擴充 NVIDIA Isaac™ 開放式機器人開發平台，新增參考人形機器人、資料集與執行環境，並更新其機器人學習框架。</p>]]></content:encoded>
+    </item>
     <item>
       <title>歐洲移動出行領導者在 NVIDIA Hyperion 上打造安全車輛與 robotaxi 車隊</title>
       <link>https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion</link>
@@ -733,18 +745,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" alt=""></p><p>我們正在更新 AI Mode 和 AI Overviews，加入更清楚的連結、來源脈絡，以及更多內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>從資料中心到桌機全面開放：NVIDIA 以最高效率的 Super VL 與 Bolt 模型擴展 Nemotron 系列</title>
-      <link>https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nemotron-3-5-super-vl/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:00:24 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今天推出 Nemotron 3.5 Super VL，這是一款開放的 1200 億參數模型，為專門的全天候代理提供最快的任務完成速度和最高準確度。與其一同登場的還有兩款新的邊緣模型：Nemotron 3.5 Bolt 74B-A9B 24GB，針對本地 agentic 工作負載優化，以在智慧與速度之間達成每 GB 的平衡；以及 Nemotron 3.5 Bolt E4B 4GB，針對……進行優化</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/1537766779024a2b34767af63823c4c6/6ad0ea933d633256e451ff7c_FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450_thmb.jpg?v=fdd21978-126e-4822-81aa-d850892d3765" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/1537766779024a2b34767af63823c4c6/6ad0ea933d633256e451ff7c_FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450_thmb.jpg?v=fdd21978-126e-4822-81aa-d850892d3765"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/1537766779024a2b34767af63823c4c6/6ad0ea933d633256e451ff7c_FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450/FIRST-agentic-ai-nemotron-3.5-super-vl-blog-1920x1080-5783765-842x450_thmb.jpg?v=fdd21978-126e-4822-81aa-d850892d3765" alt=""></p><p>NVIDIA 今天推出 Nemotron 3.5 Super VL，這是一款開放的 1200 億參數模型，為專門的全天候代理提供最快的任務完成速度和最高準確度。與其一同登場的還有兩款新的邊緣模型：Nemotron 3.5 Bolt 74B-A9B 24GB，針對本地 agentic 工作負載優化，以在智慧與速度之間達成每 GB 的平衡；以及 Nemotron 3.5 Bolt E4B 4GB，針對……進行優化</p>]]></content:encoded>
     </item>
     <item>
       <title>透過設計、維修與重複使用，讓你的 Pixel 裝置更耐用</title>
