@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:51:42 GMT</lastBuildDate>
+    <item>
+      <title>歐洲生態系統運用 NVIDIA DSX 打造全球最有效率的 AI 工廠</title>
+      <link>https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx</guid>
+      <pubDate>Wed, 21 Oct 2026 09:35:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>新聞摘要：
+
+
+NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷卻用水消耗降至近乎零，潛在節省 5,400 萬公升...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/1909e3e87775e2788375b3d0aa3724ba/6ad7dc5f3d6332c412cb7556_nvidia-dsx-platform/nvidia-dsx-platform_thmb.jpg?v=95909e16-23fd-4d0e-acd4-72aec3f13fde" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/1909e3e87775e2788375b3d0aa3724ba/6ad7dc5f3d6332c412cb7556_nvidia-dsx-platform/nvidia-dsx-platform_thmb.jpg?v=95909e16-23fd-4d0e-acd4-72aec3f13fde"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/1909e3e87775e2788375b3d0aa3724ba/6ad7dc5f3d6332c412cb7556_nvidia-dsx-platform/nvidia-dsx-platform_thmb.jpg?v=95909e16-23fd-4d0e-acd4-72aec3f13fde" alt=""></p><p>新聞摘要：<br><br><br>NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷卻用水消耗降至近乎零，潛在節省 5,400 萬公升...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 推出 DSX POD AI 工廠，加速歐洲基礎設施部署</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment</guid>
+      <pubDate>Wed, 21 Oct 2026 09:34:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日推出 DSX POD，這是一項完整 NVIDIA Vera Rubin AI 工廠的參考設計，由合作夥伴在模組化貨櫃內建置，並在交付前完成整合與驗證。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/37e892449c48767de17d929f36b4d469/6ad84e8c3d6332fa2ecb7555_nvidia-dsx-pod/nvidia-dsx-pod_thmb.jpg?v=bdc77880-16cd-4f2a-8ad8-83c2e848fae8" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/37e892449c48767de17d929f36b4d469/6ad84e8c3d6332fa2ecb7555_nvidia-dsx-pod/nvidia-dsx-pod_thmb.jpg?v=bdc77880-16cd-4f2a-8ad8-83c2e848fae8"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/37e892449c48767de17d929f36b4d469/6ad84e8c3d6332fa2ecb7555_nvidia-dsx-pod/nvidia-dsx-pod_thmb.jpg?v=bdc77880-16cd-4f2a-8ad8-83c2e848fae8" alt=""></p><p>NVIDIA 今日推出 DSX POD，這是一項完整 NVIDIA Vera Rubin AI 工廠的參考設計，由合作夥伴在模組化貨櫃內建置，並在交付前完成整合與驗證。</p>]]></content:encoded>
+    </item>
     <item>
       <title>GTC 柏林 2026：NVIDIA 執行長 Jensen Huang 主題演講現場更新</title>
       <link>https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</link>
@@ -901,18 +928,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA 今日宣布一項為期五年的運算資源捐贈，價值 2.5 億美元，用以強化英國在代理式安全與資安研究方面的能力。</p>]]></content:encoded>
     </item>
     <item>
-      <title>歐洲城市部署由 NVIDIA 驅動的 AI 代理，讓都市營運更智慧</title>
-      <link>https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/</guid>
-      <pubDate>Wed, 14 Oct 2026 06:00:28 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>讓城市持續運作，意味著要做出會影響居民日常生活的決策——從何時修補道路，到如何更有效率地使用能源。在 EMEA 地區，各城市以及當地的軟體、基礎設施和整合合作夥伴正運用 NVIDIA 加速運算，打造實體 AI 代理與數位孿生，協助團隊完成…</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/af99a5398b196a1a4eca380e548b0b20/6acf1aa43d6332373f7a92ba_gtc-berlin-smart-cities-blog-842x450/gtc-berlin-smart-cities-blog-842x450_thmb.jpg?v=04cdaffa-6cb8-4d97-b22b-f0511e272af3" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/af99a5398b196a1a4eca380e548b0b20/6acf1aa43d6332373f7a92ba_gtc-berlin-smart-cities-blog-842x450/gtc-berlin-smart-cities-blog-842x450_thmb.jpg?v=04cdaffa-6cb8-4d97-b22b-f0511e272af3"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/af99a5398b196a1a4eca380e548b0b20/6acf1aa43d6332373f7a92ba_gtc-berlin-smart-cities-blog-842x450/gtc-berlin-smart-cities-blog-842x450_thmb.jpg?v=04cdaffa-6cb8-4d97-b22b-f0511e272af3" alt=""></p><p>讓城市持續運作，意味著要做出會影響居民日常生活的決策——從何時修補道路，到如何更有效率地使用能源。在 EMEA 地區，各城市以及當地的軟體、基礎設施和整合合作夥伴正運用 NVIDIA 加速運算，打造實體 AI 代理與數位孿生，協助團隊完成…</p>]]></content:encoded>
-    </item>
-    <item>
       <title>歐盟 AI 的下一章是代理式 AI</title>
       <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
       <guid isPermaLink="false">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
@@ -995,18 +1010,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今天宣布 Apple Home Collection，這是一系列與 LG Electronics 和 Schneider Electric 合作打造的智慧家庭配件。</description>
-    </item>
-    <item>
-      <title>全系統就緒：全球 PC 應用生態系已為 NVIDIA RTX Spark 準備好</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-software-updates/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:49 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA RTX Spark 是 PC 的全新開始——一款重新定義的產品，將遊戲 PC、創意工作室和個人 AI 超級電腦的能力結合在單一超級晶片中。RTX Spark 配備最高 128GB 的統一記憶體與 1 petaflop 的 AI 運算能力，提供完整的 NVIDIA RTX 與 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/bbc6b9cdf14fbe5f7664f977c0ea5447/6ace1dde3d63325cfcf07f50_nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450_thmb.jpg?v=3d8579af-d065-4e3d-8444-5cd8f6dbb823" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/bbc6b9cdf14fbe5f7664f977c0ea5447/6ace1dde3d63325cfcf07f50_nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450_thmb.jpg?v=3d8579af-d065-4e3d-8444-5cd8f6dbb823"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/bbc6b9cdf14fbe5f7664f977c0ea5447/6ace1dde3d63325cfcf07f50_nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450/nv-raig-weekly-kit-10132026-nv-blog-1280x680-1-842x450_thmb.jpg?v=3d8579af-d065-4e3d-8444-5cd8f6dbb823" alt=""></p><p>NVIDIA RTX Spark 是 PC 的全新開始——一款重新定義的產品，將遊戲 PC、創意工作室和個人 AI 超級電腦的能力結合在單一超級晶片中。RTX Spark 配備最高 128GB 的統一記憶體與 1 petaflop 的 AI 運算能力，提供完整的 NVIDIA RTX 與 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Higgsfield 讓 AI 影片從 1 分鐘提升到超過 10 分鐘</title>
