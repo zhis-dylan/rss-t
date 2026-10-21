@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:29:05 GMT</lastBuildDate>
+    <item>
+      <title>Airbnb 限制房客的打掃工作，引發房東反彈</title>
+      <link>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180432</guid>
+      <pubDate>Wed, 21 Oct 2026 22:16:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 Airbnb 表示房東不能再要求房客拆床單或做其他耗時的清潔工作後，房東們威脅要離開這個平台。</description>
+    </item>
     <item>
       <title>TechCrunch Founder Summit 2026：你需要知道的一切</title>
       <link>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
@@ -503,15 +512,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 提出一套藍圖，說明如何透過前沿 AI、加強防護、現代化資安，以及更具韌性的公共機構來賦能網路防禦者。</description>
-    </item>
-    <item>
-      <title>Anthropic 提出 AI 安全法案，若可能造成 50 人以上死亡，或將封鎖模型</title>
-      <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179755</guid>
-      <pubDate>Tue, 20 Oct 2026 23:01:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項擬議政策看似為失控的 AI 提供保護，但實際上卻禁止聯邦機構在未經法官許可的情況下阻止模型發布。</description>
     </item>
     <item>
       <title>在路上用 Gemini 享受免持個人化協助</title>
