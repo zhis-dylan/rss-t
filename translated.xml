@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:27:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:43:07 GMT</lastBuildDate>
+    <item>
+      <title>特斯拉在加州啟動 Optimus 機器人量產，獲利下滑 43%</title>
+      <link>https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180381</guid>
+      <pubDate>Wed, 21 Oct 2026 20:33:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>特斯拉營收持平，但支出大幅飆升，因為公司正全力推進 Optimus 機器人、AI 和自動駕駛。</description>
+    </item>
     <item>
       <title>Recursive 推出 Flint：一款號稱主要由 AI 打造的筆電程式碼模型</title>
       <link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
@@ -494,15 +503,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據報導，Anthropic 正在努力從雲端供應商那裡取得足夠的運算資源，但這些供應商越來越把它視為競爭對手；與此同時，Anthropic 的基礎設施支出在預計 11 月進行 IPO 之前持續膨脹。</description>
-    </item>
-    <item>
-      <title>SpaceX 的 AI 業務表現優於預期</title>
-      <link>https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179777</guid>
-      <pubDate>Tue, 20 Oct 2026 20:40:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>SpaceX 的資料中心和 Grok 代理在今年第二季的獲利表現比投資人預期更好，因為該公司正逐漸淡化其航太公司的根基，轉而專注於人工智慧，而人工智慧目前已占其收入的 52%。伊隆·馬斯克的綜合企業週二公布第三季營收為 146 億美元。 […]</description>
     </item>
     <item>
       <title>在路上用 Gemini 享受免持個人化協助</title>
