@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 17:26:06 GMT</lastBuildDate>
+    <item>
+      <title>Blacksmith 在 Sequoia 領投 C 輪後估值達獨角獸</title>
+      <link>https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180202</guid>
+      <pubDate>Wed, 21 Oct 2026 17:18:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Blacksmith 是一個讓公司更有效率地建構與測試 AI 程式碼的平台，剛宣布完成由 Sequoia 領投的 6600 萬美元 C 輪融資，估值達到 10 億美元。</description>
+    </item>
     <item>
       <title>Waymo 開始在拉斯維加斯機場提供乘車服務</title>
       <link>https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/</link>
@@ -512,15 +521,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" alt=""></p><p>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>植物可以透過電力說話，所以這家新創打造了一個 AI 模型來解讀它們的語言</title>
-      <link>https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179291</guid>
-      <pubDate>Tue, 20 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Electric Plant 打造了一個由 AI 驅動的翻譯器，幫助人類透過流經植物莖部的細微電流，聽懂植物在說什麼。</description>
     </item>
     <item>
       <title>擴大我們對金融詐騙廣告的防護</title>
