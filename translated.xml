@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 21:13:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 21:28:33 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch Founder Summit 2026：你需要知道的一切</title>
+      <link>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3168635</guid>
+      <pubDate>Wed, 21 Oct 2026 21:16:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch Founder Summit 是一場在 11 月 4 日於波士頓舉行、為期一天的聚會，來自各個階段的創業者將與頂尖 VC 和經驗豐富的創業者交流，獲得關於如何打造與擴展公司實務上的洞見。</description>
+    </item>
+    <item>
+      <title>Meta 表示 Muse 的用戶數已超過 1,000 萬，購物是主要使用活動之一</title>
+      <link>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180391</guid>
+      <pubDate>Wed, 21 Oct 2026 21:14:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 表示，Muse 用戶正在將這款 app 用於購物和個人生產力，該公司在第三季財報中指出。這款 AI app 的用戶數現已超過 1,000 萬。</description>
+    </item>
     <item>
       <title>一年前成立的 AI 實驗室 Flapping Airplanes 以 60 億美元估值募得 10 億美元</title>
       <link>https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/</link>
@@ -485,24 +503,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這項擬議政策看似為失控的 AI 提供保護，但實際上卻禁止聯邦機構在未經法官許可的情況下阻止模型發布。</description>
-    </item>
-    <item>
-      <title>SpaceX 和 Tesla 董事會成立特別委員會審查合併</title>
-      <link>https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179932</guid>
-      <pubDate>Tue, 20 Oct 2026 22:57:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>伊隆・馬斯克喜歡這個構想，但表示他不在這兩個由獨立董事組成的委員會中。</description>
-    </item>
-    <item>
-      <title>Hugging Face 執行長警告，Netflix 的 OpenAI 駭客紀錄片並不準確</title>
-      <link>https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179822</guid>
-      <pubDate>Tue, 20 Oct 2026 22:24:02 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在你分享 Netflix 紀錄片《AI Gone Rogue》之前，請先留意。Hugging Face 共同創辦人、也是片中受訪者的 Clem Delangue 表示，這部片子「完全進入末日模式」，而且並不準確。</description>
     </item>
     <item>
       <title>在路上用 Gemini 享受免持個人化協助</title>
