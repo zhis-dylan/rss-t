@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 13:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:39:00 GMT</lastBuildDate>
+    <item>
+      <title>熱泵技術已有 170 年歷史。Pascal 認為是時候更新了。</title>
+      <link>https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179833</guid>
+      <pubDate>Wed, 21 Oct 2026 13:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>冷媒新創公司 Pascal 對熱泵與冷卻技術有了新想法，採用一種海綿狀材料，號稱可提升 20% 的效率。</description>
+    </item>
     <item>
       <title>新的出價與預算工具可改變你即將到來的節慶廣告策略。</title>
       <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
@@ -473,15 +482,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Reliable Robotics 以 1.15 億美元股權融資和 2,500 萬美元債務，延長了其 D 輪融資。</description>
-    </item>
-    <item>
-      <title>美國下令聯邦機構將中國 DeepSeek AI 自系統中移除</title>
-      <link>https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179571</guid>
-      <pubDate>Tue, 20 Oct 2026 13:07:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>美國已下令聯邦民事機構移除 DeepSeek 產品，以及使用其技術打造的第三方服務，理由是國家安全疑慮。</description>
     </item>
     <item>
       <title>Apple 宣布最新 iPhone 系列的 American Manufacturing Program 合作夥伴</title>
