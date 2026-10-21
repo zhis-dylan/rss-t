@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:02:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:17:58 GMT</lastBuildDate>
     <item>
       <title>Anthropic 提出 AI 安全法案，若可能造成 50 人以上死亡，或將封鎖模型</title>
       <link>https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/</link>
@@ -273,6 +273,15 @@
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg" alt=""></p><p>在我與政府、關鍵基礎設施以及受監管產業的領導者交流中，有一項優先事項始終最為重要：讓科技發揮作用，運用在他們最重要的系統上，同時維持這些系統所需的控制權。隨著先進的雲端與 AI 功能走進公共服務、受監管流程以及關鍵...<br>〈透過更高的控制與選擇推動數位主權〉一文最早刊登於 The Official Microsoft Blog。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Terminal X 以 GPT-6.1 達到與資深投資人判斷 88.6% 一致</title>
+      <link>https://openai.com/index/terminal-x</link>
+      <guid isPermaLink="false">https://openai.com/index/terminal-x</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Terminal X 的 Eval Agent 依照 54 項標準的評分規準來評估輸出，使用 GPT-6.1 Sol 可多抓到 25% 偏離基金投資授權的情況。</description>
     </item>
     <item>
       <title>總部位於西班牙的新創公司透過巴塞隆納超級運算中心推動區域創新</title>
@@ -1044,15 +1053,6 @@
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Maia-200-Image-1.png.jpg" alt=""></p><p>Azure Maia 200 現已量產；Azure Maia 300 將於 2027 年推出。隨著我們邁入超級智慧時代，Microsoft 正進入基礎架構的新階段。自 2027 年起，我們將把 Azure Maia 系列擴展至多吉瓦級部署，使 Maia 成為 Microsoft 產品與服務的主要推論系統。這個跨世代...<br>這篇〈Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署〉最初發表於 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Asana 在瀏覽器測試中將模型成本降低 76 倍，採用 GPT-6.1 Sol</title>
-      <link>https://openai.com/index/asana-browser-agent</link>
-      <guid isPermaLink="false">https://openai.com/index/asana-browser-agent</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
-    </item>
-    <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
       <link>https://openai.com/index/sophos</link>
       <guid isPermaLink="false">https://openai.com/index/sophos</guid>
@@ -1060,6 +1060,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
+    </item>
+    <item>
+      <title>Asana 在瀏覽器測試中將模型成本降低 76 倍，採用 GPT-6.1 Sol</title>
+      <link>https://openai.com/index/asana-browser-agent</link>
+      <guid isPermaLink="false">https://openai.com/index/asana-browser-agent</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
@@ -1314,15 +1323,6 @@
       <description>今天，Apple 與美國兒科學會合作，發布一份新指南，協助家庭建立健康的數位習慣。</description>
     </item>
     <item>
-      <title>DevDay 2026 回顧</title>
-      <link>https://openai.com/index/devday-2026-recap</link>
-      <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
-    </item>
-    <item>
       <title>介紹 GPT-6.1 Sol</title>
       <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
@@ -1330,6 +1330,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
+    </item>
+    <item>
+      <title>DevDay 2026 回顧</title>
+      <link>https://openai.com/index/devday-2026-recap</link>
+      <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
     </item>
     <item>
       <title>新的 Microsoft 資料創新解鎖只有你的企業才知道的事</title>
@@ -1463,15 +1472,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
-    </item>
-    <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
       <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
@@ -1488,6 +1488,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+    </item>
+    <item>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1834,15 +1843,6 @@
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
-    </item>
-    <item>
       <title>Agents API 介紹</title>
       <link>https://openai.com/index/introducing-the-agents-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
@@ -1850,6 +1850,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
+    </item>
+    <item>
+      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
     </item>
     <item>
       <title>Paul Christiano 加入 OpenAI Foundation 董事會</title>
@@ -1967,15 +1976,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>在 OpenAI 內部，程式設計代理正在重塑 AI 研究。探索關於代理使用、實驗速度、任務複雜度與研究加速的早期資料。</description>
-    </item>
-    <item>
-      <title>為前線守護者點亮曙光：投入 10 億美元保護關鍵服務</title>
-      <link>https://openai.com/index/daybreak-for-frontline-defenders</link>
-      <guid isPermaLink="false">https://openai.com/index/daybreak-for-frontline-defenders</guid>
-      <pubDate>Thu, 03 Sep 2026 13:15:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 推出 Daybreak for Frontline Defenders。這筆 10 億美元的承諾將擴大前沿網路安全 AI、訓練與支援的取得，協助關鍵服務。</description>
     </item>
     <item>
       <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
