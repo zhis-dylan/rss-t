@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:27:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:42:25 GMT</lastBuildDate>
+    <item>
+      <title>當 Amazon 封鎖 AI 代理人，Walmart 則大開方便之門</title>
+      <link>https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180139</guid>
+      <pubDate>Wed, 21 Oct 2026 19:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>當 Amazon 封鎖 AI 代理人在其網站上購物時，Walmart 採取相反做法，推出新技術，讓 AI 代理人代表顧客下單，同時提供對支出與交易核准的控制。</description>
+    </item>
     <item>
       <title>網路今天的資安狀況非常糟糕</title>
       <link>https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/</link>
@@ -506,15 +515,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 也已加入 Amazon，推出一款開發者工具，讓 PyTorch 使用者更容易將其應用程式從 Nvidia GPU 移轉出去。</description>
-    </item>
-    <item>
-      <title>ChatGPT 現在可讓你鎖定聊天內容</title>
-      <link>https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179763</guid>
-      <pubDate>Tue, 20 Oct 2026 18:36:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>公司表示，這項功能是為了這種情況設計的：使用者可能正在討論私事，或是在籌劃驚喜，希望把那些對話保密，以便把裝置交給朋友或家人看另一個聊天內容時使用。</description>
     </item>
     <item>
       <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
