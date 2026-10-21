@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 20:12:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:27:56 GMT</lastBuildDate>
+    <item>
+      <title>Recursive 推出 Flint：一款號稱主要由 AI 打造的筆電程式碼模型</title>
+      <link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180324</guid>
+      <pubDate>Wed, 21 Oct 2026 20:27:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新創公司 Recursive 已發布 Flint，這是一款免費、筆電尺寸的程式碼模型，主要由其自家的 AI 研究系統打造，作為 AI 自我改進的早期測試。</description>
+    </item>
+    <item>
+      <title>Automattic 在董事會動盪與高層離職後開始裁員</title>
+      <link>https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180174</guid>
+      <pubDate>Wed, 21 Oct 2026 20:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Automattic 已開始在多個團隊裁員，包括 WordPress.com 和其企業業務，原因是董事會變動以及一連串高階主管離職。消息人士表示，隨著公司試圖改善財務狀況，後續可能還會有更多裁員。</description>
+    </item>
     <item>
       <title>GM押注運算與AI將幫助它與中國車廠競爭</title>
       <link>https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/</link>
@@ -487,15 +505,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <description>SpaceX 的資料中心和 Grok 代理在今年第二季的獲利表現比投資人預期更好，因為該公司正逐漸淡化其航太公司的根基，轉而專注於人工智慧，而人工智慧目前已占其收入的 52%。伊隆·馬斯克的綜合企業週二公布第三季營收為 146 億美元。 […]</description>
     </item>
     <item>
-      <title>OpenAI 收購新創公司 Orchestra Bio 以強化其生技業務</title>
-      <link>https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179783</guid>
-      <pubDate>Tue, 20 Oct 2026 20:35:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 表示，將把 Orchestra 的團隊和技術納入，用於 Rosalind——其用於生命科學研究的 AI 模型——以及相關的 Rosalind Workbench 工具；這是一個旨在協助研究人員規劃實驗並分析結果的輔助系統。</description>
-    </item>
-    <item>
       <title>在路上用 Gemini 享受免持個人化協助</title>
       <link>https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/</guid>
@@ -506,15 +515,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 已可在全球車輛中使用。透過個人智慧，在保持專注路況的同時，獲得獨一無二的量身打造協助。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 正將更個人化版本的 Gemini AI 助理帶進你的車上</title>
-      <link>https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179676</guid>
-      <pubDate>Tue, 20 Oct 2026 20:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 正把 Gemini 的 Personal Intelligence 功能帶到車上，讓它的 AI 助理可運用 Gmail、Calendar、Maps、YouTube 和其他 Google 服務中的資訊，在開車時提供更個人化的回應。</description>
     </item>
     <item>
       <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
