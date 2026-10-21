@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 09:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:06:57 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 開源模型推動歐洲跨產業的主權智慧</title>
+      <link>https://blogs.nvidia.com/blog/open-models-europe-industry/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-models-europe-industry/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:00:07 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 正在擴展其跨語言、機器人、生物學與量子運算的開源模型家族，為開發者、研究人員和企業提供建構因應在地語言與產業需求的應用程式所需的一切。該產品組合包括全新的 NVIDIA Nemotron 3.5 Super VL 與 Nemotron 3.5 Bolt 模型；新的 NVIDIA Nemotron Retriever 模型，用於嵌入、重排序 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/50b5b00305cdfa7e801959538e9d4895/6ad88d223d63325dce420743_agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450_thmb.jpg?v=be0d5bfb-c63f-4dbd-8db5-7ccd943885a1" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/50b5b00305cdfa7e801959538e9d4895/6ad88d223d63325dce420743_agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450_thmb.jpg?v=be0d5bfb-c63f-4dbd-8db5-7ccd943885a1"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/50b5b00305cdfa7e801959538e9d4895/6ad88d223d63325dce420743_agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450_thmb.jpg?v=be0d5bfb-c63f-4dbd-8db5-7ccd943885a1" alt=""></p><p>NVIDIA 正在擴展其跨語言、機器人、生物學與量子運算的開源模型家族，為開發者、研究人員和企業提供建構因應在地語言與產業需求的應用程式所需的一切。該產品組合包括全新的 NVIDIA Nemotron 3.5 Super VL 與 Nemotron 3.5 Bolt 模型；新的 NVIDIA Nemotron Retriever 模型，用於嵌入、重排序 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 推出 OpenShell 參考架構，打造安全的 AI 代理</title>
+      <link>https://nvidianews.nvidia.com/news/openshell-reference-architecture</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/openshell-reference-architecture</guid>
+      <pubDate>Wed, 21 Oct 2026 09:48:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今天宣布推出 NVIDIA OpenShell 參考架構，可在企業基礎架構與邊緣系統上，實現安全代理的建置、封裝、觀測與強制執行。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/b61bfda00ad668f9890d5b5b0d775b1e/6ad693aa3d63324483072858_NVIDIA-OpenShell-Reference-Architecture/NVIDIA-OpenShell-Reference-Architecture_thmb.jpg?v=21af43b3-e9a2-4b8b-a792-e5382e40f9aa" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/b61bfda00ad668f9890d5b5b0d775b1e/6ad693aa3d63324483072858_NVIDIA-OpenShell-Reference-Architecture/NVIDIA-OpenShell-Reference-Architecture_thmb.jpg?v=21af43b3-e9a2-4b8b-a792-e5382e40f9aa"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/b61bfda00ad668f9890d5b5b0d775b1e/6ad693aa3d63324483072858_NVIDIA-OpenShell-Reference-Architecture/NVIDIA-OpenShell-Reference-Architecture_thmb.jpg?v=21af43b3-e9a2-4b8b-a792-e5382e40f9aa" alt=""></p><p>NVIDIA 今天宣布推出 NVIDIA OpenShell 參考架構，可在企業基礎架構與邊緣系統上，實現安全代理的建置、封裝、觀測與強制執行。</p>]]></content:encoded>
+    </item>
     <item>
       <title>歐洲生態系統運用 NVIDIA DSX 打造全球最有效率的 AI 工廠</title>
       <link>https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx</link>
@@ -902,30 +926,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Block 正在與 OpenAI 合作打造 AI 驅動的資安防護。其資安團隊能更快調查威脅，並在幾分鐘內提出修補建議。</description>
-    </item>
-    <item>
-      <title>從企業到 Earthshot：英國生態系統隨 NVIDIA 由雄心邁向應用</title>
-      <link>https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/uk-ecosystem-deployment/</guid>
-      <pubDate>Wed, 14 Oct 2026 06:04:15 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在各行各業，英國正把完整技術堆疊投入實際運作——而部署規模正快速成長，從推動企業轉型，到協助新創解決一些最棘手的地球問題。NVIDIA 正把這項原則付諸實踐，包括透過一項為期五年、2.5 億美元的運算承諾，強化英國的 agentic 安全 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/1af23f952ae234850928e304df2a723d/6acf1b663d63323a5bda7ff4_uk-ecosystem-industries-842x450/uk-ecosystem-industries-842x450_thmb.jpg?v=6e353cb1-d85d-4289-b5bc-338799d77208" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/1af23f952ae234850928e304df2a723d/6acf1b663d63323a5bda7ff4_uk-ecosystem-industries-842x450/uk-ecosystem-industries-842x450_thmb.jpg?v=6e353cb1-d85d-4289-b5bc-338799d77208"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/1af23f952ae234850928e304df2a723d/6acf1b663d63323a5bda7ff4_uk-ecosystem-industries-842x450/uk-ecosystem-industries-842x450_thmb.jpg?v=6e353cb1-d85d-4289-b5bc-338799d77208" alt=""></p><p>在各行各業，英國正把完整技術堆疊投入實際運作——而部署規模正快速成長，從推動企業轉型，到協助新創解決一些最棘手的地球問題。NVIDIA 正把這項原則付諸實踐，包括透過一項為期五年、2.5 億美元的運算承諾，強化英國的 agentic 安全 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 承諾投入 2.5 億美元，在未來五年推動英國代理式安全與資安研究</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years</guid>
-      <pubDate>Wed, 14 Oct 2026 06:01:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布一項為期五年的運算資源捐贈，價值 2.5 億美元，用以強化英國在代理式安全與資安研究方面的能力。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/6296531eb3aed3741918b6b5_DH1L4415-HDR-20220527-r5/DH1L4415-HDR-20220527-r5_thmb.jpg?v=dba29dde-5a9b-4ac8-bf58-a0b78da89547" alt=""></p><p>NVIDIA 今日宣布一項為期五年的運算資源捐贈，價值 2.5 億美元，用以強化英國在代理式安全與資安研究方面的能力。</p>]]></content:encoded>
     </item>
     <item>
       <title>歐盟 AI 的下一章是代理式 AI</title>
