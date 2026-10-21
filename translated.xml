@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 18:56:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:12:05 GMT</lastBuildDate>
+    <item>
+      <title>網路今天的資安狀況非常糟糕</title>
+      <link>https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180275</guid>
+      <pubDate>Wed, 21 Oct 2026 19:03:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從 AI 發現的 PHP 漏洞，到 Node.js 和熱門 AI 工具 LiteLLM 的缺陷，資安團隊這週有很多事情要擔心。</description>
+    </item>
     <item>
       <title>法律 AI 新創公司 Legora 以 88 億美元估值募得 5.5 億美元 E 輪融資</title>
       <link>https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/</link>
@@ -497,15 +506,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>公司表示，這項功能是為了這種情況設計的：使用者可能正在討論私事，或是在籌劃驚喜，希望把那些對話保密，以便把裝置交給朋友或家人看另一個聊天內容時使用。</description>
-    </item>
-    <item>
-      <title>據報 Eric Schmidt 持有的 Anthropic 股份約為執行長 Dario Amodei 的一半</title>
-      <link>https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179732</guid>
-      <pubDate>Tue, 20 Oct 2026 17:55:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這位前 Google 執行長持有這家領先 AI 實驗室約 1% 的股份，彭博報導指出。</description>
     </item>
     <item>
       <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
