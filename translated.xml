@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 19:42:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 19:57:36 GMT</lastBuildDate>
+    <item>
+      <title>GM押注運算與AI將幫助它與中國車廠競爭</title>
+      <link>https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180223</guid>
+      <pubDate>Wed, 21 Oct 2026 19:52:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>為了與Tesla、Rivian以及一票中國車廠競爭，GM的第四代電動車平台將推出全新的中央電腦與電氣架構，並將於2028年在Cadillac Escalade IQ上首度亮相。</description>
+    </item>
+    <item>
+      <title>Meta因與劍橋分析事件相關案件被判支付250億美元</title>
+      <link>https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180300</guid>
+      <pubDate>Wed, 21 Oct 2026 19:42:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆賠償與最近一場涉及這家社群媒體巨頭的審判有關，該審判圍繞其資料隱私作法展開。</description>
+    </item>
     <item>
       <title>當 Amazon 封鎖 AI 代理人，Walmart 則大開方便之門</title>
       <link>https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/</link>
@@ -497,24 +515,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Google 正把 Gemini 的 Personal Intelligence 功能帶到車上，讓它的 AI 助理可運用 Gmail、Calendar、Maps、YouTube 和其他 Google 服務中的資訊，在開車時提供更個人化的回應。</description>
-    </item>
-    <item>
-      <title>GM 將關閉底特律電池組裝廠，但原因可能不是你以為的那樣</title>
-      <link>https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179802</guid>
-      <pubDate>Tue, 20 Oct 2026 19:32:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>GM 正在關閉 Brownstown 電池組裝廠，不過這次關閉與這家車廠的電動化策略無關。</description>
-    </item>
-    <item>
-      <title>Google 也加入 Amazon 的行列，透過 AI 應用開發者攻擊 Nvidia 的壟斷地位</title>
-      <link>https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179702</guid>
-      <pubDate>Tue, 20 Oct 2026 18:38:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 也已加入 Amazon，推出一款開發者工具，讓 PyTorch 使用者更容易將其應用程式從 Nvidia GPU 移轉出去。</description>
     </item>
     <item>
       <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
