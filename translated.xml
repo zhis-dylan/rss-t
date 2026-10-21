@@ -5,7 +5,79 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 10:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 10:52:35 GMT</lastBuildDate>
+    <item>
+      <title>Google Cloud 與 NVIDIA 宣布 NVIDIA Vera Rubin 基礎架構正式上市</title>
+      <link>https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/google-cloud-vera-rubin-infrastructure/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:45:17 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>這些執行個體將於下個月正式上市，並計畫擴展至歐洲，為雲端客戶帶來一個整合式平台，用於訓練、推論以及大規模強化學習。A5X 執行個體整合了 NVIDIA Vera Rubin NVL72、NVIDIA ConnectX-9 SuperNIC、Google Cloud Virgo Network，以及 Google Cloud 第四代先進液冷技術，以滿足嚴苛的需求 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/c3c69fe40f6de06be7d1e176f492d2b8/6ad8989a3d633297a8f51be0_GoogleCloud-VeraRubin-1920x1080-1-842x450/GoogleCloud-VeraRubin-1920x1080-1-842x450_thmb.jpg?v=c21c152c-7ba7-497b-bc6a-3ddfca6b682f" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/c3c69fe40f6de06be7d1e176f492d2b8/6ad8989a3d633297a8f51be0_GoogleCloud-VeraRubin-1920x1080-1-842x450/GoogleCloud-VeraRubin-1920x1080-1-842x450_thmb.jpg?v=c21c152c-7ba7-497b-bc6a-3ddfca6b682f"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/c3c69fe40f6de06be7d1e176f492d2b8/6ad8989a3d633297a8f51be0_GoogleCloud-VeraRubin-1920x1080-1-842x450/GoogleCloud-VeraRubin-1920x1080-1-842x450_thmb.jpg?v=c21c152c-7ba7-497b-bc6a-3ddfca6b682f" alt=""></p><p>這些執行個體將於下個月正式上市，並計畫擴展至歐洲，為雲端客戶帶來一個整合式平台，用於訓練、推論以及大規模強化學習。A5X 執行個體整合了 NVIDIA Vera Rubin NVL72、NVIDIA ConnectX-9 SuperNIC、Google Cloud Virgo Network，以及 Google Cloud 第四代先進液冷技術，以滿足嚴苛的需求 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 與供應鏈合作夥伴擴大產能，加速 AI 基礎架構建置</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</guid>
+      <pubDate>Wed, 21 Oct 2026 10:33:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今天宣布，將與一組供應鏈合作夥伴合作擴大全球製造產能，以滿足對其加速運算與全堆疊 AI 工廠平台日益成長的需求。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29" alt=""></p><p>NVIDIA 今天宣布，將與一組供應鏈合作夥伴合作擴大全球製造產能，以滿足對其加速運算與全堆疊 AI 工廠平台日益成長的需求。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 雲端合作夥伴在歐洲規模擴展——主權、開放，並為安全 AI Agent 打造</title>
+      <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:30:41 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>來自 AI 原生企業的需求正以前所未有的速度推動歐洲 AI 雲端生態系向前發展。開發者需要更貼近資料的運算資源、可自訂並大規模提供服務的開放模型，以及從設計之初就以安全為核心的全堆疊基礎架構。歐洲、北歐、非洲和中亞的 NVIDIA 雲端合作夥伴正在擴大區域運算容量，以供應 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3d019e89d26e109ca997396cf2b5bec7/6ad8960f3d63328b3ee1264c_ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450_thmb.jpg?v=83ec6086-5848-474f-9bed-722b7ac9bca0" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3d019e89d26e109ca997396cf2b5bec7/6ad8960f3d63328b3ee1264c_ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450_thmb.jpg?v=83ec6086-5848-474f-9bed-722b7ac9bca0"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3d019e89d26e109ca997396cf2b5bec7/6ad8960f3d63328b3ee1264c_ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450_thmb.jpg?v=83ec6086-5848-474f-9bed-722b7ac9bca0" alt=""></p><p>來自 AI 原生企業的需求正以前所未有的速度推動歐洲 AI 雲端生態系向前發展。開發者需要更貼近資料的運算資源、可自訂並大規模提供服務的開放模型，以及從設計之初就以安全為核心的全堆疊基礎架構。歐洲、北歐、非洲和中亞的 NVIDIA 雲端合作夥伴正在擴大區域運算容量，以供應 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>歐洲工業領導者運用 NVIDIA 重新定義工程與製造</title>
+      <link>https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/europe-industrial-leaders-engineering-manufacturing/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:30:40 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>為了提升生產力、加速創新並創造新的經濟成長機會，歐洲的工業領導者正把 NVIDIA CUDA-X 和 Omniverse 函式庫，以及 NVIDIA Cosmos 和 Nemotron 開放模型，導入工程與製造的整個生命週期。將這些能力整合到工廠現場後，NVIDIA Factory Operations Blueprint（FOX）現已可在 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/d2e8a93dc167784052f708bde65694d3/6ad897953d6332915d3ef718_European-Leaders-Industrial-Manufacturing-2-842x450/European-Leaders-Industrial-Manufacturing-2-842x450_thmb.jpg?v=ddd742d4-ebd4-46d8-a50e-c81de893ac3e" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d2e8a93dc167784052f708bde65694d3/6ad897953d6332915d3ef718_European-Leaders-Industrial-Manufacturing-2-842x450/European-Leaders-Industrial-Manufacturing-2-842x450_thmb.jpg?v=ddd742d4-ebd4-46d8-a50e-c81de893ac3e"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d2e8a93dc167784052f708bde65694d3/6ad897953d6332915d3ef718_European-Leaders-Industrial-Manufacturing-2-842x450/European-Leaders-Industrial-Manufacturing-2-842x450_thmb.jpg?v=ddd742d4-ebd4-46d8-a50e-c81de893ac3e" alt=""></p><p>為了提升生產力、加速創新並創造新的經濟成長機會，歐洲的工業領導者正把 NVIDIA CUDA-X 和 Omniverse 函式庫，以及 NVIDIA Cosmos 和 Nemotron 開放模型，導入工程與製造的整個生命週期。將這些能力整合到工廠現場後，NVIDIA Factory Operations Blueprint（FOX）現已可在 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA cuDSS 現已正式上市，可加速工程與科學模擬</title>
+      <link>https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/cudss-generally-available-engineering-scientific-simulation/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:30:25 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA cuDSS 今日正式上市，是一款 NVIDIA CUDA-X 函式庫，將工程與科學模擬中的關鍵部分轉移到 GPU 上。複雜的工程成就——從先進晶片到飛機，再到工業系統——都依賴模擬來預測設計在製造前的表現。隨著設計變得更加複雜，模擬 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/6b66bc9b3650abc6c74001f964183d05/6ad898173d633293652e0d57_cuDSS_GTCBerlin-842x450/cuDSS_GTCBerlin-842x450_thmb.jpg?v=b2c1d70f-485c-409e-8bec-8679f799a0ef" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/6b66bc9b3650abc6c74001f964183d05/6ad898173d633293652e0d57_cuDSS_GTCBerlin-842x450/cuDSS_GTCBerlin-842x450_thmb.jpg?v=b2c1d70f-485c-409e-8bec-8679f799a0ef"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/6b66bc9b3650abc6c74001f964183d05/6ad898173d633293652e0d57_cuDSS_GTCBerlin-842x450/cuDSS_GTCBerlin-842x450_thmb.jpg?v=b2c1d70f-485c-409e-8bec-8679f799a0ef" alt=""></p><p>NVIDIA cuDSS 今日正式上市，是一款 NVIDIA CUDA-X 函式庫，將工程與科學模擬中的關鍵部分轉移到 GPU 上。複雜的工程成就——從先進晶片到飛機，再到工業系統——都依賴模擬來預測設計在製造前的表現。隨著設計變得更加複雜，模擬 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA Confidential Computing 擴展，讓前沿模型建構者能在全球基礎架構上安全擴充</title>
+      <link>https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:30:02 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 打造各種工具，讓整個技術堆疊中的安全 Agent 得以實現。今日公布的 NVIDIA OpenShell Reference Architecture，是 NVIDIA 持續擴充的技術組合之一，讓組織能夠安全地大規模部署 Agent。NVIDIA Confidential Computing 是基礎架構層，負責在執行期間保護這些 Agent 所依賴的模型與資料。今天，NVIDIA […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417" alt=""></p><p>NVIDIA 打造各種工具，讓整個技術堆疊中的安全 Agent 得以實現。今日公布的 NVIDIA OpenShell Reference Architecture，是 NVIDIA 持續擴充的技術組合之一，讓組織能夠安全地大規模部署 Agent。NVIDIA Confidential Computing 是基礎架構層，負責在執行期間保護這些 Agent 所依賴的模型與資料。今天，NVIDIA […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>NVIDIA 推進 Isaac 平台用於通用型機器人，推出新的參考人形機器人、框架、模擬流程與資料</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data</link>
@@ -388,6 +460,18 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <description>Apple 宣布與美國公司建立新的與擴大的合作夥伴關係，這些公司正為 iPhone Duo 和 iPhone 18 Pro 提供關鍵材料與零組件。</description>
     </item>
     <item>
+      <title>歐洲領導者轉向 NVIDIA Vera CPU 以建置本地基礎架構</title>
+      <link>https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/</guid>
+      <pubDate>Tue, 20 Oct 2026 10:30:11 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Nebius 和 Nscale 是尋求採用 NVIDIA Vera CPU 建置下一波基礎架構的全球科技夥伴之一。他們的動能反映了 Agentic Computing 的快速進展。Agent 不只會產生答案：它們會擷取資訊、執行軟體工具、執行程式碼並評估結果。每一步都仰賴快速的 CPU 處理。Vera 加速了這一切 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3c2ab65b0cc667a0ec4253127505e486/6ad896943d63328d4bd903c6_cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450/cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450_thmb.jpg?v=15a76aae-bbff-4cda-9319-7d2275251216" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3c2ab65b0cc667a0ec4253127505e486/6ad896943d63328d4bd903c6_cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450/cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450_thmb.jpg?v=15a76aae-bbff-4cda-9319-7d2275251216"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3c2ab65b0cc667a0ec4253127505e486/6ad896943d63328d4bd903c6_cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450/cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450_thmb.jpg?v=15a76aae-bbff-4cda-9319-7d2275251216" alt=""></p><p>Nebius 和 Nscale 是尋求採用 NVIDIA Vera CPU 建置下一波基礎架構的全球科技夥伴之一。他們的動能反映了 Agentic Computing 的快速進展。Agent 不只會產生答案：它們會擷取資訊、執行軟體工具、執行程式碼並評估結果。每一步都仰賴快速的 CPU 處理。Vera 加速了這一切 […]</p>]]></content:encoded>
+    </item>
+    <item>
       <title>加盟主使用 ChatGPT Work 將現金對帳時間縮短 94%</title>
       <link>https://openai.com/index/ted-taylor-restaurant</link>
       <guid isPermaLink="false">https://openai.com/index/ted-taylor-restaurant</guid>
@@ -512,18 +596,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp" alt=""></p><p>我們查看了 Google Trends，看看七大時尚之都的人們都在搜尋什麼，好為他們的穿搭帶來那種難以言喻的風格感……</p>]]></content:encoded>
     </item>
     <item>
-      <title>NVIDIA 推進媒體的代理式安全，從歐洲公共服務廣播到全球內容製作</title>
-      <link>https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/</guid>
-      <pubDate>Mon, 19 Oct 2026 15:00:31 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在今天於柏林舉行的一場創意產業活動中——由 Adobe、Bertelsmann、NVIDIA 和 UFA 共同主辦——展示了智慧媒體的最新進展。這項消息的重點是：歐洲廣播聯盟（EBU）正與 NVIDIA 合作，透過雲端、開放模型與整合，擴展其主權框架 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/291a3398e4c060fc8e7b2cf55829f09b/6ad630cf3d63325799a4de28_media-and-entertainment-1920x1080-1-842x450/media-and-entertainment-1920x1080-1-842x450_thmb.jpg?v=ce2c4423-42da-4d4f-8420-972157346029" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/291a3398e4c060fc8e7b2cf55829f09b/6ad630cf3d63325799a4de28_media-and-entertainment-1920x1080-1-842x450/media-and-entertainment-1920x1080-1-842x450_thmb.jpg?v=ce2c4423-42da-4d4f-8420-972157346029"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/291a3398e4c060fc8e7b2cf55829f09b/6ad630cf3d63325799a4de28_media-and-entertainment-1920x1080-1-842x450/media-and-entertainment-1920x1080-1-842x450_thmb.jpg?v=ce2c4423-42da-4d4f-8420-972157346029" alt=""></p><p>在今天於柏林舉行的一場創意產業活動中——由 Adobe、Bertelsmann、NVIDIA 和 UFA 共同主辦——展示了智慧媒體的最新進展。這項消息的重點是：歐洲廣播聯盟（EBU）正與 NVIDIA 合作，透過雲端、開放模型與整合，擴展其主權框架 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>保護代理式內部威脅</title>
       <link>https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563199</guid>
@@ -558,18 +630,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 Working Trees 合作，透過巴西的林牧複合系統移除 270,000 噸二氧化碳。看看這個專案如何恢復土地與牧場經營。</p>]]></content:encoded>
     </item>
     <item>
-      <title>RTX Spark 隨著新款 Windows PC 到來而引爆全球慶祝</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-rtx-spark-windows-laptops-celebration/</guid>
-      <pubDate>Sat, 17 Oct 2026 21:00:13 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA RTX Spark 筆電現已上市，為輕薄高階 Windows PC 帶來 NVIDIA Blackwell RTX 圖形、最高 128GB 統一記憶體，以及完整的 NVIDIA AI 平台。價格從 2,399 美元起，來自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 的筆電，將強大的本機 AI、內容創作與遊戲能力帶到可攜式裝置上，並提供 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/363cee81e992d936964e9889c953c847/6ad3e2053d633208347d156d_nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450_thmb.jpg?v=86ea3f39-fb3c-4b95-9d20-324546533bd2" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/363cee81e992d936964e9889c953c847/6ad3e2053d633208347d156d_nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450_thmb.jpg?v=86ea3f39-fb3c-4b95-9d20-324546533bd2"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/363cee81e992d936964e9889c953c847/6ad3e2053d633208347d156d_nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450/nvidia-rtx-spark-berlin-oct26-event-tech-blog-1280x680-1-842x450_thmb.jpg?v=86ea3f39-fb3c-4b95-9d20-324546533bd2" alt=""></p><p>NVIDIA RTX Spark 筆電現已上市，為輕薄高階 Windows PC 帶來 NVIDIA Blackwell RTX 圖形、最高 128GB 統一記憶體，以及完整的 NVIDIA AI 平台。價格從 2,399 美元起，來自 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 的筆電，將強大的本機 AI、內容創作與遊戲能力帶到可攜式裝置上，並提供 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Itaú 如何為其整體客戶群打造生成式 AI</title>
       <link>https://openai.com/index/itau-generative-ai</link>
       <guid isPermaLink="false">https://openai.com/index/itau-generative-ai</guid>
@@ -589,30 +649,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Gemini Notebook 的全新 60 秒影片總覽和互動式測驗格式，輕鬆掌握考試內容。到 notebook.google 試試這些學習工具。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA RTX Spark PCs 今日上市 —— Windows PC 的全新開始</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs</guid>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布 NVIDIA RTX Spark™ 筆電已可供應，將 RTX 圖形技術與 NVIDIA 全堆疊 AI 平台整合到輕薄、頂級的 Windows PC 中，帶來加速創作、沉浸式遊戲與強大的本機 AI —— 將由 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 陸續推出。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/6b76fb1cf81fffb13a4bb218a40498e4/6ad1b68c3d63324cdc9b1ab9_nvidia-rtx-spark/nvidia-rtx-spark_thmb.jpg?v=f4f2e983-c349-4b1f-ac12-c09817b54764" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/6b76fb1cf81fffb13a4bb218a40498e4/6ad1b68c3d63324cdc9b1ab9_nvidia-rtx-spark/nvidia-rtx-spark_thmb.jpg?v=f4f2e983-c349-4b1f-ac12-c09817b54764"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/6b76fb1cf81fffb13a4bb218a40498e4/6ad1b68c3d63324cdc9b1ab9_nvidia-rtx-spark/nvidia-rtx-spark_thmb.jpg?v=f4f2e983-c349-4b1f-ac12-c09817b54764" alt=""></p><p>NVIDIA 今日宣布 NVIDIA RTX Spark™ 筆電已可供應，將 RTX 圖形技術與 NVIDIA 全堆疊 AI 平台整合到輕薄、頂級的 Windows PC 中，帶來加速創作、沉浸式遊戲與強大的本機 AI —— 將由 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 陸續推出。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Mercedes-Benz 與 NVIDIA 擴大策略夥伴關係，推動未來十年安全、高度自動化駕駛的發展</title>
-      <link>https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/mercedes-benz-and-nvidia-expand-strategic-partnership-to-advance-safe-highly-automated-driving-in-the-next-decade</guid>
-      <pubDate>Fri, 16 Oct 2026 08:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Mercedes-Benz 與 NVIDIA 今日宣布，雙方將延長策略夥伴關係，以推動下一代自動駕駛系統的發展。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d8074bf73d259485ee16c0b53d2e2ccb/6ad157533d633269179b1ab9_mercedes-benz-nvidia/mercedes-benz-nvidia_thmb.jpg?v=f3c71739-e87b-4984-b90f-744f8481356c" alt=""></p><p>Mercedes-Benz 與 NVIDIA 今日宣布，雙方將延長策略夥伴關係，以推動下一代自動駕駛系統的發展。</p>]]></content:encoded>
     </item>
     <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
@@ -654,18 +690,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp" alt=""></p><p>在一篇發表於《Science》的論文中，Google 已證明 Magic State Cultivation 可在 Google Quantum AI 硬體上運作。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Volvo Cars 與 NVIDIA 擴大合作夥伴關係，以推進安全的自動駕駛</title>
-      <link>https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/volvo-cars-and-nvidia-expand-partnership-to-advance-safe-automated-driving</guid>
-      <pubDate>Thu, 15 Oct 2026 17:30:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Volvo Cars 今日宣布，將擴大與 NVIDIA 的合作夥伴關係，為 Volvo 未來車款的自動駕駛技術解鎖更高層級的安全性，並建立在雙方長達十年的合作基礎上。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/20269/e517972ce6ea647b2c088652f4a6c47c/6ad111e43d63320c839b1aba_JHH-Volvo-1600x900/JHH-Volvo-1600x900_thmb.jpg?v=8bb5a42f-7901-4d4b-b581-3e273067984b" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20269/e517972ce6ea647b2c088652f4a6c47c/6ad111e43d63320c839b1aba_JHH-Volvo-1600x900/JHH-Volvo-1600x900_thmb.jpg?v=8bb5a42f-7901-4d4b-b581-3e273067984b"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20269/e517972ce6ea647b2c088652f4a6c47c/6ad111e43d63320c839b1aba_JHH-Volvo-1600x900/JHH-Volvo-1600x900_thmb.jpg?v=8bb5a42f-7901-4d4b-b581-3e273067984b" alt=""></p><p>Volvo Cars 今日宣布，將擴大與 NVIDIA 的合作夥伴關係，為 Volvo 未來車款的自動駕駛技術解鎖更高層級的安全性，並建立在雙方長達十年的合作基礎上。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>使用 Circle to Search 檢查簡訊是否為詐騙訊息。</title>
       <link>https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/</guid>
@@ -676,30 +700,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Circle to Search 分析可疑簡訊是否為詐騙。長按主畫面按鈕即可取得訊息的 AI 洞察。看看它如何運作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>一起見證開端：慶祝 NVIDIA RTX Spark 發表</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/</guid>
-      <pubDate>Thu, 15 Oct 2026 17:00:23 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Windows PC 的新起點將在明天隨著 NVIDIA RTX Spark 的發表展開——一台為創作者、玩家與 AI 代理人打造的 PC。誠摯邀請大家與 NVIDIA 及合作夥伴一同參與全球各地的發表活動，共同慶祝。分享你的 Spark 每台 PC 都有一段故事。你的第一台 Windows PC 是什麼，還有 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/e5eef2a45338109b7e6d80237afb8d8e/6ad1069d3d6332e50ab73366_press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450/press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450_thmb.jpg?v=d37e4c6c-59d0-463b-b352-9fc43a08dc9c" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/e5eef2a45338109b7e6d80237afb8d8e/6ad1069d3d6332e50ab73366_press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450/press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450_thmb.jpg?v=d37e4c6c-59d0-463b-b352-9fc43a08dc9c"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/e5eef2a45338109b7e6d80237afb8d8e/6ad1069d3d6332e50ab73366_press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450/press-nvidia-rtx-spark-launch-events-1920x1080-1-842x450_thmb.jpg?v=d37e4c6c-59d0-463b-b352-9fc43a08dc9c" alt=""></p><p>Windows PC 的新起點將在明天隨著 NVIDIA RTX Spark 的發表展開——一台為創作者、玩家與 AI 代理人打造的 PC。誠摯邀請大家與 NVIDIA 及合作夥伴一同參與全球各地的發表活動，共同慶祝。分享你的 Spark 每台 PC 都有一段故事。你的第一台 Windows PC 是什麼，還有 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Adobe 與 NVIDIA 擴大合作，加速代理式創作</title>
-      <link>https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation</guid>
-      <pubDate>Thu, 15 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Adobe（Nasdaq: ADBE）這家以創新工具與平台賦能創意、生產力與客戶體驗的全球科技領導者，與 NVIDIA 今日宣布擴大雙方合作，以優化 Adobe 的旗艦工具，包括 Adobe Photoshop、Premiere、Substance 3D、Frame.io 和 Brand Concierge，帶來更快速的 AI 驅動創作、製作與個人化體驗。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_thmb.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_thmb.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/dc41fbe271cc85f622d85087141e98fd/6ad031583d63327ade3da8c2_adobe-and-nvidia/adobe-and-nvidia_thmb.png?v=e30ad072-7cc9-43cd-8488-653fe16935c5" alt=""></p><p>Adobe（Nasdaq: ADBE）這家以創新工具與平台賦能創意、生產力與客戶體驗的全球科技領導者，與 NVIDIA 今日宣布擴大雙方合作，以優化 Adobe 的旗艦工具，包括 Adobe Photoshop、Premiere、Substance 3D、Frame.io 和 Brand Concierge，帶來更快速的 AI 驅動創作、製作與個人化體驗。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們如何幫助世界為自然災害做好準備</title>
