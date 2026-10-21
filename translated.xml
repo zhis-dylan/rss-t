@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:44:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 22:59:22 GMT</lastBuildDate>
+    <item>
+      <title>Blackstone 的 Jas Khaira 表示，外界對 AI 建設債務的擔憂被誇大了</title>
+      <link>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180358</guid>
+      <pubDate>Wed, 21 Oct 2026 22:51:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Blackstone 的 AI 負責人說明這家 PE 巨頭為何對市場疑慮並不驚慌。</description>
+    </item>
+    <item>
+      <title>Meta 想用新設立的股票類別來支付其大規模 AI 建設費用</title>
+      <link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180349</guid>
+      <pubDate>Wed, 21 Oct 2026 22:45:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家社群媒體巨頭正規劃新的股票策略，以支撐其在 AI 模型與服務上的廣泛投資。</description>
+    </item>
     <item>
       <title>Airbnb 限制房客的打掃工作，引發房東反彈</title>
       <link>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/</link>
@@ -199,15 +217,6 @@
       <description>根據一項新調查，超過 50% 的主管表示，在導入 AI 後，他們更難評估員工的工作表現。</description>
     </item>
     <item>
-      <title>熱泵技術已有 170 年歷史。Pascal 認為是時候更新了。</title>
-      <link>https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179833</guid>
-      <pubDate>Wed, 21 Oct 2026 13:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>冷媒新創公司 Pascal 對熱泵與冷卻技術有了新想法，採用一種海綿狀材料，號稱可提升 20% 的效率。</description>
-    </item>
-    <item>
       <title>ChatGPT 廣告擴展至 26 個新國家，已有超過 100,000 名廣告主使用這個平台</title>
       <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
@@ -227,15 +236,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在 Google 最新一集的「Ads Decoded」Podcast 中，了解出價與預算工具的可行洞察。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Mach9 在轉向 AI CAD 軟體後募得 3,400 萬美元</title>
-      <link>https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179703</guid>
-      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創公司最初在 2021 年時，目標是打造更好、更快且更便宜的測量硬體。</description>
     </item>
     <item>
       <title>OpenAI 模型即將登陸 Google Cloud</title>
