@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 15:40:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 15:55:20 GMT</lastBuildDate>
     <item>
       <title>Foursquare 共同創辦人表示，股權持有人在公司被收購時沒有獲得任何回報</title>
       <link>https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/</link>
@@ -83,6 +83,18 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 Google Cloud 正在把前沿模型與 Codex 工作流程帶進 Gemini 的 Model Garden，並可透過 Google Cloud Marketplace 使用。</description>
+    </item>
+    <item>
+      <title>在 Waze 上和《戴帽子的貓》一起開車。</title>
+      <link>https://blog.google/waze/waze-the-cat-in-the-hat/</link>
+      <guid isPermaLink="false">https://blog.google/waze/waze-the-cat-in-the-hat/</guid>
+      <pubDate>Wed, 21 Oct 2026 11:39:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>準備好把你的日常通勤變成一場高能量的歡樂兜風了嗎？Waze 正把這位快樂混亂的行家帶進你的副駕駛座，迎接《戴帽子的貓》的到來……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp" alt=""></p><p>準備好把你的日常通勤變成一場高能量的歡樂兜風了嗎？Waze 正把這位快樂混亂的行家帶進你的副駕駛座，迎接《戴帽子的貓》的到來……</p>]]></content:encoded>
     </item>
     <item>
       <title>將 Spark 帶到歐洲：本地智慧驅動下一波代理</title>
@@ -795,6 +807,15 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" alt=""></p><p>我們正在更新 AI Mode 和 AI Overviews，加入更清楚的連結、來源脈絡，以及更多內容。</p>]]></content:encoded>
     </item>
     <item>
+      <title>我們如何幫助世界為自然災害做好準備</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</guid>
+      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們的北極星目標很簡單卻也很宏大：沒有人應該因自然災害而措手不及。</description>
+    </item>
+    <item>
       <title>Android 地震警報現已在超過 200 個地區提供</title>
       <link>https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/android-earthquake-alerts-expansion-2026/</guid>
@@ -805,27 +826,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EA-Hero-Image.max-600x600.format-webp.webp" alt=""></p><p>Android 地震警報現已在超過 200 個國家和地區提供。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們如何幫助世界為自然災害做好準備</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/crisis-resilience-white-paper/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們的北極星目標很簡單卻也很宏大：沒有人應該因自然災害而措手不及。</description>
-    </item>
-    <item>
-      <title>透過設計、維修與重複使用，讓你的 Pixel 裝置更耐用</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/international-repair-day-2026/</guid>
-      <pubDate>Thu, 15 Oct 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在國際維修日這天，我們要分享我們如何以長久耐用為目標設計裝置，讓維修與重複使用更容易取得，以及更多相關作法。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IRD_2026.max-600x600.format-webp.webp" alt=""></p><p>在國際維修日這天，我們要分享我們如何以長久耐用為目標設計裝置，讓維修與重複使用更容易取得，以及更多相關作法。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過提問教學生思考與學習</title>
