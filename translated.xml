@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Oct 2026 17:56:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 18:11:30 GMT</lastBuildDate>
+    <item>
+      <title>GM 正在為 OnStar 進行 AI 改造</title>
+      <link>https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180151</guid>
+      <pubDate>Wed, 21 Oct 2026 18:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是這款已有 30 年歷史的車聯網產品歷來最大規模的翻新之一。</description>
+    </item>
+    <item>
+      <title>PHP 世界末日：OpenAI、Google 的 Wiz 找到古老漏洞，讓網路陷入恐慌</title>
+      <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180197</guid>
+      <pubDate>Wed, 21 Oct 2026 17:59:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這類安全問題是由 AI 發現並阻止的，但同時也因為 AI 而具有高度風險。</description>
+    </item>
     <item>
       <title>Blacksmith 在 Sequoia 領投 C 輪後估值達獨角獸</title>
       <link>https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/</link>
@@ -479,24 +497,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta 的 AI 夥伴 Muse 在上線的前 40 天內，已超過 1,000 萬次美國下載，加入一個僅包含 Threads 在內的獨家 App 群組。新的數據也顯示，Muse 留住用戶的比率高於其他 AI 競爭對手。</description>
-    </item>
-    <item>
-      <title>前 NVIDIA 轉戰創投的 Amulya Vishwanath：『實體 AI 正處於樂高時代』</title>
-      <link>https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179644</guid>
-      <pubDate>Tue, 20 Oct 2026 16:20:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這就是大家一直在等的時刻——機器人領域的 ChatGPT 時刻，Amulya Vishwanath 向 TechCrunch 的 Equity 解釋道。</description>
-    </item>
-    <item>
-      <title>串流指南 JustWatch 變成了串流平台本身</title>
-      <link>https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179672</guid>
-      <pubDate>Tue, 20 Oct 2026 16:01:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>廣受歡迎、被 5,000 萬人使用的串流搜尋指南 JustWatch，正在推出自己的串流服務，提供免費、含廣告的電影和影集，以及每月 3.99 美元的無廣告方案和電影租借服務。</description>
     </item>
     <item>
       <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
