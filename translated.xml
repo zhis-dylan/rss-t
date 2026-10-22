@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:51:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 14:06:50 GMT</lastBuildDate>
+    <item>
+      <title>開發者平台 Railway 呼籲「所有使用者」在遭到網攻後撤銷金鑰</title>
+      <link>https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180611</guid>
+      <pubDate>Thu, 22 Oct 2026 14:03:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個 vibe-coding 平台表示，所有客戶都應該撤銷並輪換他們的私密金鑰，因為駭客成功解密了部分客戶機密資訊。</description>
+    </item>
+    <item>
+      <title>Claude Duet 應用程式是 Anthropic 對代理人的押注</title>
+      <link>https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180587</guid>
+      <pubDate>Thu, 22 Oct 2026 13:53:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Claude Duet 已開放給 Pro 和 Max 方案用戶透過候補名單申請使用</description>
+    </item>
     <item>
       <title>Nirva 募得 3300 萬美元，推出一款只聽你說話的吊墜</title>
       <link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</link>
@@ -311,24 +329,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這是這款已有 30 年歷史的車聯網產品歷來最大規模的翻新之一。</description>
-    </item>
-    <item>
-      <title>PHP 世界末日：OpenAI、Google 的 Wiz 找到古老漏洞，讓網路陷入恐慌</title>
-      <link>https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180197</guid>
-      <pubDate>Wed, 21 Oct 2026 17:59:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這類安全問題是由 AI 發現並阻止的，但同時也因為 AI 而具有高度風險。</description>
-    </item>
-    <item>
-      <title>Blacksmith 在 Sequoia 領投 C 輪後估值達獨角獸</title>
-      <link>https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180202</guid>
-      <pubDate>Wed, 21 Oct 2026 17:18:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Blacksmith 是一個讓公司更有效率地建構與測試 AI 程式碼的平台，剛宣布完成由 Sequoia 領投的 6600 萬美元 C 輪融資，估值達到 10 億美元。</description>
     </item>
     <item>
       <title>AT&amp;T 如何運用 OpenAI 重新思考內部法務工作</title>
