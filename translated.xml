@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 13:21:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:36:33 GMT</lastBuildDate>
+    <item>
+      <title>Nirva 募得 3300 萬美元，推出一款只聽你說話的吊墜</title>
+      <link>https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180570</guid>
+      <pubDate>Thu, 22 Oct 2026 13:26:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nirva 將在今年底出貨其售價 249 美元的 ambient AI 吊墜。</description>
+    </item>
     <item>
       <title>DeepSeek 據報在美國限制後幾天募得 150 億美元</title>
       <link>https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/</link>
@@ -68,6 +77,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp" alt=""></p><p>Google 和 Voltus 正在打造一座 1 GW 虛擬電廠，以提升 6,700 萬人的電網可靠度。了解這項擴展如何運作。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI 的 FDE 是什麼意思</title>
+      <link>https://openai.com/index/forward-deployed-engineering-means</link>
+      <guid isPermaLink="false">https://openai.com/index/forward-deployed-engineering-means</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>在 OpenAI，forward deployed engineering 是什麼意思</description>
     </item>
     <item>
       <title>領先的歐洲金融服務機構擁抱開放模型，打造專有智慧</title>
@@ -320,15 +338,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>AT&amp;T 正與 OpenAI 合作，讓法律知識更容易取得。了解其 LegalEdge 團隊如何重新思考案件受理並擴展法律判斷。</description>
-    </item>
-    <item>
-      <title>Waymo 開始在拉斯維加斯機場提供乘車服務</title>
-      <link>https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180204</guid>
-      <pubDate>Wed, 21 Oct 2026 16:59:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>接送將在第一航廈和第三航廈的專用「自駕車區域」進行。</description>
     </item>
     <item>
       <title>與 Prune Nourry 一起重現女性雕塑家的失落工作室</title>
@@ -1425,15 +1434,6 @@
       <description>今天，Apple 與美國兒科學會合作，發布一份新指南，協助家庭建立健康的數位習慣。</description>
     </item>
     <item>
-      <title>介紹 GPT-6.1 Sol</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
-    </item>
-    <item>
       <title>DevDay 2026 回顧</title>
       <link>https://openai.com/index/devday-2026-recap</link>
       <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
@@ -1441,6 +1441,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
+    </item>
+    <item>
+      <title>介紹 GPT-6.1 Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
+      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
     </item>
     <item>
       <title>新的 Microsoft 資料創新解鎖只有你的企業才知道的事</title>
@@ -1489,15 +1498,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>你是 Codex Original 嗎？</title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
-    </item>
-    <item>
       <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
       <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
@@ -1505,6 +1505,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
+    </item>
+    <item>
+      <title>你是 Codex Original 嗎？</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1574,15 +1583,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
@@ -1599,6 +1599,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1927,15 +1936,6 @@
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>Agents API 介紹</title>
-      <link>https://openai.com/index/introducing-the-agents-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
-    </item>
-    <item>
       <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
       <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
@@ -1943,6 +1943,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
+    </item>
+    <item>
+      <title>Agents API 介紹</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
     </item>
     <item>
       <title>Paul Christiano 加入 OpenAI Foundation 董事會</title>
@@ -1970,15 +1979,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>認識 GPT-6 Astra，OpenAI 最強大的商務模型，具備進階推理、電腦使用能力，以及更強的寫作與設計判斷力。</description>
-    </item>
-    <item>
-      <title>GPT-5.6 Sol 如何協助執行量子運算實驗</title>
-      <link>https://openai.com/index/codex-quantum-computing-experiments</link>
-      <guid isPermaLink="false">https://openai.com/index/codex-quantum-computing-experiments</guid>
-      <pubDate>Tue, 08 Sep 2026 17:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解一位 MIT 研究人員如何將 GPT-5.6 Sol 與 Codex 搭配，自主執行量子運算實驗、分析結果並校準量子位元。</description>
     </item>
     <item>
       <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
