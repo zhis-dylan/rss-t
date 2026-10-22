@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:22:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:37:42 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 證實家庭方案整頓，但稱這只是「例行改善」</title>
+      <link>https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180618</guid>
+      <pubDate>Thu, 22 Oct 2026 15:24:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Spotify 告訴投資人，為確保家庭方案成員住在同一戶而推出的 QR code 驗證機制，並不是「整頓」，只是例行改善。</description>
+    </item>
     <item>
       <title>投資人解析創辦人如今如何募到 A 輪</title>
       <link>https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/</link>
@@ -332,15 +341,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆賠償與最近一場涉及這家社群媒體巨頭的審判有關，該審判圍繞其資料隱私作法展開。</description>
-    </item>
-    <item>
-      <title>當 Amazon 封鎖 AI 代理人，Walmart 則大開方便之門</title>
-      <link>https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180139</guid>
-      <pubDate>Wed, 21 Oct 2026 19:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當 Amazon 封鎖 AI 代理人在其網站上購物時，Walmart 採取相反做法，推出新技術，讓 AI 代理人代表顧客下單，同時提供對支出與交易核准的控制。</description>
     </item>
     <item>
       <title>AT&amp;T 如何運用 OpenAI 重新思考內部法務工作</title>
