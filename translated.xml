@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 14:52:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:07:23 GMT</lastBuildDate>
+    <item>
+      <title>Spotify 目前的 AI 賭注，是成為代理選擇的音樂服務</title>
+      <link>https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180626</guid>
+      <pubDate>Thu, 22 Oct 2026 15:03:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Spotify 聯席執行長 Gustav Söderström 解釋，為什麼 AI 代理的興起可能對這家音樂服務有利。</description>
+    </item>
+    <item>
+      <title>NVIDIA 推出 Minerva，為 AI 工廠帶來端到端可觀測性</title>
+      <link>https://blogs.nvidia.com/blog/minerva-platform-infrastructure/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/minerva-platform-infrastructure/</guid>
+      <pubDate>Thu, 22 Oct 2026 15:00:02 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA Minerva 今日正式推出，是一個 AIOps 平台，旨在協助團隊更早發現問題，並維持 AI 工廠高效運作。它整合來自基礎設施與 AI 工作負載的遙測資料，接著套用專為此打造的 AI 模型，將這些資料轉化為及時且可採取行動的洞察。AI 工廠是世界上最複雜的作業之一，擁有龐大的 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76" alt=""></p><p>NVIDIA Minerva 今日正式推出，是一個 AIOps 平台，旨在協助團隊更早發現問題，並維持 AI 工廠高效運作。它整合來自基礎設施與 AI 工作負載的遙測資料，接著套用專為此打造的 AI 模型，將這些資料轉化為及時且可採取行動的洞察。AI 工廠是世界上最複雜的作業之一，擁有龐大的 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>聚變新創 Helion 正在開發新型半導體，可能讓其發電廠的產出翻倍</title>
+      <link>https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180619</guid>
+      <pubDate>Thu, 22 Oct 2026 14:59:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Helion 又拿到 2.25 億美元，協助加速其首座聚變發電廠的開發，該廠預計將於 2028 年向 Microsoft 供電。</description>
+    </item>
     <item>
       <title>開發者平台 Railway 呼籲「所有使用者」在遭到網攻後撤銷金鑰</title>
       <link>https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/</link>
@@ -313,24 +343,6 @@
       <description>從 AI 發現的 PHP 漏洞，到 Node.js 和熱門 AI 工具 LiteLLM 的缺陷，資安團隊這週有很多事情要擔心。</description>
     </item>
     <item>
-      <title>法律 AI 新創公司 Legora 以 88 億美元估值募得 5.5 億美元 E 輪融資</title>
-      <link>https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180294</guid>
-      <pubDate>Wed, 21 Oct 2026 18:51:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>法律 AI 新創公司 Legora 週三宣布完成一筆 5.5 億美元的 E 輪融資，估值達 88 億美元。</description>
-    </item>
-    <item>
-      <title>GM 正在為 OnStar 進行 AI 改造</title>
-      <link>https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180151</guid>
-      <pubDate>Wed, 21 Oct 2026 18:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是這款已有 30 年歷史的車聯網產品歷來最大規模的翻新之一。</description>
-    </item>
-    <item>
       <title>AT&amp;T 如何運用 OpenAI 重新思考內部法務工作</title>
       <link>https://openai.com/index/att-legal</link>
       <guid isPermaLink="false">https://openai.com/index/att-legal</guid>
@@ -536,18 +548,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/08b6c853c28fed3d67cb5915f5fdd4bd/6ad890723d63326dc30b4be4_agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450_thmb.jpg?v=466f153a-cd1d-4b6c-b405-a484c69b0ade" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/08b6c853c28fed3d67cb5915f5fdd4bd/6ad890723d63326dc30b4be4_agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450_thmb.jpg?v=466f153a-cd1d-4b6c-b405-a484c69b0ade"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/08b6c853c28fed3d67cb5915f5fdd4bd/6ad890723d63326dc30b4be4_agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450_thmb.jpg?v=466f153a-cd1d-4b6c-b405-a484c69b0ade" alt=""></p><p>代理程式的實用程度，取決於它們知道什麼；而它們有多值得信任，則取決於其運作邊界。領先企業正在使用開源的 NVIDIA Agent Toolkit——現已擴充新工具——來自訂與控制代理程式，使用公司資料來為其回答與行動提供依據，監控它們所做的事，以及 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 開源模型推動歐洲跨產業的主權智慧</title>
-      <link>https://blogs.nvidia.com/blog/open-models-europe-industry/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-models-europe-industry/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:00:07 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 正在擴展其跨語言、機器人、生物學與量子運算的開源模型家族，為開發者、研究人員和企業提供建構因應在地語言與產業需求的應用程式所需的一切。該產品組合包括全新的 NVIDIA Nemotron 3.5 Super VL 與 Nemotron 3.5 Bolt 模型；新的 NVIDIA Nemotron Retriever 模型，用於嵌入、重排序 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/50b5b00305cdfa7e801959538e9d4895/6ad88d223d63325dce420743_agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450_thmb.jpg?v=be0d5bfb-c63f-4dbd-8db5-7ccd943885a1" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/50b5b00305cdfa7e801959538e9d4895/6ad88d223d63325dce420743_agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450_thmb.jpg?v=be0d5bfb-c63f-4dbd-8db5-7ccd943885a1"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/50b5b00305cdfa7e801959538e9d4895/6ad88d223d63325dce420743_agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450/agentic-ai-key-visual-open-models-pr-gtc-berlin-2026-4k-842x450_thmb.jpg?v=be0d5bfb-c63f-4dbd-8db5-7ccd943885a1" alt=""></p><p>NVIDIA 正在擴展其跨語言、機器人、生物學與量子運算的開源模型家族，為開發者、研究人員和企業提供建構因應在地語言與產業需求的應用程式所需的一切。該產品組合包括全新的 NVIDIA Nemotron 3.5 Super VL 與 Nemotron 3.5 Bolt 模型；新的 NVIDIA Nemotron Retriever 模型，用於嵌入、重排序 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
