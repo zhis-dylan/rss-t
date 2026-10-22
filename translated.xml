@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 12:20:41 GMT</lastBuildDate>
+    <item>
+      <title>開發者為 iPhone Duo 帶來令人驚豔的全新 App 體驗</title>
+      <link>https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/developers-bring-incredible-new-app-experiences-to-iphone-duo/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:59:15 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>從這個星期五開始，iPhone Duo 使用者可以發掘專為首款可摺疊 iPhone 最佳化的精彩 App 和遊戲。</description>
+    </item>
     <item>
       <title>我們正與 Voltus 合作打造一座 1 GW 虛擬電廠。</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/</link>
@@ -14,9 +23,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>Google 和 Voltus 正在打造一座 1 GW 虛擬電廠，以提升 6,700 萬人的電網可靠度。了解這項擴展如何運作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp" alt=""></p><p>Google 和 Voltus 正在打造一座 1 GW 虛擬電廠，以提升 6,700 萬人的電網可靠度。了解這項擴展如何運作。</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp" alt=""></p><p>Google 和 Voltus 正在打造一座 1 GW 虛擬電廠，以提升 6,700 萬人的電網可靠度。了解這項擴展如何運作。</p>]]></content:encoded>
     </item>
     <item>
       <title>領先的歐洲金融服務機構擁抱開放模型，打造專有智慧</title>
@@ -1841,15 +1850,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 最新的軟體更新導入 Siri AI，並帶來實用的新 Apple Intelligence 功能。</description>
-    </item>
-    <item>
-      <title>Siri AI，能力大幅提升且更個人化的助理，現已登場</title>
-      <link>https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/siri-ai-a-profoundly-more-capable-and-personal-assistant-is-here/</guid>
-      <pubDate>Mon, 14 Sep 2026 17:09:41 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今日推出下一代 Apple Intelligence。</description>
     </item>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
