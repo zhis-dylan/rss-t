@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 19:55:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:10:27 GMT</lastBuildDate>
+    <item>
+      <title>Arc 瀏覽器將於 12 月 22 日落幕，The Browser Company 將重心轉向 Dia</title>
+      <link>https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180844</guid>
+      <pubDate>Thu, 22 Oct 2026 20:01:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Arc 受到一群忠實愛好者的熱烈喜愛，但它始終沒能成為開發者原本構想中的主流 Chrome 替代品。</description>
+    </item>
+    <item>
+      <title>科技圈大咖表示，新創公司快速成長的祕訣不是提早成交</title>
+      <link>https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180142</guid>
+      <pubDate>Thu, 22 Oct 2026 20:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在今年的 Disrupt 大會上，Lovable GTM 負責人 Luke Arno、Polska 的 Ben Broca，以及 Theory Ventures 的 Tomasz Tunguz 為創辦人提供了一些建議，說明如何在前 90 天內真正達成銷售成功。</description>
+    </item>
     <item>
       <title>1Password 推出一種讓 AI 代理代表你登入、且看不到你密碼的方法</title>
       <link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
@@ -325,15 +343,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3037b38d5b6e196264b1ec169ec82db8/6ad998a13d6332948d724d5a_open-model-european-public-sector-842x450/open-model-european-public-sector-842x450_thmb.jpg?v=ca6484a6-5791-44ff-8fdd-720c08806869" alt=""></p><p>政府需要現代化解決方案來服務民眾，同時保持敏感資訊在其掌控之下。開放模型提供了一條前進途徑，讓政府能評估這些模型、將其調整為本地語言與公共服務、在其可控的基礎架構上執行、套用自身的安全防護措施，並讓敏感資料保留在受控環境中。有些開放模型更進一步，[…]</p>]]></content:encoded>
     </item>
     <item>
-      <title>Tesla 表示將在年底前開始銷售 Cybercab</title>
-      <link>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180494</guid>
-      <pubDate>Thu, 22 Oct 2026 00:17:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Tesla 週三表示，將在今年年底前開始向客戶銷售其 Cybercab，儘管聯邦監管機構正在調查這款車輛是否符合車輛安全標準。這款金色的自動駕駛雙座車沒有方向盤和其他傳統控制裝置。在公司第三季財報電話會議中，Tesla 工程副總裁 Lars Moravy […]</description>
-    </item>
-    <item>
       <title>Uber 將與 OpenAI 合作，把 ChatGPT Work 開放給所有員工</title>
       <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
       <guid isPermaLink="false">https://openai.com/index/uber-chatgpt-work-rollout</guid>
@@ -341,15 +350,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Uber 正在將 ChatGPT Work 推廣給超過 30,000 名員工，協助團隊進行研究、分析資料、製作簡報，並完成複雜的工作流程。</description>
-    </item>
-    <item>
-      <title>Blackstone 的 Jas Khaira 表示，外界對 AI 建設債務的擔憂被誇大了</title>
-      <link>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180358</guid>
-      <pubDate>Wed, 21 Oct 2026 22:51:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Blackstone 的 AI 負責人說明這家 PE 巨頭為何對市場疑慮並不驚慌。</description>
     </item>
     <item>
       <title>透過一致標準實現廣泛存取</title>
