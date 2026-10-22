@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:39:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:54:43 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 的 Mustafa Suleyman 表示，其 AI 在疑難病例上的表現超越醫師，因為他正追逐「醫療超級智慧」</title>
+      <link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180761</guid>
+      <pubDate>Thu, 22 Oct 2026 18:43:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據發表在《Science》上的一項研究，Microsoft 全新的 AI 診斷系統在疑難病例上擊敗了一般科醫師。不過，大部分的進步似乎來自底層的 AI 模型，而不是 Microsoft 的系統本身。</description>
+    </item>
     <item>
       <title>前 OpenAI 科學負責人推出 Warp Science，利用機器人自動化濕實驗室</title>
       <link>https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/</link>
@@ -332,15 +341,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TechCrunch Founder Summit 是一場在 11 月 4 日於波士頓舉行、為期一天的聚會，來自各個階段的創業者將與頂尖 VC 和經驗豐富的創業者交流，獲得關於如何打造與擴展公司實務上的洞見。</description>
-    </item>
-    <item>
-      <title>Meta 表示 Muse 的用戶數已超過 1,000 萬，購物是主要使用活動之一</title>
-      <link>https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180391</guid>
-      <pubDate>Wed, 21 Oct 2026 21:14:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 表示，Muse 用戶正在將這款 app 用於購物和個人生產力，該公司在第三季財報中指出。這款 AI app 的用戶數現已超過 1,000 萬。</description>
     </item>
     <item>
       <title>透過一致標準實現廣泛存取</title>
