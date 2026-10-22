@@ -5,7 +5,79 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:17:34 GMT</lastBuildDate>
+    <item>
+      <title>領先的歐洲金融服務機構擁抱開放模型，打造專有智慧</title>
+      <link>https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:56 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在 GTC 柏林，銀行、支付公司和金融資料供應商正在展示生產規模的智慧是什麼樣子——建立在 NVIDIA 加速運算之上，由開放權重模型驅動，並運行在他們自己的基礎架構上。Revolut 正在以單一基礎模型 PRAGMA 重建其技術堆疊，由 NVIDIA 加速運算提供動力。使用 NVIDIA cuDF […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/233b6f1a8a8ad0c12c0908d23aceb342/6ad998cc3d633295a468d430_Financial-Services-NVIDIA-Open-Models-842x450/Financial-Services-NVIDIA-Open-Models-842x450_thmb.jpg?v=16a1272c-6752-460a-83cf-ff802ba34528" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/233b6f1a8a8ad0c12c0908d23aceb342/6ad998cc3d633295a468d430_Financial-Services-NVIDIA-Open-Models-842x450/Financial-Services-NVIDIA-Open-Models-842x450_thmb.jpg?v=16a1272c-6752-460a-83cf-ff802ba34528"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/233b6f1a8a8ad0c12c0908d23aceb342/6ad998cc3d633295a468d430_Financial-Services-NVIDIA-Open-Models-842x450/Financial-Services-NVIDIA-Open-Models-842x450_thmb.jpg?v=16a1272c-6752-460a-83cf-ff802ba34528" alt=""></p><p>在 GTC 柏林，銀行、支付公司和金融資料供應商正在展示生產規模的智慧是什麼樣子——建立在 NVIDIA 加速運算之上，由開放權重模型驅動，並運行在他們自己的基礎架構上。Revolut 正在以單一基礎模型 PRAGMA 重建其技術堆疊，由 NVIDIA 加速運算提供動力。使用 NVIDIA cuDF […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA Cosmos 開放新工具以訓練、評估與部署世界模型</title>
+      <link>https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/cosmos-open-train-evaluate-deploy-world-models/</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:27 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>為了協助開發者快速打造世界模型，這些模型可幫助實體 AI 系統理解並模擬真實世界，NVIDIA 已為 Cosmos 平台擴充新的訓練工具、模擬檢查點，以及 Cosmos Data Factory 藍圖。NVIDIA Cosmos 平台在六個不同的開放模型排行榜中名列前五，為世界模型開發者提供前沿的開放 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/7555d5f01553f3b431523e3117d5f8f5/6ad9988a3d6332948d724d3e_NVIDIA-Cosmos-New-Tools-2026-842x450/NVIDIA-Cosmos-New-Tools-2026-842x450_thmb.jpg?v=543886cd-2660-41cb-98ae-8dbf23500340" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/7555d5f01553f3b431523e3117d5f8f5/6ad9988a3d6332948d724d3e_NVIDIA-Cosmos-New-Tools-2026-842x450/NVIDIA-Cosmos-New-Tools-2026-842x450_thmb.jpg?v=543886cd-2660-41cb-98ae-8dbf23500340"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/7555d5f01553f3b431523e3117d5f8f5/6ad9988a3d6332948d724d3e_NVIDIA-Cosmos-New-Tools-2026-842x450/NVIDIA-Cosmos-New-Tools-2026-842x450_thmb.jpg?v=543886cd-2660-41cb-98ae-8dbf23500340" alt=""></p><p>為了協助開發者快速打造世界模型，這些模型可幫助實體 AI 系統理解並模擬真實世界，NVIDIA 已為 Cosmos 平台擴充新的訓練工具、模擬檢查點，以及 Cosmos Data Factory 藍圖。NVIDIA Cosmos 平台在六個不同的開放模型排行榜中名列前五，為世界模型開發者提供前沿的開放 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>企業如何運用 NVIDIA DSX 突破電力瓶頸</title>
+      <link>https://blogs.nvidia.com/blog/dsx-power/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/dsx-power/</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:25 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>世界各地的公司正在 NVIDIA DSX AI Factory 平台上打造解決方案，將電網與 AI 工廠視為一個系統來規劃、模擬和運行，從變電站一路到機櫃。他們採用該平台，是為了回應一個迫切的問題。電力如今已成為基礎架構中最大的瓶頸。超過 3000 億美元 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803" alt=""></p><p>世界各地的公司正在 NVIDIA DSX AI Factory 平台上打造解決方案，將電網與 AI 工廠視為一個系統來規劃、模擬和運行，從變電站一路到機櫃。他們採用該平台，是為了回應一個迫切的問題。電力如今已成為基礎架構中最大的瓶頸。超過 3000 億美元 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 轉型歐洲零售業，從數位探索到實體營運</title>
+      <link>https://blogs.nvidia.com/blog/european-retail-open-models-robotics/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/european-retail-open-models-robotics/</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:23 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>歐洲零售商正在多種用例中運用開放模型與實體智慧——從一家將推論成本降低 90% 的商務平台，到一個在數位孿生中模擬不同機器人車隊協作的履約中心。前沿成果來自開放模型 零售領導者與科技公司遍布歐洲，正使用 NVIDIA 加速的開放 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6" alt=""></p><p>歐洲零售商正在多種用例中運用開放模型與實體智慧——從一家將推論成本降低 90% 的商務平台，到一個在數位孿生中模擬不同機器人車隊協作的履約中心。前沿成果來自開放模型 零售領導者與科技公司遍布歐洲，正使用 NVIDIA 加速的開放 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>歐洲各地的先驅部署 NVIDIA Earth-2 開放模型，為真實世界的天氣與氣候預測提供動力</title>
+      <link>https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:19 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>天氣預報不只影響日常安排；及時的天氣資訊對能源生產商、保險業者和運輸業者規劃因應變化的條件至關重要。全球預報可以顯示風暴正在形成，但關於太陽能電廠、航運路線或承保財產的決策，取決於當地實際發生的情況。NVIDIA Earth-2 為開發者和研究人員提供了一個 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3461f9393935f103c1a1a7f9fa202887/6ad9989b3d6332948d724d53_Earth-2-Open-Models-Climate-Prediction-842x450/Earth-2-Open-Models-Climate-Prediction-842x450_thmb.jpg?v=0efa6d8e-f5e8-4a9d-b653-54ea0c1d3091" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3461f9393935f103c1a1a7f9fa202887/6ad9989b3d6332948d724d53_Earth-2-Open-Models-Climate-Prediction-842x450/Earth-2-Open-Models-Climate-Prediction-842x450_thmb.jpg?v=0efa6d8e-f5e8-4a9d-b653-54ea0c1d3091"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3461f9393935f103c1a1a7f9fa202887/6ad9989b3d6332948d724d53_Earth-2-Open-Models-Climate-Prediction-842x450/Earth-2-Open-Models-Climate-Prediction-842x450_thmb.jpg?v=0efa6d8e-f5e8-4a9d-b653-54ea0c1d3091" alt=""></p><p>天氣預報不只影響日常安排；及時的天氣資訊對能源生產商、保險業者和運輸業者規劃因應變化的條件至關重要。全球預報可以顯示風暴正在形成，但關於太陽能電廠、航運路線或承保財產的決策，取決於當地實際發生的情況。NVIDIA Earth-2 為開發者和研究人員提供了一個 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 開放模型為歐洲公共部門專案帶來新一波動能</title>
+      <link>https://blogs.nvidia.com/blog/european-public-sector-open-models/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/european-public-sector-open-models/</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:02 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>政府需要現代化解決方案來服務民眾，同時保持敏感資訊在其掌控之下。開放模型提供了一條前進途徑，讓政府能評估這些模型、將其調整為本地語言與公共服務、在其可控的基礎架構上執行、套用自身的安全防護措施，並讓敏感資料保留在受控環境中。有些開放模型更進一步，[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3037b38d5b6e196264b1ec169ec82db8/6ad998a13d6332948d724d5a_open-model-european-public-sector-842x450/open-model-european-public-sector-842x450_thmb.jpg?v=ca6484a6-5791-44ff-8fdd-720c08806869" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3037b38d5b6e196264b1ec169ec82db8/6ad998a13d6332948d724d5a_open-model-european-public-sector-842x450/open-model-european-public-sector-842x450_thmb.jpg?v=ca6484a6-5791-44ff-8fdd-720c08806869"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3037b38d5b6e196264b1ec169ec82db8/6ad998a13d6332948d724d5a_open-model-european-public-sector-842x450/open-model-european-public-sector-842x450_thmb.jpg?v=ca6484a6-5791-44ff-8fdd-720c08806869" alt=""></p><p>政府需要現代化解決方案來服務民眾，同時保持敏感資訊在其掌控之下。開放模型提供了一條前進途徑，讓政府能評估這些模型、將其調整為本地語言與公共服務、在其可控的基礎架構上執行、套用自身的安全防護措施，並讓敏感資料保留在受控環境中。有些開放模型更進一步，[…]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Tesla 表示將在年底前開始銷售 Cybercab</title>
       <link>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/</link>
@@ -427,45 +499,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/b61bfda00ad668f9890d5b5b0d775b1e/6ad693aa3d63324483072858_NVIDIA-OpenShell-Reference-Architecture/NVIDIA-OpenShell-Reference-Architecture_thmb.jpg?v=21af43b3-e9a2-4b8b-a792-e5382e40f9aa" alt=""></p><p>NVIDIA 今天宣布推出 NVIDIA OpenShell 參考架構，可在企業基礎架構與邊緣系統上，實現安全代理的建置、封裝、觀測與強制執行。</p>]]></content:encoded>
     </item>
     <item>
-      <title>歐洲生態系統運用 NVIDIA DSX 打造全球最有效率的 AI 工廠</title>
-      <link>https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx</guid>
-      <pubDate>Wed, 21 Oct 2026 09:35:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>新聞摘要：
-
-
-NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷卻用水消耗降至近乎零，潛在節省 5,400 萬公升...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/1909e3e87775e2788375b3d0aa3724ba/6ad7dc5f3d6332c412cb7556_nvidia-dsx-platform/nvidia-dsx-platform_thmb.jpg?v=95909e16-23fd-4d0e-acd4-72aec3f13fde" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/1909e3e87775e2788375b3d0aa3724ba/6ad7dc5f3d6332c412cb7556_nvidia-dsx-platform/nvidia-dsx-platform_thmb.jpg?v=95909e16-23fd-4d0e-acd4-72aec3f13fde"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/1909e3e87775e2788375b3d0aa3724ba/6ad7dc5f3d6332c412cb7556_nvidia-dsx-platform/nvidia-dsx-platform_thmb.jpg?v=95909e16-23fd-4d0e-acd4-72aec3f13fde" alt=""></p><p>新聞摘要：<br><br><br>NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷卻用水消耗降至近乎零，潛在節省 5,400 萬公升...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 推出 DSX POD AI 工廠，加速歐洲基礎設施部署</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment</guid>
-      <pubDate>Wed, 21 Oct 2026 09:34:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日推出 DSX POD，這是一項完整 NVIDIA Vera Rubin AI 工廠的參考設計，由合作夥伴在模組化貨櫃內建置，並在交付前完成整合與驗證。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/37e892449c48767de17d929f36b4d469/6ad84e8c3d6332fa2ecb7555_nvidia-dsx-pod/nvidia-dsx-pod_thmb.jpg?v=bdc77880-16cd-4f2a-8ad8-83c2e848fae8" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/37e892449c48767de17d929f36b4d469/6ad84e8c3d6332fa2ecb7555_nvidia-dsx-pod/nvidia-dsx-pod_thmb.jpg?v=bdc77880-16cd-4f2a-8ad8-83c2e848fae8"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/37e892449c48767de17d929f36b4d469/6ad84e8c3d6332fa2ecb7555_nvidia-dsx-pod/nvidia-dsx-pod_thmb.jpg?v=bdc77880-16cd-4f2a-8ad8-83c2e848fae8" alt=""></p><p>NVIDIA 今日推出 DSX POD，這是一項完整 NVIDIA Vera Rubin AI 工廠的參考設計，由合作夥伴在模組化貨櫃內建置，並在交付前完成整合與驗證。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>GTC 柏林 2026：NVIDIA 執行長 Jensen Huang 主題演講現場更新</title>
-      <link>https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/gtc-berlin-2026-keynote/</guid>
-      <pubDate>Wed, 21 Oct 2026 09:30:16 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Tempodrom 於 1980 年在柏林圍牆附近的一頂帳篷中創立，之後幾經搬遷，直到 2001 年才落腳於 Anhalter Bahnhof 附近。它的永久所在地此後舉辦過演唱會、晚會和政治活動。今天，它則舉辦另一種盛會。GTC 柏林為期三天，包含超過 100 場關於 agentic AI、機器人、[…] 的場次。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/8dbd71843ae74919a9369d7fa847ba9e/6ad886bf3d63323dce496e3d_gtc26-berlin-digital-keynote-watch-now-marketing-kit-corp-blog-1920x1080-1-842x450/gtc26-berlin-digital-keynote-watch-now-marketing-kit-corp-blog-1920x1080-1-842x450_thmb.jpg?v=aa9b9088-ac3c-4fd2-928b-62546787c343" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/8dbd71843ae74919a9369d7fa847ba9e/6ad886bf3d63323dce496e3d_gtc26-berlin-digital-keynote-watch-now-marketing-kit-corp-blog-1920x1080-1-842x450/gtc26-berlin-digital-keynote-watch-now-marketing-kit-corp-blog-1920x1080-1-842x450_thmb.jpg?v=aa9b9088-ac3c-4fd2-928b-62546787c343"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/8dbd71843ae74919a9369d7fa847ba9e/6ad886bf3d63323dce496e3d_gtc26-berlin-digital-keynote-watch-now-marketing-kit-corp-blog-1920x1080-1-842x450/gtc26-berlin-digital-keynote-watch-now-marketing-kit-corp-blog-1920x1080-1-842x450_thmb.jpg?v=aa9b9088-ac3c-4fd2-928b-62546787c343" alt=""></p><p>Tempodrom 於 1980 年在柏林圍牆附近的一頂帳篷中創立，之後幾經搬遷，直到 2001 年才落腳於 Anhalter Bahnhof 附近。它的永久所在地此後舉辦過演唱會、晚會和政治活動。今天，它則舉辦另一種盛會。GTC 柏林為期三天，包含超過 100 場關於 agentic AI、機器人、[…] 的場次。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
       <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
       <guid isPermaLink="false">https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
@@ -589,18 +622,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <description>Apple 宣布與美國公司建立新的與擴大的合作夥伴關係，這些公司正為 iPhone Duo 和 iPhone 18 Pro 提供關鍵材料與零組件。</description>
     </item>
     <item>
-      <title>歐洲領導者轉向 NVIDIA Vera CPU 以建置本地基礎架構</title>
-      <link>https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/</guid>
-      <pubDate>Tue, 20 Oct 2026 10:30:11 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Nebius 和 Nscale 是尋求採用 NVIDIA Vera CPU 建置下一波基礎架構的全球科技夥伴之一。他們的動能反映了 Agentic Computing 的快速進展。Agent 不只會產生答案：它們會擷取資訊、執行軟體工具、執行程式碼並評估結果。每一步都仰賴快速的 CPU 處理。Vera 加速了這一切 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3c2ab65b0cc667a0ec4253127505e486/6ad896943d63328d4bd903c6_cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450/cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450_thmb.jpg?v=15a76aae-bbff-4cda-9319-7d2275251216" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3c2ab65b0cc667a0ec4253127505e486/6ad896943d63328d4bd903c6_cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450/cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450_thmb.jpg?v=15a76aae-bbff-4cda-9319-7d2275251216"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3c2ab65b0cc667a0ec4253127505e486/6ad896943d63328d4bd903c6_cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450/cpu-architecture-vera-cpu-gtc-berlin-blog-1920x1080-5853194-842x450_thmb.jpg?v=15a76aae-bbff-4cda-9319-7d2275251216" alt=""></p><p>Nebius 和 Nscale 是尋求採用 NVIDIA Vera CPU 建置下一波基礎架構的全球科技夥伴之一。他們的動能反映了 Agentic Computing 的快速進展。Agent 不只會產生答案：它們會擷取資訊、執行軟體工具、執行程式碼並評估結果。每一步都仰賴快速的 CPU 處理。Vera 加速了這一切 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>加盟主使用 ChatGPT Work 將現金對帳時間縮短 94%</title>
       <link>https://openai.com/index/ted-taylor-restaurant</link>
       <guid isPermaLink="false">https://openai.com/index/ted-taylor-restaurant</guid>
@@ -632,18 +653,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <description>Terminal X 的 Eval Agent 依照 54 項標準的評分規準來評估輸出，使用 GPT-6.1 Sol 可多抓到 25% 偏離基金投資授權的情況。</description>
     </item>
     <item>
-      <title>總部位於西班牙的新創公司透過巴塞隆納超級運算中心推動區域創新</title>
-      <link>https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/spain-startups-barcelona-supercomputing-center/</guid>
-      <pubDate>Tue, 20 Oct 2026 05:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>巴塞隆納超級運算中心（BSC）的 AI Factory Accelerator Programme 在試辦計畫後已全面運作，讓新創公司能取得主權運算資源、技術支援與培訓，以支持各產業的創新。許多這些公司也都是 NVIDIA Inception 計畫中專注前沿技術的新創公司成員，而且從今天起，也能使用一些 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/d7234aca6f858edd7c1472c556ce312d/6ad6f57e3d63322a005875f8_spain-startups-bsc-1920x1080-1-842x450/spain-startups-bsc-1920x1080-1-842x450_thmb.jpg?v=742f0af5-01b3-4438-8ec1-bffefb3a6143" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d7234aca6f858edd7c1472c556ce312d/6ad6f57e3d63322a005875f8_spain-startups-bsc-1920x1080-1-842x450/spain-startups-bsc-1920x1080-1-842x450_thmb.jpg?v=742f0af5-01b3-4438-8ec1-bffefb3a6143"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d7234aca6f858edd7c1472c556ce312d/6ad6f57e3d63322a005875f8_spain-startups-bsc-1920x1080-1-842x450/spain-startups-bsc-1920x1080-1-842x450_thmb.jpg?v=742f0af5-01b3-4438-8ec1-bffefb3a6143" alt=""></p><p>巴塞隆納超級運算中心（BSC）的 AI Factory Accelerator Programme 在試辦計畫後已全面運作，讓新創公司能取得主權運算資源、技術支援與培訓，以支持各產業的創新。許多這些公司也都是 NVIDIA Inception 計畫中專注前沿技術的新創公司成員，而且從今天起，也能使用一些 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>OpenAI 收購 Orchestra Bio</title>
       <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
       <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
@@ -663,18 +672,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp" alt=""></p><p>自從我們首次宣布在阿肯色州西孟菲斯建設以來，我們一直持續與社區成員合作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>德國想要引領工業 AI：NVIDIA 將如何提供協助</title>
-      <link>https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/</guid>
-      <pubDate>Mon, 19 Oct 2026 19:27:08 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在柏林前發電廠 Kraftwerk 寬敞的廳堂裡，德國總理 Friedrich Merz 與 NVIDIA 創辦人兼執行長 Jensen Huang 坐下來討論德國的 AI 路線圖，尤其是 AI 的工業應用。Huang 開場先回顧 NVIDIA 與德國產業長久以來的關係，從遊戲系統、工作站與汽車 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/cd9ae663e0a1f253347489cd426f5727/6ad66f323d6332922c39b1ec_26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450_thmb.jpg?v=9233a325-79ab-4f3d-a1d9-f68aa825c17b" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/cd9ae663e0a1f253347489cd426f5727/6ad66f323d6332922c39b1ec_26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450_thmb.jpg?v=9233a325-79ab-4f3d-a1d9-f68aa825c17b"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/cd9ae663e0a1f253347489cd426f5727/6ad66f323d6332922c39b1ec_26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450/26gtc-eu-prenote-berlin-invest-in-germany-summit-jhh-on-stage-LD1_2344-842x450_thmb.jpg?v=9233a325-79ab-4f3d-a1d9-f68aa825c17b" alt=""></p><p>在柏林前發電廠 Kraftwerk 寬敞的廳堂裡，德國總理 Friedrich Merz 與 NVIDIA 創辦人兼執行長 Jensen Huang 坐下來討論德國的 AI 路線圖，尤其是 AI 的工業應用。Huang 開場先回顧 NVIDIA 與德國產業長久以來的關係，從遊戲系統、工作站與汽車 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>如何透過 Gemini Notebook 調整你的簡報與影片</title>
