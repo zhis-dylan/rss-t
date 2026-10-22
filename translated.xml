@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 12:50:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:06:05 GMT</lastBuildDate>
     <item>
       <title>探索運用全新方式，透過首波 Google Marketing Platform Drop 創造最佳 ROI。</title>
       <link>https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-october/</link>
@@ -17,6 +17,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_.max-600x600.format-webp_5aUmqwN.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_.max-600x600.format-webp_5aUmqwN.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/106-GMP_Drops___Design_Slide01_.max-600x600.format-webp_5aUmqwN.webp" alt=""></p><p>Google Marketing Platform Drops 是全新的每月系列，帶來我們最新消息，協助你在完整顧客旅程中達成最佳 ROI。我們將涵蓋從頭到尾的所有內容……</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>一級方程式®美國大獎賽™本週末於 Apple TV 直播</title>
+      <link>https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/</guid>
+      <pubDate>Thu, 22 Oct 2026 12:59:11 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>一級方程式®本週末重返美國，美國大獎賽™將在美國地區獨家於 Apple TV 串流直播。</description>
     </item>
     <item>
       <title>開發者為 iPhone Duo 帶來令人驚豔的全新 App 體驗</title>
@@ -1844,15 +1853,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>在今晚舉行的第 78 屆黃金時段艾美獎上，Apple TV 打破紀錄，成為今年獲獎最多的電視網，總共拿下 29 座獎項。</description>
-    </item>
-    <item>
-      <title>Apple 軟體平台的重大更新現已推出</title>
-      <link>https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/</guid>
-      <pubDate>Mon, 14 Sep 2026 17:10:12 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 最新的軟體更新導入 Siri AI，並帶來實用的新 Apple Intelligence 功能。</description>
     </item>
     <item>
       <title>Perplexity 信任 GPT-6 Astra 負責端到端系統</title>
