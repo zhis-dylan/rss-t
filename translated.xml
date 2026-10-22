@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 15:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 15:22:32 GMT</lastBuildDate>
+    <item>
+      <title>投資人解析創辦人如今如何募到 A 輪</title>
+      <link>https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3179631</guid>
+      <pubDate>Thu, 22 Oct 2026 15:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>如今募資 A 輪可沒那麼簡單——頂尖投資人解析創辦人現在需要知道的事。</description>
+    </item>
     <item>
       <title>Spotify 目前的 AI 賭注，是成為代理選擇的音樂服務</title>
       <link>https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/</link>
@@ -332,15 +341,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>當 Amazon 封鎖 AI 代理人在其網站上購物時，Walmart 採取相反做法，推出新技術，讓 AI 代理人代表顧客下單，同時提供對支出與交易核准的控制。</description>
-    </item>
-    <item>
-      <title>網路今天的資安狀況非常糟糕</title>
-      <link>https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180275</guid>
-      <pubDate>Wed, 21 Oct 2026 19:03:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從 AI 發現的 PHP 漏洞，到 Node.js 和熱門 AI 工具 LiteLLM 的缺陷，資安團隊這週有很多事情要擔心。</description>
     </item>
     <item>
       <title>AT&amp;T 如何運用 OpenAI 重新思考內部法務工作</title>
