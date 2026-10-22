@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:30:20 GMT</lastBuildDate>
+    <item>
+      <title>Tesla 表示將在年底前開始銷售 Cybercab</title>
+      <link>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180494</guid>
+      <pubDate>Thu, 22 Oct 2026 00:17:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tesla 週三表示，將在今年年底前開始向客戶銷售其 Cybercab，儘管聯邦監管機構正在調查這款車輛是否符合車輛安全標準。這款金色的自動駕駛雙座車沒有方向盤和其他傳統控制裝置。在公司第三季財報電話會議中，Tesla 工程副總裁 Lars Moravy […]</description>
+    </item>
     <item>
       <title>Blackstone 的 Jas Khaira 表示，外界對 AI 建設債務的擔憂被誇大了</title>
       <link>https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/</link>
@@ -206,15 +215,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 與專家合作重現 19 世紀雕塑家的工作空間，讓她們的傳承重新受到關注。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 承諾提升生產力，但對主管來說，目前多半只是個麻煩</title>
-      <link>https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3179812</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據一項新調查，超過 50% 的主管表示，在導入 AI 後，他們更難評估員工的工作表現。</description>
     </item>
     <item>
       <title>ChatGPT 廣告擴展至 26 個新國家，已有超過 100,000 名廣告主使用這個平台</title>
