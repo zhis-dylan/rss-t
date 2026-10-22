@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 19:25:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:40:09 GMT</lastBuildDate>
     <item>
       <title>1Password 推出一種讓 AI 代理代表你登入、且看不到你密碼的方法</title>
       <link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
@@ -23,6 +23,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Canva 正將其新的圖片模型提供給所有使用者，承諾以更低成本帶來更好、且更可自訂的效能。</description>
+    </item>
+    <item>
+      <title>OpenAI 將其 Jev 競爭對手廣泛開放，隨著決策模型競爭升溫</title>
+      <link>https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180667</guid>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正在把它的決策模型推向全球。它能與原版 Jev 競爭嗎？</description>
     </item>
     <item>
       <title>Microsoft 的 Mustafa Suleyman 表示，其 AI 在疑難病例上的表現超越醫師，因為他正追逐「醫療超級智慧」</title>
@@ -332,15 +341,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Blackstone 的 AI 負責人說明這家 PE 巨頭為何對市場疑慮並不驚慌。</description>
-    </item>
-    <item>
-      <title>Meta 想用新設立的股票類別來支付其大規模 AI 建設費用</title>
-      <link>https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180349</guid>
-      <pubDate>Wed, 21 Oct 2026 22:45:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家社群媒體巨頭正規劃新的股票策略，以支撐其在 AI 模型與服務上的廣泛投資。</description>
     </item>
     <item>
       <title>透過一致標準實現廣泛存取</title>
