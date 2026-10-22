@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:54:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 19:09:53 GMT</lastBuildDate>
+    <item>
+      <title>1Password 推出一種讓 AI 代理代表你登入、且看不到你密碼的方法</title>
+      <link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180727</guid>
+      <pubDate>Thu, 22 Oct 2026 19:07:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項新功能可讓代理登入客戶的個人帳戶，同時仍保護用來保護那些帳戶的私人憑證。</description>
+    </item>
+    <item>
+      <title>Canva 發布首個圖片生成模型</title>
+      <link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Canva 正將其新的圖片模型提供給所有使用者，承諾以更低成本帶來更好、且更可自訂的效能。</description>
+    </item>
     <item>
       <title>Microsoft 的 Mustafa Suleyman 表示，其 AI 在疑難病例上的表現超越醫師，因為他正追逐「醫療超級智慧」</title>
       <link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
@@ -323,24 +341,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家社群媒體巨頭正規劃新的股票策略，以支撐其在 AI 模型與服務上的廣泛投資。</description>
-    </item>
-    <item>
-      <title>Airbnb 限制房客的打掃工作，引發房東反彈</title>
-      <link>https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180432</guid>
-      <pubDate>Wed, 21 Oct 2026 22:16:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 Airbnb 表示房東不能再要求房客拆床單或做其他耗時的清潔工作後，房東們威脅要離開這個平台。</description>
-    </item>
-    <item>
-      <title>TechCrunch Founder Summit 2026：你需要知道的一切</title>
-      <link>https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3168635</guid>
-      <pubDate>Wed, 21 Oct 2026 21:16:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch Founder Summit 是一場在 11 月 4 日於波士頓舉行、為期一天的聚會，來自各個階段的創業者將與頂尖 VC 和經驗豐富的創業者交流，獲得關於如何打造與擴展公司實務上的洞見。</description>
     </item>
     <item>
       <title>透過一致標準實現廣泛存取</title>
