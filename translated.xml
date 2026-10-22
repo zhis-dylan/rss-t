@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:42:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:57:24 GMT</lastBuildDate>
+    <item>
+      <title>馬克・祖克伯為在不失去對 Meta 控制權的情況下支付加州提議的億萬富豪稅所想出的巧妙方案</title>
+      <link>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180868</guid>
+      <pubDate>Thu, 22 Oct 2026 23:50:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 創辦人暨執行長馬克・祖克伯為了支付「億萬富豪稅」，部分設計了一種新推出的股票類別，若這項提案在投票中通過成為法律，這將派上用場。</description>
+    </item>
     <item>
       <title>Warhound 募得 2 億美元，用於打造戰犬並為牠們配備 Anduril 裝備</title>
       <link>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/</link>
@@ -197,15 +206,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76" alt=""></p><p>NVIDIA Minerva 今日正式推出，是一個 AIOps 平台，旨在協助團隊更早發現問題，並維持 AI 工廠高效運作。它整合來自基礎設施與 AI 工作負載的遙測資料，接著套用專為此打造的 AI 模型，將這些資料轉化為及時且可採取行動的洞察。AI 工廠是世界上最複雜的作業之一，擁有龐大的 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>聚變新創 Helion 正在開發新型半導體，可能讓其發電廠的產出翻倍</title>
-      <link>https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180619</guid>
-      <pubDate>Thu, 22 Oct 2026 14:59:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Helion 又拿到 2.25 億美元，協助加速其首座聚變發電廠的開發，該廠預計將於 2028 年向 Microsoft 供電。</description>
     </item>
     <item>
       <title>雲端部署即將登場：《決勝時刻：現代戰爭 4》登陸 GeForce NOW</title>
@@ -1592,13 +1592,13 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
@@ -1610,13 +1610,13 @@
       <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
