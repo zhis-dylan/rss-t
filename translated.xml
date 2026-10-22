@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 00:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:00:37 GMT</lastBuildDate>
     <item>
       <title>Tesla 表示將在年底前開始銷售 Cybercab</title>
       <link>https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/</link>
@@ -503,6 +503,15 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp" alt=""></p><p>AI 的廣泛採用正推動東南亞的數位經濟，預估在 2026 年達到 3,680 億美元，並在 2035 年達到 1 兆美元。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Cloudflare 將漏洞發現與防禦連結至 OpenAI</title>
+      <link>https://openai.com/index/cloudflare-cyber</link>
+      <guid isPermaLink="false">https://openai.com/index/cloudflare-cyber</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Cloudflare 使用 OpenAI Daybreak 來調查漏洞並提出修補建議供審查。其開發者使用 Codex 更快地建置並提升程式碼品質。</description>
     </item>
     <item>
       <title>前沿 AI 的民主治理，第二部分：賦能網路防禦者</title>
@@ -1128,15 +1137,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Maia-200-Image-1.png.jpg" alt=""></p><p>Azure Maia 200 現已量產；Azure Maia 300 將於 2027 年推出。隨著我們邁入超級智慧時代，Microsoft 正進入基礎架構的新階段。自 2027 年起，我們將把 Azure Maia 系列擴展至多吉瓦級部署，使 Maia 成為 Microsoft 產品與服務的主要推論系統。這個跨世代...<br>這篇〈Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署〉最初發表於 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
-      <link>https://openai.com/index/sophos</link>
-      <guid isPermaLink="false">https://openai.com/index/sophos</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
-    </item>
-    <item>
       <title>Asana 在瀏覽器測試中將模型成本降低 76 倍，採用 GPT-6.1 Sol</title>
       <link>https://openai.com/index/asana-browser-agent</link>
       <guid isPermaLink="false">https://openai.com/index/asana-browser-agent</guid>
@@ -1144,6 +1144,15 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
+    </item>
+    <item>
+      <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
+      <link>https://openai.com/index/sophos</link>
+      <guid isPermaLink="false">https://openai.com/index/sophos</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
@@ -1547,15 +1556,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
@@ -1572,6 +1572,15 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1918,15 +1927,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>Agents API 介紹</title>
-      <link>https://openai.com/index/introducing-the-agents-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
-    </item>
-    <item>
       <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
       <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
@@ -1934,6 +1934,15 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
+    </item>
+    <item>
+      <title>Agents API 介紹</title>
+      <link>https://openai.com/index/introducing-the-agents-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
     </item>
     <item>
       <title>Paul Christiano 加入 OpenAI Foundation 董事會</title>
@@ -1970,15 +1979,6 @@ NVIDIA DSX 參考設計採用封閉式液冷與乾式冷卻器，可將設施冷
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解一位 MIT 研究人員如何將 GPT-5.6 Sol 與 Codex 搭配，自主執行量子運算實驗、分析結果並校準量子位元。</description>
-    </item>
-    <item>
-      <title>可完成的工作已近在咫尺</title>
-      <link>https://openai.com/index/the-work-now-within-reach</link>
-      <guid isPermaLink="false">https://openai.com/index/the-work-now-within-reach</guid>
-      <pubDate>Tue, 08 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索更強大、更實惠的 AI 如何擴大人們和企業能夠完成的工作，並讓成長更具經濟效益。</description>
     </item>
     <item>
       <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
