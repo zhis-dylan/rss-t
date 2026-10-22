@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 18:24:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 18:39:31 GMT</lastBuildDate>
+    <item>
+      <title>前 OpenAI 科學負責人推出 Warp Science，利用機器人自動化濕實驗室</title>
+      <link>https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180778</guid>
+      <pubDate>Thu, 22 Oct 2026 18:38:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家新創公司由 Lightspeed 領投，募得 2.15 億美元融資。</description>
+    </item>
     <item>
       <title>Elon Musk 對 Skydance 進行了 10 億美元投資，報導指出</title>
       <link>https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/</link>
@@ -341,15 +350,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 如何與發行合作夥伴合作，以維持一致的防護措施、支持負責任的存取，並釐清我們《使用政策》中的期望。</description>
-    </item>
-    <item>
-      <title>一年前成立的 AI 實驗室 Flapping Airplanes 以 60 億美元估值募得 10 億美元</title>
-      <link>https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180348</guid>
-      <pubDate>Wed, 21 Oct 2026 20:57:40 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>就在募得 1.8 億美元種子輪 9 個月後，Flapping Airplanes 又拿下 10 億美元 A 輪融資，目標是打造「不必吞下半個網路」的 AI 模型。</description>
     </item>
     <item>
       <title>AT&amp;T 如何運用 OpenAI 重新思考內部法務工作</title>
