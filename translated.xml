@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 23:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:27:09 GMT</lastBuildDate>
+    <item>
+      <title>Warhound 募得 2 億美元，用於打造戰犬並為牠們配備 Anduril 裝備</title>
+      <link>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180969</guid>
+      <pubDate>Thu, 22 Oct 2026 23:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Warhound 由 Ben Lamm 和 Palmer Luckey 構思，現在浮出檯面，將以基因工程打造供軍方與執法單位使用的狗。</description>
+    </item>
     <item>
       <title>隨著區塊鏈投資退燒，a16z Crypto 更名為 a16z Frontier</title>
       <link>https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/</link>
@@ -199,15 +208,6 @@
       <description>Helion 又拿到 2.25 億美元，協助加速其首座聚變發電廠的開發，該廠預計將於 2028 年向 Microsoft 供電。</description>
     </item>
     <item>
-      <title>開發者平台 Railway 呼籲「所有使用者」在遭到網攻後撤銷金鑰</title>
-      <link>https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180611</guid>
-      <pubDate>Thu, 22 Oct 2026 14:03:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這個 vibe-coding 平台表示，所有客戶都應該撤銷並輪換他們的私密金鑰，因為駭客成功解密了部分客戶機密資訊。</description>
-    </item>
-    <item>
       <title>雲端部署即將登場：《決勝時刻：現代戰爭 4》登陸 GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</link>
       <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</guid>
@@ -260,15 +260,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp" alt=""></p><p>Google 和 Voltus 正在打造一座 1 GW 虛擬電廠，以提升 6,700 萬人的電網可靠度。了解這項擴展如何運作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 的 FDE 是什麼意思</title>
-      <link>https://openai.com/index/forward-deployed-engineering-means</link>
-      <guid isPermaLink="false">https://openai.com/index/forward-deployed-engineering-means</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>在 OpenAI，forward deployed engineering 是什麼意思</description>
     </item>
     <item>
       <title>領先的歐洲金融服務機構擁抱開放模型，打造專有智慧</title>
@@ -1601,15 +1592,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
@@ -1617,6 +1599,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+    </item>
+    <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
@@ -1954,15 +1945,6 @@
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
     </item>
     <item>
-      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
-      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
-    </item>
-    <item>
       <title>Agents API 介紹</title>
       <link>https://openai.com/index/introducing-the-agents-api</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
@@ -1972,6 +1954,15 @@
       <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
     </item>
     <item>
+      <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
+      <link>https://openai.com/index/introducing-gpt-live-1-in-the-api</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-live-1-in-the-api</guid>
+      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
+    </item>
+    <item>
       <title>AI 政策的窗口已經打開。我們需要採取行動。</title>
       <link>https://openai.com/index/ai-policy-window</link>
       <guid isPermaLink="false">https://openai.com/index/ai-policy-window</guid>
@@ -1979,6 +1970,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Chris Lehane 認為，更強大的 AI 能力需要更強的安全性證據、共同標準，以及持久的政策行動，同時政策窗口仍然開著。</description>
+    </item>
+    <item>
+      <title>GPT-6 Astra：工作領域的下一代智慧</title>
+      <link>https://openai.com/index/gpt-6-astra-next-generation-work</link>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-astra-next-generation-work</guid>
+      <pubDate>Wed, 09 Sep 2026 11:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>認識 GPT-6 Astra，OpenAI 最強大的商務模型，具備進階推理、電腦操作能力，以及更強的寫作和設計判斷力。</description>
     </item>
     <item>
       <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
