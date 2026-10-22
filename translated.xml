@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 22 Oct 2026 16:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 16:53:31 GMT</lastBuildDate>
+    <item>
+      <title>中國駭客在入侵 IT 巨頭 ConnectWise 後，監視了數千家公司</title>
+      <link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180678</guid>
+      <pubDate>Thu, 22 Oct 2026 16:47:17 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 將 ConnectWise 遭入侵歸咎於一名與中國有關聯的駭客，該駭客依賴 AI 代理程式迅速入侵其數千名客戶。</description>
+    </item>
     <item>
       <title>TechCrunch Disrupt 2026 Startup Battlefield 200：表彰傑出成就</title>
       <link>https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/</link>
@@ -341,15 +350,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>特斯拉營收持平，但支出大幅飆升，因為公司正全力推進 Optimus 機器人、AI 和自動駕駛。</description>
-    </item>
-    <item>
-      <title>Recursive 推出 Flint：一款號稱主要由 AI 打造的筆電程式碼模型</title>
-      <link>https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180324</guid>
-      <pubDate>Wed, 21 Oct 2026 20:27:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新創公司 Recursive 已發布 Flint，這是一款免費、筆電尺寸的程式碼模型，主要由其自家的 AI 研究系統打造，作為 AI 自我改進的早期測試。</description>
     </item>
     <item>
       <title>AT&amp;T 如何運用 OpenAI 重新思考內部法務工作</title>
