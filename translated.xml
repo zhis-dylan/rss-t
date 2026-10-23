@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 16:20:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:35:24 GMT</lastBuildDate>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
       <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 如何透過可靠的多租戶、全球快取，以及 Azure Cosmos DB 擴充 Habitat，為 ChatGPT 提供快 12 倍的讀取速度。</description>
+    </item>
+    <item>
+      <title>Agent 雲端新創 Daytona 在 FirstMark 和一眾天使投資人支持下估值達 10 億美元</title>
+      <link>https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181153</guid>
+      <pubDate>Fri, 23 Oct 2026 16:26:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Daytona 正在打造一個給 agents 用的雲端，就像是替每個 agent 都配一台自己的電腦。該公司表示，這已吸引 Stripe、Perplexity、Datadog、Mercor 等創辦人以天使投資人身分參與投資。</description>
+    </item>
+    <item>
+      <title>Commonwealth Fusion Systems 獲得 8,500 萬美元，用於打造更好的融合就緒半導體</title>
+      <link>https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181139</guid>
+      <pubDate>Fri, 23 Oct 2026 16:20:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>獲得最多資金的核融合新創 Commonwealth Fusion Systems 收到美國聯邦政府 8,500 萬美元的獎助，將用於推進核融合發電廠所需的導體技術。</description>
     </item>
     <item>
       <title>Anthropic 的一些支持者據報在其 IPO 前身價如何</title>
@@ -228,24 +246,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆投資將在公司尋求削減成本並提振股價之際，提供急需的財務支持。</description>
-    </item>
-    <item>
-      <title>中國駭客在入侵 IT 巨頭 ConnectWise 後，監視了數千家公司</title>
-      <link>https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180678</guid>
-      <pubDate>Thu, 22 Oct 2026 16:47:17 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 將 ConnectWise 遭入侵歸咎於一名與中國有關聯的駭客，該駭客依賴 AI 代理程式迅速入侵其數千名客戶。</description>
-    </item>
-    <item>
-      <title>TechCrunch Disrupt 2026 Startup Battlefield 200：表彰傑出成就</title>
-      <link>https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180145</guid>
-      <pubDate>Thu, 22 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Startup Battlefield 200 中有許多在 Showcase Stage 展出並進行簡報的業界指標性公司。以下是表現突出的幾家。</description>
     </item>
     <item>
       <title>NVIDIA 推出 Minerva，為 AI 工廠帶來端到端可觀測性</title>
