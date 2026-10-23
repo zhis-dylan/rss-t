@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 19:52:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 20:07:31 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch 創辦人高峰會 2026 圓桌會議：深入探討創辦人目前正在解決的挑戰</title>
+      <link>https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181272</guid>
+      <pubDate>Fri, 23 Oct 2026 20:03:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch 創辦人高峰會 2026 將於 11 月 4 日在波士頓的 SoWa Power Station 舉行，匯聚創辦人、投資人和營運人員，展開一整天坦率對談、實用場次、現場簡報、交流，以及為更深入討論而設的小型圓桌會議。</description>
+    </item>
     <item>
       <title>Carta 和 NewView 合作，希望吸引更多新創公司讓員工提早出售股份</title>
       <link>https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/</link>
@@ -258,15 +267,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 正在把它的決策模型推向全球。它能與原版 Jev 競爭嗎？</description>
-    </item>
-    <item>
-      <title>Microsoft 的 Mustafa Suleyman 表示，其 AI 在疑難病例上的表現超越醫師，因為他正追逐「醫療超級智慧」</title>
-      <link>https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180761</guid>
-      <pubDate>Thu, 22 Oct 2026 18:43:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據發表在《Science》上的一項研究，Microsoft 全新的 AI 診斷系統在疑難病例上擊敗了一般科醫師。不過，大部分的進步似乎來自底層的 AI 模型，而不是 Microsoft 的系統本身。</description>
     </item>
     <item>
       <title>NVIDIA 推出 Minerva，為 AI 工廠帶來端到端可觀測性</title>
