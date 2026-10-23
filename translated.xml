@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 18:21:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 18:36:31 GMT</lastBuildDate>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
       <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
@@ -54,6 +54,18 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/New-Tools-for-the-Admins-Who-Build-Communities-on-Forum-_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/New-Tools-for-the-Admins-Who-Build-Communities-on-Forum-_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/New-Tools-for-the-Admins-Who-Build-Communities-on-Forum-_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在為 Forum 推出新工具，讓管理員更容易管理社團。<br>〈為在 Forum 上建立社群的管理員推出新工具〉一文首先出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>看看 5 位開發者如何使用 Gemini 4 Argon 進行創作</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/</guid>
+      <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看五位開發者如何將 Gemini 4 Argon 用於實際開發，並為你的下一個專案汲取靈感。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp" alt=""></p><p>看看五位開發者如何將 Gemini 4 Argon 用於實際開發，並為你的下一個專案汲取靈感。</p>]]></content:encoded>
     </item>
     <item>
       <title>實驗室檢測巨頭 Quest Diagnostics 證實，患者的個人與健康資料在資安事件期間遭到外洩</title>
@@ -935,18 +947,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp" alt=""></p><p>人們的資訊習慣正在快速演變，各種規模的平台與出版商也都在因應這些變化。為了協助回應這個時刻，我們正在演進我們的 pa…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>有更多方式能從 Search 與網路連結</title>
-      <link>https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/updates-ai-mode-overviews-explore-web/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正在更新 AI Mode 和 AI Overviews，加入更清楚的連結、來源脈絡，以及更多內容。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Search_Hero_11msfEh.max-600x600.format-webp.webp" alt=""></p><p>我們正在更新 AI Mode 和 AI Overviews，加入更清楚的連結、來源脈絡，以及更多內容。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過提問教學生思考與學習</title>
