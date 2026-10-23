@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 21:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 22:08:36 GMT</lastBuildDate>
+    <item>
+      <title>聖誕節最熱門的玩具？Nvidia 執行長把玩可愛的 Microduck 機器人，2 萬個已售出</title>
+      <link>https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181412</guid>
+      <pubDate>Fri, 23 Oct 2026 21:59:19 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這些機器人踩著小小的腳步、發出細小的 R2D2 聲音，會坐下、倒地裝死「小睡一下」，還能依語音指令翻跟斗。</description>
+    </item>
     <item>
       <title>VC 與 Superhuman Mail 創辦人分享產品市場契合度的紅旗警訊</title>
       <link>https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/</link>
@@ -258,15 +267,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>為任何應用程式提供快速、聚焦、低成本的決策。</description>
-    </item>
-    <item>
-      <title>Canva 發布首個圖片生成模型</title>
-      <link>https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180617</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Canva 正將其新的圖片模型提供給所有使用者，承諾以更低成本帶來更好、且更可自訂的效能。</description>
     </item>
     <item>
       <title>NVIDIA 推出 Minerva，為 AI 工廠帶來端到端可觀測性</title>
