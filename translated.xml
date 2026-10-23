@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 22:53:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 23:09:08 GMT</lastBuildDate>
+    <item>
+      <title>新創公司不需要爆紅也能贏得客戶</title>
+      <link>https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181279</guid>
+      <pubDate>Fri, 23 Oct 2026 23:07:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>上週在 TechCrunch Disrupt 上，兩位創辦人和一位創投討論了如何不只是吸引早期支持者，還要留住他們。</description>
+    </item>
+    <item>
+      <title>OpenAI 表示將不再用即時網路訓練其 AI 模型，稱存在「重大風險」</title>
+      <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181396</guid>
+      <pubDate>Fri, 23 Oct 2026 23:05:49 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在一名工程師表示那個解決方案行不通幾週後，OpenAI 將讓前沿模型脫離網路。</description>
+    </item>
     <item>
       <title>聖誕節最熱門的玩具？Nvidia 執行長把玩可愛的 Microduck 機器人，2 萬個已售出</title>
       <link>https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/</link>
@@ -240,24 +258,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Arc 受到一群忠實愛好者的熱烈喜愛，但它始終沒能成為開發者原本構想中的主流 Chrome 替代品。</description>
-    </item>
-    <item>
-      <title>科技圈大咖表示，新創公司快速成長的祕訣不是提早成交</title>
-      <link>https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180142</guid>
-      <pubDate>Thu, 22 Oct 2026 20:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在今年的 Disrupt 大會上，Lovable GTM 負責人 Luke Arno、Polska 的 Ben Broca，以及 Theory Ventures 的 Tomasz Tunguz 為創辦人提供了一些建議，說明如何在前 90 天內真正達成銷售成功。</description>
-    </item>
-    <item>
-      <title>1Password 推出一種讓 AI 代理代表你登入、且看不到你密碼的方法</title>
-      <link>https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180727</guid>
-      <pubDate>Thu, 22 Oct 2026 19:07:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項新功能可讓代理登入客戶的個人帳戶，同時仍保護用來保護那些帳戶的私人憑證。</description>
     </item>
     <item>
       <title>使用 Decisions API 建立更即時反應的應用程式</title>
