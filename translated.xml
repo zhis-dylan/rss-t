@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 06:00:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 06:15:21 GMT</lastBuildDate>
     <item>
       <title>Oura 再次起訴競爭對手 Ultrahuman，威脅其在美國智慧戒指市場的回歸</title>
       <link>https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/</link>
@@ -44,6 +44,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>MIT 研究人員把 13 個 AI 丟到一座虛擬島上，結果它們開始發明遊戲、哀悼遺失的戒指，最後也更擅長自己的工作。</description>
+    </item>
+    <item>
+      <title>OpenAI 與波蘭 NASK 合作推動 AI 安全與資安</title>
+      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
+      <guid isPermaLink="false">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 與波蘭的 NASK 正在就 AI 安全、資安與技術研究展開合作，以強化防護措施並支持更具韌性的數位生態系統。</description>
     </item>
     <item>
       <title>馬克・祖克伯為在不失去對 Meta 控制權的情況下支付加州提議的億萬富豪稅所想出的巧妙方案</title>
@@ -834,15 +843,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Gemini Notebook 的全新 60 秒影片總覽和互動式測驗格式，輕鬆掌握考試內容。到 notebook.google 試試這些學習工具。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
-    </item>
-    <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
       <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
@@ -850,6 +850,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+    </item>
+    <item>
+      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1601,13 +1610,13 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
@@ -1619,13 +1628,13 @@
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1970,15 +1979,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑Live‑1 為 API 帶來自然、全雙工的語音對話，具備更強的指令遵循、自訂聲音和電話系統支援。</description>
-    </item>
-    <item>
-      <title>AI 政策的窗口已經打開。我們需要採取行動。</title>
-      <link>https://openai.com/index/ai-policy-window</link>
-      <guid isPermaLink="false">https://openai.com/index/ai-policy-window</guid>
-      <pubDate>Wed, 09 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Chris Lehane 認為，更強大的 AI 能力需要更強的安全性證據、共同標準，以及持久的政策行動，同時政策窗口仍然開著。</description>
     </item>
     <item>
       <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
