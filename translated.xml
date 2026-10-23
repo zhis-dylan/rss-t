@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:58:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 02:13:31 GMT</lastBuildDate>
+    <item>
+      <title>哈薩克擴大運算能力以迎接 AI 未來</title>
+      <link>https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/</guid>
+      <pubDate>Fri, 23 Oct 2026 02:00:13 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>哈薩克的 AI 生態系正從基礎設施規劃走向部署。這項轉變在整個 AI 堆疊中都很明顯——從基礎設施到模型，再到應用程式。以下的生態系公告共同指出，這個國家加速運算的供給正在增加，同時對下一步發展的需求也在成長。閱讀所有 NVIDIA 在歐洲 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8" alt=""></p><p>哈薩克的 AI 生態系正從基礎設施規劃走向部署。這項轉變在整個 AI 堆疊中都很明顯——從基礎設施到模型，再到應用程式。以下的生態系公告共同指出，這個國家加速運算的供給正在增加，同時對下一步發展的需求也在成長。閱讀所有 NVIDIA 在歐洲 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>無事可做只剩自己，AI agents 開始玩起來</title>
       <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
@@ -554,18 +566,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/0a8e677e9f0aad78c1840e9bec4bdbc0/6ad7dc513d6332b710cb7568_nvidia-powered-telecom-networks/nvidia-powered-telecom-networks_thmb.jpg?v=0e849179-3c7b-404d-b1fa-f4552d2e45d3" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/0a8e677e9f0aad78c1840e9bec4bdbc0/6ad7dc513d6332b710cb7568_nvidia-powered-telecom-networks/nvidia-powered-telecom-networks_thmb.jpg?v=0e849179-3c7b-404d-b1fa-f4552d2e45d3"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/0a8e677e9f0aad78c1840e9bec4bdbc0/6ad7dc513d6332b710cb7568_nvidia-powered-telecom-networks/nvidia-powered-telecom-networks_thmb.jpg?v=0e849179-3c7b-404d-b1fa-f4552d2e45d3" alt=""></p><p>NVIDIA 今日宣布，全球領先的電信業者正將其網路轉變為分散式智慧平台，在集中式資料中心、都會區據點與基地台加入 NVIDIA 加速運算，讓模型與應用能更靠近使用這些服務的人、企業與機器。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA Agent Toolkit 擴充，讓企業代理程式以公司資料為基礎</title>
-      <link>https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:10:01 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>代理程式的實用程度，取決於它們知道什麼；而它們有多值得信任，則取決於其運作邊界。領先企業正在使用開源的 NVIDIA Agent Toolkit——現已擴充新工具——來自訂與控制代理程式，使用公司資料來為其回答與行動提供依據，監控它們所做的事，以及 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/08b6c853c28fed3d67cb5915f5fdd4bd/6ad890723d63326dc30b4be4_agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450_thmb.jpg?v=466f153a-cd1d-4b6c-b405-a484c69b0ade" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/08b6c853c28fed3d67cb5915f5fdd4bd/6ad890723d63326dc30b4be4_agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450_thmb.jpg?v=466f153a-cd1d-4b6c-b405-a484c69b0ade"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/08b6c853c28fed3d67cb5915f5fdd4bd/6ad890723d63326dc30b4be4_agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450/agentic-ai-agent-toolkit-pr-berlin-social-1920x1080-5811548-842x450_thmb.jpg?v=466f153a-cd1d-4b6c-b405-a484c69b0ade" alt=""></p><p>代理程式的實用程度，取決於它們知道什麼；而它們有多值得信任，則取決於其運作邊界。領先企業正在使用開源的 NVIDIA Agent Toolkit——現已擴充新工具——來自訂與控制代理程式，使用公司資料來為其回答與行動提供依據，監控它們所做的事，以及 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
