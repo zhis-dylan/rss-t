@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 14:49:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:04:30 GMT</lastBuildDate>
+    <item>
+      <title>實驗室檢測巨頭 Quest Diagnostics 證實，患者的個人與健康資料在資安事件期間遭到外洩</title>
+      <link>https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181108</guid>
+      <pubDate>Fri, 23 Oct 2026 15:00:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Quest 是近幾個月來一連串遭駭的醫療科技公司中的最新一家。</description>
+    </item>
     <item>
       <title>iPhone Duo 在全球 Apple Store 門市上市</title>
       <link>https://www.apple.com/newsroom/2026/10/iphone-duo-arrives-at-apple-store-locations-worldwide/</link>
@@ -215,15 +224,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家叫車巨頭先前曾先行小規模試用 ChatGPT Work，如今則將這款企業代理工具推廣到全公司。</description>
-    </item>
-    <item>
-      <title>特斯拉正在為 Cybercab 大舉進軍做準備</title>
-      <link>https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180608</guid>
-      <pubDate>Thu, 22 Oct 2026 15:44:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該公司計劃今年將這款金色雙座自駕計程車推向其他美國城市，儘管對付費乘車次數保持沉默。</description>
     </item>
     <item>
       <title>NVIDIA 推出 Minerva，為 AI 工廠帶來端到端可觀測性</title>
