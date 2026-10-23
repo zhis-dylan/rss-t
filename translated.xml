@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 19:22:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 19:37:09 GMT</lastBuildDate>
+    <item>
+      <title>Carta 和 NewView 合作，希望吸引更多新創公司讓員工提早出售股份</title>
+      <link>https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181257</guid>
+      <pubDate>Fri, 23 Oct 2026 19:25:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一項新計畫希望透過讓要約收購交易更容易進行，來鼓勵更多新創公司允許員工提早套現。</description>
+    </item>
     <item>
       <title>從 Toast 到 Bessemer：創辦人將在 TechCrunch Founder Summit 2026 聽到誰的分享</title>
       <link>https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/</link>
@@ -258,15 +267,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據發表在《Science》上的一項研究，Microsoft 全新的 AI 診斷系統在疑難病例上擊敗了一般科醫師。不過，大部分的進步似乎來自底層的 AI 模型，而不是 Microsoft 的系統本身。</description>
-    </item>
-    <item>
-      <title>前 OpenAI 科學負責人推出 Warp Science，利用機器人自動化濕實驗室</title>
-      <link>https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180778</guid>
-      <pubDate>Thu, 22 Oct 2026 18:38:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創公司由 Lightspeed 領投，募得 2.15 億美元融資。</description>
     </item>
     <item>
       <title>NVIDIA 推出 Minerva，為 AI 工廠帶來端到端可觀測性</title>
