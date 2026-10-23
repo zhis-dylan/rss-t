@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 23 Oct 2026 16:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:20:12 GMT</lastBuildDate>
+    <item>
+      <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
+      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
+      <guid isPermaLink="false">https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
+      <pubDate>Fri, 23 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 OpenAI 如何透過可靠的多租戶、全球快取，以及 Azure Cosmos DB 擴充 Habitat，為 ChatGPT 提供快 12 倍的讀取速度。</description>
+    </item>
     <item>
       <title>Anthropic 的一些支持者據報在其 IPO 前身價如何</title>
       <link>https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/</link>
@@ -865,15 +874,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Gemini Notebook 的全新 60 秒影片總覽和互動式測驗格式，輕鬆掌握考試內容。到 notebook.google 試試這些學習工具。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
-    </item>
-    <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
       <link>https://openai.com/index/benefit-street-partners</link>
       <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
@@ -881,6 +881,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
+    </item>
+    <item>
+      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1961,15 +1970,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 GSA 將為符合資格的聯邦、州、地方及部落政府提供 0 美元授權費、使用費 5 折，以及擴充的網路防禦支援。</description>
-    </item>
-    <item>
-      <title>Agents API 介紹</title>
-      <link>https://openai.com/index/introducing-the-agents-api</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-agents-api</guid>
-      <pubDate>Thu, 10 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>使用 Agents API 建置並推出雲端代理，這是一項由 Codex harness 驅動的代管服務，提供協調、長時間執行的工作階段與工具使用。</description>
     </item>
     <item>
       <title>在 API 中使用 GPT‑Live‑1 打造更自然的語音體驗</title>
