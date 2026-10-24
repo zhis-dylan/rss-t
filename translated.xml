@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Oct 2026 15:46:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:01:30 GMT</lastBuildDate>
+    <item>
+      <title>Block 的新語音模型聽起來詭異得像真人</title>
+      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181490</guid>
+      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Block 表示，這個語音模型可以在 MacBook M4 Max 上本機執行</description>
+    </item>
     <item>
       <title>PHP大災難：兩個關鍵的網頁漏洞幾乎讓網際網路崩潰</title>
       <link>https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/</link>
@@ -249,15 +258,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 與波蘭的 NASK 正在就 AI 安全、資安與技術研究展開合作，以強化防護措施並支持更具韌性的數位生態系統。</description>
-    </item>
-    <item>
-      <title>馬克・祖克伯為在不失去對 Meta 控制權的情況下支付加州提議的億萬富豪稅所想出的巧妙方案</title>
-      <link>https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180868</guid>
-      <pubDate>Thu, 22 Oct 2026 23:50:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 創辦人暨執行長馬克・祖克伯為了支付「億萬富豪稅」，部分設計了一種新推出的股票類別，若這項提案在投票中通過成為法律，這將派上用場。</description>
     </item>
     <item>
       <title>使用 Decisions API 建立更即時反應的應用程式</title>
