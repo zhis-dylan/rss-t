@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:00:59 GMT</lastBuildDate>
+    <item>
+      <title>這些巧妙的 app 展示了 iPhone Duo 的潛力</title>
+      <link>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3180643</guid>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從復古卡帶播放器、虛擬筆記本到航班追蹤器，甚至是數位烤麵包機，開發者正發揮創意，利用 Apple 的第一款摺疊式 iPhone。</description>
+    </item>
+    <item>
+      <title>若被迫選擇，Grok 的 AI 模型選擇共和黨。OpenAI 的模型則選擇民主黨。</title>
+      <link>https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181243</guid>
+      <pubDate>Sat, 24 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一項新研究發現，Grok 的 AI 壓倒性地推薦共和黨候選人，而 OpenAI 的 GPT 偏好民主黨；兩個 AI 模型在將近 500 場選戰中，有超過 90% 的結果不同意。</description>
+    </item>
     <item>
       <title>Boox Palma 2 Pro 終於讓我不再用手機閱讀</title>
       <link>https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/</link>
@@ -240,24 +258,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Warhound 由 Ben Lamm 和 Palmer Luckey 構思，現在浮出檯面，將以基因工程打造供軍方與執法單位使用的狗。</description>
-    </item>
-    <item>
-      <title>隨著區塊鏈投資退燒，a16z Crypto 更名為 a16z Frontier</title>
-      <link>https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180975</guid>
-      <pubDate>Thu, 22 Oct 2026 22:34:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由 Chris Dixon 領導的數位資產部門擴大其業務範圍。</description>
-    </item>
-    <item>
-      <title>OpenAI 在 IPO 前籌備新一輪 300 億美元募資，估值達 1.25 兆美元</title>
-      <link>https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180936</guid>
-      <pubDate>Thu, 22 Oct 2026 22:08:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果 OpenAI 這一輪募資的估值超過 1 兆美元，將打破紀錄，成為有史以來估值最高的私有公司。</description>
     </item>
     <item>
       <title>使用 Decisions API 建立更即時反應的應用程式</title>
