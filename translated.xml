@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Oct 2026 16:16:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 16:31:45 GMT</lastBuildDate>
+    <item>
+      <title>據報導，Instacart 曾與 DoorDash 和 Uber 討論出售自己</title>
+      <link>https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181509</guid>
+      <pubDate>Sat, 24 Oct 2026 16:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Instacart 可能會把自己賣給更大型的競爭對手。</description>
+    </item>
     <item>
       <title>Block 的新語音模型聽起來詭異得像真人</title>
       <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
@@ -240,15 +249,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8" alt=""></p><p>哈薩克的 AI 生態系正從基礎設施規劃走向部署。這項轉變在整個 AI 堆疊中都很明顯——從基礎設施到模型，再到應用程式。以下的生態系公告共同指出，這個國家加速運算的供給正在增加，同時對下一步發展的需求也在成長。閱讀所有 NVIDIA 在歐洲 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>無事可做只剩自己，AI agents 開始玩起來</title>
-      <link>https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181016</guid>
-      <pubDate>Fri, 23 Oct 2026 00:45:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>MIT 研究人員把 13 個 AI 丟到一座虛擬島上，結果它們開始發明遊戲、哀悼遺失的戒指，最後也更擅長自己的工作。</description>
     </item>
     <item>
       <title>OpenAI 與波蘭 NASK 合作推動 AI 安全與資安</title>
