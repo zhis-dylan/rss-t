@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Oct 2026 15:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 15:31:14 GMT</lastBuildDate>
+    <item>
+      <title>PHP大災難：兩個關鍵的網頁漏洞幾乎讓網際網路崩潰</title>
+      <link>https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181497</guid>
+      <pubDate>Sat, 24 Oct 2026 15:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>PHP 網頁程式語言被網際網路上的多數網站使用，兩個關鍵漏洞曾威脅要顛覆網際網路，而且這種重大軟體驚魂很可能不會是最後一次。</description>
+    </item>
     <item>
       <title>這些巧妙的 app 展示了 iPhone Duo 的潛力</title>
       <link>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/</link>
@@ -249,15 +258,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta 創辦人暨執行長馬克・祖克伯為了支付「億萬富豪稅」，部分設計了一種新推出的股票類別，若這項提案在投票中通過成為法律，這將派上用場。</description>
-    </item>
-    <item>
-      <title>Warhound 募得 2 億美元，用於打造戰犬並為牠們配備 Anduril 裝備</title>
-      <link>https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180969</guid>
-      <pubDate>Thu, 22 Oct 2026 23:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Warhound 由 Ben Lamm 和 Palmer Luckey 構思，現在浮出檯面，將以基因工程打造供軍方與執法單位使用的狗。</description>
     </item>
     <item>
       <title>使用 Decisions API 建立更即時反應的應用程式</title>
