@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Oct 2026 13:45:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:00:25 GMT</lastBuildDate>
+    <item>
+      <title>以下是能存在於你的簡訊中的頂尖 AI 代理</title>
+      <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3173132</guid>
+      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>我們整理了一份最值得注意、能存在於你的簡訊中的 AI 代理清單，從通用助理到專為家庭、旅遊和工作設計的代理都有。</description>
+    </item>
     <item>
       <title>新創公司不需要爆紅也能贏得客戶</title>
       <link>https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/</link>
@@ -249,15 +258,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆交易條款未公開。</description>
-    </item>
-    <item>
-      <title>Arc 瀏覽器將於 12 月 22 日落幕，The Browser Company 將重心轉向 Dia</title>
-      <link>https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180844</guid>
-      <pubDate>Thu, 22 Oct 2026 20:01:51 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Arc 受到一群忠實愛好者的熱烈喜愛，但它始終沒能成為開發者原本構想中的主流 Chrome 替代品。</description>
     </item>
     <item>
       <title>使用 Decisions API 建立更即時反應的應用程式</title>
