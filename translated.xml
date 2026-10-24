@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 24 Oct 2026 14:00:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 14:15:36 GMT</lastBuildDate>
+    <item>
+      <title>Boox Palma 2 Pro 終於讓我不再用手機閱讀</title>
+      <link>https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181189</guid>
+      <pubDate>Sat, 24 Oct 2026 14:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>售價 400 美元的 Boox Palma 2 Pro 是一款智慧型手機大小的電子閱讀器，專為想在小尺寸 E Ink 顯示器上閱讀書籍、文章和文件的人設計。</description>
+    </item>
     <item>
       <title>以下是能存在於你的簡訊中的頂尖 AI 代理</title>
       <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
@@ -249,15 +258,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>如果 OpenAI 這一輪募資的估值超過 1 兆美元，將打破紀錄，成為有史以來估值最高的私有公司。</description>
-    </item>
-    <item>
-      <title>Rivian 收購世界模型新創公司，以加速自動駕駛野心</title>
-      <link>https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180803</guid>
-      <pubDate>Thu, 22 Oct 2026 21:05:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆交易條款未公開。</description>
     </item>
     <item>
       <title>使用 Decisions API 建立更即時反應的應用程式</title>
