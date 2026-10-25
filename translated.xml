@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 25 Oct 2026 16:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 16:57:47 GMT</lastBuildDate>
+    <item>
+      <title>根據 Apollo 經濟學家，AI 對大多數公司「沒有帶來任何財務回報</title>
+      <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181532</guid>
+      <pubDate>Sun, 25 Oct 2026 16:57:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「儘管對人工智慧投入大量資金，市場上也大肆炒作，但除了科技業之外，這項技術對美國企業界並沒有帶來任何財務回報。」</description>
+    </item>
     <item>
       <title>TechCrunch Mobility：藍綠色是自動駕駛的顏色</title>
       <link>https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/</link>
@@ -185,15 +194,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 如何透過可靠的多租戶、全球快取，以及 Azure Cosmos DB 擴充 Habitat，為 ChatGPT 提供快 12 倍的讀取速度。</description>
-    </item>
-    <item>
-      <title>Agent 雲端新創 Daytona 在 FirstMark 和一眾天使投資人支持下估值達 10 億美元</title>
-      <link>https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181153</guid>
-      <pubDate>Fri, 23 Oct 2026 16:26:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Daytona 正在打造一個給 agents 用的雲端，就像是替每個 agent 都配一台自己的電腦。該公司表示，這已吸引 Stripe、Perplexity、Datadog、Mercor 等創辦人以天使投資人身分參與投資。</description>
     </item>
     <item>
       <title>為在 Forum 上建立社群的管理員推出新工具</title>
