@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 16:24:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:39:31 GMT</lastBuildDate>
     <item>
       <title>我們最新的 AI Quest：繪製人類大腦地圖</title>
       <link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</link>
@@ -17,6 +17,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp" alt=""></p><p>透過 Google 最新的 AI Quests 神經科學課程「Polar Peaks」來學習 AI 素養。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>15 位大學生分享他們最喜歡的 Gemini 功能</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/</guid>
+      <pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們詢問了 15 位大學生，請他們分享自己最喜歡用於學習、讀書、做筆記等用途的 Gemini 功能。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/College_Fave_Gemini_Features_he.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/College_Fave_Gemini_Features_he.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/College_Fave_Gemini_Features_he.max-600x600.format-webp.webp" alt=""></p><p>我們詢問了 15 位大學生，請他們分享自己最喜歡用於學習、讀書、做筆記等用途的 Gemini 功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>Microsoft 向約 60,000 名員工提出買斷方案，報導指出</title>
@@ -774,18 +786,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 已可在全球車輛中使用。透過個人智慧，在保持專注路況的同時，獲得獨一無二的量身打造協助。</p>]]></content:encoded>
     </item>
     <item>
-      <title>為小型企業主推出的新 Gemini 工具</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</guid>
-      <pubDate>Tue, 20 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" alt=""></p><p>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/</guid>
@@ -796,6 +796,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp" alt=""></p><p>AMIE 是一個可供民眾在看診前聊天的 AI 系統，能安全蒐集病患資訊，並為醫師節省時間。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>為小型企業主推出的新 Gemini 工具</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" alt=""></p><p>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</p>]]></content:encoded>
     </item>
     <item>
       <title>擴大我們對金融詐騙廣告的防護</title>
@@ -892,18 +904,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 讓你在建立投影片和影片總覽時，擁有更多創意控制權。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Gemini 打造穿搭的 4 個技巧</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</guid>
-      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" alt=""></p><p>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>查看來自各大時尚之都人們的熱門風格搜尋。</title>
       <link>https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/fashion-capital-style-searches/</guid>
@@ -914,6 +914,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp" alt=""></p><p>我們查看了 Google Trends，看看七大時尚之都的人們都在搜尋什麼，好為他們的穿搭帶來那種難以言喻的風格感……</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Gemini 打造穿搭的 4 個技巧</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</guid>
+      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" alt=""></p><p>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</p>]]></content:encoded>
     </item>
     <item>
       <title>保護代理式內部威脅</title>
@@ -936,18 +948,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 如何透過針對軟體工程、SQLite 和 COBOL 遷移的新評估，改善 ChatGPT 在低資源程式語言上的表現。</description>
-    </item>
-    <item>
-      <title>我們正透過永續農業支持巴西的自然復育。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/brazil-silvopasture/</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正與 Working Trees 合作，透過巴西的林牧複合系統移除 270,000 噸二氧化碳。看看這個專案如何恢復土地與牧場經營。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Working_Trees_Silvopasture.max-600x600.format-webp.webp" alt=""></p><p>Google 正與 Working Trees 合作，透過巴西的林牧複合系統移除 270,000 噸二氧化碳。看看這個專案如何恢復土地與牧場經營。</p>]]></content:encoded>
     </item>
     <item>
       <title>Itaú 如何為其整體客戶群打造生成式 AI</title>
