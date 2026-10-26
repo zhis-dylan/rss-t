@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 19:26:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:41:15 GMT</lastBuildDate>
     <item>
       <title>糟了，聽起來 iPhone Duo 會一直裂開，使用者對此很不滿</title>
       <link>https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/</link>
@@ -579,6 +579,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 與專家合作重現 19 世紀雕塑家的工作空間，讓她們的傳承重新受到關注。</p>]]></content:encoded>
     </item>
     <item>
+      <title>ChatGPT 廣告擴展至 26 個新國家，已有超過 100,000 名廣告主使用這個平台</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>從在地商家到全球品牌，現在有更多廣告主可以在使用者於 ChatGPT 中探索、比較並決定要買什麼時觸及他們。</description>
+    </item>
+    <item>
       <title>新的出價與預算工具可改變你即將到來的節慶廣告策略。</title>
       <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
       <guid isPermaLink="false">https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</guid>
@@ -589,15 +598,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在 Google 最新一集的「Ads Decoded」Podcast 中，了解出價與預算工具的可行洞察。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>ChatGPT 廣告擴展至 26 個新國家，已有超過 100,000 名廣告主使用這個平台</title>
-      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
-      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>從在地商家到全球品牌，現在有更多廣告主可以在使用者於 ChatGPT 中探索、比較並決定要買什麼時觸及他們。</description>
     </item>
     <item>
       <title>OpenAI 模型即將登陸 Google Cloud</title>
