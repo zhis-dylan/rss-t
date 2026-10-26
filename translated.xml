@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:09:14 GMT</lastBuildDate>
+    <item>
+      <title>我們最新的 AI Quest：繪製人類大腦地圖</title>
+      <link>https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/</guid>
+      <pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過 Google 最新的 AI Quests 神經科學課程「Polar Peaks」來學習 AI 素養。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_sharing_updated.max-600x600.format-webp.webp" alt=""></p><p>透過 Google 最新的 AI Quests 神經科學課程「Polar Peaks」來學習 AI 素養。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Microsoft 向約 60,000 名員工提出買斷方案，報導指出</title>
+      <link>https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181685</guid>
+      <pubDate>Mon, 26 Oct 2026 15:58:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這些買斷提案標誌著 Microsoft 最新的降成本與重整人力的努力。</description>
+    </item>
     <item>
       <title>推出自願離職方案</title>
       <link>https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/</link>
@@ -240,15 +261,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>售價 400 美元的 Boox Palma 2 Pro 是一款智慧型手機大小的電子閱讀器，專為想在小尺寸 E Ink 顯示器上閱讀書籍、文章和文件的人設計。</description>
-    </item>
-    <item>
-      <title>以下是能存在於你的簡訊中的頂尖 AI 代理</title>
-      <link>https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3173132</guid>
-      <pubDate>Sat, 24 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>我們整理了一份最值得注意、能存在於你的簡訊中的 AI 代理清單，從通用助理到專為家庭、旅遊和工作設計的代理都有。</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
@@ -762,18 +774,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 已可在全球車輛中使用。透過個人智慧，在保持專注路況的同時，獲得獨一無二的量身打造協助。</p>]]></content:encoded>
     </item>
     <item>
-      <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/</guid>
-      <pubDate>Tue, 20 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>AMIE 是一個可供民眾在看診前聊天的 AI 系統，能安全蒐集病患資訊，並為醫師節省時間。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp" alt=""></p><p>AMIE 是一個可供民眾在看診前聊天的 AI 系統，能安全蒐集病患資訊，並為醫師節省時間。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>為小型企業主推出的新 Gemini 工具</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</guid>
@@ -784,6 +784,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" alt=""></p><p>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>AMIE 是一個可供民眾在看診前聊天的 AI 系統，能安全蒐集病患資訊，並為醫師節省時間。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp" alt=""></p><p>AMIE 是一個可供民眾在看診前聊天的 AI 系統，能安全蒐集病患資訊，並為醫師節省時間。</p>]]></content:encoded>
     </item>
     <item>
       <title>擴大我們對金融詐騙廣告的防護</title>
@@ -945,18 +957,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
-    </item>
-    <item>
-      <title>我們分享 3 個使用 Gemini Notebook 更聰明讀書的技巧。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/three-tips-study-gemini-notebook/</guid>
-      <pubDate>Fri, 16 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 Google Gemini Notebook 的全新 60 秒影片總覽和互動式測驗格式，輕鬆掌握考試內容。到 notebook.google 試試這些學習工具。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/3_Gemini_Notebook_social.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Gemini Notebook 的全新 60 秒影片總覽和互動式測驗格式，輕鬆掌握考試內容。到 notebook.google 試試這些學習工具。</p>]]></content:encoded>
     </item>
     <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
