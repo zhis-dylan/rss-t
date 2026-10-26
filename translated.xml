@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:52:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:07:36 GMT</lastBuildDate>
+    <item>
+      <title>我們正在幫助世界各地的農民透過網路連結到必要服務。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/digital-public-infrastructure-farmers/</guid>
+      <pubDate>Mon, 26 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google.org 正投入 250 萬美元，幫助 100 萬名農民透過世界銀行的 ONA 使用 AI 驅動的農業服務。看看它如何運作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IFC_BlogHeader.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IFC_BlogHeader.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IFC_BlogHeader.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正投入 250 萬美元，幫助 100 萬名農民透過世界銀行的 ONA 使用 AI 驅動的農業服務。看看它如何運作。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Apple 為 iPad mini 帶來有史以來最大更新</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</link>
@@ -953,18 +965,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp" alt=""></p><p>在一篇發表於《Science》的論文中，Google 已證明 Magic State Cultivation 可在 Google Quantum AI 硬體上運作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>使用 Circle to Search 檢查簡訊是否為詐騙訊息。</title>
-      <link>https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/circle-to-search-android-text-message-scams/</guid>
-      <pubDate>Thu, 15 Oct 2026 17:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Google Circle to Search 分析可疑簡訊是否為詐騙。長按主畫面按鈕即可取得訊息的 AI 洞察。看看它如何運作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Circle to Search 分析可疑簡訊是否為詐騙。長按主畫面按鈕即可取得訊息的 AI 洞察。看看它如何運作。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過提問教學生思考與學習</title>
