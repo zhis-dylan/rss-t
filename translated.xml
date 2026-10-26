@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:55:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:10:55 GMT</lastBuildDate>
+    <item>
+      <title>聚變新創公司以換取獎助金而讓政府持有股份。這樣值得嗎？</title>
+      <link>https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181672</guid>
+      <pubDate>Mon, 26 Oct 2026 18:59:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>聚變新創公司面臨一項新挑戰，這和等離子體物理無關：要把股份給政府以換取資金獎助，還是獨自上路？</description>
+    </item>
     <item>
       <title>Siri AI 今日起支援更多語言</title>
       <link>https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/</link>
@@ -282,15 +291,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Block 表示，這個語音模型可以在 MacBook M4 Max 上本機執行</description>
-    </item>
-    <item>
-      <title>PHP大災難：兩個關鍵的網頁漏洞幾乎讓網際網路崩潰</title>
-      <link>https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181497</guid>
-      <pubDate>Sat, 24 Oct 2026 15:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>PHP 網頁程式語言被網際網路上的多數網站使用，兩個關鍵漏洞曾威脅要顛覆網際網路，而且這種重大軟體驚魂很可能不會是最後一次。</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
