@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:40:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 17:55:12 GMT</lastBuildDate>
+    <item>
+      <title>這家新創的自駕挖土機正協助挖出 6 億美元新融資</title>
+      <link>https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181683</guid>
+      <pubDate>Mon, 26 Oct 2026 17:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bedrock Robotics 目前估值為 41 億美元，特別專注於自動化挖土機，部分原因是熟練操作員日益短缺。</description>
+    </item>
     <item>
       <title>Anthropic 的 IPO 申請揭露其留住企業客戶的策略</title>
       <link>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</link>
@@ -264,15 +273,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>PHP 網頁程式語言被網際網路上的多數網站使用，兩個關鍵漏洞曾威脅要顛覆網際網路，而且這種重大軟體驚魂很可能不會是最後一次。</description>
-    </item>
-    <item>
-      <title>這些巧妙的 app 展示了 iPhone Duo 的潛力</title>
-      <link>https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3180643</guid>
-      <pubDate>Sat, 24 Oct 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從復古卡帶播放器、虛擬筆記本到航班追蹤器，甚至是數位烤麵包機，開發者正發揮創意，利用 Apple 的第一款摺疊式 iPhone。</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
