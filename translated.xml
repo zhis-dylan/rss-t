@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:08:39 GMT</lastBuildDate>
+    <item>
+      <title>為撒哈拉以南非洲提供超越電網的電力</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/</guid>
+      <pubDate>Mon, 26 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 在過去三年與 Ignite Energy Access 合作，透過我們的 Startups for Sustainable Development 計畫推動相關工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ignite_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ignite_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ignite_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 在過去三年與 Ignite Energy Access 合作，透過我們的 Startups for Sustainable Development 計畫推動相關工作。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Anthropic正式申請公開上市</title>
       <link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</link>
@@ -962,18 +974,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>推出 Rosalind 學術方案，為符合資格的學術實驗室提供由贊助的 GPT-Rosalind 存取權與工具，以推動生命科學研究。</description>
-    </item>
-    <item>
-      <title>帶來魔法：Google 打破量子運算中的瓶頸</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/quantum-computing/magic-state-cultivation-quantum-computing/</guid>
-      <pubDate>Thu, 15 Oct 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在一篇發表於《Science》的論文中，Google 已證明 Magic State Cultivation 可在 Google Quantum AI 硬體上運作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/magic_state_still_2.max-600x600.format-webp.webp" alt=""></p><p>在一篇發表於《Science》的論文中，Google 已證明 Magic State Cultivation 可在 Google Quantum AI 硬體上運作。</p>]]></content:encoded>
     </item>
     <item>
       <title>透過提問教學生思考與學習</title>
