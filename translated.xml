@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:10:21 GMT</lastBuildDate>
     <item>
       <title>這家新創的自駕挖土機正協助挖出 6 億美元新融資</title>
       <link>https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/</link>
@@ -156,6 +156,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>符合資格的 Turo 房東也將獲得一個月免費試用 Tesla 的 FSD 軟體。</description>
+    </item>
+    <item>
+      <title>ChatGPT 不斷擴展的工作世界</title>
+      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 OpenAI Signals 有關近 100 個國家、165 項工作活動的資料，了解人們如何將 ChatGPT 用於工作，以及使用方式如何隨時間改變。</description>
     </item>
     <item>
       <title>Fanatics 與 OpenAI 如何簡化球迷體驗</title>
@@ -1580,15 +1589,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
-      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
-    </item>
-    <item>
       <title>你是 Codex Original 嗎？</title>
       <link>https://openai.com/form/codex-originals</link>
       <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
@@ -1596,6 +1596,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
+    </item>
+    <item>
+      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
+      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1980,15 +1989,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正與一個獨立的數學與人工智慧諮詢小組合作，協助指導對新興 AI 研究成果的審查與溝通。</description>
-    </item>
-    <item>
-      <title>推出適用於金融服務的 ChatGPT</title>
-      <link>https://openai.com/index/introducing-chatgpt-financial-services</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-financial-services</guid>
-      <pubDate>Thu, 10 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>推出適用於金融服務的 ChatGPT，結合內建金融資料與 GPT-6 Astra，用於研究、建模和可直接提供給客戶的素材。</description>
     </item>
     <item>
       <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
