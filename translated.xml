@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 21:42:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:57:23 GMT</lastBuildDate>
     <item>
       <title>小心了，YouTube；Instagram 從短影音走向 90 分鐘影片</title>
       <link>https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/</link>
@@ -164,6 +164,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IFC_BlogHeader.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正投入 250 萬美元，幫助 100 萬名農民透過世界銀行的 ONA 使用 AI 驅動的農業服務。看看它如何運作。</p>]]></content:encoded>
     </item>
     <item>
+      <title>GPT-6.1 Sol 協助 CodeRabbit 強化複雜程式碼庫的安全性</title>
+      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
+      <guid isPermaLink="false">https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
+      <pubDate>Mon, 26 Oct 2026 13:45:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>CodeRabbit 使用 GPT-6.1 Sol 來調查複雜程式碼庫中的安全風險。其安全代理可協助開發者檢視發現與建議的修正。</description>
+    </item>
+    <item>
       <title>Apple 為 iPad mini 帶來有史以來最大更新</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</guid>
@@ -228,6 +237,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>市面上有許多應用程式都承諾能做到這一點，因此我們整理了一份一些最佳選擇的清單，幫助你挑選最適合你的那一個。</description>
+    </item>
+    <item>
+      <title>與學術社群合作，建立科學理解</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+      <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 分享了關於 Kakeya 猜想、指數時間假設，以及量子色動力學的模型結果，以及研究人員如何驗證並在此基礎上延伸。</description>
     </item>
     <item>
       <title>介紹 GPT-6.1 Terra</title>
@@ -1616,15 +1634,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>你是 Codex Original 嗎？</title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
-    </item>
-    <item>
       <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
       <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
@@ -1632,6 +1641,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
+    </item>
+    <item>
+      <title>你是 Codex Original 嗎？</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1701,13 +1719,13 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
@@ -1719,13 +1737,13 @@
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1962,24 +1980,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Perplexity 使用 Astra 撰寫溝通內容、變更軟體並監控生產系統，而且查核頻率比先前的模型低得多。</description>
-    </item>
-    <item>
-      <title>Cognition 協助 Devin 用 GPT‑6 Astra 測試自己的工作</title>
-      <link>https://openai.com/index/cognition-devin-testing-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/cognition-devin-testing-with-astra</guid>
-      <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT‑6 Astra 提升 Devin 測試軟體並證明其可運作的能力，目標是幫助工程師審查更少程式碼並更快發布。</description>
-    </item>
-    <item>
-      <title>快速擴充線上儲存服務，支援超過 10 億名 ChatGPT 使用者</title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-one</link>
-      <guid isPermaLink="false">https://openai.com/index/scaling-storage-one-billion-users-part-one</guid>
-      <pubDate>Fri, 11 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 OpenAI 如何將 Habitat 從 Python 函式庫發展成全球分散式儲存平台，為 10 億名 ChatGPT 使用者與每秒 2200 萬次請求提供服務。</description>
     </item>
     <item>
       <title>數學與人工智慧諮詢小組</title>
