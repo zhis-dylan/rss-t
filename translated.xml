@@ -5,7 +5,17 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 15:23:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:38:56 GMT</lastBuildDate>
+    <item>
+      <title>推出自願離職方案</title>
+      <link>https://blogs.microsoft.com/blog/2026/10/26/introducing-a-voluntary-exit-offer/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563217</guid>
+      <pubDate>Mon, 26 Oct 2026 15:33:56 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>Amy Coleman，執行副總裁兼人資長，今天向微軟員工分享了以下訊息。今天，我們要向參與中的組織內符合資格的員工推出一項新的自願離職方案（VEO）。這項方案提供給可能正在考慮未來離開公司、且符合資格的員工一個新的選擇，讓他們現在就能做出這個轉換，並且...
+〈推出自願離職方案〉一文最早出現在 The Official Microsoft Blog。</description>
+    </item>
     <item>
       <title>為撒哈拉以南非洲提供超越電網的電力</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/sub-saharan-africa-ignite/</link>
@@ -2001,16 +2011,6 @@ The post The yield imperative: Turning AI infrastructure into useful intelligenc
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Fyxer 使用 OpenAI 模型、微調、記憶以及真實使用者回饋，來整理收件匣並以每位使用者的語氣草擬電子郵件。</description>
-    </item>
-    <item>
-      <title>回顧微軟 FY26：從 AI 實驗邁向前沿轉型</title>
-      <link>https://blogs.microsoft.com/blog/2026/07/28/looking-back-on-microsofts-fy26-from-ai-experimentation-to-frontier-transformation/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563055</guid>
-      <pubDate>Tue, 28 Jul 2026 16:00:10 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>在過去這個財年期間，各行各業和各個領域的客戶都從 AI 實驗階段，邁向部署 AI 以達成真實世界的商業成果。他們釋放了創新，並創造了新的成長機會。隨著他們超越效率提升，轉而聚焦人類雄心，並將 AI 融入核心，我們看見了 Frontier Firms 的出現……
-The post 回顧微軟 FY26：從 AI 實驗邁向前沿轉型 appeared first on The Official Microsoft Blog.</description>
     </item>
   </channel>
 </rss>
