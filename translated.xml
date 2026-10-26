@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:25:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:40:38 GMT</lastBuildDate>
+    <item>
+      <title>Siri AI 今日起支援更多語言</title>
+      <link>https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/</guid>
+      <pubDate>Mon, 26 Oct 2026 18:37:30 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>隨著今天推出的 27.2 軟體更新，Siri AI 將擴展支援法文、日文、韓文、葡萄牙文和西班牙文。</description>
+    </item>
     <item>
       <title>這家新創的自駕挖土機正協助挖出 6 億美元新融資</title>
       <link>https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/</link>
@@ -1834,15 +1843,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出澳洲青年安全藍圖，一項由六大支柱組成的路線圖，旨在打造更安全的 AI 體驗，保護並賦能年輕人。</description>
-    </item>
-    <item>
-      <title>最新的 iPhone、Apple Watch 和 AirPods 產品陣容在全球門市上市</title>
-      <link>https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-latest-iphone-apple-watch-and-airpods-lineups-arrive-in-stores-worldwide/</guid>
-      <pubDate>Fri, 18 Sep 2026 05:02:14 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>9 月 18 日星期五，全球各地的 Apple Store 門市向顧客介紹 iPhone 18 Pro 產品陣容、Apple Watch Series 12、Apple Watch Ultra 4 和 AirPods 5。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
