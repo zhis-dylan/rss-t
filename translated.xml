@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 19:10:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:26:08 GMT</lastBuildDate>
+    <item>
+      <title>糟了，聽起來 iPhone Duo 會一直裂開，使用者對此很不滿</title>
+      <link>https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181811</guid>
+      <pubDate>Mon, 26 Oct 2026 19:22:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>少數搶先體驗蘋果這款備受期待的新摺疊手機的早期用戶，抱怨螢幕出現裂痕。</description>
+    </item>
     <item>
       <title>聚變新創公司以換取獎助金而讓政府持有股份。這樣值得嗎？</title>
       <link>https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/</link>
@@ -194,6 +203,15 @@
       <description>Fanatics 使用 OpenAI 協助球迷透過 Shop the Look 完成比賽日穿搭。針對約 30,000 件 MLB 商品的測試顯示，互動率提高了 10%。</description>
     </item>
     <item>
+      <title>OpenAI 如何將事故調查時間從數小時縮短到幾分鐘</title>
+      <link>https://openai.com/index/openai-cut-incident-investigation</link>
+      <guid isPermaLink="false">https://openai.com/index/openai-cut-incident-investigation</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>看看 OpenAI 工程師如何使用 Codex Ultrafast 在幾分鐘內調查事故。探索更快速的資安分析、程式碼重構，以及日常工作流程。</description>
+    </item>
+    <item>
       <title>追蹤你的閱讀進度並發掘新書的最佳應用程式</title>
       <link>https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=2463158</guid>
@@ -201,6 +219,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>市面上有許多應用程式都承諾能做到這一點，因此我們整理了一份一些最佳選擇的清單，幫助你挑選最適合你的那一個。</description>
+    </item>
+    <item>
+      <title>介紹 GPT-6.1 Terra</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-terra</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>將快速且強大的電腦操作帶給每個人</description>
     </item>
     <item>
       <title>Grok 釋出其 AI 生成的〈Odyssey〉前七分鐘</title>
@@ -282,15 +309,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Instacart 可能會把自己賣給更大型的競爭對手。</description>
-    </item>
-    <item>
-      <title>Block 的新語音模型聽起來詭異得像真人</title>
-      <link>https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181490</guid>
-      <pubDate>Sat, 24 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Block 表示，這個語音模型可以在 MacBook M4 Max 上本機執行</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
@@ -561,15 +579,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 與專家合作重現 19 世紀雕塑家的工作空間，讓她們的傳承重新受到關注。</p>]]></content:encoded>
     </item>
     <item>
-      <title>ChatGPT 廣告擴展至 26 個新國家，已有超過 100,000 名廣告主使用這個平台</title>
-      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
-      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>從在地商家到全球品牌，現在有更多廣告主可以在使用者於 ChatGPT 中探索、比較並決定要買什麼時觸及他們。</description>
-    </item>
-    <item>
       <title>新的出價與預算工具可改變你即將到來的節慶廣告策略。</title>
       <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
       <guid isPermaLink="false">https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</guid>
@@ -580,6 +589,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在 Google 最新一集的「Ads Decoded」Podcast 中，了解出價與預算工具的可行洞察。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>ChatGPT 廣告擴展至 26 個新國家，已有超過 100,000 名廣告主使用這個平台</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>從在地商家到全球品牌，現在有更多廣告主可以在使用者於 ChatGPT 中探索、比較並決定要買什麼時觸及他們。</description>
     </item>
     <item>
       <title>OpenAI 模型即將登陸 Google Cloud</title>
@@ -977,15 +995,6 @@
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
-    </item>
-    <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
       <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
@@ -993,6 +1002,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+    </item>
+    <item>
+      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1277,15 +1295,6 @@
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Maia-200-Image-1.png.jpg" alt=""></p><p>Azure Maia 200 現已量產；Azure Maia 300 將於 2027 年推出。隨著我們邁入超級智慧時代，Microsoft 正進入基礎架構的新階段。自 2027 年起，我們將把 Azure Maia 系列擴展至多吉瓦級部署，使 Maia 成為 Microsoft 產品與服務的主要推論系統。這個跨世代...<br>這篇〈Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署〉最初發表於 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Asana 在瀏覽器測試中將模型成本降低 76 倍，採用 GPT-6.1 Sol</title>
-      <link>https://openai.com/index/asana-browser-agent</link>
-      <guid isPermaLink="false">https://openai.com/index/asana-browser-agent</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
-    </item>
-    <item>
       <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
       <link>https://openai.com/index/sophos</link>
       <guid isPermaLink="false">https://openai.com/index/sophos</guid>
@@ -1293,6 +1302,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
+    </item>
+    <item>
+      <title>Asana 在瀏覽器測試中將模型成本降低 76 倍，採用 GPT-6.1 Sol</title>
+      <link>https://openai.com/index/asana-browser-agent</link>
+      <guid isPermaLink="false">https://openai.com/index/asana-browser-agent</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
     </item>
     <item>
       <title>破解資料中心最大的迷思</title>
@@ -1692,15 +1710,6 @@
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
       <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
       <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
@@ -1708,6 +1717,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1962,24 +1980,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 如何將 Habitat 從 Python 函式庫發展成全球分散式儲存平台，為 10 億名 ChatGPT 使用者與每秒 2200 萬次請求提供服務。</description>
-    </item>
-    <item>
-      <title>研究人員如何運用 Codex 和 ChatGPT 搜尋新的抗菌分子</title>
-      <link>https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</link>
-      <guid isPermaLink="false">https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials</guid>
-      <pubDate>Thu, 10 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>César de la Fuente 的實驗室運用 Codex 和 ChatGPT 搜尋現存與已滅絕的基因組，找出可對抗抗藥性感染的抗菌候選分子。</description>
-    </item>
-    <item>
-      <title>現在每個人都能把資料用起來</title>
-      <link>https://openai.com/index/put-data-to-work</link>
-      <guid isPermaLink="false">https://openai.com/index/put-data-to-work</guid>
-      <pubDate>Thu, 10 Sep 2026 15:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>在 ChatGPT Work 中認識 Data agent。連接公司資料、挖掘洞察，並用 AI 以自然語言建立互動式儀表板。</description>
     </item>
     <item>
       <title>數學與人工智慧諮詢小組</title>
