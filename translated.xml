@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:51:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:07:06 GMT</lastBuildDate>
+    <item>
+      <title>Apple 為 iPad mini 帶來有史以來最大更新</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/</guid>
+      <pubDate>Mon, 26 Oct 2026 13:00:22 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 發表全新的 iPad mini，採用更薄的設計、OLED 顯示器，並以 A20 Pro 帶來性能大躍進，還具備防水防塵功能。</description>
+    </item>
+    <item>
+      <title>Google Beam 如何連結全球的軍眷家庭</title>
+      <link>https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/research/google-beam-uso-docuseries-service-members/</guid>
+      <pubDate>Mon, 26 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 和 USO 正將 Google Beam 帶到 20 個地點，讓派駐的軍人與家人保持連線。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_x_USO_Rodriguez.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_x_USO_Rodriguez.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Beam_x_USO_Rodriguez.max-600x600.format-webp.webp" alt=""></p><p>Google 和 USO 正將 Google Beam 帶到 20 個地點，讓派駐的軍人與家人保持連線。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Tesla 轉向 Turo 以提升 Full Self-Driving（Supervised）的採用率</title>
+      <link>https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181547</guid>
+      <pubDate>Mon, 26 Oct 2026 12:58:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>符合資格的 Turo 房東也將獲得一個月免費試用 Tesla 的 FSD 軟體。</description>
+    </item>
     <item>
       <title>追蹤你的閱讀進度並發掘新書的最佳應用程式</title>
       <link>https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/</link>
@@ -176,15 +206,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這些機器人踩著小小的腳步、發出細小的 R2D2 聲音，會坐下、倒地裝死「小睡一下」，還能依語音指令翻跟斗。</description>
-    </item>
-    <item>
-      <title>VC 與 Superhuman Mail 創辦人分享產品市場契合度的紅旗警訊</title>
-      <link>https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181268</guid>
-      <pubDate>Fri, 23 Oct 2026 20:57:13 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>來自 Iconiq 和 Sapphire Ventures 的頂尖投資人，以及 Superhuman Mail 創辦人 Rahul Vohra，分享打造爆紅產品的該做與不該做。</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
@@ -944,18 +965,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CTS_check_scam_inline.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Circle to Search 分析可疑簡訊是否為詐騙。長按主畫面按鈕即可取得訊息的 AI 洞察。看看它如何運作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>已有 400 家出版商與我們合作推出 News AI 試點計畫。</title>
-      <link>https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/</guid>
-      <pubDate>Thu, 15 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>人們的資訊習慣正在快速演變，各種規模的平台與出版商也都在因應這些變化。為了協助回應這個時刻，我們正在演進我們的 pa…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Partnering_with_over_400_public.max-600x600.format-webp.webp" alt=""></p><p>人們的資訊習慣正在快速演變，各種規模的平台與出版商也都在因應這些變化。為了協助回應這個時刻，我們正在演進我們的 pa…</p>]]></content:encoded>
     </item>
     <item>
       <title>透過提問教學生思考與學習</title>
@@ -1862,15 +1871,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AARP 正將免費、實作型的 ChatGPT 工作坊帶到美國 10 個城市、共 1,000 位年長者，幫助他們安全地培養實用的 AI 技能。</description>
-    </item>
-    <item>
-      <title>在 iPhone 18 Pro 上慶祝「What Holds Us」</title>
-      <link>https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/celebrating-what-holds-us-on-iphone-18-pro/</guid>
-      <pubDate>Wed, 16 Sep 2026 13:59:28 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>一場由 Kathy Ryan 策劃的新攝影展，慶祝視覺敘事語言的演變，並展示 iPhone 18 Pro 先進的專業相機系統。</description>
     </item>
     <item>
       <title>用 AI 重新想像廣告</title>
