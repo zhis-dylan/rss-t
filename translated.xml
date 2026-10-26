@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 26 Oct 2026 14:23:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:38:22 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic正式申請公開上市</title>
+      <link>https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181633</guid>
+      <pubDate>Mon, 26 Oct 2026 14:35:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic已正式申請IPO，揭露營收飆升、虧損擴大、企業採用大幅成長，以及一套旨在維持創辦人控制權與其AI安全使命的特殊治理結構。</description>
+    </item>
+    <item>
+      <title>Apple發表配備OLED顯示器與更快A20 Pro晶片的新款iPad mini</title>
+      <link>https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181616</guid>
+      <pubDate>Mon, 26 Oct 2026 14:25:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新款iPad mini採用比前一代更薄、更輕的設計。</description>
+    </item>
     <item>
       <title>Matiks 籌得 1,000 萬美元，以擴大其數學與益智遊戲平台</title>
       <link>https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/</link>
@@ -209,24 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>我們整理了一份最值得注意、能存在於你的簡訊中的 AI 代理清單，從通用助理到專為家庭、旅遊和工作設計的代理都有。</description>
-    </item>
-    <item>
-      <title>新創公司不需要爆紅也能贏得客戶</title>
-      <link>https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181279</guid>
-      <pubDate>Fri, 23 Oct 2026 23:07:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>上週在 TechCrunch Disrupt 上，兩位創辦人和一位創投討論了如何不只是吸引早期支持者，還要留住他們。</description>
-    </item>
-    <item>
-      <title>OpenAI 表示將不再用即時網路訓練其 AI 模型，稱存在「重大風險」</title>
-      <link>https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181396</guid>
-      <pubDate>Fri, 23 Oct 2026 23:05:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在一名工程師表示那個解決方案行不通幾週後，OpenAI 將讓前沿模型脫離網路。</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
