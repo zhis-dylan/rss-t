@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 05:46:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 06:01:10 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與 Meta 將擴大在 Muse 和 Muse 模型家族上的合作，因應強勁成長</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth</guid>
+      <pubDate>Tue, 27 Oct 2026 05:52:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 和 Meta 今天宣布，雙方將合作擴大在 Muse 和 Muse 模型家族上的工作，以提升推論和訓練效能，反映出市場對實用 AI 代理的強勁需求。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591" alt=""></p><p>NVIDIA 和 Meta 今天宣布，雙方將合作擴大在 Muse 和 Muse 模型家族上的工作，以提升推論和訓練效能，反映出市場對實用 AI 代理的強勁需求。</p>]]></content:encoded>
+    </item>
     <item>
       <title>OpenAI 如何把它的程式碼工具變成 dots，一款全天候開啟的個人助理</title>
       <link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link>
@@ -766,18 +778,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/cc82d7b2fd7afc8f346b58ed15340356/6ad7dc583d6332c180cb7554_healthcare-and-life-sciences-leaders-build-on-nvidia/healthcare-and-life-sciences-leaders-build-on-nvidia_thmb.jpg?v=1f314422-1f75-42ed-95cd-fdd0f0c98477" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/cc82d7b2fd7afc8f346b58ed15340356/6ad7dc583d6332c180cb7554_healthcare-and-life-sciences-leaders-build-on-nvidia/healthcare-and-life-sciences-leaders-build-on-nvidia_thmb.jpg?v=1f314422-1f75-42ed-95cd-fdd0f0c98477"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/cc82d7b2fd7afc8f346b58ed15340356/6ad7dc583d6332c180cb7554_healthcare-and-life-sciences-leaders-build-on-nvidia/healthcare-and-life-sciences-leaders-build-on-nvidia_thmb.jpg?v=1f314422-1f75-42ed-95cd-fdd0f0c98477" alt=""></p><p>NVIDIA 今日宣布，已與全球領先的醫療保健與研究組織展開合作，以推進蛋白質設計——包括透過新發布的開放模型 RFD4-Proteina——加速藥物發現，並為癌症照護帶來更高精準度。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA、Nokia 與領先電信業者將網路轉變為分散式智慧平台</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-nokia-and-leading-telecom-operators-turn-networks-into-distributed-intelligence-platforms</guid>
-      <pubDate>Wed, 21 Oct 2026 10:11:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布，全球領先的電信業者正將其網路轉變為分散式智慧平台，在集中式資料中心、都會區據點與基地台加入 NVIDIA 加速運算，讓模型與應用能更靠近使用這些服務的人、企業與機器。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/0a8e677e9f0aad78c1840e9bec4bdbc0/6ad7dc513d6332b710cb7568_nvidia-powered-telecom-networks/nvidia-powered-telecom-networks_thmb.jpg?v=0e849179-3c7b-404d-b1fa-f4552d2e45d3" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/0a8e677e9f0aad78c1840e9bec4bdbc0/6ad7dc513d6332b710cb7568_nvidia-powered-telecom-networks/nvidia-powered-telecom-networks_thmb.jpg?v=0e849179-3c7b-404d-b1fa-f4552d2e45d3"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/0a8e677e9f0aad78c1840e9bec4bdbc0/6ad7dc513d6332b710cb7568_nvidia-powered-telecom-networks/nvidia-powered-telecom-networks_thmb.jpg?v=0e849179-3c7b-404d-b1fa-f4552d2e45d3" alt=""></p><p>NVIDIA 今日宣布，全球領先的電信業者正將其網路轉變為分散式智慧平台，在集中式資料中心、都會區據點與基地台加入 NVIDIA 加速運算，讓模型與應用能更靠近使用這些服務的人、企業與機器。</p>]]></content:encoded>
     </item>
     <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
