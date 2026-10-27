@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:06:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:21:39 GMT</lastBuildDate>
     <item>
       <title>成為 Frontier 的平台方法</title>
       <link>https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/</link>
@@ -27,9 +27,21 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>NVIDIA Vera Rubin NVL72 與 NVIDIA Vera CPU 現已在 OCI 上正式可用，並計畫推出 HGX Rubin NVL8 系統，協助組織加速前沿模型訓練，...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/34d77cd710a00c8452bcf1cebf152136/6ae0cae53d633215e15cdb16_d7afe3ba-e361-4ff2-8e80-51ac8e7e185/d7afe3ba-e361-4ff2-8e80-51ac8e7e185_thmb.jpg?v=c413ccad-cf5d-4b8b-aa54-3b1bf66c2ffa" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/34d77cd710a00c8452bcf1cebf152136/6ae0cae53d633215e15cdb16_d7afe3ba-e361-4ff2-8e80-51ac8e7e185/d7afe3ba-e361-4ff2-8e80-51ac8e7e185_thmb.jpg?v=c413ccad-cf5d-4b8b-aa54-3b1bf66c2ffa"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/34d77cd710a00c8452bcf1cebf152136/6ae0cae53d633215e15cdb16_d7afe3ba-e361-4ff2-8e80-51ac8e7e185/d7afe3ba-e361-4ff2-8e80-51ac8e7e185_thmb.jpg?v=c413ccad-cf5d-4b8b-aa54-3b1bf66c2ffa" alt=""></p><p>NVIDIA Vera Rubin NVL72 與 NVIDIA Vera CPU 現已在 OCI 上正式可用，並計畫推出 HGX Rubin NVL8 系統，協助組織加速前沿模型訓練，...</p>]]></content:encoded>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b" alt=""></p><p>NVIDIA Vera Rubin NVL72 與 NVIDIA Vera CPU 現已在 OCI 上正式可用，並計畫推出 HGX Rubin NVL8 系統，協助組織加速前沿模型訓練，...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們宣布 Genie 4，我們全新的即時互動模擬世界模型。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-genie-4/</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>今天，我們宣布 Genie 4 的研究，這是我們全新的世界模型，為即時互動模擬帶來前所未有的真實感與原生音訊。Genie 4 m…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__blog__social-og.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__blog__social-og.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__blog__social-og.max-600x600.format-webp.webp" alt=""></p><p>今天，我們宣布 Genie 4 的研究，這是我們全新的世界模型，為即時互動模擬帶來前所未有的真實感與原生音訊。Genie 4 m…</p>]]></content:encoded>
     </item>
     <item>
       <title>AI 如何改變數百萬失智症患者的發現步調</title>
@@ -922,18 +934,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PersonalIntelligence_auto_hero.max-600x600.format-webp.webp" alt=""></p><p>Gemini 已可在全球車輛中使用。透過個人智慧，在保持專注路況的同時，獲得獨一無二的量身打造協助。</p>]]></content:encoded>
     </item>
     <item>
-      <title>為小型企業主推出的新 Gemini 工具</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</guid>
-      <pubDate>Tue, 20 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" alt=""></p><p>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>問科學家：AI 如何幫助醫師花更多時間在協作照護上？</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/</guid>
@@ -944,6 +944,18 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AskAScientist_AMIE_Thumb_003_ss.max-600x600.format-webp.webp" alt=""></p><p>AMIE 是一個可供民眾在看診前聊天的 AI 系統，能安全蒐集病患資訊，並為醫師節省時間。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>為小型企業主推出的新 Gemini 工具</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/</guid>
+      <pubDate>Tue, 20 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/October_Gemini_VSB_hero.max-600x600.format-webp.webp" alt=""></p><p>我們宣布為 Gemini 推出新工具，包括專屬的商家登陸頁面，以協助全球的小型企業主。</p>]]></content:encoded>
     </item>
     <item>
       <title>擴大我們對金融詐騙廣告的防護</title>
@@ -1026,18 +1038,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Arkansas_Hero.max-600x600.format-webp.webp" alt=""></p><p>自從我們首次宣布在阿肯色州西孟菲斯建設以來，我們一直持續與社區成員合作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>如何透過 Gemini Notebook 調整你的簡報與影片</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/co-create-slides-videos/</guid>
-      <pubDate>Mon, 19 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Notebook 讓你在建立投影片和影片總覽時，擁有更多創意控制權。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_cocreation_2784x1566.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 讓你在建立投影片和影片總覽時，擁有更多創意控制權。</p>]]></content:encoded>
     </item>
     <item>
       <title>保護代理式內部威脅</title>
