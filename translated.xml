@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 16:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:36:49 GMT</lastBuildDate>
+    <item>
+      <title>Google 的 Genie 4 世界模型加入音訊、更逼真的世界，以及即時操控</title>
+      <link>https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182045</guid>
+      <pubDate>Tue, 27 Oct 2026 16:30:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google DeepMind 發布 Genie 4，這是一個具備即時音訊、更逼真的模擬，以及可在模擬過程中加入文字提示的世界模型，目前以研究預覽形式提供給受信任的測試者。</description>
+    </item>
     <item>
       <title>成為 Frontier 的平台方法</title>
       <link>https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/</link>
@@ -306,15 +315,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Bedrock Robotics 目前估值為 41 億美元，特別專注於自動化挖土機，部分原因是熟練操作員日益短缺。</description>
-    </item>
-    <item>
-      <title>Anthropic 的 IPO 申請揭露其留住企業客戶的策略</title>
-      <link>https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181689</guid>
-      <pubDate>Mon, 26 Oct 2026 16:49:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Anthropic 的 S-1 顯示，超過一半的 10 萬美元以上客戶現在同時使用 Claude Platform 和第一方應用程式，這種類似亞馬遜的交叉銷售手法讓企業客戶更具黏著度。</description>
     </item>
     <item>
       <title>15 位大學生分享他們最喜歡的 Gemini 功能</title>
