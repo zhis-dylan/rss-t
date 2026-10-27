@@ -5,7 +5,82 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:49:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 13:04:25 GMT</lastBuildDate>
+    <item>
+      <title>億萬富豪 Palmer Luckey 不會因為財富稅離開加州</title>
+      <link>https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181875</guid>
+      <pubDate>Tue, 27 Oct 2026 13:01:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「這讓很多我不希望離開的人開始離開，」加州土生土長的 Palmer Luckey 說。「但我打算留在加州。我會繼續對抗它。」</description>
+    </item>
+    <item>
+      <title>Fitbit Edge：為活躍生活而設的高級設計</title>
+      <link>https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/</guid>
+      <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過重新構思的螢幕、精緻的機械結構與更出色的風格，Fitbit Edge 年復一年都能兼顧外觀與效能。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp" alt=""></p><p>透過重新構思的螢幕、精緻的機械結構與更出色的風格，Fitbit Edge 年復一年都能兼顧外觀與效能。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Anduril、Qualcomm 推出 BlueChip，一款新型美製筆電</title>
+      <link>https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181765</guid>
+      <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anduril 創辦人 Palmer Luckey 誓言要把電腦製造帶回美國；他指的不只是組裝，而是每一個單獨零件，其中有些今天只有中國能製造。</description>
+    </item>
+    <item>
+      <title>General Compute 募得 1 億美元 A 輪融資，反駁 neocloud 災難敘事</title>
+      <link>https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181881</guid>
+      <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>General Compute 看好來自 Nvidia 生態系之外的推論晶片。</description>
+    </item>
+    <item>
+      <title>Opera 推出新的網頁標準，讓使用者可在瀏覽器本地部署 AI</title>
+      <link>https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181922</guid>
+      <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項新標準 WebAI 的設計可支援各種 AI 模型。</description>
+    </item>
+    <item>
+      <title>Apple 推出搭載 M6 的全新 14 吋 MacBook Pro</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/</guid>
+      <pubDate>Tue, 27 Oct 2026 12:59:39 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日發表全新 14 吋 MacBook Pro，搭載 M6，帶來更強的效能、更強大的裝置端 AI 功能，以及更快速的連線能力。</description>
+    </item>
+    <item>
+      <title>Apple 發表搭載 M6 的全新 iMac</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/</guid>
+      <pubDate>Tue, 27 Oct 2026 12:59:15 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日發表全新 iMac，搭載超快的 M6，帶來更強的效能和更強大的 AI 功能。</description>
+    </item>
+    <item>
+      <title>Apple Creator Studio 新增強大的全新 AI 功能以及更多創意工具</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-creator-studio-adds-powerful-new-ai-features-and-even-more-creative-tools/</guid>
+      <pubDate>Tue, 27 Oct 2026 12:58:45 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 為 Apple Creator Studio 推出更新，這套創意 app 套件旨在將工作室等級的工具帶到創作者手中。</description>
+    </item>
     <item>
       <title>Nvidia 投資印度新創公司，協助企業用更少的 GPU 執行 AI 模型</title>
       <link>https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/</link>
@@ -296,15 +371,6 @@
       <description>看看 OpenAI 工程師如何使用 Codex Ultrafast 在幾分鐘內調查事故。探索更快速的資安分析、程式碼重構，以及日常工作流程。</description>
     </item>
     <item>
-      <title>追蹤你的閱讀進度並發掘新書的最佳應用程式</title>
-      <link>https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=2463158</guid>
-      <pubDate>Mon, 26 Oct 2026 01:10:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>市面上有許多應用程式都承諾能做到這一點，因此我們整理了一份一些最佳選擇的清單，幫助你挑選最適合你的那一個。</description>
-    </item>
-    <item>
       <title>與學術社群合作，建立科學理解</title>
       <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
       <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
@@ -321,33 +387,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>將快速且強大的電腦操作帶給每個人</description>
-    </item>
-    <item>
-      <title>Grok 釋出其 AI 生成的〈Odyssey〉前七分鐘</title>
-      <link>https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181554</guid>
-      <pubDate>Sun, 25 Oct 2026 21:31:16 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這段影像看起來還可以，只要你不是在尋找藝術性、靈感，或人情味。</description>
-    </item>
-    <item>
-      <title>《Cyberselfish》作者在她的書重見天日之際，將矛頭指向矽谷自由意志主義者</title>
-      <link>https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181538</guid>
-      <pubDate>Sun, 25 Oct 2026 20:20:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「那是 12 年前的世界觀。」</description>
-    </item>
-    <item>
-      <title>根據 Apollo 經濟學家，AI 對大多數公司「沒有帶來任何財務回報</title>
-      <link>https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181532</guid>
-      <pubDate>Sun, 25 Oct 2026 16:57:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「儘管對人工智慧投入大量資金，市場上也大肆炒作，但除了科技業之外，這項技術對美國企業界並沒有帶來任何財務回報。」</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
@@ -979,18 +1018,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FashionTrends_social.max-600x600.format-webp.webp" alt=""></p><p>我們查看了 Google Trends，看看七大時尚之都的人們都在搜尋什麼，好為他們的穿搭帶來那種難以言喻的風格感……</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Gemini 打造穿搭的 4 個技巧</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/</guid>
-      <pubDate>Mon, 19 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sydney_bodonaro_social_1.max-600x600.format-webp.webp" alt=""></p><p>以下是運動員造型師 Sydney Bordonaro 如何運用 Gemini 為客戶打造造型，以及你也可以如何為自己打造穿搭。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>保護代理式內部威脅</title>
       <link>https://blogs.microsoft.com/blog/2026/10/19/securing-the-agentic-insider/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563199</guid>
@@ -1570,15 +1597,6 @@
       <description>Apple 今日推出 Apple Creator Studio 的更新，這是其開創性的創意與生產力 App 集合。</description>
     </item>
     <item>
-      <title>Apple 發布新指南，協助家庭培養健康的數位習慣</title>
-      <link>https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-releases-new-guide-to-help-families-build-healthy-digital-habits/</guid>
-      <pubDate>Tue, 29 Sep 2026 16:59:08 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>今天，Apple 與美國兒科學會合作，發布一份新指南，協助家庭建立健康的數位習慣。</description>
-    </item>
-    <item>
       <title>介紹 GPT-6.1 Sol</title>
       <link>https://openai.com/index/introducing-gpt-6-1-sol</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-sol</guid>
@@ -1809,15 +1827,6 @@
       <description>認識 GPT-6 Sol 和 Luna，這兩個模型以不同的能力與成本平衡，將前沿智慧帶入日常工作。</description>
     </item>
     <item>
-      <title>全新的 Mac mini 和 Mac Studio 今日開賣</title>
-      <link>https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/the-new-mac-mini-and-mac-studio-are-available-today/</guid>
-      <pubDate>Tue, 22 Sep 2026 12:59:21 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>顧客現在可在 Apple Store 門市、線上，以及 Apple Store app 選購搭載 M6 和 M5 Pro 的 Mac mini，以及搭載 M5 Max 和 M5 Ultra 的 Mac Studio。</description>
-    </item>
-    <item>
       <title>Parallel 透過 GPT‑6 Astra 將研究時間與成本減半</title>
       <link>https://openai.com/index/parallel-cuts-time-and-cost-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/parallel-cuts-time-and-cost-with-astra</guid>
@@ -1825,15 +1834,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑6 Astra 讓 Parallel 的代理能以比先前模型少一半的時間、少一半的成本，研究並彙整勞動市場資料。</description>
-    </item>
-    <item>
-      <title>Apple 在倫敦開設 Apple Music Hall，一座先進的現場音樂場館</title>
-      <link>https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/apple-opens-apple-music-hall-a-state-of-the-art-live-music-venue-in-london/</guid>
-      <pubDate>Tue, 22 Sep 2026 05:59:58 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple Music Hall 這座位於倫敦著名的 Battersea Power Station 的先進現場音樂場館，現已開幕。</description>
     </item>
     <item>
       <title>有效第三方評估的優先事項與原則</title>
