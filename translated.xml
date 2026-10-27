@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 17:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:22:17 GMT</lastBuildDate>
+    <item>
+      <title>前沿 AI 實驗室表示他們的模型推翻了指數時間假說。這代表什麼？</title>
+      <link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182002</guid>
+      <pubDate>Tue, 27 Oct 2026 17:08:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>TechCrunch 訪問了受託解釋 OpenAI 最新令人難以置信發現的 MIT 電腦科學家</description>
+    </item>
     <item>
       <title>Google 的 Genie 4 世界模型加入音訊、更逼真的世界，以及即時操控</title>
       <link>https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/</link>
@@ -315,15 +324,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>隨著今天推出的 27.2 軟體更新，Siri AI 將擴展支援法文、日文、韓文、葡萄牙文和西班牙文。</description>
-    </item>
-    <item>
-      <title>這家新創的自駕挖土機正協助挖出 6 億美元新融資</title>
-      <link>https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181683</guid>
-      <pubDate>Mon, 26 Oct 2026 17:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Bedrock Robotics 目前估值為 41 億美元，特別專注於自動化挖土機，部分原因是熟練操作員日益短缺。</description>
     </item>
     <item>
       <title>15 位大學生分享他們最喜歡的 Gemini 功能</title>
