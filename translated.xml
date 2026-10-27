@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 10:48:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:03:22 GMT</lastBuildDate>
+    <item>
+      <title>Nvidia 投資印度新創公司，協助企業用更少的 GPU 執行 AI 模型</title>
+      <link>https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181625</guid>
+      <pubDate>Tue, 27 Oct 2026 11:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Simplismart 表示，其年化營收運行率在六個月內成長了 14 倍，其中美國市場貢獻了超過一半的營收。</description>
+    </item>
     <item>
       <title>X 正在用一隻指向的手勢催促使用者推廣他們的貼文，大家一頭霧水</title>
       <link>https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/</link>
@@ -339,15 +348,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>「儘管對人工智慧投入大量資金，市場上也大肆炒作，但除了科技業之外，這項技術對美國企業界並沒有帶來任何財務回報。」</description>
-    </item>
-    <item>
-      <title>TechCrunch Mobility：藍綠色是自動駕駛的顏色</title>
-      <link>https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181384</guid>
-      <pubDate>Sun, 25 Oct 2026 16:05:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歡迎回到 TechCrunch Mobility，你掌握交通運輸未來的樞紐，以及如今比以往更重要的 AI 在其中扮演的角色。</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
@@ -1022,15 +1022,6 @@
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
-    </item>
-    <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
       <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
@@ -1038,6 +1029,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+    </item>
+    <item>
+      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1643,15 +1643,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>你是 Codex Original 嗎？</title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
-    </item>
-    <item>
       <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
       <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
@@ -1659,6 +1650,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
+    </item>
+    <item>
+      <title>你是 Codex Original 嗎？</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1728,15 +1728,6 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
       <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
       <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
@@ -1753,6 +1744,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+    </item>
+    <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
