@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 00:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:14:00 GMT</lastBuildDate>
+    <item>
+      <title>Cohere 表示阿里巴巴的 Qwen 模型嘗試傳送檔案到北京</title>
+      <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181989</guid>
+      <pubDate>Tue, 27 Oct 2026 01:12:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一個 AI 模型先說它不會使用任何工具，結果還是嘗試把某些東西傳送到北京的一台伺服器；研究人員表示這大概只是訓練上的怪癖，不是間諜活動，但整件事讓大家開始問：到底有多能信任免費的中國 AI。</description>
+    </item>
     <item>
       <title>Greptile 透過 GPT-6 Astra 將錯誤偵測延伸到程式碼審查之外</title>
       <link>https://openai.com/index/greptile-code-review-codex-astra</link>
@@ -327,15 +336,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據報導，伊隆·馬斯克下令 SpaceX 降低烏克蘭的 Starlink 存取速度。</description>
-    </item>
-    <item>
-      <title>AI 會揭露網際網路搖搖欲墜的基礎設施嗎？</title>
-      <link>https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181514</guid>
-      <pubDate>Sat, 24 Oct 2026 20:15:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當你意識到網際網路是「靠膠水和夢想撐起來的」那一刻。</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
