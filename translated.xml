@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:35:21 GMT</lastBuildDate>
+    <item>
+      <title>Apple 發表搭載 M6 晶片的新款 14 吋 MacBook Pro</title>
+      <link>https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182024</guid>
+      <pubDate>Tue, 27 Oct 2026 14:25:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新款 MacBook Pro 擁有 24 小時電池續航力，並支援 Wi-Fi 7 與 Bluetooth 6 連線。</description>
+    </item>
     <item>
       <title>Apple 推出 iOS 27.2，新增 Siri AI 語言與安全性修補</title>
       <link>https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/</link>
@@ -291,15 +300,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anthropic已正式申請IPO，揭露營收飆升、虧損擴大、企業採用大幅成長，以及一套旨在維持創辦人控制權與其AI安全使命的特殊治理結構。</description>
-    </item>
-    <item>
-      <title>Apple發表配備OLED顯示器與更快A20 Pro晶片的新款iPad mini</title>
-      <link>https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181616</guid>
-      <pubDate>Mon, 26 Oct 2026 14:25:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新款iPad mini採用比前一代更薄、更輕的設計。</description>
     </item>
     <item>
       <title>我們正在幫助世界各地的農民透過網路連結到必要服務。</title>
