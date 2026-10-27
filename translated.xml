@@ -5,7 +5,32 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:06:28 GMT</lastBuildDate>
+    <item>
+      <title>成為 Frontier 的平台方法</title>
+      <link>https://blogs.microsoft.com/blog/2026/10/27/the-platform-approach-to-becoming-frontier/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563192</guid>
+      <pubDate>Tue, 27 Oct 2026 16:01:38 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>去年在 Ignite，我們介紹了 Frontier 轉型的概念，以及它和任何以技術為主的追求有何不同，因為這要求我們先聚焦於商業成果。這一切從一個簡單的想法開始：科技是為了服務人類而發明的，不是反過來。沒有任何路徑能讓這個觀念的... 
+The post 成為 Frontier 的平台方法 appeared first on The Official Microsoft Blog.</description>
+      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-FY27Q1-Image-1-FINAL.png" medium="image" type="image/png"/>
+      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-FY27Q1-Image-1-FINAL.png"/>
+      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-FY27Q1-Image-1-FINAL.png" alt=""></p><p>去年在 Ignite，我們介紹了 Frontier 轉型的概念，以及它和任何以技術為主的追求有何不同，因為這要求我們先聚焦於商業成果。這一切從一個簡單的想法開始：科技是為了服務人類而發明的，不是反過來。沒有任何路徑能讓這個觀念的... <br>The post 成為 Frontier 的平台方法 appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 與 Oracle 擴大 NVIDIA Vera Rubin 至多吉瓦規模，並將 NVIDIA Vera CPU 帶進 Oracle 雲端基礎架構</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure</guid>
+      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA Vera Rubin NVL72 與 NVIDIA Vera CPU 現已在 OCI 上正式可用，並計畫推出 HGX Rubin NVL8 系統，協助組織加速前沿模型訓練，...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/34d77cd710a00c8452bcf1cebf152136/6ae0cae53d633215e15cdb16_d7afe3ba-e361-4ff2-8e80-51ac8e7e185/d7afe3ba-e361-4ff2-8e80-51ac8e7e185_thmb.jpg?v=c413ccad-cf5d-4b8b-aa54-3b1bf66c2ffa" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/34d77cd710a00c8452bcf1cebf152136/6ae0cae53d633215e15cdb16_d7afe3ba-e361-4ff2-8e80-51ac8e7e185/d7afe3ba-e361-4ff2-8e80-51ac8e7e185_thmb.jpg?v=c413ccad-cf5d-4b8b-aa54-3b1bf66c2ffa"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/34d77cd710a00c8452bcf1cebf152136/6ae0cae53d633215e15cdb16_d7afe3ba-e361-4ff2-8e80-51ac8e7e185/d7afe3ba-e361-4ff2-8e80-51ac8e7e185_thmb.jpg?v=c413ccad-cf5d-4b8b-aa54-3b1bf66c2ffa" alt=""></p><p>NVIDIA Vera Rubin NVL72 與 NVIDIA Vera CPU 現已在 OCI 上正式可用，並計畫推出 HGX Rubin NVL8 系統，協助組織加速前沿模型訓練，...</p>]]></content:encoded>
+    </item>
     <item>
       <title>AI 如何改變數百萬失智症患者的發現步調</title>
       <link>https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/</link>
@@ -477,6 +502,15 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8" alt=""></p><p>哈薩克的 AI 生態系正從基礎設施規劃走向部署。這項轉變在整個 AI 堆疊中都很明顯——從基礎設施到模型，再到應用程式。以下的生態系公告共同指出，這個國家加速運算的供給正在增加，同時對下一步發展的需求也在成長。閱讀所有 NVIDIA 在歐洲 […]</p>]]></content:encoded>
     </item>
     <item>
+      <title>Anima 透過 GPT-6 和 GPT-Live 將診所來電等待時間縮短 75%</title>
+      <link>https://openai.com/index/anima</link>
+      <guid isPermaLink="false">https://openai.com/index/anima</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Anima 運用 OpenAI 模型擴展照護團隊的可做事項，讓他們有更多量能回應病患。</description>
+    </item>
+    <item>
       <title>OpenAI 與波蘭 NASK 合作推動 AI 安全與資安</title>
       <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
       <guid isPermaLink="false">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
@@ -817,18 +851,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" alt=""></p><p>NVIDIA 今天宣布大幅擴充 NVIDIA Isaac™ 開放式機器人開發平台，新增參考人形機器人、資料集與執行環境，並更新其機器人學習框架。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>歐洲移動出行領導者在 NVIDIA Hyperion 上打造安全車輛與 robotaxi 車隊</title>
-      <link>https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion</guid>
-      <pubDate>Wed, 21 Oct 2026 10:14:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布，歐洲領先的汽車製造商與移動出行服務提供商，包括 Bolt 與 Lucid、Mercedes-Benz、Volkswagen Commercial Vehicles 和 Einride，正在 NVIDIA Hyperion 運算平台上展示精選的自動駕駛移動出行使用案例，展現第 3 級與第 4 級車輛以及未來 robotaxi 車隊的潛在應用。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/9217d1f45bf034b109742e7af4612d74/6ad832073d633274c2cb7554_european-automakers-build-on-nvidia-hyperion/european-automakers-build-on-nvidia-hyperion_thmb.jpg?v=d22c89cd-05fc-4178-90ec-41455a462cd8" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/9217d1f45bf034b109742e7af4612d74/6ad832073d633274c2cb7554_european-automakers-build-on-nvidia-hyperion/european-automakers-build-on-nvidia-hyperion_thmb.jpg?v=d22c89cd-05fc-4178-90ec-41455a462cd8"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/9217d1f45bf034b109742e7af4612d74/6ad832073d633274c2cb7554_european-automakers-build-on-nvidia-hyperion/european-automakers-build-on-nvidia-hyperion_thmb.jpg?v=d22c89cd-05fc-4178-90ec-41455a462cd8" alt=""></p><p>NVIDIA 今日宣布，歐洲領先的汽車製造商與移動出行服務提供商，包括 Bolt 與 Lucid、Mercedes-Benz、Volkswagen Commercial Vehicles 和 Einride，正在 NVIDIA Hyperion 運算平台上展示精選的自動駕駛移動出行使用案例，展現第 3 級與第 4 級車輛以及未來 robotaxi 車隊的潛在應用。</p>]]></content:encoded>
     </item>
     <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
@@ -1661,15 +1683,6 @@
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
-      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
-    </item>
-    <item>
       <title>你是 Codex Original 嗎？</title>
       <link>https://openai.com/form/codex-originals</link>
       <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
@@ -1677,6 +1690,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
+    </item>
+    <item>
+      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
+      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1746,13 +1768,13 @@
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
@@ -1764,13 +1786,13 @@
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1989,28 +2011,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正與一個獨立的數學與人工智慧諮詢小組合作，協助指導對新興 AI 研究成果的審查與溝通。</description>
-    </item>
-    <item>
-      <title>收益命令：將 AI 基礎架構轉化為有用的智慧</title>
-      <link>https://blogs.microsoft.com/blog/2026/09/01/the-yield-imperative-turning-ai-infrastructure-into-useful-intelligence/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563153</guid>
-      <pubDate>Wed, 02 Sep 2026 06:00:02 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>當我們進入下一個時代時，衡量我們進步的決定性指標會是什麼？每個產業都有一個塑造其思考方式的詞。對飛行員來說，是安全。對保險公司來說，是風險。對半導體產業來說，是良率。良率不會問解決方案有多優雅、花了多少年，或是……
-The post The yield imperative: Turning AI infrastructure into useful intelligence appeared first on The Official Microsoft Blog.</description>
-      <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-SEMICON-Image-A.jpg" alt=""></p><p>當我們進入下一個時代時，衡量我們進步的決定性指標會是什麼？每個產業都有一個塑造其思考方式的詞。對飛行員來說，是安全。對保險公司來說，是風險。對半導體產業來說，是良率。良率不會問解決方案有多優雅、花了多少年，或是……<br>The post The yield imperative: Turning AI infrastructure into useful intelligence appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Fyxer 如何打造出讓人信任的 AI 執行助理</title>
-      <link>https://openai.com/index/fyxer</link>
-      <guid isPermaLink="false">https://openai.com/index/fyxer</guid>
-      <pubDate>Thu, 13 Aug 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Fyxer 使用 OpenAI 模型、微調、記憶以及真實使用者回饋，來整理收件匣並以每位使用者的語氣草擬電子郵件。</description>
     </item>
   </channel>
 </rss>
