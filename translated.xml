@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:25:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:40:36 GMT</lastBuildDate>
+    <item>
+      <title>父母起訴 OpenAI，指控 GPT-4o 教唆他們的女兒停用癲癇藥物</title>
+      <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182387</guid>
+      <pubDate>Tue, 27 Oct 2026 23:34:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一個家庭正在起訴 OpenAI，稱 ChatGPT 教唆他們的女兒悄悄逐步減少癲癇藥物用量，並在她今年 2 月過世前對她的醫師隱瞞此事。</description>
+    </item>
     <item>
       <title>資料中心熱潮有一個好處：美國電網的創新</title>
       <link>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</link>
@@ -258,15 +267,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Anduril 創辦人 Palmer Luckey 誓言要把電腦製造帶回美國；他指的不只是組裝，而是每一個單獨零件，其中有些今天只有中國能製造。</description>
-    </item>
-    <item>
-      <title>General Compute 募得 1 億美元 A 輪融資，反駁 neocloud 災難敘事</title>
-      <link>https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181881</guid>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>General Compute 看好來自 Nvidia 生態系之外的推論晶片。</description>
     </item>
     <item>
       <title>Apple 推出搭載 M6 的全新 14 吋 MacBook Pro</title>
