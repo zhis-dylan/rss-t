@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:55:08 GMT</lastBuildDate>
     <item>
       <title>Guidewire 以 17 億美元現金收購 Hyperexponential</title>
       <link>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/</link>
@@ -144,6 +144,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79" alt=""></p><p>今天全球有 5,700 萬人正與失智症共處。對於致力幫助他們的研究人員來說，障礙不是缺乏努力——而是資料太多、能加以彙整的專家太少，以及追趕不上這種疾病的發現速度。生物醫學研究與 AI 聯盟（Consortium for Biomedical Research and AI）在 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Retell 使用 OpenAI 模型協助支撐每月 1 億通電話</title>
+      <link>https://openai.com/index/retell-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/retell-ai</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 在 Retell 的語音代理基準測試中名列前茅，而 Codex 則協助其達到每位員工 160 萬美元的年化營收運行率。</description>
     </item>
     <item>
       <title>Gemini 4 Argon 實際應用的 8 個範例</title>
@@ -1089,6 +1098,24 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
+      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
+      <link>https://openai.com/index/grupo-boticario</link>
+      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
+    </item>
+    <item>
+      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
+      <link>https://openai.com/index/localiza-generative-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
+    </item>
+    <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
       <link>https://openai.com/index/benefit-street-partners</link>
       <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
@@ -1786,15 +1813,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
-    </item>
-    <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
       <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
@@ -1811,6 +1829,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1975,33 +2002,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 AARP 正將免費、實作型的 ChatGPT 工作坊帶到美國 10 個城市、共 1,000 位年長者，幫助他們安全地培養實用的 AI 技能。</description>
-    </item>
-    <item>
-      <title>用 AI 重新想像廣告</title>
-      <link>https://openai.com/index/reimagining-advertising-with-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/reimagining-advertising-with-ai</guid>
-      <pubDate>Wed, 16 Sep 2026 13:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 OpenAI 全新的 AI 驅動廣告體驗，包括贊助代理、行銷人員工具，以及與 HubSpot 和 Shopify 的整合。</description>
-    </item>
-    <item>
-      <title>Hex 將複雜分析轉化為視覺化報告，搭配 GPT‑6 Astra</title>
-      <link>https://openai.com/index/hex-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/hex-gpt-6-astra</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 協助 Hex 的資料代理將答案轉化為互動式視覺化內容，讓員工樂於分享。</description>
-    </item>
-    <item>
-      <title>如何將 AI 使用與商業價值連結</title>
-      <link>https://openai.com/index/how-to-connect-ai-usage-to-business-value</link>
-      <guid isPermaLink="false">https://openai.com/index/how-to-connect-ai-usage-to-business-value</guid>
-      <pubDate>Wed, 16 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 ChatGPT Work 和 Codex 分析如何協助團隊理解 AI 的使用情況與支出、找出培訓需求，並將採用情況與業務成果連結起來。</description>
     </item>
     <item>
       <title>數學與人工智慧諮詢小組</title>
