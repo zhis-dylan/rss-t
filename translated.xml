@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:59:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 02:14:29 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 如何把它的程式碼工具變成 dots，一款全天候開啟的個人助理</title>
+      <link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181218</guid>
+      <pubDate>Tue, 27 Oct 2026 02:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 負責 dots 的主管 Alexander Embiricos，從不想和別人的 AI 代理人開會。</description>
+    </item>
     <item>
       <title>Cohere 表示阿里巴巴的 Qwen 模型嘗試傳送檔案到北京</title>
       <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
@@ -327,15 +336,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>我們整理了一份所有最熱門 AI 穿戴裝置的清單，包括 Muse Charm、Bee、Friend、Plaud 等。</description>
-    </item>
-    <item>
-      <title>Starlink 在烏克蘭似乎又恢復正常運作了</title>
-      <link>https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181518</guid>
-      <pubDate>Sat, 24 Oct 2026 20:46:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報導，伊隆·馬斯克下令 SpaceX 降低烏克蘭的 Starlink 存取速度。</description>
     </item>
     <item>
       <title>快速擴充線上儲存以服務超過 10 億名 ChatGPT 使用者（第二部分）</title>
