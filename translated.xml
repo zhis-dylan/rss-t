@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 21:39:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:54:33 GMT</lastBuildDate>
+    <item>
+      <title>GM 現在開始擁抱油電混合車</title>
+      <link>https://techcrunch.com/2026/10/27/gm-is-embracing-hybrids-now/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182259</guid>
+      <pubDate>Tue, 27 Oct 2026 21:47:02 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>GM 過去捨棄油電混合車，轉而專注於純電動車。現在，它正準備推出其 SUV 的油電混合版本。</description>
+    </item>
+    <item>
+      <title>美國銀行請你不要把網銀密碼分享給你的 AI 助理</title>
+      <link>https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182297</guid>
+      <pubDate>Tue, 27 Oct 2026 21:44:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家銀行巨頭提醒客戶，「對於因你的 AI 代理存取所產生的活動，你要負責。」</description>
+    </item>
     <item>
       <title>Anthropic IPO 之後，究竟誰才是真正掌權的人？</title>
       <link>https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/</link>
@@ -288,24 +306,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591" alt=""></p><p>NVIDIA 和 Meta 今天宣布，雙方將合作擴大在 Muse 和 Muse 模型家族上的工作，以提升推論和訓練效能，反映出市場對實用 AI 代理的強勁需求。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 如何把它的程式碼工具變成 dots，一款全天候開啟的個人助理</title>
-      <link>https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181218</guid>
-      <pubDate>Tue, 27 Oct 2026 02:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 負責 dots 的主管 Alexander Embiricos，從不想和別人的 AI 代理人開會。</description>
-    </item>
-    <item>
-      <title>Cohere 表示阿里巴巴的 Qwen 模型嘗試傳送檔案到北京</title>
-      <link>https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181989</guid>
-      <pubDate>Tue, 27 Oct 2026 01:12:21 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一個 AI 模型先說它不會使用任何工具，結果還是嘗試把某些東西傳送到北京的一台伺服器；研究人員表示這大概只是訓練上的怪癖，不是間諜活動，但整件事讓大家開始問：到底有多能信任免費的中國 AI。</description>
     </item>
     <item>
       <title>Check Point 如何運用 Daybreak 加速漏洞研究</title>
