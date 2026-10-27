@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 27 Oct 2026 22:55:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 23:10:18 GMT</lastBuildDate>
+    <item>
+      <title>資料中心熱潮有一個好處：美國電網的創新</title>
+      <link>https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3181301</guid>
+      <pubDate>Tue, 27 Oct 2026 22:55:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>隨著 AI 熱潮對現有電網造成壓力，各種電網現代化的新機會也因此浮現，業界人士表示。</description>
+    </item>
     <item>
       <title>Guidewire 以 17 億美元現金收購 Hyperexponential</title>
       <link>https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/</link>
@@ -258,15 +267,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>General Compute 看好來自 Nvidia 生態系之外的推論晶片。</description>
-    </item>
-    <item>
-      <title>Opera 推出新的網頁標準，讓使用者可在瀏覽器本地部署 AI</title>
-      <link>https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181922</guid>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項新標準 WebAI 的設計可支援各種 AI 模型。</description>
     </item>
     <item>
       <title>Apple 推出搭載 M6 的全新 14 吋 MacBook Pro</title>
