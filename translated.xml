@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 20:51:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:06:28 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 將舉行第三季財報電話會議</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873</guid>
+      <pubDate>Wed, 28 Oct 2026 21:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 將於 11 月 17 日星期二下午 2 點（太平洋時間，ET 為下午 5 點）舉行電話會議，討論其截至 2026 年 10 月 25 日止的 2027 會計年度第三季財務結果。</description>
+    </item>
     <item>
       <title>駭客竊取了數千名國土安全部員工的人事資料，包括海關與邊境保護局和移民及海關執法局探員</title>
       <link>https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/</link>
@@ -1013,18 +1022,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/6b66bc9b3650abc6c74001f964183d05/6ad898173d633293652e0d57_cuDSS_GTCBerlin-842x450/cuDSS_GTCBerlin-842x450_thmb.jpg?v=b2c1d70f-485c-409e-8bec-8679f799a0ef" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/6b66bc9b3650abc6c74001f964183d05/6ad898173d633293652e0d57_cuDSS_GTCBerlin-842x450/cuDSS_GTCBerlin-842x450_thmb.jpg?v=b2c1d70f-485c-409e-8bec-8679f799a0ef"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/6b66bc9b3650abc6c74001f964183d05/6ad898173d633293652e0d57_cuDSS_GTCBerlin-842x450/cuDSS_GTCBerlin-842x450_thmb.jpg?v=b2c1d70f-485c-409e-8bec-8679f799a0ef" alt=""></p><p>NVIDIA cuDSS 今日正式上市，是一款 NVIDIA CUDA-X 函式庫，將工程與科學模擬中的關鍵部分轉移到 GPU 上。複雜的工程成就——從先進晶片到飛機，再到工業系統——都依賴模擬來預測設計在製造前的表現。隨著設計變得更加複雜，模擬 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA Confidential Computing 擴展，讓前沿模型建構者能在全球基礎架構上安全擴充</title>
-      <link>https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/confidential-computing-model-builders-infrastructure/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:30:02 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 打造各種工具，讓整個技術堆疊中的安全 Agent 得以實現。今日公布的 NVIDIA OpenShell Reference Architecture，是 NVIDIA 持續擴充的技術組合之一，讓組織能夠安全地大規模部署 Agent。NVIDIA Confidential Computing 是基礎架構層，負責在執行期間保護這些 Agent 所依賴的模型與資料。今天，NVIDIA […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417" alt=""></p><p>NVIDIA 打造各種工具，讓整個技術堆疊中的安全 Agent 得以實現。今日公布的 NVIDIA OpenShell Reference Architecture，是 NVIDIA 持續擴充的技術組合之一，讓組織能夠安全地大規模部署 Agent。NVIDIA Confidential Computing 是基礎架構層，負責在執行期間保護這些 Agent 所依賴的模型與資料。今天，NVIDIA […]</p>]]></content:encoded>
     </item>
     <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
