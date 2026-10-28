@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:50:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:05:22 GMT</lastBuildDate>
+    <item>
+      <title>調整你的廣告策略，以符合人們今天的搜尋方式。</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-podcast-search-data/</guid>
+      <pubDate>Wed, 28 Oct 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 的 Ads Decoded podcast 告訴你如何運用最新的消費者搜尋數據，做出更聰明的行銷決策。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_YT_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_YT_thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_YT_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Google 的 Ads Decoded podcast 告訴你如何運用最新的消費者搜尋數據，做出更聰明的行銷決策。</p>]]></content:encoded>
+    </item>
     <item>
       <title>在 Gemini 應用程式中透過沉浸式探索深入新主題。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/</link>
@@ -929,18 +941,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 Google Cloud 正在把前沿模型與 Codex 工作流程帶進 Gemini 的 Model Garden，並可透過 Google Cloud Marketplace 使用。</description>
-    </item>
-    <item>
-      <title>在 Waze 上和《戴帽子的貓》一起開車。</title>
-      <link>https://blog.google/waze/waze-the-cat-in-the-hat/</link>
-      <guid isPermaLink="false">https://blog.google/waze/waze-the-cat-in-the-hat/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:39:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>準備好把你的日常通勤變成一場高能量的歡樂兜風了嗎？Waze 正把這位快樂混亂的行家帶進你的副駕駛座，迎接《戴帽子的貓》的到來……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CatInTheHat-KeyVisual_Horizonta.max-600x600.format-webp.webp" alt=""></p><p>準備好把你的日常通勤變成一場高能量的歡樂兜風了嗎？Waze 正把這位快樂混亂的行家帶進你的副駕駛座，迎接《戴帽子的貓》的到來……</p>]]></content:encoded>
     </item>
     <item>
       <title>將 Spark 帶到歐洲：本地智慧驅動下一波代理</title>
