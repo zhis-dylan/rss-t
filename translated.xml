@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 21:51:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 22:07:08 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 首次公開 Azure 的實際美元營收：332 億美元</title>
+      <link>https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182841</guid>
+      <pubDate>Wed, 28 Oct 2026 21:58:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 過去從未以美元揭露 Azure 的季度營收。不過，這是我們第一次能看到它距離超越市場上最大競爭對手 AWS 有多接近。</description>
+    </item>
     <item>
       <title>Google 擴大 AI 搜尋廣告全球投放，因核心廣告成長放緩</title>
       <link>https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/</link>
@@ -334,15 +343,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 與 ServiceNow 擴大合作夥伴關係，將 OpenAI 模型與代理帶入 ServiceNow，並將 ServiceNow 工作流程帶入 ChatGPT 和 Codex。</description>
-    </item>
-    <item>
-      <title>Kodiak 拿下首筆商業合約，為公共公路提供無人駕駛卡車</title>
-      <link>https://techcrunch.com/2026/10/28/kodiak-lands-first-commercial-deal-to-supply-driverless-trucks-for-public-highways/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182346</guid>
-      <pubDate>Wed, 28 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>與 DTL Transport 的這筆交易讓它有望轉型為輕資產的科技供應商，而不是車輛擁有者和營運者。</description>
     </item>
     <item>
       <title>公司的未來</title>
