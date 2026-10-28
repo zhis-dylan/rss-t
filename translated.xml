@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 10:00:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:15:17 GMT</lastBuildDate>
+    <item>
+      <title>Legora 正在打造法律工作的代理式作業系統</title>
+      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+      <guid isPermaLink="false">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+      <pubDate>Wed, 28 Oct 2026 09:30:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Legora 如何運用 OpenAI 模型、ChatGPT 和 Codex 來加速法律工作流程、擴大合約分析，並讓律師能專注於更高價值的工作。</description>
+    </item>
     <item>
       <title>Jio 股價在印度超大型 IPO 後於掛牌首日飆升 21%</title>
       <link>https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/</link>
@@ -1111,15 +1120,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
-      <link>https://openai.com/index/localiza-generative-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
-    </item>
-    <item>
       <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
       <link>https://openai.com/index/grupo-boticario</link>
       <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
@@ -1129,13 +1129,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
     </item>
     <item>
-      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
+      <link>https://openai.com/index/localiza-generative-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
@@ -1145,6 +1145,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
+    </item>
+    <item>
+      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1429,15 +1438,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Maia-200-Image-1.png.jpg" alt=""></p><p>Azure Maia 200 現已量產；Azure Maia 300 將於 2027 年推出。隨著我們邁入超級智慧時代，Microsoft 正進入基礎架構的新階段。自 2027 年起，我們將把 Azure Maia 系列擴展至多吉瓦級部署，使 Maia 成為 Microsoft 產品與服務的主要推論系統。這個跨世代...<br>這篇〈Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署〉最初發表於 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
-      <link>https://openai.com/index/sophos</link>
-      <guid isPermaLink="false">https://openai.com/index/sophos</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
-    </item>
-    <item>
       <title>Asana 在瀏覽器測試中將模型成本降低 76 倍，採用 GPT-6.1 Sol</title>
       <link>https://openai.com/index/asana-browser-agent</link>
       <guid isPermaLink="false">https://openai.com/index/asana-browser-agent</guid>
@@ -1445,6 +1445,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
+    </item>
+    <item>
+      <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
+      <link>https://openai.com/index/sophos</link>
+      <guid isPermaLink="false">https://openai.com/index/sophos</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
     </item>
     <item>
       <title>Oracle 如何運用 ChatGPT 和 Codex 將數天的工作縮短成幾分鐘</title>
@@ -1813,15 +1822,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
-    </item>
-    <item>
       <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
       <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
@@ -1838,6 +1838,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+    </item>
+    <item>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1993,15 +2002,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>Microsoft 已經深耕教育領域五十年。自這家公司創立之初，我們就一路與教育工作者、學生、家庭和教育領袖並肩合作，經歷每一波新的技術浪潮——我們也逐漸了解什麼有助於學習，以及什麼會造成阻礙。這份承諾今天仍在延續，在一個技術...
 〈Microsoft 對教育領域 AI 的承諾〉一文最早刊登於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>協助年長者在日常生活中使用 AI</title>
-      <link>https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</link>
-      <guid isPermaLink="false">https://openai.com/index/helping-older-adults-use-ai-in-everyday-life</guid>
-      <pubDate>Wed, 16 Sep 2026 16:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 和 AARP 正將免費、實作型的 ChatGPT 工作坊帶到美國 10 個城市、共 1,000 位年長者，幫助他們安全地培養實用的 AI 技能。</description>
     </item>
     <item>
       <title>數學與人工智慧諮詢小組</title>
