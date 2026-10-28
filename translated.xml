@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:34:29 GMT</lastBuildDate>
+    <item>
+      <title>Apple 推出全新觸控螢幕 MacBook Pro</title>
+      <link>https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182446</guid>
+      <pubDate>Wed, 28 Oct 2026 17:26:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 全新觸控螢幕 MacBook Pro 售價自 2,899 美元起</description>
+    </item>
     <item>
       <title>Apple 發表搭載 PROLED XDR 顯示器的突破性 MacBook Pro</title>
       <link>https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/</link>
@@ -311,15 +320,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆交易預計將於明年某個時間完成，目的是協助將 AI 代理導入，與人類一同進行核保、分析和定價決策。</description>
-    </item>
-    <item>
-      <title>從 8VC 到 Benchmark，這是 10 月 SEC 申報文件中隱藏的內容</title>
-      <link>https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3181982</guid>
-      <pubDate>Tue, 27 Oct 2026 22:17:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一整批創投公司正在募集大筆新基金。</description>
     </item>
     <item>
       <title>成為 Frontier 的平台方法</title>
