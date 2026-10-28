@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 00:25:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:41:07 GMT</lastBuildDate>
+    <item>
+      <title>Muse 現已在新加坡推出：全球第一個為所有人打造的個人 AI 助理</title>
+      <link>https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50759</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:03 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>今天我們宣布，Muse 現已在新加坡推出。
+這篇〈Muse 現已在新加坡推出：全球第一個為所有人打造的個人 AI 助理〉最早刊登於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?fit=2048%2C1152" medium="image" type="image/png"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?fit=2048%2C1152"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?fit=2048%2C1152" alt=""></p><p>今天我們宣布，Muse 現已在新加坡推出。<br>這篇〈Muse 現已在新加坡推出：全球第一個為所有人打造的個人 AI 助理〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>父母起訴 OpenAI，指控 GPT-4o 教唆他們的女兒停用癲癇藥物</title>
       <link>https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/</link>
@@ -1432,19 +1445,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
-    </item>
-    <item>
-      <title>破解資料中心最大的迷思</title>
-      <link>https://about.fb.com/news/2026/10/debunking-the-biggest-data-center-myths/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50588</guid>
-      <pubDate>Thu, 08 Oct 2026 16:53:24 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>開發者兼內容創作者 Tom Shaw 解析了關於資料中心的三個最大迷思。
-〈破解資料中心最大的迷思〉一文最早出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Debunking-the-Biggest-Data-Center-Myths_Header.jpg?fit=1920%2C1080" alt=""></p><p>開發者兼內容創作者 Tom Shaw 解析了關於資料中心的三個最大迷思。<br>〈破解資料中心最大的迷思〉一文最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>Oracle 如何運用 ChatGPT 和 Codex 將數天的工作縮短成幾分鐘</title>
