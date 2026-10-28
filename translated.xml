@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:04:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:19:17 GMT</lastBuildDate>
+    <item>
+      <title>Apple 發表搭載 PROLED XDR 顯示器的突破性 MacBook Pro</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/</guid>
+      <pubDate>Wed, 28 Oct 2026 17:09:28 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日推出全新 MacBook Pro，搭載 PROLED XDR 顯示器，採用突破性的雙層 OLED 技術。</description>
+    </item>
     <item>
       <title>Meta 與美國五所大學合作，加速醫療與科學突破</title>
       <link>https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/</link>
@@ -1681,15 +1690,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Final Cut Camera 迎來重大更新，包含全新設計、支援 iPhone 18 Pro 的可變光圈，以及更多 iOS 27 專業選項。</description>
-    </item>
-    <item>
-      <title>Apple Creator Studio 即將推出新更新</title>
-      <link>https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/09/new-updates-coming-to-apple-creator-studio/</guid>
-      <pubDate>Tue, 29 Sep 2026 17:00:02 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今日推出 Apple Creator Studio 的更新，這是其開創性的創意與生產力 App 集合。</description>
     </item>
     <item>
       <title>介紹 GPT-6.1 Sol</title>
