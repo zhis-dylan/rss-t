@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 21:21:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:36:50 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft 來自 OpenAI 的營收達 100 億美元</title>
+      <link>https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182880</guid>
+      <pubDate>Wed, 28 Oct 2026 21:34:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 表示，在截至 9 月 30 日的季度中，來自與 OpenAI 的商業合作安排（包括營收分潤款項）的營收達到 100 億美元。這凸顯了雙方合作關係仍然極為龐大的財務依賴性。</description>
+    </item>
+    <item>
+      <title>AI 模式中的廣告擴展至新市場。</title>
+      <link>https://blog.google/products/ads-commerce/ads-in-ai-mode-global/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-in-ai-mode-global/</guid>
+      <pubDate>Wed, 28 Oct 2026 21:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 正在將 AI 模式廣告擴展到 10 個新國家，包括加拿大和印度。看看這些相關的贊助結果如何改善你的搜尋體驗。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ai_mode_global_ads_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 正在將 AI 模式廣告擴展到 10 個新國家，包括加拿大和印度。看看這些相關的贊助結果如何改善你的搜尋體驗。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Microsoft 連續 10 個季度創下破紀錄營收</title>
+      <link>https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182838</guid>
+      <pubDate>Wed, 28 Oct 2026 21:25:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>無論 AI 的未來會是什麼，眼前的情況對 Microsoft 來說依然非常不錯。這家科技巨頭週三公布又一項季度營收紀錄：923 億美元，比去年同期季度成長 19%。</description>
+    </item>
     <item>
       <title>2026 年第三季財報電話會議：我們執行長的致詞</title>
       <link>https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/</link>
@@ -331,24 +361,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>看看 Legora 如何運用 OpenAI 模型、ChatGPT 和 Codex 來加速法律工作流程、擴展合約分析，並讓律師能專注於更高價值的工作。</description>
-    </item>
-    <item>
-      <title>Jio 股價在印度超大型 IPO 後於掛牌首日飆升 21%</title>
-      <link>https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182447</guid>
-      <pubDate>Wed, 28 Oct 2026 05:20:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Jio 以印度第二大市值上市公司之姿掛牌，僅次於其母公司信實工業。</description>
-    </item>
-    <item>
-      <title>風投將從 Anthropic 的 IPO 賺進數十億，但 Amazon 預計賺得更多得多</title>
-      <link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182406</guid>
-      <pubDate>Wed, 28 Oct 2026 01:15:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>大規模票據轉換揭露了 Amazon 在 Anthropic 的實際持股程度。</description>
     </item>
     <item>
       <title>Muse 現已在新加坡推出：全球第一個為所有人打造的個人 AI 助理</title>
@@ -917,18 +929,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>AT&amp;T 正與 OpenAI 合作，讓法律知識更容易取得。了解其 LegalEdge 團隊如何重新思考案件受理並擴展法律判斷。</description>
-    </item>
-    <item>
-      <title>與 Prune Nourry 一起重現女性雕塑家的失落工作室</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/visionaries-petit-palais-art-basel-paris-prune-nourry/</guid>
-      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 與專家合作重現 19 世紀雕塑家的工作空間，讓她們的傳承重新受到關注。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Prune_Nourry_Hero.max-600x600.format-webp.webp" alt=""></p><p>Google 與專家合作重現 19 世紀雕塑家的工作空間，讓她們的傳承重新受到關注。</p>]]></content:encoded>
     </item>
     <item>
       <title>ChatGPT 廣告擴展至 26 個新國家，已有超過 100,000 名廣告主使用這個平台</title>
