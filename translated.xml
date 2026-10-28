@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:34:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:49:39 GMT</lastBuildDate>
     <item>
       <title>Apple 推出全新觸控螢幕 MacBook Pro</title>
       <link>https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/</link>
@@ -244,6 +244,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>只剩 7 天，TechCrunch Founder Summit 將於 11 月 4 日在波士頓的 SoWa Power Station 舉行。現在距離門票最高可省 100 美元的機會所剩不多，而直接向經驗豐富的創業者、投資人和新創領袖學習並交流的機會也即將到來。</description>
+    </item>
+    <item>
+      <title>公司的未來</title>
+      <link>https://openai.com/index/the-future-of-the-firm</link>
+      <guid isPermaLink="false">https://openai.com/index/the-future-of-the-firm</guid>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>AI 可能如何進入組織圖——在我們之下、身旁與之間。</description>
     </item>
     <item>
       <title>Legora 正在打造法律工作的代理式作業系統</title>
@@ -1179,15 +1188,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
-      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
-    </item>
-    <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
       <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
@@ -1195,6 +1195,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+    </item>
+    <item>
+      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1756,15 +1765,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>你是 Codex Original 嗎？</title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
-    </item>
-    <item>
       <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
       <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
@@ -1772,6 +1772,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
+    </item>
+    <item>
+      <title>你是 Codex Original 嗎？</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1841,13 +1850,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
@@ -1859,13 +1868,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1993,15 +2002,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>AI 正以比任何組織真正掌握的速度更快地重塑工作。橫跨各個產業，討論焦點已從 AI 能做什麼，轉向企業如何運用 AI 創造商業價值，並擴展人們所能達成的事物。在 Microsoft，我們相信，能夠成功的組織將會是我們所稱的 Frontier Firms：...
 這篇〈我們從微軟自身的 AI 轉型中學到了什麼〉最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>Cooley 如何利用 ChatGPT 加速 IPO 工作</title>
-      <link>https://openai.com/index/cooley-gopublic</link>
-      <guid isPermaLink="false">https://openai.com/index/cooley-gopublic</guid>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Cooley 運用 ChatGPT Work 打造 GO Public，將智慧帶入 IPO 流程，協助律師更早發現問題，並把判斷力聚焦在最重要的地方。</description>
     </item>
     <item>
       <title>數學與人工智慧諮詢小組</title>
