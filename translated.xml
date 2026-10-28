@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 14:47:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:02:42 GMT</lastBuildDate>
+    <item>
+      <title>語音 AI 正夯：Nvidia 推出新的開放轉錄模型</title>
+      <link>https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182159</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nvidia 剛推出一款免費的語音轉文字模型，最多可轉錄 40 種語言，但它只能處理錄音，不能即時音訊，因此對會議與醫療轉錄工具來說是一大進展，但即時用途仍留給 ElevenLabs 這類競爭對手。</description>
+    </item>
     <item>
       <title>Amazon 推出 Alexa Photo Frame 與 Echo Time 智慧時鐘，還有其他升級裝置</title>
       <link>https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/</link>
@@ -210,15 +219,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TechCrunch 訪問了受託解釋 OpenAI 最新令人難以置信發現的 MIT 電腦科學家</description>
-    </item>
-    <item>
-      <title>Google 的 Genie 4 世界模型加入音訊、更逼真的世界，以及即時操控</title>
-      <link>https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182045</guid>
-      <pubDate>Tue, 27 Oct 2026 16:30:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google DeepMind 發布 Genie 4，這是一個具備即時音訊、更逼真的模擬，以及可在模擬過程中加入文字提示的世界模型，目前以研究預覽形式提供給受信任的測試者。</description>
     </item>
     <item>
       <title>成為 Frontier 的平台方法</title>
