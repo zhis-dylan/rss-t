@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 19:20:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:35:41 GMT</lastBuildDate>
     <item>
       <title>Anthropic 剛推出工具，讓公司看清楚他們的 AI 花費買到了什麼</title>
       <link>https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/</link>
@@ -14,15 +14,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家前沿實驗室正在揭開用戶在其模型上的花費情況，為即將進行的 IPO 做準備。</description>
-    </item>
-    <item>
-      <title>Wiz 的 CTO 談 PHP2Shell 和即將到來的「漏洞末日」</title>
-      <link>https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3182776</guid>
-      <pubDate>Wed, 28 Oct 2026 19:05:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>PHP 驚嚇或許已從你的動態消息中淡去，但收拾善後的工作遠遠還沒結束。上週，這種支撐約 70% 網站的開源語言出現兩個重大漏洞，讓各組織手忙腳亂地修補系統，有些甚至暫時下線網站，直到漏洞能夠修補完成。根據找到這些漏洞的研究人員表示，[…]</description>
     </item>
     <item>
       <title>調整你的廣告策略，以符合人們今天的搜尋方式。</title>
