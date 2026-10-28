@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 21:06:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:21:37 GMT</lastBuildDate>
+    <item>
+      <title>2026 年第三季財報電話會議：我們執行長的致詞</title>
+      <link>https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q3-2026/</guid>
+      <pubDate>Wed, 28 Oct 2026 21:05:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>閱讀 Sundar Pichai 在 Alphabet 2026 年第三季財報電話會議上的致詞。</description>
+    </item>
     <item>
       <title>NVIDIA 將舉行第三季財報電話會議</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873</link>
@@ -929,18 +938,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>從在地商家到全球品牌，現在有更多廣告主可以在使用者於 ChatGPT 中探索、比較並決定要買什麼時觸及他們。</description>
-    </item>
-    <item>
-      <title>新的出價與預算工具可改變你即將到來的節慶廣告策略。</title>
-      <link>https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/holiday-shopping-bidding-budgeting/</guid>
-      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在 Google 最新一集的「Ads Decoded」Podcast 中，了解出價與預算工具的可行洞察。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E6_thumbnail.max-600x600.format-webp.webp" alt=""></p><p>在 Google 最新一集的「Ads Decoded」Podcast 中，了解出價與預算工具的可行洞察。</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 模型即將登陸 Google Cloud</title>
