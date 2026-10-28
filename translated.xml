@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:32:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:48:08 GMT</lastBuildDate>
+    <item>
+      <title>南韓金融業遭新一波網路攻擊</title>
+      <link>https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182513</guid>
+      <pubDate>Wed, 28 Oct 2026 15:41:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>南韓的金融機構又遭遇新一波網路攻擊，凸顯出亞洲由 AI 驅動的駭客攻擊風險日益升高。</description>
+    </item>
     <item>
       <title>NVIDIA RTX Spark Windows 筆記型電腦新增模型、代理工具和遊戲</title>
       <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</link>
@@ -222,15 +231,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Disruptive 近年因砸錢投資晶片新創 Groq 和 AI 語音生成新創 ElevenLabs 等公司而登上新聞版面。</description>
-    </item>
-    <item>
-      <title>前沿 AI 實驗室表示他們的模型推翻了指數時間假說。這代表什麼？</title>
-      <link>https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182002</guid>
-      <pubDate>Tue, 27 Oct 2026 17:08:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TechCrunch 訪問了受託解釋 OpenAI 最新令人難以置信發現的 MIT 電腦科學家</description>
     </item>
     <item>
       <title>成為 Frontier 的平台方法</title>
