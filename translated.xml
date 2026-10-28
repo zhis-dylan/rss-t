@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:49:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:04:52 GMT</lastBuildDate>
+    <item>
+      <title>在 Gemini 應用程式中透過沉浸式探索深入新主題。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/</guid>
+      <pubDate>Wed, 28 Oct 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>今天，我們正在新的 Gemini 學生中心推出沉浸式探索。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp" alt=""></p><p>今天，我們正在新的 Gemini 學生中心推出沉浸式探索。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Apple 推出全新觸控螢幕 MacBook Pro</title>
       <link>https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/</link>
@@ -1049,18 +1061,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI、PerturbAI 和 Scripps Research 如何運用分散式 AI 智慧代理，從數百萬個腦細胞的資料中找出具潛力的研究線索。</description>
-    </item>
-    <item>
-      <title>東南亞數位經濟規模將達 3,680 億美元</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/</guid>
-      <pubDate>Wed, 21 Oct 2026 04:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>AI 的廣泛採用正推動東南亞的數位經濟，預估在 2026 年達到 3,680 億美元，並在 2035 年達到 1 兆美元。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp" alt=""></p><p>AI 的廣泛採用正推動東南亞的數位經濟，預估在 2026 年達到 3,680 億美元，並在 2035 年達到 1 兆美元。</p>]]></content:encoded>
     </item>
     <item>
       <title>Cloudflare 將漏洞發現與防禦連結至 OpenAI</title>
