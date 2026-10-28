@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:02:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 15:17:53 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA RTX Spark Windows 筆記型電腦新增模型、代理工具和遊戲</title>
+      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</guid>
+      <pubDate>Wed, 28 Oct 2026 15:00:46 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA RTX Spark 為專為開發者、創作者和玩家的各種需求打造的輕薄筆電提供動力。RTX Spark 筆電現已可從 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 購得。這些強大的系統將 NVIDIA Blackwell RTX GPU 與 NVIDIA Grace CPU 整合在單一超級晶片中，最高可達 128GB 統一記憶體 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb" alt=""></p><p>NVIDIA RTX Spark 為專為開發者、創作者和玩家的各種需求打造的輕薄筆電提供動力。RTX Spark 筆電現已可從 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 購得。這些強大的系統將 NVIDIA Blackwell RTX GPU 與 NVIDIA Grace CPU 整合在單一超級晶片中，最高可達 128GB 統一記憶體 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>語音 AI 正夯：Nvidia 推出新的開放轉錄模型</title>
       <link>https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/</link>
@@ -912,18 +924,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/7d0bbc2362d53c1c893a83581eff22b5/6ad896d63d63328e80bd65dc_gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450/gtc26-berlin-ai-factory-confidential-computing-bare-metal-blog-1920x1080-5869427-842x450_thmb.jpg?v=f498c74f-876c-43d0-ba03-33433bba3417" alt=""></p><p>NVIDIA 打造各種工具，讓整個技術堆疊中的安全 Agent 得以實現。今日公布的 NVIDIA OpenShell Reference Architecture，是 NVIDIA 持續擴充的技術組合之一，讓組織能夠安全地大規模部署 Agent。NVIDIA Confidential Computing 是基礎架構層，負責在執行期間保護這些 Agent 所依賴的模型與資料。今天，NVIDIA […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 推進 Isaac 平台用於通用型機器人，推出新的參考人形機器人、框架、模擬流程與資料</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data</guid>
-      <pubDate>Wed, 21 Oct 2026 10:20:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今天宣布大幅擴充 NVIDIA Isaac™ 開放式機器人開發平台，新增參考人形機器人、資料集與執行環境，並更新其機器人學習框架。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/60166df62390290b4e42955e120a2b98/6ad7dc703d6332c412cb755d_nvidia-isaac-platform/nvidia-isaac-platform_thmb.jpg?v=ea97245c-b97b-4ba5-a30e-d4aed319c5d8" alt=""></p><p>NVIDIA 今天宣布大幅擴充 NVIDIA Isaac™ 開放式機器人開發平台，新增參考人形機器人、資料集與執行環境，並更新其機器人學習框架。</p>]]></content:encoded>
     </item>
     <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
