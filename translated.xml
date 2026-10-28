@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:48:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:03:23 GMT</lastBuildDate>
+    <item>
+      <title>Reddit 是最新擁抱「為你」動態消息的平台</title>
+      <link>https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182510</guid>
+      <pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「為你」動態消息結合了使用者已加入社群的貼文，以及依據他們興趣量身打造的推薦內容。</description>
+    </item>
+    <item>
+      <title>AI 高層可能太脫節，無法為一般大眾打造產品</title>
+      <link>https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182042</guid>
+      <pubDate>Wed, 28 Oct 2026 15:53:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>科技業領袖一邊吹噓自己有多脫節，一邊又說他們用 AI 來和家人建立連結。</description>
+    </item>
+    <item>
+      <title>川普政府教育部向將為資料中心供電的核電廠提供 50 億美元貸款</title>
+      <link>https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182591</guid>
+      <pubDate>Wed, 28 Oct 2026 15:53:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Constellation Energy 將獲得 50 億美元政府貸款，用於現代化核反應爐。新增產能的大部分已由 Google、Amazon 和 Meta 預先承諾採用。</description>
+    </item>
     <item>
       <title>南韓金融業遭新一波網路攻擊</title>
       <link>https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/</link>
@@ -204,33 +231,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這裡有一個清楚的說明，解釋 Anthropic 極其複雜的治理結構。</description>
-    </item>
-    <item>
-      <title>Discord 正讓它的公開社群更容易被搜尋到，這讓一些人感到擔憂</title>
-      <link>https://techcrunch.com/2026/10/27/discord-is-making-its-public-communities-more-searchable-and-people-have-concerns/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182277</guid>
-      <pubDate>Tue, 27 Oct 2026 21:22:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從 12 月開始，來自 Discord 可公開探索的伺服器訊息將開始出現在搜尋引擎結果中。</description>
-    </item>
-    <item>
-      <title>Re:Build 旗下分拆出的 Slate Auto 募得 21 億美元</title>
-      <link>https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182261</guid>
-      <pubDate>Tue, 27 Oct 2026 20:31:17 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家製造加速器自稱是「美國對深圳的回應」。</description>
-    </item>
-    <item>
-      <title>Disruptive 募集 100 億美元基金，至少重押 10 家公司</title>
-      <link>https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182189</guid>
-      <pubDate>Tue, 27 Oct 2026 18:55:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Disruptive 近年因砸錢投資晶片新創 Groq 和 AI 語音生成新創 ElevenLabs 等公司而登上新聞版面。</description>
     </item>
     <item>
       <title>成為 Frontier 的平台方法</title>
