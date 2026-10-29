@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:13:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:29:06 GMT</lastBuildDate>
     <item>
       <title>切入 GFN Thursday：《Phantom Blade Zero》登陸 GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</link>
@@ -56,6 +56,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>再過 6 天，TechCrunch Founder Summit 將於 11 月 4 日在波士頓匯集經驗豐富的創辦人、投資人和營運者，分享塑造其公司發展的決策、錯誤、轉向與經驗教訓。活動開始前報名可享票價優惠與折扣。</description>
+    </item>
+    <item>
+      <title>Gemini 如何在教室中幫助學生和老師</title>
+      <link>https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>來自英國和義大利的新研究顯示，Gemini 可提升學生學習效果，並幫助老師促進教室中更積極的學習。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp" alt=""></p><p>來自英國和義大利的新研究顯示，Gemini 可提升學生學習效果，並幫助老師促進教室中更積極的學習。</p>]]></content:encoded>
     </item>
     <item>
       <title>與新加坡合作，將前沿 AI 帶入公共衛生</title>
@@ -227,16 +239,16 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Meta-Partners-With-Five-US-Universities-to-Accelerate-Medical-and-Scientific-Breakthroughs_Header.jpg?fit=1920%2C1080" alt=""></p><p>Meta 正將超級智慧模型、研究資金以及研究人員直接合作，帶到使用我們模型來解決科學與醫學關鍵問題的美國大學。<br>〈Meta 與美國五所大學合作，加速醫療與科學突破〉一文最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 4 Carbon：我們的下一個前沿模型</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</guid>
+      <title>一次建立和管理 Connected Apps</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/</guid>
       <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</p>]]></content:encoded>
+      <description>我們宣布新的 Connected Apps 合作夥伴，以及一個讓開發者在同一個地方建立和追蹤應用程式的新平台。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp" alt=""></p><p>我們宣布新的 Connected Apps 合作夥伴，以及一個讓開發者在同一個地方建立和追蹤應用程式的新平台。</p>]]></content:encoded>
     </item>
     <item>
       <title>XREAL AURA：有線 XR 眼鏡，用來看、工作和玩</title>
@@ -251,16 +263,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ManinOffice_V2.max-600x600.format-webp.webp" alt=""></p><p>XREAL AURA 是首款由 Android XR 驅動的有線 XR 眼鏡，讓你隨時隨地在 Gemini 陪伴下工作、觀看和遊玩。</p>]]></content:encoded>
     </item>
     <item>
-      <title>一次建立和管理 Connected Apps</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/</guid>
+      <title>Gemini 4 Carbon：我們的下一個前沿模型</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</guid>
       <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>我們宣布新的 Connected Apps 合作夥伴，以及一個讓開發者在同一個地方建立和追蹤應用程式的新平台。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp" alt=""></p><p>我們宣布新的 Connected Apps 合作夥伴，以及一個讓開發者在同一個地方建立和追蹤應用程式的新平台。</p>]]></content:encoded>
+      <description>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</p>]]></content:encoded>
     </item>
     <item>
       <title>Chrome 的強化自動填入功能，透過從 Gmail 擷取的建議幫你填寫表單。</title>
@@ -722,18 +734,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://about.fb.com/wp-content/uploads/2026/10/New-Tools-for-the-Admins-Who-Build-Communities-on-Forum-_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/New-Tools-for-the-Admins-Who-Build-Communities-on-Forum-_Header.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/New-Tools-for-the-Admins-Who-Build-Communities-on-Forum-_Header.jpg?fit=1920%2C1080" alt=""></p><p>我們正在為 Forum 推出新工具，讓管理員更容易管理社團。<br>〈為在 Forum 上建立社群的管理員推出新工具〉一文首先出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>看看 5 位開發者如何使用 Gemini 4 Argon 進行創作</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/</guid>
-      <pubDate>Fri, 23 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看五位開發者如何將 Gemini 4 Argon 用於實際開發，並為你的下一個專案汲取靈感。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5buildersArgon_Hero.max-600x600.format-webp.webp" alt=""></p><p>看看五位開發者如何將 Gemini 4 Argon 用於實際開發，並為你的下一個專案汲取靈感。</p>]]></content:encoded>
     </item>
     <item>
       <title>強化我們的前沿模型訓練環境安全</title>
