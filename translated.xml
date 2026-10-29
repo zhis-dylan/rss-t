@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:16:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:31:49 GMT</lastBuildDate>
     <item>
       <title>未來屬於每一個人：Meta 與 INCA 合作，支持加拿大的失明、盲聾與低視力人士</title>
       <link>https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/</link>
@@ -104,6 +104,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>週四，AI 應用程式 Wabi 現在將自己描述為「個人代理」，表示已在 12.5 億美元估值下募得 5500 萬美元。</description>
+    </item>
+    <item>
+      <title>Mistral 釋出其兆參數 AI 模型的權重，鎖定網路資安</title>
+      <link>https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182668</guid>
+      <pubDate>Thu, 29 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Mistral 表示，其新模型可讓組織在網路防禦上獲得某種程度的控制，而封閉模型做不到這一點。</description>
     </item>
     <item>
       <title>Bluesky 封鎖指向外洩的 DHS 員工資料連結，政府尋求下架</title>
@@ -344,15 +353,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/immersiveView_quasars_16x9_01_2.max-600x600.format-webp.webp" alt=""></p><p>今天，我們正在新的 Gemini 學生中心推出沉浸式探索。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Apple 推出全新觸控螢幕 MacBook Pro</title>
-      <link>https://techcrunch.com/2026/10/28/apple-launches-its-new-touchscreen-macbook-pro/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182446</guid>
-      <pubDate>Wed, 28 Oct 2026 17:26:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 全新觸控螢幕 MacBook Pro 售價自 2,899 美元起</description>
     </item>
     <item>
       <title>Apple 發表搭載 PROLED XDR 顯示器的突破性 MacBook Pro</title>
