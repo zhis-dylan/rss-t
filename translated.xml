@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:29:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:44:47 GMT</lastBuildDate>
+    <item>
+      <title>Wabi，打造迷你應用程式的 AI 代理，在最新一輪融資後估值達 12.5 億美元</title>
+      <link>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183066</guid>
+      <pubDate>Thu, 29 Oct 2026 14:35:26 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>週四，AI 應用程式 Wabi 現在將自己描述為「個人代理」，表示已在 12.5 億美元估值下募得 5500 萬美元。</description>
+    </item>
     <item>
       <title>Bluesky 封鎖指向外洩的 DHS 員工資料連結，政府尋求下架</title>
       <link>https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/</link>
@@ -349,15 +358,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>「為你」動態消息結合了使用者已加入社群的貼文，以及依據他們興趣量身打造的推薦內容。</description>
-    </item>
-    <item>
-      <title>AI 高層可能太脫節，無法為一般大眾打造產品</title>
-      <link>https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182042</guid>
-      <pubDate>Wed, 28 Oct 2026 15:53:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>科技業領袖一邊吹噓自己有多脫節，一邊又說他們用 AI 來和家人建立連結。</description>
     </item>
     <item>
       <title>NVIDIA RTX Spark Windows 筆記型電腦新增模型、代理工具和遊戲</title>
