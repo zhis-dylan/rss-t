@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:20:07 GMT</lastBuildDate>
     <item>
       <title>幣安在疑似駭客竊取數十億加密貨幣後暫停提領</title>
       <link>https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/</link>
@@ -179,6 +179,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp" alt=""></p><p>直接在 Gemini 中生成、編輯和預覽 PDF 或文件。今天就用全螢幕編輯器來完善你的檔案。看看 Gemini 有什麼新功能。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>科羅拉多州學生參加 Google 黑客松，解決電網挑戰。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 科羅拉多州影響力黑客松的學生打造了像 SolarSnap 這樣的 AI 工具，以現代化電力網。點此查看得獎創新。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp" alt=""></p><p>Google 科羅拉多州影響力黑客松的學生打造了像 SolarSnap 這樣的 AI 工具，以現代化電力網。點此查看得獎創新。</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini Notebook 讓數百本教科書可供學生學習更多內容。</title>
@@ -404,16 +416,16 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Meta-Partners-With-Five-US-Universities-to-Accelerate-Medical-and-Scientific-Breakthroughs_Header.jpg?fit=1920%2C1080" alt=""></p><p>Meta 正將超級智慧模型、研究資金以及研究人員直接合作，帶到使用我們模型來解決科學與醫學關鍵問題的美國大學。<br>〈Meta 與美國五所大學合作，加速醫療與科學突破〉一文最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>一次建立和管理 Connected Apps</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/</guid>
+      <title>Gemini 4 Carbon：我們的下一個前沿模型</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</guid>
       <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>我們宣布新的 Connected Apps 合作夥伴，以及一個讓開發者在同一個地方建立和追蹤應用程式的新平台。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp" alt=""></p><p>我們宣布新的 Connected Apps 合作夥伴，以及一個讓開發者在同一個地方建立和追蹤應用程式的新平台。</p>]]></content:encoded>
+      <description>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</p>]]></content:encoded>
     </item>
     <item>
       <title>XREAL AURA：有線 XR 眼鏡，用來看、工作和玩</title>
@@ -428,16 +440,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ManinOffice_V2.max-600x600.format-webp.webp" alt=""></p><p>XREAL AURA 是首款由 Android XR 驅動的有線 XR 眼鏡，讓你隨時隨地在 Gemini 陪伴下工作、觀看和遊玩。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 4 Carbon：我們的下一個前沿模型</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/</guid>
+      <title>一次建立和管理 Connected Apps</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/connected-apps-one-place/</guid>
       <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</p>]]></content:encoded>
+      <description>我們宣布新的 Connected Apps 合作夥伴，以及一個讓開發者在同一個地方建立和追蹤應用程式的新平台。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_ConnectedApps_1027_2.max-600x600.format-webp.webp" alt=""></p><p>我們宣布新的 Connected Apps 合作夥伴，以及一個讓開發者在同一個地方建立和追蹤應用程式的新平台。</p>]]></content:encoded>
     </item>
     <item>
       <title>Chrome 的強化自動填入功能，透過從 Gmail 擷取的建議幫你填寫表單。</title>
@@ -681,18 +693,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>隨著今天推出的 27.2 軟體更新，Siri AI 將擴展支援法文、日文、韓文、葡萄牙文和西班牙文。</description>
-    </item>
-    <item>
-      <title>15 位大學生分享他們最喜歡的 Gemini 功能</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/</guid>
-      <pubDate>Mon, 26 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們詢問了 15 位大學生，請他們分享自己最喜歡用於學習、讀書、做筆記等用途的 Gemini 功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/College_Fave_Gemini_Features_he.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/College_Fave_Gemini_Features_he.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/College_Fave_Gemini_Features_he.max-600x600.format-webp.webp" alt=""></p><p>我們詢問了 15 位大學生，請他們分享自己最喜歡用於學習、讀書、做筆記等用途的 Gemini 功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出自願離職方案</title>
