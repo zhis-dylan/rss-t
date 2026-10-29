@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 23:35:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 23:50:27 GMT</lastBuildDate>
+    <item>
+      <title>Andy Jassy 表示 Prime Video 預計將賺進「數百億美元」</title>
+      <link>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183393</guid>
+      <pubDate>Thu, 29 Oct 2026 23:44:56 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 執行長表示，像《Project Hail Mary》和《Verity》這類大片的成功只是故事的一部分。</description>
+    </item>
+    <item>
+      <title>Jassy 表示，AWS 將成為 1 兆美元業務。但首先，它會大手筆花錢。</title>
+      <link>https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183387</guid>
+      <pubDate>Thu, 29 Oct 2026 23:42:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Amazon 想成為 AI 雲端運算的王者，並成為第一個營收達 1 兆美元的企業。但執行長週四表示，要做到這點，它必須持續進行資本支出狂潮。</description>
+    </item>
     <item>
       <title>幣安在疑似駭客竊取數十億加密貨幣後暫停提領</title>
       <link>https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/</link>
@@ -242,24 +260,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Mistral 表示，其新模型可讓組織在網路防禦上獲得某種程度的控制，而封閉模型做不到這一點。</description>
-    </item>
-    <item>
-      <title>Bluesky 封鎖指向外洩的 DHS 員工資料連結，政府尋求下架</title>
-      <link>https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183043</guid>
-      <pubDate>Thu, 29 Oct 2026 13:43:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這個社群網站因封鎖該網站的存取而遭到批評；該網站辨識出數千名 ICE 探員以及其他在國土安全部工作的員工。</description>
-    </item>
-    <item>
-      <title>DoorDash 將以 170 億美元收購 Instacart</title>
-      <link>https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183041</guid>
-      <pubDate>Thu, 29 Oct 2026 13:40:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這項收購將把兩大即時外送領域的玩家納入同一屋簷下，結合 DoorDash 在餐廳外帶市場的主導地位，以及 Instacart 在雜貨配送方面的觸及範圍。</description>
     </item>
     <item>
       <title>切入 GFN Thursday：《Phantom Blade Zero》登陸 GeForce NOW</title>
