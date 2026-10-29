@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:44:16 GMT</lastBuildDate>
+    <item>
+      <title>Bluesky 封鎖指向外洩的 DHS 員工資料連結，政府尋求下架</title>
+      <link>https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183043</guid>
+      <pubDate>Thu, 29 Oct 2026 13:43:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個社群網站因封鎖該網站的存取而遭到批評；該網站辨識出數千名 ICE 探員以及其他在國土安全部工作的員工。</description>
+    </item>
+    <item>
+      <title>DoorDash 將以 170 億美元收購 Instacart</title>
+      <link>https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183041</guid>
+      <pubDate>Thu, 29 Oct 2026 13:40:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項收購將把兩大即時外送領域的玩家納入同一屋簷下，結合 DoorDash 在餐廳外帶市場的主導地位，以及 Instacart 在雜貨配送方面的觸及範圍。</description>
+    </item>
     <item>
       <title>切入 GFN Thursday：《Phantom Blade Zero》登陸 GeForce NOW</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</link>
@@ -340,24 +358,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>科技業領袖一邊吹噓自己有多脫節，一邊又說他們用 AI 來和家人建立連結。</description>
-    </item>
-    <item>
-      <title>川普政府教育部向將為資料中心供電的核電廠提供 50 億美元貸款</title>
-      <link>https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182591</guid>
-      <pubDate>Wed, 28 Oct 2026 15:53:21 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Constellation Energy 將獲得 50 億美元政府貸款，用於現代化核反應爐。新增產能的大部分已由 Google、Amazon 和 Meta 預先承諾採用。</description>
-    </item>
-    <item>
-      <title>南韓金融業遭新一波網路攻擊</title>
-      <link>https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182513</guid>
-      <pubDate>Wed, 28 Oct 2026 15:41:18 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>南韓的金融機構又遭遇新一波網路攻擊，凸顯出亞洲由 AI 驅動的駭客攻擊風險日益升高。</description>
     </item>
     <item>
       <title>NVIDIA RTX Spark Windows 筆記型電腦新增模型、代理工具和遊戲</title>
