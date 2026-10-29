@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:59:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 15:15:06 GMT</lastBuildDate>
+    <item>
+      <title>Agent identity 新創公司 Mintive 獲得 Cowboy Ventures、Coatue、以及天使投資人 Jeff Dean、Andrej Karpathy 投資</title>
+      <link>https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3182590</guid>
+      <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Mintive 由兩位工程師創立，他們透過 Google Brain、Coursera 在 AI 領域工作了數十年。其平台承諾協助 IT 輕鬆管理企業代理人</description>
+    </item>
     <item>
       <title>Wabi，打造迷你應用程式的 AI 代理，在最新一輪融資後估值達 12.5 億美元</title>
       <link>https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/</link>
@@ -349,15 +358,6 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>如果你想要競爭，就必須支援多模型。如果你想充分利用不同 AI 模型所提供的一切，你就需要一個出色的 harness。但要打造一個能在多個模型與表面之間無縫運作的系統，難度非常高。你必須同時解決效能、品質和成本問題。而……
 〈介紹 Microsoft Copilot harness：釋放真正多模型代理式工作的潛力〉一文最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>Reddit 是最新擁抱「為你」動態消息的平台</title>
-      <link>https://techcrunch.com/2026/10/28/reddit-is-the-latest-platform-to-embrace-the-for-you-feed/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182510</guid>
-      <pubDate>Wed, 28 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「為你」動態消息結合了使用者已加入社群的貼文，以及依據他們興趣量身打造的推薦內容。</description>
     </item>
     <item>
       <title>NVIDIA RTX Spark Windows 筆記型電腦新增模型、代理工具和遊戲</title>
