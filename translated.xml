@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 20:48:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:03:51 GMT</lastBuildDate>
+    <item>
+      <title>GM 就販售駕駛人私人資料達成 2.2 億美元和解</title>
+      <link>https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183294</guid>
+      <pubDate>Thu, 29 Oct 2026 21:01:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據和解內容，GM 在蒐集或分享駕駛人的行車與位置資料前，必須先取得駕駛人明確同意。</description>
+    </item>
     <item>
       <title>同人小說網站 Archive of Our Own 可能會離線長達 4 週</title>
       <link>https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/</link>
@@ -317,15 +326,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp" alt=""></p><p>Google 宣布成立新的研究中心，並推出多項計畫，以支援臨床醫師、推進研究，並幫助新加坡民眾過上更健康的生活。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Upwind 在拒絕 Datadog 收購提議後募得 4 億美元</title>
-      <link>https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182918</guid>
-      <pubDate>Wed, 28 Oct 2026 23:15:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家雲端資安新創以 38 億美元估值完成 C 輪募資，而不是以同樣的價格把公司賣掉。</description>
     </item>
     <item>
       <title>AI 模式中的廣告擴展至新市場。</title>
