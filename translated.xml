@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 21:49:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 22:04:26 GMT</lastBuildDate>
+    <item>
+      <title>Elon Musk 是「真正的天才」，Vladimir Putin 說</title>
+      <link>https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183319</guid>
+      <pubDate>Thu, 29 Oct 2026 21:51:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Putin 表示，他和 Musk 就 Rassvet 進行「密切聯繫」，Rassvet 是俄羅斯類似 Starlink 的衛星連網計畫。</description>
+    </item>
     <item>
       <title>Amazon 公布雲端營收大幅成長，但其他表現未達預期</title>
       <link>https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/</link>
@@ -263,15 +272,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Deepgram 表示，將持續維持 Pipecat 開源。</description>
-    </item>
-    <item>
-      <title>Amazon 更新 Alexa，協助你管理購物清單、訂閱項目，並更新送貨指示</title>
-      <link>https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182981</guid>
-      <pubDate>Thu, 29 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這次更新可讓你使用 Alexa 建立清單、登錄清單、查看清單內容，以及新增或編輯項目。你也可以透過這個 AI 機器人管理訂閱項目。</description>
     </item>
     <item>
       <title>如何使用 Gemini 更新你的履歷</title>
