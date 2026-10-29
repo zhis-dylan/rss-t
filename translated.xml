@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 03:24:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 03:39:34 GMT</lastBuildDate>
+    <item>
+      <title>與新加坡合作，將前沿 AI 帶入公共衛生</title>
+      <link>https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/</guid>
+      <pubDate>Thu, 29 Oct 2026 03:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 宣布成立新的研究中心，並推出多項計畫，以支援臨床醫師、推進研究，並幫助新加坡民眾過上更健康的生活。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/singapore_health_summit_hero_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/singapore_health_summit_hero_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/singapore_health_summit_hero_.max-600x600.format-webp.webp" alt=""></p><p>Google 宣布成立新的研究中心，並推出多項計畫，以支援臨床醫師、推進研究，並幫助新加坡民眾過上更健康的生活。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Upwind 在拒絕 Datadog 收購提議後募得 4 億美元</title>
       <link>https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/</link>
@@ -809,18 +821,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>從這個星期五開始，iPhone Duo 使用者可以發掘專為首款可摺疊 iPhone 最佳化的精彩 App 和遊戲。</description>
-    </item>
-    <item>
-      <title>我們正與 Voltus 合作打造一座 1 GW 虛擬電廠。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/virtual-power-plant-1-gigawatt/</guid>
-      <pubDate>Thu, 22 Oct 2026 11:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 和 Voltus 正在打造一座 1 GW 虛擬電廠，以提升 6,700 萬人的電網可靠度。了解這項擴展如何運作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_x_Voltus_Final_Video_Thu.max-600x600.format-webp.webp" alt=""></p><p>Google 和 Voltus 正在打造一座 1 GW 虛擬電廠，以提升 6,700 萬人的電網可靠度。了解這項擴展如何運作。</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 的 FDE 是什麼</title>
