@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:46:10 GMT</lastBuildDate>
+    <item>
+      <title>美國調查鎖定針對 NVIDIA 執行長的中國間諜陰謀</title>
+      <link>https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183099</guid>
+      <pubDate>Thu, 29 Oct 2026 16:42:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據《紐約時報》引述消息人士報導，一家新加坡 AI 雲端公司的高階主管先前被指控非法向中國出售 NVIDIA 晶片，據稱也可能是中國間諜。</description>
+    </item>
     <item>
       <title>前 Palantir 高層創立 Dream，獲 a16z 投資 1700 萬美元打造用於營建的 AI 世界模型</title>
       <link>https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</link>
@@ -387,15 +396,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp" alt=""></p><p>Chrome 現在會從 Gmail 擷取航班訂位資訊和訂單號碼，以自動填入表單。立即看看 Chrome 中的 Gemini 如何簡化你的資料輸入。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Xreal Aura 是一款由 Android XR 驅動的新有線頭戴裝置</title>
-      <link>https://techcrunch.com/2026/10/28/xreal-aura-is-a-new-wired-headset-powered-by-android-xr/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182477</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Xreal Aura 的起售價為 1,279 美元，上市時將提供多個 XR 專用的首發應用程式</description>
     </item>
     <item>
       <title>介紹 Microsoft Copilot harness：釋放真正多模型代理式工作的潛力</title>
