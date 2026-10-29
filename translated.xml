@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 16:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 16:31:01 GMT</lastBuildDate>
+    <item>
+      <title>前 Palantir 高層創立 Dream，獲 a16z 投資 1700 萬美元打造用於營建的 AI 世界模型</title>
+      <link>https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183106</guid>
+      <pubDate>Thu, 29 Oct 2026 16:21:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 1 億平方英尺的建築許可資料上訓練，Dream 想用 AI 挑戰 Autodesk。</description>
+    </item>
+    <item>
+      <title>SuperMe 募得 2000 萬美元，打造其 AI 專家個人檔案網路</title>
+      <link>https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183042</guid>
+      <pubDate>Thu, 29 Oct 2026 16:19:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>SuperMe 剛募得 2000 萬美元，讓你可以去騷擾矽谷最精明那些人的 AI 分身，請教你的職涯問題。</description>
+    </item>
     <item>
       <title>你現在可以直接在 Gemini 中生成、預覽和編輯文件、PDF、簡報、試算表等內容。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/edit-files-directly/</link>
@@ -378,24 +396,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Xreal Aura 的起售價為 1,279 美元，上市時將提供多個 XR 專用的首發應用程式</description>
-    </item>
-    <item>
-      <title>隨著 AI 代理重塑網路，Google 向更多應用程式開放 Gemini 和搜尋功能</title>
-      <link>https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182509</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>一個新的開發者平台將讓企業把他們的服務帶入 Google 的 AI 體驗中，可能改變消費者發現和使用應用程式的方式。</description>
-    </item>
-    <item>
-      <title>Chrome 由 AI 驅動的自動填入現在可以讀取你的 Gmail 來填寫表單</title>
-      <link>https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182578</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這次自動填入更新讓 Chrome 在你允許下，從收件匣中擷取航班確認信、追蹤資訊、訂單細節和其他資訊。</description>
     </item>
     <item>
       <title>介紹 Microsoft Copilot harness：釋放真正多模型代理式工作的潛力</title>
