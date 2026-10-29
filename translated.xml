@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 29 Oct 2026 17:31:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 17:47:00 GMT</lastBuildDate>
     <item>
       <title>未來屬於每一個人：Meta 與 INCA 合作，支持加拿大的失明、盲聾與低視力人士</title>
       <link>https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/</link>
@@ -23,6 +23,15 @@
       <source url="https://about.fb.com/feed/">About Facebook</source>
       <dc:creator>About Facebook</dc:creator>
       <description>我們相信未來屬於每一個人。這就是 Meta 與 CNIB 合作的原因。CNIB 是一個成立於 1918 年的非營利組織，致力於賦能受失明影響的加拿大人實現夢想，目的是幫助更多失明、盲聾或有低視力的加拿大人受惠於 AI 眼鏡。這項合作的目標，是協助失明、盲聾或有低視力的人探索 AI 穿戴式技術的可能性，並運用社群的知識、專業與親身經驗，打造更易於使用的未來。Meta 的資金將支持 CNIB 在四個領域的工作：傾聽社群心聲：在加拿大各地與人們互動，了解他們的經驗，以及 AI 眼鏡如何在日常生活中帶來更大的獨立性。支持社群倡議者：支持失明、盲聾或有低視力的加拿大人帶領實體同儕培訓與展示，並在他們的社群中蒐集坦誠的產品回饋。引導產品開發：將社群洞見分享給 Meta 的無障礙與產品團隊，協助改善未來的技術。讓學習更易取得：提供無障礙的指南、培訓教材與資源，讓人們無論身在何處都能使用。除了提供資金協助推動包容性創新外，Meta 也透過 CNIB 的 Come to Work 計畫捐贈 AI 眼鏡，這項計畫會把工具交到正在探索就業機會並建立職涯的人手中。該計畫提供培訓與實用資源，幫助參與者評估穿戴式技術如何協助他們找到工作、在工作中成功，並追求自己的目標。人們使用 Meta 的 AI 眼鏡來做各種事，從聽音樂、即時翻譯到免持通話都有。但對失明或低視力人士來說，這些眼鏡帶來的改變可能會改變人生——協助處理日常工作，例如閱讀文字、辨識物體與描述周遭世界，並幫助人們更獨立地生活。這項合作建立在我們與全球失明與低視力社群的工作之上，包括與 Blinded Veterans Association 合作，向美國每一位失明退伍軍人捐贈 Ray-Ban Meta 眼鏡，以及我們與 Vision Ireland 的合作。CNIB 執行長 Angela Bonfanti 表示：「最好的技術，是與將使用它的人一起塑造的。」她說：「失明、盲聾或有低視力的人，對於仍然存在的障礙，以及像 AI 眼鏡這樣的工具如何在日常生活中提供更多選擇、自由與獨立性，帶來了寶貴的專業見解。這項合作為讓這些專業直接影響 Meta 的工作並協助塑造下一步，建立了一條直接路徑。」Meta 無障礙副總裁 Maxine Williams 表示：「我們相信未來屬於每一個人。像這樣的合作，讓 Meta 的 AI 眼鏡能觸及更多失明、盲聾與低視力的加拿大人，在工作中與日常生活中都能使用。直接與 CNIB 及其社群——也就是每天使用這些眼鏡的人——合作，能幫助我們為每個人打造更好的產品。」若要進一步了解 Meta 的無障礙工作，以及內建於 Meta AI 眼鏡的功能，請參見。The post The Future Is for Everyone: Meta and CNIB Partner to Support Canadians Who Are Blind, Deafblind or Have Low Vision appeared first on Meta Newsroom.</description>
+    </item>
+    <item>
+      <title>更適用且更有助益的 AI 的更新版 Model Spec</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid isPermaLink="false">https://openai.com/index/updated-model-spec</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 更新版 Model Spec 概述五項核心價值，引導更強大的 AI 朝向良好判斷、人類主導權，以及對人類意圖的忠實性。</description>
     </item>
     <item>
       <title>美國調查鎖定針對 NVIDIA 執行長的中國間諜陰謀</title>
@@ -215,6 +224,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp" alt=""></p><p>來自英國和義大利的新研究顯示，Gemini 可提升學生學習效果，並幫助老師促進教室中更積極的學習。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ropes &amp; Gray 如何運用 AI 進行交易盡職調查</title>
+      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
+      <guid isPermaLink="false">https://openai.com/index/ropes-gray-ai-diligence</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Ropes &amp; Gray 正與 OpenAI 合作，開發用於交易盡職調查的 AI。律師會先審閱分組文件、摘要和報告，再向客戶提供建議。</description>
     </item>
     <item>
       <title>與新加坡合作，將前沿 AI 帶入公共衛生</title>
@@ -1836,13 +1854,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
-      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
@@ -1854,13 +1872,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
+      <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+      <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1951,24 +1969,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 提出一條通往共享全球 AI 標準的路徑，呼籲協調一致的評估、報告與治理，以提升安全性。</description>
-    </item>
-    <item>
-      <title>擴充 OpenAI Academy，新增學習路徑</title>
-      <link>https://openai.com/index/expanding-openai-academy-with-new-learning-paths</link>
-      <guid isPermaLink="false">https://openai.com/index/expanding-openai-academy-with-new-learning-paths</guid>
-      <pubDate>Mon, 21 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索新的 OpenAI Academy 學習路徑，讓員工、開發者、領導者、教育工作者與學生培養並展現實用的 AI 技能。</description>
-    </item>
-    <item>
-      <title>V7 如何讓 AI 代理擁有企業級記憶</title>
-      <link>https://openai.com/index/v7</link>
-      <guid isPermaLink="false">https://openai.com/index/v7</guid>
-      <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>運用 GPT-5.6，V7 將零散的公司檔案轉化為代理可用的脈絡，以完成複雜且有來源連結的工作。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
