@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:57:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:13:13 GMT</lastBuildDate>
+    <item>
+      <title>Theranos 吹哨者 Tyler Shultz 警告，AI 熱潮是「欺騙人們的絕佳機會」</title>
+      <link>https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183613</guid>
+      <pubDate>Fri, 30 Oct 2026 16:03:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Theranos 的警示故事在 AI 時代有了新的意義，因為那些從未獲利的公司正以兆美元估值籌集資金。</description>
+    </item>
+    <item>
+      <title>2 分鐘內查看誰有權存取你的 Gmail 收件匣。</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/google-security-checkup/</guid>
+      <pubDate>Fri, 30 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>執行快速的 Google 安全檢查，透過三個簡單快速的步驟保護你的電子郵件。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security-Checkup-Thumbnail_Phon.max-600x600.format-webp.webp" alt=""></p><p>執行快速的 Google 安全檢查，透過三個簡單快速的步驟保護你的電子郵件。</p>]]></content:encoded>
+    </item>
     <item>
       <title>夜裡發出嗶嗶聲的東西：代理式 AI 加入搜尋外星訊號的行列</title>
       <link>https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</link>
@@ -190,15 +211,6 @@
       <description>Airbnb 的非營利組織於週三在洛杉磯舉辦了首屆晚宴，而網路只有一個反應——那個「什麼」晚宴？</description>
     </item>
     <item>
-      <title>Meta 悄悄推出一款名為 Style Sketch 的 AI 時尚應用程式</title>
-      <link>https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183122</guid>
-      <pubDate>Thu, 29 Oct 2026 19:14:36 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款應用程式會連接 Instagram，從你已經分享過的照片建立虛擬衣櫥，或讓你透過拍照、快速錄影，或從相簿上傳圖片來手動新增單品。</description>
-    </item>
-    <item>
       <title>未來屬於每一個人：Meta 與 INCA 合作，支持加拿大的失明、盲聾與低視力人士</title>
       <link>https://about.fb.com/news/2026/10/lavenir-appartient-a-tous-meta-et-inca-sassocient-pour-soutenir-les-personnes-aveugles-sourdes-et-aveugles-ou-ayant-une-basse-vision-au-canada/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=50793</guid>
@@ -250,18 +262,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp" alt=""></p><p>Google 科羅拉多州影響力黑客松的學生打造了像 SolarSnap 這樣的 AI 工具，以現代化電力網。點此查看得獎創新。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini Notebook 讓數百本教科書可供學生學習更多內容。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" alt=""></p><p>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Google Photos 的這些技巧一起慶祝萬聖節。</title>
       <link>https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</guid>
@@ -272,6 +272,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" alt=""></p><p>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini Notebook 讓數百本教科書可供學生學習更多內容。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" alt=""></p><p>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</p>]]></content:encoded>
     </item>
     <item>
       <title>切入 GFN Thursday：《Phantom Blade Zero》登陸 GeForce NOW</title>
@@ -627,18 +639,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ExamplesofArgon_Hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ExamplesofArgon_Hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ExamplesofArgon_Hero.max-600x600.format-webp.webp" alt=""></p><p>從深度研究到互動設計，以下是 Gemini 4 Argon——我們目前最聰明的模型——所能做到的八個範例。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Fitbit Edge：為活躍生活而設的高級設計</title>
-      <link>https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/fitbit/fitbit-edge-design/</guid>
-      <pubDate>Tue, 27 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過重新構思的螢幕、精緻的機械結構與更出色的風格，Fitbit Edge 年復一年都能兼顧外觀與效能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FitEdge_Metal_Links_Matte_Black.max-600x600.format-webp.webp" alt=""></p><p>透過重新構思的螢幕、精緻的機械結構與更出色的風格，Fitbit Edge 年復一年都能兼顧外觀與效能。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple 推出搭載 M6 的全新 14 吋 MacBook Pro</title>
