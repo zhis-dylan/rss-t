@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:56:40 GMT</lastBuildDate>
+    <item>
+      <title>DoorDash 表示，它只收到來自 AI 代理的「數百筆」訂單</title>
+      <link>https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183579</guid>
+      <pubDate>Fri, 30 Oct 2026 13:54:25 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>DoorDash 表示，願意與第三方代理開發商合作</description>
+    </item>
     <item>
       <title>AI 資料中心能像汽車一樣大量生產嗎？這家新創想找出答案</title>
       <link>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</link>
@@ -194,15 +203,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 更新版 Model Spec 概述五項核心價值，引導更強大的 AI 朝向良好判斷、人類主導權，以及對人類意圖的忠實性。</description>
-    </item>
-    <item>
-      <title>美國調查鎖定針對 NVIDIA 執行長的中國間諜陰謀</title>
-      <link>https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183099</guid>
-      <pubDate>Thu, 29 Oct 2026 16:42:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據《紐約時報》引述消息人士報導，一家新加坡 AI 雲端公司的高階主管先前被指控非法向中國出售 NVIDIA 晶片，據稱也可能是中國間諜。</description>
     </item>
     <item>
       <title>你現在可以直接在 Gemini 中生成、預覽和編輯文件、PDF、簡報、試算表等內容。</title>
