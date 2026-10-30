@@ -5,7 +5,34 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 30 Oct 2026 21:46:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 22:01:35 GMT</lastBuildDate>
+    <item>
+      <title>英特爾股價暴跌，讓政府持股市值蒸發 120 億美元</title>
+      <link>https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183862</guid>
+      <pubDate>Fri, 30 Oct 2026 21:54:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 產業大量消耗記憶體和其他零組件，導致 PC 價格上漲，進而打擊英特爾的 PC 銷售。</description>
+    </item>
+    <item>
+      <title>報導稱，Anthropic 在 IPO 後預計將獲信用評等機構給予高風險「垃圾級」評等</title>
+      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183715</guid>
+      <pubDate>Fri, 30 Oct 2026 21:52:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這份新報告指出，這家 AI 實驗室很可能會被評為高風險的垃圾級評等。</description>
+    </item>
+    <item>
+      <title>Applebee’s 因將資料庫密碼留在 app 中，導致顧客個人資料外洩</title>
+      <link>https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183884</guid>
+      <pubDate>Fri, 30 Oct 2026 21:48:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>獨家：一名資安研究員在 Applebee’s 的 app 中發現硬編碼憑證，讓人得以不受限制地存取顧客個人資料。</description>
+    </item>
     <item>
       <title>給科技宅的最後一刻萬聖節裝扮</title>
       <link>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/</link>
@@ -199,6 +226,15 @@
       <description>University of Kentucky 的管理人員 David Durman 最近獲得了在職場中不使用 AI 的宗教豁免。</description>
     </item>
     <item>
+      <title>合理使用對所有人都有好處</title>
+      <link>https://openai.com/index/fair-use-benefits-everyone</link>
+      <guid isPermaLink="false">https://openai.com/index/fair-use-benefits-everyone</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 分享來自創作者、學者、無障礙倡議者和法律專家等提交給法院的書狀摘錄，說明合理使用如何支持 AI 訓練與創新。</description>
+    </item>
+    <item>
       <title>Andy Jassy 表示 Prime Video 預計將賺進「數百億美元」</title>
       <link>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3183393</guid>
@@ -224,33 +260,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>有些估計指出，駭客在週四的網路攻擊中，從全球最大的加密貨幣交易所幣安竊取了數十億加密貨幣。</description>
-    </item>
-    <item>
-      <title>Elon Musk 是「真正的天才」，Vladimir Putin 說</title>
-      <link>https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183319</guid>
-      <pubDate>Thu, 29 Oct 2026 21:51:29 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Putin 表示，他和 Musk 就 Rassvet 進行「密切聯繫」，Rassvet 是俄羅斯類似 Starlink 的衛星連網計畫。</description>
-    </item>
-    <item>
-      <title>Amazon 公布雲端營收大幅成長，但其他表現未達預期</title>
-      <link>https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183318</guid>
-      <pubDate>Thu, 29 Oct 2026 21:20:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這份報告最讓人失望的是其 24 億美元的負自由現金流。</description>
-    </item>
-    <item>
-      <title>GM 就販售駕駛人私人資料達成 2.2 億美元和解</title>
-      <link>https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183294</guid>
-      <pubDate>Thu, 29 Oct 2026 21:01:04 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據和解內容，GM 在蒐集或分享駕駛人的行車與位置資料前，必須先取得駕駛人明確同意。</description>
     </item>
     <item>
       <title>未來屬於每一個人：Meta 與 INCA 合作，支持加拿大的失明、盲聾與低視力人士</title>
@@ -1890,15 +1899,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
-    </item>
-    <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
       <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
       <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
@@ -1915,6 +1915,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+    </item>
+    <item>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1978,15 +1987,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑6 Astra 讓 Parallel 的代理能以比先前模型少一半的時間、少一半的成本，研究並彙整勞動市場資料。</description>
-    </item>
-    <item>
-      <title>有效第三方評估的優先事項與原則</title>
-      <link>https://openai.com/index/priorities-principles-third-party-assessments</link>
-      <guid isPermaLink="false">https://openai.com/index/priorities-principles-third-party-assessments</guid>
-      <pubDate>Tue, 22 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 說明對前沿模型與防護措施進行嚴謹、安全且獨立的第三方 AI 安全評估之優先事項與原則。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
