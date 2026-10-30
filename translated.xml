@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:57:59 GMT</lastBuildDate>
     <item>
       <title>夜裡發出嗶嗶聲的東西：代理式 AI 加入搜尋外星訊號的行列</title>
       <link>https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</link>
@@ -350,6 +350,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp" alt=""></p><p>Google 宣布成立新的研究中心，並推出多項計畫，以支援臨床醫師、推進研究，並幫助新加坡民眾過上更健康的生活。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Credit Saison 在 ChatGPT Enterprise 試點中實現 954% 投資報酬率</title>
+      <link>https://openai.com/index/credit-saison</link>
+      <guid isPermaLink="false">https://openai.com/index/credit-saison</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Credit Saison 的 ChatGPT Enterprise 試點帶來了 954% 的投資報酬率。了解主管和員工如何幫助將成果推動為全公司採用。</description>
     </item>
     <item>
       <title>AI 模式中的廣告擴展至新市場。</title>
@@ -1209,15 +1218,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
-      <link>https://openai.com/index/grupo-boticario</link>
-      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
-    </item>
-    <item>
       <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
       <link>https://openai.com/index/localiza-generative-ai</link>
       <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
@@ -1227,13 +1227,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
-      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
+      <link>https://openai.com/index/grupo-boticario</link>
+      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
+      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
     </item>
     <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
@@ -1243,6 +1243,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+    </item>
+    <item>
+      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1863,6 +1872,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
+    </item>
+    <item>
       <title>Sam Altman在聯合國安全理事會的發言</title>
       <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
       <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
@@ -1879,15 +1897,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
-    </item>
-    <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1969,15 +1978,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT-6 Astra，Higgsfield AI 讓小型企業更容易製作影片廣告，並更快將新的創意工具推向市場。</description>
-    </item>
-    <item>
-      <title>為 AI 下一階段建立標準</title>
-      <link>https://openai.com/index/building-standards-next-phase-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/building-standards-next-phase-ai</guid>
-      <pubDate>Mon, 21 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 提出一條通往共享全球 AI 標準的路徑，呼籲協調一致的評估、報告與治理，以提升安全性。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
