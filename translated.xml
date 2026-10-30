@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 30 Oct 2026 21:16:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:31:14 GMT</lastBuildDate>
+    <item>
+      <title>給科技宅的最後一刻萬聖節裝扮</title>
+      <link>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183738</guid>
+      <pubDate>Fri, 30 Oct 2026 21:26:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>沒有萬聖節裝扮？那就扮成一個看起來很無害的 AI 代理圖示、一個 PHP 漏洞，或是昏昏欲睡版的 Bryan Johnson。</description>
+    </item>
+    <item>
+      <title>AI 支出熱潮出現裂痕</title>
+      <link>https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183832</guid>
+      <pubDate>Fri, 30 Oct 2026 21:17:40 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>大型科技公司正把數十億美元投入 AI 基礎設施，但不斷增加的債務、負現金流，以及投資人日益升高的懷疑，正在引發對這波 AI 支出熱潮可持續性的質疑。</description>
+    </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
       <link>https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/</link>
@@ -233,24 +251,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據和解內容，GM 在蒐集或分享駕駛人的行車與位置資料前，必須先取得駕駛人明確同意。</description>
-    </item>
-    <item>
-      <title>同人小說網站 Archive of Our Own 可能會離線長達 4 週</title>
-      <link>https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183266</guid>
-      <pubDate>Thu, 29 Oct 2026 20:43:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Archive of Our Own 這個廣受歡迎的同人小說讀者與作者線上家園，向其社群帶來了壞消息。</description>
-    </item>
-    <item>
-      <title>隨著搜尋流量枯竭，Reddit 宣布將轉向登入後體驗</title>
-      <link>https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183224</guid>
-      <pubDate>Thu, 29 Oct 2026 20:08:31 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隨著 AI 重新定義人們如何在網路上尋找資訊，Reddit 正重新思考其開放網路的根基，以保護其受眾與業務。</description>
     </item>
     <item>
       <title>未來屬於每一個人：Meta 與 INCA 合作，支持加拿大的失明、盲聾與低視力人士</title>
