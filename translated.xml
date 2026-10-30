@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 30 Oct 2026 06:53:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 07:08:34 GMT</lastBuildDate>
+    <item>
+      <title>Waymo 找上 Toyota，為日本和英國供應 robotaxi</title>
+      <link>https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183508</guid>
+      <pubDate>Fri, 30 Oct 2026 07:01:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Waymo 明年將開始在日本測試 Toyota 電動 bZ4X 車款的自駕版本，這是與這家車廠更廣泛合作的一部分。</description>
+    </item>
     <item>
       <title>你不需要相信神明，也能獲得在工作中不使用 AI 的宗教豁免</title>
       <link>https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/</link>
@@ -242,15 +251,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" alt=""></p><p>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Agent identity 新創公司 Mintive 獲得 Cowboy Ventures、Coatue、以及天使投資人 Jeff Dean、Andrej Karpathy 投資</title>
-      <link>https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3182590</guid>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Mintive 由兩位工程師創立，他們透過 Google Brain、Coursera 在 AI 領域工作了數十年。其平台承諾協助 IT 輕鬆管理企業代理人</description>
     </item>
     <item>
       <title>Mistral 釋出其兆參數 AI 模型的權重，鎖定網路資安</title>
