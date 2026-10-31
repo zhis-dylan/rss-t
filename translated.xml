@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 31 Oct 2026 01:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 01:33:15 GMT</lastBuildDate>
+    <item>
+      <title>輝達考慮為 Nscale 在西維吉尼亞州的 AI 資料中心作擔保人</title>
+      <link>https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183989</guid>
+      <pubDate>Sat, 31 Oct 2026 01:20:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>當投資人對 AI 支出感到緊張時，如果賣晶片的晶片製造商願意幫忙共同擔保貸款，會有幫助。</description>
+    </item>
     <item>
       <title>Salesforce 的併購熱潮持續延燒，傳出以 3.75 億美元收購國防科技新創 Rune</title>
       <link>https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/</link>
@@ -251,15 +260,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 分享來自創作者、學者、無障礙倡議者和法律專家等提交給法院的書狀摘錄，說明合理使用如何支持 AI 訓練與創新。</description>
-    </item>
-    <item>
-      <title>Andy Jassy 表示 Prime Video 預計將賺進「數百億美元」</title>
-      <link>https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183393</guid>
-      <pubDate>Thu, 29 Oct 2026 23:44:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 執行長表示，像《Project Hail Mary》和《Verity》這類大片的成功只是故事的一部分。</description>
     </item>
     <item>
       <title>未來屬於每一個人：Meta 與 INCA 合作，支持加拿大的失明、盲聾與低視力人士</title>
