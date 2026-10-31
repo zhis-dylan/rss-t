@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 31 Oct 2026 13:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 14:08:36 GMT</lastBuildDate>
+    <item>
+      <title>我帶了兩支 iPhone 去度假。Duo 讓我改觀了。</title>
+      <link>https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183829</guid>
+      <pubDate>Sat, 31 Oct 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>iPhone Duo 雖然有些讓人困擾的地方，但它也夠有趣、夠吸引人，讓我不想再換回我的 Pro Max。</description>
+    </item>
     <item>
       <title>排隊投資、獲利分配與步調壓力：VC 背後的投資人打開話匣子</title>
       <link>https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/</link>
@@ -242,15 +251,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在強化 ChatGPT 的暴力預防機制，透過擴大防護措施、更早介入，以及新增公開安全報告承諾。</description>
-    </item>
-    <item>
-      <title>Waymo 找上 Toyota，為日本和英國供應 robotaxi</title>
-      <link>https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183508</guid>
-      <pubDate>Fri, 30 Oct 2026 07:01:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Waymo 明年將開始在日本測試 Toyota 電動 bZ4X 車款的自駕版本，這是與這家車廠更廣泛合作的一部分。</description>
     </item>
     <item>
       <title>合理使用對所有人都有好處</title>
