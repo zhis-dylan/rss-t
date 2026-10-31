@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 31 Oct 2026 16:09:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:24:36 GMT</lastBuildDate>
+    <item>
+      <title>據報導，OpenAI 下調新一輪融資目標</title>
+      <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184004</guid>
+      <pubDate>Sat, 31 Oct 2026 16:12:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 最新一輪融資似乎未達預期。</description>
+    </item>
     <item>
       <title>從餐廳指南到支付，這就是 TikTok 如何打造超級應用程式</title>
       <link>https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/</link>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>DoorDash 表示，願意與第三方代理開發商合作</description>
-    </item>
-    <item>
-      <title>AI 資料中心能像汽車一樣大量生產嗎？這家新創想找出答案</title>
-      <link>https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183295</guid>
-      <pubDate>Fri, 30 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Runware 正在打造一座工廠，打算用組裝線製造預製的 AI 資料中心。真正的考驗會是它能否在那樣的規模下交付成品。</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
