@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 31 Oct 2026 21:11:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 21:26:45 GMT</lastBuildDate>
+    <item>
+      <title>法官允許 NAACP 就 xAI 資料中心污染提起的訴訟繼續進行</title>
+      <link>https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184013</guid>
+      <pubDate>Sat, 31 Oct 2026 21:17:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>NAACP 的訴訟指控這家由 SpaceX 旗下的 AI 公司違反《清潔空氣法》。</description>
+    </item>
     <item>
       <title>據報導，OpenAI 下調新一輪融資目標</title>
       <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
@@ -224,15 +233,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 2026 年 TechCrunch Founder Summit，將於 11 月 4 日在波士頓的 SoWa Power Station 舉行，由 Braindate 驅動的交流設計，旨在讓這些對話更容易找到，不論是 1 對 1 還是現場小組會議。活動開始前報名，最多可為你的票省下 100 美元，還可免費再拿一張。</description>
-    </item>
-    <item>
-      <title>DoorDash 表示，它只收到來自 AI 代理的「數百筆」訂單</title>
-      <link>https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183579</guid>
-      <pubDate>Fri, 30 Oct 2026 13:54:25 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>DoorDash 表示，願意與第三方代理開發商合作</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
