@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 01 Nov 2026 21:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 22:00:14 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 可能將其資料中心改名為「AI 運算園區」</title>
+      <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184048</guid>
+      <pubDate>Sun, 01 Nov 2026 21:55:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>資料中心非常不受歡迎。但如果我們把它們改叫別的名字呢？</description>
+    </item>
     <item>
       <title>AI 可以讓科技公司執行長的生活更輕鬆。那其他人呢？</title>
       <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>獨家：一名資安研究員在 Applebee’s 的 app 中發現硬編碼憑證，讓人得以不受限制地存取顧客個人資料。</description>
-    </item>
-    <item>
-      <title>給科技宅的最後一刻萬聖節裝扮</title>
-      <link>https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183738</guid>
-      <pubDate>Fri, 30 Oct 2026 21:26:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>沒有萬聖節裝扮？那就扮成一個看起來很無害的 AI 代理圖示、一個 PHP 漏洞，或是昏昏欲睡版的 Bryan Johnson。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
