@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 01 Nov 2026 02:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 02:28:57 GMT</lastBuildDate>
+    <item>
+      <title>資料中心現在成了期中選舉議題，甚至在布魯克林也是如此</title>
+      <link>https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183712</guid>
+      <pubDate>Sun, 01 Nov 2026 02:22:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在布魯克林一場距離選舉日還有五天的期中選舉派對上，從一位市議員的爐邊談話到一場關於民主黨的辯論，每段對話最後都不斷回到 AI 和資料中心。</description>
+    </item>
     <item>
       <title>Apple 執行長表示，公司不想為了 AI 而推出 AI</title>
       <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>太空中的第一個 TPU 正在執行 Google DeepMind 的 Gemma 4 模型，還會寫俗氣的詩。</description>
-    </item>
-    <item>
-      <title>Theranos 吹哨者 Tyler Shultz 警告，AI 熱潮是「欺騙人們的絕佳機會」</title>
-      <link>https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183613</guid>
-      <pubDate>Fri, 30 Oct 2026 16:03:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Theranos 的警示故事在 AI 時代有了新的意義，因為那些從未獲利的公司正以兆美元估值籌集資金。</description>
     </item>
     <item>
       <title>2 分鐘內查看誰有權存取你的 Gmail 收件匣。</title>
