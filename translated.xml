@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 02 Nov 2026 14:07:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:22:24 GMT</lastBuildDate>
+    <item>
+      <title>新一波網路攻擊已波及歐洲超市冰箱，跨國毀損食物</title>
+      <link>https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184095</guid>
+      <pubDate>Mon, 02 Nov 2026 14:08:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是一個月內第二波針對超市冰箱的網路攻擊，導致食物變質並中斷供應。</description>
+    </item>
     <item>
       <title>距離 TechCrunch Founder Summit 只剩 2 天：波士頓創辦人不需要矽谷地址也能打造大事業</title>
       <link>https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>當投資人對 AI 支出感到緊張時，如果賣晶片的晶片製造商願意幫忙共同擔保貸款，會有幫助。</description>
-    </item>
-    <item>
-      <title>Salesforce 的併購熱潮持續延燒，傳出以 3.75 億美元收購國防科技新創 Rune</title>
-      <link>https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183971</guid>
-      <pubDate>Fri, 30 Oct 2026 23:21:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家 AI 物流新創將強化這家 CRM 巨頭的 Missionforce 國防平台。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
