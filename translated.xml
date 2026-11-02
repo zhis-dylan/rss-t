@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 02 Nov 2026 17:39:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:54:25 GMT</lastBuildDate>
+    <item>
+      <title>在科技史上最大規模的交易之一中，Marvell 以 1150 億美元收購 Lumentum</title>
+      <link>https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184180</guid>
+      <pubDate>Mon, 02 Nov 2026 17:54:11 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Marvell 計劃收購 Lumentum，這是科技史上最大規模的收購案之一。而且兩家公司都有同一位策略投資者：Nvidia。</description>
+    </item>
+    <item>
+      <title>Readwise 以全新書迷應用程式挑戰 Amazon 的 Kindle 和 Goodreads</title>
+      <link>https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184167</guid>
+      <pubDate>Mon, 02 Nov 2026 17:49:41 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Readwise Books 結合電子書商店、閱讀追蹤器、詳細閱讀統計資料和 AI 功能，試圖挑戰 Amazon 的生態系。</description>
+    </item>
+    <item>
+      <title>我們在 2026 年 10 月宣布的最新 AI 新聞</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/</guid>
+      <pubDate>Mon, 02 Nov 2026 17:45:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>以下是 Google 在 2026 年 10 月的最新 AI 更新</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 在 2026 年 10 月的最新 AI 更新</p>]]></content:encoded>
+    </item>
     <item>
       <title>Google Messages、Google 電話與 Google 聯絡人獲得全新更新圖示。</title>
       <link>https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/</link>
@@ -118,6 +148,15 @@
       <description>Ford 表示，正在向顧客做出一項「明確承諾」，表示「他們的車輛資料在公司這裡是安全的」。</description>
     </item>
     <item>
+      <title>LifeVal</title>
+      <link>https://openai.com/index/lifeval</link>
+      <guid isPermaLink="false">https://openai.com/index/lifeval</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
+    </item>
+    <item>
       <title>借來的閱讀：來自我們外部同事的故事</title>
       <link>https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3184061</guid>
@@ -188,24 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在布魯克林一場距離選舉日還有五天的期中選舉派對上，從一位市議員的爐邊談話到一場關於民主黨的辯論，每段對話最後都不斷回到 AI 和資料中心。</description>
-    </item>
-    <item>
-      <title>Apple 執行長表示，公司不想為了 AI 而推出 AI</title>
-      <link>https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184023</guid>
-      <pubDate>Sat, 31 Oct 2026 21:41:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 新任執行長為公司目前在 AI 領域的立場辯護。</description>
-    </item>
-    <item>
-      <title>只剩 4 天：TechCrunch Founder Summit 如何幫助你建立更有用的連結，推動規模成長</title>
-      <link>https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184015</guid>
-      <pubDate>Sat, 31 Oct 2026 21:36:07 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>11 月 4 日在波士頓的 SoWa Power Station，準備迎接一整天充滿有意義的 networking 機會、可立即行動的洞見，以及可能改變你點子和新創公司發展軌跡的連結。請在現場票價全面調漲前完成報名。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
@@ -322,18 +343,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp" alt=""></p><p>直接在 Gemini 中生成、編輯和預覽 PDF 或文件。今天就用全螢幕編輯器來完善你的檔案。看看 Gemini 有什麼新功能。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Google Photos 的這些技巧一起慶祝萬聖節。</title>
-      <link>https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" alt=""></p><p>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>科羅拉多州學生參加 Google 黑客松，解決電網挑戰。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/</guid>
@@ -356,6 +365,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" alt=""></p><p>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 Google Photos 的這些技巧一起慶祝萬聖節。</title>
+      <link>https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" alt=""></p><p>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</p>]]></content:encoded>
     </item>
     <item>
       <title>切入 GFN Thursday：《Phantom Blade Zero》登陸 GeForce NOW</title>
@@ -555,18 +576,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_header.max-600x600.format-webp.webp" alt=""></p><p>Gemini 4 Carbon 是我們最強大的模型，具備業界領先的資安能力與長程推理能力。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Chrome 的強化自動填入功能，透過從 Gmail 擷取的建議幫你填寫表單。</title>
-      <link>https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/chrome/enhanced-autofill-gmail/</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Chrome 現在會從 Gmail 擷取航班訂位資訊和訂單號碼，以自動填入表單。立即看看 Chrome 中的 Gemini 如何簡化你的資料輸入。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Chrome_Ambient_Autofill_Static_.max-600x600.format-webp.webp" alt=""></p><p>Chrome 現在會從 Gmail 擷取航班訂位資訊和訂單號碼，以自動填入表單。立即看看 Chrome 中的 Gemini 如何簡化你的資料輸入。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Microsoft Copilot harness：釋放真正多模型代理式工作的潛力</title>
@@ -1254,15 +1263,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
-      <link>https://openai.com/index/localiza-generative-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
-    </item>
-    <item>
       <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
       <link>https://openai.com/index/grupo-boticario</link>
       <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
@@ -1272,13 +1272,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
     </item>
     <item>
-      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
+      <link>https://openai.com/index/localiza-generative-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
@@ -1288,6 +1288,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
+    </item>
+    <item>
+      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1823,15 +1832,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
-      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
-    </item>
-    <item>
       <title>你是 Codex Original 嗎？</title>
       <link>https://openai.com/form/codex-originals</link>
       <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
@@ -1839,6 +1839,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
+    </item>
+    <item>
+      <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
+      <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1917,15 +1926,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
-      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
-      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
-      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
-    </item>
-    <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
       <link>https://openai.com/index/invideo-builds-with-gpt-6-astra</link>
       <guid isPermaLink="false">https://openai.com/index/invideo-builds-with-gpt-6-astra</guid>
@@ -1933,6 +1933,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Harvey 透過 GPT-6 Astra 將法律脈絡轉化為更強的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>GPT-6 Astra 產出更有結構、能理解脈絡的法律文件，讓律師能專注於策略。</description>
     </item>
     <item>
       <title>介紹 MentalHealthBench</title>
@@ -1978,15 +1987,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 GPT-6 如何透過更高的快取命中率、新的診斷、明確的斷點，以及可降低延遲與成本的控制項，改善提示快取。</description>
-    </item>
-    <item>
-      <title>介紹 GPT-6 Sol 和 Luna</title>
-      <link>https://openai.com/index/introducing-gpt-6-sol-and-luna</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-sol-and-luna</guid>
-      <pubDate>Tue, 22 Sep 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>認識 GPT-6 Sol 和 Luna，這兩個模型以不同的能力與成本平衡，將前沿智慧帶入日常工作。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
