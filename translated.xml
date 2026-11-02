@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 02 Nov 2026 23:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:27:13 GMT</lastBuildDate>
+    <item>
+      <title>Apple 表示，很難預測 iPhone Duo 供應受限何時會改善</title>
+      <link>https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184343</guid>
+      <pubDate>Mon, 02 Nov 2026 23:25:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 表示 iPhone Duo 的生產正在擴大，但目前仍無法說明供應何時才能追上需求，出貨延遲也將一路延續到明年。</description>
+    </item>
+    <item>
+      <title>Trajectory 募得 4,500 萬美元，讓非技術專家也能進行 AI 模型訓練</title>
+      <link>https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184455</guid>
+      <pubDate>Mon, 02 Nov 2026 23:13:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家成立一年的新創公司目前估值為 3 億美元。</description>
+    </item>
     <item>
       <title>蘋果庫存激增154%，因記憶體晶片成本攀升</title>
       <link>https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/</link>
@@ -220,15 +238,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>借來的閱讀：來自我們外部同事的故事</title>
-      <link>https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184061</guid>
-      <pubDate>Mon, 02 Nov 2026 04:23:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>來自我們在 CIO、Computerworld、Macworld 和 PCWorld 的外部同事的五則值得一讀的故事。</description>
-    </item>
-    <item>
       <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
       <link>https://openai.com/index/qodo-codex-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
@@ -236,15 +245,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
-    </item>
-    <item>
-      <title>OpenAI 可能將其資料中心改名為「AI 運算園區」</title>
-      <link>https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184048</guid>
-      <pubDate>Sun, 01 Nov 2026 21:55:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>資料中心非常不受歡迎。但如果我們把它們改叫別的名字呢？</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
