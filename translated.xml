@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 02 Nov 2026 22:11:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 22:26:40 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 警告，AI 很快就具備 RSI 能力，也就是能自我建構的 AI</title>
+      <link>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184332</guid>
+      <pubDate>Mon, 02 Nov 2026 22:14:50 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>RSI 指的是 AI 成長到足以自行訓練自己的程度，進而引發 AI 能力的劇烈加速。對 AI 末日論者來說，RSI 代表一場無法回頭的災難。</description>
+    </item>
     <item>
       <title>Apple 公布第四季度財報</title>
       <link>https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/</link>
@@ -236,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Equity 節目中，我們討論為什麼科技公司執行長的發言有時會顯得如此脫離現實。</description>
-    </item>
-    <item>
-      <title>TechCrunch Mobility：新一波更大的自駕車熱潮來了</title>
-      <link>https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183874</guid>
-      <pubDate>Sun, 01 Nov 2026 17:04:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>歡迎回到 TechCrunch Mobility，這裡是未來交通的匯聚地，而現在，比以往任何時候都更能看到 AI 在其中扮演的角色。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
