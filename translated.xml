@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 02 Nov 2026 22:56:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:12:03 GMT</lastBuildDate>
+    <item>
+      <title>蘋果庫存激增154%，因記憶體晶片成本攀升</title>
+      <link>https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184456</guid>
+      <pubDate>Mon, 02 Nov 2026 23:04:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>蘋果表示，前所未有的記憶體晶片成本將持續上升，隨著其庫存攀升至145億美元，外界也開始質疑未來裝置價格走向。</description>
+    </item>
     <item>
       <title>Anthropic 警告，AI 很快就具備 RSI 能力，也就是能自我建構的 AI</title>
       <link>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</link>
@@ -236,15 +245,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>資料中心非常不受歡迎。但如果我們把它們改叫別的名字呢？</description>
-    </item>
-    <item>
-      <title>AI 可以讓科技公司執行長的生活更輕鬆。那其他人呢？</title>
-      <link>https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184041</guid>
-      <pubDate>Sun, 01 Nov 2026 20:57:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 Equity 節目中，我們討論為什麼科技公司執行長的發言有時會顯得如此脫離現實。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
