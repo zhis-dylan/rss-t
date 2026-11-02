@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:23:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:38:39 GMT</lastBuildDate>
+    <item>
+      <title>42AI 低調現身，募得 6,250 萬美元，並推出一個可「預測人類行為」的世界模型</title>
+      <link>https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184087</guid>
+      <pubDate>Mon, 02 Nov 2026 16:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這裡有個像是直接從科幻小說裡冒出來的問題：如果 AI 能在你做決定之前，就預測你接下來會做什麼，甚至是在一個全新的情境下，也做得到呢？</description>
+    </item>
     <item>
       <title>Elon Musk 因「不可持續地高」的成本而調降 Grok Bot 的使用限制</title>
       <link>https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/</link>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>NAACP 的訴訟指控這家由 SpaceX 旗下的 AI 公司違反《清潔空氣法》。</description>
-    </item>
-    <item>
-      <title>據報導，OpenAI 下調新一輪融資目標</title>
-      <link>https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184004</guid>
-      <pubDate>Sat, 31 Oct 2026 16:12:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 最新一輪融資似乎未達預期。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
