@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:23:29 GMT</lastBuildDate>
+    <item>
+      <title>Elon Musk 因「不可持續地高」的成本而調降 Grok Bot 的使用限制</title>
+      <link>https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184148</guid>
+      <pubDate>Mon, 02 Nov 2026 16:23:21 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Musk 最近將 Grok Bot 稱為「我這輩子見過成長最快的產品」。</description>
+    </item>
     <item>
       <title>推出 Grid Protectors Program</title>
       <link>https://openai.com/index/grid-protectors-program</link>
@@ -185,15 +194,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 最新一輪融資似乎未達預期。</description>
-    </item>
-    <item>
-      <title>從餐廳指南到支付，這就是 TikTok 如何打造超級應用程式</title>
-      <link>https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3127752</guid>
-      <pubDate>Sat, 31 Oct 2026 15:41:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>TikTok 可能正在努力成為人們用於大多數數位活動的應用程式。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
