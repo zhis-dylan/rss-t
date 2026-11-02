@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 02 Nov 2026 10:50:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:05:50 GMT</lastBuildDate>
+    <item>
+      <title>Ford 推出「隱私承諾」，並說明它如何以及為何使用顧客資料</title>
+      <link>https://techcrunch.com/2026/11/02/ford-launches-a-privacy-promise-and-explains-how-and-why-it-uses-a-customers-data/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184054</guid>
+      <pubDate>Mon, 02 Nov 2026 11:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Ford 表示，正在向顧客做出一項「明確承諾」，表示「他們的車輛資料在公司這裡是安全的」。</description>
+    </item>
     <item>
       <title>借來的閱讀：來自我們外部同事的故事</title>
       <link>https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/</link>
@@ -176,15 +185,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AI 產業大量消耗記憶體和其他零組件，導致 PC 價格上漲，進而打擊英特爾的 PC 銷售。</description>
-    </item>
-    <item>
-      <title>報導稱，Anthropic 在 IPO 後預計將獲信用評等機構給予高風險「垃圾級」評等</title>
-      <link>https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183715</guid>
-      <pubDate>Fri, 30 Oct 2026 21:52:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這份新報告指出，這家 AI 實驗室很可能會被評為高風險的垃圾級評等。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
