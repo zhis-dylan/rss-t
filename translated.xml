@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 18:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:52:11 GMT</lastBuildDate>
+    <item>
+      <title>Ferrari 具爭議性的 Luce EV 已售罄至 2027 年</title>
+      <link>https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184691</guid>
+      <pubDate>Tue, 03 Nov 2026 18:51:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據執行長 Benedetto Vigna 表示，Luce 是 Ferrari 的第一款電動車，也是最具兩極評價的車款之一，已經在 2027 年前「全數配額分配完畢」。「</description>
+    </item>
+    <item>
+      <title>Netflix 全新的 AI Discover 分頁可根據你的心情幫你找片看</title>
+      <link>https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184717</guid>
+      <pubDate>Tue, 03 Nov 2026 18:42:16 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這個分頁下的第一個實驗性功能，會讓使用者依據自己目前的心情取得推薦內容。</description>
+    </item>
     <item>
       <title>重新設計的健康 App 擴大語言支援</title>
       <link>https://www.apple.com/newsroom/2026/11/redesigned-health-app-expands-language-support/</link>
@@ -292,15 +310,6 @@
       <description>蘋果表示，前所未有的記憶體晶片成本將持續上升，隨著其庫存攀升至145億美元，外界也開始質疑未來裝置價格走向。</description>
     </item>
     <item>
-      <title>Anthropic 警告，AI 很快就具備 RSI 能力，也就是能自我建構的 AI</title>
-      <link>https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184332</guid>
-      <pubDate>Mon, 02 Nov 2026 22:14:50 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>RSI 指的是 AI 成長到足以自行訓練自己的程度，進而引發 AI 能力的劇烈加速。對 AI 末日論者來說，RSI 代表一場無法回頭的災難。</description>
-    </item>
-    <item>
       <title>Apple 公布第四季度財報</title>
       <link>https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/</guid>
@@ -308,15 +317,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
-    </item>
-    <item>
-      <title>德國表示，國會議員的 iPhone 可能已遭間諜軟體入侵</title>
-      <link>https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184311</guid>
-      <pubDate>Mon, 02 Nov 2026 19:45:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>德國國會議員和一名電影製片人是收到 Apple 警告通知的人之一，通知指出他們的手機可能已經遭到駭客入侵。</description>
     </item>
     <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
