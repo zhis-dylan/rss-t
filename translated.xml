@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:16:07 GMT</lastBuildDate>
     <item>
       <title>攜手合作打擊亞太地區詐騙</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/</link>
@@ -17,6 +17,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 結合內建防護機制、在地合作夥伴與教育，來應對亞太地區的詐騙。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>全球城市運用 NVIDIA 實體與代理式 AI 建置並擴展 AI 服務</title>
+      <link>https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/cities-physical-agentic-ai-applications/</guid>
+      <pubDate>Tue, 03 Nov 2026 07:00:12 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>城市會從攝影機、感測器和營運系統產生大量資料，但要把這些資料轉化為可用的行動——用於規劃、維護和公共服務——仍然是一項挑戰。實體與代理式 AI 提供了縮小這項落差的新方式，從用於基礎建設規劃的數位孿生，到視覺和服務代理，同時讓地方政府[…]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/268670f4ebabdee5beac742e274ef0f1/6ae9867d3d6332a5e3147d24_smart-city-blog-1920x1080-1-842x450/smart-city-blog-1920x1080-1-842x450_thmb.jpg?v=151bfaa1-c1eb-4a6e-bdde-49688ddac75a" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/268670f4ebabdee5beac742e274ef0f1/6ae9867d3d6332a5e3147d24_smart-city-blog-1920x1080-1-842x450/smart-city-blog-1920x1080-1-842x450_thmb.jpg?v=151bfaa1-c1eb-4a6e-bdde-49688ddac75a"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/268670f4ebabdee5beac742e274ef0f1/6ae9867d3d6332a5e3147d24_smart-city-blog-1920x1080-1-842x450/smart-city-blog-1920x1080-1-842x450_thmb.jpg?v=151bfaa1-c1eb-4a6e-bdde-49688ddac75a" alt=""></p><p>城市會從攝影機、感測器和營運系統產生大量資料，但要把這些資料轉化為可用的行動——用於規劃、維護和公共服務——仍然是一項挑戰。實體與代理式 AI 提供了縮小這項落差的新方式，從用於基礎建設規劃的數位孿生，到視覺和服務代理，同時讓地方政府[…]</p>]]></content:encoded>
     </item>
     <item>
       <title>推動研究並與新加坡的大學合作</title>
@@ -1169,18 +1181,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29" alt=""></p><p>NVIDIA 今天宣布，將與一組供應鏈合作夥伴合作擴大全球製造產能，以滿足對其加速運算與全堆疊 AI 工廠平台日益成長的需求。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 雲端合作夥伴在歐洲規模擴展——主權、開放，並為安全 AI Agent 打造</title>
-      <link>https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:30:41 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>來自 AI 原生企業的需求正以前所未有的速度推動歐洲 AI 雲端生態系向前發展。開發者需要更貼近資料的運算資源、可自訂並大規模提供服務的開放模型，以及從設計之初就以安全為核心的全堆疊基礎架構。歐洲、北歐、非洲和中亞的 NVIDIA 雲端合作夥伴正在擴大區域運算容量，以供應 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3d019e89d26e109ca997396cf2b5bec7/6ad8960f3d63328b3ee1264c_ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450_thmb.jpg?v=83ec6086-5848-474f-9bed-722b7ac9bca0" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3d019e89d26e109ca997396cf2b5bec7/6ad8960f3d63328b3ee1264c_ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450_thmb.jpg?v=83ec6086-5848-474f-9bed-722b7ac9bca0"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3d019e89d26e109ca997396cf2b5bec7/6ad8960f3d63328b3ee1264c_ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450/ai-cloud-announcement-gtc-berlin-social-1920x1080-5852877-r2-842x450_thmb.jpg?v=83ec6086-5848-474f-9bed-722b7ac9bca0" alt=""></p><p>來自 AI 原生企業的需求正以前所未有的速度推動歐洲 AI 雲端生態系向前發展。開發者需要更貼近資料的運算資源、可自訂並大規模提供服務的開放模型，以及從設計之初就以安全為核心的全堆疊基礎架構。歐洲、北歐、非洲和中亞的 NVIDIA 雲端合作夥伴正在擴大區域運算容量，以供應 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
