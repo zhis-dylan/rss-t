@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:31:17 GMT</lastBuildDate>
     <item>
       <title>攜手合作打擊亞太地區詐騙</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/</link>
@@ -17,6 +17,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 結合內建防護機制、在地合作夥伴與教育，來應對亞太地區的詐騙。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple Watch 的 AI 功能開始測試可倒帶與重播對話</title>
+      <link>https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184378</guid>
+      <pubDate>Tue, 03 Nov 2026 07:20:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>現已進入 beta 測試：Apple 全新的 Audio Intelligence 功能可以幫助你記住別人說過的話，或為對話做筆記。</description>
     </item>
     <item>
       <title>全球城市運用 NVIDIA 實體與代理式 AI 建置並擴展 AI 服務</title>
@@ -281,15 +290,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>兩家著手解決資料中心用水問題的新創公司，正透過一筆 1,600 萬美元的交易攜手合作。</description>
-    </item>
-    <item>
-      <title>Ninja 的首款微波爐一次取代了我廚房裡兩台家電</title>
-      <link>https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183762</guid>
-      <pubDate>Mon, 02 Nov 2026 14:42:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Ninja Crispi 微波爐主打 FusionCrisp 技術，結合了微波爐的快速加熱與你會期待的氣炸鍋酥脆效果。</description>
     </item>
     <item>
       <title>LifeVal</title>
