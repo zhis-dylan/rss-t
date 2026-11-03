@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:20:36 GMT</lastBuildDate>
     <item>
       <title>紐約市的曼達尼批評麥迪遜廣場花園擁有者的監控科技</title>
       <link>https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/</link>
@@ -14,6 +14,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>市長的言論是在這家娛樂巨頭去年發生資料外洩之後提出的，該事件揭露了詹姆斯·多蘭的監控。</description>
+    </item>
+    <item>
+      <title>AI 正在改變晶圓廠的運作方式，而工程師也因此加快腳步</title>
+      <link>https://blogs.nvidia.com/blog/ai-semiconductor-fabs/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-semiconductor-fabs/</guid>
+      <pubDate>Tue, 03 Nov 2026 16:00:45 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>對先進晶片的需求正在上升。製造這些晶片的流程也變得更加複雜。而容錯空間也在縮小。對工程師來說，了解製程變更會如何表現、材料會如何與新步驟互動、缺陷又該如何追溯到根本原因，都是半導體製造中至關重要且具挑戰性的步驟 […]</description>
     </item>
     <item>
       <title>Apple 限制交友軟體和 AI 陪伴工具僅供 18 歲以上使用</title>
@@ -1181,18 +1190,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/c3c69fe40f6de06be7d1e176f492d2b8/6ad8989a3d633297a8f51be0_GoogleCloud-VeraRubin-1920x1080-1-842x450/GoogleCloud-VeraRubin-1920x1080-1-842x450_thmb.jpg?v=c21c152c-7ba7-497b-bc6a-3ddfca6b682f" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/c3c69fe40f6de06be7d1e176f492d2b8/6ad8989a3d633297a8f51be0_GoogleCloud-VeraRubin-1920x1080-1-842x450/GoogleCloud-VeraRubin-1920x1080-1-842x450_thmb.jpg?v=c21c152c-7ba7-497b-bc6a-3ddfca6b682f"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/c3c69fe40f6de06be7d1e176f492d2b8/6ad8989a3d633297a8f51be0_GoogleCloud-VeraRubin-1920x1080-1-842x450/GoogleCloud-VeraRubin-1920x1080-1-842x450_thmb.jpg?v=c21c152c-7ba7-497b-bc6a-3ddfca6b682f" alt=""></p><p>這些執行個體將於下個月正式上市，並計畫擴展至歐洲，為雲端客戶帶來一個整合式平台，用於訓練、推論以及大規模強化學習。A5X 執行個體整合了 NVIDIA Vera Rubin NVL72、NVIDIA ConnectX-9 SuperNIC、Google Cloud Virgo Network，以及 Google Cloud 第四代先進液冷技術，以滿足嚴苛的需求 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 與供應鏈合作夥伴擴大產能，加速 AI 基礎架構建置</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</guid>
-      <pubDate>Wed, 21 Oct 2026 10:33:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今天宣布，將與一組供應鏈合作夥伴合作擴大全球製造產能，以滿足對其加速運算與全堆疊 AI 工廠平台日益成長的需求。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/838aa4d001648c2167fc8aefd1fece2d/6ad82edd3d63326362cb7557_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=36c8cb14-8132-4255-b769-8a5888a05a29" alt=""></p><p>NVIDIA 今天宣布，將與一組供應鏈合作夥伴合作擴大全球製造產能，以滿足對其加速運算與全堆疊 AI 工廠平台日益成長的需求。</p>]]></content:encoded>
     </item>
     <item>
       <title>為整個地球打補丁：當代理程式發現關鍵漏洞時的全球回應協調</title>
