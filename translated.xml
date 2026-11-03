@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:24:15 GMT</lastBuildDate>
+    <item>
+      <title>資料中心正轉向老舊噴射引擎，因為等電力的時間越來越長</title>
+      <link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184896</guid>
+      <pubDate>Tue, 03 Nov 2026 22:19:53 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>取得電網連接和新型渦輪機的等待時間已長達數年，迫使資料中心建設者轉向一種不尋常、效率較低且對環境較不友善的解決方案：曾被丟棄的噴射引擎。</description>
+    </item>
     <item>
       <title>Ted Schlein 的 Ballistic Ventures 在 AI 驅動的資安熱潮中尋求募資 4.9 億美元新基金</title>
       <link>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</link>
@@ -317,15 +326,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_hero_owiy2Mr.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_hero_owiy2Mr.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_post_hero_owiy2Mr.max-600x600.format-webp.webp" alt=""></p><p>Google 正在投資新的研究補助與能力建構計畫，以推動 AI for science，並支持新加坡下一代科學領袖。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google 將 Dreambeans 帶到印度，力求把 AI 生成的個人故事帶給大眾</title>
-      <link>https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184353</guid>
-      <pubDate>Tue, 03 Nov 2026 03:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 的 Dreambeans 是其最新的 AI 實驗，現在支援 13 種印度語言。</description>
     </item>
     <item>
       <title>OpenAI 任命 Jill Hazelbaker 為企業事務長</title>
