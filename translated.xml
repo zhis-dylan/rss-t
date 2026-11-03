@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:01:32 GMT</lastBuildDate>
     <item>
       <title>攜手合作打擊亞太地區詐騙</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/</link>
@@ -17,6 +17,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 結合內建防護機制、在地合作夥伴與教育，來應對亞太地區的詐騙。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Yvonne Bajela 為歐洲新創圈帶來 1700 萬美元新資金</title>
+      <link>https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184143</guid>
+      <pubDate>Tue, 03 Nov 2026 08:01:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Evertrue Capital 宣布首檔 1700 萬美元基金，將支持早期 AI 和金融科技。</description>
     </item>
     <item>
       <title>Apple Watch 的 AI 功能開始測試可倒帶與重播對話</title>
@@ -281,15 +290,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的 Grid Protectors Program 將與公用事業公司合作，協助未來的運算園區支援電網穩定，並保護消費者的電力成本。</description>
-    </item>
-    <item>
-      <title>Omen AI 透過收購 Aquatic Labs 以 1,600 萬美元加入液冷專業知識</title>
-      <link>https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184108</guid>
-      <pubDate>Mon, 02 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>兩家著手解決資料中心用水問題的新創公司，正透過一筆 1,600 萬美元的交易攜手合作。</description>
     </item>
     <item>
       <title>LifeVal</title>
