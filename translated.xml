@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:20:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:35:46 GMT</lastBuildDate>
+    <item>
+      <title>Google 將讓學校停用其 AI 工具，但代價是必須放棄搜尋功能</title>
+      <link>https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184603</guid>
+      <pubDate>Tue, 03 Nov 2026 16:30:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>選擇全面限制 AI 的學校將無法再使用 Google 搜尋，因為 AI 功能現在已整合進搜尋引擎中。</description>
+    </item>
     <item>
       <title>紐約市的曼達尼批評麥迪遜廣場花園擁有者的監控科技</title>
       <link>https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/</link>
@@ -317,15 +326,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
-    </item>
-    <item>
-      <title>在科技史上最大規模的交易之一中，Marvell 以 1150 億美元收購 Lumentum</title>
-      <link>https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184180</guid>
-      <pubDate>Mon, 02 Nov 2026 17:54:11 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Marvell 計劃收購 Lumentum，這是科技史上最大規模的收購案之一。而且兩家公司都有同一位策略投資者：Nvidia。</description>
     </item>
     <item>
       <title>我們在 2026 年 10 月宣布的最新 AI 新聞</title>
