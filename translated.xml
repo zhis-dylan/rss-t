@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:21:18 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 仍在與運算成本的經濟效益搏鬥</title>
+      <link>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184638</guid>
+      <pubDate>Tue, 03 Nov 2026 17:07:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>正當 Anthropic 的運算毛利率本應改善之際，卻反而變得更糟。</description>
+    </item>
     <item>
       <title>Rivian 分拆出去的 Also 曾在肯亞進行電動摩托車專案——直到它退出</title>
       <link>https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/</link>
@@ -299,15 +308,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家網站建置工具公司表示，這些失業是其組織更廣泛重組的一部分。</description>
-    </item>
-    <item>
-      <title>《紐約時報》和其他媒體對網頁瀏覽器 Brave 提起訴訟，指控其涉嫌擷取內容</title>
-      <link>https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184280</guid>
-      <pubDate>Mon, 02 Nov 2026 19:19:17 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>《紐約時報》正在起訴以隱私為主打的網頁瀏覽器公司 Brave，指控其涉嫌擷取該媒體受著作權保護且未經授權的內容，並將其非法散布給自己的客戶，例如 Anthropic 和 Perplexity。</description>
     </item>
     <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
