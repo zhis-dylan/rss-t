@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 15:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 15:50:15 GMT</lastBuildDate>
+    <item>
+      <title>Apple 限制交友軟體和 AI 陪伴工具僅供 18 歲以上使用</title>
+      <link>https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184598</guid>
+      <pubDate>Tue, 03 Nov 2026 15:38:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 的新 App Store 規則將要求提供色情或浪漫內容的交友軟體和 AI 陪伴工具標示為 18+ 分級。</description>
+    </item>
     <item>
       <title>TechCrunch Founder Summit 的議程只是 11 月 4 日到波士頓的其中一半理由</title>
       <link>https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/</link>
@@ -332,15 +341,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp" alt=""></p><p>Google 正在更新 Messages、Phone 和 Contacts 的圖示，採用更俐落、一致的設計。看看你主畫面的新外觀。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>SpaceX 據報想收購 Boost Mobile，以對抗 AT&amp;T、T-Mobile 和 Verizon</title>
-      <link>https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184178</guid>
-      <pubDate>Mon, 02 Nov 2026 16:44:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>SpaceX 一直在尋找運用其 Starlink 網路的新方式，而與行動電信業者 Boost Mobile 的合作，可能會為它提供所需要的地面網路存取。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
