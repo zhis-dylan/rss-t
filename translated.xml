@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:35:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 16:51:00 GMT</lastBuildDate>
+    <item>
+      <title>Rivian 分拆出去的 Also 曾在肯亞進行電動摩托車專案——直到它退出</title>
+      <link>https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183082</guid>
+      <pubDate>Tue, 03 Nov 2026 16:49:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Also 共同創辦人暨總裁 Chris Yu 告訴 TechCrunch，他想優先推動自駕車。</description>
+    </item>
     <item>
       <title>Google 將讓學校停用其 AI 工具，但代價是必須放棄搜尋功能</title>
       <link>https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/</link>
@@ -299,15 +308,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>《紐約時報》正在起訴以隱私為主打的網頁瀏覽器公司 Brave，指控其涉嫌擷取該媒體受著作權保護且未經授權的內容，並將其非法散布給自己的客戶，例如 Anthropic 和 Perplexity。</description>
-    </item>
-    <item>
-      <title>Snap 和解訴訟，原告指控該平台助長青少年憂鬱與飲食失調</title>
-      <link>https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184272</guid>
-      <pubDate>Mon, 02 Nov 2026 19:11:49 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>原告表示，他們最早在 3 歲時就開始使用 YouTube，並在大約 9 歲時開始使用其他社群媒體平台，之後形成強迫性使用習慣；他們認為這與自動播放和無限捲動等功能有關。</description>
     </item>
     <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
@@ -1962,22 +1962,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 正將其 Daybreak 計畫的存取權限擴大提供給烏克蘭政府，以支援民用基礎設施的資安防禦。</description>
     </item>
     <item>
-      <title>Ringg 的 AI 代理可用 OpenAI 解決高達 65% 的客戶來電</title>
-      <link>https://openai.com/index/ringg</link>
-      <guid isPermaLink="false">https://openai.com/index/ringg</guid>
+      <title>Harvey 以 GPT-6 Astra 將法律脈絡轉化為更扎實的草稿</title>
+      <link>https://openai.com/index/harvey-from-context-to-confidence-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/harvey-from-context-to-confidence-with-astra</guid>
       <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Ringg 使用 GPT-5.6，在語音、聊天、WhatsApp 和網頁上提供多語言代理，成本比 GPT-4.1 低 90%。</description>
-    </item>
-    <item>
-      <title>Sam Altman在聯合國安全理事會的發言</title>
-      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
-      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
-      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
+      <description>GPT-6 Astra 產出更有結構、且更能掌握脈絡的法律文件，讓律師能更專注於策略。</description>
     </item>
     <item>
       <title>invideo 如何借助 GPT‑6 Astra 將調色提升 3 倍</title>
@@ -1987,6 +1978,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 GPT‑6 Astra，invideo 能以更高精準度規劃剪輯，將色彩校正與調色提升三倍，並在一天內製作 50 個自訂效果。</description>
+    </item>
+    <item>
+      <title>Sam Altman在聯合國安全理事會的發言</title>
+      <link>https://openai.com/index/sam-altman-un-security-council-remarks</link>
+      <guid isPermaLink="false">https://openai.com/index/sam-altman-un-security-council-remarks</guid>
+      <pubDate>Wed, 23 Sep 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 執行長 Sam Altman 在聯合國安全理事會的發言中討論了 AI 安全、人類控制，以及國際合作。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
