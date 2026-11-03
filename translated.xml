@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 00:27:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 00:42:55 GMT</lastBuildDate>
+    <item>
+      <title>Y Combinator 的 Garry Tan 使用 AI 代理如此頻繁，以至於他每年在 tokens 上花費高達 20 萬美元</title>
+      <link>https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184485</guid>
+      <pubDate>Tue, 03 Nov 2026 00:35:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Y Combinator 的 Garry Tan 過去曾開玩笑承認，他有「網路精神病」的症狀，而且有時幾乎睡不著，因為他對和自己的 AI 代理一起工作感到非常興奮。在 Walter Isaacson 的新一集 podcast《The Builders》中，該集將於週二上線，Tan 替自己的熱情標上了價格。</description>
+    </item>
     <item>
       <title>Hinge 測試更便宜的方案，因為使用者越來越厭倦為交友軟體付費</title>
       <link>https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/</link>
@@ -227,15 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>TechCrunch Founder Summit 將於 11 月 4 日在波士頓舉行，聚焦創辦人的議程與有影響力的交流。可省下高達 100 美元，或透過團體票享有折扣。</description>
-    </item>
-    <item>
-      <title>OpenAI 終於要把 ChatGPT 的聊天與 Work 分頁整合在一起</title>
-      <link>https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184089</guid>
-      <pubDate>Mon, 02 Nov 2026 13:57:53 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 表示，在這項變更後，ChatGPT 和 Codex 將共用同一個用量配額池。</description>
     </item>
     <item>
       <title>LifeVal</title>
