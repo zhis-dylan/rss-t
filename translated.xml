@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 22:39:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 22:54:32 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 正在開發一套系統來證明 AI 模型的身分</title>
+      <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184891</guid>
+      <pubDate>Tue, 03 Nov 2026 22:41:03 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>名為 FlashProve，這套系統可讓任何人檢查一則 AI 回覆是否真的來自它聲稱的模型。</description>
+    </item>
     <item>
       <title>資料中心正轉向老舊噴射引擎，因為等電力的時間越來越長</title>
       <link>https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/</link>
@@ -293,15 +302,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Heimstaden 如何運用 OpenAI 的 ChatGPT Enterprise 和 Codex 來改造物業管理、降低成本，並賦能歐洲各地的員工。</description>
-    </item>
-    <item>
-      <title>Apple Watch 的 AI 功能開始測試可倒帶與重播對話</title>
-      <link>https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184378</guid>
-      <pubDate>Tue, 03 Nov 2026 07:20:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>現已進入 beta 測試：Apple 全新的 Audio Intelligence 功能可以幫助你記住別人說過的話，或為對話做筆記。</description>
     </item>
     <item>
       <title>全球城市運用 NVIDIA 實體與代理式 AI 建置並擴展 AI 服務</title>
