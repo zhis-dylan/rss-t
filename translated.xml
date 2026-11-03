@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 03 Nov 2026 17:51:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 18:06:41 GMT</lastBuildDate>
+    <item>
+      <title>CrowdStrike 將斥資近 5 億美元收購 2 家 AI 資安新創，隨著保障代理程式的市場起飛</title>
+      <link>https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184611</guid>
+      <pubDate>Tue, 03 Nov 2026 17:56:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>CrowdStrike 表示，將收購 Fiddler AI；該公司開發 AI 代理程式可觀測性軟體，以及 Dreadnode；後者協助企業自動化 AI 資安測試。</description>
+    </item>
     <item>
       <title>Anthropic 仍在與運算成本的經濟效益搏鬥</title>
       <link>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</link>
@@ -299,15 +308,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>德國國會議員和一名電影製片人是收到 Apple 警告通知的人之一，通知指出他們的手機可能已經遭到駭客入侵。</description>
-    </item>
-    <item>
-      <title>網站主機 Squarespace 裁員 19% 員工</title>
-      <link>https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184239</guid>
-      <pubDate>Mon, 02 Nov 2026 19:25:59 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家網站建置工具公司表示，這些失業是其組織更廣泛重組的一部分。</description>
     </item>
     <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
