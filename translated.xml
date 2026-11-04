@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:48:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 18:03:46 GMT</lastBuildDate>
+    <item>
+      <title>觀看 Henry Cavill 在他的 Googlebook 上打造一款電玩遊戲</title>
+      <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/</guid>
+      <pubDate>Wed, 04 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Henry Cavill 在他的 Googlebook 上打造了一款電玩遊戲，以協助支持男性健康。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp" alt=""></p><p>Henry Cavill 在他的 Googlebook 上打造了一款電玩遊戲，以協助支持男性健康。</p>]]></content:encoded>
+    </item>
     <item>
       <title>紅杉按下倒帶鍵，撤回 20 年的擴張</title>
       <link>https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/</link>
@@ -647,18 +659,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Trailer_Thumbnail_Sohini_Gn2Gz2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Trailer_Thumbnail_Sohini_Gn2Gz2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Trailer_Thumbnail_Sohini_Gn2Gz2.max-600x600.format-webp.webp" alt=""></p><p>由 Google 的臨床醫師打造，全新的 Google AI for Healthcare Professionals Certificate 協助醫療專業人員將病患放在優先位置。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>如何使用 Gemini 更新你的履歷</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/update-resume-with-gemini/</guid>
-      <pubDate>Thu, 29 Oct 2026 11:33:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>運用 Gemini 將原始筆記轉換成有影響力、符合 ATS 的履歷條列。按照這四個步驟，讓你的專業檔案更完善。查看詳細內容。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiApp.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiApp.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO25_GeminiApp.max-600x600.format-webp.webp" alt=""></p><p>運用 Gemini 將原始筆記轉換成有影響力、符合 ATS 的履歷條列。按照這四個步驟，讓你的專業檔案更完善。查看詳細內容。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們如何偵測前沿模型失對齊</title>
