@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 20:35:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:50:16 GMT</lastBuildDate>
+    <item>
+      <title>駭客在持續數月的攻擊中竊取了 DreamHost 客戶檔案和收件匣</title>
+      <link>https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185215</guid>
+      <pubDate>Wed, 04 Nov 2026 20:36:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家網站主機服務商表示，駭客利用一項漏洞存取客戶電子郵件和檔案，這是一起「蓄意攻擊」。</description>
+    </item>
     <item>
       <title>DuckDuckGo 在 Google 的 AI 政策引發反彈之際向學校招手</title>
       <link>https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/</link>
@@ -221,15 +230,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家成立五年的新創公司完成由 Bessemer 領投的 13 億美元融資輪。</description>
-    </item>
-    <item>
-      <title>Reddit 在搜尋結果中測試廣告，因流量下滑與成長疑慮升溫</title>
-      <link>https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184712</guid>
-      <pubDate>Tue, 03 Nov 2026 19:24:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這些新的廣告版位，可能有助於 Reddit 從現有使用者身上擠出更多營收，因為 Google 的 AI 搜尋正在改變人們發現其內容的方式。</description>
     </item>
     <item>
       <title>重新設計的健康 App 擴大語言支援</title>
