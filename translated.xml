@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:01:24 GMT</lastBuildDate>
+    <item>
+      <title>我們正在分享我們打造更安全、更有幫助的健康 AI 的框架。</title>
+      <link>https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/</guid>
+      <pubDate>Wed, 04 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們許多人都曾帶著健康問題向 AI 求助，或接受過使用 AI 的醫師所提供的照護。健康科技的採用正在加速，並影響著……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-600x600.format-webp.webp" alt=""></p><p>我們許多人都曾帶著健康問題向 AI 求助，或接受過使用 AI 的醫師所提供的照護。健康科技的採用正在加速，並影響著……</p>]]></content:encoded>
+    </item>
     <item>
       <title>TechCrunch Founder Summit 2026：波士頓時間上午 9 點開放入場</title>
       <link>https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/</link>
@@ -638,18 +650,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 使用分層監控來偵測前沿模型失對齊與未經授權的代理行為，以便回應人員能在事件升級前介入。</description>
-    </item>
-    <item>
-      <title>Gemini 如何在教室中幫助學生和老師</title>
-      <link>https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>來自英國和義大利的新研究顯示，Gemini 可提升學生學習效果，並幫助老師促進教室中更積極的學習。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Edu_Impact_Studies_herosocial.max-600x600.format-webp.webp" alt=""></p><p>來自英國和義大利的新研究顯示，Gemini 可提升學生學習效果，並幫助老師促進教室中更積極的學習。</p>]]></content:encoded>
     </item>
     <item>
       <title>Ropes &amp; Gray 如何運用 AI 進行交易盡職調查</title>
