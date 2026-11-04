@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 17:03:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 17:18:23 GMT</lastBuildDate>
+    <item>
+      <title>紅杉按下倒帶鍵，撤回 20 年的擴張</title>
+      <link>https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185073</guid>
+      <pubDate>Wed, 04 Nov 2026 17:11:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>紅杉正在整併為一家規模較小、以灣區為核心的公司，關閉它在 20 年擴張期間建立的計畫和辦公室，同時宣布約 100 億美元的新基金。</description>
+    </item>
     <item>
       <title>我試用了 Apple 的 Siri Recaps。它們意外地實用——而且有點讓人不安</title>
       <link>https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/</link>
@@ -227,15 +236,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>CrowdStrike 表示，將收購 Fiddler AI；該公司開發 AI 代理程式可觀測性軟體，以及 Dreadnode；後者協助企業自動化 AI 資安測試。</description>
-    </item>
-    <item>
-      <title>Anthropic 仍在與運算成本的經濟效益搏鬥</title>
-      <link>https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184638</guid>
-      <pubDate>Tue, 03 Nov 2026 17:07:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>正當 Anthropic 的運算毛利率本應改善之際，卻反而變得更糟。</description>
     </item>
     <item>
       <title>AI 正在改變晶圓廠的運作方式，而工程師也因此加快腳步</title>
