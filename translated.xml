@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 04:41:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 04:57:08 GMT</lastBuildDate>
+    <item>
+      <title>印度的 EloElo 從 NBCUniversal 獲得 8,000 萬美元，押注該國快速成長的微短劇市場</title>
+      <link>https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3184575</guid>
+      <pubDate>Wed, 04 Nov 2026 04:45:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據 Sensor Tower 的數據，StoryTV 的每月活躍用戶超過 3,300 萬。</description>
+    </item>
     <item>
       <title>Anthropic 正在開發一套系統來證明 AI 模型的身分</title>
       <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
@@ -275,15 +284,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 ChatGPT 和 Codex 如何協助工程師加速 CAD、PCB 設計、模擬，以及實體世界中的其他工作流程。</description>
-    </item>
-    <item>
-      <title>Yvonne Bajela 為歐洲新創圈帶來 1700 萬美元新資金</title>
-      <link>https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184143</guid>
-      <pubDate>Tue, 03 Nov 2026 08:01:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Evertrue Capital 宣布首檔 1700 萬美元基金，將支持早期 AI 和金融科技。</description>
     </item>
     <item>
       <title>Cisco 如何運用 OpenAI 以機器速度防禦</title>
