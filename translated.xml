@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 22:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:21:20 GMT</lastBuildDate>
+    <item>
+      <title>Nothing 執行長表示，公司神祕的 AI 優先裝置將於下個月推出</title>
+      <link>https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185172</guid>
+      <pubDate>Wed, 04 Nov 2026 22:13:16 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>雖然目前還不清楚這家智慧型手機新創公司正在打造什麼樣的產品，但 Nothing 執行長表示，該產品的設計目的是利用 AI 來提升生產力。</description>
+    </item>
     <item>
       <title>幾乎沒有人使用 AI 代理幫自己叫 Uber，Uber 表示</title>
       <link>https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/</link>
@@ -205,6 +214,15 @@
       <description>根據 Sensor Tower 的數據，StoryTV 的每月活躍用戶超過 3,300 萬。</description>
     </item>
     <item>
+      <title>DevRev 以 GPT-6.1 Sol 提供自主自助服務</title>
+      <link>https://openai.com/index/devrev-enterprise-self-service</link>
+      <guid isPermaLink="false">https://openai.com/index/devrev-enterprise-self-service</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>DevRev 運用 GPT-6.1 Sol 驅動 Computer 和 Operator，在企業服務中兼顧推理能力、速度與成本。</description>
+    </item>
+    <item>
       <title>Anthropic 正在開發一套系統來證明 AI 模型的身分</title>
       <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3184891</guid>
@@ -221,15 +239,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>取得電網連接和新型渦輪機的等待時間已長達數年，迫使資料中心建設者轉向一種不尋常、效率較低且對環境較不友善的解決方案：曾被丟棄的噴射引擎。</description>
-    </item>
-    <item>
-      <title>Ted Schlein 的 Ballistic Ventures 在 AI 驅動的資安熱潮中尋求募資 4.9 億美元新基金</title>
-      <link>https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184842</guid>
-      <pubDate>Tue, 03 Nov 2026 21:43:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>專注資安的 Ballistic Ventures 正尋求募集 3.6 億美元作為新的旗艦基金，另外再募集 1.3 億美元作為另一個投資工具。</description>
     </item>
     <item>
       <title>重新設計的健康 App 擴大語言支援</title>
@@ -460,15 +469,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
-      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
-    </item>
-    <item>
       <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
       <link>https://openai.com/index/qodo-codex-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
@@ -476,6 +476,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
+    </item>
+    <item>
+      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
@@ -1931,15 +1940,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
-      <title>你是 Codex Original 嗎？</title>
-      <link>https://openai.com/form/codex-originals</link>
-      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
-    </item>
-    <item>
       <title>Basis 使用 GPT-6 Astra 完成報稅工作簿的速度快 2 倍</title>
       <link>https://openai.com/index/basis-tax-workbook-with-astra</link>
       <guid isPermaLink="false">https://openai.com/index/basis-tax-workbook-with-astra</guid>
@@ -1947,6 +1947,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT-6 Astra 完成一份 50 個分頁的報稅工作簿所花的時間，比 GPT-5.6 Sol 快兩倍，而且它對使用者意圖更強的理解，讓 Basis 對實際使用更有信心。</description>
+    </item>
+    <item>
+      <title>你是 Codex Original 嗎？</title>
+      <link>https://openai.com/form/codex-originals</link>
+      <guid isPermaLink="false">https://openai.com/form/codex-originals</guid>
+      <pubDate>Mon, 28 Sep 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在蒐集那些正在用 Codex 做出驚人成果的建造者、喜歡動手實作的人、研究人員和創作者的真實故事。如果你想成為 Codex Originals 計畫下一章的一部分，請在下方告訴我們更多關於你的故事和專案。</description>
     </item>
     <item>
       <title>使用 Codex 提升銷售 60%，並節省超過 75 小時</title>
@@ -1969,15 +1978,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" alt=""></p><p>我們正在重新構想 Microsoft Copilot，讓工作隨著其演進而推動發展，並協助擴展每個個人與每個組織在人類雄心的推進過程中所能達成的一切。今天，我們推出全新的 Copilot，將人們依賴的工具與他們用來建構、自訂及擴展 AI 所需的下一代能力連結起來...<br>〈Introducing the new Copilot with Home, Code and Autopilot〉一文最初出現在 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Lowe’s 透過 OpenAI 解答數百萬個居家改善問題</title>
-      <link>https://openai.com/index/lowes</link>
-      <guid isPermaLink="false">https://openai.com/index/lowes</guid>
-      <pubDate>Fri, 25 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Lowe’s 運用 OpenAI 模型驅動 Mylow 和 Mylow Companion，協助顧客與員工回答超過 2,500 萬個問題，並推動居家改善專案向前進展。</description>
     </item>
     <item>
       <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
