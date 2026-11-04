@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 04 Nov 2026 09:59:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 10:14:26 GMT</lastBuildDate>
+    <item>
+      <title>透過 Courtauld 更仔細欣賞藝術</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/</guid>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過《藝術的觀看》（The Art of Looking），以新的方式檢視藝術；這是 Google Arts &amp; Culture 與 Courtauld 藝術學院合作推出的新專案。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp" alt=""></p><p>透過《藝術的觀看》（The Art of Looking），以新的方式檢視藝術；這是 Google Arts &amp; Culture 與 Courtauld 藝術學院合作推出的新專案。</p>]]></content:encoded>
+    </item>
     <item>
       <title>印度的 EloElo 從 NBCUniversal 獲得 8,000 萬美元，押注該國快速成長的微短劇市場</title>
       <link>https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/</link>
@@ -559,18 +571,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp" alt=""></p><p>Google 科羅拉多州影響力黑客松的學生打造了像 SolarSnap 這樣的 AI 工具，以現代化電力網。點此查看得獎創新。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini Notebook 讓數百本教科書可供學生學習更多內容。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" alt=""></p><p>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>用 Google Photos 的這些技巧一起慶祝萬聖節。</title>
       <link>https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</guid>
@@ -581,6 +581,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" alt=""></p><p>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini Notebook 讓數百本教科書可供學生學習更多內容。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</guid>
+      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" alt=""></p><p>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</p>]]></content:encoded>
     </item>
     <item>
       <title>切入 GFN Thursday：《Phantom Blade Zero》登陸 GeForce NOW</title>
@@ -647,18 +659,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Ropes &amp; Gray 正與 OpenAI 合作，開發用於交易盡職調查的 AI。律師會先審閱分組文件、摘要和報告，再向客戶提供建議。</description>
-    </item>
-    <item>
-      <title>與新加坡合作，將前沿 AI 帶入公共衛生</title>
-      <link>https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/</guid>
-      <pubDate>Thu, 29 Oct 2026 03:30:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 宣布成立新的研究中心，並推出多項計畫，以支援臨床醫師、推進研究，並幫助新加坡民眾過上更健康的生活。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-_Hero_Photo.max-600x600.format-webp.webp" alt=""></p><p>Google 宣布成立新的研究中心，並推出多項計畫，以支援臨床醫師、推進研究，並幫助新加坡民眾過上更健康的生活。</p>]]></content:encoded>
     </item>
     <item>
       <title>Credit Saison 在 ChatGPT Enterprise 試點中實現 954% 投資報酬率</title>
