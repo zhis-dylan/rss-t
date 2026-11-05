@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:52:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:07:50 GMT</lastBuildDate>
+    <item>
+      <title>期中選舉之後，圍繞資料中心的一場更大衝突可能即將到來</title>
+      <link>https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185307</guid>
+      <pubDate>Thu, 05 Nov 2026 01:02:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>資料中心反對聲浪在週二的期中選舉中跨越了黨派界線。</description>
+    </item>
     <item>
       <title>AI 政治行動委員會花了數百萬美元試圖影響國會。結果如何？</title>
       <link>https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/</link>
@@ -248,15 +257,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>DevRev 運用 GPT-6.1 Sol 驅動 Computer 和 Operator，在企業服務中兼顧推理能力、速度與成本。</description>
-    </item>
-    <item>
-      <title>Anthropic 正在開發一套系統來證明 AI 模型的身分</title>
-      <link>https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184891</guid>
-      <pubDate>Tue, 03 Nov 2026 22:41:03 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>名為 FlashProve，這套系統可讓任何人檢查一則 AI 回覆是否真的來自它聲稱的模型。</description>
     </item>
     <item>
       <title>重新設計的健康 App 擴大語言支援</title>
