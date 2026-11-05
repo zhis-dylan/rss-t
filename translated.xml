@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:22:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:38:07 GMT</lastBuildDate>
+    <item>
+      <title>據報導，Apple 正在削減內部 AI 使用預算</title>
+      <link>https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185305</guid>
+      <pubDate>Thu, 05 Nov 2026 01:26:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據說該公司正大幅降低為工程團隊在 AI 上的支出。</description>
+    </item>
     <item>
       <title>期中選舉之後，圍繞資料中心的一場更大衝突可能即將到來</title>
       <link>https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/</link>
@@ -230,15 +239,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Daybreak Red 透過 Amazon Bedrock，將 GPT-5.6 Cyber 帶給 AWS GovCloud（美國東部）中經核准的客戶，用於授權的資安工作。</description>
-    </item>
-    <item>
-      <title>印度的 EloElo 從 NBCUniversal 獲得 8,000 萬美元，押注該國快速成長的微短劇市場</title>
-      <link>https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3184575</guid>
-      <pubDate>Wed, 04 Nov 2026 04:45:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>根據 Sensor Tower 的數據，StoryTV 的每月活躍用戶超過 3,300 萬。</description>
     </item>
     <item>
       <title>介紹 Images 2.6</title>
