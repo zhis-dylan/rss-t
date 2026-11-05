@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:17:47 GMT</lastBuildDate>
+    <item>
+      <title>Meta 警告，選舉後對資料中心的反彈可能讓 AI 擴張更困難</title>
+      <link>https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185548</guid>
+      <pubDate>Thu, 05 Nov 2026 19:12:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 警告，對資料中心日益升高的政治反對聲浪，可能威脅未來的 AI 投資，因為社區正在反對大型基礎設施專案。</description>
+    </item>
+    <item>
+      <title>OpenAI 推出了一個新的資安模型。這樣夠嗎？</title>
+      <link>https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185414</guid>
+      <pubDate>Thu, 05 Nov 2026 19:06:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 最新的資安模型登場之際，AI 實驗室正因其保護數位基礎設施的工作而面臨審視。</description>
+    </item>
     <item>
       <title>美國政府警告「持續進行中的網路威脅」，工業零售與軍用冷凍設備遭大規模駭入</title>
       <link>https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/</link>
@@ -279,15 +297,6 @@
       <description>Agility 今天登上 Nasdaq，成為第一家公開上市的純人形機器人公司。</description>
     </item>
     <item>
-      <title>Amazon 捨棄 GrubHub，改用 Uber Eats 作為 Prime 服務</title>
-      <link>https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185337</guid>
-      <pubDate>Thu, 05 Nov 2026 11:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 已將 Uber Eats 設為美國 Prime 會員的官方餐點外送合作夥伴。</description>
-    </item>
-    <item>
       <title>GPT‑6 Cyber：推進對齊的資安代理前沿</title>
       <link>https://openai.com/index/introducing-gpt-6-cyber</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-cyber</guid>
@@ -304,15 +313,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出其國家社區公約與運算園區政策藍圖，以保護當地資源、創造就業機會，並引導負責任的 AI 基礎設施發展。</description>
-    </item>
-    <item>
-      <title>據報導，Apple 正在削減內部 AI 使用預算</title>
-      <link>https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185305</guid>
-      <pubDate>Thu, 05 Nov 2026 01:26:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據說該公司正大幅降低為工程團隊在 AI 上的支出。</description>
     </item>
     <item>
       <title>觀看 Henry Cavill 在他的 Googlebook 上打造一款電玩遊戲</title>
