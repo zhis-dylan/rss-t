@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 18:47:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 19:02:37 GMT</lastBuildDate>
+    <item>
+      <title>美國政府警告「持續進行中的網路威脅」，工業零售與軍用冷凍設備遭大規模駭入</title>
+      <link>https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185572</guid>
+      <pubDate>Thu, 05 Nov 2026 18:48:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國政府聯合聲明指出，在傳出全球性大規模駭入事件後，這些攻擊正影響食品、運輸和醫療保健產業。</description>
+    </item>
     <item>
       <title>讓你的 Muse 開口說話</title>
       <link>https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/</link>
@@ -279,6 +288,15 @@
       <description>Amazon 已將 Uber Eats 設為美國 Prime 會員的官方餐點外送合作夥伴。</description>
     </item>
     <item>
+      <title>GPT‑6 Cyber：推進對齊的資安代理前沿</title>
+      <link>https://openai.com/index/introducing-gpt-6-cyber</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-cyber</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>介紹 GPT‑6 Cyber，OpenAI 的資安模型，可用於找出可被利用的漏洞並開發修補程式，訓練目標是將行為維持在授權範圍內。</description>
+    </item>
+    <item>
       <title>為負責任的 AI 基礎設施樹立新標準</title>
       <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
       <guid isPermaLink="false">https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
@@ -295,15 +313,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據說該公司正大幅降低為工程團隊在 AI 上的支出。</description>
-    </item>
-    <item>
-      <title>期中選舉之後，圍繞資料中心的一場更大衝突可能即將到來</title>
-      <link>https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185307</guid>
-      <pubDate>Thu, 05 Nov 2026 01:02:14 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>資料中心反對聲浪在週二的期中選舉中跨越了黨派界線。</description>
     </item>
     <item>
       <title>觀看 Henry Cavill 在他的 Googlebook 上打造一款電玩遊戲</title>
@@ -615,15 +624,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
-    </item>
-    <item>
       <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
       <link>https://openai.com/index/dan-driscoll-joins-openai</link>
       <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
@@ -631,6 +631,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
+    </item>
+    <item>
+      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
@@ -1451,15 +1460,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
-      <link>https://openai.com/index/grupo-boticario</link>
-      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
-    </item>
-    <item>
       <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
       <link>https://openai.com/index/localiza-generative-ai</link>
       <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
@@ -1469,13 +1469,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
-      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
+      <link>https://openai.com/index/grupo-boticario</link>
+      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
     </item>
     <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
@@ -1485,6 +1485,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
+    </item>
+    <item>
+      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1965,15 +1974,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>我們針對前沿 AI 訓練中安全案例的早期指引，涵蓋技術防護、營運實務，以及調查對齊失準事件</description>
-    </item>
-    <item>
-      <title>Lenfest Institute 擴大具里程碑意義的計畫，獲得 OpenAI 加碼支持</title>
-      <link>https://openai.com/index/lenfest-ai-collaborative-expansion</link>
-      <guid isPermaLink="false">https://openai.com/index/lenfest-ai-collaborative-expansion</guid>
-      <pubDate>Mon, 28 Sep 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 將擴大 Lenfest AI Collaborative 和 Fellowship Program，提供 500 萬美元資金，以及最高 500 萬美元的軟體額度與工程支援。</description>
     </item>
     <item>
       <title>推出全新 Copilot，具備 Home、Code 和 Autopilot</title>
