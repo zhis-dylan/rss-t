@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 16:15:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:30:47 GMT</lastBuildDate>
+    <item>
+      <title>Axiom Math 想把 AI 垃圾內容擋在數學之外</title>
+      <link>https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185344</guid>
+      <pubDate>Thu, 05 Nov 2026 16:16:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>當 AI 用大量未經查核的證明淹沒數學領域時，Axiom Math 押注的是驗證。這家新創的 AI 代理剛剛正式驗證了 Stacks Project，這是該領域最大的函式庫之一。</description>
+    </item>
     <item>
       <title>開放權重的魔法師：Chris Alexiuk 讓 AI 透過開放模型變得更容易上手</title>
       <link>https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/</link>
@@ -246,15 +255,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 的 Chris Lehane 希望 AI 能定義 2028 年選舉，提出一份新的社會契約，這或許能讓美國人受益，同時也推進這家 AI 巨頭自身的商業利益。</description>
-    </item>
-    <item>
-      <title>Meta 收購 AI 編碼新創公司 Conductor</title>
-      <link>https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185181</guid>
-      <pubDate>Wed, 04 Nov 2026 21:10:56 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家新創讓軟體工程師能部署多個代理團隊，同時處理專案的各個面向。</description>
     </item>
     <item>
       <title>觀看 Henry Cavill 在他的 Googlebook 上打造一款電玩遊戲</title>
