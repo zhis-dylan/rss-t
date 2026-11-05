@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 22:34:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:49:45 GMT</lastBuildDate>
+    <item>
+      <title>Airbnb 表示將於 2027 年上半年推出 AI 旅遊助理</title>
+      <link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185656</guid>
+      <pubDate>Thu, 05 Nov 2026 22:40:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Airbnb 表示，其即將推出的 AI 助理將幫助旅客規劃行程、比較選項、管理預訂，並在整個住宿期間提供協助。</description>
+    </item>
     <item>
       <title>Serve Robotics 推出新業務，成為機器人的 AWS</title>
       <link>https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/</link>
@@ -310,15 +319,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>現在的可攜式裝置耗電太兇，傳統太陽能板根本帶不動，但 RadianX 表示，他們的鈣鈦礦電池有望在某些情況下讓充電變得多餘。</description>
-    </item>
-    <item>
-      <title>Box 採用 Nvidia 的 Nemotron 打造新的以代理為先的內容檢索系統</title>
-      <link>https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185377</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據稱這套系統的回答查詢速度快四倍，錯誤少 20%，使用的 token 也少 90%。</description>
     </item>
     <item>
       <title>GPT‑6 Cyber：推進對齊的資安代理前沿</title>
