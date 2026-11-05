@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 17:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:31:28 GMT</lastBuildDate>
     <item>
       <title>外送新創 Wonder 申請 IPO，探索下一個大動作</title>
       <link>https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/</link>
@@ -35,9 +35,9 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>我們正在懷俄明州建造我們的第一座資料中心，代表對牛仔州 170 億美元的投資。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在懷俄明州建造我們的第一座資料中心，代表對牛仔州 170 億美元的投資。</p>]]></content:encoded>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero2.max-600x600.format-webp.webp" alt=""></p><p>我們正在懷俄明州建造我們的第一座資料中心，代表對牛仔州 170 億美元的投資。</p>]]></content:encoded>
     </item>
     <item>
       <title>用 Gemini 將快速草圖轉換成即時應用程式。</title>
