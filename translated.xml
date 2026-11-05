@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 23:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 23:50:21 GMT</lastBuildDate>
     <item>
       <title>Airbnb 表示將於 2027 年上半年推出 AI 旅遊助理</title>
       <link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
@@ -348,6 +348,15 @@
       <description>OpenAI 推出其國家社區公約與運算園區政策藍圖，以保護當地資源、創造就業機會，並引導負責任的 AI 基礎設施發展。</description>
     </item>
     <item>
+      <title>Flipsnack 透過轉換優化提升產品註冊數</title>
+      <link>https://openai.com/ads/customers/flipsnack</link>
+      <guid isPermaLink="false">https://openai.com/ads/customers/flipsnack</guid>
+      <pubDate>Thu, 05 Nov 2026 00:45:15 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Flipsnack 將 ChatGPT Ads 活動重點放在讓人們試用其產品，在降低每次註冊成本的同時，增加了註冊數。</description>
+    </item>
+    <item>
       <title>觀看 Henry Cavill 在他的 Googlebook 上打造一款電玩遊戲</title>
       <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/</guid>
@@ -588,15 +597,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>以更高的漏洞獎金獎勵防禦者</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
-    </item>
-    <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
       <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
@@ -604,6 +604,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
+    </item>
+    <item>
+      <title>以更高的漏洞獎金獎勵防禦者</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
     </item>
     <item>
       <title>我們在 2026 年 10 月宣布的最新 AI 新聞</title>
@@ -1469,15 +1478,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
-      <link>https://openai.com/index/localiza-generative-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
-    </item>
-    <item>
       <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
       <link>https://openai.com/index/grupo-boticario</link>
       <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
@@ -1485,6 +1485,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
+    </item>
+    <item>
+      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
+      <link>https://openai.com/index/localiza-generative-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
@@ -1722,15 +1731,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Maia-200-Image-1.png.jpg" alt=""></p><p>Azure Maia 200 現已量產；Azure Maia 300 將於 2027 年推出。隨著我們邁入超級智慧時代，Microsoft 正進入基礎架構的新階段。自 2027 年起，我們將把 Azure Maia 系列擴展至多吉瓦級部署，使 Maia 成為 Microsoft 產品與服務的主要推論系統。這個跨世代...<br>這篇〈Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署〉最初發表於 The Official Microsoft Blog。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
-      <link>https://openai.com/index/sophos</link>
-      <guid isPermaLink="false">https://openai.com/index/sophos</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
-    </item>
-    <item>
       <title>Asana 在瀏覽器測試中將模型成本降低 76 倍，採用 GPT-6.1 Sol</title>
       <link>https://openai.com/index/asana-browser-agent</link>
       <guid isPermaLink="false">https://openai.com/index/asana-browser-agent</guid>
@@ -1738,6 +1738,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Asana 在 Codex 中使用 GPT-6 Astra，讓其瀏覽器代理在測試中便宜 76 倍、速度快 5 倍，為客戶提供更有能力的模型。</description>
+    </item>
+    <item>
+      <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
+      <link>https://openai.com/index/sophos</link>
+      <guid isPermaLink="false">https://openai.com/index/sophos</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
     </item>
     <item>
       <title>Oracle 如何運用 ChatGPT 和 Codex 將數天的工作縮短成幾分鐘</title>
@@ -1956,15 +1965,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>每個組織都有其獨一無二的知識：企業的運作方式、長期累積的資料、員工的專業，以及數千個日常決策背後的脈絡。隨著強大的 AI 模型變得更廣泛可用，這種獨特的商業智慧比以往任何時候都更重要。差異將來自於...
 〈New Microsoft data innovations unlock what only your business knows〉一文最初刊登於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>我們將如何為澳洲做得更好</title>
-      <link>https://openai.com/index/how-we-will-do-better-for-australia</link>
-      <guid isPermaLink="false">https://openai.com/index/how-we-will-do-better-for-australia</guid>
-      <pubDate>Tue, 29 Sep 2026 01:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 就涉及澳洲政府網站的事件致歉，並概述更強的防護措施與支援，以強化澳洲的資安防禦。</description>
     </item>
     <item>
       <title>介紹 dots</title>
