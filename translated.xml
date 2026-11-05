@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 20:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 20:18:28 GMT</lastBuildDate>
+    <item>
+      <title>Vera 帶來兩全其美：最高吞吐量與最快的 agents</title>
+      <link>https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</guid>
+      <pubDate>Thu, 05 Nov 2026 20:00:41 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>AI agents 不只是產生答案。它們會搜尋資訊、查詢資料庫、撰寫並測試程式碼，並採取行動。這些步驟中的每一步都仰賴 CPU，而 agents 會在整個任務過程中於 GPU 推理與 CPU 執行之間切換。隨著越來越多企業讓更多 agents 上工，AI 工廠需要能夠執行這些……的 CPU。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/1a79b75a3212c9999a143e5612168a04/6aece0913d63320fd673a377_tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450_thmb.jpg?v=9e580a6c-6d9b-47c6-83a9-05fb567b1c89" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/1a79b75a3212c9999a143e5612168a04/6aece0913d63320fd673a377_tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450_thmb.jpg?v=9e580a6c-6d9b-47c6-83a9-05fb567b1c89"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/1a79b75a3212c9999a143e5612168a04/6aece0913d63320fd673a377_tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450_thmb.jpg?v=9e580a6c-6d9b-47c6-83a9-05fb567b1c89" alt=""></p><p>AI agents 不只是產生答案。它們會搜尋資訊、查詢資料庫、撰寫並測試程式碼，並採取行動。這些步驟中的每一步都仰賴 CPU，而 agents 會在整個任務過程中於 GPU 推理與 CPU 執行之間切換。隨著越來越多企業讓更多 agents 上工，AI 工廠需要能夠執行這些……的 CPU。</p>]]></content:encoded>
+    </item>
     <item>
       <title>在 Google Vids 中使用 Omni 1.2 Flash 免費生成更長的 AI 影片。</title>
       <link>https://blog.google/products-and-platforms/products/workspace/omni-1-2-flash-google-vids/</link>
@@ -1267,18 +1279,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6" alt=""></p><p>歐洲零售商正在多種用例中運用開放模型與實體智慧——從一家將推論成本降低 90% 的商務平台，到一個在數位孿生中模擬不同機器人車隊協作的履約中心。前沿成果來自開放模型 零售領導者與科技公司遍布歐洲，正使用 NVIDIA 加速的開放 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>歐洲各地的先驅部署 NVIDIA Earth-2 開放模型，為真實世界的天氣與氣候預測提供動力</title>
-      <link>https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/europe-earth-2-open-models-weather-climate-prediction/</guid>
-      <pubDate>Thu, 22 Oct 2026 05:00:19 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>天氣預報不只影響日常安排；及時的天氣資訊對能源生產商、保險業者和運輸業者規劃因應變化的條件至關重要。全球預報可以顯示風暴正在形成，但關於太陽能電廠、航運路線或承保財產的決策，取決於當地實際發生的情況。NVIDIA Earth-2 為開發者和研究人員提供了一個 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3461f9393935f103c1a1a7f9fa202887/6ad9989b3d6332948d724d53_Earth-2-Open-Models-Climate-Prediction-842x450/Earth-2-Open-Models-Climate-Prediction-842x450_thmb.jpg?v=0efa6d8e-f5e8-4a9d-b653-54ea0c1d3091" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3461f9393935f103c1a1a7f9fa202887/6ad9989b3d6332948d724d53_Earth-2-Open-Models-Climate-Prediction-842x450/Earth-2-Open-Models-Climate-Prediction-842x450_thmb.jpg?v=0efa6d8e-f5e8-4a9d-b653-54ea0c1d3091"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3461f9393935f103c1a1a7f9fa202887/6ad9989b3d6332948d724d53_Earth-2-Open-Models-Climate-Prediction-842x450/Earth-2-Open-Models-Climate-Prediction-842x450_thmb.jpg?v=0efa6d8e-f5e8-4a9d-b653-54ea0c1d3091" alt=""></p><p>天氣預報不只影響日常安排；及時的天氣資訊對能源生產商、保險業者和運輸業者規劃因應變化的條件至關重要。全球預報可以顯示風暴正在形成，但關於太陽能電廠、航運路線或承保財產的決策，取決於當地實際發生的情況。NVIDIA Earth-2 為開發者和研究人員提供了一個 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Uber 將與 OpenAI 合作，把 ChatGPT Work 開放給所有員工</title>
