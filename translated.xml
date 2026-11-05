@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 21:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 21:18:59 GMT</lastBuildDate>
+    <item>
+      <title>Serve Robotics 推出新業務，成為機器人的 AWS</title>
+      <link>https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185526</guid>
+      <pubDate>Thu, 05 Nov 2026 21:15:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Serve Robotics 宣布，與第三季財報一同推出名為 Physical AI Services 的新業務線，向客戶提供其連線與資料工具。</description>
+    </item>
     <item>
       <title>Vera 帶來兩全其美：最高吞吐量與最快的 agents</title>
       <link>https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</link>
@@ -310,15 +319,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>據稱這套系統的回答查詢速度快四倍，錯誤少 20%，使用的 token 也少 90%。</description>
-    </item>
-    <item>
-      <title>一家 YC 新創正投入 100 萬美元，解決 AI 面臨的五個尚未解決的材料科學問題</title>
-      <link>https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185211</guid>
-      <pubDate>Thu, 05 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Discovered Materials 是一家成立數月、利用 AI 尋找晶片材料的 YC 新創，正為五個開放的材料科學問題中的每一個解決方案提供 20 萬美元獎金。</description>
     </item>
     <item>
       <title>GPT‑6 Cyber：推進對齊的資安代理前沿</title>
