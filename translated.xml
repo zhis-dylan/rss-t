@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 16:45:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 17:01:04 GMT</lastBuildDate>
+    <item>
+      <title>投資懷俄明州的基礎建設、能源和勞動力</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/</guid>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在懷俄明州建造我們的第一座資料中心，代表對牛仔州 170 億美元的投資。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Wyoming_hero.max-600x600.format-webp.webp" alt=""></p><p>我們正在懷俄明州建造我們的第一座資料中心，代表對牛仔州 170 億美元的投資。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Axiom Math 想把 AI 垃圾內容擋在數學之外</title>
       <link>https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/</link>
@@ -368,18 +380,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Designing_responsible_AI_for_le.max-600x600.format-webp.webp" alt=""></p><p>我們將把 Guided Learning 功能帶入 Search 和 Google Classroom，並調整我們對學校控制項的作法。</p>]]></content:encoded>
     </item>
     <item>
-      <title>學習時代中的 AI</title>
-      <link>https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" alt=""></p><p>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們將提供資金給打造教師用 AI 的組織。</title>
       <link>https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</guid>
@@ -390,6 +390,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正在資助五個組織開發教師用 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>新研究顯示 Guided Learning 如何支持學生</title>
+      <link>https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</guid>
+      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" alt=""></p><p>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>攜手合作打擊亞太地區詐騙</title>
@@ -416,16 +428,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp" alt=""></p><p>慶祝來自馬來西亞、印度、菲律賓和英國的教育工作者故事，並推出新的 GES 場次，以及擴展至西班牙、巴西、澳洲和撒哈拉以南非洲……</p>]]></content:encoded>
     </item>
     <item>
-      <title>新研究顯示 Guided Learning 如何支持學生</title>
-      <link>https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</guid>
+      <title>學習時代中的 AI</title>
+      <link>https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</guid>
       <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" alt=""></p><p>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</p>]]></content:encoded>
+      <description>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" alt=""></p><p>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</p>]]></content:encoded>
     </item>
     <item>
       <title>加速實體世界的工程設計</title>
@@ -698,18 +710,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/fileGen2.0-thumbnail-resize.max-600x600.format-webp.webp" alt=""></p><p>直接在 Gemini 中生成、編輯和預覽 PDF 或文件。今天就用全螢幕編輯器來完善你的檔案。看看 Gemini 有什麼新功能。</p>]]></content:encoded>
     </item>
     <item>
-      <title>科羅拉多州學生參加 Google 黑客松，解決電網挑戰。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/</guid>
-      <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 科羅拉多州影響力黑客松的學生打造了像 SolarSnap 這樣的 AI 工具，以現代化電力網。點此查看得獎創新。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp" alt=""></p><p>Google 科羅拉多州影響力黑客松的學生打造了像 SolarSnap 這樣的 AI 工具，以現代化電力網。點此查看得獎創新。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Gemini Notebook 讓數百本教科書可供學生學習更多內容。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/</guid>
@@ -722,16 +722,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Notebook_EI_Textbooks.max-600x600.format-webp.webp" alt=""></p><p>將 OpenStax 和 S Chand 的教科書加入 Google Gemini Notebook。立即產生自訂讀書指南和測驗。查看可用目錄。</p>]]></content:encoded>
     </item>
     <item>
-      <title>用 Google Photos 的這些技巧一起慶祝萬聖節。</title>
-      <link>https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/</guid>
+      <title>科羅拉多州學生參加 Google 黑客松，解決電網挑戰。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/colorado-impact-hackathon/</guid>
       <pubDate>Thu, 29 Oct 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GooglePhotosDropsOct_Static.max-600x600.format-webp.webp" alt=""></p><p>使用 Ask Photos 尋找過去的服裝，並在 Google Photos 中編輯詭異背景。今天就試試這些節慶技巧，讓你的萬聖節照片更完美。</p>]]></content:encoded>
+      <description>Google 科羅拉多州影響力黑客松的學生打造了像 SolarSnap 這樣的 AI 工具，以現代化電力網。點此查看得獎創新。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Phil_Weiser_Keynote_Address_soc.max-600x600.format-webp.webp" alt=""></p><p>Google 科羅拉多州影響力黑客松的學生打造了像 SolarSnap 這樣的 AI 工具，以現代化電力網。點此查看得獎創新。</p>]]></content:encoded>
     </item>
     <item>
       <title>切入 GFN Thursday：《Phantom Blade Zero》登陸 GeForce NOW</title>
