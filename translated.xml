@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 01:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 01:21:15 GMT</lastBuildDate>
     <item>
       <title>《紐約時報》據報正在洽談以 3.3 億美元收購 Letterboxd</title>
       <link>https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/</link>
@@ -366,6 +366,15 @@
       <description>Flipsnack 將 ChatGPT Ads 活動重點放在讓人們試用其產品，在降低每次註冊成本的同時，增加了註冊數。</description>
     </item>
     <item>
+      <title>富蘭克林坦伯頓運用 OpenAI 支援投資研究</title>
+      <link>https://openai.com/index/franklin-templeton</link>
+      <guid isPermaLink="false">https://openai.com/index/franklin-templeton</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>從股票研究開始，富蘭克林坦伯頓正在開發 AI 工作流程，協助投資組合經理比較研究觀點並檢視投資風險。</description>
+    </item>
+    <item>
       <title>觀看 Henry Cavill 在他的 Googlebook 上打造一款電玩遊戲</title>
       <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/</guid>
@@ -606,15 +615,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>以更高的漏洞獎金獎勵防禦者</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
-    </item>
-    <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
       <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
@@ -622,6 +622,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
+    </item>
+    <item>
+      <title>以更高的漏洞獎金獎勵防禦者</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
     </item>
     <item>
       <title>我們在 2026 年 10 月宣布的最新 AI 新聞</title>
@@ -675,15 +684,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
-      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
-    </item>
-    <item>
       <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
       <link>https://openai.com/index/qodo-codex-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
@@ -691,6 +691,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
+    </item>
+    <item>
+      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
     </item>
     <item>
       <title>Google Fitbit Edge：現已上架</title>
@@ -1487,15 +1496,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
-      <link>https://openai.com/index/localiza-generative-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
-    </item>
-    <item>
       <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
       <link>https://openai.com/index/grupo-boticario</link>
       <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
@@ -1503,6 +1503,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
+    </item>
+    <item>
+      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
+      <link>https://openai.com/index/localiza-generative-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
@@ -1955,15 +1964,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>認識 GPT-6.1 Sol：接近 Astra 等級的智慧，可用於程式撰寫、電腦操作與專業工作，而且其標準 API 輸入與輸出 token 價格只有 Astra 的五分之一。</description>
-    </item>
-    <item>
-      <title>DevDay 2026 回顧</title>
-      <link>https://openai.com/index/devday-2026-recap</link>
-      <guid isPermaLink="false">https://openai.com/index/devday-2026-recap</guid>
-      <pubDate>Tue, 29 Sep 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 OpenAI DevDay 2026 的 20 多項公告，包括 GPT-6 Astra、ChatGPT、Codex、API、安全性，以及為開發者打造的新工具。</description>
     </item>
     <item>
       <title>新的 Microsoft 資料創新解鎖只有你的企業才知道的事</title>
