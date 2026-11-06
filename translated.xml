@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 11:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 11:56:10 GMT</lastBuildDate>
+    <item>
+      <title>Tesla 將在 2027 年停止製造 Cybertruck</title>
+      <link>https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185749</guid>
+      <pubDate>Fri, 06 Nov 2026 11:50:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Elon Musk 表示，公司將利用工廠空間生產更多 Cybercab。</description>
+    </item>
     <item>
       <title>自夏季以來，至少有 10 個地方政府已採取行動拆除 Flock 的監視攝影機</title>
       <link>https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/</link>
@@ -291,15 +300,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這款應用程式將提供個人化商品推薦、透過直播和短影音購物、應用程式專屬優惠、應用程式內結帳、訂單追蹤和客服支援。</description>
-    </item>
-    <item>
-      <title>Dropbox 以 3.5 億美元收購 Tigris Data，以強化其 AI 基礎設施</title>
-      <link>https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185428</guid>
-      <pubDate>Thu, 05 Nov 2026 15:19:05 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆交易預計將支援 DBX Agent Cloud 的開發，這是一個鎖定開發 AI 模型與代理的開發者的新儲存平台。</description>
     </item>
     <item>
       <title>WhatsApp Events 讓人們在群組聊天之外也能聚在一起</title>
