@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 22:47:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 23:02:19 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 據報在 1.25 兆美元估值下再募得 110 億美元</title>
+      <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186034</guid>
+      <pubDate>Fri, 06 Nov 2026 22:53:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據報 OpenAI 已再募得 110 億美元，作為一輪尚未完成但預計將在未來幾週內完成的融資的一部分。</description>
+    </item>
     <item>
       <title>Apple 表示，Duo app 即將推出</title>
       <link>https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/</link>
@@ -240,15 +249,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Meta 警告，對資料中心日益升高的政治反對聲浪，可能威脅未來的 AI 投資，因為社區正在反對大型基礎設施專案。</description>
-    </item>
-    <item>
-      <title>OpenAI 推出了一個新的資安模型。這樣夠嗎？</title>
-      <link>https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185414</guid>
-      <pubDate>Thu, 05 Nov 2026 19:06:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 最新的資安模型登場之際，AI 實驗室正因其保護數位基礎設施的工作而面臨審視。</description>
     </item>
     <item>
       <title>讓你的 Muse 開口說話</title>
