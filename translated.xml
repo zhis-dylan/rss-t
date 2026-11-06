@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 18:30:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 18:45:15 GMT</lastBuildDate>
+    <item>
+      <title>數百個 Artex AI 駭客工具被發現公開暴露在網路上</title>
+      <link>https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185905</guid>
+      <pubDate>Fri, 06 Nov 2026 18:44:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>資安研究人員發現，數百台主機正在代管滲透測試工具 Artex，且對網際網路開放，讓任何人都能存取這個駭客工具。</description>
+    </item>
+    <item>
+      <title>Meta 推出 Spaces，一種與你的 Muse 助理協作的新方式</title>
+      <link>https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185929</guid>
+      <pubDate>Fri, 06 Nov 2026 18:44:20 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 的 Muse 助理持續獲得新功能與整合。Spaces 承諾將成為與這些 AI 助理互動的新方式。</description>
+    </item>
     <item>
       <title>為你量身打造 Muse App</title>
       <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</link>
@@ -235,24 +253,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/11/Were-rolling-out-voice-and-expressive-avatars-in-the-Muse-app_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/Were-rolling-out-voice-and-expressive-avatars-in-the-Muse-app_Thumbnail.gif?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Were-rolling-out-voice-and-expressive-avatars-in-the-Muse-app_Thumbnail.gif?fit=890%2C501" alt=""></p><p>我們正在為 Muse app 推出語音和表情豐富的虛擬化身，讓你能以一種全新、自然的方式與你的 Muse 互動。<br>這篇〈讓你的 Muse 開口說話〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 總裁 Greg Brockman 表示公司可能在 2027 年具備 IPO 條件</title>
-      <link>https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185500</guid>
-      <pubDate>Thu, 05 Nov 2026 18:02:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 總裁 Greg Brockman 表示，受企業營收加速成長以及業務好轉影響，公司可能在 2027 年做好上市準備。</description>
-    </item>
-    <item>
-      <title>曾讓駭客倒戈的前特勤局探員，如今正在募集第二檔 2.5 億美元的資安基金</title>
-      <link>https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185041</guid>
-      <pubDate>Thu, 05 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>前特勤局探員兼 Home Depot 資安長 Stephen Ward，正為 Brightmind Partners 籌備一檔規模約 2.5 億美元的第二檔基金。</description>
     </item>
     <item>
       <title>澳洲大學正在培養 AI 原生畢業生</title>
