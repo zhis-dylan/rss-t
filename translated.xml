@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 05 Nov 2026 23:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:05:32 GMT</lastBuildDate>
+    <item>
+      <title>Meta、Google 和 TikTok 對加州檢察長提起訴訟，挑戰青少年社群媒體法</title>
+      <link>https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185648</guid>
+      <pubDate>Fri, 06 Nov 2026 00:01:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>如果這項加州法律明年生效，將會限制 16 歲以下兒童使用社群媒體。</description>
+    </item>
     <item>
       <title>Airbnb 表示將於 2027 年上半年推出 AI 旅遊助理</title>
       <link>https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/</link>
@@ -310,15 +319,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Check_out_our_free_livestream_d.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Check_out_our_free_livestream_d.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Check_out_our_free_livestream_d.max-600x600.format-webp.webp" alt=""></p><p>加入我們 2026 年 11 月的 YouTube 直播，慶祝國家退伍軍人小型企業週。掌握 Gemini 的 AI 技能，並獲得一對一指導。立即報名。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>RadianX 承諾推出永遠不需要充電的太陽能裝置</title>
-      <link>https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185003</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>現在的可攜式裝置耗電太兇，傳統太陽能板根本帶不動，但 RadianX 表示，他們的鈣鈦礦電池有望在某些情況下讓充電變得多餘。</description>
     </item>
     <item>
       <title>GPT‑6 Cyber：推進對齊的資安代理前沿</title>
