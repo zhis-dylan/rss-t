@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 15:58:31 GMT</lastBuildDate>
+    <item>
+      <title>Ramp 數據顯示，AI 支出正停滯，而 Anthropic 即將接近 IPO</title>
+      <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185848</guid>
+      <pubDate>Fri, 06 Nov 2026 15:54:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AI 使用量持續攀升，但支出已停滯。最大客戶之中的降價與更聰明的成本控管，可能會挑戰投資人對 AI 超高速成長的假設。</description>
+    </item>
     <item>
       <title>在封鎖 Muse 後，亞馬遜現在讓用戶傳訊息給 Alexa 來協助購物</title>
       <link>https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/</link>
@@ -267,15 +276,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 將你的草圖變成功能完整的應用程式。將你的繪圖上傳到 Canvas 工具，即可立即產生並調整程式碼。現在就試試看。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Axiom Math 想把 AI 垃圾內容擋在數學之外</title>
-      <link>https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185344</guid>
-      <pubDate>Thu, 05 Nov 2026 16:16:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當 AI 用大量未經查核的證明淹沒數學領域時，Axiom Math 押注的是驗證。這家新創的 AI 代理剛剛正式驗證了 Stacks Project，這是該領域最大的函式庫之一。</description>
     </item>
     <item>
       <title>開放權重的魔法師：Chris Alexiuk 讓 AI 透過開放模型變得更容易上手</title>
