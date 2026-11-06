@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 00:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:20:41 GMT</lastBuildDate>
+    <item>
+      <title>《紐約時報》據報正在洽談以 3.3 億美元收購 Letterboxd</title>
+      <link>https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185685</guid>
+      <pubDate>Fri, 06 Nov 2026 00:07:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Letterboxd 是一個供電影愛好者使用的線上平台，近年來成長迅速。</description>
+    </item>
     <item>
       <title>Meta、Google 和 TikTok 對加州檢察長提起訴訟，挑戰青少年社群媒體法</title>
       <link>https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/</link>
@@ -286,15 +295,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>ElevenLabs 表示，已經有超過 2500 萬首音軌是使用其音樂模型生成的。</description>
-    </item>
-    <item>
-      <title>Aina 的智慧戒指有螢幕、搖桿和麥克風，讓你能和 AI 代理人對話</title>
-      <link>https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185356</guid>
-      <pubDate>Thu, 05 Nov 2026 14:42:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Aina 的戒指也可以接電話，並幫你在 Mac 上口述筆記。</description>
     </item>
     <item>
       <title>《霍格華茲的傳承》在 GeForce NOW 上獲得魔法般的 NVIDIA DLSS 5 升級</title>
