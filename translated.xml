@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 07:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 07:24:12 GMT</lastBuildDate>
+    <item>
+      <title>自夏季以來，至少有 10 個地方政府已採取行動拆除 Flock 的監視攝影機</title>
+      <link>https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185721</guid>
+      <pubDate>Fri, 06 Nov 2026 07:18:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>擔憂範圍從隱私，到資料如何共享（以及與誰共享），再到採購疑慮。</description>
+    </item>
     <item>
       <title>Palo Alto Networks 正在洽談以 5 億美元收購 AI 代理安全新創 Clutch</title>
       <link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/</link>
@@ -304,15 +313,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/11/WhatsApp-is-your-events-planning-lifesaver_Header-1.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/WhatsApp-is-your-events-planning-lifesaver_Header-1.jpg?fit=1920%2C1080"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/WhatsApp-is-your-events-planning-lifesaver_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出 WhatsApp 上 Events 的更新，讓大家更容易相聚，例如新增一個 Events 首頁來簡化你的規劃流程，還能把邀請傳給不使用 WhatsApp 的人。<br>〈WhatsApp Events 讓人們在群組聊天之外也能聚在一起〉最先出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Instagram 將 Edits 帶到桌面版，以對抗 CapCut</title>
-      <link>https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185139</guid>
-      <pubDate>Thu, 05 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>此舉讓 Edits 與 ByteDance 的 CapCut 直接競爭；Meta 去年推出 Edits 時，原本就是想挑戰這款影片編輯 app。</description>
     </item>
     <item>
       <title>《霍格華茲的傳承》在 GeForce NOW 上獲得魔法般的 NVIDIA DLSS 5 升級</title>
