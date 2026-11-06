@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:57:59 GMT</lastBuildDate>
+    <item>
+      <title>在封鎖 Muse 後，亞馬遜現在讓用戶傳訊息給 Alexa 來協助購物</title>
+      <link>https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185780</guid>
+      <pubDate>Fri, 06 Nov 2026 14:10:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>亞馬遜表示，這項功能將在接下來幾週向數百萬名用戶推出。</description>
+    </item>
     <item>
       <title>Underdog 展示一款 32MB 語音模型新示範</title>
       <link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/</link>
@@ -291,15 +300,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546" alt=""></p><p>更大型的模型、更長的上下文與代理式應用正在加劇 GPU 記憶體壓力，同時供給趨緊、價格上漲——而這個趨勢預計在短期內還會持續。NVIDIA 與記憶體合作夥伴密切合作，迅速採用最新的記憶體技術。NVIDIA 是第一家在加速運算堆疊中導入 HBM3e 與 HBM4 技術的公司。 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Bluesky 在選舉之夜達到今年的使用高峰</title>
-      <link>https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185422</guid>
-      <pubDate>Thu, 05 Nov 2026 15:44:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Bluesky 執行長 Toni Schneider 表示，美國期中選舉在週二進行期間，貼文數和按讚數都翻倍了。</description>
     </item>
     <item>
       <title>WhatsApp Events 讓人們在群組聊天之外也能聚在一起</title>
