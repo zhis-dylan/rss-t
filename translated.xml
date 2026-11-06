@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 06:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 06:38:48 GMT</lastBuildDate>
+    <item>
+      <title>Palo Alto Networks 正在洽談以 5 億美元收購 AI 代理安全新創 Clutch</title>
+      <link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185713</guid>
+      <pubDate>Fri, 06 Nov 2026 06:28:32 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據消息人士指出，由 Lightspeed 和 SignalFire 支持的 Clutch，最近一次估值為 8,500 萬美元。</description>
+    </item>
     <item>
       <title>《紐約時報》據報正在洽談以 3.3 億美元收購 Letterboxd</title>
       <link>https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/</link>
@@ -304,15 +313,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>此舉讓 Edits 與 ByteDance 的 CapCut 直接競爭；Meta 去年推出 Edits 時，原本就是想挑戰這款影片編輯 app。</description>
-    </item>
-    <item>
-      <title>ElevenLabs 現在讓使用者可直接在 SoundCloud 發布 AI 生成音樂</title>
-      <link>https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185352</guid>
-      <pubDate>Thu, 05 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>ElevenLabs 表示，已經有超過 2500 萬首音軌是使用其音樂模型生成的。</description>
     </item>
     <item>
       <title>《霍格華茲的傳承》在 GeForce NOW 上獲得魔法般的 NVIDIA DLSS 5 升級</title>
