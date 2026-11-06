@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 15:58:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 16:13:47 GMT</lastBuildDate>
+    <item>
+      <title>Fox 完成以 220 億美元收購 Roku</title>
+      <link>https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185855</guid>
+      <pubDate>Fri, 06 Nov 2026 16:05:36 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在美國司法部調查員對這筆交易進行調查幾個月後，Fox 剛完成以 220 億美元收購串流媒體巨頭 Roku。</description>
+    </item>
+    <item>
+      <title>NVIDIA 開源工具如何幫助研究人員打造下一代 6G 網路</title>
+      <link>https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</guid>
+      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>一年前，NVIDIA 開源了其 Aerial 無線軟體，與 Sionna 以及更廣泛的一套開源工具一起，加速下一代 6G 網路的開發。它們合在一起，為研究人員提供了測試想法、比較結果並在彼此的研究基礎上持續發展的平台——將模擬和 AI 訓練與真實空中無線實驗連結起來 […]</description>
+    </item>
     <item>
       <title>Ramp 數據顯示，AI 支出正停滯，而 Anthropic 即將接近 IPO</title>
       <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
@@ -222,15 +240,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家總部位於洛杉磯的新創公司目前已募得超過 6.5 億美元，並正在開發電動卡車、緊急救援車輛，以及供軍方使用的無人駕駛平台。</description>
-    </item>
-    <item>
-      <title>外送新創 Wonder 申請 IPO，探索下一個大動作</title>
-      <link>https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185493</guid>
-      <pubDate>Thu, 05 Nov 2026 17:11:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>經過多年募資、收購與擴張後，外送新創 Wonder 正逐步邁向成為上市公司。</description>
     </item>
     <item>
       <title>澳洲大學正在培養 AI 原生畢業生</title>
@@ -1312,18 +1321,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803" alt=""></p><p>世界各地的公司正在 NVIDIA DSX AI Factory 平台上打造解決方案，將電網與 AI 工廠視為一個系統來規劃、模擬和運行，從變電站一路到機櫃。他們採用該平台，是為了回應一個迫切的問題。電力如今已成為基礎架構中最大的瓶頸。超過 3000 億美元 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 轉型歐洲零售業，從數位探索到實體營運</title>
-      <link>https://blogs.nvidia.com/blog/european-retail-open-models-robotics/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/european-retail-open-models-robotics/</guid>
-      <pubDate>Thu, 22 Oct 2026 05:00:23 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>歐洲零售商正在多種用例中運用開放模型與實體智慧——從一家將推論成本降低 90% 的商務平台，到一個在數位孿生中模擬不同機器人車隊協作的履約中心。前沿成果來自開放模型 零售領導者與科技公司遍布歐洲，正使用 NVIDIA 加速的開放 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/3f26382512bb52ee56851e6855196454/6ad998963d6332948d724d4c_NVIDIA-European-Retail-842x450/NVIDIA-European-Retail-842x450_thmb.jpg?v=ecf63af1-231f-420b-a688-a133c6b7c0d6" alt=""></p><p>歐洲零售商正在多種用例中運用開放模型與實體智慧——從一家將推論成本降低 90% 的商務平台，到一個在數位孿生中模擬不同機器人車隊協作的履約中心。前沿成果來自開放模型 零售領導者與科技公司遍布歐洲，正使用 NVIDIA 加速的開放 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Uber 將與 OpenAI 合作，把 ChatGPT Work 開放給所有員工</title>
