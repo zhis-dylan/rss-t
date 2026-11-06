@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 06 Nov 2026 17:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 17:29:28 GMT</lastBuildDate>
+    <item>
+      <title>期中選舉後，AI 產業接下來兩年會很艱難嗎？</title>
+      <link>https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3185895</guid>
+      <pubDate>Fri, 06 Nov 2026 17:23:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>民主黨在本週美國期中選舉中歷史性的勝利，也可能改變科技業。選民週二針對 41 項與資料中心相關的公投提案進行投票——除了其中一項之外，其餘都以多數票通過，對資料中心開發施加更多限制。即使資料中心沒有直接出現在選票上，它們也曾是……</description>
+    </item>
     <item>
       <title>五角大廈向電池新創 6K 提供 2.5 億美元貸款，協助在美國建廠</title>
       <link>https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/</link>
@@ -231,15 +240,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>前特勤局探員兼 Home Depot 資安長 Stephen Ward，正為 Brightmind Partners 籌備一檔規模約 2.5 億美元的第二檔基金。</description>
-    </item>
-    <item>
-      <title>Claude 現在可透過新的個人理財工具分析你的支出</title>
-      <link>https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185468</guid>
-      <pubDate>Thu, 05 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>有了 Claude 的個人理財功能，使用者可以透過 Plaid 連接自己的銀行和信用卡帳戶，並詢問與財務相關的問題。</description>
     </item>
     <item>
       <title>澳洲大學正在培養 AI 原生畢業生</title>
