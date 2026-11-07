@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:57:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 22:12:32 GMT</lastBuildDate>
+    <item>
+      <title>期中選舉過後，伊隆・馬斯克和資料中心的前景看起來不太穩定</title>
+      <link>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186091</guid>
+      <pubDate>Sat, 07 Nov 2026 22:07:22 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 Equity 節目中，我們解析了期中選舉對科技業的意義。</description>
+    </item>
     <item>
       <title>據美國情報備忘錄，Megaspeed 高層被招募來監視 Nvidia 執行長</title>
       <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
@@ -198,15 +207,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正與 Hacktron 合作，找出漏洞、測試與第三方服務的連線，並以前沿 AI 強化防禦。</description>
-    </item>
-    <item>
-      <title>自夏季以來，至少有 10 個地方政府已採取行動拆除 Flock 的監視攝影機</title>
-      <link>https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185721</guid>
-      <pubDate>Fri, 06 Nov 2026 07:18:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>擔憂範圍從隱私，到資料如何共享（以及與誰共享），再到採購疑慮。</description>
     </item>
     <item>
       <title>測量 AI 代理如何處理日常濕實驗室科學</title>
