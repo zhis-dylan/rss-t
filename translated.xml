@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 07 Nov 2026 04:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 04:19:38 GMT</lastBuildDate>
+    <item>
+      <title>從前排到被質詢席——期中選舉對大型科技公司意味著什麼</title>
+      <link>https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186018</guid>
+      <pubDate>Sat, 07 Nov 2026 04:16:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在與白宮打交道兩年後，大型科技公司突然開始嘗試和民主黨建立好關係，而現在的疑問是，這種形象改造能否經得起各州、地方社區和市場即將採取的行動考驗。</description>
+    </item>
     <item>
       <title>Crusoe 將陷入困境的懷俄明州資料中心專案出售給 Google</title>
       <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
@@ -240,15 +249,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pics-blog-header-2784x1566.max-600x600.format-webp.webp" alt=""></p><p>使用新的 Omni 1.2 Flash 模型在 Google Vids 中建立更長的 AI 影片。免費生成 15 秒片段和一致的場景。立即試用。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Meta 表示美國用戶現在可以和自己的 Muse AI 頭像進行視訊聊天</title>
-      <link>https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185610</guid>
-      <pubDate>Thu, 05 Nov 2026 19:48:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 的 AI 代理現在可以化身為可自訂的動畫頭像接電話，這項功能將先於一款類似電子雞的穿戴裝置推出，該裝置旨在讓 Muse 活起來。</description>
     </item>
     <item>
       <title>讓你的 Muse 開口說話</title>
