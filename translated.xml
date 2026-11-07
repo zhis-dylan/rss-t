@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 07 Nov 2026 21:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:27:09 GMT</lastBuildDate>
+    <item>
+      <title>據美國情報備忘錄，Megaspeed 高層被招募來監視 Nvidia 執行長</title>
+      <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186087</guid>
+      <pubDate>Sat, 07 Nov 2026 21:17:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>據稱，今年稍早流傳的一份備忘錄表示，中國國家安全部招募了一名女性科技高層去監視 Nvidia 執行長。</description>
+    </item>
     <item>
       <title>家長想要更安全的兒童手機。這些公司正在回應這個需求。</title>
       <link>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</link>
@@ -198,15 +207,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>擔憂範圍從隱私，到資料如何共享（以及與誰共享），再到採購疑慮。</description>
-    </item>
-    <item>
-      <title>Palo Alto Networks 正在洽談以 5 億美元收購 AI 代理安全新創 Clutch</title>
-      <link>https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185713</guid>
-      <pubDate>Fri, 06 Nov 2026 06:28:32 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據消息人士指出，由 Lightspeed 和 SignalFire 支持的 Clutch，最近一次估值為 8,500 萬美元。</description>
     </item>
     <item>
       <title>測量 AI 代理如何處理日常濕實驗室科學</title>
