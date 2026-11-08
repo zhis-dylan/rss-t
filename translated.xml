@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 08 Nov 2026 21:55:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 22:10:59 GMT</lastBuildDate>
+    <item>
+      <title>幫你分散注意力、遠離無止盡滑新聞的 App</title>
+      <link>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3102406</guid>
+      <pubDate>Sun, 08 Nov 2026 22:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>要打破滑新聞滑不停的循環很難，但有不少 App 可以幫你把更多時間花在更有吸引力、也更有生產力的內容上。</description>
+    </item>
     <item>
       <title>給全體同仁的一封信</title>
       <link>https://nvidianews.nvidia.com/news/a-message-to-our-company</link>
@@ -200,15 +209,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>資安研究人員發現，數百台主機正在代管滲透測試工具 Artex，且對網際網路開放，讓任何人都能存取這個駭客工具。</description>
-    </item>
-    <item>
-      <title>Meta 推出 Spaces，一種與你的 Muse 助理協作的新方式</title>
-      <link>https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185929</guid>
-      <pubDate>Fri, 06 Nov 2026 18:44:20 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Meta 的 Muse 助理持續獲得新功能與整合。Spaces 承諾將成為與這些 AI 助理互動的新方式。</description>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
