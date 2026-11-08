@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 08 Nov 2026 19:54:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:09:50 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 董事會聲明</title>
+      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</guid>
+      <pubDate>Sun, 08 Nov 2026 20:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 董事會已啟動獨立調查，因應近期報導指出，創辦人兼執行長 Jensen Huang 成為外國情報行動的目標。委員會……</description>
+    </item>
     <item>
       <title>據報 Roelof Botha 加入 SpaceX 董事會時，紅杉資本合夥人感到措手不及</title>
       <link>https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/</link>
@@ -1331,18 +1340,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/7555d5f01553f3b431523e3117d5f8f5/6ad9988a3d6332948d724d3e_NVIDIA-Cosmos-New-Tools-2026-842x450/NVIDIA-Cosmos-New-Tools-2026-842x450_thmb.jpg?v=543886cd-2660-41cb-98ae-8dbf23500340" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/7555d5f01553f3b431523e3117d5f8f5/6ad9988a3d6332948d724d3e_NVIDIA-Cosmos-New-Tools-2026-842x450/NVIDIA-Cosmos-New-Tools-2026-842x450_thmb.jpg?v=543886cd-2660-41cb-98ae-8dbf23500340"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/7555d5f01553f3b431523e3117d5f8f5/6ad9988a3d6332948d724d3e_NVIDIA-Cosmos-New-Tools-2026-842x450/NVIDIA-Cosmos-New-Tools-2026-842x450_thmb.jpg?v=543886cd-2660-41cb-98ae-8dbf23500340" alt=""></p><p>為了協助開發者快速打造世界模型，這些模型可幫助實體 AI 系統理解並模擬真實世界，NVIDIA 已為 Cosmos 平台擴充新的訓練工具、模擬檢查點，以及 Cosmos Data Factory 藍圖。NVIDIA Cosmos 平台在六個不同的開放模型排行榜中名列前五，為世界模型開發者提供前沿的開放 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>企業如何運用 NVIDIA DSX 突破電力瓶頸</title>
-      <link>https://blogs.nvidia.com/blog/dsx-power/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/dsx-power/</guid>
-      <pubDate>Thu, 22 Oct 2026 05:00:25 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>世界各地的公司正在 NVIDIA DSX AI Factory 平台上打造解決方案，將電網與 AI 工廠視為一個系統來規劃、模擬和運行，從變電站一路到機櫃。他們採用該平台，是為了回應一個迫切的問題。電力如今已成為基礎架構中最大的瓶頸。超過 3000 億美元 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/68612dde5305787f2cb824cd510fbca1/6ad998903d6332948d724d45_dsx-ai-factory-platform-842x450/dsx-ai-factory-platform-842x450_thmb.jpg?v=6d2a2b7d-2022-4b34-bfe9-4ada236de803" alt=""></p><p>世界各地的公司正在 NVIDIA DSX AI Factory 平台上打造解決方案，將電網與 AI 工廠視為一個系統來規劃、模擬和運行，從變電站一路到機櫃。他們採用該平台，是為了回應一個迫切的問題。電力如今已成為基礎架構中最大的瓶頸。超過 3000 億美元 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Uber 將與 OpenAI 合作，把 ChatGPT Work 開放給所有員工</title>
