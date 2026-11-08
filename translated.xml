@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 08 Nov 2026 20:24:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 20:40:07 GMT</lastBuildDate>
+    <item>
+      <title>協調性干擾困擾全球電網。研究人員是這樣解開這個謎團的。</title>
+      <link>https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185903</guid>
+      <pubDate>Sun, 08 Nov 2026 20:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>謎團解開了：協調性的供電下降一直困擾著全球電網，但德國一支研究團隊找出了元兇。</description>
+    </item>
     <item>
       <title>NVIDIA 董事會聲明</title>
       <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
@@ -189,15 +198,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>五角大廈已附帶條件核准一筆 2.5 億美元貸款，協助 6K 擴大其微波電漿電池材料製造流程。</description>
-    </item>
-    <item>
-      <title>Fox 完成以 220 億美元收購 Roku</title>
-      <link>https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185855</guid>
-      <pubDate>Fri, 06 Nov 2026 16:05:36 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在美國司法部調查員對這筆交易進行調查幾個月後，Fox 剛完成以 220 億美元收購串流媒體巨頭 Roku。</description>
     </item>
     <item>
       <title>NVIDIA 開源工具如何幫助研究人員打造下一代 6G 網路</title>
