@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 08 Nov 2026 14:51:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 15:06:42 GMT</lastBuildDate>
+    <item>
+      <title>Ninja 的 AutoBarista 令人印象深刻地多功能，但有一項功能對我來說是致命缺點</title>
+      <link>https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185847</guid>
+      <pubDate>Sun, 08 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>AutoBarista 的「Grind iQ」技術可讓機器分析你的咖啡豆，以決定如何萃取一杯濃縮咖啡。</description>
+    </item>
     <item>
       <title>期中選舉過後，伊隆・馬斯克和資料中心的前景看起來不太穩定</title>
       <link>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</link>
@@ -189,15 +198,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Physicl 正嘗試用一套最初為線上行銷商品而打造的流程，來解決模擬到真實的落差。</description>
-    </item>
-    <item>
-      <title>Tesla 將在 2027 年停止製造 Cybertruck</title>
-      <link>https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185749</guid>
-      <pubDate>Fri, 06 Nov 2026 11:50:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Elon Musk 表示，公司將利用工廠空間生產更多 Cybercab。</description>
     </item>
     <item>
       <title>與 Hacktron 合作，找出 OpenAI 系統中的漏洞</title>
