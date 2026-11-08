@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 08 Nov 2026 19:39:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 19:54:40 GMT</lastBuildDate>
+    <item>
+      <title>據報 Roelof Botha 加入 SpaceX 董事會時，紅杉資本合夥人感到措手不及</title>
+      <link>https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186115</guid>
+      <pubDate>Sun, 08 Nov 2026 19:51:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一份新報告稱，紅杉資本近期的變動推翻了這家公司的前任掌舵者所留下的傳統。</description>
+    </item>
     <item>
       <title>SNL 有了對 Elon Musk 的新模仿，「南非做過最糟糕的事」</title>
       <link>https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/</link>
@@ -189,15 +198,6 @@
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>一年前，NVIDIA 開源了其 Aerial 無線軟體，與 Sionna 以及更廣泛的一套開源工具一起，加速下一代 6G 網路的開發。它們合在一起，為研究人員提供了測試想法、比較結果並在彼此的研究基礎上持續發展的平台——將模擬和 AI 訓練與真實空中無線實驗連結起來 […]</description>
-    </item>
-    <item>
-      <title>Ramp 數據顯示，AI 支出正停滯，而 Anthropic 即將接近 IPO</title>
-      <link>https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185848</guid>
-      <pubDate>Fri, 06 Nov 2026 15:54:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>AI 使用量持續攀升，但支出已停滯。最大客戶之中的降價與更聰明的成本控管，可能會挑戰投資人對 AI 超高速成長的假設。</description>
     </item>
     <item>
       <title>與 Hacktron 合作，找出 OpenAI 系統中的漏洞</title>
