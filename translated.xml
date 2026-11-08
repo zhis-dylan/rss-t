@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 08 Nov 2026 16:52:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:07:54 GMT</lastBuildDate>
+    <item>
+      <title>TechCrunch Mobility：Cybertruck 實驗結束了</title>
+      <link>https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185894</guid>
+      <pubDate>Sun, 08 Nov 2026 17:02:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>歡迎回到 TechCrunch Mobility，這裡是交通運輸未來的樞紐，而現在，比以往任何時候都更能看見 AI 在其中扮演的角色。</description>
+    </item>
     <item>
       <title>Ninja 的 AutoBarista 令人印象深刻地多功能，但有一項功能對我來說是致命缺點</title>
       <link>https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/</link>
@@ -189,15 +198,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>儘管體積很小，Underdog 的新模型可以生成語音和音樂。</description>
-    </item>
-    <item>
-      <title>Physicl 募得 1,000 萬美元，讓數位世界對機器人來說足夠真實</title>
-      <link>https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185667</guid>
-      <pubDate>Fri, 06 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Physicl 正嘗試用一套最初為線上行銷商品而打造的流程，來解決模擬到真實的落差。</description>
     </item>
     <item>
       <title>與 Hacktron 合作，找出 OpenAI 系統中的漏洞</title>
