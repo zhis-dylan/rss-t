@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 08 Nov 2026 17:23:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 17:38:13 GMT</lastBuildDate>
+    <item>
+      <title>他逮捕了一名駭客，接著花了 18 個月洗清自己的名聲。現在他成了資安風險投資人。</title>
+      <link>https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185041</guid>
+      <pubDate>Sun, 08 Nov 2026 17:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Stephen Ward，前美國特勤局探員、Home Depot 的資安長，正為 Brightmind Partners 籌備一檔規模約 2.5 億美元的第二支基金。</description>
+    </item>
     <item>
       <title>TechCrunch Mobility：Cybertruck 實驗結束了</title>
       <link>https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/</link>
@@ -189,15 +198,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>亞馬遜表示，這項功能將在接下來幾週向數百萬名用戶推出。</description>
-    </item>
-    <item>
-      <title>Underdog 展示一款 32MB 語音模型新示範</title>
-      <link>https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185376</guid>
-      <pubDate>Fri, 06 Nov 2026 13:02:16 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>儘管體積很小，Underdog 的新模型可以生成語音和音樂。</description>
     </item>
     <item>
       <title>與 Hacktron 合作，找出 OpenAI 系統中的漏洞</title>
