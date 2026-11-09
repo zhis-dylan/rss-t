@@ -5,7 +5,67 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 04:59:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:14:16 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 協助韓國在各行各業推進實體 AI</title>
+      <link>https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:40 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>憑藉韓國在製造與工程方面的優勢，NVIDIA 正協助推進韓國的實體 AI 生態系。該國產業領導者正將加速運算、AI 與模擬應用到從半導體製造到機器人與自動駕駛車輛等各種領域。這些努力正協助實體 AI 從開發走向真實世界的生產環境。三星在半導體工程方面取得進展，透過 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a" alt=""></p><p>憑藉韓國在製造與工程方面的優勢，NVIDIA 正協助推進韓國的實體 AI 生態系。該國產業領導者正將加速運算、AI 與模擬應用到從半導體製造到機器人與自動駕駛車輛等各種領域。這些努力正協助實體 AI 從開發走向真實世界的生產環境。三星在半導體工程方面取得進展，透過 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 協助韓國的 AI 生態系推進並強化代理式 AI</title>
+      <link>https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:39 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>隨著 AI 代理承擔越來越多工作，它們需要更有能力的開放模型，以及能同步提升的安全性。現代汽車集團正探索 NVIDIA NemoClaw 藍圖與 NVIDIA OpenShell 執行環境，而 AIM Intelligence 正將其 Starfort 平台與 NVIDIA OpenShell 整合，以支援用於員工生產力與企業工作流程的安全 AI 代理。關鍵 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/28304ad297f4e58a8ca7d55602442a81/6af153a03d6332c13862b0b0_korea-agentic-ai-1920x1080-1-842x450/korea-agentic-ai-1920x1080-1-842x450_thmb.jpg?v=522d0dbf-3a44-45c8-8dc9-9c2688e16eda" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/28304ad297f4e58a8ca7d55602442a81/6af153a03d6332c13862b0b0_korea-agentic-ai-1920x1080-1-842x450/korea-agentic-ai-1920x1080-1-842x450_thmb.jpg?v=522d0dbf-3a44-45c8-8dc9-9c2688e16eda"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/28304ad297f4e58a8ca7d55602442a81/6af153a03d6332c13862b0b0_korea-agentic-ai-1920x1080-1-842x450/korea-agentic-ai-1920x1080-1-842x450_thmb.jpg?v=522d0dbf-3a44-45c8-8dc9-9c2688e16eda" alt=""></p><p>隨著 AI 代理承擔越來越多工作，它們需要更有能力的開放模型，以及能同步提升的安全性。現代汽車集團正探索 NVIDIA NemoClaw 藍圖與 NVIDIA OpenShell 執行環境，而 AIM Intelligence 正將其 Starfort 平台與 NVIDIA OpenShell 整合，以支援用於員工生產力與企業工作流程的安全 AI 代理。關鍵 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>從晶片到技能，NVIDIA 與韓國擴大主權 AI 合作</title>
+      <link>https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:04 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 與韓國科學及資訊通信部（MSIT）正擴大雙方在韓國主權 AI 生態系的合作，範圍涵蓋 AI 半導體與資料中心基礎架構，以及人才、新創、模型、代理與安全性。這項合作為韓國 NPU 與 XPU 公司探索參與 NVIDIA NVLink Fusion 生態系奠定基礎，並包括 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/936a6ec7047953d3920f28af5d729de9/6af1541d3d6332c3242f4ef1_korea-sovereign-ai-nvlink-fusion-842x450/korea-sovereign-ai-nvlink-fusion-842x450_thmb.jpg?v=d1ef960e-4a0e-443a-bbdd-c56b60a92dfe" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/936a6ec7047953d3920f28af5d729de9/6af1541d3d6332c3242f4ef1_korea-sovereign-ai-nvlink-fusion-842x450/korea-sovereign-ai-nvlink-fusion-842x450_thmb.jpg?v=d1ef960e-4a0e-443a-bbdd-c56b60a92dfe"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/936a6ec7047953d3920f28af5d729de9/6af1541d3d6332c3242f4ef1_korea-sovereign-ai-nvlink-fusion-842x450/korea-sovereign-ai-nvlink-fusion-842x450_thmb.jpg?v=d1ef960e-4a0e-443a-bbdd-c56b60a92dfe" alt=""></p><p>NVIDIA 與韓國科學及資訊通信部（MSIT）正擴大雙方在韓國主權 AI 生態系的合作，範圍涵蓋 AI 半導體與資料中心基礎架構，以及人才、新創、模型、代理與安全性。這項合作為韓國 NPU 與 XPU 公司探索參與 NVIDIA NVLink Fusion 生態系奠定基礎，並包括 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA Dynamo 配方將韓國領先的開放模型帶入生產環境</title>
+      <link>https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 正針對韓國領先的開放模型推出經 Dynamo 最佳化的部署配方：來自 SK Telecom 的 A.X K2、來自 LG AI Research 的 K-EXAONE 2.0、來自 Upstage 的 Solar Open 2，以及來自 Motif Technologies 的 Motif-3。隨著模型規模超過單一 GPU 的容量，它們必須分散到多個 GPU 上，這需要仔細協調請求路由 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/b75be4172ba348b544f7f761365c6f66/6af154233d6332c3242f4ef8_dynamo-korea-ai-day-842x450/dynamo-korea-ai-day-842x450_thmb.jpg?v=521580c6-6e81-497d-ba27-8df541429dd0" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/b75be4172ba348b544f7f761365c6f66/6af154233d6332c3242f4ef8_dynamo-korea-ai-day-842x450/dynamo-korea-ai-day-842x450_thmb.jpg?v=521580c6-6e81-497d-ba27-8df541429dd0"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/b75be4172ba348b544f7f761365c6f66/6af154233d6332c3242f4ef8_dynamo-korea-ai-day-842x450/dynamo-korea-ai-day-842x450_thmb.jpg?v=521580c6-6e81-497d-ba27-8df541429dd0" alt=""></p><p>NVIDIA 正針對韓國領先的開放模型推出經 Dynamo 最佳化的部署配方：來自 SK Telecom 的 A.X K2、來自 LG AI Research 的 K-EXAONE 2.0、來自 Upstage 的 Solar Open 2，以及來自 Motif Technologies 的 Motif-3。隨著模型規模超過單一 GPU 的容量，它們必須分散到多個 GPU 上，這需要仔細協調請求路由 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA、Rebellions 與 SK Telecom 宣布合作，透過 NVIDIA NVLink Fusion 推進主權 AI 基礎架構</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA、Rebellions 與 SK Telecom 今日宣布合作，透過 NVIDIA NVLink Fusion™ 結合 NVIDIA 的開放基礎架構平台、Rebellions 以韓國設計的 AI 處理器，以及 SK Telecom 的 AI 資料中心、模型與服務能力，推進韓國的主權 AI 基礎架構。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433" alt=""></p><p>NVIDIA、Rebellions 與 SK Telecom 今日宣布合作，透過 NVIDIA NVLink Fusion™ 結合 NVIDIA 的開放基礎架構平台、Rebellions 以韓國設計的 AI 處理器，以及 SK Telecom 的 AI 資料中心、模型與服務能力，推進韓國的主權 AI 基礎架構。</p>]]></content:encoded>
+    </item>
     <item>
       <title>幫你分散注意力、遠離無止盡滑新聞的 App</title>
       <link>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</link>
@@ -1100,18 +1160,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>OpenAI 與 Oracle 正在擴大合作，將商業應用程式和 AI 代理帶進 ChatGPT，並為新的 Oracle 產品提供支援。</description>
     </item>
     <item>
-      <title>NVIDIA 與 Meta 將擴大在 Muse 和 Muse 模型家族上的合作，因應強勁成長</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-meta-to-expand-collaboration-on-muse-and-muse-family-of-models-amid-robust-growth</guid>
-      <pubDate>Tue, 27 Oct 2026 05:52:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 和 Meta 今天宣布，雙方將合作擴大在 Muse 和 Muse 模型家族上的工作，以提升推論和訓練效能，反映出市場對實用 AI 代理的強勁需求。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/e94f1653d286c13260a76fb1b9084960/6ae01b2d3d6332b69004e23d_meta_and_nvidia/meta_and_nvidia_thmb.png?v=1b0c7d28-ee2e-401f-84ac-795e5ac88591" alt=""></p><p>NVIDIA 和 Meta 今天宣布，雙方將合作擴大在 Muse 和 Muse 模型家族上的工作，以提升推論和訓練效能，反映出市場對實用 AI 代理的強勁需求。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Check Point 如何運用 Daybreak 加速漏洞研究</title>
       <link>https://openai.com/index/check-point-daybreak</link>
       <guid isPermaLink="false">https://openai.com/index/check-point-daybreak</guid>
@@ -1252,18 +1300,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>10 月 23 日（星期五），備受期待的 iPhone Duo 於全球 Apple Store 門市首次亮相。</description>
     </item>
     <item>
-      <title>哈薩克擴大運算能力以迎接 AI 未來</title>
-      <link>https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/</guid>
-      <pubDate>Fri, 23 Oct 2026 02:00:13 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>哈薩克的 AI 生態系正從基礎設施規劃走向部署。這項轉變在整個 AI 堆疊中都很明顯——從基礎設施到模型，再到應用程式。以下的生態系公告共同指出，這個國家加速運算的供給正在增加，同時對下一步發展的需求也在成長。閱讀所有 NVIDIA 在歐洲 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/e3acef13a2c2acb8624d4ec892615f18/6adabfea3d63325b302903bf_kz-post-note-gtc-berliin-2026-1920x1080-1-842x450/kz-post-note-gtc-berliin-2026-1920x1080-1-842x450_thmb.jpg?v=2bd878c7-7605-4b34-9918-c7813d0880b8" alt=""></p><p>哈薩克的 AI 生態系正從基礎設施規劃走向部署。這項轉變在整個 AI 堆疊中都很明顯——從基礎設施到模型，再到應用程式。以下的生態系公告共同指出，這個國家加速運算的供給正在增加，同時對下一步發展的需求也在成長。閱讀所有 NVIDIA 在歐洲 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Anima 透過 GPT-6 和 GPT-Live 將診所來電等待時間縮短 75%</title>
       <link>https://openai.com/index/anima</link>
       <guid isPermaLink="false">https://openai.com/index/anima</guid>
@@ -1291,30 +1327,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>為任何應用程式提供快速、聚焦、低成本的決策。</description>
     </item>
     <item>
-      <title>NVIDIA 推出 Minerva，為 AI 工廠帶來端到端可觀測性</title>
-      <link>https://blogs.nvidia.com/blog/minerva-platform-infrastructure/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/minerva-platform-infrastructure/</guid>
-      <pubDate>Thu, 22 Oct 2026 15:00:02 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA Minerva 今日正式推出，是一個 AIOps 平台，旨在協助團隊更早發現問題，並維持 AI 工廠高效運作。它整合來自基礎設施與 AI 工作負載的遙測資料，接著套用專為此打造的 AI 模型，將這些資料轉化為及時且可採取行動的洞察。AI 工廠是世界上最複雜的作業之一，擁有龐大的 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/7d7574df63ef80cac10287682becede6/6ada25333d63325284a123a0_ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450/ethernet-corp-blog-minerva-kv-1280x680-5595752-842x450_thmb.jpg?v=8783fa8d-3a4b-4954-baf4-c2a554092e76" alt=""></p><p>NVIDIA Minerva 今日正式推出，是一個 AIOps 平台，旨在協助團隊更早發現問題，並維持 AI 工廠高效運作。它整合來自基礎設施與 AI 工作負載的遙測資料，接著套用專為此打造的 AI 模型，將這些資料轉化為及時且可採取行動的洞察。AI 工廠是世界上最複雜的作業之一，擁有龐大的 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>雲端部署即將登場：《決勝時刻：現代戰爭 4》登陸 GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-call-of-duty-modern-warfare-4/</guid>
-      <pubDate>Thu, 22 Oct 2026 13:00:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>本週四的 GFN 時間準備就緒。Call of Duty: Modern Warfare 4 上市即登上 GeForce NOW，為支援裝置帶來全新戰役、多人遊戲動作，以及 DMZ 高風險撤離模式。戰役畫面也將迎來升級：Ultimate 會員將獲得 GeForce RTX 5080 等級效能，並支援光線追蹤功能。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/cc71c74a077de75df2d8b737950883f3/6ada09173d6332c97ccc1d0e_Call-Of-Duty-Modern-Warfare-4-842x450/Call-Of-Duty-Modern-Warfare-4-842x450_thmb.jpg?v=9616c859-4a33-4f38-8142-3d41ff6a2d2d" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/cc71c74a077de75df2d8b737950883f3/6ada09173d6332c97ccc1d0e_Call-Of-Duty-Modern-Warfare-4-842x450/Call-Of-Duty-Modern-Warfare-4-842x450_thmb.jpg?v=9616c859-4a33-4f38-8142-3d41ff6a2d2d"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/cc71c74a077de75df2d8b737950883f3/6ada09173d6332c97ccc1d0e_Call-Of-Duty-Modern-Warfare-4-842x450/Call-Of-Duty-Modern-Warfare-4-842x450_thmb.jpg?v=9616c859-4a33-4f38-8142-3d41ff6a2d2d" alt=""></p><p>本週四的 GFN 時間準備就緒。Call of Duty: Modern Warfare 4 上市即登上 GeForce NOW，為支援裝置帶來全新戰役、多人遊戲動作，以及 DMZ 高風險撤離模式。戰役畫面也將迎來升級：Ultimate 會員將獲得 GeForce RTX 5080 等級效能，並支援光線追蹤功能。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>一級方程式®美國大獎賽™本週末於 Apple TV 直播</title>
       <link>https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/formula-1-united-states-grand-prix-streams-live-on-apple-tv-this-weekend/</guid>
@@ -1340,18 +1352,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 的前線部署工程是什麼</description>
-    </item>
-    <item>
-      <title>領先的歐洲金融服務機構擁抱開放模型，打造專有智慧</title>
-      <link>https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/european-financial-services-organizations-open-models-proprietary-intelligence/</guid>
-      <pubDate>Thu, 22 Oct 2026 05:00:56 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在 GTC 柏林，銀行、支付公司和金融資料供應商正在展示生產規模的智慧是什麼樣子——建立在 NVIDIA 加速運算之上，由開放權重模型驅動，並運行在他們自己的基礎架構上。Revolut 正在以單一基礎模型 PRAGMA 重建其技術堆疊，由 NVIDIA 加速運算提供動力。使用 NVIDIA cuDF […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/233b6f1a8a8ad0c12c0908d23aceb342/6ad998cc3d633295a468d430_Financial-Services-NVIDIA-Open-Models-842x450/Financial-Services-NVIDIA-Open-Models-842x450_thmb.jpg?v=16a1272c-6752-460a-83cf-ff802ba34528" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/233b6f1a8a8ad0c12c0908d23aceb342/6ad998cc3d633295a468d430_Financial-Services-NVIDIA-Open-Models-842x450/Financial-Services-NVIDIA-Open-Models-842x450_thmb.jpg?v=16a1272c-6752-460a-83cf-ff802ba34528"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/233b6f1a8a8ad0c12c0908d23aceb342/6ad998cc3d633295a468d430_Financial-Services-NVIDIA-Open-Models-842x450/Financial-Services-NVIDIA-Open-Models-842x450_thmb.jpg?v=16a1272c-6752-460a-83cf-ff802ba34528" alt=""></p><p>在 GTC 柏林，銀行、支付公司和金融資料供應商正在展示生產規模的智慧是什麼樣子——建立在 NVIDIA 加速運算之上，由開放權重模型驅動，並運行在他們自己的基礎架構上。Revolut 正在以單一基礎模型 PRAGMA 重建其技術堆疊，由 NVIDIA 加速運算提供動力。使用 NVIDIA cuDF […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Uber 將與 OpenAI 合作，把 ChatGPT Work 開放給所有員工</title>
