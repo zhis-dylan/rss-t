@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 22:08:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 22:23:26 GMT</lastBuildDate>
     <item>
       <title>Fervo 現在已經有 120 億美元的地熱發電技術訂單</title>
       <link>https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/</link>
@@ -193,13 +193,13 @@
       <description>Elon Musk 為公司停止生產 Cybertruck 的決定辯護，該車款大約 8 個月後將停產。</description>
     </item>
     <item>
-      <title>Introducing Control Room: 人類對 AI 工作負載的控制權</title>
-      <link>https://openai.com/index/introducing-control-room</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-control-room</guid>
+      <title>控制室：用於在我們的研究基礎設施中追蹤並停止模型工作負載的中央系統</title>
+      <link>https://openai.com/index/control-room</link>
+      <guid isPermaLink="false">https://openai.com/index/control-room</guid>
       <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>了解 OpenAI 的 Control Room 如何追蹤我們研究基礎架構中的模型工作負載，並在出現安全或資安疑慮時迅速將其停止。</description>
+      <description>了解 OpenAI 的控制室如何在我們的研究基礎設施中追蹤模型工作負載，並在出現安全或資安疑慮時迅速將其停止。</description>
     </item>
     <item>
       <title>我們最新的 TPU：8tx 和 8i Max，為 agentic 時代打造</title>
@@ -866,15 +866,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>以更高的漏洞獎金獎勵防禦者</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
-    </item>
-    <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
       <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
@@ -882,6 +873,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
+    </item>
+    <item>
+      <title>以更高的漏洞獎金獎勵防禦者</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
     </item>
     <item>
       <title>我們在 2026 年 10 月宣布的最新 AI 新聞</title>
@@ -935,15 +935,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
-      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
-    </item>
-    <item>
       <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
       <link>https://openai.com/index/qodo-codex-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
@@ -951,6 +942,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
+    </item>
+    <item>
+      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
     </item>
     <item>
       <title>夜裡發出嗶嗶聲的東西：代理式 AI 加入搜尋外星訊號的行列</title>
@@ -1591,15 +1591,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
-      <link>https://openai.com/index/grupo-boticario</link>
-      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
-    </item>
-    <item>
       <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
       <link>https://openai.com/index/localiza-generative-ai</link>
       <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
@@ -1607,6 +1598,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
+    </item>
+    <item>
+      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
+      <link>https://openai.com/index/grupo-boticario</link>
+      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
     </item>
     <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
