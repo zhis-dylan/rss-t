@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 13:48:24 GMT</lastBuildDate>
+    <item>
+      <title>馬斯克表示 Tesla 將退還部分 Cybertruck 訂金，並為停止生產的決定辯護</title>
+      <link>https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186189</guid>
+      <pubDate>Mon, 09 Nov 2026 13:43:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Elon Musk 為公司停止生產 Cybertruck 的決定辯護，該車款大約 8 個月後將停產。</description>
+    </item>
     <item>
       <title>我們最新的 TPU：8tx 和 8i Max，為 agentic 時代打造</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</link>
@@ -309,15 +318,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這筆交易凸顯出開發大型 AI 資料中心的挑戰。</description>
-    </item>
-    <item>
-      <title>OpenAI 據報在 1.25 兆美元估值下再募得 110 億美元</title>
-      <link>https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186034</guid>
-      <pubDate>Fri, 06 Nov 2026 22:53:46 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據報 OpenAI 已再募得 110 億美元，作為一輪尚未完成但預計將在未來幾週內完成的融資的一部分。</description>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
