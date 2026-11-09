@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 22:38:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 22:53:48 GMT</lastBuildDate>
+    <item>
+      <title>做空者在醜聞爆發前六個月就點出輝達執行長與一名疑似中國間諜的關聯</title>
+      <link>https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186581</guid>
+      <pubDate>Mon, 09 Nov 2026 22:46:09 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在輝達間諜醜聞爆發前六個月，Culper Research 就已經在質疑黃仁勳與一名中國高階主管之間異常密切的關係。</description>
+    </item>
     <item>
       <title>控告 Nvidia 的競賽開始了</title>
       <link>https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/</link>
@@ -354,15 +363,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433" alt=""></p><p>NVIDIA、Rebellions 與 SK Telecom 今日宣布合作，透過 NVIDIA NVLink Fusion™ 結合 NVIDIA 的開放基礎架構平台、Rebellions 以韓國設計的 AI 處理器，以及 SK Telecom 的 AI 資料中心、模型與服務能力，推進韓國的主權 AI 基礎架構。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>幫你分散注意力、遠離無止盡滑新聞的 App</title>
-      <link>https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3102406</guid>
-      <pubDate>Sun, 08 Nov 2026 22:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>要打破滑新聞滑不停的循環很難，但有不少 App 可以幫你把更多時間花在更有吸引力、也更有生產力的內容上。</description>
     </item>
     <item>
       <title>給全體同仁的一封信</title>
