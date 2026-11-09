@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:29:25 GMT</lastBuildDate>
+    <item>
+      <title>Jensen Huang 的職位岌岌可危嗎？耶魯大學的 Jeffrey Sonnenfeld 估計大概是「五五波」</title>
+      <link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186150</guid>
+      <pubDate>Mon, 09 Nov 2026 05:26:29 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nvidia 董事會正在調查 Jensen Huang 與一名疑似中國間諜的關係，耶魯大學的 Jeffrey Sonnenfeld 認為 Huang 是否能繼續留任執行長，機率大致是一半一半。</description>
+    </item>
     <item>
       <title>NVIDIA 協助韓國在各行各業推進實體 AI</title>
       <link>https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</link>
@@ -260,15 +269,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 表示，現在已有 10 萬個針對 Duo 最佳化的 app，而且每天還有數千個新增。</description>
-    </item>
-    <item>
-      <title>數百個 Artex AI 駭客工具被發現公開暴露在網路上</title>
-      <link>https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185905</guid>
-      <pubDate>Fri, 06 Nov 2026 18:44:38 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>資安研究人員發現，數百台主機正在代管滲透測試工具 Artex，且對網際網路開放，讓任何人都能存取這個駭客工具。</description>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
