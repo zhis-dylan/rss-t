@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 15:19:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 15:34:26 GMT</lastBuildDate>
+    <item>
+      <title>Meta將 Instagram 的 AI 年齡猜測技術擴展至全球</title>
+      <link>https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186230</guid>
+      <pubDate>Mon, 09 Nov 2026 15:32:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Meta 表示，將使用其 AI 技術來尋找它懷疑可能是青少年的人的線索——即使他們使用的是成人生日。</description>
+    </item>
+    <item>
+      <title>聯邦政府表示，Waymo robotaxi 在軟體修復後仍持續違規超車通過校車</title>
+      <link>https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186228</guid>
+      <pubDate>Mon, 09 Nov 2026 15:24:59 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這項更新已在將近一年前部署到 Waymo 的自駕系統。</description>
+    </item>
     <item>
       <title>熟能生巧：在 CoRL 上，NVIDIA 與合作夥伴揭示機器人如何在模擬中演練精細作業</title>
       <link>https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</link>
@@ -312,24 +330,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這項公告發布不到一週多，駭客就從 Binance 用戶手中竊走了價值 63 億美元的加密貨幣。</description>
-    </item>
-    <item>
-      <title>Amazon 的新款基礎版 Kindle 證明，你不需要所有花俏功能</title>
-      <link>https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185881</guid>
-      <pubDate>Sat, 07 Nov 2026 17:18:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Amazon 重新設計的基礎版 Kindle 售價比以前更高，但更輕的機身和更好的螢幕，讓人有充分理由跳過更貴的機型。</description>
-    </item>
-    <item>
-      <title>Sequoia 關閉其 Scouts 計畫，標誌著一個時代的結束</title>
-      <link>https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186038</guid>
-      <pubDate>Sat, 07 Nov 2026 05:01:54 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Sequoia 開創了 scout 模式，許多 VC 公司也紛紛跟進，但如今似乎逐漸形成一種共識：這種模式以目前的形式已經達到極限。</description>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
