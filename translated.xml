@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:50:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:05:21 GMT</lastBuildDate>
+    <item>
+      <title>開發者現在可以在 AI Studio 中使用 Google Maps Platform 進行開發。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/</guid>
+      <pubDate>Mon, 09 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>開發者現在可以在 AI Studio 中使用 Google Maps Platform 進行開發。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_blog_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_blog_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Studio_blog_social.max-600x600.format-webp.webp" alt=""></p><p>開發者現在可以在 AI Studio 中使用 Google Maps Platform 進行開發。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Uber 在收購 SpotHero 後推出停車服務，並著眼於 robotaxis</title>
+      <link>https://techcrunch.com/2026/11/09/uber-launches-parking-service-following-spothero-acquisition-with-an-eye-on-robotaxis/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186165</guid>
+      <pubDate>Mon, 09 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Uber Parking 是該公司在核心叫車服務之外提供產品的最新例子。</description>
+    </item>
+    <item>
+      <title>Anthropic 加入 AI 的天然氣熱潮，購買價值 34 億美元的渦輪機</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186273</guid>
+      <pubDate>Mon, 09 Nov 2026 16:56:54 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Anthropic 購買了價值數十億美元的天然氣渦輪機，這筆交易可能會讓它後悔。</description>
+    </item>
     <item>
       <title>Medium 的新 TK app 將 AI 協助直接帶入寫作流程</title>
       <link>https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/</link>
@@ -321,24 +351,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在 Equity 節目中，我們解析了期中選舉對科技業的意義。</description>
-    </item>
-    <item>
-      <title>據美國情報備忘錄，Megaspeed 高層被招募來監視 Nvidia 執行長</title>
-      <link>https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186087</guid>
-      <pubDate>Sat, 07 Nov 2026 21:17:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>據稱，今年稍早流傳的一份備忘錄表示，中國國家安全部招募了一名女性科技高層去監視 Nvidia 執行長。</description>
-    </item>
-    <item>
-      <title>家長想要更安全的兒童手機。這些公司正在回應這個需求。</title>
-      <link>https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3143658</guid>
-      <pubDate>Sat, 07 Nov 2026 19:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>當家長尋找能替代不受限制智慧型手機的方案時，越來越多公司正在打造專為兒童設計的手機，從功能受限的行動裝置到極簡家用電話都有。</description>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
@@ -689,18 +701,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Designing_responsible_AI_for_le.max-600x600.format-webp.webp" alt=""></p><p>我們將把 Guided Learning 功能帶入 Search 和 Google Classroom，並調整我們對學校控制項的作法。</p>]]></content:encoded>
     </item>
     <item>
-      <title>學習時代中的 AI</title>
-      <link>https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" alt=""></p><p>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們將提供資金給打造教師用 AI 的組織。</title>
       <link>https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</guid>
@@ -711,6 +711,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正在資助五個組織開發教師用 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>學習時代中的 AI</title>
+      <link>https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</guid>
+      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" alt=""></p><p>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</p>]]></content:encoded>
     </item>
     <item>
       <title>攜手合作打擊亞太地區詐騙</title>
@@ -725,18 +737,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 結合內建防護機制、在地合作夥伴與教育，來應對亞太地區的詐騙。</p>]]></content:encoded>
     </item>
     <item>
-      <title>新研究顯示 Guided Learning 如何支持學生</title>
-      <link>https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" alt=""></p><p>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>將 AI 教育工作者培訓擴展到新國家</title>
       <link>https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/</guid>
@@ -747,6 +747,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp" alt=""></p><p>慶祝來自馬來西亞、印度、菲律賓和英國的教育工作者故事，並推出新的 GES 場次，以及擴展至西班牙、巴西、澳洲和撒哈拉以南非洲……</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>新研究顯示 Guided Learning 如何支持學生</title>
+      <link>https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</guid>
+      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" alt=""></p><p>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>加速實體世界的工程設計</title>
@@ -903,18 +915,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
-    </item>
-    <item>
-      <title>Google Fitbit Edge：現已上架</title>
-      <link>https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/fitbit/google-fitbit-edge-on-shelves-now/</guid>
-      <pubDate>Fri, 30 Oct 2026 20:15:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>選購全新的 Google Fitbit Edge，配備明亮的大螢幕與實體側邊按鈕，操作更輕鬆。今天就升級你的健身追蹤器。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb_OOMcorw.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb_OOMcorw.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fitbit_Edge_thumb_OOMcorw.max-600x600.format-webp.webp" alt=""></p><p>選購全新的 Google Fitbit Edge，配備明亮的大螢幕與實體側邊按鈕，操作更輕鬆。今天就升級你的健身追蹤器。</p>]]></content:encoded>
     </item>
     <item>
       <title>夜裡發出嗶嗶聲的東西：代理式 AI 加入搜尋外星訊號的行列</title>
