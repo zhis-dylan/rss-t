@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 17:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 18:05:53 GMT</lastBuildDate>
+    <item>
+      <title>Meta 推出 Muse Ember，一款用於代理執行的新輕量模型</title>
+      <link>https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186298</guid>
+      <pubDate>Mon, 09 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>每百萬輸入 token 只要 10 美分，Ember 的價格明顯比 Haiku 和 Luna 等前沿競爭對手更便宜。</description>
+    </item>
     <item>
       <title>開發者現在可以在 AI Studio 中使用 Google Maps Platform 進行開發。</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-google-maps-platform-ai-studio/</link>
@@ -342,15 +351,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>AutoBarista 的「Grind iQ」技術可讓機器分析你的咖啡豆，以決定如何萃取一杯濃縮咖啡。</description>
-    </item>
-    <item>
-      <title>期中選舉過後，伊隆・馬斯克和資料中心的前景看起來不太穩定</title>
-      <link>https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186091</guid>
-      <pubDate>Sat, 07 Nov 2026 22:07:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在 Equity 節目中，我們解析了期中選舉對科技業的意義。</description>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
