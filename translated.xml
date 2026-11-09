@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 08:00:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:15:37 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 在 MSIT-NVIDIA AI 新創合作論壇上宣布對韓國新創的新增計畫投資</title>
+      <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/korean-startup-investments-msit/</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:53 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>韓國科學技術資訊通信部與 NVIDIA 在 COEX 舉辦了 MSIT-NVIDIA AI 新創合作論壇。科學技術資訊通信部次官柳濟明與 NVIDIA 高層一同會見了超過 20 家韓國新創公司，涵蓋基礎模型、實體 AI、AI 基礎設施與 AI 半導體領域。NVIDIA 也宣布投資韓國新創公司 Point2，並 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/3a869738b38dcf51055748f78c9558e0/6af17de53d6332913dbbd117_korea-startups-msit-1920x1080-1-842x450/korea-startups-msit-1920x1080-1-842x450_thmb.jpg?v=d4394c7d-c7ef-4491-ad0d-ede57d00f865" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/3a869738b38dcf51055748f78c9558e0/6af17de53d6332913dbbd117_korea-startups-msit-1920x1080-1-842x450/korea-startups-msit-1920x1080-1-842x450_thmb.jpg?v=d4394c7d-c7ef-4491-ad0d-ede57d00f865"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/3a869738b38dcf51055748f78c9558e0/6af17de53d6332913dbbd117_korea-startups-msit-1920x1080-1-842x450/korea-startups-msit-1920x1080-1-842x450_thmb.jpg?v=d4394c7d-c7ef-4491-ad0d-ede57d00f865" alt=""></p><p>韓國科學技術資訊通信部與 NVIDIA 在 COEX 舉辦了 MSIT-NVIDIA AI 新創合作論壇。科學技術資訊通信部次官柳濟明與 NVIDIA 高層一同會見了超過 20 家韓國新創公司，涵蓋基礎模型、實體 AI、AI 基礎設施與 AI 半導體領域。NVIDIA 也宣布投資韓國新創公司 Point2，並 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>Jensen Huang 的職位岌岌可危嗎？耶魯大學的 Jeffrey Sonnenfeld 估計大概是「五五波」</title>
       <link>https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/</link>
@@ -1101,18 +1113,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b" alt=""></p><p>NVIDIA Vera Rubin NVL72 與 NVIDIA Vera CPU 現已在 OCI 上正式可用，並計畫推出 HGX Rubin NVL8 系統，協助組織加速前沿模型訓練，...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>AI 如何改變數百萬失智症患者的發現步調</title>
-      <link>https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-source-ai-tools-cbrain-dementia/</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:20 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>今天全球有 5,700 萬人正與失智症共處。對於致力幫助他們的研究人員來說，障礙不是缺乏努力——而是資料太多、能加以彙整的專家太少，以及追趕不上這種疾病的發現速度。生物醫學研究與 AI 聯盟（Consortium for Biomedical Research and AI）在 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/5e82c6a2d7172e1daf9526073f5f5e81/6ae0bcb73d6332d0fbd6a456_cbrain-nvidia-1-842x450/cbrain-nvidia-1-842x450_thmb.jpg?v=a95b85ce-4c3d-45a1-a64f-7036b7141f79" alt=""></p><p>今天全球有 5,700 萬人正與失智症共處。對於致力幫助他們的研究人員來說，障礙不是缺乏努力——而是資料太多、能加以彙整的專家太少，以及追趕不上這種疾病的發現速度。生物醫學研究與 AI 聯盟（Consortium for Biomedical Research and AI）在 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Retell 使用 OpenAI 模型協助支撐每月 1 億通電話</title>
