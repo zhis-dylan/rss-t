@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 13:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:03:36 GMT</lastBuildDate>
+    <item>
+      <title>認識 Drops，這款全新音樂 App 讓和朋友分享歌曲的樂趣回來了</title>
+      <link>https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3185971</guid>
+      <pubDate>Mon, 09 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這款新的音樂探索 App 讓使用者可以瀏覽 10 到 30 秒的歌曲片段、留言，並與朋友分享。</description>
+    </item>
+    <item>
+      <title>Automattic 推出一個平台，在變動中的網路環境下部署 vibe coding 應用程式</title>
+      <link>https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186097</guid>
+      <pubDate>Mon, 09 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Automattic 目標要用 Spacefast 與 Lovable 這類對手競爭</description>
+    </item>
     <item>
       <title>馬斯克表示 Tesla 將退還部分 Cybertruck 訂金，並為停止生產的決定辯護</title>
       <link>https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/</link>
@@ -300,24 +318,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Sequoia 開創了 scout 模式，許多 VC 公司也紛紛跟進，但如今似乎逐漸形成一種共識：這種模式以目前的形式已經達到極限。</description>
-    </item>
-    <item>
-      <title>從前排到被質詢席——期中選舉對大型科技公司意味著什麼</title>
-      <link>https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186018</guid>
-      <pubDate>Sat, 07 Nov 2026 04:16:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在與白宮打交道兩年後，大型科技公司突然開始嘗試和民主黨建立好關係，而現在的疑問是，這種形象改造能否經得起各州、地方社區和市場即將採取的行動考驗。</description>
-    </item>
-    <item>
-      <title>Crusoe 將陷入困境的懷俄明州資料中心專案出售給 Google</title>
-      <link>https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186051</guid>
-      <pubDate>Sat, 07 Nov 2026 01:40:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆交易凸顯出開發大型 AI 資料中心的挑戰。</description>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
