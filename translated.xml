@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 09 Nov 2026 14:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:18:48 GMT</lastBuildDate>
+    <item>
+      <title>熟能生巧：在 CoRL 上，NVIDIA 與合作夥伴揭示機器人如何在模擬中演練精細作業</title>
+      <link>https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</guid>
+      <pubDate>Mon, 09 Nov 2026 14:00:01 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>模擬長久以來一直是機器人學習行走、滾動和跳躍的試驗場，如今也正幫助研究人員教會機器人需要更細膩手感的任務：對準齒輪、連接纜線，以及組裝小型零組件。從移動到操作的轉變，正在本週的 Robot Learning 會議（CoRL）上成為焦點 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6" alt=""></p><p>模擬長久以來一直是機器人學習行走、滾動和跳躍的試驗場，如今也正幫助研究人員教會機器人需要更細膩手感的任務：對準齒輪、連接纜線，以及組裝小型零組件。從移動到操作的轉變，正在本週的 Robot Learning 會議（CoRL）上成為焦點 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>認識 Drops，這款全新音樂 App 讓和朋友分享歌曲的樂趣回來了</title>
       <link>https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/</link>
@@ -1114,18 +1126,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-FY27Q1-Image-1-FINAL.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-FY27Q1-Image-1-FINAL.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-FY27Q1-Image-1-FINAL.png" alt=""></p><p>去年在 Ignite，我們介紹了 Frontier 轉型的概念，以及它和任何以技術為主的追求有何不同，因為這要求我們先聚焦於商業成果。這一切從一個簡單的想法開始：科技是為了服務人類而發明的，不是反過來。沒有任何路徑能讓這個觀念的... <br>The post 成為 Frontier 的平台方法 appeared first on The Official Microsoft Blog.</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 與 Oracle 擴大 NVIDIA Vera Rubin 至多吉瓦規模，並將 NVIDIA Vera CPU 帶進 Oracle 雲端基礎架構</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure</guid>
-      <pubDate>Tue, 27 Oct 2026 16:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA Vera Rubin NVL72 與 NVIDIA Vera CPU 現已在 OCI 上正式可用，並計畫推出 HGX Rubin NVL8 系統，協助組織加速前沿模型訓練，...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/504a33442ba2c6832992b7ea1255ccc2/6adfdd4c3d6332394404e329_oracle-nvidia/oracle-nvidia_thmb.jpg?v=0a5d2559-28eb-4cf3-bd23-0f249074bf5b" alt=""></p><p>NVIDIA Vera Rubin NVL72 與 NVIDIA Vera CPU 現已在 OCI 上正式可用，並計畫推出 HGX Rubin NVL8 系統，協助組織加速前沿模型訓練，...</p>]]></content:encoded>
     </item>
     <item>
       <title>Retell 使用 OpenAI 模型協助支撐每月 1 億通電話</title>
