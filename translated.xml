@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:48:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:03:47 GMT</lastBuildDate>
+    <item>
+      <title>Sundrop 將你拍不完的寶寶照片變成回顧、縮時攝影等內容——而且不用 AI</title>
+      <link>https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186310</guid>
+      <pubDate>Tue, 10 Nov 2026 16:50:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Sundrop 是一款新的 iPhone 應用程式，利用 Apple 的裝置端 AI，幫助家長重新發現最喜歡的照片，並在不上傳影像到雲端的情況下製作紀念品。</description>
+    </item>
     <item>
       <title>Apple TV 推出全新的手語口譯功能</title>
       <link>https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/</link>
@@ -329,15 +338,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>獨家：溫德姆在其顧客 App 中留下一組硬編碼憑證，讓任何人都能存取顧客資料。這家飯店巨頭不願說明，是否有能力檢查過去是否曾有任何未經授權的存取。</description>
-    </item>
-    <item>
-      <title>做空者在醜聞爆發前六個月就點出輝達執行長與一名疑似中國間諜的關聯</title>
-      <link>https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186581</guid>
-      <pubDate>Mon, 09 Nov 2026 22:46:09 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在輝達間諜醜聞爆發前六個月，Culper Research 就已經在質疑黃仁勳與一名中國高階主管之間異常密切的關係。</description>
     </item>
     <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
