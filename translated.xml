@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 16:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:18:12 GMT</lastBuildDate>
     <item>
       <title>Apple TV 推出全新的手語口譯功能</title>
       <link>https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/</link>
@@ -14,6 +14,18 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>今天，Apple 宣布在 Apple TV app 上推出一項新的輔助使用功能，為支援的內容提供手語口譯服務。</description>
+    </item>
+    <item>
+      <title>NVIDIA 透過 OpenShell 捐贈與新的 AI 基礎架構，進一步擴大對開源的承諾</title>
+      <link>https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/open-source-openshell-infrastructure/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:03 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Kubernetes 這套開源系統負責管理應用程式如何在數千座 AI 工廠中運作，已成為 AI 的基礎，而對它的需求也只會持續增加。為了協助滿足這些需求，NVIDIA 正在 KubeCon + CloudNativeCon 上加深對開源的承諾；這是 Kubernetes 與雲原生社群的旗艦會議。NVIDIA […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/3337e430527205ac3c1d8650d867952b/6af33fb73d63324036e5b1e9_end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450_thmb.jpg?v=c09c8d93-d3e4-465b-be57-60aa829a9151" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/3337e430527205ac3c1d8650d867952b/6af33fb73d63324036e5b1e9_end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450_thmb.jpg?v=c09c8d93-d3e4-465b-be57-60aa829a9151"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/3337e430527205ac3c1d8650d867952b/6af33fb73d63324036e5b1e9_end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450_thmb.jpg?v=c09c8d93-d3e4-465b-be57-60aa829a9151" alt=""></p><p>Kubernetes 這套開源系統負責管理應用程式如何在數千座 AI 工廠中運作，已成為 AI 的基礎，而對它的需求也只會持續增加。為了協助滿足這些需求，NVIDIA 正在 KubeCon + CloudNativeCon 上加深對開源的承諾；這是 Kubernetes 與雲原生社群的旗艦會議。NVIDIA […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini 4 Carbon 現已開放給開發者使用。</title>
@@ -1151,18 +1163,6 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>如果你想要競爭，就必須支援多模型。如果你想充分利用不同 AI 模型所提供的一切，你就需要一個出色的 harness。但要打造一個能在多個模型與表面之間無縫運作的系統，難度非常高。你必須同時解決效能、品質和成本問題。而……
 〈介紹 Microsoft Copilot harness：釋放真正多模型代理式工作的潛力〉一文最初發表於 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>NVIDIA RTX Spark Windows 筆記型電腦新增模型、代理工具和遊戲</title>
-      <link>https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/</guid>
-      <pubDate>Wed, 28 Oct 2026 15:00:46 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA RTX Spark 為專為開發者、創作者和玩家的各種需求打造的輕薄筆電提供動力。RTX Spark 筆電現已可從 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 購得。這些強大的系統將 NVIDIA Blackwell RTX GPU 與 NVIDIA Grace CPU 整合在單一超級晶片中，最高可達 128GB 統一記憶體 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb" alt=""></p><p>NVIDIA RTX Spark 為專為開發者、創作者和玩家的各種需求打造的輕薄筆電提供動力。RTX Spark 筆電現已可從 ASUS、Dell、HP、Lenovo、Microsoft 和 MSI 購得。這些強大的系統將 NVIDIA Blackwell RTX GPU 與 NVIDIA Grace CPU 整合在單一超級晶片中，最高可達 128GB 統一記憶體 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 與 ServiceNow 擴大跨企業工作流程的合作夥伴關係</title>
