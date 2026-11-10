@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:20:27 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 董事會獨立成員聲明</title>
+      <link>https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board</guid>
+      <pubDate>Tue, 10 Nov 2026 19:07:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>加州聖塔克拉拉，2026 年 11 月 10 日 NVIDIA 董事會獨立成員已聘請前紐約南區代理美國聯邦檢察官 Joon H. Kim 及其律師事務所 Wachtell，...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" alt=""></p><p>加州聖塔克拉拉，2026 年 11 月 10 日 NVIDIA 董事會獨立成員已聘請前紐約南區代理美國聯邦檢察官 Joon H. Kim 及其律師事務所 Wachtell，...</p>]]></content:encoded>
+    </item>
     <item>
       <title>PSI 正在嘗試把 AI 驅動的科學發現變成一門生意</title>
       <link>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</link>
@@ -1122,15 +1134,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Credit Saison 的 ChatGPT Enterprise 試點帶來了 954% 的投資報酬率。了解主管和員工如何幫助將成果推動為全公司採用。</description>
-    </item>
-    <item>
-      <title>NVIDIA 將舉行第三季財報電話會議</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-sets-conference-call-for-third-quarter-financial-results-6928873</guid>
-      <pubDate>Wed, 28 Oct 2026 21:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 將於 11 月 17 日星期二下午 2 點（太平洋時間，ET 為下午 5 點）舉行電話會議，討論其截至 2026 年 10 月 25 日止的 2027 會計年度第三季財務結果。</description>
     </item>
     <item>
       <title>Evernote 將 AI 驅動的發掘轉化為付費訂閱</title>
