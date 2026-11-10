@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:59:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 12:15:03 GMT</lastBuildDate>
+    <item>
+      <title>Waze 和 Garmin 攜手提升駕駛人對自行車騎士的注意力。</title>
+      <link>https://blog.google/waze/garmin-safety-cyclists/</link>
+      <guid isPermaLink="false">https://blog.google/waze/garmin-safety-cyclists/</guid>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Waze 和 Garmin 透過即時自行車警示提升道路安全。看看 Garmin LiveTrack 圖示如何幫助駕駛人留意附近的自行車騎士。了解詳情。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waze_Garmin_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waze_Garmin_Social_Share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waze_Garmin_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>Waze 和 Garmin 透過即時自行車警示提升道路安全。看看 Garmin LiveTrack 圖示如何幫助駕駛人留意附近的自行車騎士。了解詳情。</p>]]></content:encoded>
+    </item>
     <item>
       <title>縮小教育中的 AI 指引落差</title>
       <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
@@ -746,18 +758,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Designing_responsible_AI_for_le.max-600x600.format-webp.webp" alt=""></p><p>我們將把 Guided Learning 功能帶入 Search 和 Google Classroom，並調整我們對學校控制項的作法。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們將提供資金給打造教師用 AI 的組織。</title>
-      <link>https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google.org 正在資助五個組織開發教師用 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正在資助五個組織開發教師用 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>學習時代中的 AI</title>
       <link>https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</guid>
@@ -804,6 +804,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" alt=""></p><p>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們將提供資金給打造教師用 AI 的組織。</title>
+      <link>https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</guid>
+      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google.org 正在資助五個組織開發教師用 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正在資助五個組織開發教師用 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</p>]]></content:encoded>
     </item>
     <item>
       <title>加速實體世界的工程設計</title>
@@ -903,18 +915,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Oct_AI_Recap_social.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google 在 2026 年 10 月的最新 AI 更新</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Messages、Google 電話與 Google 聯絡人獲得全新更新圖示。</title>
-      <link>https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/messages/updated-icons-messages-phone-contacts/</guid>
-      <pubDate>Mon, 02 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 正在更新 Messages、Phone 和 Contacts 的圖示，採用更俐落、一致的設計。看看你主畫面的新外觀。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Messages_Phone_by_Google.max-600x600.format-webp_58gh6qw.webp" alt=""></p><p>Google 正在更新 Messages、Phone 和 Contacts 的圖示，採用更俐落、一致的設計。看看你主畫面的新外觀。</p>]]></content:encoded>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
