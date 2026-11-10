@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:32:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:47:29 GMT</lastBuildDate>
+    <item>
+      <title>N-able 在研究人員發表數十個零時差漏洞後，將其遠端存取服務下線</title>
+      <link>https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186878</guid>
+      <pubDate>Tue, 10 Nov 2026 15:45:27 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家遠端存取巨頭也敦促自架主機的客戶在這起「重大資安事件」期間關閉自己的伺服器，擔心可能遭受網路攻擊。</description>
+    </item>
     <item>
       <title>Meta 的 AI 代理 Muse 登上 Apple Watch 和 Android Wear OS</title>
       <link>https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/</link>
@@ -251,15 +260,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>地熱公司 Fervo 正瞄準天然氣，因為它正在降低位於猶他州、規模達 8.4 GW 的資源之地熱鑽探成本。</description>
-    </item>
-    <item>
-      <title>Jensen Huang 因輝達爭議退出 ElevenLabs 高峰會</title>
-      <link>https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186477</guid>
-      <pubDate>Mon, 09 Nov 2026 20:09:06 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這位輝達執行長先前也退出了一場 Anthropic 活動。</description>
     </item>
     <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
