@@ -5,7 +5,61 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 18:50:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:05:17 GMT</lastBuildDate>
+    <item>
+      <title>PSI 正在嘗試把 AI 驅動的科學發現變成一門生意</title>
+      <link>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186906</guid>
+      <pubDate>Tue, 10 Nov 2026 19:03:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>PSI 使用一個尚未公開的 Anthropic 模型，回答了一個關於量子運算的基本問題，而科學家們已經追尋這個問題將近二十年了。</description>
+    </item>
+    <item>
+      <title>Gemini Intelligence：全新功能，支援更多裝置</title>
+      <link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Intelligence 正在推送到更多裝置。看看這些裝置擴充後的功能如何幫助你完成更多事情。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp" alt=""></p><p>Gemini Intelligence 正在推送到更多裝置。看看這些裝置擴充後的功能如何幫助你完成更多事情。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>搭載 Gemini Intelligence 的 Pixel 10、個人化小工具，以及更多內容，盡在我們 11 月的 Pixel Drop</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>探索最新的 Pixel 功能，包括 Pixel 10 上的 Gemini Intelligence、Google Messages 的 HiLight 提醒，以及更多內容。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp" alt=""></p><p>探索最新的 Pixel 功能，包括 Pixel 10 上的 Gemini Intelligence、Google Messages 的 HiLight 提醒，以及更多內容。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>在你的 Pixel Watch 上取得逐步健身指引。</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在你的 Pixel Watch 上透過 Google 取得即時健身指引。跟著自訂訓練流程，並直接在手腕上追蹤次數。看看它怎麼運作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp" alt=""></p><p>在你的 Pixel Watch 上透過 Google 取得即時健身指引。跟著自訂訓練流程，並直接在手腕上追蹤次數。看看它怎麼運作。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI 推出新的商業檔案，讓 ChatGPT 又更像 Google 一點</title>
+      <link>https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186632</guid>
+      <pubDate>Tue, 10 Nov 2026 18:49:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>OpenAI 正在設法讓 ChatGPT 成為更強大的消費者探索引擎，而一系列新功能旨在賦予企業更多能力，協助它達成這個目標。</description>
+    </item>
     <item>
       <title>Pixel Tag，Google 售價 30 美元、可搭配 Android 使用、用來對標 Apple AirTag 的產品，現在已經上市</title>
       <link>https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/</link>
@@ -341,24 +395,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Otter AI 剛新增了對 27 種語言的支援，並揭露一項即將推出的功能，當說話者在不同語言之間切換時也能跟上。</description>
-    </item>
-    <item>
-      <title>加州提議的「億萬富翁稅」未能通過</title>
-      <link>https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3183699</guid>
-      <pubDate>Tue, 10 Nov 2026 05:18:43 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>美聯社週一報導，加州選民否決了第40號提案，也就是一次性對億萬富翁課徵 5% 的稅。科技業領袖的反對支出大約是支持者的 10 倍，TechCrunch 在投票前訪問的創辦人和經濟學家對於這項提案是否會趕走富裕居民，或只是削減他們的財富，意見分歧。</description>
-    </item>
-    <item>
-      <title>Jensen Huang allegedly honeypot scandal has inspired some top-notch memes</title>
-      <link>https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186594</guid>
-      <pubDate>Tue, 10 Nov 2026 04:34:15 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>網路上正在熱烈討論輝達執行長黃仁勳涉嫌的美人計醜聞。</description>
     </item>
     <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
@@ -800,18 +836,6 @@
       <description>從股票研究開始，富蘭克林坦伯頓正在開發 AI 工作流程，協助投資組合經理比較研究觀點並檢視投資風險。</description>
     </item>
     <item>
-      <title>觀看 Henry Cavill 在他的 Googlebook 上打造一款電玩遊戲</title>
-      <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-mustache-protocol-video-game/</guid>
-      <pubDate>Wed, 04 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Henry Cavill 在他的 Googlebook 上打造了一款電玩遊戲，以協助支持男性健康。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MP_EP1_HORIZONTAL.max-600x600.format-webp.webp" alt=""></p><p>Henry Cavill 在他的 Googlebook 上打造了一款電玩遊戲，以協助支持男性健康。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>OpenAI 將收購 Pierre Computer Company, Inc.</title>
       <link>https://openai.com/index/openai-to-acquire-pierre</link>
       <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-pierre</guid>
@@ -819,30 +843,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 將收購 Pierre Computer Company，擴展 Codex 用於建構、理解與審查程式碼的工具。</description>
-    </item>
-    <item>
-      <title>我們正在分享我們打造更安全、更有幫助的健康 AI 的框架。</title>
-      <link>https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/health/evaluating-health-ai-at-scale/</guid>
-      <pubDate>Wed, 04 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們許多人都曾帶著健康問題向 AI 求助，或接受過使用 AI 的醫師所提供的照護。健康科技的採用正在加速，並影響著……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Health_AI_Evals_inline.max-600x600.format-webp.webp" alt=""></p><p>我們許多人都曾帶著健康問題向 AI 求助，或接受過使用 AI 的醫師所提供的照護。健康科技的採用正在加速，並影響著……</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>透過 Courtauld 更仔細欣賞藝術</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/the-art-of-looking/</guid>
-      <pubDate>Wed, 04 Nov 2026 10:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過《藝術的觀看》（The Art of Looking），以新的方式檢視藝術；這是 Google Arts &amp; Culture 與 Courtauld 藝術學院合作推出的新專案。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/The_Courtauld_Gallery._Photo_Be.max-600x600.format-webp.webp" alt=""></p><p>透過《藝術的觀看》（The Art of Looking），以新的方式檢視藝術；這是 Google Arts &amp;amp; Culture 與 Courtauld 藝術學院合作推出的新專案。</p>]]></content:encoded>
     </item>
     <item>
       <title>少了上千條通往 root 的路徑</title>
