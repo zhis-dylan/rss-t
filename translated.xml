@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:35:36 GMT</lastBuildDate>
+    <item>
+      <title>Oura 將以 6.25 億美元收購 AI 原生初級照護新創 Counsel Health</title>
+      <link>https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187050</guid>
+      <pubDate>Tue, 10 Nov 2026 19:23:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這筆交易發生在 Oura 將其最高達 22 億美元的 IPO 無限期延後幾週之後，理由是「IPO 市場的不確定性」。</description>
+    </item>
     <item>
       <title>NVIDIA 董事會獨立成員聲明</title>
       <link>https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board</link>
@@ -398,15 +407,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 Upwork 的新研究發現，自由接案工作的需求正在轉變，新的技能組合正在出現，而 AI 相關專案的預算與工時也在增加。</description>
-    </item>
-    <item>
-      <title>Otter AI 現在可以追蹤 30 多種語言的對話</title>
-      <link>https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185546</guid>
-      <pubDate>Tue, 10 Nov 2026 07:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Otter AI 剛新增了對 27 種語言的支援，並揭露一項即將推出的功能，當說話者在不同語言之間切換時也能跟上。</description>
     </item>
     <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
