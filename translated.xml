@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:11:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:27:00 GMT</lastBuildDate>
+    <item>
+      <title>加州提議的「億萬富翁稅」未能通過</title>
+      <link>https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3183699</guid>
+      <pubDate>Tue, 10 Nov 2026 05:18:43 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美聯社週一報導，加州選民否決了第40號提案，也就是一次性對億萬富翁課徵 5% 的稅。科技業領袖的反對支出大約是支持者的 10 倍，TechCrunch 在投票前訪問的創辦人和經濟學家對於這項提案是否會趕走富裕居民，或只是削減他們的財富，意見分歧。</description>
+    </item>
     <item>
       <title>Jensen Huang allegedly honeypot scandal has inspired some top-notch memes</title>
       <link>https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/</link>
@@ -218,15 +227,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6" alt=""></p><p>模擬長久以來一直是機器人學習行走、滾動和跳躍的試驗場，如今也正幫助研究人員教會機器人需要更細膩手感的任務：對準齒輪、連接纜線，以及組裝小型零組件。從移動到操作的轉變，正在本週的 Robot Learning 會議（CoRL）上成為焦點 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>認識 Drops，這款全新音樂 App 讓和朋友分享歌曲的樂趣回來了</title>
-      <link>https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185971</guid>
-      <pubDate>Mon, 09 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這款新的音樂探索 App 讓使用者可以瀏覽 10 到 30 秒的歌曲片段、留言，並與朋友分享。</description>
     </item>
     <item>
       <title>控制室：用於在我們的研究基礎設施中追蹤並停止模型工作負載的中央系統</title>
