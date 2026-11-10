@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:18:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:34:10 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 推出 Claude Meetings，將職場討論轉化為計畫與任務</title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186876</guid>
+      <pubDate>Tue, 10 Nov 2026 17:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在參與者交談時，Claude 可以草擬正在討論的計畫、在白板上整理時間表、在會議聊天中回答問題，並存取已連接的工作應用程式以擷取資訊，例如去年的數據。</description>
+    </item>
+    <item>
+      <title>介紹 Google Fi 的全新超級網路</title>
+      <link>https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/</guid>
+      <pubDate>Tue, 10 Nov 2026 17:20:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Fi Wireless 正在推出全新的超級網路，將兩個 5G 網路與數百萬個 Wi-Fi 網路整合在同一個手機方案中。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Google Fi Wireless 正在推出全新的超級網路，將兩個 5G 網路與數百萬個 Wi-Fi 網路整合在同一個手機方案中。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Nvidia 執行長黃仁勳與涉嫌中國間諜的婚外情：時間軸</title>
       <link>https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
@@ -331,15 +352,6 @@
       <description>《華爾街日報》報導，這家 AI 公司預計本週訂出估值區間。</description>
     </item>
     <item>
-      <title>據報導，Jensen Huang 一年前聘請了一家曾處理多起高調性醜聞的公關公司</title>
-      <link>https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186628</guid>
-      <pubDate>Mon, 09 Nov 2026 23:28:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Wired 報導指出，這家公關公司是在《紐約時報》2025 年 10 月的一篇報導描述 Alice Huang 與 Jensen Huang 的商業往來後不久受聘的。</description>
-    </item>
-    <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
       <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
@@ -637,18 +649,6 @@
       <description>澳洲大學正擴大 ChatGPT 的使用範圍，並將 AI 帶入教學與學習，以為學生做好進入 AI 賦能職場的準備。</description>
     </item>
     <item>
-      <title>Gemini Omni 1.2 Flash：速度快、成本效益高，還能處理更長片段</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</guid>
-      <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Omni 1.2 Flash 原生支援 15 秒影片生成與編輯、更強的一致性，且價格降低 30%。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 1.2 Flash 原生支援 15 秒影片生成與編輯、更強的一致性，且價格降低 30%。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>投資懷俄明州的基礎建設、能源和勞動力</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/wyoming-data-center/</guid>
@@ -671,6 +671,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Bring_your_paper_sketches_to_li.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 將你的草圖變成功能完整的應用程式。將你的繪圖上傳到 Canvas 工具，即可立即產生並調整程式碼。現在就試試看。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini Omni 1.2 Flash：速度快、成本效益高，還能處理更長片段</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</guid>
+      <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Omni 1.2 Flash 原生支援 15 秒影片生成與編輯、更強的一致性，且價格降低 30%。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp" alt=""></p><p>Gemini Omni 1.2 Flash 原生支援 15 秒影片生成與編輯、更強的一致性，且價格降低 30%。</p>]]></content:encoded>
     </item>
     <item>
       <title>開放權重的魔法師：Chris Alexiuk 讓 AI 透過開放模型變得更容易上手</title>
@@ -876,18 +888,6 @@
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>對先進晶片的需求正在上升。製造這些晶片的流程也變得更加複雜。而容錯空間也在縮小。對工程師來說，了解製程變更會如何表現、材料會如何與新步驟互動、缺陷又該如何追溯到根本原因，都是半導體製造中至關重要且具挑戰性的步驟 […]</description>
-    </item>
-    <item>
-      <title>我們正在提供資金給打造教師 AI 工具的組織。</title>
-      <link>https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google.org 正在資助五個組織，打造供教師使用的 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正在資助五個組織，打造供教師使用的 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</p>]]></content:encoded>
     </item>
     <item>
       <title>加速實體世界的工程設計</title>
