@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:51:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:06:28 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI、Anthropic 面臨新的監管，紐約 AI 安全法正式生效</title>
+      <link>https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187145</guid>
+      <pubDate>Tue, 10 Nov 2026 20:52:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>紐約正準備執行其全面的 AI 安全法，要求 OpenAI 和 Anthropic 等主要開發商完成註冊、揭露安全作法，並回報重大事故，否則將面臨罰款。</description>
+    </item>
     <item>
       <title>Proximal Ventures 募得首檔基金，支持將 AI 導入藥物開發的新創公司</title>
       <link>https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/</link>
@@ -338,15 +347,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Aura 正在推出一款新產品：10 吋數位電子墨水相框，可無縫融入印出來的照片中。</description>
-    </item>
-    <item>
-      <title>在以 Cyanogen 挑戰 Google 的 Android 之後，這位共同創辦人將目標轉向 AI 時代的 Windows</title>
-      <link>https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186334</guid>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Kora 即將以免費使用的 Windows 替代方案推出，鎖定高度依賴 AI 模型和代理程式的使用者。</description>
     </item>
     <item>
       <title>Google Cloud 推出醫療保健版 Gemini。</title>
