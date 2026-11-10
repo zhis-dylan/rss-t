@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 01:25:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:40:12 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 據報計劃推進 IPO 計畫</title>
+      <link>https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186715</guid>
+      <pubDate>Tue, 10 Nov 2026 01:27:12 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>《華爾街日報》報導，這家 AI 公司預計本週訂出估值區間。</description>
+    </item>
     <item>
       <title>據報導，Jensen Huang 一年前聘請了一家曾處理多起高調性醜聞的公關公司</title>
       <link>https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/</link>
@@ -218,15 +227,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Automattic 目標要用 Spacefast 與 Lovable 這類對手競爭</description>
-    </item>
-    <item>
-      <title>馬斯克表示 Tesla 將退還部分 Cybertruck 訂金，並為停止生產的決定辯護</title>
-      <link>https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186189</guid>
-      <pubDate>Mon, 09 Nov 2026 13:43:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Elon Musk 為公司停止生產 Cybertruck 的決定辯護，該車款大約 8 個月後將停產。</description>
     </item>
     <item>
       <title>控制室：用於在我們的研究基礎設施中追蹤並停止模型工作負載的中央系統</title>
