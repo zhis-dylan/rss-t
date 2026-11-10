@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:50:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:05:53 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 7 位創辦人都將各自套現約 2.5 億美元，於 IPO 中</title>
+      <link>https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187028</guid>
+      <pubDate>Tue, 10 Nov 2026 19:57:52 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>七位共同創辦人每人都計劃在 IPO 中出售完全相同數量的股票，若以價格區間中間值計算，每人可拿到約 2.5 億美元現金，同時這個團隊仍將掌控公司。</description>
+    </item>
     <item>
       <title>Oura 將以 6.25 億美元收購 AI 原生初級照護新創 Counsel Health</title>
       <link>https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/</link>
@@ -350,15 +359,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_NWQpgus.max-600x600.format-webp.webp" alt=""></p><p>Google Cloud 推出醫療保健版 Gemini，用來整合臨床資料並自動化工作流程。減輕行政工作倦怠。看看它如何運作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>網路攻擊恐讓開源 AI 變得沒那麼開放，Hugging Face 高層示警</title>
-      <link>https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185992</guid>
-      <pubDate>Tue, 10 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Hugging Face 高層 Irene Solaiman 警告，針對開放 AI 平台日益增加的網路攻擊，可能迫使平台採取更嚴格的安全限制，進而威脅到讓開源社群對全球開發者具備價值的可近性。</description>
     </item>
     <item>
       <title>幫助照顧者在日常生活中使用 AI</title>
