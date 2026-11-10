@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:51:17 GMT</lastBuildDate>
+    <item>
+      <title>Proximal Ventures 募得首檔基金，支持將 AI 導入藥物開發的新創公司</title>
+      <link>https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187132</guid>
+      <pubDate>Tue, 10 Nov 2026 20:47:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>前 SignalFire 投資人 Sahir Raoof 為鎖定製藥 AI 的新基金募得 2,750 萬美元</description>
+    </item>
+    <item>
+      <title>X-energy 獲准建造其首座小型模組化核反應爐</title>
+      <link>https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187159</guid>
+      <pubDate>Tue, 10 Nov 2026 20:43:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>X-energy 已收到美國核能管制委員會的建造許可，可在德州建造四座反應爐。</description>
+    </item>
     <item>
       <title>Anthropic 7 位創辦人都將各自套現約 2.5 億美元，於 IPO 中</title>
       <link>https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/</link>
@@ -329,24 +347,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Kora 即將以免費使用的 Windows 替代方案推出，鎖定高度依賴 AI 模型和代理程式的使用者。</description>
-    </item>
-    <item>
-      <title>Spotify 的 AI DJ 加入新聲音、個性，以及更少閒聊的選項</title>
-      <link>https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186535</guid>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Spotify Premium 用戶現在可以用不同個性的新聲音自訂自己的 AI DJ，或關閉歌曲之間的旁白。</description>
-    </item>
-    <item>
-      <title>以門鈴攝影機聞名的 Ring 推出家用保全無人機與企業安全機器人</title>
-      <link>https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186635</guid>
-      <pubDate>Tue, 10 Nov 2026 13:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>隸屬亞馬遜的 Ring 正以推出家用保全無人機和一款可巡邏並保護企業的輪式機器人，進軍機器人領域。</description>
     </item>
     <item>
       <title>Google Cloud 推出醫療保健版 Gemini。</title>
