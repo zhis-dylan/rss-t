@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 15:32:17 GMT</lastBuildDate>
+    <item>
+      <title>Meta 的 AI 代理 Muse 登上 Apple Watch 和 Android Wear OS</title>
+      <link>https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186827</guid>
+      <pubDate>Tue, 10 Nov 2026 15:29:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>使用者現在可以透過語音通話、文字訊息或在 Apple Watch 上的口述，與 Meta 的 AI 助理互動。</description>
+    </item>
     <item>
       <title>Reddit 正在把使用者對話轉換成由 AI 驅動的產品評論</title>
       <link>https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/</link>
@@ -251,15 +260,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這位輝達執行長先前也退出了一場 Anthropic 活動。</description>
-    </item>
-    <item>
-      <title>YouTube 串流資料將重返 Billboard 排行榜，結束重大分歧</title>
-      <link>https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186464</guid>
-      <pubDate>Mon, 09 Nov 2026 19:39:41 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>YouTube 將在 2027 年恢復與 Billboard 分享串流資料，因為排行榜公式的調整讓免費、含廣告的音樂串流獲得更高權重。</description>
     </item>
     <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
