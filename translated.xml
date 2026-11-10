@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 14:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:16:27 GMT</lastBuildDate>
+    <item>
+      <title>Adobe 為其產品加入更多 AI，並推出 MCP</title>
+      <link>https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186771</guid>
+      <pubDate>Tue, 10 Nov 2026 14:05:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Adobe 在 Firefly 中推出一款新的原型建構工具，挑戰 Figma。</description>
+    </item>
+    <item>
+      <title>Anthropic 將 IPO 價格區間定為每股 70 至 78 美元，目標隱含估值達 1.404 兆美元</title>
+      <link>https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186772</guid>
+      <pubDate>Tue, 10 Nov 2026 14:01:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>如果其股票以價格區間上限掛牌，按完全稀釋基礎計算，該公司最終估值可能高達 1.404 兆美元。</description>
+    </item>
     <item>
       <title>我們正把 Adobe 的創意與生產力工具帶得更貼近你日常使用的 Google 應用程式。</title>
       <link>https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</link>
@@ -28,7 +46,7 @@
       <description>Google Arts &amp; Culture 與 James Beard Foundation 的全新合作，讓 10,000 份菜單栩栩如生。</description>
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NFG_Hero_image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NFG_Hero_image.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NFG_Hero_image.max-600x600.format-webp.webp" alt=""></p><p>Google Arts &amp; Culture 與 James Beard Foundation 的全新合作，讓 10,000 份菜單栩栩如生。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NFG_Hero_image.max-600x600.format-webp.webp" alt=""></p><p>Google Arts &amp;amp; Culture 與 James Beard Foundation 的全新合作，讓 10,000 份菜單栩栩如生。</p>]]></content:encoded>
     </item>
     <item>
       <title>Aura 最新的電子墨水相框比上一代更好，也更實惠</title>
@@ -235,15 +253,6 @@
       <description>Nominal 是一家提供硬體工程用 AI 平台、並宣稱 Anduril 是主要客戶的新創公司，最近又完成一輪大額融資，使其估值翻了三倍。</description>
     </item>
     <item>
-      <title>法國指責伊朗對雜貨店和血庫中的冷凍設備發動大規模駭入攻擊</title>
-      <link>https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186412</guid>
-      <pubDate>Mon, 09 Nov 2026 19:19:24 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>法國外交部長指責伊朗發動至少兩波網路攻擊，目標是法國及整個歐洲各地的工業冷藏與冷凍設備。</description>
-    </item>
-    <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
       <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
       <guid isPermaLink="false">https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
@@ -251,15 +260,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>ChatGPT Enterprise 現已可透過 AWS Marketplace 使用，協助組織透過既有的 AWS 採購與計費關係簡化採購流程。</description>
-    </item>
-    <item>
-      <title>Jensen Huang 與一名據稱中國間諜的外遇，讓 Nvidia 的中國野心備受檢視</title>
-      <link>https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186336</guid>
-      <pubDate>Mon, 09 Nov 2026 18:09:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Jensen Huang 據稱與一名被懷疑為中國間諜的人有外遇，恐使 Nvidia 爭取放寬美國晶片出口限制、並維持進入中國獲利豐厚的 AI 市場的遊說工作變得更複雜。</description>
     </item>
     <item>
       <title>開發者現在可以在 AI Studio 中使用 Google Maps Platform 進行開發。</title>
