@@ -5,7 +5,82 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:47:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:02:58 GMT</lastBuildDate>
+    <item>
+      <title>Apple TV 推出全新的手語口譯功能</title>
+      <link>https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:26 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>今天，Apple 宣布在 Apple TV app 上推出一項新的輔助使用功能，為支援的內容提供手語口譯服務。</description>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon 現已開放給開發者使用。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>從今天起，開發者可以使用 Gemini 4 Carbon 進行開發，這是我們在資安和長期任務能力方面表現領先的最強模型。為了永續而打造…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp" alt=""></p><p>從今天起，開發者可以使用 Gemini 4 Carbon 進行開發，這是我們在資安和長期任務能力方面表現領先的最強模型。為了永續而打造…</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>推出 Multimodal Knowledge Agent 基準</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在推出 Multimodal Knowledge Agent，這是一個新的基準，用來評估代理在視覺上複雜的多模態任務中如何推理。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png" medium="image" type="image/png" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png" alt=""></p><p>我們正在推出 Multimodal Knowledge Agent，這是一個新的基準，用來評估代理在視覺上複雜的多模態任務中如何推理。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 4 Carbon 現已開放使用</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>今天，我們將 Gemini 4 Carbon 開放給開發者、企業、科學家和一般消費者使用。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp" alt=""></p><p>今天，我們將 Gemini 4 Carbon 開放給開發者、企業、科學家和一般消費者使用。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>推出 3 個新網域：.eat、.fly 和 .here</title>
+      <link>https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" alt=""></p><p>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple TV 將手語口譯變成內建無障礙功能</title>
+      <link>https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186837</guid>
+      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple TV 的新無障礙功能讓觀眾能在支援的標題中開啟手語口譯。</description>
+    </item>
+    <item>
+      <title>Google 透過兩款新專用晶片擴大其 AI 硬體產品組合</title>
+      <link>https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186193</guid>
+      <pubDate>Tue, 10 Nov 2026 15:54:08 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Google 新的張量處理單元（TPU）將其晶片產品組合擴展到更多用途：機密模型訓練，以及更大的記憶體容量。</description>
+    </item>
     <item>
       <title>N-able 在研究人員發表數十個零時差漏洞後，將其遠端存取服務下線</title>
       <link>https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/</link>
@@ -41,6 +116,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Kunal Shah 表示，WhatsApp 上的 AI 會提醒人們預約時間，而不是幫忙預約</description>
+    </item>
+    <item>
+      <title>《Football Manager》和其他熱門系列領銜 Apple Arcade 的節慶遊戲陣容</title>
+      <link>https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/football-manager-and-other-hit-franchises-headline-apple-arcades-holiday-lineup/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:59:45 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>今天 Apple Arcade 迎來《Football Manager 27 Touch》，以及 12 月 3 日推出的四款全新遊戲，滿足各種類型玩家。</description>
     </item>
     <item>
       <title>Adobe 為其產品加入更多 AI，並推出 MCP</title>
@@ -242,24 +326,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在輝達間諜醜聞爆發前六個月，Culper Research 就已經在質疑黃仁勳與一名中國高階主管之間異常密切的關係。</description>
-    </item>
-    <item>
-      <title>控告 Nvidia 的競賽開始了</title>
-      <link>https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186479</guid>
-      <pubDate>Mon, 09 Nov 2026 22:23:42 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在董事會對黃仁勳與一名疑似中國間諜的關係展開調查後，Nvidia 的股價下跌超過 4%；而一名證券法專家表示，該公司先前堅稱一切都很「正常」的說法，可能會變成一個代價高昂的問題。</description>
-    </item>
-    <item>
-      <title>Fervo 現在已經有 120 億美元的地熱發電技術訂單</title>
-      <link>https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186406</guid>
-      <pubDate>Mon, 09 Nov 2026 20:55:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>地熱公司 Fervo 正瞄準天然氣，因為它正在降低位於猶他州、規模達 8.4 GW 的資源之地熱鑽探成本。</description>
     </item>
     <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
@@ -800,18 +866,6 @@
       <description>對先進晶片的需求正在上升。製造這些晶片的流程也變得更加複雜。而容錯空間也在縮小。對工程師來說，了解製程變更會如何表現、材料會如何與新步驟互動、缺陷又該如何追溯到根本原因，都是半導體製造中至關重要且具挑戰性的步驟 […]</description>
     </item>
     <item>
-      <title>學習時代中的 AI</title>
-      <link>https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/ai-learning-era-2026/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_collection_hero.max-600x600.format-webp.webp" alt=""></p><p>閱讀 Google 2026 年 AI in the Learning Era 活動的公告。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>我們將提供資金給打造教師用 AI 的組織。</title>
       <link>https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/google-org-funding-ai-education/</guid>
@@ -822,42 +876,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AILE_Comms_social.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正在資助五個組織開發教師用 AI 工具。了解這些計畫如何支持教育工作者和學生。查看詳情。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>攜手合作打擊亞太地區詐騙</title>
-      <link>https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-asia/fight-against-apac-scams/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 結合內建防護機制、在地合作夥伴與教育，來應對亞太地區的詐騙。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/APAC_scams_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google 結合內建防護機制、在地合作夥伴與教育，來應對亞太地區的詐騙。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>新研究顯示 Guided Learning 如何支持學生</title>
-      <link>https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/guided-learning-uk-japan/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Guided_learning_hero.max-600x600.format-webp.webp" alt=""></p><p>新研究顯示 Guided Learning 能帶來更高的學習成效，並為 Google Classroom 帶來新功能。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>將 AI 教育工作者培訓擴展到新國家</title>
-      <link>https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/education/google-ai-educator-series-global-expansion-november-2026/</guid>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>慶祝來自馬來西亞、印度、菲律賓和英國的教育工作者故事，並推出新的 GES 場次，以及擴展至西班牙、巴西、澳洲和撒哈拉以南非洲……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Regional_Blog_Header_Option_1.max-600x600.format-webp.webp" alt=""></p><p>慶祝來自馬來西亞、印度、菲律賓和英國的教育工作者故事，並推出新的 GES 場次，以及擴展至西班牙、巴西、澳洲和撒哈拉以南非洲……</p>]]></content:encoded>
     </item>
     <item>
       <title>加速實體世界的工程設計</title>
@@ -1773,24 +1791,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今天宣布下一代 Apple TV 4K，帶來至今最沉浸的家庭劇院體驗。</description>
-    </item>
-    <item>
-      <title>Apple 宣布下一代 HomePod mini</title>
-      <link>https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-announces-the-next-generation-of-homepod-mini/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:57:08 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天宣布 HomePod mini 2，具備 Siri AI、絕美新色，以及更強化的音訊體驗。</description>
-    </item>
-    <item>
-      <title>推出 Apple Home Collection，一系列全新的智慧家庭配件</title>
-      <link>https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:56:12 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天宣布 Apple Home Collection，這是一系列與 LG Electronics 和 Schneider Electric 合作打造的智慧家庭配件。</description>
     </item>
     <item>
       <title>Higgsfield 讓 AI 影片從 1 分鐘提升到超過 10 分鐘</title>
