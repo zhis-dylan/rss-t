@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 05:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:55:23 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>退伍軍人與現役軍人的 ChatGPT Plus</title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <guid isPermaLink="false">https://openai.com/index/chatgpt-plus-for-veterans</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>超過 2 萬名退伍軍人和即將退伍的服役人員已申請免費一年的 ChatGPT Plus。看看他們如何用它來準備民間職涯。</description>
     </item>
     <item>
       <title>AI 如何幫助回收業者把混合廢棄物轉化為可再利用材料</title>
@@ -428,6 +437,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 和 Upwork 的新研究發現，自由接案工作的需求正在轉變，新的技能組合正在出現，而 AI 相關專案的預算與工時也在增加。</description>
+    </item>
+    <item>
+      <title>Cogent 與 OpenAI 為企業打造網路防禦工廠</title>
+      <link>https://openai.com/index/cogent-security</link>
+      <guid isPermaLink="false">https://openai.com/index/cogent-security</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Cogent 結合 OpenAI 模型與企業脈絡，協助透過代理程式自動修補漏洞。</description>
     </item>
     <item>
       <title>ChatGPT Enterprise 現已在 AWS Marketplace 上架</title>
@@ -1034,15 +1052,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
-    </item>
-    <item>
       <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
       <link>https://openai.com/index/dan-driscoll-joins-openai</link>
       <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
@@ -1050,6 +1059,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
+    </item>
+    <item>
+      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
     </item>
     <item>
       <title>夜裡發出嗶嗶聲的東西：代理式 AI 加入搜尋外星訊號的行列</title>
@@ -1657,15 +1675,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
-      <link>https://openai.com/index/localiza-generative-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
-    </item>
-    <item>
       <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
       <link>https://openai.com/index/grupo-boticario</link>
       <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
@@ -1675,13 +1684,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
     </item>
     <item>
-      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
+      <link>https://openai.com/index/localiza-generative-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
+      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
@@ -1691,6 +1700,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+    </item>
+    <item>
+      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1915,24 +1933,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>GPT‑6 正在全球範圍內於 ChatGPT 推出，搭配 Intelligent UI，帶來更快的回應，以及你可以直接探索和使用的視覺內容與互動體驗。</description>
-    </item>
-    <item>
-      <title>Jump Trading 如何運用 ChatGPT 擴展量化研究</title>
-      <link>https://openai.com/index/jump-trading</link>
-      <guid isPermaLink="false">https://openai.com/index/jump-trading</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Jump Trading 使用 OpenAI 來擴展量化研究。了解較長時間運行的 AI 工作流程如何結合多種資料來源與人工審核。</description>
-    </item>
-    <item>
-      <title>分享 AI 在數學上的進展</title>
-      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-      <guid isPermaLink="false">https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 公布來自內部前沿模型對數學未解問題的新成果，並在 GitHub 上分享 Lean 證明形式化與研究細節。</description>
     </item>
     <item>
       <title>Microsoft 365 與 LinkedIn 領導層更新</title>
