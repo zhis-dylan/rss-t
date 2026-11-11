@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 14:48:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:03:16 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>Siri 共同創辦人力挺 Helix 的語音 ID 技術</title>
+      <link>https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186258</guid>
+      <pubDate>Wed, 11 Nov 2026 15:02:47 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Helix 表示其語音 ID 技術可在 iPhone 13 上執行</description>
+    </item>
+    <item>
+      <title>Databricks 全新 AI 代理向執行長 Ali Ghodsi 直言不諱地說出實話</title>
+      <link>https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186547</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在擁有 12,000 名員工的規模下，AI Ghodsi 第一個承認自己不可能認識每個人，而且他們也不太可能向他坦承出錯的事情。但他不需要他們這麼做。他會用 Databricks 新版的 Genie 代理來處理這件事。</description>
     </item>
     <item>
       <title>Plurai 想用幫助自駕車上路的同樣方法，讓 AI 代理運作得更好</title>
@@ -338,24 +356,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這家遠端存取巨頭也敦促自架主機的客戶在這起「重大資安事件」期間關閉自己的伺服器，擔心可能遭受網路攻擊。</description>
-    </item>
-    <item>
-      <title>Meta 的 AI 代理 Muse 登上 Apple Watch 和 Android Wear OS</title>
-      <link>https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186827</guid>
-      <pubDate>Tue, 10 Nov 2026 15:29:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>使用者現在可以透過語音通話、文字訊息或在 Apple Watch 上的口述，與 Meta 的 AI 助理互動。</description>
-    </item>
-    <item>
-      <title>Reddit 正在把使用者對話轉換成由 AI 驅動的產品評論</title>
-      <link>https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186487</guid>
-      <pubDate>Tue, 10 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Reddit 的全新 AI 驅動評論會摘要使用者對 10,000 種產品的喜好與不喜歡之處，幫助購物者在假期前研究購買項目。</description>
     </item>
     <item>
       <title>《Football Manager》和其他熱門系列領銜 Apple Arcade 的節慶遊戲陣容</title>
