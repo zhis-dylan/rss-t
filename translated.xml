@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:18:57 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>Jensen Huang 的不良行為比看起來更常見嗎？</title>
+      <link>https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187323</guid>
+      <pubDate>Wed, 11 Nov 2026 16:16:07 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「業界有很多資深人士知道這件事正在發生，而且等於是在默許它，」一位投資情報顧問表示。</description>
+    </item>
+    <item>
+      <title>據報 OpenAI 的季度營收首次突破 100 億美元</title>
+      <link>https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187315</guid>
+      <pubDate>Wed, 11 Nov 2026 16:14:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>100 億美元的銷售額，較該公司第二季記錄的 67 億美元營收成長近 50%。</description>
     </item>
     <item>
       <title>試試 Tabletop：可自訂、可協作的空間，讓團隊一起規劃、玩樂，做更多事。</title>
@@ -350,24 +368,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple TV 的新無障礙功能讓觀眾能在支援的標題中開啟手語口譯。</description>
-    </item>
-    <item>
-      <title>Google 透過兩款新專用晶片擴大其 AI 硬體產品組合</title>
-      <link>https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186193</guid>
-      <pubDate>Tue, 10 Nov 2026 15:54:08 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 新的張量處理單元（TPU）將其晶片產品組合擴展到更多用途：機密模型訓練，以及更大的記憶體容量。</description>
-    </item>
-    <item>
-      <title>N-able 在研究人員發表數十個零時差漏洞後，將其遠端存取服務下線</title>
-      <link>https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186878</guid>
-      <pubDate>Tue, 10 Nov 2026 15:45:27 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家遠端存取巨頭也敦促自架主機的客戶在這起「重大資安事件」期間關閉自己的伺服器，擔心可能遭受網路攻擊。</description>
     </item>
     <item>
       <title>《Football Manager》和其他熱門系列領銜 Apple Arcade 的節慶遊戲陣容</title>
