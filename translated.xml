@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 00:53:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:08:18 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>X 推出自己的剪輯功能，以刺激網紅互動</title>
+      <link>https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187194</guid>
+      <pubDate>Wed, 11 Nov 2026 01:02:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>X 正在進軍剪輯，這種把長影片剪成短小、可分享且可能爆紅片段的熱門做法。</description>
     </item>
     <item>
       <title>OpenAI 收購由 Sonder 創辦人打造的旅遊新創公司 Odessia</title>
@@ -323,15 +332,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Adobe 在 Firefly 中推出一款新的原型建構工具，挑戰 Figma。</description>
-    </item>
-    <item>
-      <title>Anthropic 將 IPO 價格區間定為每股 70 至 78 美元，目標隱含估值達 1.404 兆美元</title>
-      <link>https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186772</guid>
-      <pubDate>Tue, 10 Nov 2026 14:01:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>如果其股票以價格區間上限掛牌，按完全稀釋基礎計算，該公司最終估值可能高達 1.404 兆美元。</description>
     </item>
     <item>
       <title>我們正把 Adobe 的創意與生產力工具帶得更貼近你日常使用的 Google 應用程式。</title>
