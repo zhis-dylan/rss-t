@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 13:47:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:02:44 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>Plurai 想用幫助自駕車上路的同樣方法，讓 AI 代理運作得更好</title>
+      <link>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187089</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>就像訓練來開車的端到端模型一樣，AI 代理是在不可預測環境中運作的機率系統。</description>
     </item>
     <item>
       <title>體驗 Esther Mahlangu 博士的藝術與傳承</title>
@@ -347,15 +356,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Reddit 的全新 AI 驅動評論會摘要使用者對 10,000 種產品的喜好與不喜歡之處，幫助購物者在假期前研究購買項目。</description>
-    </item>
-    <item>
-      <title>新的 WhatsApp 負責人希望讓這個 app 更容易使用，並強化其 AI 功能</title>
-      <link>https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186791</guid>
-      <pubDate>Tue, 10 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Kunal Shah 表示，WhatsApp 上的 AI 會提醒人們預約時間，而不是幫忙預約</description>
     </item>
     <item>
       <title>《Football Manager》和其他熱門系列領銜 Apple Arcade 的節慶遊戲陣容</title>
