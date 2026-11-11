@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 20:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 20:21:20 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>你擔心的資料中心，可能根本不會蓋成</title>
+      <link>https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?post_type=tc_video&amp;p=3187347</guid>
+      <pubDate>Wed, 11 Nov 2026 20:15:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>資料中心熱潮正遇上嚴重的現實阻礙，從廣泛的在地反對、審批延宕，到搶電大作戰。即使還沒碰上那些挑戰，更根本的問題是：許多已宣布的專案，最終可能根本不會蓋出來。隨著數十億美元投入 AI 基礎設施 […]</description>
+    </item>
+    <item>
+      <title>Meta 即將失去其長期的基礎設施主管</title>
+      <link>https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187471</guid>
+      <pubDate>Wed, 11 Nov 2026 20:12:01 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>2009 年原本加入公司的 Santosh Janardhan，將卸下他的職務。</description>
     </item>
     <item>
       <title>Olaf Sakkers 賭自己能擊敗新興基金經理人的擠壓</title>
@@ -347,24 +365,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp" alt=""></p><p>在你的 Pixel Watch 上透過 Google 取得即時健身指引。跟著自訂訓練流程，並直接在手腕上追蹤次數。看看它怎麼運作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 推出新的商業檔案，讓 ChatGPT 又更像 Google 一點</title>
-      <link>https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186632</guid>
-      <pubDate>Tue, 10 Nov 2026 18:49:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 正在設法讓 ChatGPT 成為更強大的消費者探索引擎，而一系列新功能旨在賦予企業更多能力，協助它達成這個目標。</description>
-    </item>
-    <item>
-      <title>Pixel Tag，Google 售價 30 美元、可搭配 Android 使用、用來對標 Apple AirTag 的產品，現在已經上市</title>
-      <link>https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186973</guid>
-      <pubDate>Tue, 10 Nov 2026 18:49:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Google 的 Pixel Tag 讓你可以用 Android 裝置追蹤遺失的物品，類似 Apple 的 AirTag。</description>
     </item>
     <item>
       <title>介紹 Google Fi 的全新超級網路</title>
