@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:07:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:22:42 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>Jensen Huang 被指控另有婚外情——對象是 Nvidia 高層主管</title>
+      <link>https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187540</guid>
+      <pubDate>Wed, 11 Nov 2026 23:17:05 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Jensen Huang 先前因承認與一名被指控為中國情報人員的女子有婚外情而受到抨擊，如今又被指控與一名 Nvidia 下屬有另一段婚外情。</description>
     </item>
     <item>
       <title>Meta 即將失去其長期的基礎設施主管</title>
@@ -311,15 +320,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" alt=""></p><p>加州聖塔克拉拉，2026 年 11 月 10 日 NVIDIA 董事會獨立成員已聘請前紐約南區代理美國聯邦檢察官 Joon H. Kim 及其律師事務所 Wachtell，...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>PSI 正在嘗試把 AI 驅動的科學發現變成一門生意</title>
-      <link>https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186906</guid>
-      <pubDate>Tue, 10 Nov 2026 19:03:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>PSI 使用一個尚未公開的 Anthropic 模型，回答了一個關於量子運算的基本問題，而科學家們已經追尋這個問題將近二十年了。</description>
     </item>
     <item>
       <title>Gemini Intelligence：全新功能，支援更多裝置</title>
