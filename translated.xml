@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:04:59 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,18 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>Built on Googlebook: 玩 Henry Cavill 的電玩遊戲，支持 Movember</title>
+      <link>https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/googlebook/henry-cavill-googlebook-mustache-protocol/</guid>
+      <pubDate>Wed, 11 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Henry Cavill 的「Mustache Protocol」已經上線。看看這款遊戲如何在 Googlebook 上完成，並幫助我們為男性健康募得 500,000 美元。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_Cavill_thumbnail_v2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_Cavill_thumbnail_v2.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Henry_Cavill_thumbnail_v2.max-600x600.format-webp.webp" alt=""></p><p>Henry Cavill 的「Mustache Protocol」已經上線。看看這款遊戲如何在 Googlebook 上完成，並幫助我們為男性健康募得 500,000 美元。</p>]]></content:encoded>
     </item>
     <item>
       <title>現在可在 Apple CarPlay 上與 Gemini 對話</title>
@@ -259,18 +271,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp" alt=""></p><p>Gemini Intelligence 正在推送到更多裝置。看看這些裝置擴充後的功能如何幫助你完成更多事情。</p>]]></content:encoded>
     </item>
     <item>
-      <title>搭載 Gemini Intelligence 的 Pixel 10、個人化小工具，以及更多內容，盡在我們 11 月的 Pixel Drop</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/</guid>
-      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>探索最新的 Pixel 功能，包括 Pixel 10 上的 Gemini Intelligence、Google Messages 的 HiLight 提醒，以及更多內容。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp" alt=""></p><p>探索最新的 Pixel 功能，包括 Pixel 10 上的 Gemini Intelligence、Google Messages 的 HiLight 提醒，以及更多內容。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>在你的 Pixel Watch 上取得逐步健身指引。</title>
       <link>https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/</guid>
@@ -281,6 +281,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp" alt=""></p><p>在你的 Pixel Watch 上透過 Google 取得即時健身指引。跟著自訂訓練流程，並直接在手腕上追蹤次數。看看它怎麼運作。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>搭載 Gemini Intelligence 的 Pixel 10、個人化小工具，以及更多內容，盡在我們 11 月的 Pixel Drop</title>
+      <link>https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/november-2026-pixel-drop/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>探索最新的 Pixel 功能，包括 Pixel 10 上的 Gemini Intelligence、Google Messages 的 HiLight 提醒，以及更多內容。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp" alt=""></p><p>探索最新的 Pixel 功能，包括 Pixel 10 上的 Gemini Intelligence、Google Messages 的 HiLight 提醒，以及更多內容。</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 推出新的商業檔案，讓 ChatGPT 又更像 Google 一點</title>
@@ -361,16 +373,16 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/3337e430527205ac3c1d8650d867952b/6af33fb73d63324036e5b1e9_end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450_thmb.jpg?v=c09c8d93-d3e4-465b-be57-60aa829a9151" alt=""></p><p>Kubernetes 這套開源系統負責管理應用程式如何在數千座 AI 工廠中運作，已成為 AI 的基礎，而對它的需求也只會持續增加。為了協助滿足這些需求，NVIDIA 正在 KubeCon + CloudNativeCon 上加深對開源的承諾；這是 Kubernetes 與雲原生社群的旗艦會議。NVIDIA […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 4 Carbon 現已開放給開發者使用。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/</guid>
+      <title>推出 3 個新網域：.eat、.fly 和 .here</title>
+      <link>https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</guid>
       <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>從今天起，開發者可以使用 Gemini 4 Carbon 進行開發，這是我們在資安和長期任務能力方面表現領先的最強模型。為了永續而打造…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp" alt=""></p><p>從今天起，開發者可以使用 Gemini 4 Carbon 進行開發，這是我們在資安和長期任務能力方面表現領先的最強模型。為了永續而打造…</p>]]></content:encoded>
+      <description>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" alt=""></p><p>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</p>]]></content:encoded>
     </item>
     <item>
       <title>推出 Multimodal Knowledge Agent 基準</title>
@@ -397,16 +409,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp" alt=""></p><p>今天，我們將 Gemini 4 Carbon 開放給開發者、企業、科學家和一般消費者使用。</p>]]></content:encoded>
     </item>
     <item>
-      <title>推出 3 個新網域：.eat、.fly 和 .here</title>
-      <link>https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</guid>
+      <title>Gemini 4 Carbon 現已開放給開發者使用。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/</guid>
       <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" alt=""></p><p>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</p>]]></content:encoded>
+      <description>從今天起，開發者可以使用 Gemini 4 Carbon 進行開發，這是我們在資安和長期任務能力方面表現領先的最強模型。為了永續而打造…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp" alt=""></p><p>從今天起，開發者可以使用 Gemini 4 Carbon 進行開發，這是我們在資安和長期任務能力方面表現領先的最強模型。為了永續而打造…</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple TV 將手語口譯變成內建無障礙功能</title>
@@ -427,18 +439,6 @@
       <description>今天 Apple Arcade 迎來《Football Manager 27 Touch》，以及 12 月 3 日推出的四款全新遊戲，滿足各種類型玩家。</description>
     </item>
     <item>
-      <title>我們正把 Adobe 的創意與生產力工具帶得更貼近你日常使用的 Google 應用程式。</title>
-      <link>https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</guid>
-      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 與 Adobe 正在整合創意與生產力工具。在 Drive 中編輯 PDF，並在 Gemini 中使用 Adobe AI。看看這項合作有什麼新功能。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 與 Adobe 正在整合創意與生產力工具。在 Drive 中編輯 PDF，並在 Gemini 中使用 Adobe AI。看看這項合作有什麼新功能。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>與 James Beard Foundation 一起回顧 40 年的美國烹飪歷史</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/james-beard-foundation/</guid>
@@ -449,6 +449,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NFG_Hero_image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NFG_Hero_image.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NFG_Hero_image.max-600x600.format-webp.webp" alt=""></p><p>Google Arts &amp;amp; Culture 與 James Beard Foundation 的全新合作，讓 10,000 份菜單栩栩如生。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們正把 Adobe 的創意與生產力工具帶得更貼近你日常使用的 Google 應用程式。</title>
+      <link>https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/</guid>
+      <pubDate>Tue, 10 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 與 Adobe 正在整合創意與生產力工具。在 Drive 中編輯 PDF，並在 Gemini 中使用 Adobe AI。看看這項合作有什麼新功能。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Adobe_snippet_hero.max-600x600.format-webp.webp" alt=""></p><p>Google 與 Adobe 正在整合創意與生產力工具。在 Drive 中編輯 PDF，並在 Gemini 中使用 Adobe AI。看看這項合作有什麼新功能。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google Cloud 推出醫療保健版 Gemini。</title>
@@ -578,18 +590,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 的控制室如何在我們的研究基礎設施中追蹤模型工作負載，並在出現安全或資安疑慮時迅速將其停止。</description>
-    </item>
-    <item>
-      <title>我們最新的 TPU：8tx 和 8i Max，為 agentic 時代打造</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/</guid>
-      <pubDate>Mon, 09 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們擴充了第八代 TPU 產品組合，加入 TPU 8tx 和 TPU 8i Max，標誌著在同一年內推出四套新的 TPU 系統。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TPU-8tx_and_8i-Max.max-600x600.format-webp.webp" alt=""></p><p>我們擴充了第八代 TPU 產品組合，加入 TPU 8tx 和 TPU 8i Max，標誌著在同一年內推出四套新的 TPU 系統。</p>]]></content:encoded>
     </item>
     <item>
       <title>將青少年帳號保護擴展至全球青少年</title>
