@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:22:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:38:03 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>輝達股價下跌，據報董事會準備罷免執行長黃仁勳</title>
+      <link>https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187556</guid>
+      <pubDate>Wed, 11 Nov 2026 23:28:45 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>最快在週三晚間，輝達董事會就可能決定撤換創辦人兼執行長黃仁勳，他已擔任這個職位 33 年。</description>
     </item>
     <item>
       <title>Jensen Huang 被指控另有婚外情——對象是 Nvidia 高層主管</title>
@@ -299,15 +308,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>七位共同創辦人每人都計劃在 IPO 中出售完全相同數量的股票，若以價格區間中間值計算，每人可拿到約 2.5 億美元現金，同時這個團隊仍將掌控公司。</description>
-    </item>
-    <item>
-      <title>Oura 將以 6.25 億美元收購 AI 原生初級照護新創 Counsel Health</title>
-      <link>https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187050</guid>
-      <pubDate>Tue, 10 Nov 2026 19:23:34 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這筆交易發生在 Oura 將其最高達 22 億美元的 IPO 無限期延後幾週之後，理由是「IPO 市場的不確定性」。</description>
     </item>
     <item>
       <title>NVIDIA 董事會獨立成員聲明</title>
