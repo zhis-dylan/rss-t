@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:19:34 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,18 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>現在可在 Apple CarPlay 上與 Gemini 對話</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-on-apple-carplay/</guid>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 現已可在 Apple CarPlay 上使用。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp" alt=""></p><p>Gemini 現已可在 Apple CarPlay 上使用。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google 對退伍軍人社群持續不變的承諾</title>
@@ -591,18 +603,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg" alt=""></p><p>我們正將 AI 年齡估測技術擴展到全球，讓更多數以百萬計的青少年在 Instagram 上受到青少年帳號保護。<br>〈將青少年帳號保護擴展至全球青少年〉一文最早刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Holiday 100：今年最熱門禮物指南</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/holiday-100-gift-guide-2026/</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google 的 Holiday 100 登場了。逛逛今年最受歡迎的禮物，看看背後的搜尋趨勢。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-cover_Holiday100_2026.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-cover_Holiday100_2026.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog-cover_Holiday100_2026.max-600x600.format-webp.webp" alt=""></p><p>Google 的 Holiday 100 登場了。逛逛今年最受歡迎的禮物，看看背後的搜尋趨勢。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 在 MSIT-NVIDIA AI 新創合作論壇上宣布對韓國新創的新增計畫投資</title>
