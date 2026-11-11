@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 07:26:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 07:41:55 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -23,6 +23,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>超過 2 萬名退伍軍人和即將退伍的服役人員已申請免費一年的 ChatGPT Plus。看看他們如何用它來準備民間職涯。</description>
+    </item>
+    <item>
+      <title>Nvidia 的危機讓公司治理專家直呼精彩</title>
+      <link>https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187258</guid>
+      <pubDate>Wed, 11 Nov 2026 07:30:51 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>我們訪問的治理專家表示，沒有人見過現在正在上演的這種情況。</description>
     </item>
     <item>
       <title>AI 如何幫助回收業者把混合廢棄物轉化為可再利用材料</title>
@@ -344,15 +353,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>今天 Apple Arcade 迎來《Football Manager 27 Touch》，以及 12 月 3 日推出的四款全新遊戲，滿足各種類型玩家。</description>
-    </item>
-    <item>
-      <title>Adobe 為其產品加入更多 AI，並推出 MCP</title>
-      <link>https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186771</guid>
-      <pubDate>Tue, 10 Nov 2026 14:05:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Adobe 在 Firefly 中推出一款新的原型建構工具，挑戰 Figma。</description>
     </item>
     <item>
       <title>我們正把 Adobe 的創意與生產力工具帶得更貼近你日常使用的 Google 應用程式。</title>
