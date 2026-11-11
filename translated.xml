@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 06:41:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 06:56:34 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -428,6 +428,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>來自 OpenAI 在 EMEA 的教育合作夥伴關係與 ThinkYoung 新研究的經驗。支持教師、AI 素養與自主學習。</description>
+    </item>
+    <item>
+      <title>新加坡航空運用 OpenAI 技術提升旅遊與工作體驗</title>
+      <link>https://openai.com/index/singapore-airlines-travel-work</link>
+      <guid isPermaLink="false">https://openai.com/index/singapore-airlines-travel-work</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解新加坡航空如何運用 OpenAI 模型與 API 強化客服支援、旅遊探索與員工生產力，並讓其 Kris 聊天機器人的 CSAT 提升一倍。</description>
     </item>
     <item>
       <title>在前線工作：AI 對自由接案工作的影響</title>
@@ -1007,15 +1016,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
-    </item>
-    <item>
       <title>以更高的漏洞獎金獎勵防禦者</title>
       <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
       <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
@@ -1023,6 +1023,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
+    </item>
+    <item>
+      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
@@ -1675,15 +1684,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
-      <link>https://openai.com/index/grupo-boticario</link>
-      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
-    </item>
-    <item>
       <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
       <link>https://openai.com/index/localiza-generative-ai</link>
       <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
@@ -1691,6 +1691,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
+    </item>
+    <item>
+      <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
+      <link>https://openai.com/index/grupo-boticario</link>
+      <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
     </item>
     <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
@@ -1924,15 +1933,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Radisson 與 Accenture 合作，使用 OpenAI 技術打造 ChatGPT 外掛程式，協助旅客在規劃行程時尋找、比較和預訂飯店。</description>
-    </item>
-    <item>
-      <title>適合每個人的 GPT-6 與 Intelligent UI</title>
-      <link>https://openai.com/index/gpt-6-for-everyone</link>
-      <guid isPermaLink="false">https://openai.com/index/gpt-6-for-everyone</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>GPT‑6 正在全球範圍內於 ChatGPT 推出，搭配 Intelligent UI，帶來更快的回應，以及你可以直接探索和使用的視覺內容與互動體驗。</description>
     </item>
     <item>
       <title>Microsoft 365 與 LinkedIn 領導層更新</title>
