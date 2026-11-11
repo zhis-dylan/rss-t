@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 08:57:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 09:30:46 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,18 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>體驗 Esther Mahlangu 博士的藝術與傳承</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/</guid>
+      <pubDate>Wed, 11 Nov 2026 09:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Esther Mahlangu 一生與藝術的全新線上典藏現已登上 Google Arts &amp; Culture。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp" alt=""></p><p>Esther Mahlangu 一生與藝術的全新線上典藏現已登上 Google Arts &amp; Culture。</p>]]></content:encoded>
     </item>
     <item>
       <title>退伍軍人與現役軍人的 ChatGPT Plus</title>
@@ -837,18 +849,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/60652bd2eb00e4408190d8bcb75444bf/6aec8c313d63326ba2671bef_gfn-thursday-11-5-blog-1920x1080-no-copy-842x450/gfn-thursday-11-5-blog-1920x1080-no-copy-842x450_thmb.jpg?v=2b75e572-a34a-4853-9d7d-31c470f8eea7" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/60652bd2eb00e4408190d8bcb75444bf/6aec8c313d63326ba2671bef_gfn-thursday-11-5-blog-1920x1080-no-copy-842x450/gfn-thursday-11-5-blog-1920x1080-no-copy-842x450_thmb.jpg?v=2b75e572-a34a-4853-9d7d-31c470f8eea7"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/60652bd2eb00e4408190d8bcb75444bf/6aec8c313d63326ba2671bef_gfn-thursday-11-5-blog-1920x1080-no-copy-842x450/gfn-thursday-11-5-blog-1920x1080-no-copy-842x450_thmb.jpg?v=2b75e572-a34a-4853-9d7d-31c470f8eea7" alt=""></p><p>霍格華茲的傳承今天透過 3D 引導式神經渲染獲得 NVIDIA DLSS 5 升級，為 GeForce NOW 上的魔法世界帶來逼真的光影與材質。暴雪娛樂的《魔獸世界：永恆》也在艾澤拉斯開啟新篇章，GeForce NOW 會員可獲得上市首週存取獎勵。同時，Ubisoft 也帶來包含擴充內容的新挑戰 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>歡迎參加我們在國家退伍軍人小型企業週期間的免費直播。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/national-veterans-small-business-week-2026/</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>加入我們 2026 年 11 月的 YouTube 直播，慶祝國家退伍軍人小型企業週。掌握 Gemini 的 AI 技能，並獲得一對一指導。立即報名。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Check_out_our_free_livestream_d.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Check_out_our_free_livestream_d.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Check_out_our_free_livestream_d.max-600x600.format-webp.webp" alt=""></p><p>加入我們 2026 年 11 月的 YouTube 直播，慶祝國家退伍軍人小型企業週。掌握 Gemini 的 AI 技能，並獲得一對一指導。立即報名。</p>]]></content:encoded>
     </item>
     <item>
       <title>GPT‑6 Cyber：推進對齊的資安代理前沿</title>
