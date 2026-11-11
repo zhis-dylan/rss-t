@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 19:50:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 20:06:08 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>Olaf Sakkers 賭自己能擊敗新興基金經理人的擠壓</title>
+      <link>https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186110</guid>
+      <pubDate>Wed, 11 Nov 2026 20:04:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>踏入創投世界從來都不容易，尤其是第一次擔任基金經理人時。 但現在更是格外艱難。Olaf Sakkers 在過去五年裡一直證明，困難並不代表不可能。</description>
+    </item>
+    <item>
+      <title>CoreWeave 轉向客戶預付款與較短合約，以為 AI 成長籌資</title>
+      <link>https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187437</guid>
+      <pubDate>Wed, 11 Nov 2026 19:54:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據該公司第三季財報，CoreWeave 越來越常要求客戶先付款、針對特定合約進行借款，甚至也在尋找可能帶來更高價格的短期交易。</description>
     </item>
     <item>
       <title>在 7.2 億美元融資後，英國的 Fractile 在 AI 晶片競賽中取得領先優勢</title>
@@ -349,15 +367,6 @@
       <description>Google 的 Pixel Tag 讓你可以用 Android 裝置追蹤遺失的物品，類似 Apple 的 AirTag。</description>
     </item>
     <item>
-      <title>Anthropic 推出 Claude Meetings，將職場討論轉化為計畫與任務</title>
-      <link>https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186876</guid>
-      <pubDate>Tue, 10 Nov 2026 17:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在參與者交談時，Claude 可以草擬正在討論的計畫、在白板上整理時間表、在會議聊天中回答問題，並存取已連接的工作應用程式以擷取資訊，例如去年的數據。</description>
-    </item>
-    <item>
       <title>介紹 Google Fi 的全新超級網路</title>
       <link>https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/</guid>
@@ -368,15 +377,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Google Fi Wireless 正在推出全新的超級網路，將兩個 5G 網路與數百萬個 Wi-Fi 網路整合在同一個手機方案中。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Nvidia 執行長黃仁勳與涉嫌中國間諜的婚外情：時間軸</title>
-      <link>https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186475</guid>
-      <pubDate>Tue, 10 Nov 2026 17:04:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這段婚外情可能對國家安全產生影響，因為美國和中國正競相開發最先進的 AI 基礎設施。</description>
     </item>
     <item>
       <title>Apple TV 推出全新的手語口譯功能</title>
