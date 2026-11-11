@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:54:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 03:09:13 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,18 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>AI 如何幫助回收業者把混合廢棄物轉化為可再利用材料</title>
+      <link>https://blogs.nvidia.com/blog/ai-recycling-startups/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-recycling-startups/</guid>
+      <pubDate>Wed, 11 Nov 2026 03:00:20 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>視覺 AI 和機器人從輸送帶上的舊衣、瓶子與混合回收物中挑出值得回收的物品，將數千噸材料從掩埋場轉移出去。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/f3f324bb2a2e75f4f99e90d86934784a/6af3da723d633258c5307134_recycling-company-grid-1920x1080-1-842x450/recycling-company-grid-1920x1080-1-842x450_thmb.jpg?v=48e354b9-766a-4449-aa37-71ff96b236f4" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/f3f324bb2a2e75f4f99e90d86934784a/6af3da723d633258c5307134_recycling-company-grid-1920x1080-1-842x450/recycling-company-grid-1920x1080-1-842x450_thmb.jpg?v=48e354b9-766a-4449-aa37-71ff96b236f4"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/f3f324bb2a2e75f4f99e90d86934784a/6af3da723d633258c5307134_recycling-company-grid-1920x1080-1-842x450/recycling-company-grid-1920x1080-1-842x450_thmb.jpg?v=48e354b9-766a-4449-aa37-71ff96b236f4" alt=""></p><p>視覺 AI 和機器人從輸送帶上的舊衣、瓶子與混合回收物中挑出值得回收的物品，將數千噸材料從掩埋場轉移出去。</p>]]></content:encoded>
     </item>
     <item>
       <title>X 推出自己的剪輯功能，以刺激網紅互動</title>
@@ -1104,18 +1116,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 更新版 Model Spec 概述五項核心價值，引導更強大的 AI 朝向良好判斷、人類主導權，以及對人類意圖的忠實性。</description>
-    </item>
-    <item>
-      <title>切入 GFN Thursday：《Phantom Blade Zero》登陸 GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-phantom-blade-zero/</guid>
-      <pubDate>Thu, 29 Oct 2026 13:00:16 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在這個萬聖節週，GFN Thursday 正在送上一批全新的遊戲好禮。這把刀帶著邪氣而來。S-GAME 的《Phantom Blade Zero》今天在 GeForce NOW 上線，將武術與龐克奇幻的組合帶到雲端，而且還好得嚇人。對冒險者來說，前方也有新消息：World of Warcraft: Forever 於週三登場，[…]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/8b3fdaae6d6bbc8bf2799fbdec10ede5/6ae343d53d63322b0660b5b3_gfn-thursday-10-29-blog-1920x1080-logo-842x450/gfn-thursday-10-29-blog-1920x1080-logo-842x450_thmb.jpg?v=270a9de1-a727-4bc6-9a94-b468536daf8f" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/8b3fdaae6d6bbc8bf2799fbdec10ede5/6ae343d53d63322b0660b5b3_gfn-thursday-10-29-blog-1920x1080-logo-842x450/gfn-thursday-10-29-blog-1920x1080-logo-842x450_thmb.jpg?v=270a9de1-a727-4bc6-9a94-b468536daf8f"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/8b3fdaae6d6bbc8bf2799fbdec10ede5/6ae343d53d63322b0660b5b3_gfn-thursday-10-29-blog-1920x1080-logo-842x450/gfn-thursday-10-29-blog-1920x1080-logo-842x450_thmb.jpg?v=270a9de1-a727-4bc6-9a94-b468536daf8f" alt=""></p><p>在這個萬聖節週，GFN Thursday 正在送上一批全新的遊戲好禮。這把刀帶著邪氣而來。S-GAME 的《Phantom Blade Zero》今天在 GeForce NOW 上線，將武術與龐克奇幻的組合帶到雲端，而且還好得嚇人。對冒險者來說，前方也有新消息：World of Warcraft: Forever 於週三登場，[…]</p>]]></content:encoded>
     </item>
     <item>
       <title>我們如何偵測前沿模型失對齊</title>
