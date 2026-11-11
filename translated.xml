@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 11 Nov 2026 23:38:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:53:13 GMT</lastBuildDate>
     <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
@@ -14,6 +14,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
+    </item>
+    <item>
+      <title>Jensen Huang 風波發展始末：時間軸</title>
+      <link>https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3186475</guid>
+      <pubDate>Wed, 11 Nov 2026 23:50:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這起事件可能對國家安全帶來影響，因為美國和中國正在競相開發最先進的 AI 基礎設施。</description>
     </item>
     <item>
       <title>輝達股價下跌，據報董事會準備罷免執行長黃仁勳</title>
@@ -299,15 +308,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>X-energy 已收到美國核能管制委員會的建造許可，可在德州建造四座反應爐。</description>
-    </item>
-    <item>
-      <title>Anthropic 7 位創辦人都將各自套現約 2.5 億美元，於 IPO 中</title>
-      <link>https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187028</guid>
-      <pubDate>Tue, 10 Nov 2026 19:57:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>七位共同創辦人每人都計劃在 IPO 中出售完全相同數量的股票，若以價格區間中間值計算，每人可拿到約 2.5 億美元現金，同時這個團隊仍將掌控公司。</description>
     </item>
     <item>
       <title>NVIDIA 董事會獨立成員聲明</title>
