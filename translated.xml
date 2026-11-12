@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:44:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:59:28 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 宣布執行長交接</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition</guid>
+      <pubDate>Thu, 12 Nov 2026 13:48:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA（NASDAQ: NVDA）董事會今日宣布，Jensen Huang 已辭去總裁、執行長及董事會成員職務，並立即生效。</description>
+    </item>
     <item>
       <title>九家韓國新創爭奪 Disrupt 2027 新創戰場 200 大賽席位</title>
       <link>https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/</link>
@@ -1105,18 +1114,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
-    </item>
-    <item>
-      <title>夜裡發出嗶嗶聲的東西：代理式 AI 加入搜尋外星訊號的行列</title>
-      <link>https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/</guid>
-      <pubDate>Fri, 30 Oct 2026 15:00:10 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>雖然科幻作品告訴我們，人類會以小綠人的形式遇見外星生命，但今年萬聖節真正該讓人起雞皮疙瘩的細節是：在 AI 的助力下，搜尋外星智慧已大幅向前邁進，而且愈來愈聚焦於人類打造的 AI 代理在傾聽 AI 代理……</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202610/8d113e03d95ec1ca46d8a7db209c9d97/6ae4b11c3d63322d6d3b467c_IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450_thmb.jpg?v=cf4d0898-88f0-447b-82c0-d5e33442f3aa" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202610/8d113e03d95ec1ca46d8a7db209c9d97/6ae4b11c3d63322d6d3b467c_IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450_thmb.jpg?v=cf4d0898-88f0-447b-82c0-d5e33442f3aa"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/8d113e03d95ec1ca46d8a7db209c9d97/6ae4b11c3d63322d6d3b467c_IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450/IMG_1607-ATA-2023-CREDIT-Joe-Marfia-842x450_thmb.jpg?v=cf4d0898-88f0-447b-82c0-d5e33442f3aa" alt=""></p><p>雖然科幻作品告訴我們，人類會以小綠人的形式遇見外星生命，但今年萬聖節真正該讓人起雞皮疙瘩的細節是：在 AI 的助力下，搜尋外星智慧已大幅向前邁進，而且愈來愈聚焦於人類打造的 AI 代理在傾聽 AI 代理……</p>]]></content:encoded>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
