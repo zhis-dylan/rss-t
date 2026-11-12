@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 18:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:47:55 GMT</lastBuildDate>
+    <item>
+      <title>Jensen Huang 的離任讓 Nvidia 對開源的支持受到質疑</title>
+      <link>https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188037</guid>
+      <pubDate>Thu, 12 Nov 2026 18:39:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Jensen Huang 的辭任引發外界對 Nvidia 對開源 AI 承諾的質疑，包括其對 Hugging Face 的收購、開放權重模型，以及反對限制的倡議，因為該公司正面臨領導層交接。</description>
+    </item>
     <item>
       <title>Google 搜尋透過 Gemini 4 Hydrogen 獲得重大升級</title>
       <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
@@ -368,15 +377,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>2009 年原本加入公司的 Santosh Janardhan，將卸下他的職務。</description>
-    </item>
-    <item>
-      <title>Olaf Sakkers 賭自己能擊敗新興基金經理人的擠壓</title>
-      <link>https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186110</guid>
-      <pubDate>Wed, 11 Nov 2026 20:04:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>踏入創投世界從來都不容易，尤其是第一次擔任基金經理人時。 但現在更是格外艱難。Olaf Sakkers 在過去五年裡一直證明，困難並不代表不可能。</description>
     </item>
     <item>
       <title>Gemini Decisions API：快速、校準過的多模態決策</title>
