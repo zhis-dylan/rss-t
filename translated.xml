@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:03:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 19:18:14 GMT</lastBuildDate>
+    <item>
+      <title>Nectar 推出可自動化品牌創作者發掘與聯繫的 AI 代理人</title>
+      <link>https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187494</guid>
+      <pubDate>Thu, 12 Nov 2026 19:11:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nectar 的新 AI 代理人可自動化網紅行銷，協助品牌發掘創作者、管理聯繫與合作關係，並追蹤活動成效。</description>
+    </item>
+    <item>
+      <title>Microsoft 的 Outlook 電子郵件再度發生當機</title>
+      <link>https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188070</guid>
+      <pubDate>Thu, 12 Nov 2026 19:03:39 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Microsoft 目前尚未說明這次當機的原因，這次事故影響了 Outlook 電子郵件使用者。</description>
+    </item>
     <item>
       <title>Jensen Huang 的離任讓 Nvidia 對開源的支持受到質疑</title>
       <link>https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/</link>
@@ -368,15 +386,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Jensen Huang 先前因承認與一名被指控為中國情報人員的女子有婚外情而受到抨擊，如今又被指控與一名 Nvidia 下屬有另一段婚外情。</description>
-    </item>
-    <item>
-      <title>Meta 即將失去其長期的基礎設施主管</title>
-      <link>https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187471</guid>
-      <pubDate>Wed, 11 Nov 2026 20:12:01 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>2009 年原本加入公司的 Santosh Janardhan，將卸下他的職務。</description>
     </item>
     <item>
       <title>Gemini Decisions API：快速、校準過的多模態決策</title>
