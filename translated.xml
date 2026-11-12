@@ -5,7 +5,43 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:47:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 18:02:32 GMT</lastBuildDate>
+    <item>
+      <title>Google 搜尋透過 Gemini 4 Hydrogen 獲得重大升級</title>
+      <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正在把 Gemini 4 Hydrogen 帶到全球的 Google 搜尋，為你提供更實用、視覺化且直覺的回應。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp" alt=""></p><p>我們正在把 Gemini 4 Hydrogen 帶到全球的 Google 搜尋，為你提供更實用、視覺化且直覺的回應。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini 4 Hydrogen：開發者的日常程式撰寫與 agentic 工作流程</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>介紹 Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Hugging Face 執行長誓言在 Jensen Huang 離開後持續為開源 AI 奮戰</title>
       <link>https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/</link>
@@ -376,6 +412,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp" alt=""></p><p>Gemini 現已可在 Apple CarPlay 上使用。</p>]]></content:encoded>
     </item>
     <item>
+      <title>取得 Google Cloud Professional Agentic Architect 認證。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/</guid>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們今天宣布 Google Cloud 全新的 Professional Agentic Architect 認證。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" alt=""></p><p>我們今天宣布 Google Cloud 全新的 Professional Agentic Architect 認證。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Google 對退伍軍人社群持續不變的承諾</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/</guid>
@@ -398,18 +446,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security_social-share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security_social-share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security_social-share.max-600x600.format-webp.webp" alt=""></p><p>在我們的 Security 2027 分析中，來自 Google、Google Cloud 和 Mandiant 的領導者解析塑造下一個防禦時代的關鍵趨勢。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>取得 Google Cloud Professional Agentic Architect 認證。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/</guid>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們今天宣布 Google Cloud 全新的 Professional Agentic Architect 認證。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" alt=""></p><p>我們今天宣布 Google Cloud 全新的 Professional Agentic Architect 認證。</p>]]></content:encoded>
     </item>
     <item>
       <title>試試 Tabletop：可自訂、可協作的空間，讓團隊一起規劃、玩樂，做更多事。</title>
@@ -502,30 +538,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/header_Pixel_drop_image.max-600x600.format-webp.webp" alt=""></p><p>探索最新的 Pixel 功能，包括 Pixel 10 上的 Gemini Intelligence、Google Messages 的 HiLight 提醒，以及更多內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>在你的 Pixel Watch 上取得逐步健身指引。</title>
-      <link>https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/devices/pixel/step-by-step-workouts-watch/</guid>
-      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在你的 Pixel Watch 上透過 Google 取得即時健身指引。跟著自訂訓練流程，並直接在手腕上追蹤次數。看看它怎麼運作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Step-by-step_workouts_roll_out_.max-600x600.format-webp.webp" alt=""></p><p>在你的 Pixel Watch 上透過 Google 取得即時健身指引。跟著自訂訓練流程，並直接在手腕上追蹤次數。看看它怎麼運作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>介紹 Google Fi 的全新超級網路</title>
-      <link>https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/google-fi-wireless/super-network/</guid>
-      <pubDate>Tue, 10 Nov 2026 17:20:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Fi Wireless 正在推出全新的超級網路，將兩個 5G 網路與數百萬個 Wi-Fi 網路整合在同一個手機方案中。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Super_Network_Hero_Thumbnail.max-600x600.format-webp.webp" alt=""></p><p>Google Fi Wireless 正在推出全新的超級網路，將兩個 5G 網路與數百萬個 Wi-Fi 網路整合在同一個手機方案中。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Apple TV 推出全新的手語口譯功能</title>
       <link>https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/</link>
       <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/apple-tv-introduces-new-sign-language-interpretation-feature/</guid>
@@ -545,18 +557,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/3337e430527205ac3c1d8650d867952b/6af33fb73d63324036e5b1e9_end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450_thmb.jpg?v=c09c8d93-d3e4-465b-be57-60aa829a9151" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/3337e430527205ac3c1d8650d867952b/6af33fb73d63324036e5b1e9_end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450_thmb.jpg?v=c09c8d93-d3e4-465b-be57-60aa829a9151"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/3337e430527205ac3c1d8650d867952b/6af33fb73d63324036e5b1e9_end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450/end-to-end-key-visual-kubecon-blog-1920x1080-5915250-v2-842x450_thmb.jpg?v=c09c8d93-d3e4-465b-be57-60aa829a9151" alt=""></p><p>Kubernetes 這套開源系統負責管理應用程式如何在數千座 AI 工廠中運作，已成為 AI 的基礎，而對它的需求也只會持續增加。為了協助滿足這些需求，NVIDIA 正在 KubeCon + CloudNativeCon 上加深對開源的承諾；這是 Kubernetes 與雲原生社群的旗艦會議。NVIDIA […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>推出 3 個新網域：.eat、.fly 和 .here</title>
-      <link>https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</guid>
-      <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" alt=""></p><p>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</p>]]></content:encoded>
     </item>
     <item>
       <title>《Football Manager》和其他熱門系列領銜 Apple Arcade 的節慶遊戲陣容</title>
