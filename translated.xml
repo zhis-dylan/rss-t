@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 17:17:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 17:32:09 GMT</lastBuildDate>
+    <item>
+      <title>聯合航空封鎖 AI 代理預訂航班，稱有資安風險</title>
+      <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187972</guid>
+      <pubDate>Thu, 12 Nov 2026 17:17:58 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>該航空公司表示，不會允許顧客使用 AI 代理預訂航班和管理訂位。</description>
+    </item>
     <item>
       <title>軟銀的數十億美元虧損，可能已為 AI 的天然氣雄心設下上限</title>
       <link>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</link>
@@ -332,15 +341,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>根據該公司第三季財報，CoreWeave 越來越常要求客戶先付款、針對特定合約進行借款，甚至也在尋找可能帶來更高價格的短期交易。</description>
-    </item>
-    <item>
-      <title>在 7.2 億美元融資後，英國的 Fractile 在 AI 晶片競賽中取得領先優勢</title>
-      <link>https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187339</guid>
-      <pubDate>Wed, 11 Nov 2026 19:34:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Fractile 現已成為專為 AI 晶片打造的競賽中，資金募集最多的公司之一。</description>
     </item>
     <item>
       <title>Gemini Decisions API：快速、校準過的多模態決策</title>
