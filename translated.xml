@@ -5,7 +5,26 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:45:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:01:03 GMT</lastBuildDate>
+    <item>
+      <title>在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗</title>
+      <link>https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/</link>
+      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563253</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:02 GMT</pubDate>
+      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
+      <dc:creator>The Official Microsoft Blog</dc:creator>
+      <description>成果遍地開花，但規模化的價值卻沒有，而這正是今年由 Microsoft 委託 IDC 進行的研究想要釐清的落差。在我們委託 IDC 進行研究的第四年，來自 28 個產業的超過 5,200 位資深 IT 與商務主管，分享了當 AI 擴大規模時，該如何最大化價值。最明確的啟示……
+〈在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗〉一文最早出現在 The Official Microsoft Blog。</description>
+    </item>
+    <item>
+      <title>Whoop 剛推出一個社交網路</title>
+      <link>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187638</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Whoop 正在推出一個社交網路，讓會員分享他們的睡眠、恢復和運動資料，但更大的布局是要更像一個個人健康品牌，而執行長 Will Ahmed 暗示未來可能會有收購。</description>
+    </item>
     <item>
       <title>Jensen Huang 離開 Nvidia——誰是接任的臨時人選 Colette Kress？</title>
       <link>https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/</link>
@@ -345,15 +364,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>在擁有 12,000 名員工的規模下，AI Ghodsi 第一個承認自己不可能認識每個人，而且他們也不太可能向他坦承出錯的事情。但他不需要他們這麼做。他會用 Databricks 新版的 Genie 代理來處理這件事。</description>
-    </item>
-    <item>
-      <title>Plurai 想用幫助自駕車上路的同樣方法，讓 AI 代理運作得更好</title>
-      <link>https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187089</guid>
-      <pubDate>Wed, 11 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>就像訓練來開車的端到端模型一樣，AI 代理是在不可預測環境中運作的機率系統。</description>
     </item>
     <item>
       <title>體驗 Esther Mahlangu 博士的藝術與傳承</title>
@@ -1951,16 +1961,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" medium="image" type="image/png"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/09/OMB-Home-FINAL-2.png" alt=""></p><p>我們正在重新構想 Microsoft Copilot，讓工作隨著其演進而推動發展，並協助擴展每個個人與每個組織在人類雄心的推進過程中所能達成的一切。今天，我們推出全新的 Copilot，將人們依賴的工具與他們用來建構、自訂及擴展 AI 所需的下一代能力連結起來...<br>〈Introducing the new Copilot with Home, Code and Autopilot〉一文最初出現在 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們從微軟自身的 AI 轉型中學到了什麼</title>
-      <link>https://blogs.microsoft.com/blog/2026/09/17/what-weve-learned-from-microsofts-own-ai-transformation/</link>
-      <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563127</guid>
-      <pubDate>Thu, 17 Sep 2026 14:00:05 GMT</pubDate>
-      <source url="https://blogs.microsoft.com/feed/">The Official Microsoft Blog</source>
-      <dc:creator>The Official Microsoft Blog</dc:creator>
-      <description>AI 正以比任何組織真正掌握的速度更快地重塑工作。橫跨各個產業，討論焦點已從 AI 能做什麼，轉向企業如何運用 AI 創造商業價值，並擴展人們所能達成的事物。在 Microsoft，我們相信，能夠成功的組織將會是我們所稱的 Frontier Firms：...
-這篇〈我們從微軟自身的 AI 轉型中學到了什麼〉最初發表於 The Official Microsoft Blog。</description>
     </item>
   </channel>
 </rss>
