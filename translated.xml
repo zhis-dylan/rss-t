@@ -5,7 +5,25 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 16:31:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:46:32 GMT</lastBuildDate>
+    <item>
+      <title>Jensen Huang 同意向國會作證</title>
+      <link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187911</guid>
+      <pubDate>Thu, 12 Nov 2026 16:36:37 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Huang 在有報導指出他與一名被懷疑為中國從事間諜活動的女子有婚外情、並因此遭免除執行長職務後，同意於週三作證，先前幾位資深議員曾威脅要對他發出傳票。</description>
+    </item>
+    <item>
+      <title>Jensen Huang 被 Nvidia 免職，可能傷害 AI 產業的五種方式</title>
+      <link>https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187523</guid>
+      <pubDate>Thu, 12 Nov 2026 16:32:33 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nvidia 遭免職的執行長 Jensen Huang 的垮台，不只是一般那種充滿煽情意味的億萬富豪性醜聞。他一直在利用自己的影響力，推動 AI 產業朝某些特定方向發展。</description>
+    </item>
     <item>
       <title>川普提議蘋果董事長提姆・庫克接替黃仁勳</title>
       <link>https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/</link>
@@ -336,15 +354,6 @@
       <description>「業界有很多資深人士知道這件事正在發生，而且等於是在默許它，」一位投資情報顧問表示。</description>
     </item>
     <item>
-      <title>據報 OpenAI 的季度營收首次突破 100 億美元</title>
-      <link>https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187315</guid>
-      <pubDate>Wed, 11 Nov 2026 16:14:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>100 億美元的銷售額，較該公司第二季記錄的 67 億美元營收成長近 50%。</description>
-    </item>
-    <item>
       <title>試試 Tabletop：可自訂、可協作的空間，讓團隊一起規劃、玩樂，做更多事。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/</guid>
@@ -355,15 +364,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/labs_tabletop_blog_image_2784x1.max-600x600.format-webp.webp" alt=""></p><p>Tabletop 是 Google Labs 的新實驗，主打團隊協作。你可以和團隊一起建立互動式行程、投票和賽程表。加入等候名單。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Siri 共同創辦人力挺 Helix 的語音 ID 技術</title>
-      <link>https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186258</guid>
-      <pubDate>Wed, 11 Nov 2026 15:02:47 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Helix 表示其語音 ID 技術可在 iPhone 13 上執行</description>
     </item>
     <item>
       <title>體驗 Esther Mahlangu 博士的藝術與傳承</title>
