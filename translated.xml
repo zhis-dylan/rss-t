@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 20:33:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:49:06 GMT</lastBuildDate>
+    <item>
+      <title>由視覺藝術家設計的 5 個全新 Google Flow 工具</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/</guid>
+      <pubDate>Thu, 12 Nov 2026 20:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>由電影製作人和視覺藝術家設計的 5 個全新 Google Flow 工具，將幫助你把下一個故事活靈活現地呈現出來。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Nov_Cohort_Hero_4.max-600x600.format-webp.webp" alt=""></p><p>由電影製作人和視覺藝術家設計的 5 個全新 Google Flow 工具，將幫助你把下一個故事活靈活現地呈現出來。</p>]]></content:encoded>
+    </item>
     <item>
       <title>路透社報導，Jensen Huang有第三段婚外情</title>
       <link>https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/</link>
@@ -430,18 +442,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Carplay_hero_image.max-600x600.format-webp.webp" alt=""></p><p>Gemini 現已可在 Apple CarPlay 上使用。</p>]]></content:encoded>
     </item>
     <item>
-      <title>取得 Google Cloud Professional Agentic Architect 認證。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/</guid>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們今天宣布 Google Cloud 全新的 Professional Agentic Architect 認證。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" alt=""></p><p>我們今天宣布 Google Cloud 全新的 Professional Agentic Architect 認證。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google 對退伍軍人社群持續不變的承諾</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/veterans-day-2026/</guid>
@@ -464,6 +464,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security_social-share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security_social-share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Security_social-share.max-600x600.format-webp.webp" alt=""></p><p>在我們的 Security 2027 分析中，來自 Google、Google Cloud 和 Mandiant 的領導者解析塑造下一個防禦時代的關鍵趨勢。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>取得 Google Cloud Professional Agentic Architect 認證。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/professional-agentic-architect/</guid>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們今天宣布 Google Cloud 全新的 Professional Agentic Architect 認證。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_cloud_certified_social.max-600x600.format-webp.webp" alt=""></p><p>我們今天宣布 Google Cloud 全新的 Professional Agentic Architect 認證。</p>]]></content:encoded>
     </item>
     <item>
       <title>試試 Tabletop：可自訂、可協作的空間，讓團隊一起規劃、玩樂，做更多事。</title>
@@ -530,18 +542,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" alt=""></p><p>加州聖塔克拉拉，2026 年 11 月 10 日 NVIDIA 董事會獨立成員已聘請前紐約南區代理美國聯邦檢察官 Joon H. Kim 及其律師事務所 Wachtell，...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Gemini Intelligence：全新功能，支援更多裝置</title>
-      <link>https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/</guid>
-      <pubDate>Tue, 10 Nov 2026 19:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Intelligence 正在推送到更多裝置。看看這些裝置擴充後的功能如何幫助你完成更多事情。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Intelligence_Signature27.max-600x600.format-webp.webp" alt=""></p><p>Gemini Intelligence 正在推送到更多裝置。看看這些裝置擴充後的功能如何幫助你完成更多事情。</p>]]></content:encoded>
     </item>
     <item>
       <title>搭載 Gemini Intelligence 的 Pixel 10、個人化小工具，以及更多內容，盡在我們 11 月的 Pixel Drop</title>
