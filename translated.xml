@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 21:19:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 21:34:30 GMT</lastBuildDate>
+    <item>
+      <title>Nebius 以 400 億美元的預計支出測試 neocloud 操作手冊</title>
+      <link>https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188119</guid>
+      <pubDate>Thu, 12 Nov 2026 21:27:10 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Nebius 計劃透過客戶預付款和貸款來為其 400 億美元的 AI 基礎設施擴張提供資金，但微軟資料中心的延宕也讓外界對其融資模式產生疑問。</description>
+    </item>
     <item>
       <title>由視覺藝術家設計的 5 個全新 Google Flow 工具</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/new-google-flow-tools/</link>
@@ -371,15 +380,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>有了 Codex，Holiday Extras 正把客戶專業知識轉化為更好的應用程式、更高的訂房轉換率，以及成長的新可能性。</description>
-    </item>
-    <item>
-      <title>誰有可能接替黃仁勳？一份非常不科學的可能接班人名單</title>
-      <link>https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187615</guid>
-      <pubDate>Thu, 12 Nov 2026 03:13:10 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>輝達沒有接班計畫，而且這位執行長正陷入麻煩，所以我們整理了一份候選名單。</description>
     </item>
     <item>
       <title>支持 AI 與兒童安全研究</title>
