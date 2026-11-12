@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 16:01:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:16:13 GMT</lastBuildDate>
+    <item>
+      <title>川普提議蘋果董事長提姆・庫克接替黃仁勳</title>
+      <link>https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187860</guid>
+      <pubDate>Thu, 12 Nov 2026 16:12:44 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>川普總統在 Truth Social 發文表示，只有一個人能接替黃仁勳成為 Nvidia 的負責人：提姆・庫克。</description>
+    </item>
     <item>
       <title>在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗</title>
       <link>https://blogs.microsoft.com/blog/2026/11/12/scaling-ai-value-without-losing-control-lessons-from-frontier-firms/</link>
@@ -355,15 +364,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Helix 表示其語音 ID 技術可在 iPhone 13 上執行</description>
-    </item>
-    <item>
-      <title>Databricks 全新 AI 代理向執行長 Ali Ghodsi 直言不諱地說出實話</title>
-      <link>https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186547</guid>
-      <pubDate>Wed, 11 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>在擁有 12,000 名員工的規模下，AI Ghodsi 第一個承認自己不可能認識每個人，而且他們也不太可能向他坦承出錯的事情。但他不需要他們這麼做。他會用 Databricks 新版的 Genie 代理來處理這件事。</description>
     </item>
     <item>
       <title>體驗 Esther Mahlangu 博士的藝術與傳承</title>
