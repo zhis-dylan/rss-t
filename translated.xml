@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 12:58:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 13:13:57 GMT</lastBuildDate>
+    <item>
+      <title>我們正在為 Google Ads 的無效流量推出一項新的透明度工具。</title>
+      <link>https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/invalid-traffic-overview-google-ads/</guid>
+      <pubDate>Thu, 12 Nov 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Ads 推出無效流量總覽卡片，提升活動透明度。查看您自 2026 年 11 月起的節省金額和額度。了解詳情。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_05_Laptop_Overview_Unbl.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_05_Laptop_Overview_Unbl.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_05_Laptop_Overview_Unbl.max-600x600.format-webp.webp" alt=""></p><p>Google Ads 推出無效流量總覽卡片，提升活動透明度。查看您自 2026 年 11 月起的節省金額和額度。了解詳情。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Meta 的新協議為資料中心供應鏈帶來潔淨製造</title>
       <link>https://about.fb.com/news/2026/11/meta-new-agreements-clean-manufacturing-data-center-supply-chains/</link>
@@ -434,16 +446,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/CarbonLogo_Socialshare.max-600x600.format-webp.webp" alt=""></p><p>從今天起，開發者可以使用 Gemini 4 Carbon 進行開發，這是我們在資安和長期任務能力方面表現領先的最強模型。為了永續而打造…</p>]]></content:encoded>
     </item>
     <item>
-      <title>推出 3 個新網域：.eat、.fly 和 .here</title>
-      <link>https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</guid>
+      <title>推出 Multimodal Knowledge Agent 基準</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/</guid>
       <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" alt=""></p><p>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</p>]]></content:encoded>
+      <description>我們正在推出 Multimodal Knowledge Agent，這是一個新的基準，用來評估代理在視覺上複雜的多模態任務中如何推理。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png" medium="image" type="image/png" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png" alt=""></p><p>我們正在推出 Multimodal Knowledge Agent，這是一個新的基準，用來評估代理在視覺上複雜的多模態任務中如何推理。</p>]]></content:encoded>
     </item>
     <item>
       <title>Gemini 4 Carbon 現已開放使用</title>
@@ -458,16 +470,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_4_carbon_key_art_16-9_lo.max-600x600.format-webp.webp" alt=""></p><p>今天，我們將 Gemini 4 Carbon 開放給開發者、企業、科學家和一般消費者使用。</p>]]></content:encoded>
     </item>
     <item>
-      <title>推出 Multimodal Knowledge Agent 基準</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/multimodal-knowledge-agent-benchmark/</guid>
+      <title>推出 3 個新網域：.eat、.fly 和 .here</title>
+      <link>https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/registry/new-google-domains-eat-fly-here/</guid>
       <pubDate>Tue, 10 Nov 2026 16:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>我們正在推出 Multimodal Knowledge Agent，這是一個新的基準，用來評估代理在視覺上複雜的多模態任務中如何推理。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png" medium="image" type="image/png" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/01_Hero_MKA_Benchmark_2784x1566.png" alt=""></p><p>我們正在推出 Multimodal Knowledge Agent，這是一個新的基準，用來評估代理在視覺上複雜的多模態任務中如何推理。</p>]]></content:encoded>
+      <description>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail__hero_-_eat_fly_here_.max-600x600.format-webp.webp" alt=""></p><p>Google Registry 今天推出 .eat、.fly 和 .here。看看 Wingstop、Zillow、Rocket Lawyer 以及其他品牌已經如何使用它們。</p>]]></content:encoded>
     </item>
     <item>
       <title>《Football Manager》和其他熱門系列領銜 Apple Arcade 的節慶遊戲陣容</title>
@@ -522,18 +534,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI Academy 正在五個美國城市推出免費的 ChatGPT 實作工作坊，幫助照顧者培養日常生活所需的實用 AI 技能。</description>
-    </item>
-    <item>
-      <title>Waze 和 Garmin 攜手提升駕駛人對自行車騎士的注意力。</title>
-      <link>https://blog.google/waze/garmin-safety-cyclists/</link>
-      <guid isPermaLink="false">https://blog.google/waze/garmin-safety-cyclists/</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Waze 和 Garmin 透過即時自行車警示提升道路安全。看看 Garmin LiveTrack 圖示如何幫助駕駛人留意附近的自行車騎士。了解詳情。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waze_Garmin_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waze_Garmin_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Waze_Garmin_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>Waze 和 Garmin 透過即時自行車警示提升道路安全。看看 Garmin LiveTrack 圖示如何幫助駕駛人留意附近的自行車騎士。了解詳情。</p>]]></content:encoded>
     </item>
     <item>
       <title>在 ChatGPT 中推出商家資訊</title>
