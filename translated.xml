@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:00:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:15:26 GMT</lastBuildDate>
+    <item>
+      <title>針對 Fireworks AI 的網路攻擊讓駭客得以存取 Notion 客戶的聊天逐字稿</title>
+      <link>https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3187828</guid>
+      <pubDate>Thu, 12 Nov 2026 15:02:28 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是 Fireworks 連續兩個月中的第二起資料外洩事件。</description>
+    </item>
     <item>
       <title>Nvidia 的黃仁勳辭職，晶片製造商任命財務長 Colette Kress 為臨時執行長</title>
       <link>https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/</link>
@@ -387,15 +396,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>JioStar 的 Vijay Seshadri 解釋在 5 億使用者規模下的 AI 發現。閱讀他關於評估、護欄，以及將 AI 推向正式環境的心得。</description>
-    </item>
-    <item>
-      <title>OpenAI 收購由 Sonder 創辦人打造的旅遊新創公司 Odessia</title>
-      <link>https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187116</guid>
-      <pubDate>Tue, 10 Nov 2026 21:08:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>OpenAI 尚未表示其對未來旅遊的規劃。但 Sonder 創辦人 Francis Davidson 是旅遊產業中廣為人知的人物。</description>
     </item>
     <item>
       <title>NVIDIA 董事會獨立成員聲明</title>
