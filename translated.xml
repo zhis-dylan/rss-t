@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 12:25:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 12:41:02 GMT</lastBuildDate>
+    <item>
+      <title>報導稱，Jensen Huang 並未表現出對接班人的信心</title>
+      <link>https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188240</guid>
+      <pubDate>Fri, 13 Nov 2026 12:28:23 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Huang 在夏天的一場會議中把 Kress 形容成「嚇得像頭鹿一樣愣在車燈前」</description>
+    </item>
     <item>
       <title>民主黨啟動對輝達的調查，並就黃仁勳與川普的「計畫」發出嚴厲信函</title>
       <link>https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/</link>
@@ -292,15 +301,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這是該投資公司的迄今最大基金。</description>
-    </item>
-    <item>
-      <title>針對 Fireworks AI 的網路攻擊讓駭客得以存取 Notion 客戶的聊天逐字稿</title>
-      <link>https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187828</guid>
-      <pubDate>Thu, 12 Nov 2026 15:02:28 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是 Fireworks 連續兩個月中的第二起資料外洩事件。</description>
     </item>
     <item>
       <title>雲端的新曙光：《Warhammer 40,000: Dawn of War IV》即將登陸 GeForce NOW</title>
