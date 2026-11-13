@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 19:29:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 19:44:56 GMT</lastBuildDate>
+    <item>
+      <title>AI 代理新創 LangChain 估值達 30 億美元</title>
+      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188474</guid>
+      <pubDate>Fri, 13 Nov 2026 19:37:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>LangChain 現在宣稱，其模型與平台無關的代理管理工具 LangSmith 已有 7,000 名客戶。</description>
+    </item>
     <item>
       <title>遭出口禁令禁止的 Nvidia 晶片，支撐了中國最強大的 AI 模型——糟了，Jensen！</title>
       <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
@@ -324,15 +333,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Phota Labs 不打算再提供消費者另一個照片編輯工具，而是希望運用 AI 的進展來自動化編輯流程，讓任何人都更容易把日常瞬間變成更好的照片。</description>
-    </item>
-    <item>
-      <title>Jensen Huang 同意向國會作證</title>
-      <link>https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187911</guid>
-      <pubDate>Thu, 12 Nov 2026 16:36:37 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Huang 在有報導指出他與一名被懷疑為中國從事間諜活動的女子有婚外情、並因此遭免除執行長職務後，同意於週三作證，先前幾位資深議員曾威脅要對他發出傳票。</description>
     </item>
     <item>
       <title>在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗</title>
