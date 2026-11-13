@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 21:30:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 21:46:00 GMT</lastBuildDate>
+    <item>
+      <title>美國政府因「特殊情況」暫停全美所有航班</title>
+      <link>https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188608</guid>
+      <pubDate>Fri, 13 Nov 2026 21:44:38 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>美國聯邦航空總署以「特殊情況」以及「安全考量」為由，暫停美國各地的航班。</description>
+    </item>
     <item>
       <title>在 Google AI Studio 領取你的 Google Cloud 點數</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/</link>
@@ -278,15 +287,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>該航空公司表示，不會允許顧客使用 AI 代理預訂航班和管理訂位。</description>
-    </item>
-    <item>
-      <title>軟銀的數十億美元虧損，可能已為 AI 的天然氣雄心設下上限</title>
-      <link>https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187955</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:52 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>軟銀在預先訂購天然氣渦輪機以為 AI 資料中心供電的過程中，損失超過 30 億美元。這筆虧損對電力市場意味著什麼。</description>
     </item>
     <item>
       <title>從 AI 野心到商業影響</title>
