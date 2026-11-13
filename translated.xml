@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 16:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 16:28:13 GMT</lastBuildDate>
     <item>
       <title>ChatGPT 的新錢包可讓 AI 代理替你購物並完成結帳</title>
       <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
@@ -41,15 +41,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>ElevenAI 是一款全新的會議筆記工具與口述輸入應用程式，目標鎖定團隊與企業。</description>
-    </item>
-    <item>
-      <title>Apple HomeView 今日起開放購買</title>
-      <link>https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/</guid>
-      <pubDate>Fri, 13 Nov 2026 13:59:07 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>顧客現在可以購買 Apple HomeView，體驗全新的方式來享受娛樂、保持聯繫，並管理他們的家。</description>
     </item>
     <item>
       <title>AI 如何幫助照護團隊更快讓病患獲得正確照護</title>
@@ -1910,6 +1901,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今天推出 Apple HomeView，旨在成為居家的核心，並且對其中每個人都很個人化。</description>
+    </item>
+    <item>
+      <title>Apple 發表全新 Apple TV 4K，搭載 Siri AI 強力升級</title>
+      <link>https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/</guid>
+      <pubDate>Tue, 13 Oct 2026 12:58:10 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日宣布推出新一代 Apple TV 4K，帶來目前最沉浸式的家庭劇院體驗。</description>
     </item>
     <item>
       <title>Higgsfield 讓 AI 影片從 1 分鐘提升到超過 10 分鐘</title>
