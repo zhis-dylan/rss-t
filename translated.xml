@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:29:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 18:44:25 GMT</lastBuildDate>
+    <item>
+      <title>遭出口禁令禁止的 Nvidia 晶片，支撐了中國最強大的 AI 模型——糟了，Jensen！</title>
+      <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188067</guid>
+      <pubDate>Fri, 13 Nov 2026 18:40:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>新的研究顯示，中國最先進的 AI 模型是用遭禁運的 Nvidia 晶片訓練而成。</description>
+    </item>
     <item>
       <title>將 Google Wallet 連接到 Gemini，以取得個人理財洞察</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/</link>
@@ -324,15 +333,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Huang 在有報導指出他與一名被懷疑為中國從事間諜活動的女子有婚外情、並因此遭免除執行長職務後，同意於週三作證，先前幾位資深議員曾威脅要對他發出傳票。</description>
-    </item>
-    <item>
-      <title>Jensen Huang 被 Nvidia 免職，可能傷害 AI 產業的五種方式</title>
-      <link>https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187523</guid>
-      <pubDate>Thu, 12 Nov 2026 16:32:33 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Nvidia 遭免職的執行長 Jensen Huang 的垮台，不只是一般那種充滿煽情意味的億萬富豪性醜聞。他一直在利用自己的影響力，推動 AI 產業朝某些特定方向發展。</description>
     </item>
     <item>
       <title>在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗</title>
