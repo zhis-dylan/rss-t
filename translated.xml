@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 14:57:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 15:12:28 GMT</lastBuildDate>
+    <item>
+      <title>Uber 證實駭客在資料外洩中竊取了數千名駕駛的駕照資訊</title>
+      <link>https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188333</guid>
+      <pubDate>Fri, 13 Nov 2026 14:57:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家叫車巨頭表示，儲存在 AI 雲端公司 Fireworks AI 的駕照資訊在一起資安事件中遭竊。</description>
+    </item>
     <item>
       <title>ElevenLabs 的新應用程式結合了團隊用的會議筆記與口述輸入</title>
       <link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</link>
@@ -313,15 +322,6 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>成果遍地開花，但規模化的價值卻沒有，而這正是今年由 Microsoft 委託 IDC 進行的研究想要釐清的落差。在我們委託 IDC 進行研究的第四年，來自 28 個產業的超過 5,200 位資深 IT 與商務主管，分享了當 AI 擴大規模時，該如何最大化價值。最明確的啟示……
 〈在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗〉一文最早出現在 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>Whoop 剛推出一個社交網路</title>
-      <link>https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187638</guid>
-      <pubDate>Thu, 12 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Whoop 正在推出一個社交網路，讓會員分享他們的睡眠、恢復和運動資料，但更大的布局是要更像一個個人健康品牌，而執行長 Will Ahmed 暗示未來可能會有收購。</description>
     </item>
     <item>
       <title>雲端的新曙光：《Warhammer 40,000: Dawn of War IV》即將登陸 GeForce NOW</title>
