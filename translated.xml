@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 22:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:46:30 GMT</lastBuildDate>
+    <item>
+      <title>Jensen Huang 的離開在 AI 新創募資上撕開大洞，創投和創辦人表示</title>
+      <link>https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188596</guid>
+      <pubDate>Fri, 13 Nov 2026 22:43:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>在 Huang 的帶領下，Nvidia 將數百億美元投入 AI 新創公司。如今少了他掌舵，創辦人和創投正準備面對更小的支票和更低的估值。</description>
+    </item>
     <item>
       <title>美國政府因「特殊情況」暫停全美所有航班</title>
       <link>https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/</link>
@@ -278,15 +287,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Hugging Face 的執行長承諾，在 Huang 離開後將持續為開源 AI 奮戰，這也引發了外界對 Nvidia 129 億美元收購案的疑問。</description>
-    </item>
-    <item>
-      <title>聯合航空封鎖 AI 代理預訂航班，稱有資安風險</title>
-      <link>https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187972</guid>
-      <pubDate>Thu, 12 Nov 2026 17:17:58 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>該航空公司表示，不會允許顧客使用 AI 代理預訂航班和管理訂位。</description>
     </item>
     <item>
       <title>從 AI 野心到商業影響</title>
