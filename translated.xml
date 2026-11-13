@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 13:56:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:11:53 GMT</lastBuildDate>
+    <item>
+      <title>Apple HomeView 今日起開放購買</title>
+      <link>https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/apple-homeview-available-today/</guid>
+      <pubDate>Fri, 13 Nov 2026 13:59:07 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>顧客現在可以購買 Apple HomeView，體驗全新的方式來享受娛樂、保持聯繫，並管理他們的家。</description>
+    </item>
     <item>
       <title>AI 如何幫助照護團隊更快讓病患獲得正確照護</title>
       <link>https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</link>
@@ -1892,15 +1901,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今天推出 Apple HomeView，旨在成為居家的核心，並且對其中每個人都很個人化。</description>
-    </item>
-    <item>
-      <title>Apple 推出全新 Apple TV 4K，搭載 Siri AI 更加強大</title>
-      <link>https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:58:10 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天宣布下一代 Apple TV 4K，帶來至今最沉浸的家庭劇院體驗。</description>
     </item>
     <item>
       <title>Higgsfield 讓 AI 影片從 1 分鐘提升到超過 10 分鐘</title>
