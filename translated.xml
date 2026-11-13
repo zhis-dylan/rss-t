@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 13 Nov 2026 20:00:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 20:15:16 GMT</lastBuildDate>
+    <item>
+      <title>這家年輕新創想利用海洋的熱能為浮動資料中心供電，投資人已經買單</title>
+      <link>https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188475</guid>
+      <pubDate>Fri, 13 Nov 2026 20:07:24 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Drogue 正在收集海洋的熱能，為浮動船舶上的資料中心供電。第一個原型應該會在不到兩年內浮在海上，運算資料。</description>
+    </item>
     <item>
       <title>AI 代理新創 LangChain 估值達 30 億美元</title>
       <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
@@ -324,15 +333,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp" alt=""></p><p>透過 Chrome 中的 Gemini 快速取得答案。在側邊面板中直接摘要文章、比較產品，並解釋複雜主題。立即試用。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Phota Labs 利用 AI 將日常照片變成專業感作品</title>
-      <link>https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3185934</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Phota Labs 不打算再提供消費者另一個照片編輯工具，而是希望運用 AI 的進展來自動化編輯流程，讓任何人都更容易把日常瞬間變成更好的照片。</description>
     </item>
     <item>
       <title>在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗</title>
