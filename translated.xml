@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 14 Nov 2026 17:30:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 17:45:59 GMT</lastBuildDate>
+    <item>
+      <title>交通部長將全國航班停飛歸咎於「例行」設備升級</title>
+      <link>https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188732</guid>
+      <pubDate>Sat, 14 Nov 2026 17:45:04 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>FAA 管理員 Bryan Bedford 也表示「沒有任何與 AI 相關的跡象。」</description>
+    </item>
     <item>
       <title>AI 墳場：持續更新的失敗專案與新創名單</title>
       <link>https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
@@ -242,15 +251,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Amplitude 的主動式產品代理 Wave 主要建構於 OpenAI 模型之上，能識別該打造什麼、協助團隊透過程式碼代理人推出變更，並衡量其影響。</description>
-    </item>
-    <item>
-      <title>Google 最新的搜尋升級承諾能更好回答你最複雜的問題</title>
-      <link>https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188050</guid>
-      <pubDate>Thu, 12 Nov 2026 19:27:45 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由 Gemini 4 Hydrogen 驅動，Google 的 AI 模式在理解複雜查詢、顯示相關連結，以及提供更豐富的視覺回應方面變得更好了。</description>
     </item>
     <item>
       <title>Microsoft 的 Outlook 電子郵件再度發生當機</title>
