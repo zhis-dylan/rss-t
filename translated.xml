@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 14 Nov 2026 16:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 16:45:26 GMT</lastBuildDate>
+    <item>
+      <title>亞洲各國政府對輝達執行長黃仁勳的離任做出反應</title>
+      <link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188720</guid>
+      <pubDate>Sat, 14 Nov 2026 16:34:15 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一些政府已著手確認晶片供應承諾，另一些則在監控對當地專案的影響，或處理持續進行中的調查。</description>
+    </item>
     <item>
       <title>Amazon 全新的 Kindle Colorsoft 是一款高階電子閱讀器，價格也很高階</title>
       <link>https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/</link>
@@ -251,15 +260,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Microsoft 目前尚未說明這次當機的原因，這次事故影響了 Outlook 電子郵件使用者。</description>
-    </item>
-    <item>
-      <title>Jensen Huang 的離任讓 Nvidia 對開源的支持受到質疑</title>
-      <link>https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188037</guid>
-      <pubDate>Thu, 12 Nov 2026 18:39:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Jensen Huang 的辭任引發外界對 Nvidia 對開源 AI 承諾的質疑，包括其對 Hugging Face 的收購、開放權重模型，以及反對限制的倡議，因為該公司正面臨領導層交接。</description>
     </item>
     <item>
       <title>Google 搜尋透過 Gemini 4 Hydrogen 獲得重大升級</title>
