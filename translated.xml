@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sat, 14 Nov 2026 17:15:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 17:30:49 GMT</lastBuildDate>
+    <item>
+      <title>AI 墳場：持續更新的失敗專案與新創名單</title>
+      <link>https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
+      <pubDate>Sat, 14 Nov 2026 17:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>從 Apple 一再延遲的 Siri AI，到 OpenAI 混亂的「超級 App」發表，以下看看那些已關閉或未達預期的 AI 專案。</description>
+    </item>
     <item>
       <title>亞洲各國政府對輝達執行長黃仁勳的離任做出反應</title>
       <link>https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/</link>
@@ -242,15 +251,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>由 Gemini 4 Hydrogen 驅動，Google 的 AI 模式在理解複雜查詢、顯示相關連結，以及提供更豐富的視覺回應方面變得更好了。</description>
-    </item>
-    <item>
-      <title>Nectar 推出可自動化品牌創作者發掘與聯繫的 AI 代理人</title>
-      <link>https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187494</guid>
-      <pubDate>Thu, 12 Nov 2026 19:11:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Nectar 的新 AI 代理人可自動化網紅行銷，協助品牌發掘創作者、管理聯繫與合作關係，並追蹤活動成效。</description>
     </item>
     <item>
       <title>Microsoft 的 Outlook 電子郵件再度發生當機</title>
