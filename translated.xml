@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:00:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:15:22 GMT</lastBuildDate>
+    <item>
+      <title>美國收緊 AI 晶片出口管制，阻止中國公司遠端取得算力</title>
+      <link>https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188900</guid>
+      <pubDate>Mon, 16 Nov 2026 15:02:34 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>根據這項臨時規則，只要企業出口 AI 晶片後可能向中國或其他受限制國家提供算力，美國將要求這些公司取得許可證。</description>
+    </item>
     <item>
       <title>Google 地圖現在可以建立行程，並提供每個停靠點的即時詳細資訊</title>
       <link>https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/</link>
@@ -360,15 +369,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>FAA 管理員 Bryan Bedford 也表示「沒有任何與 AI 相關的跡象。」</description>
-    </item>
-    <item>
-      <title>AI 墳場：持續更新的失敗專案與新創名單</title>
-      <link>https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3162590</guid>
-      <pubDate>Sat, 14 Nov 2026 17:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從 Apple 一再延遲的 Siri AI，到 OpenAI 混亂的「超級 App」發表，以下看看那些已關閉或未達預期的 AI 專案。</description>
     </item>
     <item>
       <title>在 Google AI Studio 領取你的 Google Cloud 點數</title>
