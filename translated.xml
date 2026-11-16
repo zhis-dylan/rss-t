@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:48:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:04:10 GMT</lastBuildDate>
+    <item>
+      <title>Uber 表示，駭客在資料外洩事件中竊取了將近 150,000 份駕照資訊</title>
+      <link>https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188333</guid>
+      <pubDate>Mon, 16 Nov 2026 19:53:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家叫車巨頭表示，儲存在 AI 雲端公司 Fireworks AI 的駕照資訊在一起資安事件中遭竊。</description>
+    </item>
     <item>
       <title>Apple 為 iPhone Duo 加入「臉部解鎖」，但不是 Face ID</title>
       <link>https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/</link>
@@ -280,6 +289,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" alt=""></p><p>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</p>]]></content:encoded>
     </item>
     <item>
+      <title>將筆記、研究與來源轉換成互動式網站，使用 Gemini Notebook。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini Notebook 現在可將你的研究轉換成互動式網站。和 Google 一起建立專案追蹤器與視覺化儀表板。今天就建立你的網站。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 現在可將你的研究轉換成互動式網站。和 Google 一起建立專案追蹤器與視覺化儀表板。今天就建立你的網站。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Audible 轉向 AI，協助使用者發掘有聲書</title>
       <link>https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/</link>
       <guid isPermaLink="false">https://techcrunch.com/?p=3188907</guid>
@@ -464,15 +485,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_13_November_2026_at_.max-600x600.format-webp_aiwylq7.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_13_November_2026_at_.max-600x600.format-webp_aiwylq7.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_13_November_2026_at_.max-600x600.format-webp_aiwylq7.webp" alt=""></p><p>Childnet 執行長 Will Gardner 解釋青少年如何以創意且負責任的方式擁抱 AI，並強調在面對…時，傾聽年輕聲音的重要性。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Helsing支持者 Plural 募資 11 億美元，為歐洲下一波登月計畫提供資金</title>
-      <link>https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188830</guid>
-      <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>由營運者主導的 VC 公司 Plural 已募得 10 億歐元新資本（11 億美元），加入規模日益成長的歐洲大型基金行列，其中也包括 Mundi Ventures 的 Kembara 與由 EQT 管理的 Scaleup Europe Fund。</description>
     </item>
     <item>
       <title>受訪的新加坡中小企業主中有 94% 表示需要更多 AI 指引</title>
@@ -703,18 +715,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" alt=""></p><p>Google 正在西維吉尼亞州推出一項 1,000 萬美元的能源影響計畫，用於資助房屋修繕與提升能效。今天就來確認你是否符合資格。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在任何網站上都能透過 Gemini 快速取得答案。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 Chrome 中的 Gemini 快速取得答案。在側邊面板中直接摘要文章、比較產品，並解釋複雜主題。立即試用。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp" alt=""></p><p>透過 Chrome 中的 Gemini 快速取得答案。在側邊面板中直接摘要文章、比較產品，並解釋複雜主題。立即試用。</p>]]></content:encoded>
     </item>
     <item>
       <title>在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗</title>
