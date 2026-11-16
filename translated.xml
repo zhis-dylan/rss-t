@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 19:18:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:33:50 GMT</lastBuildDate>
+    <item>
+      <title>Apple 為 iPhone Duo 加入「臉部解鎖」，但不是 Face ID</title>
+      <link>https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189094</guid>
+      <pubDate>Mon, 16 Nov 2026 19:26:55 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 最新的 iOS 27.3 開發者測試版為 iPhone Duo 引入了有限的臉部解鎖功能，並帶來其他改進。</description>
+    </item>
     <item>
       <title>川普表示，前 NVIDIA 執行長黃仁勳與一名被指為中國間諜的女子的婚外情並未威脅國家安全</title>
       <link>https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/</link>
@@ -495,15 +504,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>推出電腦使用代理、更完善的臨床回答，以及可跨醫療軟體運作、協助實際完成工作的全新醫療外掛程式。</description>
-    </item>
-    <item>
-      <title>Apple 推出新 app，研究人們如何將 AI 用於健康</title>
-      <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188803</guid>
-      <pubDate>Mon, 16 Nov 2026 01:30:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Apple 的研究用新 app 將回答日常醫療問題</description>
     </item>
     <item>
       <title>Apple 推出研究計畫，探索 AI 在健康領域的應用</title>
