@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:47:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 19:03:28 GMT</lastBuildDate>
+    <item>
+      <title>Island 是一款全新的螢幕使用時間 app，會把不滑手機變成一場遊戲</title>
+      <link>https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188957</guid>
+      <pubDate>Mon, 16 Nov 2026 18:54:18 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>獲得 YC 支持的 Island 將螢幕使用時間目標變成一款農場遊戲，當使用者遵守自己的限制時，就會獲得新的作物、動物等獎勵。</description>
+    </item>
+    <item>
+      <title>Gemini 應用程式正在推出各地區語音。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/</guid>
+      <pubDate>Mon, 16 Nov 2026 18:45:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 現在在 Android 和 iOS 上提供 66 種地區語音。為你的應用程式互動選擇自然、在地的方言。今天就挑選你最喜歡的語音。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp" alt=""></p><p>Gemini 現在在 Android 和 iOS 上提供 66 種地區語音。為你的應用程式互動選擇自然、在地的方言。今天就挑選你最喜歡的語音。</p>]]></content:encoded>
+    </item>
     <item>
       <title>自主攻擊的時代已經來臨。</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/</link>
@@ -280,18 +301,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp" alt=""></p><p>追蹤降價、整理購物車，並在今年黑色星期五和網購星期一用這些 Google 工具更快找到貼心禮物。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Ask Maps 即將登陸歐洲。</title>
-      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Ask Maps 是 Google Maps 十多年來最大的一次更新。它由全球最新鮮的地圖與 Gemini 模型驅動，可回答複雜的現實問題，地圖……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" alt=""></p><p>Ask Maps 是 Google Maps 十多年來最大的一次更新。它由全球最新鮮的地圖與 Gemini 模型驅動，可回答複雜的現實問題，地圖……</p>]]></content:encoded>
-    </item>
-    <item>
       <title>全新的 Ask Maps 功能，協助規劃節日旅遊與準備</title>
       <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</guid>
@@ -326,6 +335,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp" alt=""></p><p>以下是 Search 可協助你完成季節待辦清單的四種方式。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ask Maps 即將登陸歐洲。</title>
+      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Ask Maps 是 Google Maps 十多年來最大的一次更新。它由全球最新鮮的地圖與 Gemini 模型驅動，可回答複雜的現實問題，地圖……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" alt=""></p><p>Ask Maps 是 Google Maps 十多年來最大的一次更新。它由全球最新鮮的地圖與 Gemini 模型驅動，可回答複雜的現實問題，地圖……</p>]]></content:encoded>
     </item>
     <item>
       <title>Mazama Energy 有個解決地熱最大鑽探問題的方法</title>
@@ -533,15 +554,6 @@
       <description>OpenAI 科學部落格分享新發現、實用方法，以及研究人員運用 AI 推動科學發現的第一手經驗。</description>
     </item>
     <item>
-      <title>Jensen Huang 的壞消息，對 AI 產業來說也是壞消息嗎？</title>
-      <link>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188757</guid>
-      <pubDate>Sun, 15 Nov 2026 21:56:35 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>「Jensen 就是 Nvidia，對吧？而這個經濟體有很大一部分都押在 Nvidia 身上。」</description>
-    </item>
-    <item>
       <title>在 Google AI Studio 領取你的 Google Cloud 點數</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/</guid>
@@ -635,18 +647,6 @@
       <description>Amplitude 的主動式產品代理 Wave 主要建構於 OpenAI 模型之上，能識別該打造什麼、協助團隊透過程式碼代理人推出變更，並衡量其影響。</description>
     </item>
     <item>
-      <title>介紹 Gemini 4 Hydrogen</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
-      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google 搜尋透過 Gemini 4 Hydrogen 獲得重大升級</title>
       <link>https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/</guid>
@@ -671,6 +671,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</p>]]></content:encoded>
     </item>
     <item>
+      <title>介紹 Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>從 AI 野心到商業影響</title>
       <link>https://blogs.microsoft.com/blog/2026/11/12/from-ai-ambition-to-business-impact/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563237</guid>
@@ -691,18 +703,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" alt=""></p><p>Google 正在西維吉尼亞州推出一項 1,000 萬美元的能源影響計畫，用於資助房屋修繕與提升能效。今天就來確認你是否符合資格。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>科學家正運用 Google AI 協助恢復巨藻森林。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>巨藻構成的水下森林能保護海岸線、提供棲地，並支持海洋生態系統——但由於海洋暖化，它們正在全球各地消失。隨著 COP31 k…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>巨藻構成的水下森林能保護海岸線、提供棲地，並支持海洋生態系統——但由於海洋暖化，它們正在全球各地消失。隨著 COP31 k…</p>]]></content:encoded>
     </item>
     <item>
       <title>在任何網站上都能透過 Gemini 快速取得答案。</title>
