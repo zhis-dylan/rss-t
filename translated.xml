@@ -5,7 +5,124 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:16:12 GMT</lastBuildDate>
+    <item>
+      <title>Serena Williams 逐步結束她的風投公司，成立新基金，目標籌集 2 億美元</title>
+      <link>https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188191</guid>
+      <pubDate>Mon, 16 Nov 2026 16:06:30 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Serena Williams 和長期商業夥伴 Beth Ferreira 週一宣布推出一家名為 Starfire Ventures 的早期階段公司。</description>
+    </item>
+    <item>
+      <title>Lambda 透過 NVIDIA 光子技術提升 AI 工廠的韌性與效率</title>
+      <link>https://blogs.nvidia.com/blog/lambda-photonics/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/lambda-photonics/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:51 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>為了訓練 AI 模型，成千上萬顆 GPU 必須協同運作，因此需要一個快速、高效且具韌性的網路。Lambda 正透過 NVIDIA Photonics 的共同封裝光學（CPO）交換器來處理這個網路難題。這家雲端服務供應商正使用這些交換器，將搭載超過 10,000 顆 GPU 的 NVIDIA GB300 NVL72 機櫃連接起來，提供 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/befca5dee11864ed333ed687e0a46764/6afb28c13d633273ede86c3f_ethernet-lambda-blog-1920x1080-1-842x450/ethernet-lambda-blog-1920x1080-1-842x450_thmb.jpg?v=2285facb-c724-4d79-b673-7e85e0712054" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/befca5dee11864ed333ed687e0a46764/6afb28c13d633273ede86c3f_ethernet-lambda-blog-1920x1080-1-842x450/ethernet-lambda-blog-1920x1080-1-842x450_thmb.jpg?v=2285facb-c724-4d79-b673-7e85e0712054"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/befca5dee11864ed333ed687e0a46764/6afb28c13d633273ede86c3f_ethernet-lambda-blog-1920x1080-1-842x450/ethernet-lambda-blog-1920x1080-1-842x450_thmb.jpg?v=2285facb-c724-4d79-b673-7e85e0712054" alt=""></p><p>為了訓練 AI 模型，成千上萬顆 GPU 必須協同運作，因此需要一個快速、高效且具韌性的網路。Lambda 正透過 NVIDIA Photonics 的共同封裝光學（CPO）交換器來處理這個網路難題。這家雲端服務供應商正使用這些交換器，將搭載超過 10,000 顆 GPU 的 NVIDIA GB300 NVL72 機櫃連接起來，提供 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 擴充 Slurm，將量子運算帶入超級運算</title>
+      <link>https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/slurm-quantum-computing-supercomputing/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:47 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>過去五年來，超級電腦中心部署的量子處理器數量成長了將近七倍，目前全球接近 30 座超級電腦中心正著手部署超過 50 顆量子處理器。許多這些中心使用 Slurm 來執行科學超級運算工作負載，因此擴充其對量子處理器的支援，是建立在熟悉的工作流程之上 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/8b747eead1b8ef6c1dfc3d55377be2b1/6afb28c63d633273ede86c46_quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487-842x450/quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487-842x450_thmb.jpg?v=e31159fd-be06-4464-ab88-7ac22611f8c6" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/8b747eead1b8ef6c1dfc3d55377be2b1/6afb28c63d633273ede86c46_quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487-842x450/quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487-842x450_thmb.jpg?v=e31159fd-be06-4464-ab88-7ac22611f8c6"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/8b747eead1b8ef6c1dfc3d55377be2b1/6afb28c63d633273ede86c46_quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487-842x450/quantum-computing-blog-slurm-kv-sc26-1920x1080-5942487-842x450_thmb.jpg?v=e31159fd-be06-4464-ab88-7ac22611f8c6" alt=""></p><p>過去五年來，超級電腦中心部署的量子處理器數量成長了將近七倍，目前全球接近 30 座超級電腦中心正著手部署超過 50 顆量子處理器。許多這些中心使用 Slurm 來執行科學超級運算工作負載，因此擴充其對量子處理器的支援，是建立在熟悉的工作流程之上 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 在 MLPerf Training 與 Endpoints 奪下全勝，Vera Rubin 首度登場即展現領先效能</title>
+      <link>https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/mlperf-training-endpoints-vera-rubin/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:25 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在其首次參與 MLPerf 基準測試並於今日公布結果時，NVIDIA Vera Rubin 平台在訓練、後訓練與 agentic 推論方面展現領先效能。NVIDIA 一舉包辦所有 MLPerf Training v6.1 基準測試，並在首次提交 MLPerf Endpoints 時，為 agentic AI 帶來每瓦吞吐量超過 10 倍的世代提升——衡量 agentic […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/837cf2a3d20c56631e114bcba0d8f6ff/6afb28cc3d633273ede86c4d_vera-rubin-mlperf-training-endpoints-842x450/vera-rubin-mlperf-training-endpoints-842x450_thmb.jpg?v=90f38449-e20b-49e5-9b95-dfa1a86d6b98" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/837cf2a3d20c56631e114bcba0d8f6ff/6afb28cc3d633273ede86c4d_vera-rubin-mlperf-training-endpoints-842x450/vera-rubin-mlperf-training-endpoints-842x450_thmb.jpg?v=90f38449-e20b-49e5-9b95-dfa1a86d6b98"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/837cf2a3d20c56631e114bcba0d8f6ff/6afb28cc3d633273ede86c4d_vera-rubin-mlperf-training-endpoints-842x450/vera-rubin-mlperf-training-endpoints-842x450_thmb.jpg?v=90f38449-e20b-49e5-9b95-dfa1a86d6b98" alt=""></p><p>在其首次參與 MLPerf 基準測試並於今日公布結果時，NVIDIA Vera Rubin 平台在訓練、後訓練與 agentic 推論方面展現領先效能。NVIDIA 一舉包辦所有 MLPerf Training v6.1 基準測試，並在首次提交 MLPerf Endpoints 時，為 agentic AI 帶來每瓦吞吐量超過 10 倍的世代提升——衡量 agentic […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA CUDA-X 程式庫為 Agents 提供加速科學發現的工具</title>
+      <link>https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/cuda-x-libraries-agents-accelerate-scientific-discovery/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:16 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>透過擴充的 NVIDIA CUDA-X 程式庫，包括 cuPhoton、cuPotential 和 cuSpa，研究人員能篩選海量資料，加速研究，從天文物理與材料科學到單細胞生物學皆然。這些加速成果正幫助科學家分析更大型的資料集，並為更複雜的系統建模。這些新程式庫讓 AI agents 擁有工具，協助研究人員取得發現 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/db6e2d286ac92cbf1879180c97d91f05/6afb28d23d633273ede86c54_hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376-842x450/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376-842x450_thmb.jpg?v=706e42b3-e3a2-4c54-a3ea-db5e60cb72b9" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/db6e2d286ac92cbf1879180c97d91f05/6afb28d23d633273ede86c54_hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376-842x450/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376-842x450_thmb.jpg?v=706e42b3-e3a2-4c54-a3ea-db5e60cb72b9"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/db6e2d286ac92cbf1879180c97d91f05/6afb28d23d633273ede86c54_hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376-842x450/hpc-for-dev-tech-blog-cuda-x-sc26-1920x1080-5818376-842x450_thmb.jpg?v=706e42b3-e3a2-4c54-a3ea-db5e60cb72b9" alt=""></p><p>透過擴充的 NVIDIA CUDA-X 程式庫，包括 cuPhoton、cuPotential 和 cuSpa，研究人員能篩選海量資料，加速研究，從天文物理與材料科學到單細胞生物學皆然。這些加速成果正幫助科學家分析更大型的資料集，並為更複雜的系統建模。這些新程式庫讓 AI agents 擁有工具，協助研究人員取得發現 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>CUDA 20 週年：這個平台如何改變科學運算</title>
+      <link>https://blogs.nvidia.com/blog/20-years-cuda/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/20-years-cuda/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:11 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>本週在 SC26，NVIDIA 正以表彰那些促成 GPU 運算成為現代科學與 AI 基礎的研究人員、開發者與工程師，來紀念 CUDA 20 年。CUDA 的 20 週年，提供了一個橫跨不同運算世代回顧的契機，從撰寫第一批 CUDA 程式的人，到 AI 開發者 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/76b07a236e06a6f71fd2b0ae6c9d248b/6afb28d83d633273ede86c5b_cuda-at-20-1920x1080-1-842x450/cuda-at-20-1920x1080-1-842x450_thmb.jpg?v=24ed7d9e-cbfe-4305-a75a-23742d10d575" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/76b07a236e06a6f71fd2b0ae6c9d248b/6afb28d83d633273ede86c5b_cuda-at-20-1920x1080-1-842x450/cuda-at-20-1920x1080-1-842x450_thmb.jpg?v=24ed7d9e-cbfe-4305-a75a-23742d10d575"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/76b07a236e06a6f71fd2b0ae6c9d248b/6afb28d83d633273ede86c5b_cuda-at-20-1920x1080-1-842x450/cuda-at-20-1920x1080-1-842x450_thmb.jpg?v=24ed7d9e-cbfe-4305-a75a-23742d10d575" alt=""></p><p>本週在 SC26，NVIDIA 正以表彰那些促成 GPU 運算成為現代科學與 AI 基礎的研究人員、開發者與工程師，來紀念 CUDA 20 年。CUDA 的 20 週年，提供了一個橫跨不同運算世代回顧的契機，從撰寫第一批 CUDA 程式的人，到 AI 開發者 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 發表 Rubin HPC——一款全新 GPU，為科學、工程與分析的 Agents 加速</title>
+      <link>https://blogs.nvidia.com/blog/rubin-hpc/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/rubin-hpc/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:01 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日在 SC26 發表 NVIDIA Rubin HPC，這是 NVIDIA Vera Rubin 平台中的一款新 GPU，專為加速科學、工程與分析工作流程中的模擬與資料處理而設計。當 agents 協助科學家與工程師探索更多候選材料、分子與設計時，他們仰賴模擬來測試那些想法並指引下一步 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/31e818325fb8b8b1a59aab108894924b/6afb28dd3d633273ede86c62_hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1-842x450/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1-842x450_thmb.jpg?v=9cab12bc-99ad-436e-93eb-3b1b8616ee86" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/31e818325fb8b8b1a59aab108894924b/6afb28dd3d633273ede86c62_hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1-842x450/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1-842x450_thmb.jpg?v=9cab12bc-99ad-436e-93eb-3b1b8616ee86"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/31e818325fb8b8b1a59aab108894924b/6afb28dd3d633273ede86c62_hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1-842x450/hpc-blog-rubin-hpc-gpu-1920x1080-5957124-1-842x450_thmb.jpg?v=9cab12bc-99ad-436e-93eb-3b1b8616ee86" alt=""></p><p>NVIDIA 今日在 SC26 發表 NVIDIA Rubin HPC，這是 NVIDIA Vera Rubin 平台中的一款新 GPU，專為加速科學、工程與分析工作流程中的模擬與資料處理而設計。當 agents 協助科學家與工程師探索更多候選材料、分子與設計時，他們仰賴模擬來測試那些想法並指引下一步 […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 宣布與 IBM 及費米國家加速器實驗室合作，推出量子-經典協同設計平台，並帶來錯誤校正突破，以推進實用量子運算</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-collaboration-with-ibm-and-fermi-national-accelerator-laboratory-to-launch-quantum-classical-codesign-platform-plus-error-correction-breakthrough-to-advance-practical-quantum-computing</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布，將與 IBM 及美國能源部的費米國家加速器實驗室展開新的合作，範圍涵蓋對下一代量子電腦模組化架構、科學應用與超級運算整合的研究。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/40e6822d3e59526b227f38a356e88502/6af958f13d6332343c233577_ibm-nvidia-fermilab/ibm-nvidia-fermilab_thmb.jpg?v=013b8ce3-bbf0-4795-a9b5-284c46b0f175" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/40e6822d3e59526b227f38a356e88502/6af958f13d6332343c233577_ibm-nvidia-fermilab/ibm-nvidia-fermilab_thmb.jpg?v=013b8ce3-bbf0-4795-a9b5-284c46b0f175"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/40e6822d3e59526b227f38a356e88502/6af958f13d6332343c233577_ibm-nvidia-fermilab/ibm-nvidia-fermilab_thmb.jpg?v=013b8ce3-bbf0-4795-a9b5-284c46b0f175" alt=""></p><p>NVIDIA 今日宣布，將與 IBM 及美國能源部的費米國家加速器實驗室展開新的合作，範圍涵蓋對下一代量子電腦模組化架構、科學應用與超級運算整合的研究。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 擴充 Vera CPU 平台，以加速科學發現</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日宣布 NVIDIA Vera CPU 機櫃級平台，用於高效能運算——結合 NVIDIA 首款全客製化資料中心 CPU 與 HPC 網路的黃金標準，以極致效率與吞吐量推動最先進的科學建模、模擬與 agentic science。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/52681341f671bc3c34a4329aa393c846/6af8c0083d63329aad233567_nvidia-vera-rack/nvidia-vera-rack_thmb.jpg?v=d8e83da7-e05d-4c1b-9368-96ce3fa2392e" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/52681341f671bc3c34a4329aa393c846/6af8c0083d63329aad233567_nvidia-vera-rack/nvidia-vera-rack_thmb.jpg?v=d8e83da7-e05d-4c1b-9368-96ce3fa2392e"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/52681341f671bc3c34a4329aa393c846/6af8c0083d63329aad233567_nvidia-vera-rack/nvidia-vera-rack_thmb.jpg?v=d8e83da7-e05d-4c1b-9368-96ce3fa2392e" alt=""></p><p>NVIDIA 今日宣布 NVIDIA Vera CPU 機櫃級平台，用於高效能運算——結合 NVIDIA 首款全客製化資料中心 CPU 與 HPC 網路的黃金標準，以極致效率與吞吐量推動最先進的科學建模、模擬與 agentic science。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>NVIDIA 推出 Nemotron for Science，以 Agents 加速發現</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-introduces-nemotron-for-science-to-accelerate-discoveries-with-agents</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 今日推出 NVIDIA Nemotron for Science，結合其 NVIDIA Nemotron™ 3.5 Super VL 開放模型的科學應用、一個新的開放化學資料集，以及後訓練配方，協助研究人員打造用於科學發現的專用 agents。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" alt=""></p><p>NVIDIA 今日推出 NVIDIA Nemotron for Science，結合其 NVIDIA Nemotron™ 3.5 Super VL 開放模型的科學應用、一個新的開放化學資料集，以及後訓練配方，協助研究人員打造用於科學發現的專用 agents。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Audible 轉向 AI，協助使用者發掘有聲書</title>
       <link>https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/</link>
@@ -360,15 +477,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>連 Elon Musk 都說這個月費「太高了。」</description>
-    </item>
-    <item>
-      <title>有 iPhone Duo 嗎？這 9 個設定讓它更好用</title>
-      <link>https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188554</guid>
-      <pubDate>Sat, 14 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>從 Touch ID 捷徑到更聰明的音量按鈕和相機技巧，這些調整讓 Apple 的可摺疊 iPhone 日常使用更容易。</description>
     </item>
     <item>
       <title>在 Google AI Studio 領取你的 Google Cloud 點數</title>
@@ -885,66 +993,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/28304ad297f4e58a8ca7d55602442a81/6af153a03d6332c13862b0b0_korea-agentic-ai-1920x1080-1-842x450/korea-agentic-ai-1920x1080-1-842x450_thmb.jpg?v=522d0dbf-3a44-45c8-8dc9-9c2688e16eda" alt=""></p><p>隨著 AI 代理承擔越來越多工作，它們需要更有能力的開放模型，以及能同步提升的安全性。現代汽車集團正探索 NVIDIA NemoClaw 藍圖與 NVIDIA OpenShell 執行環境，而 AIM Intelligence 正將其 Starfort 平台與 NVIDIA OpenShell 整合，以支援用於員工生產力與企業工作流程的安全 AI 代理。關鍵 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>從晶片到技能，NVIDIA 與韓國擴大主權 AI 合作</title>
-      <link>https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/korea-sovereign-ai-collaboration/</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:04 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 與韓國科學及資訊通信部（MSIT）正擴大雙方在韓國主權 AI 生態系的合作，範圍涵蓋 AI 半導體與資料中心基礎架構，以及人才、新創、模型、代理與安全性。這項合作為韓國 NPU 與 XPU 公司探索參與 NVIDIA NVLink Fusion 生態系奠定基礎，並包括 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/936a6ec7047953d3920f28af5d729de9/6af1541d3d6332c3242f4ef1_korea-sovereign-ai-nvlink-fusion-842x450/korea-sovereign-ai-nvlink-fusion-842x450_thmb.jpg?v=d1ef960e-4a0e-443a-bbdd-c56b60a92dfe" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/936a6ec7047953d3920f28af5d729de9/6af1541d3d6332c3242f4ef1_korea-sovereign-ai-nvlink-fusion-842x450/korea-sovereign-ai-nvlink-fusion-842x450_thmb.jpg?v=d1ef960e-4a0e-443a-bbdd-c56b60a92dfe"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/936a6ec7047953d3920f28af5d729de9/6af1541d3d6332c3242f4ef1_korea-sovereign-ai-nvlink-fusion-842x450/korea-sovereign-ai-nvlink-fusion-842x450_thmb.jpg?v=d1ef960e-4a0e-443a-bbdd-c56b60a92dfe" alt=""></p><p>NVIDIA 與韓國科學及資訊通信部（MSIT）正擴大雙方在韓國主權 AI 生態系的合作，範圍涵蓋 AI 半導體與資料中心基礎架構，以及人才、新創、模型、代理與安全性。這項合作為韓國 NPU 與 XPU 公司探索參與 NVIDIA NVLink Fusion 生態系奠定基礎，並包括 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA Dynamo 配方將韓國領先的開放模型帶入生產環境</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 正針對韓國領先的開放模型推出經 Dynamo 最佳化的部署配方：來自 SK Telecom 的 A.X K2、來自 LG AI Research 的 K-EXAONE 2.0、來自 Upstage 的 Solar Open 2，以及來自 Motif Technologies 的 Motif-3。隨著模型規模超過單一 GPU 的容量，它們必須分散到多個 GPU 上，這需要仔細協調請求路由 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/b75be4172ba348b544f7f761365c6f66/6af154233d6332c3242f4ef8_dynamo-korea-ai-day-842x450/dynamo-korea-ai-day-842x450_thmb.jpg?v=521580c6-6e81-497d-ba27-8df541429dd0" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/b75be4172ba348b544f7f761365c6f66/6af154233d6332c3242f4ef8_dynamo-korea-ai-day-842x450/dynamo-korea-ai-day-842x450_thmb.jpg?v=521580c6-6e81-497d-ba27-8df541429dd0"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/b75be4172ba348b544f7f761365c6f66/6af154233d6332c3242f4ef8_dynamo-korea-ai-day-842x450/dynamo-korea-ai-day-842x450_thmb.jpg?v=521580c6-6e81-497d-ba27-8df541429dd0" alt=""></p><p>NVIDIA 正針對韓國領先的開放模型推出經 Dynamo 最佳化的部署配方：來自 SK Telecom 的 A.X K2、來自 LG AI Research 的 K-EXAONE 2.0、來自 Upstage 的 Solar Open 2，以及來自 Motif Technologies 的 Motif-3。隨著模型規模超過單一 GPU 的容量，它們必須分散到多個 GPU 上，這需要仔細協調請求路由 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA、Rebellions 與 SK Telecom 宣布合作，透過 NVIDIA NVLink Fusion 推進主權 AI 基礎架構</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-rebellions-and-sk-telecom-announce-collaboration-to-advance-sovereign-ai-infrastructure-with-nvidia-nvlink-fusion</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA、Rebellions 與 SK Telecom 今日宣布合作，透過 NVIDIA NVLink Fusion™ 結合 NVIDIA 的開放基礎架構平台、Rebellions 以韓國設計的 AI 處理器，以及 SK Telecom 的 AI 資料中心、模型與服務能力，推進韓國的主權 AI 基礎架構。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/db6ec7f33525f73ff5724d32dbd1b7fb/6aee80fa3d6332c8b445318c_nvidia-nvlink-fusion/nvidia-nvlink-fusion_thmb.jpg?v=767ed6e5-2d59-4bb5-90cd-99e054407433" alt=""></p><p>NVIDIA、Rebellions 與 SK Telecom 今日宣布合作，透過 NVIDIA NVLink Fusion™ 結合 NVIDIA 的開放基礎架構平台、Rebellions 以韓國設計的 AI 處理器，以及 SK Telecom 的 AI 資料中心、模型與服務能力，推進韓國的主權 AI 基礎架構。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>給全體同仁的一封信</title>
-      <link>https://nvidianews.nvidia.com/news/a-message-to-our-company</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/a-message-to-our-company</guid>
-      <pubDate>Sun, 08 Nov 2026 21:02:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>我欠我的家人和大家一個道歉。我對我的妻子不忠。我的行為傷害了她和我們的孩子。我的所作所為沒有任何藉口。我深感抱歉。在我人生中，我的...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" alt=""></p><p>我欠我的家人和大家一個道歉。我對我的妻子不忠。我的行為傷害了她和我們的孩子。我的所作所為沒有任何藉口。我深感抱歉。在我人生中，我的...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 董事會聲明</title>
-      <link>https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</guid>
-      <pubDate>Sun, 08 Nov 2026 20:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 董事會已啟動獨立調查，因應近期報導指出，創辦人兼執行長 Jensen Huang 成為外國情報行動的目標。委員會……</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" alt=""></p><p>NVIDIA 董事會已啟動獨立調查，因應近期報導指出，創辦人兼執行長 Jensen Huang 成為外國情報行動的目標。委員會……</p>]]></content:encoded>
-    </item>
-    <item>
       <title>為你量身打造 Muse App</title>
       <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=50839</guid>
@@ -956,15 +1004,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Thumbnail.gif?fit=890%2C501"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Thumbnail.gif?fit=890%2C501" alt=""></p><p>今天，我們推出 spaces，這是一種互動式方式，讓你能在 Muse app 中打造更個人化的體驗。<br>〈為你量身打造 Muse App〉一文最初發佈於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 開源工具如何幫助研究人員打造下一代 6G 網路</title>
-      <link>https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/telco-open-source-tools-research-6g-networks/</guid>
-      <pubDate>Fri, 06 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>一年前，NVIDIA 開源了其 Aerial 無線軟體，與 Sionna 以及更廣泛的一套開源工具一起，加速下一代 6G 網路的開發。它們合在一起，為研究人員提供了測試想法、比較結果並在彼此的研究基礎上持續發展的平台——將模擬和 AI 訓練與真實空中無線實驗連結起來 […]</description>
     </item>
     <item>
       <title>與 Hacktron 合作，找出 OpenAI 系統中的漏洞</title>
@@ -983,18 +1022,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 推出 BioBasicsBench，這是一個 100 項任務的基準，用來衡量 AI 代理解讀原始實驗資料以及處理日常濕實驗室科學的能力。</description>
-    </item>
-    <item>
-      <title>Vera 帶來兩全其美：最高吞吐量與最快的 agents</title>
-      <link>https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/</guid>
-      <pubDate>Thu, 05 Nov 2026 20:00:41 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>AI agents 不只是產生答案。它們會搜尋資訊、查詢資料庫、撰寫並測試程式碼，並採取行動。這些步驟中的每一步都仰賴 CPU，而 agents 會在整個任務過程中於 GPU 推理與 CPU 執行之間切換。隨著越來越多企業讓更多 agents 上工，AI 工廠需要能夠執行這些……的 CPU。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/1a79b75a3212c9999a143e5612168a04/6aece0913d63320fd673a377_tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450_thmb.jpg?v=9e580a6c-6d9b-47c6-83a9-05fb567b1c89" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/1a79b75a3212c9999a143e5612168a04/6aece0913d63320fd673a377_tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450_thmb.jpg?v=9e580a6c-6d9b-47c6-83a9-05fb567b1c89"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/1a79b75a3212c9999a143e5612168a04/6aece0913d63320fd673a377_tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450/tech-blog-cpu-architecture-angled-vera-rack-5769445-1920x1080-1-842x450_thmb.jpg?v=9e580a6c-6d9b-47c6-83a9-05fb567b1c89" alt=""></p><p>AI agents 不只是產生答案。它們會搜尋資訊、查詢資料庫、撰寫並測試程式碼，並採取行動。這些步驟中的每一步都仰賴 CPU，而 agents 會在整個任務過程中於 GPU 推理與 CPU 執行之間切換。隨著越來越多企業讓更多 agents 上工，AI 工廠需要能夠執行這些……的 CPU。</p>]]></content:encoded>
     </item>
     <item>
       <title>Cult.fit 透過 Codex 建立營運實力</title>
@@ -1026,30 +1053,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>澳洲大學正擴大 ChatGPT 的使用範圍，並將 AI 帶入教學與學習，以為學生做好進入 AI 賦能職場的準備。</description>
-    </item>
-    <item>
-      <title>開放權重的魔法師：Chris Alexiuk 讓 AI 透過開放模型變得更容易上手</title>
-      <link>https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/nvidia-life-chris-alexiuk/</guid>
-      <pubDate>Thu, 05 Nov 2026 16:00:05 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>Chris Alexiuk 對開源 AI 有個簡單的原則：如果你相信它，就大聲說出來。NVIDIA 位於多倫多、專攻如何讓開放大型語言模型（LLM）對實際開發者變得可行的深度學習資深產品研究工程師 Alexiuk 表示：「我們應該把這項技術大聲宣傳出去，讓全世界都聽到。」 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/8e8eb039e80a44db2a9a03e70d57eb13/6aeca83f3d6332fa74322372_Chris-Alexiuk_portrait-842x450/Chris-Alexiuk_portrait-842x450_thmb.jpg?v=11d542fe-a06c-4daf-823c-46f63808a377" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/8e8eb039e80a44db2a9a03e70d57eb13/6aeca83f3d6332fa74322372_Chris-Alexiuk_portrait-842x450/Chris-Alexiuk_portrait-842x450_thmb.jpg?v=11d542fe-a06c-4daf-823c-46f63808a377"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/8e8eb039e80a44db2a9a03e70d57eb13/6aeca83f3d6332fa74322372_Chris-Alexiuk_portrait-842x450/Chris-Alexiuk_portrait-842x450_thmb.jpg?v=11d542fe-a06c-4daf-823c-46f63808a377" alt=""></p><p>Chris Alexiuk 對開源 AI 有個簡單的原則：如果你相信它，就大聲說出來。NVIDIA 位於多倫多、專攻如何讓開放大型語言模型（LLM）對實際開發者變得可行的深度學習資深產品研究工程師 Alexiuk 表示：「我們應該把這項技術大聲宣傳出去，讓全世界都聽到。」 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>從每個位元組榨出更多效能：全堆疊共同設計如何解決 AI 的記憶體挑戰</title>
-      <link>https://blogs.nvidia.com/blog/memory-full-stack-codesign/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/memory-full-stack-codesign/</guid>
-      <pubDate>Thu, 05 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>更大型的模型、更長的上下文與代理式應用正在加劇 GPU 記憶體壓力，同時供給趨緊、價格上漲——而這個趨勢預計在短期內還會持續。NVIDIA 與記憶體合作夥伴密切合作，迅速採用最新的記憶體技術。NVIDIA 是第一家在加速運算堆疊中導入 HBM3e 與 HBM4 技術的公司。 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/135acc2eca65af91f0417e0aee50a774/6aeca8473d6332fa74322379_memory-codesign-1920x1080-1-842x450/memory-codesign-1920x1080-1-842x450_thmb.jpg?v=1973dd6a-8e38-408b-8592-68b6ba933546" alt=""></p><p>更大型的模型、更長的上下文與代理式應用正在加劇 GPU 記憶體壓力，同時供給趨緊、價格上漲——而這個趨勢預計在短期內還會持續。NVIDIA 與記憶體合作夥伴密切合作，迅速採用最新的記憶體技術。NVIDIA 是第一家在加速運算堆疊中導入 HBM3e 與 HBM4 技術的公司。 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>WhatsApp Events 讓人們在群組聊天之外也能聚在一起</title>
