@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 18:17:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 18:32:52 GMT</lastBuildDate>
+    <item>
+      <title>自主攻擊的時代已經來臨。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gtig-ai-threat-tracker-q4-2026/</guid>
+      <pubDate>Mon, 16 Nov 2026 18:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看惡意行為者如何轉向自主攻擊，以及 Google AI Threat Defense 如何運用 Gemini 來防禦這類威脅。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Threat_Tracker.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Threat_Tracker.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Threat_Tracker.max-600x600.format-webp.webp" alt=""></p><p>看看惡意行為者如何轉向自主攻擊，以及 Google AI Threat Defense 如何運用 Gemini 來防禦這類威脅。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Tesla 全力押注 Cybercab，柏林超級工廠即將擴建 30 億歐元</title>
+      <link>https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189007</guid>
+      <pubDate>Mon, 16 Nov 2026 18:21:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Tesla 正透過對柏林超級工廠擴建 30 億歐元，將歐洲納入 Cybercab 的發展藍圖。</description>
+    </item>
     <item>
       <title>Sam Altman談沒有黃仁勳的 Nvidia：這個產業會「沒事的」</title>
       <link>https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/</link>
@@ -259,6 +280,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp" alt=""></p><p>追蹤降價、整理購物車，並在今年黑色星期五和網購星期一用這些 Google 工具更快找到貼心禮物。</p>]]></content:encoded>
     </item>
     <item>
+      <title>Ask Maps 即將登陸歐洲。</title>
+      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Ask Maps 是 Google Maps 十多年來最大的一次更新。它由全球最新鮮的地圖與 Gemini 模型驅動，可回答複雜的現實問題，地圖……</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" alt=""></p><p>Ask Maps 是 Google Maps 十多年來最大的一次更新。它由全球最新鮮的地圖與 Gemini 模型驅動，可回答複雜的現實問題，地圖……</p>]]></content:encoded>
+    </item>
+    <item>
       <title>全新的 Ask Maps 功能，協助規劃節日旅遊與準備</title>
       <link>https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/</guid>
@@ -293,18 +326,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp" alt=""></p><p>以下是 Search 可協助你完成季節待辦清單的四種方式。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ask Maps 即將登陸歐洲。</title>
-      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Ask Maps 是 Google Maps 十多年來最大的一次更新。它由全球最新鮮的地圖與 Gemini 模型驅動，可回答複雜的現實問題，地圖……</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" alt=""></p><p>Ask Maps 是 Google Maps 十多年來最大的一次更新。它由全球最新鮮的地圖與 Gemini 模型驅動，可回答複雜的現實問題，地圖……</p>]]></content:encoded>
     </item>
     <item>
       <title>Mazama Energy 有個解決地熱最大鑽探問題的方法</title>
@@ -521,15 +542,6 @@
       <description>「Jensen 就是 Nvidia，對吧？而這個經濟體有很大一部分都押在 Nvidia 身上。」</description>
     </item>
     <item>
-      <title>SNL 集結所有科技大亨，上一堂約會與間諜技巧課</title>
-      <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188820</guid>
-      <pubDate>Sun, 15 Nov 2026 20:20:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>雖然笨拙又令人毛骨悚然的科技高層已成為《週六夜現場》反覆出現的主題，但本週的這一集讓卡司有機會一次秀出所有模仿表演。</description>
-    </item>
-    <item>
       <title>在 Google AI Studio 領取你的 Google Cloud 點數</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/</guid>
@@ -623,16 +635,16 @@
       <description>Amplitude 的主動式產品代理 Wave 主要建構於 OpenAI 模型之上，能識別該打造什麼、協助團隊透過程式碼代理人推出變更，並衡量其影響。</description>
     </item>
     <item>
-      <title>Gemini 4 Hydrogen：開發者的日常程式撰寫與 agentic 工作流程</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</guid>
+      <title>介紹 Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
       <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</p>]]></content:encoded>
+      <description>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google 搜尋透過 Gemini 4 Hydrogen 獲得重大升級</title>
@@ -647,16 +659,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp" alt=""></p><p>我們正在把 Gemini 4 Hydrogen 帶到全球的 Google 搜尋，為你提供更實用、視覺化且直覺的回應。</p>]]></content:encoded>
     </item>
     <item>
-      <title>介紹 Gemini 4 Hydrogen</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
+      <title>Gemini 4 Hydrogen：開發者的日常程式撰寫與 agentic 工作流程</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</guid>
       <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</p>]]></content:encoded>
+      <description>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</p>]]></content:encoded>
     </item>
     <item>
       <title>從 AI 野心到商業影響</title>
@@ -679,18 +691,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" alt=""></p><p>Google 正在西維吉尼亞州推出一項 1,000 萬美元的能源影響計畫，用於資助房屋修繕與提升能效。今天就來確認你是否符合資格。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>認識 2026 年 Google PhD Fellows</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google.org 正提供 1,300 萬美元資金，支持 2026 年 Google PhD Fellows。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正提供 1,300 萬美元資金，支持 2026 年 Google PhD Fellows。</p>]]></content:encoded>
     </item>
     <item>
       <title>科學家正運用 Google AI 協助恢復巨藻森林。</title>
