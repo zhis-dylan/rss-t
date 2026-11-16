@@ -5,7 +5,37 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:46:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:01:47 GMT</lastBuildDate>
+    <item>
+      <title>新的 Google AdMob AI 工具協助應用程式創作者更快建置、修正並成長</title>
+      <link>https://blog.google/products/publisher-connections/new-google-admob-tools/</link>
+      <guid isPermaLink="false">https://blog.google/products/publisher-connections/new-google-admob-tools/</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>新的 Google AdMob AI 工具協助應用程式開發者快速修正設定、保護品牌安全，並在程式碼中自動化營利。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_z7aWuaD.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_z7aWuaD.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_z7aWuaD.max-600x600.format-webp.webp" alt=""></p><p>新的 Google AdMob AI 工具協助應用程式開發者快速修正設定、保護品牌安全，並在程式碼中自動化營利。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI 推出新的影像分類器，並為對抗 CSAM 加入 ChatGPT 警告</title>
+      <link>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188489</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>ChatGPT 會將嘗試存取 CSAM 內容的帳號停權 24 小時，作為警告</description>
+    </item>
+    <item>
+      <title>Instagram 現在讓創作者可在 Reels 和動態貼文中加入 Amazon 聯盟連結</title>
+      <link>https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188922</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>雖然創作者長期以來一直透過限時動態、私訊和個人簡介分享 Amazon 聯盟連結，但這次新的整合把它們帶進了應用程式的其他部分。</description>
+    </item>
     <item>
       <title>Serena Williams 逐步結束她的風投公司，成立新基金，目標籌集 2 億美元</title>
       <link>https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/</link>
@@ -473,24 +503,6 @@
       <description>Nvidia 的資安主管在 8 月悄悄離職，如今執行長 Jensen Huang 因其人際關係而辭職，其中包括與一家涉嫌將晶片轉運到中國的公司中的一名高階主管的關係；一名前情報官員表示，這類洩密會出現在日常對話中，而大多數企業資安團隊都沒有能力有效察覺。</description>
     </item>
     <item>
-      <title>Elon Musk 與其他科技高層簽署請願書，呼籲 Nvidia 恢復黃仁勳</title>
-      <link>https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188741</guid>
-      <pubDate>Sat, 14 Nov 2026 21:41:22 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>截至週六下午，這份請願書已吸引超過 115,000 個簽名。</description>
-    </item>
-    <item>
-      <title>Tesla 開放 Cybercab 預訂，供「個人使用」，附帶地區限制與每月 299 美元費用</title>
-      <link>https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188739</guid>
-      <pubDate>Sat, 14 Nov 2026 20:04:44 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>連 Elon Musk 都說這個月費「太高了。」</description>
-    </item>
-    <item>
       <title>在 Google AI Studio 領取你的 Google Cloud 點數</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/google-cloud-credits-gdp-ai-studio/</guid>
@@ -545,6 +557,15 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f" alt=""></p><p>從兒科研究到智慧醫院，AI 正在幫助照護團隊把時間從例行工作中釋放出來，把更多時間用在病患身上。醫療系統和新創公司正把它應用在整個醫療照護領域，從媒合病患參與臨床試驗，到支援放射科醫師、醫院團隊與居家病患。臨床人員仍居於核心，負責審閱 AI […]</p>]]></content:encoded>
     </item>
     <item>
+      <title>我們第一階段的嵌入式評估</title>
+      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+      <guid isPermaLink="false">https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 與 Apollo Research、METR、Transluce 以及 Goodfire 展開嵌入式評估，以獨立評估模型對齊、安全防護和監控系統。</description>
+    </item>
+    <item>
       <title>Shield 協助技術人員透過 OpenAI 交接舊版入口網站的工作</title>
       <link>https://openai.com/business/customer-stories/shield</link>
       <guid isPermaLink="false">https://openai.com/business/customer-stories/shield</guid>
@@ -575,16 +596,16 @@
       <description>Amplitude 的主動式產品代理 Wave 主要建構於 OpenAI 模型之上，能識別該打造什麼、協助團隊透過程式碼代理人推出變更，並衡量其影響。</description>
     </item>
     <item>
-      <title>介紹 Gemini 4 Hydrogen</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
+      <title>Gemini 4 Hydrogen：開發者的日常程式撰寫與 agentic 工作流程</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</guid>
       <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</p>]]></content:encoded>
+      <description>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google 搜尋透過 Gemini 4 Hydrogen 獲得重大升級</title>
@@ -599,16 +620,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/HydrogenUI_socialshare.max-600x600.format-webp.webp" alt=""></p><p>我們正在把 Gemini 4 Hydrogen 帶到全球的 Google 搜尋，為你提供更實用、視覺化且直覺的回應。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini 4 Hydrogen：開發者的日常程式撰寫與 agentic 工作流程</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-hydrogen/</guid>
+      <title>介紹 Gemini 4 Hydrogen</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/</guid>
       <pubDate>Thu, 12 Nov 2026 18:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hydrogen_socialshare.max-600x600.format-webp.webp" alt=""></p><p>使用 Gemini 4 Hydrogen 更快開發，這是 Google 全新模型，適合具成本效益的 agentic 程式撰寫與除錯。今天就開始在 Google AI Studio 開發。</p>]]></content:encoded>
+      <description>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-element-hydrogen-light.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Hydrogen，我們用來處理 agentic 工作流程的日常主力。</p>]]></content:encoded>
     </item>
     <item>
       <title>從 AI 野心到商業影響</title>
@@ -621,16 +642,16 @@
 〈從 AI 野心到商業影響〉一文最早出現在 The Official Microsoft Blog。</description>
     </item>
     <item>
-      <title>科學家正運用 Google AI 協助恢復巨藻森林。</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/</guid>
+      <title>我們正在西維吉尼亞州推出 1,000 萬美元的能源影響計畫。</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/</guid>
       <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>巨藻構成的水下森林能保護海岸線、提供棲地，並支持海洋生態系統——但由於海洋暖化，它們正在全球各地消失。隨著 COP31 k…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>巨藻構成的水下森林能保護海岸線、提供棲地，並支持海洋生態系統——但由於海洋暖化，它們正在全球各地消失。隨著 COP31 k…</p>]]></content:encoded>
+      <description>Google 正在西維吉尼亞州推出一項 1,000 萬美元的能源影響計畫，用於資助房屋修繕與提升能效。今天就來確認你是否符合資格。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" alt=""></p><p>Google 正在西維吉尼亞州推出一項 1,000 萬美元的能源影響計畫，用於資助房屋修繕與提升能效。今天就來確認你是否符合資格。</p>]]></content:encoded>
     </item>
     <item>
       <title>認識 2026 年 Google PhD Fellows</title>
@@ -645,16 +666,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正提供 1,300 萬美元資金，支持 2026 年 Google PhD Fellows。</p>]]></content:encoded>
     </item>
     <item>
-      <title>我們正在西維吉尼亞州推出 1,000 萬美元的能源影響計畫。</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/</guid>
+      <title>科學家正運用 Google AI 協助恢復巨藻森林。</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/</guid>
       <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Google 正在西維吉尼亞州推出一項 1,000 萬美元的能源影響計畫，用於資助房屋修繕與提升能效。今天就來確認你是否符合資格。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" alt=""></p><p>Google 正在西維吉尼亞州推出一項 1,000 萬美元的能源影響計畫，用於資助房屋修繕與提升能效。今天就來確認你是否符合資格。</p>]]></content:encoded>
+      <description>巨藻構成的水下森林能保護海岸線、提供棲地，並支持海洋生態系統——但由於海洋暖化，它們正在全球各地消失。隨著 COP31 k…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>巨藻構成的水下森林能保護海岸線、提供棲地，並支持海洋生態系統——但由於海洋暖化，它們正在全球各地消失。隨著 COP31 k…</p>]]></content:encoded>
     </item>
     <item>
       <title>在任何網站上都能透過 Gemini 快速取得答案。</title>
@@ -689,18 +710,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf" alt=""></p><p>在本週 GFN Thursday 集結隊伍。《Warhammer 40,000: Dawn of War IV》即將登陸 GeForce NOW，讓玩家能透過雲端遊戲體驗 Kronus 之戰。未來還有更多內容，NVIDIA DLSS 5 技術將支援《War Thunder》和《Where Winds Meet》。同時，《Dragon’s Dogma 2: Dark Arisen》帶來新的故事 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>看看我們的智慧眼鏡系列並預購你的款式</title>
-      <link>https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/xr-ar/google-intelligent-eyewear-collections-pre-order/</guid>
-      <pubDate>Thu, 12 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>由 Warby Parker 和 Gentle Monster 設計，並由 Samsung 工程打造的 Google 智慧眼鏡現已開放預購。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog1_Banner.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog1_Banner.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog1_Banner.max-600x600.format-webp.webp" alt=""></p><p>由 Warby Parker 和 Gentle Monster 設計，並由 Samsung 工程打造的 Google 智慧眼鏡現已開放預購。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 宣布執行長交接</title>
@@ -1212,15 +1221,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>以更高的漏洞獎金獎勵防禦者</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
-    </item>
-    <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
       <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
@@ -1228,6 +1228,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
+    </item>
+    <item>
+      <title>以更高的漏洞獎金獎勵防禦者</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
@@ -1855,15 +1864,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
-      <link>https://openai.com/index/localiza-generative-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
-    </item>
-    <item>
       <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
       <link>https://openai.com/index/grupo-boticario</link>
       <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
@@ -1873,13 +1873,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
     </item>
     <item>
-      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
+      <link>https://openai.com/index/localiza-generative-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
+      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
@@ -1889,6 +1889,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
+    </item>
+    <item>
+      <title>Benefit Street Partners 用 Codex 更快回答問題</title>
+      <link>https://openai.com/index/benefit-street-partners</link>
+      <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
     </item>
     <item>
       <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
@@ -1934,15 +1943,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Bünyamin Aydın 將土耳其傳統、搖滾元素與未來主義融合，打造出一場在卡帕多奇亞登場、並以 iPhone 18 Pro Max 拍攝的里程碑時裝秀。</description>
-    </item>
-    <item>
-      <title>Amp 運用 OpenAI 模型，讓 AI 代理不只寫程式也能派上用場</title>
-      <link>https://openai.com/index/amp-beyond-coding</link>
-      <guid isPermaLink="false">https://openai.com/index/amp-beyond-coding</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>看看 Amp 如何運用 GPT-6 Astra、Ultrafast、GPT-Live-1，以及「使用 ChatGPT 登入」來推動代理能力的前沿。</description>
     </item>
     <item>
       <title>Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署</title>
