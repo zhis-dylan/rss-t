@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 16:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 16:46:29 GMT</lastBuildDate>
     <item>
       <title>Serena Williams 逐步結束她的風投公司，成立新基金，目標籌集 2 億美元</title>
       <link>https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/</link>
@@ -122,6 +122,18 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" alt=""></p><p>NVIDIA 今日推出 NVIDIA Nemotron for Science，結合其 NVIDIA Nemotron™ 3.5 Super VL 開放模型的科學應用、一個新的開放化學資料集，以及後訓練配方，協助研究人員打造用於科學發現的專用 agents。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google TPU 的全新 AI 訓練效能基準測試</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" alt=""></p><p>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</p>]]></content:encoded>
     </item>
     <item>
       <title>Audible 轉向 AI，協助使用者發掘有聲書</title>
@@ -609,30 +621,6 @@
 〈從 AI 野心到商業影響〉一文最早出現在 The Official Microsoft Blog。</description>
     </item>
     <item>
-      <title>認識 2026 年 Google PhD Fellows</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google.org 正提供 1,300 萬美元資金，支持 2026 年 Google PhD Fellows。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正提供 1,300 萬美元資金，支持 2026 年 Google PhD Fellows。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>在任何網站上都能透過 Gemini 快速取得答案。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/</guid>
-      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 Chrome 中的 Gemini 快速取得答案。在側邊面板中直接摘要文章、比較產品，並解釋複雜主題。立即試用。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp" alt=""></p><p>透過 Chrome 中的 Gemini 快速取得答案。在側邊面板中直接摘要文章、比較產品，並解釋複雜主題。立即試用。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>科學家正運用 Google AI 協助恢復巨藻森林。</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/saving-giant-kelp-australia/</guid>
@@ -645,6 +633,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Kelp_for_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>巨藻構成的水下森林能保護海岸線、提供棲地，並支持海洋生態系統——但由於海洋暖化，它們正在全球各地消失。隨著 COP31 k…</p>]]></content:encoded>
     </item>
     <item>
+      <title>認識 2026 年 Google PhD Fellows</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/phd-fellows-2026/</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google.org 正提供 1,300 萬美元資金，支持 2026 年 Google PhD Fellows。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/PhD_Fellowships_2026_herosocial.max-600x600.format-webp.webp" alt=""></p><p>Google.org 正提供 1,300 萬美元資金，支持 2026 年 Google PhD Fellows。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>我們正在西維吉尼亞州推出 1,000 萬美元的能源影響計畫。</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/energy-impact-program-west-virginia/</guid>
@@ -655,6 +655,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/West_Virginia_Energy_Impact_Pro.max-600x600.format-webp.webp" alt=""></p><p>Google 正在西維吉尼亞州推出一項 1,000 萬美元的能源影響計畫，用於資助房屋修繕與提升能效。今天就來確認你是否符合資格。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>在任何網站上都能透過 Gemini 快速取得答案。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/research-with-gemini-in-chrome/</guid>
+      <pubDate>Thu, 12 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過 Chrome 中的 Gemini 快速取得答案。在側邊面板中直接摘要文章、比較產品，並解釋複雜主題。立即試用。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_in_Chrome_OZMdZhz.max-600x600.format-webp.webp" alt=""></p><p>透過 Chrome 中的 Gemini 快速取得答案。在側邊面板中直接摘要文章、比較產品，並解釋複雜主題。立即試用。</p>]]></content:encoded>
     </item>
     <item>
       <title>在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗</title>
@@ -677,18 +689,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf" alt=""></p><p>在本週 GFN Thursday 集結隊伍。《Warhammer 40,000: Dawn of War IV》即將登陸 GeForce NOW，讓玩家能透過雲端遊戲體驗 Kronus 之戰。未來還有更多內容，NVIDIA DLSS 5 技術將支援《War Thunder》和《Where Winds Meet》。同時，《Dragon’s Dogma 2: Dark Arisen》帶來新的故事 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>為智慧眼鏡打造的隱私設計</title>
-      <link>https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/intelligent-eyewear-privacy-protections/</guid>
-      <pubDate>Thu, 12 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>深入了解智慧眼鏡的隱私保護措施。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_bnCZOSz.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_bnCZOSz.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Banner_bnCZOSz.max-600x600.format-webp.webp" alt=""></p><p>深入了解智慧眼鏡的隱私保護措施。</p>]]></content:encoded>
     </item>
     <item>
       <title>看看我們的智慧眼鏡系列並預購你的款式</title>
