@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 11:58:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 12:13:34 GMT</lastBuildDate>
+    <item>
+      <title>Zoox robotaxi 現已可在拉斯維加斯的 Uber app 上使用</title>
+      <link>https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188800</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這是 Amazon 旗下的 Zoox 首次與叫車平台合作。</description>
+    </item>
     <item>
       <title>LVMH 媒體部門宣布與 OpenAI 建立策略合作夥伴關係</title>
       <link>https://openai.com/index/lvmh-media-division-partnership</link>
@@ -294,15 +303,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Drogue 正在收集海洋的熱能，為浮動船舶上的資料中心供電。第一個原型應該會在不到兩年內浮在海上，運算資料。</description>
-    </item>
-    <item>
-      <title>AI 代理新創 LangChain 估值達 30 億美元</title>
-      <link>https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188474</guid>
-      <pubDate>Fri, 13 Nov 2026 19:37:57 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>LangChain 現在宣稱，其模型與平台無關的代理管理工具 LangSmith 已有 7,000 名客戶。</description>
     </item>
     <item>
       <title>將 Google Wallet 連接到 Gemini，以取得個人理財洞察</title>
