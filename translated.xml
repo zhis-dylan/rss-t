@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:50:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 23:05:58 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA DGX Spark 開發套件把書桌變成超級運算實驗室</title>
+      <link>https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/dgx-spark-hpc-developer-kit-sc26/</guid>
+      <pubDate>Mon, 16 Nov 2026 23:00:05 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在今年於芝加哥舉行的年度超級運算會議 SC26 上，NVIDIA 正式推出 DGX Spark HPC 開發套件，提供研究人員、學者與開發者使用。這套套件是一個由四個節點組成的 NVIDIA DGX Spark 系統叢集，每個節點都以環狀架構直接連接到另外兩個鄰居，並附帶一份 NVIDIA HPC SDK 安裝操作指南，內容將從……</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/605255c85d8350f63ab2fd828ac080dd/6afb8b903d6332997cbeb04c_SC-Local-AI-DGX-Spark-Clusters-Blog-Header-842x450/SC-Local-AI-DGX-Spark-Clusters-Blog-Header-842x450_thmb.jpg?v=058dcd92-b6ba-41e3-8667-966e6b50606a" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/605255c85d8350f63ab2fd828ac080dd/6afb8b903d6332997cbeb04c_SC-Local-AI-DGX-Spark-Clusters-Blog-Header-842x450/SC-Local-AI-DGX-Spark-Clusters-Blog-Header-842x450_thmb.jpg?v=058dcd92-b6ba-41e3-8667-966e6b50606a"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/605255c85d8350f63ab2fd828ac080dd/6afb8b903d6332997cbeb04c_SC-Local-AI-DGX-Spark-Clusters-Blog-Header-842x450/SC-Local-AI-DGX-Spark-Clusters-Blog-Header-842x450_thmb.jpg?v=058dcd92-b6ba-41e3-8667-966e6b50606a" alt=""></p><p>在今年於芝加哥舉行的年度超級運算會議 SC26 上，NVIDIA 正式推出 DGX Spark HPC 開發套件，提供研究人員、學者與開發者使用。這套套件是一個由四個節點組成的 NVIDIA DGX Spark 系統叢集，每個節點都以環狀架構直接連接到另外兩個鄰居，並附帶一份 NVIDIA HPC SDK 安裝操作指南，內容將從……</p>]]></content:encoded>
+    </item>
     <item>
       <title>資安巨頭 Infoblox 證實遭遇資安事件，駭客取得「公司資訊」</title>
       <link>https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/</link>
@@ -1024,18 +1036,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Kuken Industries 使用 OpenAI API 搜尋 70 年的冷卻塔圖紙。工程師現在可以在 4.5 分鐘內找到維修所需的圖紙，過去則接近一小時。</description>
-    </item>
-    <item>
-      <title>NVIDIA 協助韓國在各行各業推進實體 AI</title>
-      <link>https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/korea-physical-ai-ecosystem/</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:40 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>憑藉韓國在製造與工程方面的優勢，NVIDIA 正協助推進韓國的實體 AI 生態系。該國產業領導者正將加速運算、AI 與模擬應用到從半導體製造到機器人與自動駕駛車輛等各種領域。這些努力正協助實體 AI 從開發走向真實世界的生產環境。三星在半導體工程方面取得進展，透過 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a" alt=""></p><p>憑藉韓國在製造與工程方面的優勢，NVIDIA 正協助推進韓國的實體 AI 生態系。該國產業領導者正將加速運算、AI 與模擬應用到從半導體製造到機器人與自動駕駛車輛等各種領域。這些努力正協助實體 AI 從開發走向真實世界的生產環境。三星在半導體工程方面取得進展，透過 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
