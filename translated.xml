@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:56:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 07:11:17 GMT</lastBuildDate>
+    <item>
+      <title>Helsing支持者 Plural 募資 11 億美元，為歐洲下一波登月計畫提供資金</title>
+      <link>https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188830</guid>
+      <pubDate>Mon, 16 Nov 2026 07:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>由營運者主導的 VC 公司 Plural 已募得 10 億歐元新資本（11 億美元），加入規模日益成長的歐洲大型基金行列，其中也包括 Mundi Ventures 的 Kembara 與由 EQT 管理的 Scaleup Europe Fund。</description>
+    </item>
     <item>
       <title>受訪的新加坡中小企業主中有 94% 表示需要更多 AI 指引</title>
       <link>https://about.fb.com/news/2026/11/94-of-singapore-small-business-owners-surveyed-say-more-ai-guidance-is-needed/</link>
@@ -240,15 +249,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>LangChain 現在宣稱，其模型與平台無關的代理管理工具 LangSmith 已有 7,000 名客戶。</description>
-    </item>
-    <item>
-      <title>遭出口禁令禁止的 Nvidia 晶片，支撐了中國最強大的 AI 模型——糟了，Jensen！</title>
-      <link>https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188067</guid>
-      <pubDate>Fri, 13 Nov 2026 18:40:30 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>新的研究顯示，中國最先進的 AI 模型是用遭禁運的 Nvidia 晶片訓練而成。</description>
     </item>
     <item>
       <title>將 Google Wallet 連接到 Gemini，以取得個人理財洞察</title>
