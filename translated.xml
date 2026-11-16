@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:57:30 GMT</lastBuildDate>
+    <item>
+      <title>LVMH 媒體部門宣布與 OpenAI 建立策略合作夥伴關係</title>
+      <link>https://openai.com/index/lvmh-media-division-partnership</link>
+      <guid isPermaLink="false">https://openai.com/index/lvmh-media-division-partnership</guid>
+      <pubDate>Mon, 16 Nov 2026 09:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>LVMH 媒體部門與 OpenAI 宣布合作，以透過 AI 支持新聞業，並讓其出版內容能透過 ChatGPT 更容易取得。</description>
+    </item>
     <item>
       <title>青少年對線上安全和 AI 的真正想法</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/what-teenagers-really-think-about-online-safety-and-ai/</link>
@@ -1813,15 +1822,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
-      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
-      <link>https://openai.com/index/localiza-generative-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
-    </item>
-    <item>
       <title>Grupo Boticário 如何運用 AI 強化人與人之間的連結</title>
       <link>https://openai.com/index/grupo-boticario</link>
       <guid isPermaLink="false">https://openai.com/index/grupo-boticario</guid>
@@ -1829,6 +1829,15 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>自 49 年前在巴西南部巴拉那州的一家調劑藥局起家以來，集團如今營運一個專有代理平台，可自主解決高達 80% 經銷商的營運請求，讓業務團隊轉而扮演顧問角色。</description>
+    </item>
+    <item>
+      <title>Localiza 如何圍繞生成式 AI 重新組織工作</title>
+      <link>https://openai.com/index/localiza-generative-ai</link>
+      <guid isPermaLink="false">https://openai.com/index/localiza-generative-ai</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
       <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
@@ -1928,15 +1937,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Block 正在與 OpenAI 合作打造 AI 驅動的資安防護。其資安團隊能更快調查威脅，並在幾分鐘內提出修補建議。</description>
-    </item>
-    <item>
-      <title>歐盟 AI 的下一章是代理式 AI</title>
-      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-      <guid isPermaLink="false">https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>新的分析顯示，代理式 AI 的採用正在歐盟企業與中小企業中成長——以及更深入的使用能在何處釋放更多價值。</description>
     </item>
     <item>
       <title>Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署</title>
