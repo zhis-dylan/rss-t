@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 17:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:32:10 GMT</lastBuildDate>
     <item>
       <title>Jordan Belfort 的新 AI 語音新創公司 Tone，想像《華爾街之狼》那樣把東西賣出去</title>
       <link>https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/</link>
@@ -23,6 +23,24 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>OpenAI 將安插六位 Apollo Research 評估員，調查其 AI 模型是否出現顛覆性行為，但存取與揭露上的限制引發了外界對其獨立性的質疑。</description>
+    </item>
+    <item>
+      <title>擴大科學家取得 AI 的管道</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <guid isPermaLink="false">https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>我們正在擴大 ChatGPT for Academic Researchers 計畫，讓全球 20 萬名研究人員可免費使用我們的前沿模型。</description>
+    </item>
+    <item>
+      <title>透過新工具與支援，加強打擊網路兒童性虐待</title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <guid isPermaLink="false">https://openai.com/index/strengthening-online-child-safety</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>新的工具、實用指引與合作夥伴關係，將有助於預防、偵測並因應網路兒童性剝削與虐待。</description>
     </item>
     <item>
       <title>新的 Google AdMob AI 工具協助應用程式創作者更快建置、修正並成長</title>
@@ -305,6 +323,15 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Dreamteam 已在 13 個國家簽下超過 100 家客戶，其中一些企業是從既有的 CRM 轉換過來的。</description>
+    </item>
+    <item>
+      <title>前沿科學：科學家如何使用 ChatGPT</title>
+      <link>https://openai.com/index/science-at-the-frontier</link>
+      <guid isPermaLink="false">https://openai.com/index/science-at-the-frontier</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索超過 1,800 位科學家如何在研究中使用 ChatGPT。查看關於日常工作流程、回報的生產力，以及對發現的期待等發現。</description>
     </item>
     <item>
       <title>Zoox robotaxi 現已可在拉斯維加斯的 Uber app 上使用</title>
@@ -1221,15 +1248,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
-    </item>
-    <item>
       <title>以更高的漏洞獎金獎勵防禦者</title>
       <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
       <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
@@ -1237,6 +1255,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
+    </item>
+    <item>
+      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
@@ -1882,15 +1909,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
     </item>
     <item>
-      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
-    </item>
-    <item>
       <title>Benefit Street Partners 用 Codex 更快回答問題</title>
       <link>https://openai.com/index/benefit-street-partners</link>
       <guid isPermaLink="false">https://openai.com/index/benefit-street-partners</guid>
@@ -1900,22 +1918,13 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>Anant Kumar 打造工具來比較貸款估值並分析信貸協議，使用 Codex 進行程式碼審查與更快的後續處理。</description>
     </item>
     <item>
-      <title>將 GPT-Rosalind 帶進學術研究實驗室</title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-the-rosalind-academic-plan</guid>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 GMT</pubDate>
+      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>推出 Rosalind 學術方案，為符合資格的學術實驗室提供由贊助的 GPT-Rosalind 存取權與工具，以推動生命科學研究。</description>
-    </item>
-    <item>
-      <title>透過提問教學生思考與學習</title>
-      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-      <guid isPermaLink="false">https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>以巴西葡萄牙語版的 AI for Educators 慶祝教師節，並了解 Study Mode 如何協助教師支持主動、循序漸進的學習。</description>
+      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
     </item>
     <item>
       <title>用 iPhone Duo 開啟更多可能</title>
@@ -1925,15 +1934,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>從 10 月 16 日星期五太平洋時間上午 5 點起，顧客可在 apple.com 和 Apple Store app 預訂 iPhone Duo。</description>
-    </item>
-    <item>
-      <title>Sullivan &amp; Cromwell 將法律專業帶入協議審查</title>
-      <link>https://openai.com/index/sullivan-cromwell</link>
-      <guid isPermaLink="false">https://openai.com/index/sullivan-cromwell</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Sullivan &amp; Cromwell 與 OpenAI 合作開發了 Agreement Analyzer，這是一個用於識別合約草案中問題的 AI 工具。</description>
     </item>
     <item>
       <title>Bünyamin Aydın 的新系列〈From Earth to Sky〉，搭配 iPad Pro 展翅飛翔</title>
