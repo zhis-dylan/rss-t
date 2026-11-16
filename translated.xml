@@ -5,7 +5,109 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:09:08 GMT</lastBuildDate>
+    <item>
+      <title>Apple 推出新 app，研究人們如何將 AI 用於健康</title>
+      <link>https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188803</guid>
+      <pubDate>Mon, 16 Nov 2026 01:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Apple 的研究用新 app 將回答日常醫療問題</description>
+    </item>
+    <item>
+      <title>Apple 推出研究計畫，探索 AI 在健康領域的應用</title>
+      <link>https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/</guid>
+      <pubDate>Mon, 16 Nov 2026 01:18:33 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 今日宣布在美國推出 Apple Health AI Usage Study，其中包括一項虛擬研究以及相關 app。</description>
+    </item>
+    <item>
+      <title>AI Day Seoul 讓韓國的產業領袖、新創公司與開發者社群齊聚一堂</title>
+      <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</guid>
+      <pubDate>Mon, 16 Nov 2026 00:00:28 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>在 COEX 舉行的兩天活動中，超過 2,000 名與會者齊聚 AI Day Seoul，共同匯聚韓國推動實體 AI 與 AI agents 的產業領袖、新創公司與開發者社群。在大會全體會議上，NVIDIA 機器人與邊緣 AI 副總裁 Deepu Talla 表示，韓國「表現超乎其體量」，Doosan Robotics、Hyundai […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/94e4d8e35e46dc78f8b79cb27f0462be/6afa47d13d63322ca4bea3e8_ai-day-seoul-wrapup-1920x1080-1-842x450/ai-day-seoul-wrapup-1920x1080-1-842x450_thmb.jpg?v=26a11e93-65b4-450d-b0ef-9f5089ac6f01" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/94e4d8e35e46dc78f8b79cb27f0462be/6afa47d13d63322ca4bea3e8_ai-day-seoul-wrapup-1920x1080-1-842x450/ai-day-seoul-wrapup-1920x1080-1-842x450_thmb.jpg?v=26a11e93-65b4-450d-b0ef-9f5089ac6f01"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/94e4d8e35e46dc78f8b79cb27f0462be/6afa47d13d63322ca4bea3e8_ai-day-seoul-wrapup-1920x1080-1-842x450/ai-day-seoul-wrapup-1920x1080-1-842x450_thmb.jpg?v=26a11e93-65b4-450d-b0ef-9f5089ac6f01" alt=""></p><p>在 COEX 舉行的兩天活動中，超過 2,000 名與會者齊聚 AI Day Seoul，共同匯聚韓國推動實體 AI 與 AI agents 的產業領袖、新創公司與開發者社群。在大會全體會議上，NVIDIA 機器人與邊緣 AI 副總裁 Deepu Talla 表示，韓國「表現超乎其體量」，Doosan Robotics、Hyundai […]</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>印度晶片新創 Bharat Semi 獲得 2400 萬美元種子輪融資，瞄準全球 AI 感測器市場</title>
+      <link>https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188782</guid>
+      <pubDate>Sun, 15 Nov 2026 23:30:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Bharat Semi 表示，已為其 AI 驅動的感測器技術拿下設計訂單，客戶包括 General Atomics 等公司。</description>
+    </item>
+    <item>
+      <title>朝著在晶格上定義標準模型邁進一步</title>
+      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
+      <guid isPermaLink="false">https://openai.com/index/step-toward-defining-the-standard-model</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:01 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索標準模型的一種候選非微擾晶格定義，以及 GPT-6 Astra 如何幫助把這個想法轉化為一份詳細的證明。</description>
+    </item>
+    <item>
+      <title>我們新的科學部落格</title>
+      <link>https://openai.com/index/our-new-blog-for-science</link>
+      <guid isPermaLink="false">https://openai.com/index/our-new-blog-for-science</guid>
+      <pubDate>Sun, 15 Nov 2026 22:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 科學部落格分享新發現、實用方法，以及研究人員運用 AI 推動科學發現的第一手經驗。</description>
+    </item>
+    <item>
+      <title>Jensen Huang 的壞消息，對 AI 產業來說也是壞消息嗎？</title>
+      <link>https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188757</guid>
+      <pubDate>Sun, 15 Nov 2026 21:56:35 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>「Jensen 就是 Nvidia，對吧？而這個經濟體有很大一部分都押在 Nvidia 身上。」</description>
+    </item>
+    <item>
+      <title>SNL 集結所有科技大亨，上一堂約會與間諜技巧課</title>
+      <link>https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188820</guid>
+      <pubDate>Sun, 15 Nov 2026 20:20:57 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>雖然笨拙又令人毛骨悚然的科技高層已成為《週六夜現場》反覆出現的主題，但本週的這一集讓卡司有機會一次秀出所有模仿表演。</description>
+    </item>
+    <item>
+      <title>Flaming Hydra 的新 Kickstarter 募資活動重新思考電子書所有權與數位借閱</title>
+      <link>https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188811</guid>
+      <pubDate>Sun, 15 Nov 2026 18:29:14 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>一個新的 Kickstarter 募資活動，目標是帶來「人類網路的回歸」。</description>
+    </item>
+    <item>
+      <title>TechCrunch Mobility：Nvidia 為中國自駕產業準備的備案</title>
+      <link>https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188447</guid>
+      <pubDate>Sun, 15 Nov 2026 17:05:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>歡迎回到 TechCrunch Mobility，這裡是你掌握交通運輸未來的據點，而如今，AI 在其中扮演的角色比以往任何時候都更加重要。</description>
+    </item>
+    <item>
+      <title>我們在這個假期季節熱情推薦的科技產品</title>
+      <link>https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3188418</guid>
+      <pubDate>Sun, 15 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>今年我們在 TechCrunch 評測了不少新 gadget，現在有一些明確的最愛要分享給你的黑色星期五購物，以及之後的日子。</description>
+    </item>
     <item>
       <title>Nvidia 的資安團隊在哪裡？</title>
       <link>https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/</link>
@@ -148,15 +250,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Personal_Intelligence_Wallet_27.max-600x600.format-webp.webp" alt=""></p><p>美國所有 Gemini 應用程式使用者都可以連結 Google Wallet，讓回覆參考他們的消費習慣。</p>]]></content:encoded>
     </item>
     <item>
-      <title>ChatGPT 的新錢包可讓 AI 代理替你購物並完成結帳</title>
-      <link>https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188368</guid>
-      <pubDate>Fri, 13 Nov 2026 16:00:12 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>ChatGPT Wallet 可讓 AI 代理代表使用者購物並完成結帳，率先向美國 Pro 訂閱用戶限量推出。</description>
-    </item>
-    <item>
       <title>ChatGPT Wallet 介紹</title>
       <link>https://openai.com/index/introducing-chatgpt-wallet</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-wallet</guid>
@@ -164,24 +257,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>推出 ChatGPT Wallet，這是一種安全的方式，讓 ChatGPT Work、Codex 和 dots 中的代理在使用者核准與現有信用卡保障下完成購買。</description>
-    </item>
-    <item>
-      <title>Uber 證實駭客在資料外洩中竊取了數千名駕駛的駕照資訊</title>
-      <link>https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188333</guid>
-      <pubDate>Fri, 13 Nov 2026 14:57:55 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這家叫車巨頭表示，儲存在 AI 雲端公司 Fireworks AI 的駕照資訊在一起資安事件中遭竊。</description>
-    </item>
-    <item>
-      <title>ElevenLabs 的新應用程式結合了團隊用的會議筆記與口述輸入</title>
-      <link>https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188328</guid>
-      <pubDate>Fri, 13 Nov 2026 14:44:48 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>ElevenAI 是一款全新的會議筆記工具與口述輸入應用程式，目標鎖定團隊與企業。</description>
     </item>
     <item>
       <title>Apple HomeView 今日上市</title>
@@ -203,24 +278,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f" medium="image" type="image/png"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f" alt=""></p><p>從兒科研究到智慧醫院，AI 正在幫助照護團隊把時間從例行工作中釋放出來，把更多時間用在病患身上。醫療系統和新創公司正把它應用在整個醫療照護領域，從媒合病患參與臨床試驗，到支援放射科醫師、醫院團隊與居家病患。臨床人員仍居於核心，負責審閱 AI […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>以色列的創投看見輝達動盪中的挑戰者機會</title>
-      <link>https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3187846</guid>
-      <pubDate>Fri, 13 Nov 2026 12:52:19 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>鑑於輝達在 AI 領域的主導地位，以及它對以色列的重要性，該國新創生態系中的許多人都擔心他離任的影響。</description>
-    </item>
-    <item>
-      <title>報導稱，Jensen Huang 並未表現出對接班人的信心</title>
-      <link>https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188240</guid>
-      <pubDate>Fri, 13 Nov 2026 12:28:23 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Huang 在夏天的一場會議中把 Kress 形容成「嚇得像頭鹿一樣愣在車燈前」</description>
     </item>
     <item>
       <title>Shield 協助技術人員透過 OpenAI 交接舊版入口網站的工作</title>
@@ -251,15 +308,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Amplitude 的主動式產品代理 Wave 主要建構於 OpenAI 模型之上，能識別該打造什麼、協助團隊透過程式碼代理人推出變更，並衡量其影響。</description>
-    </item>
-    <item>
-      <title>Microsoft 的 Outlook 電子郵件再度發生當機</title>
-      <link>https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188070</guid>
-      <pubDate>Thu, 12 Nov 2026 19:03:39 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Microsoft 目前尚未說明這次當機的原因，這次事故影響了 Outlook 電子郵件使用者。</description>
     </item>
     <item>
       <title>Google 搜尋透過 Gemini 4 Hydrogen 獲得重大升級</title>
@@ -470,15 +518,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>與 Gilbert + Tobin 合夥人暨執行長 Sam Nickless 的對談。</description>
-    </item>
-    <item>
-      <title>Jensen Huang 風波發展始末：時間軸</title>
-      <link>https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3186475</guid>
-      <pubDate>Wed, 11 Nov 2026 23:50:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這起事件可能對國家安全帶來影響，因為美國和中國正在競相開發最先進的 AI 基礎設施。</description>
     </item>
     <item>
       <title>Gemini Decisions API：快速、校準過的多模態決策</title>
@@ -974,18 +1013,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/WhatsApp-is-your-events-planning-lifesaver_Header-1.jpg?fit=1920%2C1080" alt=""></p><p>我們正在推出 WhatsApp 上 Events 的更新，讓大家更容易相聚，例如新增一個 Events 首頁來簡化你的規劃流程，還能把邀請傳給不使用 WhatsApp 的人。<br>〈WhatsApp Events 讓人們在群組聊天之外也能聚在一起〉最先出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>《霍格華茲的傳承》在 GeForce NOW 上獲得魔法般的 NVIDIA DLSS 5 升級</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-hogwarts-legacy-dlss-5/</guid>
-      <pubDate>Thu, 05 Nov 2026 14:00:34 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>霍格華茲的傳承今天透過 3D 引導式神經渲染獲得 NVIDIA DLSS 5 升級，為 GeForce NOW 上的魔法世界帶來逼真的光影與材質。暴雪娛樂的《魔獸世界：永恆》也在艾澤拉斯開啟新篇章，GeForce NOW 會員可獲得上市首週存取獎勵。同時，Ubisoft 也帶來包含擴充內容的新挑戰 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/60652bd2eb00e4408190d8bcb75444bf/6aec8c313d63326ba2671bef_gfn-thursday-11-5-blog-1920x1080-no-copy-842x450/gfn-thursday-11-5-blog-1920x1080-no-copy-842x450_thmb.jpg?v=2b75e572-a34a-4853-9d7d-31c470f8eea7" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/60652bd2eb00e4408190d8bcb75444bf/6aec8c313d63326ba2671bef_gfn-thursday-11-5-blog-1920x1080-no-copy-842x450/gfn-thursday-11-5-blog-1920x1080-no-copy-842x450_thmb.jpg?v=2b75e572-a34a-4853-9d7d-31c470f8eea7"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/60652bd2eb00e4408190d8bcb75444bf/6aec8c313d63326ba2671bef_gfn-thursday-11-5-blog-1920x1080-no-copy-842x450/gfn-thursday-11-5-blog-1920x1080-no-copy-842x450_thmb.jpg?v=2b75e572-a34a-4853-9d7d-31c470f8eea7" alt=""></p><p>霍格華茲的傳承今天透過 3D 引導式神經渲染獲得 NVIDIA DLSS 5 升級，為 GeForce NOW 上的魔法世界帶來逼真的光影與材質。暴雪娛樂的《魔獸世界：永恆》也在艾澤拉斯開啟新篇章，GeForce NOW 會員可獲得上市首週存取獎勵。同時，Ubisoft 也帶來包含擴充內容的新挑戰 […]</p>]]></content:encoded>
-    </item>
-    <item>
       <title>GPT‑6 Cyber：推進對齊的資安代理前沿</title>
       <link>https://openai.com/index/introducing-gpt-6-cyber</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-cyber</guid>
@@ -1175,15 +1202,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
-    </item>
-    <item>
       <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
       <link>https://openai.com/index/dan-driscoll-joins-openai</link>
       <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
@@ -1191,6 +1209,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
+    </item>
+    <item>
+      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
@@ -1912,24 +1939,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <description>新的分析顯示，代理式 AI 的採用正在歐盟企業與中小企業中成長——以及更深入的使用能在何處釋放更多價值。</description>
     </item>
     <item>
-      <title>認識 Apple HomeView，一種享受娛樂與管理居家的新方式</title>
-      <link>https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/meet-apple-homeview-a-new-way-to-enjoy-entertainment-and-manage-the-home/</guid>
-      <pubDate>Tue, 13 Oct 2026 12:59:16 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 今天推出 Apple HomeView，旨在成為居家的核心，並且對其中每個人都很個人化。</description>
-    </item>
-    <item>
-      <title>Higgsfield 讓 AI 影片從 1 分鐘提升到超過 10 分鐘</title>
-      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
-      <guid isPermaLink="false">https://openai.com/index/higgsfield-longer-videos-voice</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Higgsfield 透過 GPT-6 Astra 為創作者帶來更長的影片，透過 GPT-Image-2.5 提供精準的視覺效果，並為語音電影製作鋪路，搭配 GPT-Live。</description>
-    </item>
-    <item>
       <title>Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署</title>
       <link>https://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/</link>
       <guid isPermaLink="false">https://blogs.microsoft.com/?p=52563158</guid>
@@ -1941,15 +1950,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Maia-200-Image-1.png.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Maia-200-Image-1.png.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Maia-200-Image-1.png.jpg" alt=""></p><p>Azure Maia 200 現已量產；Azure Maia 300 將於 2027 年推出。隨著我們邁入超級智慧時代，Microsoft 正進入基礎架構的新階段。自 2027 年起，我們將把 Azure Maia 系列擴展至多吉瓦級部署，使 Maia 成為 Microsoft 產品與服務的主要推論系統。這個跨世代...<br>這篇〈Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署〉最初發表於 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Sophos 透過 OpenAI Daybreak 將威脅調查時間縮短 96%</title>
-      <link>https://openai.com/index/sophos</link>
-      <guid isPermaLink="false">https://openai.com/index/sophos</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 Sophos 如何運用 OpenAI 的 Daybreak 將資安威脅調查時間縮短 96%，並在保有人為監督的前提下自動化 52% 的 MDR 案件。</description>
     </item>
     <item>
       <title>Microsoft 365 與 LinkedIn 領導層更新</title>
