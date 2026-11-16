@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 22:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 22:20:35 GMT</lastBuildDate>
+    <item>
+      <title>資安巨頭 Infoblox 證實遭遇資安事件，駭客取得「公司資訊」</title>
+      <link>https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189270</guid>
+      <pubDate>Mon, 16 Nov 2026 22:12:31 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>這家資安與自動化巨頭表示，正在與外部調查人員合作，以了解這起入侵事件的範圍。</description>
+    </item>
     <item>
       <title>Nvidia 星期二應該回答的所有問題——但大概不會</title>
       <link>https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/</link>
@@ -434,15 +443,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Khosla 支持的 Mazama Energy 開發出一種新的方式來超冷卻其地熱鑽頭，讓它能更快、更深入地鑽探，目標是降低電力成本。</description>
-    </item>
-    <item>
-      <title>在躲過死劫後，電池新創 Our Next Energy 現在要上市了</title>
-      <link>https://techcrunch.com/2026/11/16/after-dodging-death-battery-startup-our-next-energy-is-now-going-public/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188163</guid>
-      <pubDate>Mon, 16 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>Our Next Energy 是最新一家透過 SPAC 上市的電池新創。它現在是否已經具備在競爭激烈的電池產業中生存所需的一切？</description>
     </item>
     <item>
       <title>前沿科學：科學家如何使用 ChatGPT</title>
