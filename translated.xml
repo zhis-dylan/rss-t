@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 16 Nov 2026 20:04:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 20:19:24 GMT</lastBuildDate>
+    <item>
+      <title>加州州檢察長因失控代理人事件起訴 OpenAI</title>
+      <link>https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189115</guid>
+      <pubDate>Mon, 16 Nov 2026 20:07:13 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>加州這起訴訟，代表著首次嘗試之一，試圖就失控代理人事件追究 AI 實驗室的法律責任</description>
+    </item>
+    <item>
+      <title>全球最先進的 AI 基礎設施供應鏈如何發明未來</title>
+      <link>https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-infrastructure-supply-chain/</guid>
+      <pubDate>Mon, 16 Nov 2026 20:00:37 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>Deb Shoquist 負責 NVIDIA 的營運，監督支撐其 AI 平台的供應鏈與製造。這樣的描述概括了她的工作，但還不足以涵蓋 Shoquist 數十年來所促成的一切。Shoquist、她的團隊以及其全球製造夥伴網絡，讓 NVIDIA 得以全年推出全球領先的技術。許多……</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/e70fe99dd0851d7a72d32513653816ef/6afb61043d6332c39bac9ed1_IMG_9825-1-842x450/IMG_9825-1-842x450_thmb.jpg?v=ac76e83d-8708-4732-accd-c17f33cdb0ea" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/e70fe99dd0851d7a72d32513653816ef/6afb61043d6332c39bac9ed1_IMG_9825-1-842x450/IMG_9825-1-842x450_thmb.jpg?v=ac76e83d-8708-4732-accd-c17f33cdb0ea"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/e70fe99dd0851d7a72d32513653816ef/6afb61043d6332c39bac9ed1_IMG_9825-1-842x450/IMG_9825-1-842x450_thmb.jpg?v=ac76e83d-8708-4732-accd-c17f33cdb0ea" alt=""></p><p>Deb Shoquist 負責 NVIDIA 的營運，監督支撐其 AI 平台的供應鏈與製造。這樣的描述概括了她的工作，但還不足以涵蓋 Shoquist 數十年來所促成的一切。Shoquist、她的團隊以及其全球製造夥伴網絡，讓 NVIDIA 得以全年推出全球領先的技術。許多……</p>]]></content:encoded>
+    </item>
     <item>
       <title>Uber 表示，駭客在資料外洩事件中竊取了將近 150,000 份駕照資訊</title>
       <link>https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/</link>
@@ -431,15 +452,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索超過 1,800 位科學家如何在研究中使用 ChatGPT。查看關於日常工作流程、回報的生產力，以及對發現的期待等發現。</description>
-    </item>
-    <item>
-      <title>Zoox robotaxi 現已可在拉斯維加斯的 Uber app 上使用</title>
-      <link>https://techcrunch.com/2026/11/16/zoox-robotaxis-are-now-on-the-uber-app-in-las-vegas/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188800</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>這是 Amazon 旗下的 Zoox 首次與叫車平台合作。</description>
     </item>
     <item>
       <title>LVMH 媒體部門宣布與 OpenAI 建立策略合作夥伴關係</title>
@@ -1015,18 +1027,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/3ef549b8c7cf8c67aaaad16c8cc8a74f/6af1539b3d6332c13862b0a9_omniverse-overall-ai-day-seoul-1920x1080-1-842x450/omniverse-overall-ai-day-seoul-1920x1080-1-842x450_thmb.jpg?v=1475448b-92fe-4bbe-9dd0-a7dbbc97254a" alt=""></p><p>憑藉韓國在製造與工程方面的優勢，NVIDIA 正協助推進韓國的實體 AI 生態系。該國產業領導者正將加速運算、AI 與模擬應用到從半導體製造到機器人與自動駕駛車輛等各種領域。這些努力正協助實體 AI 從開發走向真實世界的生產環境。三星在半導體工程方面取得進展，透過 […]</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 協助韓國的 AI 生態系推進並強化代理式 AI</title>
-      <link>https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/korea-secure-agentic-ai/</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:39 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>隨著 AI 代理承擔越來越多工作，它們需要更有能力的開放模型，以及能同步提升的安全性。現代汽車集團正探索 NVIDIA NemoClaw 藍圖與 NVIDIA OpenShell 執行環境，而 AIM Intelligence 正將其 Starfort 平台與 NVIDIA OpenShell 整合，以支援用於員工生產力與企業工作流程的安全 AI 代理。關鍵 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/28304ad297f4e58a8ca7d55602442a81/6af153a03d6332c13862b0b0_korea-agentic-ai-1920x1080-1-842x450/korea-agentic-ai-1920x1080-1-842x450_thmb.jpg?v=522d0dbf-3a44-45c8-8dc9-9c2688e16eda" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/28304ad297f4e58a8ca7d55602442a81/6af153a03d6332c13862b0b0_korea-agentic-ai-1920x1080-1-842x450/korea-agentic-ai-1920x1080-1-842x450_thmb.jpg?v=522d0dbf-3a44-45c8-8dc9-9c2688e16eda"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/28304ad297f4e58a8ca7d55602442a81/6af153a03d6332c13862b0b0_korea-agentic-ai-1920x1080-1-842x450/korea-agentic-ai-1920x1080-1-842x450_thmb.jpg?v=522d0dbf-3a44-45c8-8dc9-9c2688e16eda" alt=""></p><p>隨著 AI 代理承擔越來越多工作，它們需要更有能力的開放模型，以及能同步提升的安全性。現代汽車集團正探索 NVIDIA NemoClaw 藍圖與 NVIDIA OpenShell 執行環境，而 AIM Intelligence 正將其 Starfort 平台與 NVIDIA OpenShell 整合，以支援用於員工生產力與企業工作流程的安全 AI 代理。關鍵 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
