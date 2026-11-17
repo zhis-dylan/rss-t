@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:29:57 GMT</lastBuildDate>
     <item>
       <title>Uber 與 Zipline 的無人機配送服務在德州上線，接下來還有數十個城市</title>
       <link>https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/</link>
@@ -92,6 +92,18 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>該公司表示，這個新的常設委員會將提供對國家安全政策、出口管制合規，以及全球貿易風險的董事會層級監督。</description>
+    </item>
+    <item>
+      <title>Ian Buck 為 NVIDIA 於 SC26 的活動揭幕，科學邁入代理時代</title>
+      <link>https://blogs.nvidia.com/blog/ian-buck-sc26/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ian-buck-sc26/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:00:10 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 的 Ian Buck 於週一在芝加哥舉行的 SC26 會議上揭開公司本週活動序幕，並推出供 AI 代理使用的新工具，這些軟體可在研究人員自己的系統上規劃實驗、執行程式碼並檢查結果。在 NVIDIA 的特別演說中，Buck 宣布了用於科學的 Nemotron、Rubin HPC GPU，以及擴充的 Vera CPU 平台，用於高效能 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/5b8e1f6fca8cc84a486aa1046ce7b649/6afc7d673d633236f42c73b0_Buck-Talk-SC26-842x450/Buck-Talk-SC26-842x450_thmb.jpg?v=3f0914d2-0379-4fef-8287-0a2e0dddcfb7" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/5b8e1f6fca8cc84a486aa1046ce7b649/6afc7d673d633236f42c73b0_Buck-Talk-SC26-842x450/Buck-Talk-SC26-842x450_thmb.jpg?v=3f0914d2-0379-4fef-8287-0a2e0dddcfb7"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/5b8e1f6fca8cc84a486aa1046ce7b649/6afc7d673d633236f42c73b0_Buck-Talk-SC26-842x450/Buck-Talk-SC26-842x450_thmb.jpg?v=3f0914d2-0379-4fef-8287-0a2e0dddcfb7" alt=""></p><p>NVIDIA 的 Ian Buck 於週一在芝加哥舉行的 SC26 會議上揭開公司本週活動序幕，並推出供 AI 代理使用的新工具，這些軟體可在研究人員自己的系統上規劃實驗、執行程式碼並檢查結果。在 NVIDIA 的特別演說中，Buck 宣布了用於科學的 Nemotron、Rubin HPC GPU，以及擴充的 Vera CPU 平台，用於高效能 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>線上慶祝 Colonial Williamsburg 百年</title>
@@ -1043,18 +1055,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple Music 將 Olivia Dean 評選為 2026 年度藝人，表彰她在過去一年中無可否認地躍升為巨星。</description>
-    </item>
-    <item>
-      <title>熟能生巧：在 CoRL 上，NVIDIA 與合作夥伴揭示機器人如何在模擬中演練精細作業</title>
-      <link>https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/robotics-simulation-advancements-corl/</guid>
-      <pubDate>Mon, 09 Nov 2026 14:00:01 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>模擬長久以來一直是機器人學習行走、滾動和跳躍的試驗場，如今也正幫助研究人員教會機器人需要更細膩手感的任務：對準齒輪、連接纜線，以及組裝小型零組件。從移動到操作的轉變，正在本週的 Robot Learning 會議（CoRL）上成為焦點 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/1c44cc6b9c3f0190ced9c4c0fee6383d/6af1d1ef3d633225fdf5cf8e_corl-corp-blog-promo-pack-1920x1080-1-842x450/corl-corp-blog-promo-pack-1920x1080-1-842x450_thmb.jpg?v=f267f0d7-026b-453a-a9f9-a4f6f280e2d6" alt=""></p><p>模擬長久以來一直是機器人學習行走、滾動和跳躍的試驗場，如今也正幫助研究人員教會機器人需要更細膩手感的任務：對準齒輪、連接纜線，以及組裝小型零組件。從移動到操作的轉變，正在本週的 Robot Learning 會議（CoRL）上成為焦點 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>控制室：用於在我們的研究基礎設施中追蹤並停止模型工作負載的中央系統</title>
