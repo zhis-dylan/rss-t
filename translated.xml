@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 06:24:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 06:39:49 GMT</lastBuildDate>
     <item>
       <title>我們在印度 Instagram 推薦內容的最新更新</title>
       <link>https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/</link>
@@ -490,6 +490,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>探索超過 1,800 位科學家如何在研究中使用 ChatGPT。查看關於日常工作流程、回報的生產力，以及對發現的期待等發現。</description>
+    </item>
+    <item>
+      <title>Revolut 如何在不降低標準的情況下提高企圖心</title>
+      <link>https://openai.com/business/customer-stories/revolut</link>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/revolut</guid>
+      <pubDate>Mon, 16 Nov 2026 09:30:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 Revolut 如何運用 OpenAI 模型與 Codex，將程式撰寫時間縮短 30–60%，擴大金融犯罪調查規模，並在不犧牲安全性的情況下持續創新。</description>
     </item>
     <item>
       <title>LVMH 媒體部門宣布與 OpenAI 建立策略合作夥伴關係</title>
@@ -1283,15 +1292,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>以更高的漏洞獎金獎勵防禦者</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
-    </item>
-    <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
       <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
@@ -1299,6 +1299,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
+    </item>
+    <item>
+      <title>以更高的漏洞獎金獎勵防禦者</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
@@ -1328,15 +1337,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
-    </item>
-    <item>
       <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
       <link>https://openai.com/index/dan-driscoll-joins-openai</link>
       <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
@@ -1344,6 +1344,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
+    </item>
+    <item>
+      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
@@ -1916,15 +1925,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 Localiza 如何運用 ChatGPT Enterprise、OpenAI API、Codex，以及 60 多個專門代理，重新組織工作並打造原生 AI 的移動出行體驗。</description>
-    </item>
-    <item>
-      <title>Stack Overflow for Agents 透過 ChatGPT 外掛將註冊數提升三倍</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>兩位工程師在幾週內用 Codex 推出了 Stack Overflow for Agents，而它的 ChatGPT 外掛幫助帶動 agent 建立量最高成長達 10 倍。</description>
     </item>
     <item>
       <title>用 iPhone Duo 開啟更多可能</title>
