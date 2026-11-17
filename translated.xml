@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 00:51:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:07:00 GMT</lastBuildDate>
+    <item>
+      <title>推出 Direct：專為傳訊而生的 App</title>
+      <link>https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50940</guid>
+      <pubDate>Tue, 17 Nov 2026 01:00:48 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>今天，我們推出 Direct，這是一款由 Instagram 帶來的新訊息 App，讓你可以和朋友與家人一對一聊天或群組聊天。
+〈Introducing Direct: An App Just for Messaging〉最初發表於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/11/02_Direct.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/02_Direct.jpg"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/02_Direct.jpg" alt=""></p><p>今天，我們推出 Direct，這是一款由 Instagram 帶來的新訊息 App，讓你可以和朋友與家人一對一聊天或群組聊天。<br>〈Introducing Direct: An App Just for Messaging〉最初發表於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>資安 AI 新創 Corma 在約 3 個月內達到 10 億美元估值</title>
       <link>https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/</link>
@@ -1467,19 +1480,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>看看 Legora 如何運用 OpenAI 模型、ChatGPT 和 Codex 來加速法律工作流程、擴展合約分析，並讓律師能專注於更高價值的工作。</description>
-    </item>
-    <item>
-      <title>Muse 現已在新加坡推出：全球第一個為所有人打造的個人 AI 助理</title>
-      <link>https://about.fb.com/news/2026/10/muse-is-now-available-in-singapore-the-worlds-first-personal-ai-agent-built-for-everyone/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50759</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:03 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>今天我們宣布，Muse 現已在新加坡推出。
-這篇〈Muse 現已在新加坡推出：全球第一個為所有人打造的個人 AI 助理〉最早刊登於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?fit=2048%2C1152" medium="image" type="image/png"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?fit=2048%2C1152"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Muse-16x9-SG.png?fit=2048%2C1152" alt=""></p><p>今天我們宣布，Muse 現已在新加坡推出。<br>這篇〈Muse 現已在新加坡推出：全球第一個為所有人打造的個人 AI 助理〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>成為 Frontier 的平台方法</title>
