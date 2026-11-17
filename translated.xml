@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 17:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:30:44 GMT</lastBuildDate>
     <item>
       <title>閱讀 EmbeddingGemma 2 技術報告。</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
@@ -281,6 +281,9 @@
       <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
       <dc:creator>NVIDIA Newsroom</dc:creator>
       <description>NVIDIA（NASDAQ：NVDA）今天宣布，董事會已成立國家安全與出口管制監督委員會，這是一個新的常設委員會，負責由董事會層級監督公司的國家安全政策、出口管制合規與全球貿易風險管理。</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" alt=""></p><p>NVIDIA（NASDAQ：NVDA）今天宣布，董事會已成立國家安全與出口管制監督委員會，這是一個新的常設委員會，負責由董事會層級監督公司的國家安全政策、出口管制合規與全球貿易風險管理。</p>]]></content:encoded>
     </item>
     <item>
       <title>我們在印度 Instagram 推薦內容的最新更新</title>
