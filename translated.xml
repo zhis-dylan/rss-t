@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 17:30:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:45:56 GMT</lastBuildDate>
     <item>
       <title>閱讀 EmbeddingGemma 2 技術報告。</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
@@ -916,6 +916,15 @@
       <description>OpenAI 承諾投入 200 萬美元用於 AI 與兒童安全研究。這項工作將支持共同工具，用來衡量年輕人的風險與機會。</description>
     </item>
     <item>
+      <title>ChatGPT Ads 在 44 個國家擴大市場版圖</title>
+      <link>https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</link>
+      <guid isPermaLink="false">https://openai.com/ads/blog/chatgpt-ads-increases-its-market-presence</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Aleph 獲選為 ChatGPT Ads 在 44 個國家的獨家轉售商，為品牌與代理商提供在地開立發票、現場支援與當地市場專業知識</description>
+    </item>
+    <item>
       <title>Gilbert + Tobin 重新思考法律業務與 AI</title>
       <link>https://openai.com/index/gilbert-tobin-sam-nickless</link>
       <guid isPermaLink="false">https://openai.com/index/gilbert-tobin-sam-nickless</guid>
@@ -1107,6 +1116,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Kuken Industries 使用 OpenAI API 搜尋 70 年的冷卻塔圖紙。工程師現在可以在 4.5 分鐘內找到維修所需的圖紙，過去則接近一小時。</description>
+    </item>
+    <item>
+      <title>VistaPrint 如何幫助小型企業把訊息傳出去</title>
+      <link>https://openai.com/ads/customers/vistaprint</link>
+      <guid isPermaLink="false">https://openai.com/ads/customers/vistaprint</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>準備推出新產品或舉辦活動的小型企業主，往往在知道要印什麼之前，先知道自己想達成什麼目標。VistaPrint 使用 ChatGPT Ads 展示像招牌和品牌商品等產品，如何幫助他們把訊息傳出去。</description>
     </item>
     <item>
       <title>為你量身打造 Muse App</title>
@@ -1925,24 +1943,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Secure-AI-Image-1-10_19.png.jpg" alt=""></p><p>在過去幾個月，隨著越來越多事件被公開揭露，外界對 AI 安全的擔憂也隨之升高。這些事件顯示出模型已經變得多麼強大，以及如果沒有妥善處理，它們會構成多麼重大的威脅。而隨著全球創新競賽持續加劇，當模型變得甚至更加......時，這項挑戰也會進一步擴大。<br>這篇文章〈保護代理式內部威脅〉最早出現在 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>提升低資源程式語言的程式撰寫能力</title>
-      <link>https://openai.com/index/low-resource-programming-languages</link>
-      <guid isPermaLink="false">https://openai.com/index/low-resource-programming-languages</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 OpenAI 如何透過針對軟體工程、SQLite 和 COBOL 遷移的新評估，改善 ChatGPT 在低資源程式語言上的表現。</description>
-    </item>
-    <item>
-      <title>Itaú 如何為其整體客戶群打造生成式 AI</title>
-      <link>https://openai.com/index/itau-generative-ai</link>
-      <guid isPermaLink="false">https://openai.com/index/itau-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 19:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
     </item>
     <item>
       <title>Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署</title>
