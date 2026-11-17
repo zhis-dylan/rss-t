@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:33:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:48:46 GMT</lastBuildDate>
     <item>
       <title>NVIDIA 擴大與供應鏈夥伴的承諾，以支援 AI 基礎設施建設</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout</link>
@@ -17,6 +17,18 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" alt=""></p><p>新聞摘要：與 Kinsus 及三星電機（Samsung Electro-Mechanics）達成的新協議，將支援額外的基板產能，以及現有工廠擴充生產能力。NVIDIA 的工作與...</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>基因組定序如何幫助研究人員更深入了解疾病</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/</guid>
+      <pubDate>Tue, 17 Nov 2026 22:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>一位 Google DeepMind 研究科學家說明 AlphaGenome 和 AlphaGenome Atlas 工具背後的潛力。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_ZCQxfQQ.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_ZCQxfQQ.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_ZCQxfQQ.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 研究科學家說明 AlphaGenome 和 AlphaGenome Atlas 工具背後的潛力。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 公布 2027 會計年度第三季財務結果</title>
@@ -78,18 +90,6 @@
       <description>介紹 GPT‑6.2 Astra 與 Sol，在更低成本下，於 ChatGPT Work、Codex 和 API 中提供更好的專業輸出、程式設計、電腦使用與效率。</description>
     </item>
     <item>
-      <title>讓 Gemini 幫你做事</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 中的 Tasks 現已在六個國家免費提供，並在美國推出新功能，以及更深入整合 Google Workspace，幫你完成事情。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp" alt=""></p><p>Gemini 中的 Tasks 現已在六個國家免費提供，並在美國推出新功能，以及更深入整合 Google Workspace，幫你完成事情。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>閱讀 EmbeddingGemma 2 技術報告。</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</guid>
@@ -100,6 +100,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" alt=""></p><p>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>讓 Gemini 幫你做事</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Gemini 中的 Tasks 現已在六個國家免費提供，並在美國推出新功能，以及更深入整合 Google Workspace，幫你完成事情。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp" alt=""></p><p>Gemini 中的 Tasks 現已在六個國家免費提供，並在美國推出新功能，以及更深入整合 Google Workspace，幫你完成事情。</p>]]></content:encoded>
     </item>
     <item>
       <title>10 個州與 Google 攜手推出免費 AI 訓練</title>
@@ -225,18 +237,6 @@
       <description>這項公告很可能是回應創作者對原創內容很容易在社群媒體平台上被複製和重新散播的疑慮，尤其是在生成式 AI 讓修改現有影片變得更容易的情況下。</description>
     </item>
     <item>
-      <title>Google Play 公布 2026 年最佳應用程式、遊戲和書籍</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" alt=""></p><p>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google Play 在亞太地區的最佳內容</title>
       <link>https://blog.google/topics/google-asia/google-play-best-2026/</link>
       <guid isPermaLink="false">https://blog.google/topics/google-asia/google-play-best-2026/</guid>
@@ -247,6 +247,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google Play 2026 年最佳獎項在亞太地區的得獎者。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Play 公布 2026 年最佳應用程式、遊戲和書籍</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" alt=""></p><p>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</p>]]></content:encoded>
     </item>
     <item>
       <title>Isomorphic Labs 募得 50 億美元，欲將藥物候選物推進臨床試驗</title>
@@ -357,6 +369,15 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20263/1672a5edc9337862c37728b0ad98a2db/69f276273d63321cbbd1a559_nvidia-logo/nvidia-logo_thmb.jpg?v=fdf310fe-5ee3-4e1e-b5dd-edfe71ecd038" alt=""></p><p>NVIDIA（NASDAQ：NVDA）今天宣布，董事會已成立國家安全與出口管制監督委員會，這是一個新的常設委員會，負責由董事會層級監督公司的國家安全政策、出口管制合規與全球貿易風險管理。</p>]]></content:encoded>
     </item>
     <item>
+      <title>推出 ChatGPT for Sales</title>
+      <link>https://openai.com/index/introducing-chatgpt-for-sales</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-chatgpt-for-sales</guid>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 ChatGPT 中全新的 Sales 外掛，以及 30 多個新的與擴充的合作夥伴外掛，用來研究潛在客戶、準備簡報、更新你的 CRM，並推進成交。</description>
+    </item>
+    <item>
       <title>我們在印度 Instagram 推薦內容的最新更新</title>
       <link>https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/</link>
       <guid isPermaLink="false">https://about.fb.com/?p=50964</guid>
@@ -392,15 +413,6 @@
       <description>OpenAI 如何與北約及盟國的網路安全機構合作，協助受信任的防禦方找出漏洞、測試修補並保護關鍵系統。</description>
     </item>
     <item>
-      <title>為智利推出 OpenAI</title>
-      <link>https://openai.com/index/introducing-openai-for-chile</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-chile</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
-    </item>
-    <item>
       <title>Astra for Law 在法律智能方面領先</title>
       <link>https://openai.com/index/astra-law-6-2</link>
       <guid isPermaLink="false">https://openai.com/index/astra-law-6-2</guid>
@@ -408,6 +420,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Astra for Law 在涵蓋 24 個法律領域的發佈評測中排名第一。每位 ChatGPT Enterprise 客戶現在都可以申請存取。</description>
+    </item>
+    <item>
+      <title>為智利推出 OpenAI</title>
+      <link>https://openai.com/index/introducing-openai-for-chile</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-chile</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
     </item>
     <item>
       <title>資安 AI 新創 Corma 在約 3 個月內達到 10 億美元估值</title>
@@ -659,18 +680,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" alt=""></p><p>NVIDIA 今日推出 NVIDIA Nemotron for Science，結合其 NVIDIA Nemotron™ 3.5 Super VL 開放模型的科學應用、一個新的開放化學資料集，以及後訓練配方，協助研究人員打造用於科學發現的專用 agents。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Google TPU 的全新 AI 訓練效能基準測試</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</guid>
-      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" alt=""></p><p>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</p>]]></content:encoded>
-    </item>
-    <item>
       <title>將筆記、研究與來源轉換成互動式網站，使用 Gemini Notebook。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</guid>
@@ -683,16 +692,28 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 現在可將你的研究轉換成互動式網站。和 Google 一起建立專案追蹤器與視覺化儀表板。今天就建立你的網站。</p>]]></content:encoded>
     </item>
     <item>
-      <title>如何找到最佳黑色星期五優惠，並更聰明地購物</title>
-      <link>https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/</guid>
+      <title>Google TPU 的全新 AI 訓練效能基準測試</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</guid>
+      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" alt=""></p><p>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Ask Maps 即將登陸歐洲。</title>
+      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</guid>
       <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>追蹤降價、整理購物車，並在今年黑色星期五和網購星期一用這些 Google 工具更快找到貼心禮物。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp" alt=""></p><p>追蹤降價、整理購物車，並在今年黑色星期五和網購星期一用這些 Google 工具更快找到貼心禮物。</p>]]></content:encoded>
+      <description>Ask Maps 是 Google 地圖十多年來最大的更新。它由全球最新鮮的地圖和 Gemini 模型驅動，能回答複雜的、真實世界的地圖相關問題…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" alt=""></p><p>Ask Maps 是 Google 地圖十多年來最大的更新。它由全球最新鮮的地圖和 Gemini 模型驅動，能回答複雜的、真實世界的地圖相關問題…</p>]]></content:encoded>
     </item>
     <item>
       <title>全新的 Ask Maps 功能，協助規劃節日旅遊與準備</title>
@@ -707,28 +728,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_November_herosocial.max-600x600.format-webp.webp" alt=""></p><p>使用全新的 Ask Maps 功能規劃節日公路旅行、取得路線建議、尋找當地預約，並搜尋你儲存的清單。</p>]]></content:encoded>
     </item>
     <item>
-      <title>運用 Google Maps 趨勢應對節日交通與人潮</title>
-      <link>https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/holiday-thanksgiving-travel-trends-2026/</guid>
+      <title>如何找到最佳黑色星期五優惠，並更聰明地購物</title>
+      <link>https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/shopping/black-friday-cyber-monday-shopping-tips-2026/</guid>
       <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>查看開車、跑腿，以及造訪熱門節日景點的最佳與最糟時段，資料來自 2026 年 Google Maps。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_1_copy_4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_1_copy_4.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Artboard_1_copy_4.max-600x600.format-webp.webp" alt=""></p><p>查看開車、跑腿，以及造訪熱門節日景點的最佳與最糟時段，資料來自 2026 年 Google Maps。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Search 可協助你規劃節日行程的 4 種方式</title>
-      <link>https://blog.google/products-and-platforms/products/search/holiday-prep-search-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/search/holiday-prep-search-2026/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Search 可協助你完成季節待辦清單的四種方式。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_HolidayShopping_1109.max-600x600.format-webp.webp" alt=""></p><p>以下是 Search 可協助你完成季節待辦清單的四種方式。</p>]]></content:encoded>
+      <description>追蹤降價、整理購物車，並在今年黑色星期五和網購星期一用這些 Google 工具更快找到貼心禮物。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Black_Friday_herosocial_alt.max-600x600.format-webp.webp" alt=""></p><p>追蹤降價、整理購物車，並在今年黑色星期五和網購星期一用這些 Google 工具更快找到貼心禮物。</p>]]></content:encoded>
     </item>
     <item>
       <title>前沿科學：科學家如何使用 ChatGPT</title>
@@ -771,15 +780,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/WOL_1057.jpg?w=960" alt=""></p><p>超過 180 家小型企業、在地商家與創作者創業者參加了 Meta Upskill Day 2026 在新加坡舉行的活動，這是 Meta 小型企業成長學院的一部分，新加坡國務資政兼國務部長林永樂以主賓身分出席。<br>這篇文章〈受訪的新加坡中小企業主中有 94% 表示需要更多 AI 指引〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>推進醫療團隊的電腦使用代理</title>
-      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description/>
-    </item>
-    <item>
       <title>透過 ChatGPT for Healthcare 推動照護向前邁進的更多方式</title>
       <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
       <guid isPermaLink="false">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
@@ -787,6 +787,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>推出電腦使用代理、更完善的臨床回答，以及可跨醫療軟體運作、協助實際完成工作的全新醫療外掛程式。</description>
+    </item>
+    <item>
+      <title>推進醫療團隊的電腦使用代理</title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description/>
     </item>
     <item>
       <title>Apple 推出研究計畫，探索 AI 在健康領域的應用</title>
@@ -1390,15 +1399,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
-    </item>
-    <item>
       <title>以更高的漏洞獎金獎勵防禦者</title>
       <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
       <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
@@ -1406,6 +1406,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
+    </item>
+    <item>
+      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
@@ -1925,15 +1934,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 宣布與美國公司建立新的與擴大的合作夥伴關係，這些公司正為 iPhone Duo 和 iPhone 18 Pro 提供關鍵材料與零組件。</description>
-    </item>
-    <item>
-      <title>加盟主使用 ChatGPT Work 將現金對帳時間縮短 94%</title>
-      <link>https://openai.com/index/ted-taylor-restaurant</link>
-      <guid isPermaLink="false">https://openai.com/index/ted-taylor-restaurant</guid>
-      <pubDate>Tue, 20 Oct 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>一家獨立的 Schlotzsky’s 和 Cinnabon 加盟主將菜單重新定價時間縮短了 95%，並建立了一套可釋放 10 萬美元現金流的工作流程。</description>
     </item>
     <item>
       <title>透過更高的控制與選擇推動數位主權</title>
