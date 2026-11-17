@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:01:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 18:16:22 GMT</lastBuildDate>
     <item>
       <title>Muse 現已在澳洲推出：全球首款為每個人打造的個人 AI 智能助理</title>
       <link>https://about.fb.com/news/2026/11/muse-is-now-available-in-australia/</link>
@@ -18,6 +18,15 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?fit=3840%2C2160" medium="image" type="image/png"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?fit=3840%2C2160"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/AU_Jolly_Surfer_Horizontal.png?fit=3840%2C2160" alt=""></p><p>Muse 從今天起在澳洲提供服務，涵蓋創意、購物、房地產、健身和娛樂等在地連接體驗將逐步上線。<br>這篇〈Muse 現已在澳洲推出：全球首款為每個人打造的個人 AI 智能助理〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>介紹 GPT-6.2 Astra 與 Sol</title>
+      <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-2-astra-sol</guid>
+      <pubDate>Tue, 17 Nov 2026 17:45:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>介紹 GPT‑6.2 Astra 與 Sol，在更低成本下，於 ChatGPT Work、Codex 和 API 中提供更好的專業輸出、程式設計、電腦使用與效率。</description>
     </item>
     <item>
       <title>閱讀 EmbeddingGemma 2 技術報告。</title>
@@ -341,6 +350,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
+    </item>
+    <item>
+      <title>Astra for Law 在法律智能方面領先</title>
+      <link>https://openai.com/index/astra-law-6-2</link>
+      <guid isPermaLink="false">https://openai.com/index/astra-law-6-2</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Astra for Law 在涵蓋 24 個法律領域的發佈評測中排名第一。每位 ChatGPT Enterprise 客戶現在都可以申請存取。</description>
     </item>
     <item>
       <title>資安 AI 新創 Corma 在約 3 個月內達到 10 億美元估值</title>
@@ -716,15 +734,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/WOL_1057.jpg?w=960" alt=""></p><p>超過 180 家小型企業、在地商家與創作者創業者參加了 Meta Upskill Day 2026 在新加坡舉行的活動，這是 Meta 小型企業成長學院的一部分，新加坡國務資政兼國務部長林永樂以主賓身分出席。<br>這篇文章〈受訪的新加坡中小企業主中有 94% 表示需要更多 AI 指引〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>透過 ChatGPT for Healthcare 推動照護向前邁進的更多方式</title>
-      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
-      <guid isPermaLink="false">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>推出電腦使用代理、更完善的臨床回答，以及可跨醫療軟體運作、協助實際完成工作的全新醫療外掛程式。</description>
-    </item>
-    <item>
       <title>推進醫療團隊的電腦使用代理</title>
       <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
       <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
@@ -732,6 +741,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description/>
+    </item>
+    <item>
+      <title>透過 ChatGPT for Healthcare 推動照護向前邁進的更多方式</title>
+      <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
+      <guid isPermaLink="false">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>推出電腦使用代理、更完善的臨床回答，以及可跨醫療軟體運作、協助實際完成工作的全新醫療外掛程式。</description>
     </item>
     <item>
       <title>Apple 推出研究計畫，探索 AI 在健康領域的應用</title>
@@ -1404,15 +1422,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
-      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
-    </item>
-    <item>
       <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
       <link>https://openai.com/index/qodo-codex-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
@@ -1420,6 +1429,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
+    </item>
+    <item>
+      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
@@ -1916,24 +1934,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <media:content url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://blogs.microsoft.com/wp-content/uploads/2026/10/OMB-Digital-Sovereignty-Image-2.jpg" alt=""></p><p>在我與政府、關鍵基礎設施以及受監管產業的領導者交流中，有一項優先事項始終最為重要：讓科技發揮作用，運用在他們最重要的系統上，同時維持這些系統所需的控制權。隨著先進的雲端與 AI 功能走進公共服務、受監管流程以及關鍵...<br>〈透過更高的控制與選擇推動數位主權〉一文最早刊登於 The Official Microsoft Blog。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Terminal X 以 GPT-6.1 達到與資深投資人判斷 88.6% 一致</title>
-      <link>https://openai.com/index/terminal-x</link>
-      <guid isPermaLink="false">https://openai.com/index/terminal-x</guid>
-      <pubDate>Tue, 20 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Terminal X 的 Eval Agent 依照 54 項標準的評分規準來評估輸出，使用 GPT-6.1 Sol 可多抓到 25% 偏離基金投資授權的情況。</description>
-    </item>
-    <item>
-      <title>OpenAI 收購 Orchestra Bio</title>
-      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在收購 Orchestra Bio，將 AI 驅動的營運導入生命科學研發，協助生物製藥團隊加速藥物開發並推動新療法。</description>
     </item>
     <item>
       <title>保護代理式內部威脅</title>
