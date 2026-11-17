@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 22:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 22:33:33 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 擴大與供應鏈夥伴的承諾，以支援 AI 基礎設施建設</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-commitments-with-supply-chain-partners-to-support-ai-infrastructure-buildout</guid>
+      <pubDate>Tue, 17 Nov 2026 22:18:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>新聞摘要：與 Kinsus 及三星電機（Samsung Electro-Mechanics）達成的新協議，將支援額外的基板產能，以及現有工廠擴充生產能力。NVIDIA 的工作與...</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" alt=""></p><p>新聞摘要：與 Kinsus 及三星電機（Samsung Electro-Mechanics）達成的新協議，將支援額外的基板產能，以及現有工廠擴充生產能力。NVIDIA 的工作與...</p>]]></content:encoded>
+    </item>
     <item>
       <title>NVIDIA 公布 2027 會計年度第三季財務結果</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027</link>
@@ -1018,18 +1030,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>JioStar 的 Vijay Seshadri 解釋在 5 億使用者規模下的 AI 發現。閱讀他關於評估、護欄，以及將 AI 推向正式環境的心得。</description>
-    </item>
-    <item>
-      <title>NVIDIA 董事會獨立成員聲明</title>
-      <link>https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/statement-from-the-independent-members-of-the-nvidia-board</guid>
-      <pubDate>Tue, 10 Nov 2026 19:07:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>加州聖塔克拉拉，2026 年 11 月 10 日 NVIDIA 董事會獨立成員已聘請前紐約南區代理美國聯邦檢察官 Joon H. Kim 及其律師事務所 Wachtell，...</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202512/692f56983d6332f89cbbc58b_nvidia-logo-horiz-wht-16x9/nvidia-logo-horiz-wht-16x9_thmb.png?v=44a60e3f-c4e5-4d8a-879f-ec5121ad6f4b" alt=""></p><p>加州聖塔克拉拉，2026 年 11 月 10 日 NVIDIA 董事會獨立成員已聘請前紐約南區代理美國聯邦檢察官 Joon H. Kim 及其律師事務所 Wachtell，...</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple TV 推出全新的手語口譯功能</title>
