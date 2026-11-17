@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 14:28:37 GMT</lastBuildDate>
+    <item>
+      <title>Science Corporation 的腦科技在新一輪融資後估值達 35 億美元</title>
+      <link>https://techcrunch.com/2026/11/17/science-corporations-brain-tech-is-worth-3-5-billion-after-new-funding/</link>
+      <guid isPermaLink="false">https://techcrunch.com/?p=3189451</guid>
+      <pubDate>Tue, 17 Nov 2026 14:26:46 GMT</pubDate>
+      <source url="https://techcrunch.com/feed/">TechCrunch</source>
+      <dc:creator>TechCrunch</dc:creator>
+      <description>Science Corp 籌集了 4 億美元的 D 輪融資，以擴大其抗失明業務。</description>
+    </item>
     <item>
       <title>Nvidia 在 Jensen Huang 離任後的首個重大動作，鎖定國家安全</title>
       <link>https://techcrunch.com/2026/11/17/nvidias-first-big-move-after-jensen-huangs-exit-targets-national-security/</link>
@@ -25,7 +34,7 @@
       <description>透過 Google Arts &amp; Culture 參觀重建的地標、翻閱 18 世紀的報紙，並觀看一道歷史甜點重現生機。</description>
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Declaration_of_Independence_Rea.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Declaration_of_Independence_Rea.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Declaration_of_Independence_Rea.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Arts &amp; Culture 參觀重建的地標、翻閱 18 世紀的報紙，並觀看一道歷史甜點重現生機。</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Declaration_of_Independence_Rea.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Arts &amp;amp; Culture 參觀重建的地標、翻閱 18 世紀的報紙，並觀看一道歷史甜點重現生機。</p>]]></content:encoded>
     </item>
     <item>
       <title>Spotify 的新工具旨在阻止 deepfake 被歸因到真實藝人身上</title>
@@ -328,15 +337,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_z7aWuaD.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_z7aWuaD.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/thumbnail_z7aWuaD.max-600x600.format-webp.webp" alt=""></p><p>新的 Google AdMob AI 工具協助應用程式開發者快速修正設定、保護品牌安全，並在程式碼中自動化營利。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>OpenAI 推出新的影像分類器，並為對抗 CSAM 加入 ChatGPT 警告</title>
-      <link>https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/</link>
-      <guid isPermaLink="false">https://techcrunch.com/?p=3188489</guid>
-      <pubDate>Mon, 16 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://techcrunch.com/feed/">TechCrunch</source>
-      <dc:creator>TechCrunch</dc:creator>
-      <description>ChatGPT 會將嘗試存取 CSAM 內容的帳號停權 24 小時，作為警告</description>
     </item>
     <item>
       <title>Lambda 透過 NVIDIA 光子技術提升 AI 工廠的韌性與效率</title>
