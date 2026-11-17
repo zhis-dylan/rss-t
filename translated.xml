@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 03:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:08:17 GMT</lastBuildDate>
+    <item>
+      <title>我們在印度 Instagram 推薦內容的最新更新</title>
+      <link>https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=50964</guid>
+      <pubDate>Tue, 17 Nov 2026 03:58:09 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>我們已加強 Instagram 在印度推薦內容背後的預設保護機制，以減少不想看到的內容，並改善大家在 Instagram 上的體驗。這項工作是根據使用者告訴我們他們希望從推薦內容中看到什麼而進行的。
+〈我們在印度 Instagram 推薦內容的最新更新〉一文最早發表於 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/11/Meta-logo.png?fit=2174%2C1216" medium="image" type="image/png"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/Meta-logo.png?fit=2174%2C1216"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Meta-logo.png?fit=2174%2C1216" alt=""></p><p>我們已加強 Instagram 在印度推薦內容背後的預設保護機制，以減少不想看到的內容，並改善大家在 Instagram 上的體驗。這項工作是根據使用者告訴我們他們希望從推薦內容中看到什麼而進行的。<br>〈我們在印度 Instagram 推薦內容的最新更新〉一文最早發表於 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>推出 Direct：專為傳訊而生的 App</title>
       <link>https://about.fb.com/news/2026/11/introducing-direct-an-app-just-for-messaging/</link>
@@ -1430,19 +1443,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今日推出全新 MacBook Pro，搭載 PROLED XDR 顯示器，採用突破性的雙層 OLED 技術。</description>
-    </item>
-    <item>
-      <title>Meta 與美國五所大學合作，加速醫療與科學突破</title>
-      <link>https://about.fb.com/news/2026/10/meta-partners-with-five-us-universities-to-accelerate-medical-and-scientific-breakthroughs/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50766</guid>
-      <pubDate>Wed, 28 Oct 2026 17:00:49 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>Meta 正將超級智慧模型、研究資金以及研究人員直接合作，帶到使用我們模型來解決科學與醫學關鍵問題的美國大學。
-〈Meta 與美國五所大學合作，加速醫療與科學突破〉一文最早出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/10/Meta-Partners-With-Five-US-Universities-to-Accelerate-Medical-and-Scientific-Breakthroughs_Header.jpg?fit=1920%2C1080" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/10/Meta-Partners-With-Five-US-Universities-to-Accelerate-Medical-and-Scientific-Breakthroughs_Header.jpg?fit=1920%2C1080"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/10/Meta-Partners-With-Five-US-Universities-to-Accelerate-Medical-and-Scientific-Breakthroughs_Header.jpg?fit=1920%2C1080" alt=""></p><p>Meta 正將超級智慧模型、研究資金以及研究人員直接合作，帶到使用我們模型來解決科學與醫學關鍵問題的美國大學。<br>〈Meta 與美國五所大學合作，加速醫療與科學突破〉一文最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Microsoft Copilot harness：釋放真正多模型代理式工作的潛力</title>
