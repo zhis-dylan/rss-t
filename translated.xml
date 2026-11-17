@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 17:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:15:37 GMT</lastBuildDate>
     <item>
       <title>閱讀 EmbeddingGemma 2 技術報告。</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
@@ -89,6 +89,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_clean_aurora_straight_v2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_clean_aurora_straight_v2.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_clean_aurora_straight_v2.max-600x600.format-webp.webp" alt=""></p><p>Google Wallet 現已在美國的 iOS 上提供。把你的票券、登機證和收據都集中管理在一個安全的中心。查看詳細資訊。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>F1® 拉斯維加斯大獎賽™ 本週末在 Apple TV 直播</title>
+      <link>https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/formula-1-las-vegas-grand-prix-streams-live-on-apple-tv-this-weekend/</guid>
+      <pubDate>Tue, 17 Nov 2026 16:59:36 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>F1® 於本週末重返美國，FORMULA 1® HEINEKEN LAS VEGAS GRAND PRIX™ 2026 將在 Apple TV 直播。</description>
     </item>
     <item>
       <title>Jensen Huang 表示，若獲准回任 Nvidia 執行長，他會感到「榮幸」</title>
@@ -1931,15 +1940,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>透過 ia.i 這個對話式介面，以及 IARA 治理平台，Itaú 正將其 AI First 策略應用於客戶與員工——在巴西監管最嚴格的產業之一中。</description>
-    </item>
-    <item>
-      <title>用 iPhone Duo 開啟更多可能</title>
-      <link>https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/open-up-to-new-possibilities-with-iphone-duo/</guid>
-      <pubDate>Thu, 15 Oct 2026 12:59:28 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>從 10 月 16 日星期五太平洋時間上午 5 點起，顧客可在 apple.com 和 Apple Store app 預訂 iPhone Duo。</description>
     </item>
     <item>
       <title>Microsoft 將把 Azure Maia 系統擴展至多吉瓦級部署</title>
