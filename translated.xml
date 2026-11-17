@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:56:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:11:26 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 董事會成立國家安全與出口管制監督委員會</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-board-of-directors-establishes-national-security-and-export-control-oversight-committee</guid>
+      <pubDate>Tue, 17 Nov 2026 10:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA（NASDAQ：NVDA）今天宣布，董事會已成立國家安全與出口管制監督委員會，這是一個新的常設委員會，負責由董事會層級監督公司的國家安全政策、出口管制合規與全球貿易風險管理。</description>
+    </item>
     <item>
       <title>我們在印度 Instagram 推薦內容的最新更新</title>
       <link>https://about.fb.com/news/2026/11/an-update-on-the-content-we-recommend-on-instagram-in-india/</link>
@@ -1050,18 +1059,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg" alt=""></p><p>我們正將 AI 年齡估測技術擴展到全球，讓更多數以百萬計的青少年在 Instagram 上受到青少年帳號保護。<br>〈將青少年帳號保護擴展至全球青少年〉一文最早刊登於 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 在 MSIT-NVIDIA AI 新創合作論壇上宣布對韓國新創的新增計畫投資</title>
-      <link>https://blogs.nvidia.com/blog/korean-startup-investments-msit/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/korean-startup-investments-msit/</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:53 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>韓國科學技術資訊通信部與 NVIDIA 在 COEX 舉辦了 MSIT-NVIDIA AI 新創合作論壇。科學技術資訊通信部次官柳濟明與 NVIDIA 高層一同會見了超過 20 家韓國新創公司，涵蓋基礎模型、實體 AI、AI 基礎設施與 AI 半導體領域。NVIDIA 也宣布投資韓國新創公司 Point2，並 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/3a869738b38dcf51055748f78c9558e0/6af17de53d6332913dbbd117_korea-startups-msit-1920x1080-1-842x450/korea-startups-msit-1920x1080-1-842x450_thmb.jpg?v=d4394c7d-c7ef-4491-ad0d-ede57d00f865" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/3a869738b38dcf51055748f78c9558e0/6af17de53d6332913dbbd117_korea-startups-msit-1920x1080-1-842x450/korea-startups-msit-1920x1080-1-842x450_thmb.jpg?v=d4394c7d-c7ef-4491-ad0d-ede57d00f865"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/3a869738b38dcf51055748f78c9558e0/6af17de53d6332913dbbd117_korea-startups-msit-1920x1080-1-842x450/korea-startups-msit-1920x1080-1-842x450_thmb.jpg?v=d4394c7d-c7ef-4491-ad0d-ede57d00f865" alt=""></p><p>韓國科學技術資訊通信部與 NVIDIA 在 COEX 舉辦了 MSIT-NVIDIA AI 新創合作論壇。科學技術資訊通信部次官柳濟明與 NVIDIA 高層一同會見了超過 20 家韓國新創公司，涵蓋基礎模型、實體 AI、AI 基礎設施與 AI 半導體領域。NVIDIA 也宣布投資韓國新創公司 Point2，並 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>CodeRabbit 擴展代理式軟體開發，並交付多 20 倍成果</title>
