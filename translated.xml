@@ -5,7 +5,31 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 16:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:12:24 GMT</lastBuildDate>
+    <item>
+      <title>介紹 Stitch Loop：打造與演進產品的新方式</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Stitch Loop 是來自 Google Labs 的全天候產品代理程式，會不間斷運作，協助精實團隊打造更好的產品。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.max-600x600.format-webp.webp" alt=""></p><p>Stitch Loop 是來自 Google Labs 的全天候產品代理程式，會不間斷運作，協助精實團隊打造更好的產品。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini app 現已可於較低記憶體的 Android 裝置上使用。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Gemini app 現已支援較低記憶體的 Android 裝置。可在手機上使用 Gemini Live 與自訂圖片建立功能。立即下載 app。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini app 現已支援較低記憶體的 Android 裝置。可在手機上使用 Gemini Live 與自訂圖片建立功能。立即下載 app。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Meta 歡迎 Loblaw 成為 Muse 的首家加拿大零售合作夥伴</title>
       <link>https://about.fb.com/news/2026/11/meta-welcomes-loblaw-as-first-canadian-retail-partner-to-muse/</link>
@@ -71,6 +95,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Le Groupe Figaro 與 OpenAI 合作，透過摘要和節錄將《費加洛報》的新聞帶到 ChatGPT，並附上原始報導連結。</description>
+    </item>
+    <item>
+      <title>使用 OpenAI 模型推進晶片設計</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
     </item>
     <item>
       <title>NVIDIA 擴大與供應鏈夥伴的承諾，以支援 AI 基礎設施建設</title>
@@ -303,18 +336,6 @@
       <description>這項公告很可能是回應創作者對原創內容很容易在社群媒體平台上被複製和重新散播的疑慮，尤其是在生成式 AI 讓修改現有影片變得更容易的情況下。</description>
     </item>
     <item>
-      <title>Google Play 公布 2026 年最佳應用程式、遊戲和書籍</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" alt=""></p><p>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google Play 在亞太地區的最佳內容</title>
       <link>https://blog.google/topics/google-asia/google-play-best-2026/</link>
       <guid isPermaLink="false">https://blog.google/topics/google-asia/google-play-best-2026/</guid>
@@ -325,6 +346,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google Play 2026 年最佳獎項在亞太地區的得獎者。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Play 公布 2026 年最佳應用程式、遊戲和書籍</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" alt=""></p><p>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</p>]]></content:encoded>
     </item>
     <item>
       <title>Isomorphic Labs 募得 50 億美元，欲將藥物候選物推進臨床試驗</title>
@@ -479,15 +512,6 @@
       <description>OpenAI 如何與北約及盟國的網路安全機構合作，協助受信任的防禦方找出漏洞、測試修補並保護關鍵系統。</description>
     </item>
     <item>
-      <title>Astra for Law 在法律智能方面領先</title>
-      <link>https://openai.com/index/astra-law-6-2</link>
-      <guid isPermaLink="false">https://openai.com/index/astra-law-6-2</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Astra for Law 在涵蓋 24 個法律領域的發佈評測中排名第一。每位 ChatGPT Enterprise 客戶現在都可以申請存取。</description>
-    </item>
-    <item>
       <title>為智利推出 OpenAI</title>
       <link>https://openai.com/index/introducing-openai-for-chile</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-chile</guid>
@@ -495,6 +519,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
+    </item>
+    <item>
+      <title>Astra for Law 在法律智能方面領先</title>
+      <link>https://openai.com/index/astra-law-6-2</link>
+      <guid isPermaLink="false">https://openai.com/index/astra-law-6-2</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Astra for Law 在涵蓋 24 個法律領域的發佈評測中排名第一。每位 ChatGPT Enterprise 客戶現在都可以申請存取。</description>
     </item>
     <item>
       <title>資安 AI 新創 Corma 在約 3 個月內達到 10 億美元估值</title>
@@ -746,18 +779,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" alt=""></p><p>NVIDIA 今日推出 NVIDIA Nemotron for Science，結合其 NVIDIA Nemotron™ 3.5 Super VL 開放模型的科學應用、一個新的開放化學資料集，以及後訓練配方，協助研究人員打造用於科學發現的專用 agents。</p>]]></content:encoded>
     </item>
     <item>
-      <title>將筆記、研究與來源轉換成互動式網站，使用 Gemini Notebook。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-notebook/interactive-sites/</guid>
-      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini Notebook 現在可將你的研究轉換成互動式網站。和 Google 一起建立專案追蹤器與視覺化儀表板。今天就建立你的網站。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/blog_hero_periodic_table3_2784x.max-600x600.format-webp.webp" alt=""></p><p>Gemini Notebook 現在可將你的研究轉換成互動式網站。和 Google 一起建立專案追蹤器與視覺化儀表板。今天就建立你的網站。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google TPU 的全新 AI 訓練效能基準測試</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</guid>
@@ -768,18 +789,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" alt=""></p><p>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Ask Maps 即將登陸歐洲。</title>
-      <link>https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/maps/ask-maps-is-coming-to-europe/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Ask Maps 是 Google 地圖十多年來最大的更新。它由全球最新鮮的地圖和 Gemini 模型驅動，能回答複雜的、真實世界的地圖相關問題…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ask_Maps_hero_RItiKwJ.max-600x600.format-webp.webp" alt=""></p><p>Ask Maps 是 Google 地圖十多年來最大的更新。它由全球最新鮮的地圖和 Gemini 模型驅動，能回答複雜的、真實世界的地圖相關問題…</p>]]></content:encoded>
     </item>
     <item>
       <title>前沿科學：科學家如何使用 ChatGPT</title>
@@ -1429,15 +1438,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>以更高的漏洞獎金獎勵防禦者</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
-    </item>
-    <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
       <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
@@ -1445,6 +1445,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
+    </item>
+    <item>
+      <title>以更高的漏洞獎金獎勵防禦者</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
@@ -1474,15 +1483,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
-      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
-    </item>
-    <item>
       <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
       <link>https://openai.com/index/qodo-codex-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
@@ -1490,6 +1490,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
+    </item>
+    <item>
+      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
@@ -1901,15 +1910,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Patch the Planet 連結資安研究人員、維護者和事件回應人員，協助處理開源軟體中的關鍵漏洞。</description>
-    </item>
-    <item>
-      <title>我們如何打造 ChatGPT 新的廣告堆疊，以兼顧使用者信任與相關性</title>
-      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
-      <guid isPermaLink="false">https://openai.com/index/building-chatgpt-ad-stack</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>了解 OpenAI 如何打造 ChatGPT 由 LLM 驅動的廣告堆疊，以理解對話意圖、讓廣告與答案分開，並大規模投放相關廣告。</description>
     </item>
     <item>
       <title>運用數千個 AI 智慧代理找出生物資料中的新線索</title>
