@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 18:13:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 18:28:21 GMT</lastBuildDate>
     <item>
       <title>我們更新商業服務條款的做法</title>
       <link>https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/</link>
@@ -49,6 +49,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Las_Vegas_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Las_Vegas_hero.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Las_Vegas_hero.max-600x600.format-webp.webp" alt=""></p><p>透過我們的獎勵案例和「使用」分頁解鎖數位福利，或加入由 Google Play 在拉斯維加斯現場舉辦的 The Auction。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Genie 4 現已開放使用</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正向符合資格的 Google AI Ultra 訂閱者推出全新的 Project Genie 體驗，開放使用我們新的 Genie 4 世界模型。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ProjectGenie_Thumbnail_.max-600x600.format-webp.webp" alt=""></p><p>我們正向符合資格的 Google AI Ultra 訂閱者推出全新的 Project Genie 體驗，開放使用我們新的 Genie 4 世界模型。</p>]]></content:encoded>
     </item>
     <item>
       <title>介紹 Stitch Loop：打造與演進產品的新方式</title>
@@ -410,18 +422,6 @@
       <description>這項公告很可能是回應創作者對原創內容很容易在社群媒體平台上被複製和重新散播的疑慮，尤其是在生成式 AI 讓修改現有影片變得更容易的情況下。</description>
     </item>
     <item>
-      <title>Google Play 公布 2026 年最佳應用程式、遊戲和書籍</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" alt=""></p><p>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Google Play 在亞太地區的最佳內容</title>
       <link>https://blog.google/topics/google-asia/google-play-best-2026/</link>
       <guid isPermaLink="false">https://blog.google/topics/google-asia/google-play-best-2026/</guid>
@@ -432,6 +432,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google Play 2026 年最佳獎項在亞太地區的得獎者。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Google Play 公布 2026 年最佳應用程式、遊戲和書籍</title>
+      <link>https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</guid>
+      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" alt=""></p><p>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</p>]]></content:encoded>
     </item>
     <item>
       <title>Isomorphic Labs 募得 50 億美元，欲將藥物候選物推進臨床試驗</title>
@@ -689,18 +701,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Apple 最新的 iOS 27.3 開發者測試版為 iPhone Duo 引入了有限的臉部解鎖功能，並帶來其他改進。</description>
-    </item>
-    <item>
-      <title>Gemini 應用程式正在推出各地區語音。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/regional-voices/</guid>
-      <pubDate>Mon, 16 Nov 2026 18:45:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Gemini 現在在 Android 和 iOS 上提供 66 種地區語音。為你的應用程式互動選擇自然、在地的方言。今天就挑選你最喜歡的語音。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/super-g_1.max-600x600.format-webp.webp" alt=""></p><p>Gemini 現在在 Android 和 iOS 上提供 66 種地區語音。為你的應用程式互動選擇自然、在地的方言。今天就挑選你最喜歡的語音。</p>]]></content:encoded>
     </item>
     <item>
       <title>擴大科學家取得 AI 的管道</title>
