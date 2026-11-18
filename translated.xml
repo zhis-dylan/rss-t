@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 17:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 17:27:34 GMT</lastBuildDate>
     <item>
       <title>介紹 Stitch Loop：打造與演進產品的新方式</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/</link>
@@ -29,6 +29,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini app 現已支援較低記憶體的 Android 裝置。可在手機上使用 Gemini Live 與自訂圖片建立功能。立即下載 app。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>用 11 月的 Demand Gen Drop 贏得年底購物旺季。</title>
+      <link>https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>把握 YouTube 11 月 Demand Gen Drop，善用年底購物高峰。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp" alt=""></p><p>把握 YouTube 11 月 Demand Gen Drop，善用年底購物高峰。</p>]]></content:encoded>
     </item>
     <item>
       <title>Meta 歡迎 Loblaw 成為 Muse 的首家加拿大零售合作夥伴</title>
@@ -189,18 +201,6 @@
       <description>介紹 GPT‑6.2 Astra 與 Sol，在更低成本下，於 ChatGPT Work、Codex 和 API 中提供更好的專業輸出、程式設計、電腦使用與效率。</description>
     </item>
     <item>
-      <title>閱讀 EmbeddingGemma 2 技術報告。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" alt=""></p><p>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>讓 Gemini 幫你做事</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</guid>
@@ -211,6 +211,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp" alt=""></p><p>Gemini 中的 Tasks 現已在六個國家免費提供，並在美國推出新功能，以及更深入整合 Google Workspace，幫你完成事情。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>閱讀 EmbeddingGemma 2 技術報告。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</guid>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" alt=""></p><p>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</p>]]></content:encoded>
     </item>
     <item>
       <title>10 個州與 Google 攜手推出免費 AI 訓練</title>
@@ -777,18 +789,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/bbee83cc9133eb5438c52eab3fd409e2/6af8bac03d6332a556233545_nvidia-nemotron-for-science/nvidia-nemotron-for-science_thmb.jpg?v=3ae01a42-fd11-4792-b9a1-a25649fd94c1" alt=""></p><p>NVIDIA 今日推出 NVIDIA Nemotron for Science，結合其 NVIDIA Nemotron™ 3.5 Super VL 開放模型的科學應用、一個新的開放化學資料集，以及後訓練配方，協助研究人員打造用於科學發現的專用 agents。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google TPU 的全新 AI 訓練效能基準測試</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/training-performance-benchmarks-tpus/</guid>
-      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Ironwood_board.max-600x600.format-webp.webp" alt=""></p><p>在最新一輪的 MLPerf Training v6.1 基準測試中，Google Cloud 公布了 10 項結果，涵蓋第七代 Ironwood TPU 與 NVIDIA Grace Blackwell GPU，範圍涵蓋 f…</p>]]></content:encoded>
     </item>
     <item>
       <title>前沿科學：科學家如何使用 ChatGPT</title>
