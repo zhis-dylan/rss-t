@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 20:29:22 GMT</lastBuildDate>
     <item>
       <title>我們更新商業服務條款的做法</title>
       <link>https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/</link>
@@ -165,13 +165,22 @@
       <description>了解 Codex 如何在你的電腦上執行命令，同時強制套用由你控制的檔案系統與網路限制，適用於 macOS、Linux 和 Windows。</description>
     </item>
     <item>
-      <title>沉默的共識</title>
-      <link>https://openai.com/index/the-silent-consensus</link>
-      <guid isPermaLink="false">https://openai.com/index/the-silent-consensus</guid>
+      <title>管理前沿 AI 風險：從訓練到部署</title>
+      <link>https://openai.com/index/managing-frontier-ai-risk</link>
+      <guid isPermaLink="false">https://openai.com/index/managing-frontier-ai-risk</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 說明如何透過模型對齊、沙箱化、阻擋式防護措施與監控，從訓練到部署管理前沿 AI 風險。</description>
+    </item>
+    <item>
+      <title>Le Groupe Figaro 與 OpenAI 合作，將《費加洛報》的新聞帶到 ChatGPT</title>
+      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+      <guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 戰略未來主管 Dean Ball 探討更強大的 AI 可能如何重塑社會，以及人們如何維持對自身制度的掌控。</description>
+      <description>Le Groupe Figaro 與 OpenAI 合作，透過摘要和節錄將《費加洛報》的新聞帶到 ChatGPT，並附上原始報導連結。</description>
     </item>
     <item>
       <title>使用 OpenAI 模型推進晶片設計</title>
@@ -183,13 +192,13 @@
       <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
     </item>
     <item>
-      <title>Le Groupe Figaro 與 OpenAI 合作，將《費加洛報》的新聞帶到 ChatGPT</title>
-      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-      <guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+      <title>沉默的共識</title>
+      <link>https://openai.com/index/the-silent-consensus</link>
+      <guid isPermaLink="false">https://openai.com/index/the-silent-consensus</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Le Groupe Figaro 與 OpenAI 合作，透過摘要和節錄將《費加洛報》的新聞帶到 ChatGPT，並附上原始報導連結。</description>
+      <description>OpenAI 戰略未來主管 Dean Ball 探討更強大的 AI 可能如何重塑社會，以及人們如何維持對自身制度的掌控。</description>
     </item>
     <item>
       <title>NVIDIA 擴大與供應鏈夥伴的承諾，以支援 AI 基礎設施建設</title>
@@ -598,15 +607,6 @@
       <description>OpenAI 如何與北約及盟國的網路安全機構合作，協助受信任的防禦方找出漏洞、測試修補並保護關鍵系統。</description>
     </item>
     <item>
-      <title>為智利推出 OpenAI</title>
-      <link>https://openai.com/index/introducing-openai-for-chile</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-chile</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
-    </item>
-    <item>
       <title>Astra for Law 在法律智能方面領先</title>
       <link>https://openai.com/index/astra-law-6-2</link>
       <guid isPermaLink="false">https://openai.com/index/astra-law-6-2</guid>
@@ -614,6 +614,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Astra for Law 在涵蓋 24 個法律領域的發佈評測中排名第一。每位 ChatGPT Enterprise 客戶現在都可以申請存取。</description>
+    </item>
+    <item>
+      <title>為智利推出 OpenAI</title>
+      <link>https://openai.com/index/introducing-openai-for-chile</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-chile</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
     </item>
     <item>
       <title>資安 AI 新創 Corma 在約 3 個月內達到 10 億美元估值</title>
@@ -869,15 +878,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/WOL_1057.jpg?fit=6048%2C4032" alt=""></p><p>超過 180 家小型企業、在地商家與創作者創業者參加了 Meta Upskill Day 2026 在新加坡舉行的活動，這是 Meta 小型企業成長學院的一部分，新加坡國務資政兼國務部長林永樂以主賓身分出席。<br>這篇文章〈受訪的新加坡中小企業主中有 94% 表示需要更多 AI 指引〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>推進醫療團隊的電腦使用代理</title>
-      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description/>
-    </item>
-    <item>
       <title>透過 ChatGPT for Healthcare 推動照護向前邁進的更多方式</title>
       <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
       <guid isPermaLink="false">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
@@ -885,6 +885,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>推出電腦使用代理、更完善的臨床回答，以及可跨醫療軟體運作、協助實際完成工作的全新醫療外掛程式。</description>
+    </item>
+    <item>
+      <title>推進醫療團隊的電腦使用代理</title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description/>
     </item>
     <item>
       <title>Apple 推出研究計畫，探索 AI 在健康領域的應用</title>
@@ -1508,15 +1517,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
-    </item>
-    <item>
       <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
       <link>https://openai.com/index/dan-driscoll-joins-openai</link>
       <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
@@ -1524,6 +1524,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
+    </item>
+    <item>
+      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
@@ -1908,15 +1917,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>AT&amp;T 正與 OpenAI 合作，讓法律知識更容易取得。了解其 LegalEdge 團隊如何重新思考案件受理並擴展法律判斷。</description>
-    </item>
-    <item>
-      <title>ChatGPT 廣告擴展至 26 個新國家，已有超過 100,000 名廣告主使用這個平台</title>
-      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
-      <pubDate>Wed, 21 Oct 2026 13:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>從在地商家到全球品牌，現在有更多廣告主可以在使用者於 ChatGPT 中探索、比較並決定要買什麼時觸及他們。</description>
     </item>
     <item>
       <title>OpenAI 模型即將登陸 Google Cloud</title>
