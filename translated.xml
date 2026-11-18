@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:29:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:44:59 GMT</lastBuildDate>
+    <item>
+      <title>介紹 Gemini 4 Neon</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</guid>
+      <pubDate>Wed, 18 Nov 2026 21:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>今天，我們要介紹 Gemini 4 Neon</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Neon</p>]]></content:encoded>
+    </item>
     <item>
       <title>我們更新商業服務條款的做法</title>
       <link>https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/</link>
@@ -183,15 +195,6 @@
       <description>OpenAI 戰略未來主管 Dean Ball 探討更強大的 AI 可能如何重塑社會，以及人們如何維持對自身制度的掌控。</description>
     </item>
     <item>
-      <title>使用 OpenAI 模型推進晶片設計</title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
-    </item>
-    <item>
       <title>Le Groupe Figaro 與 OpenAI 合作，將《費加洛報》的新聞帶到 ChatGPT</title>
       <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
       <guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
@@ -199,6 +202,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Le Groupe Figaro 與 OpenAI 合作，透過摘要和節錄將《費加洛報》的新聞帶到 ChatGPT，並附上原始報導連結。</description>
+    </item>
+    <item>
+      <title>使用 OpenAI 模型推進晶片設計</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
     </item>
     <item>
       <title>NVIDIA 擴大與供應鏈夥伴的承諾，以支援 AI 基礎設施建設</title>
@@ -528,18 +540,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>Hank Green 與執行長 Leslie Morgan 一起著手打造他希望自己的孩子能擁有的影片平台。</description>
-    </item>
-    <item>
-      <title>線上慶祝 Colonial Williamsburg 百年</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/arts-culture/colonial-williamsburg-centennial/</guid>
-      <pubDate>Tue, 17 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過 Google Arts &amp; Culture 參觀重建的地標、翻閱 18 世紀的報紙，並觀看一道歷史甜點重現生機。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Declaration_of_Independence_Rea.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Declaration_of_Independence_Rea.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Declaration_of_Independence_Rea.max-600x600.format-webp.webp" alt=""></p><p>透過 Google Arts &amp;amp; Culture 參觀重建的地標、翻閱 18 世紀的報紙，並觀看一道歷史甜點重現生機。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple Podcasts 將《Baby, this is Keke Palmer》評為 2026 年度節目</title>
