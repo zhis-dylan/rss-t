@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 18 Nov 2026 21:14:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:29:48 GMT</lastBuildDate>
     <item>
       <title>我們更新商業服務條款的做法</title>
       <link>https://about.fb.com/news/2026/11/our-approach-to-updating-our-commercial-terms-of-service/</link>
@@ -174,13 +174,13 @@
       <description>OpenAI 說明如何透過模型對齊、沙箱化、阻擋式防護措施與監控，從訓練到部署管理前沿 AI 風險。</description>
     </item>
     <item>
-      <title>Le Groupe Figaro 與 OpenAI 合作，將《費加洛報》的新聞帶到 ChatGPT</title>
-      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-      <guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+      <title>沉默的共識</title>
+      <link>https://openai.com/index/the-silent-consensus</link>
+      <guid isPermaLink="false">https://openai.com/index/the-silent-consensus</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>Le Groupe Figaro 與 OpenAI 合作，透過摘要和節錄將《費加洛報》的新聞帶到 ChatGPT，並附上原始報導連結。</description>
+      <description>OpenAI 戰略未來主管 Dean Ball 探討更強大的 AI 可能如何重塑社會，以及人們如何維持對自身制度的掌控。</description>
     </item>
     <item>
       <title>使用 OpenAI 模型推進晶片設計</title>
@@ -192,13 +192,13 @@
       <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
     </item>
     <item>
-      <title>沉默的共識</title>
-      <link>https://openai.com/index/the-silent-consensus</link>
-      <guid isPermaLink="false">https://openai.com/index/the-silent-consensus</guid>
+      <title>Le Groupe Figaro 與 OpenAI 合作，將《費加洛報》的新聞帶到 ChatGPT</title>
+      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+      <guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 戰略未來主管 Dean Ball 探討更強大的 AI 可能如何重塑社會，以及人們如何維持對自身制度的掌控。</description>
+      <description>Le Groupe Figaro 與 OpenAI 合作，透過摘要和節錄將《費加洛報》的新聞帶到 ChatGPT，並附上原始報導連結。</description>
     </item>
     <item>
       <title>NVIDIA 擴大與供應鏈夥伴的承諾，以支援 AI 基礎設施建設</title>
@@ -1472,15 +1472,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
-    </item>
-    <item>
       <title>以更高的漏洞獎金獎勵防禦者</title>
       <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
       <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
@@ -1488,6 +1479,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
+    </item>
+    <item>
+      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
