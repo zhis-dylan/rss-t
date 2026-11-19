@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 18:24:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 18:40:07 GMT</lastBuildDate>
+    <item>
+      <title>在 Gemini API 中推出 Tool Retrieval</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/</guid>
+      <pubDate>Thu, 19 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過 Tool Retrieval，讓你的代理程式可以存取數百種工具，同時使用更少的 token；現已在 Gemini API 中開放預覽。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp" alt=""></p><p>透過 Tool Retrieval，讓你的代理程式可以存取數百種工具，同時使用更少的 token；現已在 Gemini API 中開放預覽。</p>]]></content:encoded>
+    </item>
     <item>
       <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
@@ -308,18 +320,6 @@
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202610/d5d970c8ada6138ba8e80b3e6498e1ef/6ae20f433d63324a259dfd4e_nv-blog-1280x680-2-1-842x450/nv-blog-1280x680-2-1-842x450_thmb.jpg?v=97dd4b9c-2cd4-42e5-918d-32260cb77bcb" alt=""></p><p>來自 ASUS、Dell 和 MSI 的全新 NVIDIA RTX Spark 精巧桌上型電腦今日上市，將本地 AI 代理、影像與影片生成，以及模型微調帶到專用的 Windows PC。這些系統最高配備 128GB 統一記憶體與 NVIDIA 的 AI 軟體堆疊，能在 RTX 加速的創作與開發工作之外，為更大型的本地模型提供空間 […]</p>]]></content:encoded>
     </item>
     <item>
-      <title>保護你上網安全的資安秘訣和工具</title>
-      <link>https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/</guid>
-      <pubDate>Wed, 18 Nov 2026 14:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>探索這個合集，看看 Google 的資安秘訣和工具如何保護你的帳戶與資訊安全。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cybersecurity_collection.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cybersecurity_collection.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cybersecurity_collection.max-600x600.format-webp.webp" alt=""></p><p>探索這個合集，看看 Google 的資安秘訣和工具如何保護你的帳戶與資訊安全。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>透過 11 月的 Google Marketing Platform 更新，接觸新的年終購物族群，帶來最佳投資報酬率。</title>
       <link>https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/</link>
       <guid isPermaLink="false">https://blog.google/products/marketingplatform/360/google-marketing-platform-drop-november/</guid>
@@ -330,6 +330,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ss_0108-GMP_Drop_November___Des.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ss_0108-GMP_Drop_November___Des.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ss_0108-GMP_Drop_November___Des.max-600x600.format-webp.webp" alt=""></p><p>透過 2026 年 11 月的 Google Marketing Platform 更新，提升年終投資報酬率，包括 Spotify 受眾、Pinterest 庫存，以及 Loblaw 整合。了解詳情。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>保護你上網安全的資安秘訣和工具</title>
+      <link>https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/safety-security/cybersecurity-tips/</guid>
+      <pubDate>Wed, 18 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>探索這個合集，看看 Google 的資安秘訣和工具如何保護你的帳戶與資訊安全。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cybersecurity_collection.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cybersecurity_collection.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cybersecurity_collection.max-600x600.format-webp.webp" alt=""></p><p>探索這個合集，看看 Google 的資安秘訣和工具如何保護你的帳戶與資訊安全。</p>]]></content:encoded>
     </item>
     <item>
       <title>認識 2026 App Store Awards 入圍名單</title>
@@ -414,18 +426,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/84535693a1e9e3e78bc4527fb059d368/6afcc4ea3d6332640221300a_nvidia-supply-chain-partners/nvidia-supply-chain-partners_thmb.jpg?v=0254b9a9-6c2c-455b-9cfa-df7b2323fa95" alt=""></p><p>新聞摘要：與 Kinsus 及三星電機（Samsung Electro-Mechanics）達成的新協議，將支援額外的基板產能，以及現有工廠擴充生產能力。NVIDIA 的工作與...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>基因組定序如何幫助研究人員更深入了解疾病</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-disease-research/</guid>
-      <pubDate>Tue, 17 Nov 2026 22:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>一位 Google DeepMind 研究科學家說明 AlphaGenome 和 AlphaGenome Atlas 工具背後的潛力。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_ZCQxfQQ.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_ZCQxfQQ.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_ZCQxfQQ.max-600x600.format-webp.webp" alt=""></p><p>一位 Google DeepMind 研究科學家說明 AlphaGenome 和 AlphaGenome Atlas 工具背後的潛力。</p>]]></content:encoded>
     </item>
     <item>
       <title>NVIDIA 公布 2027 會計年度第三季財務結果</title>
