@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 20:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 20:27:45 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 與 Microsoft 將加速運算從 Azure 擴展到 Windows PC</title>
+      <link>https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/</guid>
+      <pubDate>Thu, 19 Nov 2026 20:00:15 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 與 Microsoft 正在擴大雙方的全堆疊合作，協助組織建置、客製化並部署智慧應用程式——從 Azure 上的下一代基礎架構，到工業系統與 Windows PC。 在 Microsoft Ignite 期間，兩家公司正在擴大對由 NVIDIA Vera Rubin NVL72 系統驅動的 Azure 虛擬機器的存取，並新增客戶可用性到 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/a6297761eae528f1a18e87707b33e918/6aff58ca3d63323c3f3a4de8_nvidia-microsoft-842x450/nvidia-microsoft-842x450_thmb.jpg?v=be49bde6-39b2-4035-bd54-25b3ee2894a7" medium="image" type="image/png"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/a6297761eae528f1a18e87707b33e918/6aff58ca3d63323c3f3a4de8_nvidia-microsoft-842x450/nvidia-microsoft-842x450_thmb.jpg?v=be49bde6-39b2-4035-bd54-25b3ee2894a7"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/a6297761eae528f1a18e87707b33e918/6aff58ca3d63323c3f3a4de8_nvidia-microsoft-842x450/nvidia-microsoft-842x450_thmb.jpg?v=be49bde6-39b2-4035-bd54-25b3ee2894a7" alt=""></p><p>NVIDIA 與 Microsoft 正在擴大雙方的全堆疊合作，協助組織建置、客製化並部署智慧應用程式——從 Azure 上的下一代基礎架構，到工業系統與 Windows PC。 在 Microsoft Ignite 期間，兩家公司正在擴大對由 NVIDIA Vera Rubin NVL72 系統驅動的 Azure 虛擬機器的存取，並新增客戶可用性到 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>我們如何在大規模下檢驗量子力學最深層的特性之一。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/quantum-computing/putting-one-of-quantum-mechanics-deepest-features-to-test-at-scale/</link>
@@ -1099,18 +1111,6 @@
       <dc:creator>The Official Microsoft Blog</dc:creator>
       <description>成果遍地開花，但規模化的價值卻沒有，而這正是今年由 Microsoft 委託 IDC 進行的研究想要釐清的落差。在我們委託 IDC 進行研究的第四年，來自 28 個產業的超過 5,200 位資深 IT 與商務主管，分享了當 AI 擴大規模時，該如何最大化價值。最明確的啟示……
 〈在不失去控制的情況下擴大 AI 價值：Frontier Firms 的經驗〉一文最早出現在 The Official Microsoft Blog。</description>
-    </item>
-    <item>
-      <title>雲端的新曙光：《Warhammer 40,000: Dawn of War IV》即將登陸 GeForce NOW</title>
-      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-warhammer-dawn-of-war-iv-coming/</guid>
-      <pubDate>Thu, 12 Nov 2026 14:00:59 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在本週 GFN Thursday 集結隊伍。《Warhammer 40,000: Dawn of War IV》即將登陸 GeForce NOW，讓玩家能透過雲端遊戲體驗 Kronus 之戰。未來還有更多內容，NVIDIA DLSS 5 技術將支援《War Thunder》和《Where Winds Meet》。同時，《Dragon’s Dogma 2: Dark Arisen》帶來新的故事 […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/cb5b379857fb055399ba19241ee5089f/6af5c6bc3d6332081653aba2_gfn-thursday-11-12-blog-1920x1080-logo-842x450/gfn-thursday-11-12-blog-1920x1080-logo-842x450_thmb.jpg?v=25f4c7b8-a838-40e0-bb4f-acbf9541d4cf" alt=""></p><p>在本週 GFN Thursday 集結隊伍。《Warhammer 40,000: Dawn of War IV》即將登陸 GeForce NOW，讓玩家能透過雲端遊戲體驗 Kronus 之戰。未來還有更多內容，NVIDIA DLSS 5 技術將支援《War Thunder》和《Where Winds Meet》。同時，《Dragon’s Dogma 2: Dark Arisen》帶來新的故事 […]</p>]]></content:encoded>
     </item>
     <item>
       <title>Meta 的新協議為資料中心供應鏈帶來潔淨製造</title>
