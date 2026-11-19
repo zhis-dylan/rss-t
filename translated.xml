@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 06:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:18:49 GMT</lastBuildDate>
+    <item>
+      <title>Forum，一款專為 Facebook Groups 設計的 App，現已在印尼推出</title>
+      <link>https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=51009</guid>
+      <pubDate>Thu, 19 Nov 2026 06:05:13 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>Forum 現已在印尼上線，將 Facebook Groups 整合到一款專屬 App 中，讓加入對話、尋找解答和探索興趣更容易。
+這篇〈Forum，一款專為 Facebook Groups 設計的 App，現已在印尼推出〉最早出現在 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Forum_-A-Dedicated-App-for-Facebook-Groups_Thumb.jpg?fit=1440%2C1080" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Forum_-A-Dedicated-App-for-Facebook-Groups_Thumb.jpg?fit=1440%2C1080"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Forum_-A-Dedicated-App-for-Facebook-Groups_Thumb.jpg?fit=1440%2C1080" alt=""></p><p>Forum 現已在印尼上線，將 Facebook Groups 整合到一款專屬 App 中，讓加入對話、尋找解答和探索興趣更容易。<br>這篇〈Forum，一款專為 Facebook Groups 設計的 App，現已在印尼推出〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>介紹 Gemini 4 Neon</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
@@ -1322,19 +1335,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Cult.fit 正在使用 Codex 協助各部門團隊打造工具、加快速度，並改變工作完成的方式。</description>
-    </item>
-    <item>
-      <title>讓你的 Muse 開口說話</title>
-      <link>https://about.fb.com/news/2026/11/introducing-muse-ai-voice-expressive-avatars/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50811</guid>
-      <pubDate>Thu, 05 Nov 2026 18:30:58 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們正在為 Muse app 推出語音和表情豐富的虛擬化身，讓你能以一種全新、自然的方式與你的 Muse 互動。
-這篇〈讓你的 Muse 開口說話〉最早出現在 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/11/Were-rolling-out-voice-and-expressive-avatars-in-the-Muse-app_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/Were-rolling-out-voice-and-expressive-avatars-in-the-Muse-app_Thumbnail.gif?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Were-rolling-out-voice-and-expressive-avatars-in-the-Muse-app_Thumbnail.gif?fit=890%2C501" alt=""></p><p>我們正在為 Muse app 推出語音和表情豐富的虛擬化身，讓你能以一種全新、自然的方式與你的 Muse 互動。<br>這篇〈讓你的 Muse 開口說話〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>澳洲大學正在培養 AI 原生畢業生</title>
