@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 17:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:24:25 GMT</lastBuildDate>
     <item>
       <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
@@ -53,6 +53,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
     </item>
     <item>
       <title>打造策略性的 A/B 測試，提升廣告成效。</title>
@@ -417,18 +429,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_thmb.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_thmb.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/20224/628c2a47b3aed32797213f6c_voyager-exterior-sign-2/voyager-exterior-sign-2_thmb.jpg?v=1829ac3c-85ac-4929-8c67-5994c15c70c9" alt=""></p><p>營收達 1,158 億美元，較去年同期成長 103% 資料中心營收達 1,076 億美元，較去年同期成長 110% Vera Rubin NVL72，有史以來最具多功能且最先進的運算平台 ...</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>看看 5 位開發者用 Gemini 4 Carbon 做了什麼</title>
-      <link>https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-4-carbon-builders/</guid>
-      <pubDate>Tue, 17 Nov 2026 21:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看 5 位開發者用 Gemini 4 Carbon 做了什麼。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_buildersGemini_4_Carbon_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_buildersGemini_4_Carbon_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/5_buildersGemini_4_Carbon_hero.max-600x600.format-webp.webp" alt=""></p><p>看看 5 位開發者用 Gemini 4 Carbon 做了什麼。</p>]]></content:encoded>
     </item>
     <item>
       <title>Ignite 2026：打造前沿生態系統</title>
