@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 15:23:12 GMT</lastBuildDate>
+    <item>
+      <title>以正確的方式打造：在 The Dalles 20 年的經驗教訓</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們在俄勒岡州 The Dalles 的第一座資料中心滿 20 年了，我們回顧這段歷程，並宣布對當地社區的新投資。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp" alt=""></p><p>我們在俄勒岡州 The Dalles 的第一座資料中心滿 20 年了，我們回顧這段歷程，並宣布對當地社區的新投資。</p>]]></content:encoded>
+    </item>
     <item>
       <title>佳節串流與省荷包：GeForce NOW Black Friday 優惠登場</title>
       <link>https://blogs.nvidia.com/blog/geforce-now-thursday-black-friday-2026/</link>
@@ -421,30 +433,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_S0_Hero_-_Desktop_copy.max-600x600.format-webp.webp" alt=""></p><p>Google Home 更新帶來免鑰匙進出、更聰明的音訊提醒，以及更快的 Gemini 效能。看看 2026 年 11 月更新有哪些新內容。</p>]]></content:encoded>
     </item>
     <item>
-      <title>任何人都能在 Google Vids 中免費建立自己的個人虛擬分身。</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>免費在 Google Vids 中建立自訂虛擬分身。使用自拍照和錄音來設計你的數位形象，為影片配音。今天就試試看。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" alt=""></p><p>免費在 Google Vids 中建立自訂虛擬分身。使用自拍照和錄音來設計你的數位形象，為影片配音。今天就試試看。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Google Wallet 現已在美國的 iOS 上提供。</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Wallet 現已在美國的 iOS 上提供。把你的票券、登機證和收據都集中管理在一個安全的中心。查看詳細資訊。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_clean_aurora_straight_v2.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_clean_aurora_straight_v2.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_clean_aurora_straight_v2.max-600x600.format-webp.webp" alt=""></p><p>Google Wallet 現已在美國的 iOS 上提供。把你的票券、登機證和收據都集中管理在一個安全的中心。查看詳細資訊。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>閱讀 EmbeddingGemma 2 技術報告。</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</guid>
@@ -455,6 +443,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" alt=""></p><p>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>任何人都能在 Google Vids 中免費建立自己的個人虛擬分身。</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/</guid>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>免費在 Google Vids 中建立自訂虛擬分身。使用自拍照和錄音來設計你的數位形象，為影片配音。今天就試試看。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" alt=""></p><p>免費在 Google Vids 中建立自訂虛擬分身。使用自拍照和錄音來設計你的數位形象，為影片配音。今天就試試看。</p>]]></content:encoded>
     </item>
     <item>
       <title>F1® 拉斯維加斯大獎賽™ 本週末在 Apple TV 直播</title>
