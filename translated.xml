@@ -5,7 +5,28 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:08:39 GMT</lastBuildDate>
+    <item>
+      <title>看看部分來自 Google Flow 和 Flow Music Sessions 藝術家的作品</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/</guid>
+      <pubDate>Thu, 19 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>探索我們最新駐村計畫中 Flow 和 Flow Music Sessions 藝術家的作品。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ss_Seagull_still_1.1.1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ss_Seagull_still_1.1.1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_ss_Seagull_still_1.1.1.max-600x600.format-webp.webp" alt=""></p><p>探索我們最新駐村計畫中 Flow 和 Flow Music Sessions 藝術家的作品。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Apple TV 成為 F1 ACADEMY™ 這項全女性賽車系列的新美國主場</title>
+      <link>https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/</link>
+      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/11/apple-tv-becomes-the-new-us-home-of-f1-academy-the-all-female-racing-series/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:59:07 GMT</pubDate>
+      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
+      <dc:creator>Apple Newsroom</dc:creator>
+      <description>Apple 與 F1 ACADEMY™ 今天宣布，這項全女性賽車系列將自 2027 年起在美國的 Apple TV 上串流播放。</description>
+    </item>
     <item>
       <title>以正確的方式打造：在 The Dalles 20 年的經驗教訓</title>
       <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/</link>
@@ -431,18 +452,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_S0_Hero_-_Desktop_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_S0_Hero_-_Desktop_copy.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_S0_Hero_-_Desktop_copy.max-600x600.format-webp.webp" alt=""></p><p>Google Home 更新帶來免鑰匙進出、更聰明的音訊提醒，以及更快的 Gemini 效能。看看 2026 年 11 月更新有哪些新內容。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>閱讀 EmbeddingGemma 2 技術報告。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" alt=""></p><p>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</p>]]></content:encoded>
     </item>
     <item>
       <title>任何人都能在 Google Vids 中免費建立自己的個人虛擬分身。</title>
@@ -1935,15 +1944,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>AT&amp;T 正與 OpenAI 合作，讓法律知識更容易取得。了解其 LegalEdge 團隊如何重新思考案件受理並擴展法律判斷。</description>
-    </item>
-    <item>
-      <title>Apple 公布 2026 年的 Designers of Tomorrow</title>
-      <link>https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/</link>
-      <guid isPermaLink="false">https://www.apple.com/newsroom/2026/10/apple-unveils-the-2026-designers-of-tomorrow/</guid>
-      <pubDate>Tue, 20 Oct 2026 14:59:22 GMT</pubDate>
-      <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
-      <dc:creator>Apple Newsroom</dc:creator>
-      <description>Apple 的 Designers of Tomorrow 展示活動回歸，聚焦新銳人才中的最佳作品，這次主題是 presence。</description>
     </item>
     <item>
       <title>透過更高的控制與選擇推動數位主權</title>
