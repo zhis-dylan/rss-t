@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 17:39:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 17:54:42 GMT</lastBuildDate>
     <item>
       <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
@@ -156,6 +156,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp" alt=""></p><p>了解我們新的水資源管理承諾、倡議，以及最近的 Water Replenishment Projects 資訊徵詢。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>OpenAI 的 Performance Factory 如何讓 ChatGPT 保持快速</title>
+      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+      <guid isPermaLink="false">https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>了解 OpenAI 如何打造 Performance Factory，這是一套由 Codex 驅動的工作流程系統，能找出並修正效能問題，協助維持 ChatGPT 的速度。</description>
     </item>
     <item>
       <title>Forum，一款專為 Facebook Groups 設計的 App，現已在印尼推出</title>
@@ -332,15 +341,6 @@
       <description>Apple 公布 2026 App Store Awards 的入圍名單，表揚來自世界各地的 45 位開發者，肯定他們推出的優秀 App 與遊戲。</description>
     </item>
     <item>
-      <title>研究加速：崎嶇的前沿</title>
-      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 衡量程式編碼代理如何加速 AI 研究、它們的表現在哪些地方仍然不均，以及這對遞迴式自我改進意味著什麼。</description>
-    </item>
-    <item>
       <title>住友生命的領導者如何協助團隊採用 ChatGPT Enterprise</title>
       <link>https://openai.com/business/customer-stories/sumitomo-life</link>
       <guid isPermaLink="false">https://openai.com/business/customer-stories/sumitomo-life</guid>
@@ -348,6 +348,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>住友生命使用 ChatGPT Enterprise 來研究保險公司、準備提案，以及為投資分析起草程式碼。高層的早期使用有助於推動採用。</description>
+    </item>
+    <item>
+      <title>研究加速：崎嶇的前沿</title>
+      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 衡量程式編碼代理如何加速 AI 研究、它們的表現在哪些地方仍然不均，以及這對遞迴式自我改進意味著什麼。</description>
     </item>
     <item>
       <title>深入了解 Codex 沙箱</title>
@@ -669,15 +678,6 @@
       <description>OpenAI 如何與北約及盟國的網路安全機構合作，協助受信任的防禦方找出漏洞、測試修補並保護關鍵系統。</description>
     </item>
     <item>
-      <title>Astra for Law 在法律智能方面領先</title>
-      <link>https://openai.com/index/astra-law-6-2</link>
-      <guid isPermaLink="false">https://openai.com/index/astra-law-6-2</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Astra for Law 在涵蓋 24 個法律領域的發佈評測中排名第一。每位 ChatGPT Enterprise 客戶現在都可以申請存取。</description>
-    </item>
-    <item>
       <title>為智利推出 OpenAI</title>
       <link>https://openai.com/index/introducing-openai-for-chile</link>
       <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-chile</guid>
@@ -685,6 +685,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
+    </item>
+    <item>
+      <title>Astra for Law 在法律智能方面領先</title>
+      <link>https://openai.com/index/astra-law-6-2</link>
+      <guid isPermaLink="false">https://openai.com/index/astra-law-6-2</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Astra for Law 在涵蓋 24 個法律領域的發佈評測中排名第一。每位 ChatGPT Enterprise 客戶現在都可以申請存取。</description>
     </item>
     <item>
       <title>資安 AI 新創 Corma 在約 3 個月內達到 10 億美元估值</title>
@@ -1544,15 +1553,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
-    </item>
-    <item>
       <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
       <link>https://openai.com/index/dan-driscoll-joins-openai</link>
       <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
@@ -1560,6 +1560,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
+    </item>
+    <item>
+      <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
@@ -1926,15 +1935,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Uber 正在將 ChatGPT Work 推廣給超過 30,000 名員工，協助團隊進行研究、分析資料、製作簡報，並完成複雜的工作流程。</description>
-    </item>
-    <item>
-      <title>透過一致標準實現廣泛存取</title>
-      <link>https://openai.com/index/broad-access-through-consistent-standards</link>
-      <guid isPermaLink="false">https://openai.com/index/broad-access-through-consistent-standards</guid>
-      <pubDate>Wed, 21 Oct 2026 21:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 如何與發行合作夥伴合作，以維持一致的防護措施、支持負責任的存取，並釐清我們《使用政策》中的期望。</description>
     </item>
     <item>
       <title>AT&amp;T 如何運用 OpenAI 重新思考內部法務工作</title>
