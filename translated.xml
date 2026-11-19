@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:50:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 10:05:30 GMT</lastBuildDate>
+    <item>
+      <title>Google 對當地社群的水資源管理承諾</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/</guid>
+      <pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解我們新的水資源管理承諾、倡議，以及最近的 Water Replenishment Projects 資訊徵詢。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp" alt=""></p><p>了解我們新的水資源管理承諾、倡議，以及最近的 Water Replenishment Projects 資訊徵詢。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Forum，一款專為 Facebook Groups 設計的 App，現已在印尼推出</title>
       <link>https://about.fb.com/news/2026/11/forum-a-dedicated-app-for-facebook-groups-is-now-available-in-indonesia/</link>
@@ -339,18 +351,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_2784_x_1566.max-600x600.format-webp.webp" alt=""></p><p>Gemini 中的 Tasks 現已在六個國家免費提供，並在美國推出新功能，以及更深入整合 Google Workspace，幫你完成事情。</p>]]></content:encoded>
     </item>
     <item>
-      <title>閱讀 EmbeddingGemma 2 技術報告。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</guid>
-      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" alt=""></p><p>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>10 個州與 Google 攜手推出免費 AI 訓練</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/</link>
       <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/grow-with-google/ai-training-state-partnerships/</guid>
@@ -387,6 +387,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_S0_Hero_-_Desktop_copy.max-600x600.format-webp.webp" alt=""></p><p>Google Home 更新帶來免鑰匙進出、更聰明的音訊提醒，以及更快的 Gemini 效能。看看 2026 年 11 月更新有哪些新內容。</p>]]></content:encoded>
     </item>
     <item>
+      <title>任何人都能在 Google Vids 中免費建立自己的個人虛擬分身。</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/</guid>
+      <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>免費在 Google Vids 中建立自訂虛擬分身。使用自拍照和錄音來設計你的數位形象，為影片配音。今天就試試看。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" alt=""></p><p>免費在 Google Vids 中建立自訂虛擬分身。使用自拍照和錄音來設計你的數位形象，為影片配音。今天就試試看。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>Google Wallet 現已在美國的 iOS 上提供。</title>
       <link>https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-pay/wallet-available-ios-united-states/</guid>
@@ -399,16 +411,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_clean_aurora_straight_v2.max-600x600.format-webp.webp" alt=""></p><p>Google Wallet 現已在美國的 iOS 上提供。把你的票券、登機證和收據都集中管理在一個安全的中心。查看詳細資訊。</p>]]></content:encoded>
     </item>
     <item>
-      <title>任何人都能在 Google Vids 中免費建立自己的個人虛擬分身。</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/vids-personal-avatars-no-cost/</guid>
+      <title>閱讀 EmbeddingGemma 2 技術報告。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2-technical-report/</guid>
       <pubDate>Tue, 17 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>免費在 Google Vids 中建立自訂虛擬分身。使用自拍照和錄音來設計你的數位形象，為影片配音。今天就試試看。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vids_Personal_Avatars_Freemium_.max-600x600.format-webp_Z6WC258.webp" alt=""></p><p>免費在 Google Vids 中建立自訂虛擬分身。使用自拍照和錄音來設計你的數位形象，為影片配音。今天就試試看。</p>]]></content:encoded>
+      <description>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/EmbeddingGemma_2_explained_soci.max-600x600.format-webp.webp" alt=""></p><p>Google EmbeddingGemma 2 技術報告詳細介紹了我們的新多模態模型，涵蓋其統一向量空間和精簡設計。閱讀報告。</p>]]></content:encoded>
     </item>
     <item>
       <title>F1® 拉斯維加斯大獎賽™ 本週末在 Apple TV 直播</title>
@@ -472,18 +484,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這項公告很可能是回應創作者對原創內容很容易在社群媒體平台上被複製和重新散播的疑慮，尤其是在生成式 AI 讓修改現有影片變得更容易的情況下。</description>
-    </item>
-    <item>
-      <title>Google Play 在亞太地區的最佳內容</title>
-      <link>https://blog.google/topics/google-asia/google-play-best-2026/</link>
-      <guid isPermaLink="false">https://blog.google/topics/google-asia/google-play-best-2026/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>以下是 Google Play 2026 年最佳獎項在亞太地區的得獎者。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Play_Pacific_Hero_Thumbn.max-600x600.format-webp.webp" alt=""></p><p>以下是 Google Play 2026 年最佳獎項在亞太地區的得獎者。</p>]]></content:encoded>
     </item>
     <item>
       <title>Google Play 公布 2026 年最佳應用程式、遊戲和書籍</title>
