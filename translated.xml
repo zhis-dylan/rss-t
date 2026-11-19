@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 21:58:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:13:52 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 宣布即將舉行的財經社群活動</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322</guid>
+      <pubDate>Thu, 19 Nov 2026 22:00:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA 將在以下財經社群活動中進行簡報</description>
+    </item>
     <item>
       <title>ICYMI：將你在其他 AI 應用程式中的歷史紀錄轉移到 Gemini。</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/switch-ai-assistants-transfer-history/</link>
@@ -1052,18 +1061,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>顧客現在可以購買 Apple HomeView，體驗享受娛樂、保持聯繫與管理住家的全新方式。</description>
-    </item>
-    <item>
-      <title>AI 如何幫助照護團隊更快讓病患獲得正確照護</title>
-      <link>https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/how-ai-is-helping-care-teams/</guid>
-      <pubDate>Fri, 13 Nov 2026 13:00:42 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>從兒科研究到智慧醫院，AI 正在幫助照護團隊把時間從例行工作中釋放出來，把更多時間用在病患身上。醫療系統和新創公司正把它應用在整個醫療照護領域，從媒合病患參與臨床試驗，到支援放射科醫師、醫院團隊與居家病患。臨床人員仍居於核心，負責審閱 AI […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f" medium="image" type="image/png"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/2c608553a3bb66cdeeaa6e6442d32ab8/6af70a433d63327f4c4d6eac_Screenshot-2026-11-12-at-9.25.28-AM-842x450/Screenshot-2026-11-12-at-9.25.28-AM-842x450_thmb.jpg?v=49811220-e02a-4307-8be1-0c4af7e4b03f" alt=""></p><p>從兒科研究到智慧醫院，AI 正在幫助照護團隊把時間從例行工作中釋放出來，把更多時間用在病患身上。醫療系統和新創公司正把它應用在整個醫療照護領域，從媒合病患參與臨床試驗，到支援放射科醫師、醫院團隊與居家病患。臨床人員仍居於核心，負責審閱 AI […]</p>]]></content:encoded>
     </item>
     <item>
       <title>我們第一階段的嵌入式評估</title>
