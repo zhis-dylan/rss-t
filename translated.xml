@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:06:57 GMT</lastBuildDate>
+    <item>
+      <title>Meta 發表印度首個由政府主導的防詐騙微短劇系列</title>
+      <link>https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=51015</guid>
+      <pubDate>Thu, 19 Nov 2026 13:05:53 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>Meta 已與資訊與廣播部（MIB）、Prasar Bharati、印度證券交易委員會（SEBI）以及印度網路犯罪協調中心（I4C）合作，推出印度首個由政府主導、聚焦公益的線上詐騙微短劇系列。
+這篇貼文〈Meta 發表印度首個由政府主導的防詐騙微短劇系列〉首先出現在 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941" alt=""></p><p>Meta 已與資訊與廣播部（MIB）、Prasar Bharati、印度證券交易委員會（SEBI）以及印度網路犯罪協調中心（I4C）合作，推出印度首個由政府主導、聚焦公益的線上詐騙微短劇系列。<br>這篇貼文〈Meta 發表印度首個由政府主導的防詐騙微短劇系列〉首先出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Google 對當地社群的水資源管理承諾</title>
       <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/</link>
@@ -1295,19 +1308,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>準備推出新產品或舉辦活動的小型企業主，往往在知道要印什麼之前，先知道自己想達成什麼目標。VistaPrint 使用 ChatGPT Ads 展示像招牌和品牌商品等產品，如何幫助他們把訊息傳出去。</description>
-    </item>
-    <item>
-      <title>為你量身打造 Muse App</title>
-      <link>https://about.fb.com/news/2026/11/introducing-spaces-customize-muse-app/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50839</guid>
-      <pubDate>Fri, 06 Nov 2026 18:00:58 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>今天，我們推出 spaces，這是一種互動式方式，讓你能在 Muse app 中打造更個人化的體驗。
-〈為你量身打造 Muse App〉一文最初發佈於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Thumbnail.gif?fit=890%2C501" medium="image" type="image/gif"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Thumbnail.gif?fit=890%2C501"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Design-the-Muse-App_Just-for-You_Thumbnail.gif?fit=890%2C501" alt=""></p><p>今天，我們推出 spaces，這是一種互動式方式，讓你能在 Muse app 中打造更個人化的體驗。<br>〈為你量身打造 Muse App〉一文最初發佈於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>與 Hacktron 合作，找出 OpenAI 系統中的漏洞</title>
