@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 19 Nov 2026 13:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:22:08 GMT</lastBuildDate>
     <item>
       <title>Meta 發表印度首個由政府主導的防詐騙微短劇系列</title>
       <link>https://about.fb.com/news/2026/11/meta-premieres-indias-first-government-led-microdrama-series-on-scams-awareness/</link>
@@ -18,6 +18,15 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941" alt=""></p><p>Meta 已與資訊與廣播部（MIB）、Prasar Bharati、印度證券交易委員會（SEBI）以及印度網路犯罪協調中心（I4C）合作，推出印度首個由政府主導、聚焦公益的線上詐騙微短劇系列。<br>這篇貼文〈Meta 發表印度首個由政府主導的防詐騙微短劇系列〉首先出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>我們正與 Blue Origin 合作進行 Project Suncatcher 的首次重型發射。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/</guid>
+      <pubDate>Thu, 19 Nov 2026 13:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>我們正與 Blue Origin 合作，進行 Project Suncatcher 的首次重型發射。這是我們長期的登月計畫，目標是透過利用……在太空中擴展 AI 基礎設施。</description>
     </item>
     <item>
       <title>Google 對當地社群的水資源管理承諾</title>
@@ -497,18 +506,6 @@
       <source url="https://techcrunch.com/feed/">TechCrunch</source>
       <dc:creator>TechCrunch</dc:creator>
       <description>這項公告很可能是回應創作者對原創內容很容易在社群媒體平台上被複製和重新散播的疑慮，尤其是在生成式 AI 讓修改現有影片變得更容易的情況下。</description>
-    </item>
-    <item>
-      <title>Google Play 公布 2026 年最佳應用程式、遊戲和書籍</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/best-of-play-awards-2026/</guid>
-      <pubDate>Tue, 17 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/best_of_2026-blogpost_header_im.max-600x600.format-webp.webp" alt=""></p><p>我們宣布 Google Play 2026 年最佳獎項，表彰今年最優秀的應用程式、遊戲和書籍。</p>]]></content:encoded>
     </item>
     <item>
       <title>Isomorphic Labs 募得 50 億美元，欲將藥物候選物推進臨床試驗</title>
