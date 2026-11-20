@@ -5,7 +5,20 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 20 Nov 2026 18:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 18:38:21 GMT</lastBuildDate>
+    <item>
+      <title>一起推進科學：開源 AI for Science 高峰會精華</title>
+      <link>https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/</link>
+      <guid isPermaLink="false">https://about.fb.com/?p=51022</guid>
+      <pubDate>Fri, 20 Nov 2026 18:30:45 GMT</pubDate>
+      <source url="https://about.fb.com/feed/">About Facebook</source>
+      <dc:creator>About Facebook</dc:creator>
+      <description>我們邀集來自大學、醫院和產業的研究人員參加開源 AI for Science 高峰會，這場活動的核心是運用開源 AI 來加速科學發現。
+〈一起推進科學：開源 AI for Science 高峰會精華〉最早出現在 Meta Newsroom。</description>
+      <media:content url="https://about.fb.com/wp-content/uploads/2026/11/Highlights-From-the-Open-Source-AI-For-Science-Summit_Thumbnail.jpg?fit=890%2C501" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/Highlights-From-the-Open-Source-AI-For-Science-Summit_Thumbnail.jpg?fit=890%2C501"/>
+      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Highlights-From-the-Open-Source-AI-For-Science-Summit_Thumbnail.jpg?fit=890%2C501" alt=""></p><p>我們邀集來自大學、醫院和產業的研究人員參加開源 AI for Science 高峰會，這場活動的核心是運用開源 AI 來加速科學發現。<br>〈一起推進科學：開源 AI for Science 高峰會精華〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
     <item>
       <title>使用全新的 Connected Apps 完成您的年終待辦事項。</title>
       <link>https://blog.google/products-and-platforms/products/search/connected-apps-holiday-errands/</link>
@@ -1319,19 +1332,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>了解 OpenAI 的控制室如何在我們的研究基礎設施中追蹤模型工作負載，並在出現安全或資安疑慮時迅速將其停止。</description>
-    </item>
-    <item>
-      <title>將青少年帳號保護擴展至全球青少年</title>
-      <link>https://about.fb.com/news/2026/11/expanding-teen-account-protections-to-teens-around-the-world/</link>
-      <guid isPermaLink="false">https://about.fb.com/?p=50832</guid>
-      <pubDate>Mon, 09 Nov 2026 12:00:45 GMT</pubDate>
-      <source url="https://about.fb.com/feed/">About Facebook</source>
-      <dc:creator>About Facebook</dc:creator>
-      <description>我們正將 AI 年齡估測技術擴展到全球，讓更多數以百萬計的青少年在 Instagram 上受到青少年帳號保護。
-〈將青少年帳號保護擴展至全球青少年〉一文最早刊登於 Meta Newsroom。</description>
-      <media:content url="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg"/>
-      <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/01_Teen-Account-Protections.jpg" alt=""></p><p>我們正將 AI 年齡估測技術擴展到全球，讓更多數以百萬計的青少年在 Instagram 上受到青少年帳號保護。<br>〈將青少年帳號保護擴展至全球青少年〉一文最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
       <title>CodeRabbit 擴展代理式軟體開發，並交付多 20 倍成果</title>
