@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 20 Nov 2026 19:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 19:23:44 GMT</lastBuildDate>
     <item>
       <title>一起推進科學：開源 AI for Science 高峰會精華</title>
       <link>https://about.fb.com/news/2026/11/advancing-science-together-highlights-from-the-open-source-ai-for-science-summit/</link>
@@ -42,6 +42,15 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp" alt=""></p><p>Watch Duty 使用 Gemini 將雜亂的消防無線電內容轉成文字，在 30 秒內就能辨識野火調度通報，讓警報更快發布。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>AI 能幫助科學家找出有潛力的藥物候選嗎？</title>
+      <link>https://openai.com/index/introducing-medchembench</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-medchembench</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>MedChemBench 評估 AI 模型在解讀分子結構、根據實驗證據推理，以及在早期藥物發現中選擇化合物的能力。</description>
     </item>
     <item>
       <title>NVIDIA 宣布即將舉行的財經社群活動</title>
@@ -274,13 +283,13 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Forum-ID-holding-image.png?fit=2048%2C1152" alt=""></p><p>Forum 現已在印尼上線，將 Facebook Groups 整合到一款專屬 App 中，讓加入對話、尋找解答和探索興趣更容易。<br>這篇〈Forum，一款專為 Facebook Groups 設計的 App，現已在印尼推出〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>部署 Daybreak Red</title>
-      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
-      <guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
+      <title>開始使用 Daybreak Blue</title>
+      <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
+      <guid isPermaLink="false">https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>探索 Daybreak Red 的監督式安全調查參考架構，包括安全控制、設定和監控。</description>
+      <description>觀看 Daybreak Blue 的入門導覽，深入了解設定體驗以及如何開始使用。</description>
     </item>
     <item>
       <title>實際查看 PR 掃描</title>
@@ -292,6 +301,15 @@
       <description>觀看 PR 掃描的導覽，看看簡報者如何在 pull request 工作流程中檢視掃描結果。</description>
     </item>
     <item>
+      <title>部署 Daybreak Red</title>
+      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
+      <guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 Daybreak Red 的監督式安全調查參考架構，包括安全控制、設定和監控。</description>
+    </item>
+    <item>
       <title>探索 Codex 安全外掛</title>
       <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
       <guid isPermaLink="false">https://openai.com/business/learn/codex-security-plugin-demo</guid>
@@ -299,15 +317,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>觀看 Codex 安全外掛的示範，看看實際工作流程，從開始使用到檢視錄影中顯示的結果。</description>
-    </item>
-    <item>
-      <title>開始使用 Daybreak Blue</title>
-      <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
-      <guid isPermaLink="false">https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>觀看 Daybreak Blue 的入門導覽，深入了解設定體驗以及如何開始使用。</description>
     </item>
     <item>
       <title>介紹 Gemini 4 Neon</title>
@@ -423,15 +432,6 @@
       <description>Apple 公布 2026 App Store Awards 的入圍名單，表揚來自世界各地的 45 位開發者，肯定他們推出的優秀 App 與遊戲。</description>
     </item>
     <item>
-      <title>研究加速：崎嶇的前沿</title>
-      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-      <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 衡量程式編碼代理如何加速 AI 研究、它們的表現在哪些地方仍然不均，以及這對遞迴式自我改進意味著什麼。</description>
-    </item>
-    <item>
       <title>住友生命的領導者如何協助團隊採用 ChatGPT Enterprise</title>
       <link>https://openai.com/business/customer-stories/sumitomo-life</link>
       <guid isPermaLink="false">https://openai.com/business/customer-stories/sumitomo-life</guid>
@@ -439,6 +439,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>住友生命使用 ChatGPT Enterprise 來研究保險公司、準備提案，以及為投資分析起草程式碼。高層的早期使用有助於推動採用。</description>
+    </item>
+    <item>
+      <title>研究加速：崎嶇的前沿</title>
+      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
+      <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 衡量程式編碼代理如何加速 AI 研究、它們的表現在哪些地方仍然不均，以及這對遞迴式自我改進意味著什麼。</description>
     </item>
     <item>
       <title>深入了解 Codex 沙箱</title>
@@ -468,15 +477,6 @@
       <description>OpenAI 戰略未來主管 Dean Ball 探討更強大的 AI 可能如何重塑社會，以及人們如何維持對自身制度的掌控。</description>
     </item>
     <item>
-      <title>使用 OpenAI 模型推進晶片設計</title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
-    </item>
-    <item>
       <title>Le Groupe Figaro 與 OpenAI 合作，將《費加洛報》的新聞帶到 ChatGPT</title>
       <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
       <guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
@@ -484,6 +484,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Le Groupe Figaro 與 OpenAI 合作，透過摘要和節錄將《費加洛報》的新聞帶到 ChatGPT，並附上原始報導連結。</description>
+    </item>
+    <item>
+      <title>使用 OpenAI 模型推進晶片設計</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
     </item>
     <item>
       <title>NVIDIA 擴大與供應鏈夥伴的承諾，以支援 AI 基礎設施建設</title>
@@ -1914,15 +1923,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Anima 運用 OpenAI 模型擴展照護團隊的可做事項，讓他們有更多量能回應病患。</description>
-    </item>
-    <item>
-      <title>OpenAI 與波蘭 NASK 合作推動 AI 安全與資安</title>
-      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-      <guid isPermaLink="false">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 與波蘭的 NASK 正在就 AI 安全、資安與技術研究展開合作，以強化防護措施並支持更具韌性的數位生態系統。</description>
     </item>
     <item>
       <title>一級方程式®美國大獎賽™本週末於 Apple TV 直播</title>
