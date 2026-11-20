@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Fri, 20 Nov 2026 16:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:07:31 GMT</lastBuildDate>
+    <item>
+      <title>Watch Duty 如何運用 Gemini 更快發布野火警報</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/</guid>
+      <pubDate>Fri, 20 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Watch Duty 使用 Gemini 將雜亂的消防無線電內容轉成文字，在 30 秒內就能辨識野火調度通報，讓警報更快發布。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Watch_Duty_Hero_Higher_Res.max-600x600.format-webp.webp" alt=""></p><p>Watch Duty 使用 Gemini 將雜亂的消防無線電內容轉成文字，在 30 秒內就能辨識野火調度通報，讓警報更快發布。</p>]]></content:encoded>
+    </item>
     <item>
       <title>NVIDIA 宣布即將舉行的財經社群活動</title>
       <link>https://nvidianews.nvidia.com/news/nvidia-announces-upcoming-event-for-financial-community-6929322</link>
@@ -100,18 +112,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp" alt=""></p><p>看看四家小型企業如何使用搭載 Gemini 的 Google Workspace 減少雜務、節省數千美元，並以自己的方式成長。</p>]]></content:encoded>
     </item>
     <item>
-      <title>打造策略性的 A/B 測試，提升廣告成效。</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>Genie 4 現已可在 Gemini API 使用。</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
@@ -122,6 +122,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>打造策略性的 A/B 測試，提升廣告成效。</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</p>]]></content:encoded>
     </item>
     <item>
       <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
@@ -341,30 +353,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Las_Vegas_hero.max-600x600.format-webp.webp" alt=""></p><p>透過我們的獎勵案例和「使用」分頁解鎖數位福利，或加入由 Google Play 在拉斯維加斯現場舉辦的 The Auction。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Gemini app 現已可於較低記憶體的 Android 裝置上使用。</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</guid>
-      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Google Gemini app 現已支援較低記憶體的 Android 裝置。可在手機上使用 Gemini Live 與自訂圖片建立功能。立即下載 app。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini app 現已支援較低記憶體的 Android 裝置。可在手機上使用 Gemini Live 與自訂圖片建立功能。立即下載 app。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>用 11 月的 Demand Gen Drop 贏得年底購物旺季。</title>
-      <link>https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/demand-gen-drop-november-2026/</guid>
-      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>把握 YouTube 11 月 Demand Gen Drop，善用年底購物高峰。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Demand_Gen_Drop_-_November_2026.max-600x600.format-webp.webp" alt=""></p><p>把握 YouTube 11 月 Demand Gen Drop，善用年底購物高峰。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>介紹 Stitch Loop：打造與演進產品的新方式</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/stitch-loop/</guid>
@@ -375,6 +363,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/frame_zjQlth4.max-600x600.format-webp.webp" alt=""></p><p>Stitch Loop 是來自 Google Labs 的全天候產品代理程式，會不間斷運作，協助精實團隊打造更好的產品。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Gemini app 現已可於較低記憶體的 Android 裝置上使用。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Gemini app 現已支援較低記憶體的 Android 裝置。可在手機上使用 Gemini Live 與自訂圖片建立功能。立即下載 app。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini app 現已支援較低記憶體的 Android 裝置。可在手機上使用 Gemini Live 與自訂圖片建立功能。立即下載 app。</p>]]></content:encoded>
     </item>
     <item>
       <title>Meta 歡迎 Loblaw 成為 Muse 的首家加拿大零售合作夥伴</title>
