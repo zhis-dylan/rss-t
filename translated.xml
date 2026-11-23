@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 21:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 21:29:08 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 與 Cisco 介紹 Shirudo</title>
+      <link>https://openai.com/index/introducing-shirudo</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-shirudo</guid>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 和 Cisco 介紹 Shirudo，這是一個適用於 Linux 的開源 runtime。它可協助團隊在部署修補程式時保護運行中的系統。</description>
+    </item>
     <item>
       <title>研究人員正使用 Meta 的開放權重 AI 模型改變醫學</title>
       <link>https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/</link>
@@ -108,6 +117,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>觀看 OpenAI 的 Stacey Wang 和 Craig Bruney、LECG 的 Mary O’Carroll，以及 Cooley 的 Richard Segal 探討 AI 如何幫助企業法務團隊連結商業脈絡、建立可重複使用的工作流程，並從外部法律顧問獲得更多價值。</description>
+    </item>
+    <item>
+      <title>Richpanel 協助企業在 30 天內自動化 50% 的客服支援</title>
+      <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/richpanel-ai-customer-support</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Richpanel 使用 GPT-6 Astra 和 GPT-6.1 Sol，為其 AI 客服代理人配備工具與作業程序，並使用 GPT-6 Luna 進行對話。</description>
     </item>
     <item>
       <title>困惑度與智慧</title>
@@ -413,15 +431,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Forum-ID-holding-image.png?fit=2048%2C1152" alt=""></p><p>Forum 現已在印尼上線，將 Facebook Groups 整合到一款專屬 App 中，讓加入對話、尋找解答和探索興趣更容易。<br>這篇〈Forum，一款專為 Facebook Groups 設計的 App，現已在印尼推出〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>探索 Codex 安全外掛</title>
-      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-      <guid isPermaLink="false">https://openai.com/business/learn/codex-security-plugin-demo</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>觀看 Codex 安全外掛的示範，看看實際工作流程，從開始使用到檢視錄影中顯示的結果。</description>
-    </item>
-    <item>
       <title>實際查看 PR 掃描</title>
       <link>https://openai.com/business/learn/pr-scans-demo</link>
       <guid isPermaLink="false">https://openai.com/business/learn/pr-scans-demo</guid>
@@ -431,15 +440,6 @@
       <description>觀看 PR 掃描的導覽，看看簡報者如何在 pull request 工作流程中檢視掃描結果。</description>
     </item>
     <item>
-      <title>部署 Daybreak Red</title>
-      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
-      <guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 Daybreak Red 的監督式安全調查參考架構，包括安全控制、設定和監控。</description>
-    </item>
-    <item>
       <title>開始使用 Daybreak Blue</title>
       <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
       <guid isPermaLink="false">https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
@@ -447,6 +447,24 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>觀看 Daybreak Blue 的入門導覽，深入了解設定體驗以及如何開始使用。</description>
+    </item>
+    <item>
+      <title>探索 Codex 安全外掛</title>
+      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
+      <guid isPermaLink="false">https://openai.com/business/learn/codex-security-plugin-demo</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>觀看 Codex 安全外掛的示範，看看實際工作流程，從開始使用到檢視錄影中顯示的結果。</description>
+    </item>
+    <item>
+      <title>部署 Daybreak Red</title>
+      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
+      <guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 Daybreak Red 的監督式安全調查參考架構，包括安全控制、設定和監控。</description>
     </item>
     <item>
       <title>我們更新商業服務條款的做法</title>
@@ -502,15 +520,6 @@
       <description>Apple 公布 2026 App Store Awards 的入圍名單，表揚來自世界各地的 45 位開發者，肯定他們推出的優秀 App 與遊戲。</description>
     </item>
     <item>
-      <title>住友生命的領導者如何協助團隊採用 ChatGPT Enterprise</title>
-      <link>https://openai.com/business/customer-stories/sumitomo-life</link>
-      <guid isPermaLink="false">https://openai.com/business/customer-stories/sumitomo-life</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>住友生命使用 ChatGPT Enterprise 來研究保險公司、準備提案，以及為投資分析起草程式碼。高層的早期使用有助於推動採用。</description>
-    </item>
-    <item>
       <title>研究加速：崎嶇的前沿</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
       <guid isPermaLink="false">https://openai.com/index/research-acceleration-jagged-frontier</guid>
@@ -518,6 +527,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 衡量程式編碼代理如何加速 AI 研究、它們的表現在哪些地方仍然不均，以及這對遞迴式自我改進意味著什麼。</description>
+    </item>
+    <item>
+      <title>住友生命的領導者如何協助團隊採用 ChatGPT Enterprise</title>
+      <link>https://openai.com/business/customer-stories/sumitomo-life</link>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/sumitomo-life</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>住友生命使用 ChatGPT Enterprise 來研究保險公司、準備提案，以及為投資分析起草程式碼。高層的早期使用有助於推動採用。</description>
     </item>
     <item>
       <title>深入了解 Codex 沙箱</title>
@@ -547,15 +565,6 @@
       <description>OpenAI 戰略未來主管 Dean Ball 探討更強大的 AI 可能如何重塑社會，以及人們如何維持對自身制度的掌控。</description>
     </item>
     <item>
-      <title>使用 OpenAI 模型推進晶片設計</title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
-    </item>
-    <item>
       <title>Le Groupe Figaro 與 OpenAI 合作，將《費加洛報》的新聞帶到 ChatGPT</title>
       <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
       <guid isPermaLink="false">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
@@ -563,6 +572,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Le Groupe Figaro 與 OpenAI 合作，透過摘要和節錄將《費加洛報》的新聞帶到 ChatGPT，並附上原始報導連結。</description>
+    </item>
+    <item>
+      <title>使用 OpenAI 模型推進晶片設計</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+      <guid isPermaLink="false">https://openai.com/index/advancing-chip-design-with-our-models</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 模型最佳化了 Jalapeño 矽晶片中使用的電路，並改良了 RISC‑V 核心設計，展示了以 GPT‑6 Astra 進行 AI 輔助晶片設計的進展。</description>
     </item>
     <item>
       <title>NVIDIA 擴大與供應鏈夥伴的承諾，以支援 AI 基礎設施建設</title>
@@ -827,15 +845,6 @@
       <description>OpenAI 如何與北約及盟國的網路安全機構合作，協助受信任的防禦方找出漏洞、測試修補並保護關鍵系統。</description>
     </item>
     <item>
-      <title>為智利推出 OpenAI</title>
-      <link>https://openai.com/index/introducing-openai-for-chile</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-chile</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
-    </item>
-    <item>
       <title>Astra for Law 在法律智能方面領先</title>
       <link>https://openai.com/index/astra-law-6-2</link>
       <guid isPermaLink="false">https://openai.com/index/astra-law-6-2</guid>
@@ -843,6 +852,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Astra for Law 在涵蓋 24 個法律領域的發佈評測中排名第一。每位 ChatGPT Enterprise 客戶現在都可以申請存取。</description>
+    </item>
+    <item>
+      <title>為智利推出 OpenAI</title>
+      <link>https://openai.com/index/introducing-openai-for-chile</link>
+      <guid isPermaLink="false">https://openai.com/index/introducing-openai-for-chile</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 與智利政府正合作，以支持負責任的 AI 採用、培養公部門技能，並協助當地新創公司開發 AI 應用程式。</description>
     </item>
     <item>
       <title>資安 AI 新創 Corma 在約 3 個月內達到 10 億美元估值</title>
@@ -1086,15 +1104,6 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/WOL_1057.jpg?fit=6048%2C4032" alt=""></p><p>超過 180 家小型企業、在地商家與創作者創業者參加了 Meta Upskill Day 2026 在新加坡舉行的活動，這是 Meta 小型企業成長學院的一部分，新加坡國務資政兼國務部長林永樂以主賓身分出席。<br>這篇文章〈受訪的新加坡中小企業主中有 94% 表示需要更多 AI 指引〉最早刊登於 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>推進醫療團隊的電腦使用代理</title>
-      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
-      <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
-      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description/>
-    </item>
-    <item>
       <title>透過 ChatGPT for Healthcare 推動照護向前邁進的更多方式</title>
       <link>https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</link>
       <guid isPermaLink="false">https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare</guid>
@@ -1102,6 +1111,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>推出電腦使用代理、更完善的臨床回答，以及可跨醫療軟體運作、協助實際完成工作的全新醫療外掛程式。</description>
+    </item>
+    <item>
+      <title>推進醫療團隊的電腦使用代理</title>
+      <link>https://openai.com/index/advancing-computer-use-for-healthcare-teams</link>
+      <guid isPermaLink="false">https://openai.com/index/advancing-computer-use-for-healthcare-teams</guid>
+      <pubDate>Mon, 16 Nov 2026 06:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description/>
     </item>
     <item>
       <title>Apple 推出研究計畫，探索 AI 在健康領域的應用</title>
@@ -1583,15 +1601,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>以更高的漏洞獎金獎勵防禦者</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
-    </item>
-    <item>
       <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
       <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
       <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
@@ -1599,6 +1608,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
+    </item>
+    <item>
+      <title>以更高的漏洞獎金獎勵防禦者</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
@@ -1628,15 +1646,6 @@
       <description>介紹 LifeVal，這是一個衡量 AI 在多大程度上能幫助人們完成日常任務的基準，從尋找托育服務到管理財務和政府文件都涵蓋在內。</description>
     </item>
     <item>
-      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
-      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
-    </item>
-    <item>
       <title>Qodo 將脈絡帶入 Codex 的 AI 程式碼審查</title>
       <link>https://openai.com/index/qodo-codex-plugin</link>
       <guid isPermaLink="false">https://openai.com/index/qodo-codex-plugin</guid>
@@ -1644,6 +1653,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>Qodo 將公司知識與程式碼規範帶入 Codex，協助開發者在開啟 pull request 之前，於各個儲存庫中找出 P0 問題。</description>
+    </item>
+    <item>
+      <title>OpenAI 任命 Dan Driscoll 為國家安全現代化資深顧問</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/dan-driscoll-joins-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 任命 Dan Driscoll，就國家安全現代化、網路韌性，以及與美國盟友合作的負責任 AI 提供建議。</description>
     </item>
     <item>
       <title>讓網站更容易表達 AI 訓練偏好</title>
@@ -1875,24 +1893,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 發表全新的 iPad mini，採用更薄的設計、OLED 顯示器，並以 A20 Pro 帶來性能大躍進，還具備防水防塵功能。</description>
-    </item>
-    <item>
-      <title>ChatGPT 不斷擴展的工作世界</title>
-      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
-      <guid isPermaLink="false">https://openai.com/index/chatgpt-expanding-world-of-work</guid>
-      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>探索 OpenAI Signals 有關近 100 個國家、165 項工作活動的資料，了解人們如何將 ChatGPT 用於工作，以及使用方式如何隨時間改變。</description>
-    </item>
-    <item>
-      <title>Fanatics 與 OpenAI 如何簡化球迷體驗</title>
-      <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
-      <guid isPermaLink="false">https://openai.com/index/fanatics-streamline-fan-experience</guid>
-      <pubDate>Mon, 26 Oct 2026 07:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>Fanatics 使用 OpenAI 協助球迷透過 Shop the Look 完成比賽日穿搭。針對約 30,000 件 MLB 商品的測試顯示，互動率提高了 10%。</description>
     </item>
     <item>
       <title>介紹 GPT-6.1 Terra</title>
