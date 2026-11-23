@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 18:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:27:35 GMT</lastBuildDate>
     <item>
       <title>研究人員正使用 Meta 的開放權重 AI 模型改變醫學</title>
       <link>https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/</link>
@@ -18,6 +18,18 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2027/11/Researchers-Are-Using-Metas-Open-Weight-AI-Models-to-Transform-Medicine_Header-1.jpg?fit=3840%2C2160" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2027/11/Researchers-Are-Using-Metas-Open-Weight-AI-Models-to-Transform-Medicine_Header-1.jpg?fit=3840%2C2160"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2027/11/Researchers-Are-Using-Metas-Open-Weight-AI-Models-to-Transform-Medicine_Header-1.jpg?fit=3840%2C2160" alt=""></p><p>我們邀集研究人員參加 Open Source AI For Science Summit，他們分享了如何運用 AI 加速科學發現。<br>這篇〈Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>以下是你可能不知道可以用 Gemini Canvas 做的 4 件事。</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/gemini-canvas-tasks/</guid>
+      <pubDate>Mon, 23 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>使用 Google Gemini Canvas 提升生產力。建立網頁應用程式、建立自訂讀書工具，並並排潤飾寫作。下次聊天時試試看。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/02_hero_video_poster.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/02_hero_video_poster.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/02_hero_video_poster.max-600x600.format-webp.webp" alt=""></p><p>使用 Google Gemini Canvas 提升生產力。建立網頁應用程式、建立自訂讀書工具，並並排潤飾寫作。下次聊天時試試看。</p>]]></content:encoded>
     </item>
     <item>
       <title>歡樂送禮：在這個佳節用 NVIDIA 技術來玩耍、打造與創作</title>
@@ -207,16 +219,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp" alt=""></p><p>透過 Tool Retrieval，讓你的代理程式可以存取數百種工具，同時使用更少的 token；現已在 Gemini API 中開放預覽。</p>]]></content:encoded>
     </item>
     <item>
-      <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
+      <title>追蹤與購買潔淨能源的更聰明方式</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</guid>
       <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
+      <description>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" alt=""></p><p>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</p>]]></content:encoded>
     </item>
     <item>
       <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
@@ -231,18 +243,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" alt=""></p><p>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</p>]]></content:encoded>
     </item>
     <item>
-      <title>追蹤與購買潔淨能源的更聰明方式</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" alt=""></p><p>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>小型企業，大成果：團隊如何運用 AI 擴大規模</title>
       <link>https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/</link>
       <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/</guid>
@@ -255,16 +255,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp" alt=""></p><p>看看四家小型企業如何使用搭載 Gemini 的 Google Workspace 減少雜務、節省數千美元，並以自己的方式成長。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Genie 4 現已可在 Gemini API 使用。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
+      <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
       <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
+      <description>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
     </item>
     <item>
       <title>打造策略性的 A/B 測試，提升廣告成效。</title>
@@ -277,6 +277,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Genie 4 現已可在 Gemini API 使用。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
     </item>
     <item>
       <title>看看部分來自 Google Flow 和 Flow Music Sessions 藝術家的作品</title>
@@ -446,18 +458,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/09/Meta_Thumbnail.jpg?fit=5760%2C4320" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/09/Meta_Thumbnail.jpg?fit=5760%2C4320"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/09/Meta_Thumbnail.jpg?fit=5760%2C4320" alt=""></p><p>我們最近宣布，原先擬議的商業服務條款更新已暫緩，並且會在與利害關係人進一步諮詢後修訂這些擬議變更。這個決定是在聽取新聞出版商及其他利害關係人對擬議更新如何適用於我們的網路爬蟲的疑慮後做出的。Meta 遵循產業標準的 robots.txt 機制，如我們的網路爬蟲開發文件所述。今天，我們想分享更多關於我們如何與出版商及其他對象進行這次諮詢的細節。<br>分階段進行的做法<br>我們定義了三個諮詢階段，讓我們有時間聆聽回饋、處理這些回饋以進一步完善／修改規劃中的更新，並讓利害關係人有機會考慮和討論任何修訂。<br>聆聽利害關係人的意見。我們最初的接觸階段旨在傾聽利害關係人的疑慮，並就先前提議的更新找出具體問題和主要關切主題。我們已經開始與各市場的新聞出版商以及全球產業團體進行簡報和回饋討論。在這些交流中，我們分享了關於我們的爬蟲如何運作，以及未來條款變更希望促成的潛在產品的背景資訊。我們預期未來幾個月內，這些對話將持續進行。<br>考慮回饋。我們正在蒐集利害關係人的回饋，目標是修訂條款，以優化最初預覽的措辭。我們將持續檢視這些回饋，並據此準備條款修訂。<br>在上線前進一步接觸。我們預計在 2027 年初，針對這個流程產生的更新條款，進一步與新聞出版商、其他利害關係人及監管機關接觸，之後才會正式上線。我們也會撰寫一份配套說明文件，讓條款更容易理解，並協助他們完整了解擬議變更。<br>接下來會發生什麼事<br>我們非常重視打造能幫助合作夥伴達成目標的產品，也希望花時間把這件事做好。我們預期這個分階段做法可能需要幾個月才能完成。和我們平常一樣，在新條款生效前，我們會通知帳戶持有人，並提供一段審閱期間。<br>這篇〈我們更新商業服務條款的做法〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>拉斯維加斯賽事週為 Google Play 帶來大獎勵</title>
-      <link>https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/platforms/google-play/auction-google-play-las-vegas/</guid>
-      <pubDate>Wed, 18 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過你的獎勵禮遇包和「使用」分頁解鎖數位福利，或加入 Google Play The Auction 拉斯維加斯直播活動。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Las_Vegas_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Las_Vegas_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Las_Vegas_hero.max-600x600.format-webp.webp" alt=""></p><p>透過你的獎勵禮遇包和「使用」分頁解鎖數位福利，或加入 Google Play The Auction 拉斯維加斯直播活動。</p>]]></content:encoded>
     </item>
     <item>
       <title>Meta 歡迎 Loblaw 成為 Muse 的首家加拿大零售合作夥伴</title>
