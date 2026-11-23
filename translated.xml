@@ -5,7 +5,16 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 13:55:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 14:10:20 GMT</lastBuildDate>
+    <item>
+      <title>NVIDIA 董事會恢復任命 Jensen Huang 擔任總裁、執行長及董事會董事</title>
+      <link>https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</link>
+      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director</guid>
+      <pubDate>Mon, 23 Nov 2026 13:55:00 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>NVIDIA（NASDAQ: NVDA）今天宣布，自即日起，Jensen Huang 已恢復擔任總裁暨執行長，並成為董事會成員。</description>
+    </item>
     <item>
       <title>困惑度與智慧</title>
       <link>https://openai.com/index/perplexity-and-intelligence</link>
@@ -1080,18 +1089,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 今日宣布在美國推出 Apple Health AI Usage Study，其中包括一項虛擬研究以及相關 app。</description>
-    </item>
-    <item>
-      <title>AI Day Seoul 讓韓國的產業領袖、新創公司與開發者社群齊聚一堂</title>
-      <link>https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</link>
-      <guid isPermaLink="false">https://blogs.nvidia.com/blog/ai-day-seoul-wrapup/</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:28 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>在 COEX 舉行的兩天活動中，超過 2,000 名與會者齊聚 AI Day Seoul，共同匯聚韓國推動實體 AI 與 AI agents 的產業領袖、新創公司與開發者社群。在大會全體會議上，NVIDIA 機器人與邊緣 AI 副總裁 Deepu Talla 表示，韓國「表現超乎其體量」，Doosan Robotics、Hyundai […]</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/94e4d8e35e46dc78f8b79cb27f0462be/6afa47d13d63322ca4bea3e8_ai-day-seoul-wrapup-1920x1080-1-842x450/ai-day-seoul-wrapup-1920x1080-1-842x450_thmb.jpg?v=26a11e93-65b4-450d-b0ef-9f5089ac6f01" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/94e4d8e35e46dc78f8b79cb27f0462be/6afa47d13d63322ca4bea3e8_ai-day-seoul-wrapup-1920x1080-1-842x450/ai-day-seoul-wrapup-1920x1080-1-842x450_thmb.jpg?v=26a11e93-65b4-450d-b0ef-9f5089ac6f01"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/94e4d8e35e46dc78f8b79cb27f0462be/6afa47d13d63322ca4bea3e8_ai-day-seoul-wrapup-1920x1080-1-842x450/ai-day-seoul-wrapup-1920x1080-1-842x450_thmb.jpg?v=26a11e93-65b4-450d-b0ef-9f5089ac6f01" alt=""></p><p>在 COEX 舉行的兩天活動中，超過 2,000 名與會者齊聚 AI Day Seoul，共同匯聚韓國推動實體 AI 與 AI agents 的產業領袖、新創公司與開發者社群。在大會全體會議上，NVIDIA 機器人與邊緣 AI 副總裁 Deepu Talla 表示，韓國「表現超乎其體量」，Doosan Robotics、Hyundai […]</p>]]></content:encoded>
     </item>
     <item>
       <title>The King’s Trust 與 OpenAI 推出 100 萬英鎊合作計畫</title>
