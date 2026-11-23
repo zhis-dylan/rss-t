@@ -5,7 +5,7 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 23 Nov 2026 20:43:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:58:50 GMT</lastBuildDate>
     <item>
       <title>研究人員正使用 Meta 的開放權重 AI 模型改變醫學</title>
       <link>https://about.fb.com/news/2026/11/researchers-using-meta-open-weight-ai-models-medical-breakthroughs/</link>
@@ -18,6 +18,18 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2027/11/Researchers-Are-Using-Metas-Open-Weight-AI-Models-to-Transform-Medicine_Header-1.jpg?fit=3840%2C2160" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2027/11/Researchers-Are-Using-Metas-Open-Weight-AI-Models-to-Transform-Medicine_Header-1.jpg?fit=3840%2C2160"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2027/11/Researchers-Are-Using-Metas-Open-Weight-AI-Models-to-Transform-Medicine_Header-1.jpg?fit=3840%2C2160" alt=""></p><p>我們邀集研究人員參加 Open Source AI For Science Summit，他們分享了如何運用 AI 加速科學發現。<br>這篇〈Researchers Are Using Meta’s Open-Weight AI Models to Transform Medicine〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>看看 6 位創作者用 Gemini 4 Hydrogen 做了什麼</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-hydrogen-builders/</guid>
+      <pubDate>Mon, 23 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看六個創作者用 Gemini 4 Hydrogen 做出的專案，從雨中的科幻天空和像素風錦鯉池，到一隻可互動的飛蛾。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/6_Builders_Hydrogen_herosocial_.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/6_Builders_Hydrogen_herosocial_.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/6_Builders_Hydrogen_herosocial_.max-600x600.format-webp.webp" alt=""></p><p>看看六個創作者用 Gemini 4 Hydrogen 做出的專案，從雨中的科幻天空和像素風錦鯉池，到一隻可互動的飛蛾。</p>]]></content:encoded>
     </item>
     <item>
       <title>以下是你可能不知道可以用 Gemini Canvas 做的 4 件事。</title>
@@ -228,42 +240,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp" alt=""></p><p>透過 Tool Retrieval，讓你的代理程式可以存取數百種工具，同時使用更少的 token；現已在 Gemini API 中開放預覽。</p>]]></content:encoded>
     </item>
     <item>
-      <title>追蹤與購買潔淨能源的更聰明方式</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" alt=""></p><p>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" alt=""></p><p>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>小型企業，大成果：團隊如何運用 AI 擴大規模</title>
-      <link>https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/</link>
-      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>看看四家小型企業如何使用搭載 Gemini 的 Google Workspace 減少雜務、節省數千美元，並以自己的方式成長。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp" alt=""></p><p>看看四家小型企業如何使用搭載 Gemini 的 Google Workspace 減少雜務、節省數千美元，並以自己的方式成長。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
       <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
@@ -286,6 +262,42 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" alt=""></p><p>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>追蹤與購買潔淨能源的更聰明方式</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" alt=""></p><p>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>小型企業，大成果：團隊如何運用 AI 擴大規模</title>
+      <link>https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/workspace/google-workspace-gemini-small-business-stories/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>看看四家小型企業如何使用搭載 Gemini 的 Google Workspace 減少雜務、節省數千美元，並以自己的方式成長。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp" alt=""></p><p>看看四家小型企業如何使用搭載 Gemini 的 Google Workspace 減少雜務、節省數千美元，並以自己的方式成長。</p>]]></content:encoded>
     </item>
     <item>
       <title>Genie 4 現已可在 Gemini API 使用。</title>
@@ -435,18 +447,6 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>觀看 Daybreak Blue 的入門導覽，深入了解設定體驗以及如何開始使用。</description>
-    </item>
-    <item>
-      <title>介紹 Gemini 4 Neon</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/</guid>
-      <pubDate>Wed, 18 Nov 2026 21:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>今天，我們要介紹 Gemini 4 Neon</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.max-600x600.format-webp.webp" alt=""></p><p>今天，我們要介紹 Gemini 4 Neon</p>]]></content:encoded>
     </item>
     <item>
       <title>我們更新商業服務條款的做法</title>
