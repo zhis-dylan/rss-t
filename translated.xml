@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 19:24:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:39:45 GMT</lastBuildDate>
+    <item>
+      <title>我們推出 Humanity’s First Exam 和一場 Kaggle 黑客松，來測試大型語言模型的可靠性。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/</guid>
+      <pubDate>Tue, 24 Nov 2026 19:30:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google 推出 Humanity’s First Exam，用 544 個提示詞來測試大型語言模型的可靠性。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Neon_Sign.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Neon_Sign.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Neon_Sign.max-600x600.format-webp.webp" alt=""></p><p>Google 推出 Humanity’s First Exam，用 544 個提示詞來測試大型語言模型的可靠性。</p>]]></content:encoded>
+    </item>
     <item>
       <title>Gemini 如何為金州勇士隊的組織和球迷帶來改變。</title>
       <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
@@ -43,6 +55,15 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_WIF_x_Google_Flow.max-600x600.format-webp.webp" alt=""></p><p>印度電影製作人使用 Google Flow 製作原創短片。觀看 WIF India Filmathon 的五個得獎故事。現在就看這些影片。</p>]]></content:encoded>
     </item>
     <item>
+      <title>用 Astra 搜尋遙遠的行星</title>
+      <link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
+      <guid isPermaLink="false">https://openai.com/index/searching-for-distant-planets-with-astra</guid>
+      <pubDate>Tue, 24 Nov 2026 11:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>看看兩位業餘天文學家如何使用 Codex 和 Astra，在 NASA 的 Kepler 與 TESS 太空望遠鏡公開資料中找出潛在的系外行星。</description>
+    </item>
+    <item>
       <title>我們正在擴大我們在國王十字的倫敦據點。</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/</link>
       <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/</guid>
@@ -78,9 +99,18 @@
 〈Muse 現已在英國提供：Muse 負責做事，你保持掌控〉一文首先刊載於 Meta Newsroom。</description>
     </item>
     <item>
-      <title>iFood 如何在 15,000 個儲存庫中擴展 coding agents</title>
-      <link>https://openai.com/index/ifood</link>
-      <guid isPermaLink="false">https://openai.com/index/ifood</guid>
+      <title>Intentful 如何運用 dots，騰出更多時間投入成長</title>
+      <link>https://openai.com/business/customer-stories/intentful-dots</link>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/intentful-dots</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>Marina Petrova 的 dot Aria 幫忙研究網站並撰寫提案，同時主動標記訊息並解決問題。</description>
+    </item>
+    <item>
+      <title>iFood 如何在 15,000 個儲存庫中擴展程式碼代理</title>
+      <link>https://openai.com/business/customer-stories/ifood</link>
+      <guid isPermaLink="false">https://openai.com/business/customer-stories/ifood</guid>
       <pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
@@ -338,6 +368,18 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp" alt=""></p><p>透過 Tool Retrieval，讓你的代理程式可以存取數百種工具，同時使用更少的 token；現已在 Gemini API 中開放預覽。</p>]]></content:encoded>
     </item>
     <item>
+      <title>打造策略性的 A/B 測試，提升廣告成效。</title>
+      <link>https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</link>
+      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</p>]]></content:encoded>
+    </item>
+    <item>
       <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
@@ -348,6 +390,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" alt=""></p><p>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>追蹤與購買潔淨能源的更聰明方式</title>
+      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" alt=""></p><p>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</p>]]></content:encoded>
     </item>
     <item>
       <title>小型企業，大成果：團隊如何運用 AI 擴大規模</title>
@@ -372,42 +426,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>打造策略性的 A/B 測試，提升廣告成效。</title>
-      <link>https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</link>
-      <guid isPermaLink="false">https://blog.google/products/ads-commerce/ads-decoded-ab-testing/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>追蹤與購買潔淨能源的更聰明方式</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/granular-certificates-clean-energy-2026/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GranularCertificates_HeroImage.max-600x600.format-webp.webp" alt=""></p><p>了解 Google 如何擴大細顆粒憑證的應用，逐小時追蹤潔淨能源，並支援更潔淨、更可靠的電網。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Genie 4 現已可在 Gemini API 使用。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
     </item>
     <item>
       <title>Apple TV 成為 F1 ACADEMY™ 這項全女性賽車系列的新美國主場</title>
@@ -466,13 +484,13 @@
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/Forum-ID-holding-image.png?fit=2048%2C1152" alt=""></p><p>Forum 現已在印尼上線，將 Facebook Groups 整合到一款專屬 App 中，讓加入對話、尋找解答和探索興趣更容易。<br>這篇〈Forum，一款專為 Facebook Groups 設計的 App，現已在印尼推出〉最早出現在 Meta Newsroom。</p>]]></content:encoded>
     </item>
     <item>
-      <title>部署 Daybreak Red</title>
-      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
-      <guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
+      <title>開始使用 Daybreak Blue</title>
+      <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
+      <guid isPermaLink="false">https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
-      <description>探索 Daybreak Red 的監督式安全調查參考架構，包括安全控制、設定和監控。</description>
+      <description>觀看 Daybreak Blue 的入門導覽，深入了解設定體驗以及如何開始使用。</description>
     </item>
     <item>
       <title>實際查看 PR 掃描</title>
@@ -484,15 +502,6 @@
       <description>觀看 PR 掃描的導覽，看看簡報者如何在 pull request 工作流程中檢視掃描結果。</description>
     </item>
     <item>
-      <title>開始使用 Daybreak Blue</title>
-      <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
-      <guid isPermaLink="false">https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>觀看 Daybreak Blue 的入門導覽，深入了解設定體驗以及如何開始使用。</description>
-    </item>
-    <item>
       <title>探索 Codex 安全外掛</title>
       <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
       <guid isPermaLink="false">https://openai.com/business/learn/codex-security-plugin-demo</guid>
@@ -500,6 +509,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>觀看 Codex 安全外掛的示範，看看實際工作流程，從開始使用到檢視錄影中顯示的結果。</description>
+    </item>
+    <item>
+      <title>部署 Daybreak Red</title>
+      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
+      <guid isPermaLink="false">https://openai.com/business/learn/deploying-daybreak-red</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>探索 Daybreak Red 的監督式安全調查參考架構，包括安全控制、設定和監控。</description>
     </item>
     <item>
       <title>我們更新商業服務條款的做法</title>
@@ -1610,15 +1628,6 @@
       <description>Apple 今天公布其截至 2026 年 9 月 26 日的 2026 會計年度第四季度財務結果。</description>
     </item>
     <item>
-      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
-    </item>
-    <item>
       <title>以更高的漏洞獎金獎勵防禦者</title>
       <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
       <guid isPermaLink="false">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
@@ -1626,6 +1635,15 @@
       <source url="https://openai.com/news/rss.xml">OpenAI News</source>
       <dc:creator>OpenAI News</dc:creator>
       <description>OpenAI 正在提高安全漏洞獎金，並為獨立安全研究人員推出報告品質、忠誠度和優先活動獎勵。</description>
+    </item>
+    <item>
+      <title>為我們下一次強化 OpenAI 的安全衝刺做準備</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid isPermaLink="false">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 GMT</pubDate>
+      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
+      <dc:creator>OpenAI News</dc:creator>
+      <description>OpenAI 正在與 Cathedral Systems 準備下一次內部安全衝刺，使用 AI 來測試並強化其防禦。</description>
     </item>
     <item>
       <title>在 OpenAI 擴展 Git 規模</title>
@@ -1893,24 +1911,6 @@ The post 成為 Frontier 的平台方法 appeared first on The Official Microsof
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 發表全新的 iPad mini，採用更薄的設計、OLED 顯示器，並以 A20 Pro 帶來性能大躍進，還具備防水防塵功能。</description>
-    </item>
-    <item>
-      <title>介紹 GPT-6.1 Terra</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
-      <guid isPermaLink="false">https://openai.com/index/introducing-gpt-6-1-terra</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>將快速且強大的電腦操作帶給每個人</description>
-    </item>
-    <item>
-      <title>與學術社群合作，建立科學理解</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
-      <guid isPermaLink="false">https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
-      <source url="https://openai.com/news/rss.xml">OpenAI News</source>
-      <dc:creator>OpenAI News</dc:creator>
-      <description>OpenAI 分享了關於 Kakeya 猜想、指數時間假設，以及量子色動力學的模型結果，以及研究人員如何驗證並在此基礎上延伸。</description>
     </item>
     <item>
       <title>iPhone Duo 在全球 Apple Store 門市上市</title>
