@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:06:56 GMT</lastBuildDate>
+    <item>
+      <title>印度的獨立電影製作人用 Google Flow 讓大銀幕故事栩栩如生。</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/</guid>
+      <pubDate>Tue, 24 Nov 2026 14:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>印度電影製作人使用 Google Flow 製作原創短片。觀看 WIF India Filmathon 的五個得獎故事。現在就看這些影片。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_WIF_x_Google_Flow.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_WIF_x_Google_Flow.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/resized_WIF_x_Google_Flow.max-600x600.format-webp.webp" alt=""></p><p>印度電影製作人使用 Google Flow 製作原創短片。觀看 WIF India Filmathon 的五個得獎故事。現在就看這些影片。</p>]]></content:encoded>
+    </item>
     <item>
       <title>我們正在擴大我們在國王十字的倫敦據點。</title>
       <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/</link>
@@ -293,16 +305,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp" alt=""></p><p>透過 Tool Retrieval，讓你的代理程式可以存取數百種工具，同時使用更少的 token；現已在 Gemini API 中開放預覽。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Genie 4 現已可在 Gemini API 使用。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
+      <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
       <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
+      <description>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" alt=""></p><p>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</p>]]></content:encoded>
     </item>
     <item>
       <title>打造策略性的 A/B 測試，提升廣告成效。</title>
@@ -315,18 +327,6 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" alt=""></p><p>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</p>]]></content:encoded>
     </item>
     <item>
       <title>追蹤與購買潔淨能源的更聰明方式</title>
@@ -363,6 +363,18 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Genie 4 現已可在 Gemini API 使用。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
     </item>
     <item>
       <title>看看部分來自 Google Flow 和 Flow Music Sessions 藝術家的作品</title>
@@ -421,15 +433,6 @@
       <media:content url="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941"/>
       <content:encoded><![CDATA[<p><img src="https://about.fb.com/wp-content/uploads/2026/11/ScamSeBacho-Nov-2026.jpeg?fit=1672%2C941" alt=""></p><p>Meta 已與資訊與廣播部（MIB）、Prasar Bharati、印度證券交易委員會（SEBI）以及印度網路犯罪協調中心（I4C）合作，推出印度首個由政府主導、聚焦公益的線上詐騙微短劇系列。<br>這篇貼文〈Meta 發表印度首個由政府主導的防詐騙微短劇系列〉首先出現在 Meta Newsroom。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>我們正與 Blue Origin 合作進行 Project Suncatcher 的首次重型發射。</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-research/blue-origin-project-suncatcher-partnership/</guid>
-      <pubDate>Thu, 19 Nov 2026 13:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們正與 Blue Origin 合作，進行 Project Suncatcher 的首次重型發射。這是我們長期的登月計畫，目標是透過利用……在太空中擴展 AI 基礎設施。</description>
     </item>
     <item>
       <title>OpenAI 的 Performance Factory 如何讓 ChatGPT 保持快速</title>
