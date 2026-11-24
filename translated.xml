@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 15:52:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 16:07:54 GMT</lastBuildDate>
+    <item>
+      <title>Gemini 如何為金州勇士隊的組織和球迷帶來改變。</title>
+      <link>https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</link>
+      <guid isPermaLink="false">https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>Google Gemini 與金州勇士隊合作，為 Warriors、Valkyries 和 Chase Center 提供球迷體驗與營運支援。請看新聞。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp" alt=""></p><p>Google Gemini 與金州勇士隊合作，為 Warriors、Valkyries 和 Chase Center 提供球迷體驗與營運支援。請看新聞。</p>]]></content:encoded>
+    </item>
     <item>
       <title>印度的獨立電影製作人用 Google Flow 讓大銀幕故事栩栩如生。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/</link>
@@ -305,16 +317,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp" alt=""></p><p>透過 Tool Retrieval，讓你的代理程式可以存取數百種工具，同時使用更少的 token；現已在 Gemini API 中開放預覽。</p>]]></content:encoded>
     </item>
     <item>
-      <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
-      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
+      <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
       <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" alt=""></p><p>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</p>]]></content:encoded>
+      <description>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
     </item>
     <item>
       <title>打造策略性的 A/B 測試，提升廣告成效。</title>
@@ -327,6 +339,30 @@
       <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
       <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp"/>
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/S2E7_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>透過專家級 A/B 測試策略提升您的 Google Ads 成效。掌握 AI Max 實驗與智慧出價，閱讀我們的最新指南。立即收聽。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>Genie 4 現已可在 Gemini API 使用。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
+    </item>
+    <item>
+      <title>華特・艾薩克森談 AI 時代的好奇心與創造力。</title>
+      <link>https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/</guid>
+      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp" alt=""></p><p>華特・艾薩克森加入 Google，討論歷史上最偉大的創新者如何在 AI 時代啟發創造力與人類判斷。觀看這一集。</p>]]></content:encoded>
     </item>
     <item>
       <title>追蹤與購買潔淨能源的更聰明方式</title>
@@ -353,30 +389,6 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp" alt=""></p><p>看看四家小型企業如何使用搭載 Gemini 的 Google Workspace 減少雜務、節省數千美元，並以自己的方式成長。</p>]]></content:encoded>
     </item>
     <item>
-      <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>Genie 4 現已可在 Gemini API 使用。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
-      <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
-    </item>
-    <item>
       <title>看看部分來自 Google Flow 和 Flow Music Sessions 藝術家的作品</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/</link>
       <guid isPermaLink="false">https://blog.google/innovation-and-ai/models-and-research/google-labs/flow-and-flow-music-session-artists/</guid>
@@ -396,18 +408,6 @@
       <source url="https://www.apple.com/newsroom/rss-feed.rss">Apple Newsroom</source>
       <dc:creator>Apple Newsroom</dc:creator>
       <description>Apple 與 F1 ACADEMY™ 今天宣布，這項全女性賽車系列將自 2027 年起在美國的 Apple TV 上串流播放。</description>
-    </item>
-    <item>
-      <title>以正確的方式打造：在 The Dalles 20 年的經驗教訓</title>
-      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/the-dalles-data-center-20-years/</guid>
-      <pubDate>Thu, 19 Nov 2026 15:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>我們在俄勒岡州 The Dalles 的第一座資料中心滿 20 年了，我們回顧這段歷程，並宣布對當地社區的新投資。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/the-dalles-exterior_hero.max-600x600.format-webp.webp" alt=""></p><p>我們在俄勒岡州 The Dalles 的第一座資料中心滿 20 年了，我們回顧這段歷程，並宣布對當地社區的新投資。</p>]]></content:encoded>
     </item>
     <item>
       <title>佳節串流與省荷包：GeForce NOW Black Friday 優惠登場</title>
