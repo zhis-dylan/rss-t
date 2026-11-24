@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Tue, 24 Nov 2026 07:48:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 08:04:11 GMT</lastBuildDate>
+    <item>
+      <title>我們正在擴大我們在國王十字的倫敦據點。</title>
+      <link>https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/</link>
+      <guid isPermaLink="false">https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/expanding-london-home-kings-cross/</guid>
+      <pubDate>Tue, 24 Nov 2026 08:00:00 GMT</pubDate>
+      <source url="https://blog.google/rss/">The Keyword</source>
+      <dc:creator>The Keyword</dc:creator>
+      <description>2016 年，我們作為 Knowledge Quarter 的創始居民來到國王十字。今天，我們宣布計畫購買 6 Pancras Square。與 Central Saint…</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_23_November_2026_at_.max-600x600.format-webp_kp5WWPC.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_23_November_2026_at_.max-600x600.format-webp_kp5WWPC.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Untitled_-_23_November_2026_at_.max-600x600.format-webp_kp5WWPC.webp" alt=""></p><p>2016 年，我們作為 Knowledge Quarter 的創始居民來到國王十字。今天，我們宣布計畫購買 6 Pancras Square。與 Central Saint…</p>]]></content:encoded>
+    </item>
     <item>
       <title>在英國推出 Muse：由你掌控的個人 AI 助理</title>
       <link>https://about.fb.com/news/2026/11/introducing-muse-in-the-uk-a-personal-ai-agent-you-control/</link>
@@ -281,16 +293,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Tool_retrieval_hero.max-600x600.format-webp.webp" alt=""></p><p>透過 Tool Retrieval，讓你的代理程式可以存取數百種工具，同時使用更少的 token；現已在 Gemini API 中開放預覽。</p>]]></content:encoded>
     </item>
     <item>
-      <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
-      <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
+      <title>Genie 4 現已可在 Gemini API 使用。</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
       <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
+      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
     </item>
     <item>
       <title>打造策略性的 A/B 測試，提升廣告成效。</title>
@@ -341,16 +353,16 @@
       <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2096x1182px_4_1.max-600x600.format-webp.webp" alt=""></p><p>看看四家小型企業如何使用搭載 Gemini 的 Google Workspace 減少雜務、節省數千美元，並以自己的方式成長。</p>]]></content:encoded>
     </item>
     <item>
-      <title>Genie 4 現已可在 Gemini API 使用。</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</link>
-      <guid isPermaLink="false">https://blog.google/innovation-and-ai/technology/developers-tools/genie-4-in-gemini-api/</guid>
+      <title>讓 Gemini 在你的 Mac 上處理重複性的雜事</title>
+      <link>https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</link>
+      <guid isPermaLink="false">https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/</guid>
       <pubDate>Thu, 19 Nov 2026 17:00:00 GMT</pubDate>
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
-      <description>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_4_Social_Share.max-600x600.format-webp.webp" alt=""></p><p>在 Google Gemini API 上使用 Genie 4 建立互動式 720p 世界。生成具備原生音訊與即時控制的連貫環境。立即開始。</p>]]></content:encoded>
+      <description>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</description>
+      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
+      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp"/>
+      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_header_CU_copy.max-600x600.format-webp.webp" alt=""></p><p>Mac 版 Gemini 應用程式現在具備電腦操作功能，能協助你處理重複性工作。</p>]]></content:encoded>
     </item>
     <item>
       <title>看看部分來自 Google Flow 和 Flow Music Sessions 藝術家的作品</title>
@@ -418,18 +430,6 @@
       <source url="https://blog.google/rss/">The Keyword</source>
       <dc:creator>The Keyword</dc:creator>
       <description>我們正與 Blue Origin 合作，進行 Project Suncatcher 的首次重型發射。這是我們長期的登月計畫，目標是透過利用……在太空中擴展 AI 基礎設施。</description>
-    </item>
-    <item>
-      <title>Google 對當地社群的水資源管理承諾</title>
-      <link>https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/</link>
-      <guid isPermaLink="false">https://blog.google/company-news/outreach-and-initiatives/sustainability/new-water-stewardship-commitments/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:00:00 GMT</pubDate>
-      <source url="https://blog.google/rss/">The Keyword</source>
-      <dc:creator>The Keyword</dc:creator>
-      <description>了解我們新的水資源管理承諾、倡議，以及最近的 Water Replenishment Projects 資訊徵詢。</description>
-      <media:content url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp" medium="image" type="image/webp" width="540" height="540"/>
-      <media:thumbnail url="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp"/>
-      <content:encoded><![CDATA[<p><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Water_commitment_hero_social.max-600x600.format-webp.webp" alt=""></p><p>了解我們新的水資源管理承諾、倡議，以及最近的 Water Replenishment Projects 資訊徵詢。</p>]]></content:encoded>
     </item>
     <item>
       <title>OpenAI 的 Performance Factory 如何讓 ChatGPT 保持快速</title>
