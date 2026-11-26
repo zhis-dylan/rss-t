@@ -5,7 +5,19 @@
     <link>https://zhis-dylan.github.io/rss-t/translated.xml</link>
     <description>多來源 RSS 的繁體中文（台灣）翻譯</description>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 26 Nov 2026 13:58:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 14:13:18 GMT</lastBuildDate>
+    <item>
+      <title>為遊戲而來，為社群而留，GeForce NOW 如此精彩</title>
+      <link>https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/</link>
+      <guid isPermaLink="false">https://blogs.nvidia.com/blog/geforce-now-thursday-community-war-thunder-reward/</guid>
+      <pubDate>Thu, 26 Nov 2026 14:00:22 GMT</pubDate>
+      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
+      <dc:creator>NVIDIA Newsroom</dc:creator>
+      <description>好遊戲會把人們聚在一起。這個 GFN Thursday，GeForce NOW 正在向那些讓每一場遊戲都值得分享的成員、創作者和社群版主致意。從線上大廳裡建立的友誼，到在日常裝置上探索全新世界，GeForce NOW 大使們分享了他們喜愛雲端遊戲的原因。那些準備好找到自己 […]</description>
+      <media:content url="https://iprsoftwaremedia.com/219/files/202611/5d1a7491dadde968b236692b03969385/6b083b8e3d63328113c8523b_GFN_Thursday-November_26-842x450/GFN_Thursday-November_26-842x450_thmb.jpg?v=9c53d69a-1d4d-46fa-8b78-b16faacea967" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/5d1a7491dadde968b236692b03969385/6b083b8e3d63328113c8523b_GFN_Thursday-November_26-842x450/GFN_Thursday-November_26-842x450_thmb.jpg?v=9c53d69a-1d4d-46fa-8b78-b16faacea967"/>
+      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/5d1a7491dadde968b236692b03969385/6b083b8e3d63328113c8523b_GFN_Thursday-November_26-842x450/GFN_Thursday-November_26-842x450_thmb.jpg?v=9c53d69a-1d4d-46fa-8b78-b16faacea967" alt=""></p><p>好遊戲會把人們聚在一起。這個 GFN Thursday，GeForce NOW 正在向那些讓每一場遊戲都值得分享的成員、創作者和社群版主致意。從線上大廳裡建立的友誼，到在日常裝置上探索全新世界，GeForce NOW 大使們分享了他們喜愛雲端遊戲的原因。那些準備好找到自己 […]</p>]]></content:encoded>
+    </item>
     <item>
       <title>我們推出 Humanity’s First Exam 和一場 Kaggle 黑客松，來測試大型語言模型的可靠性。</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/</link>
@@ -1108,18 +1120,6 @@
       <media:content url="https://iprsoftwaremedia.com/219/files/202611/40e6822d3e59526b227f38a356e88502/6af958f13d6332343c233577_ibm-nvidia-fermilab/ibm-nvidia-fermilab_thmb.jpg?v=013b8ce3-bbf0-4795-a9b5-284c46b0f175" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/40e6822d3e59526b227f38a356e88502/6af958f13d6332343c233577_ibm-nvidia-fermilab/ibm-nvidia-fermilab_thmb.jpg?v=013b8ce3-bbf0-4795-a9b5-284c46b0f175"/>
       <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/40e6822d3e59526b227f38a356e88502/6af958f13d6332343c233577_ibm-nvidia-fermilab/ibm-nvidia-fermilab_thmb.jpg?v=013b8ce3-bbf0-4795-a9b5-284c46b0f175" alt=""></p><p>NVIDIA 今日宣布，將與 IBM 及美國能源部的費米國家加速器實驗室展開新的合作，範圍涵蓋對下一代量子電腦模組化架構、科學應用與超級運算整合的研究。</p>]]></content:encoded>
-    </item>
-    <item>
-      <title>NVIDIA 擴充 Vera CPU 平台，以加速科學發現</title>
-      <link>https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery</link>
-      <guid isPermaLink="false">https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery</guid>
-      <pubDate>Mon, 16 Nov 2026 16:00:00 GMT</pubDate>
-      <source url="https://nvidianews.nvidia.com/rss.xml">NVIDIA Newsroom</source>
-      <dc:creator>NVIDIA Newsroom</dc:creator>
-      <description>NVIDIA 今日宣布 NVIDIA Vera CPU 機櫃級平台，用於高效能運算——結合 NVIDIA 首款全客製化資料中心 CPU 與 HPC 網路的黃金標準，以極致效率與吞吐量推動最先進的科學建模、模擬與 agentic science。</description>
-      <media:content url="https://iprsoftwaremedia.com/219/files/202611/52681341f671bc3c34a4329aa393c846/6af8c0083d63329aad233567_nvidia-vera-rack/nvidia-vera-rack_thmb.jpg?v=d8e83da7-e05d-4c1b-9368-96ce3fa2392e" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://iprsoftwaremedia.com/219/files/202611/52681341f671bc3c34a4329aa393c846/6af8c0083d63329aad233567_nvidia-vera-rack/nvidia-vera-rack_thmb.jpg?v=d8e83da7-e05d-4c1b-9368-96ce3fa2392e"/>
-      <content:encoded><![CDATA[<p><img src="https://iprsoftwaremedia.com/219/files/202611/52681341f671bc3c34a4329aa393c846/6af8c0083d63329aad233567_nvidia-vera-rack/nvidia-vera-rack_thmb.jpg?v=d8e83da7-e05d-4c1b-9368-96ce3fa2392e" alt=""></p><p>NVIDIA 今日宣布 NVIDIA Vera CPU 機櫃級平台，用於高效能運算——結合 NVIDIA 首款全客製化資料中心 CPU 與 HPC 網路的黃金標準，以極致效率與吞吐量推動最先進的科學建模、模擬與 agentic science。</p>]]></content:encoded>
     </item>
     <item>
       <title>前沿科學：科學家如何使用 ChatGPT</title>
